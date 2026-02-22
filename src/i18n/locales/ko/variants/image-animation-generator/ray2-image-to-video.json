@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Ray2 Image to Video - KomikoAI",
+      "description": "Ray2 Image to Video를 통해 정지 이미지를 놀랍도록 사실적이고 역동적인 비디오로 변환하십시오. 자연스러운 움직임과 영화 같은 품질을 제공하는 최첨단 AI 비디오 생성 기술을 경험해 보세요.",
+      "keywords": "Ray2, Image to Video, AI 비디오 생성, 사실적인 AI 비디오, AI 애니메이션, 비디오 생성 기술, AI 비디오 도구, Luma AI Ray2"
+    },
+    "hero": {
+      "title": "Ray2 Image to Video",
+      "description": "고급 AI 기술을 활용하여 정지 이미지를 생생하고 사실적인 비디오 시퀀스로 변환합니다. Ray2는 자연스러운 움직임과 정확한 물리 법칙을 기반으로 영화 같은 품질의 비디오를 제공하여 시각 자료를 구현하는 방식을 혁신합니다."
+    },
+    "whatIs": {
+      "title": "Ray2 Image to Video란 무엇입니까?",
+      "description": "Ray2 Image to Video는 Luma Labs에서 개발한 최첨단 AI 비디오 생성 모델입니다. 자연스럽고 일관된 움직임과 매우 사실적인 물리적 상호 작용을 통해 단일 정지 이미지를 역동적인 비디오 시퀀스로 변환합니다. 최첨단 멀티 모달 트랜스포머 아키텍처를 기반으로 구축된 Ray2는 이전 모델보다 10배 더 많은 컴퓨팅 성능을 활용하여 영화 같은 품질의 매끄럽고 즉시 사용 가능한 비디오 결과물을 제공합니다. 이 기술은 시각적 입력과 텍스트 입력을 모두 해석하여 논리적인 이벤트 시퀀스, 정확한 물리 시뮬레이션, 풍부한 디테일을 유지하는 비디오를 생성하므로 엔터테인먼트, 마케팅, 디자인 등 다양한 분야의 애플리케이션에 적합합니다."
+    },
+    "examples": {
+      "title": "Ray2 Image to Video 예시",
+      "description": "엔터테인먼트, 마케팅, 디자인 및 다양한 창의적인 프로젝트에서 Ray2가 정지 이미지를 전문적인 비디오 콘텐츠로 변환하는 사례를 확인해 보십시오."
+    },
+    "howToUse": {
+      "title": "Ray2 Image to Video 사용 방법",
+      "steps": [
+        {
+          "title": "이미지 업로드",
+          "content": "애니메이션으로 만들고자 하는 정지 이미지를 선택하여 업로드합니다. 아트워크, 일러스트레이션, 사진 또는 비디오로 변환하려는 모든 시각적 콘텐츠가 될 수 있습니다."
+        },
+        {
+          "title": "자세한 프롬프트 입력",
+          "content": "AI 애니메이션을 안내하는 설명적인 프롬프트를 제공합니다. 원하는 비디오 내러티브를 생성하는 데 도움이 되도록 움직임, 액션, 장면 세부 정보 또는 카메라 앵글을 지정하십시오."
+        },
+        {
+          "title": "비디오 생성",
+          "content": "생성 버튼을 클릭하여 비디오 생성 프로세스를 시작합니다. Ray2는 이미지와 프롬프트를 처리하여 매끄럽고 사실적인 비디오 시퀀스를 생성합니다."
+        },
+        {
+          "title": "다운로드 및 공유",
+          "content": "비디오가 준비되면 고품질 영화 클립을 다운로드하십시오. 소셜 미디어, 프레젠테이션, 마케팅 캠페인 또는 창의적인 프로젝트에 활용하십시오."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Ray2 Image to Video를 사용하는 이유",
+      "description": "Ray2는 속도, 품질 및 다재다능성을 결합하여 정적인 시각 자료를 생생하게 구현하는 최첨단 AI 비디오 생성 기술로서, 크리에이터와 전문가에게 강력한 기능을 제공합니다.",
+      "features": [
+        {
+          "title": "AI 기반 자연스러운 움직임",
+          "content": "스토리텔링과 참여도를 향상시키는 유연하고 일관된 움직임으로 사실적인 사람, 동물 및 사물의 움직임을 포착합니다.",
+          "icon": "🤖"
+        },
+        {
+          "title": "매우 사실적인 비디오 품질",
+          "content": "놀라운 디테일, 정확한 물리 시뮬레이션 및 영화 같은 시각 효과를 갖춘 최대 1080p 해상도의 비디오를 제공합니다.",
+          "icon": "✨"
+        },
+        {
+          "title": "다재다능한 입력 및 제어",
+          "content": "창의적인 유연성을 위해 사용자 지정 가능한 카메라 앵글, 줌 및 장면 확장을 통해 이미지 및 비디오 입력을 모두 지원합니다.",
+          "icon": "🎥"
+        },
+        {
+          "title": "빠르고 즉시 사용 가능",
+          "content": "높은 성공률로 몇 초 만에 비디오를 생성하여 전문적인 콘텐츠 제작에 즉시 활용할 수 있습니다.",
+          "icon": "⚡"
+        },
+        {
+          "title": "광범위한 산업 분야 적용",
+          "content": "엔터테인먼트, 마케팅, 건축, 교육 및 예술 프로젝트에 적합하며, 몰입감 있고 매력적인 비디오 콘텐츠를 제작할 수 있습니다.",
+          "icon": "🏢"
+        },
+        {
+          "title": "모든 기술 수준에서 사용하기 용이함",
+          "content": "고급 애니메이션 기술이 필요하지 않습니다. 직관적인 프롬프트를 통해 누구나 정지 이미지에서 역동적인 비디오를 쉽게 만들 수 있습니다.",
+          "icon": "👌"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Ray2 Image to Video FAQ",
+      "description": "Ray2로 이미지를 사용하여 멋진 AI 생성 비디오를 만드는 데 필요한 모든 정보를 알아보십시오.",
+      "q1": "Ray2 Image to Video란 무엇입니까?",
+      "a1": "Ray2 Image to Video는 자연스러운 움직임, 사실적인 물리 법칙 및 영화 같은 품질을 특징으로 하는 정지 이미지를 역동적인 비디오 시퀀스로 변환하는 차세대 AI 모델입니다. 광범위한 컴퓨팅 성능으로 훈련된 대규모 멀티 모달 트랜스포머 아키텍처를 사용하여 전문가 수준의 비디오 결과물을 제공합니다.",
+      "q2": "Ray2는 이미지에서 어떻게 비디오를 생성합니까?",
+      "a2": "Ray2는 입력 이미지와 사용자가 제공하는 텍스트 프롬프트를 분석하여 장면 요소, 움직임 및 이벤트를 이해합니다. 사실적인 움직임과 환경 상호 작용을 시뮬레이션하는 연속 프레임을 생성하여 시각적 및 물리적 일관성을 유지하는 일관된 비디오를 제작합니다.",
+      "q3": "어떤 유형의 이미지가 Ray2 Image to Video에서 가장 잘 작동합니까?",
+      "a3": "Ray2는 피사체가 명확하게 정의되고 시각적 세부 정보가 풍부한 선명한 고해상도 이미지에서 가장 뛰어난 성능을 발휘합니다. 특히 움직임을 논리적으로 암시하거나 프롬프트를 통해 창의적으로 안내할 수 있는 아트워크, 사진, 제품 이미지 및 장면에서 효과적입니다.",
+      "q4": "Ray2 비디오를 상업 프로젝트에 사용할 수 있습니까?",
+      "a4": "예, Ray2로 생성된 비디오는 도구의 라이선스 조건에 따라 마케팅, 광고, 엔터테인먼트 및 교육 콘텐츠를 포함하여 개인 및 상업적 용도로 사용할 수 있습니다.",
+      "q5": "Ray2 Image to Video는 어떤 비디오 품질과 길이를 지원합니까?",
+      "a5": "Ray2는 최대 1080p 해상도의 비디오를 출력하며 일반적으로 입력 및 프롬프트 사양에 따라 3~10초 범위의 클립을 생성합니다. 더 긴 프레젠테이션을 위해 비디오를 확장하거나 반복하는 옵션도 제공됩니다.",
+      "q6": "Ray2 Image to Video를 사용하려면 기술 지식이 필요합니까?",
+      "a6": "기술 또는 애니메이션 전문 지식이 필요하지 않습니다. 플랫폼의 직관적인 프롬프트 기반 인터페이스를 통해 사용자는 시각 자료를 업로드하고 원하는 움직임이나 장면을 설명하기만 하면 이미지를 비디오로 쉽게 변환할 수 있습니다.",
+      "q7": "Ray2 Image to Video로 가장 큰 혜택을 얻을 수 있는 산업은 무엇입니까?",
+      "a7": "Ray2는 엔터테인먼트, 마케팅, 건축, 교육 및 예술 분야에서 널리 사용됩니다. 비디오 콘텐츠 제작을 간소화하여 전문가가 시간과 비용을 절약하면서 고품질의 매력적인 비디오 자산을 제작할 수 있도록 지원합니다.",
+      "q8": "Ray2 Image to Video에는 어떤 제한 사항이 있습니까?",
+      "a8": "Ray2는 강력하지만 프레임 간 일관성이 광범위하게 필요한 매우 복잡하거나 고도로 상세한 장면에서는 어려움을 겪을 수 있습니다. 고해상도 입력에는 더 많은 처리 리소스가 필요하며 현재 프롬프트는 영어로만 지원됩니다."
+    }
+  },
+  "originalKeyword": "Ray2 Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "모델: Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky.",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 2,
+      "title": "모델: Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 3,
+      "title": "모델: Ray2",
+      "description": "Prompt: Putting on sun glasses.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_05.mp4"
+    },
+    {
+      "id": 4,
+      "title": "모델: Ray2",
+      "description": "Prompt: Dragon breathing fire.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_11.mp4"
+    },
+    {
+      "id": 5,
+      "title": "모델: Ray2",
+      "description": "Prompt: an explosion with camera shake",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/explosion_camera_shake_185cff.mp4"
+    },
+    {
+      "id": 6,
+      "title": "모델: Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

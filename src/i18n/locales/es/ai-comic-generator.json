@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "Generador de cómics con IA - KomikoAI",
+    "description": "Generador de cómics con IA que te permite crear cómics a partir de ideas sencillas. Crea cómics, mangas y manhwas con la ayuda de la IA usando el generador de cómics con IA de KomikoAI."
+  },
+  "form": {
+    "title": "Generador de cómics con IA",
+    "subtitle": "Transforma tus ideas en cómics, mangas o manhwas cautivadores con la ayuda de la IA. Simplemente introduce tu idea, elige un estilo y deja que el generador de cómics con IA haga el resto.",
+    "idea_label": "Tu idea para el cómic",
+    "idea_placeholder": "Introduce tu idea para el cómic aquí...",
+    "style_label": "Estilo del cómic",
+    "style_placeholder": "Selecciona un estilo de cómic",
+    "styles": {
+      "anime": "Anime",
+      "manga": "Manga",
+      "manhwa": "Manhwa",
+      "american": "Estadounidense",
+      "cartoon": "Dibujos animados",
+      "realistic": "Realista"
+    },
+    "type_label": "Tipo de cómic",
+    "type_placeholder": "Selecciona un tipo de cómic",
+    "types": {
+      "normal": "Normal",
+      "funny": "Humorístico",
+      "meme": "Meme"
+    },
+    "layout_label": "Diseño del cómic",
+    "mode_label": "Modo de generación",
+    "modes": {
+      "gemini": "Gemini",
+      "gemini_cost": "{{cost}} zaps por viñeta",
+      "flux": "Flux",
+      "flux_cost": "{{cost}} zaps por viñeta"
+    },
+    "narration_checkbox": "Incluir narración",
+    "generate_button": "Generar cómic"
+  },
+  "buttons": {
+    "edit": "Editar",
+    "download": "Descargar",
+    "share": "Compartir"
+  },
+  "preview_alt": "Vista previa del cómic",
+  "preview_text": "Introduce tu idea para el cómic y haz clic en \"Generar\" para crear tu cómic.",
+  "narration": "Narración",
+  "idea_input": {
+    "label": "¿Cuál es tu idea?",
+    "custom_placeholder": "Introduce tu idea y especifica un estilo artístico"
+  },
+  "login_to_generate": "Generar",
+  "edit_button": "Editar",
+  "comics_generated": "Usuarios de KomikoAI han generado {{count}} cómics",
+  "comic_type": {
+    "normal": {
+      "label": "🙂 Normal",
+      "text": "Normal"
+    },
+    "meme": {
+      "label": "🤣 Meme",
+      "text": "Meme"
+    }
+  },
+  "comic_style": {
+    "anime": "Anime",
+    "american": "Estadounidense",
+    "manga": "Manga",
+    "manhwa": "Manhwa",
+    "custom": "Personalizado"
+  },
+  "seo": {
+    "main_heading": "¿Qué es un generador de cómics con IA?",
+    "main_description": "Un generador de cómics con IA es una herramienta impulsada por IA que permite a los creadores transformar ideas en cómics, mangas y memes cautivadores con el mínimo esfuerzo. Tanto si eres un artista como un entusiasta de la narración, convierte tu imaginación en realidad con imágenes y narraciones generadas por IA. Simplemente introduce tu idea, elige un estilo y deja que el generador de cómics con IA de KomikoAI haga el resto. Disfruta de una generación de cómics con IA mejor que la de AI Comic Factory en Hugging Face."
+  },
+  "how_to_use": {
+    "heading": "Cómo usar el generador de cómics con IA",
+    "step1": {
+      "title": "Paso 1: Introduce tu idea",
+      "content": "Introduce un concepto, idea o inspiración para un meme. Escribe una frase sencilla o describe tu historia en detalle."
+    },
+    "step2": {
+      "title": "Paso 2: Personaliza tu estilo",
+      "content": "Elige entre estilos como cómic, anime, cómic estadounidense, o personaliza tu propio estilo artístico."
+    },
+    "step3": {
+      "title": "Paso 3: Generación con IA",
+      "content": "Haz clic en el botón \"Generar cómic\". Espera a que el generador de cómics con IA de KomikoAI cree los paneles, las ilustraciones, los bocadillos de diálogo y la narración basándose en tu aportación. Tu cómic se generará en cuestión de segundos."
+    },
+    "step4": {
+      "title": "Paso 4: Exporta y comparte",
+      "content": "Descarga obras de arte de cómics de alta calidad para compartirlas en las redes sociales o utilizarlas en proyectos personales."
+    }
+  },
+  "why_use": {
+    "heading": "¿Por qué usar un generador de cómics con IA para crear cómics?",
+    "description": "El generador de cómics con IA de KomikoAI simplifica la creación de cómics para todos, desde principiantes hasta profesionales, ofreciendo una personalización y accesibilidad inigualables.",
+    "features": {
+      "beginner_friendly": {
+        "title": "Fácil de usar para principiantes",
+        "content": "¿No tienes habilidades de dibujo? ¡No hay problema! Simplemente introduce tu idea y el generador de cómics con IA dibujará tu cómic con un solo clic."
+      },
+      "custom_art": {
+        "title": "Estilos artísticos personalizados",
+        "content": "Elige entre estilos artísticos como cómic estadounidense, manga, manhwa o anime, o personaliza tu propio estilo artístico especificándolo en el prompt."
+      },
+      "amazing_layouts": {
+        "title": "Diseños impresionantes",
+        "content": "Elige entre nuestros diseños de cómics cuidadosamente diseñados para que tu cómic tenga un aspecto increíble. Tu cómic se generará de la forma que deseas."
+      },
+      "tell_story": {
+        "title": "Cuenta tu historia",
+        "content": "La herramienta de creación de cómics con IA de KomikoAI añade automáticamente bocadillos de diálogo, diálogos y narración a tu cómic. Haz que tus personajes hablen y cuenten una historia emocionante."
+      },
+      "ai_efficiency": {
+        "title": "Eficiencia impulsada por la IA",
+        "content": "Ahorra horas de trabajo manual dejando que la IA se encargue de las imágenes, la narración y el diseño."
+      },
+      "high_quality": {
+        "title": "Resultados de alta calidad",
+        "content": "Descarga cómics con calidad de nivel profesional, perfectos para compartir o imprimir."
+      },
+      "creative_freedom": {
+        "title": "Libertad creativa",
+        "content": "Experimenta con ideas, ajusta detalles y perfecciona tu cómic para contar tu historia. ¿No estás satisfecho con tu cómic? Simplemente inténtalo de nuevo en el generador de cómics con IA."
+      },
+      "accessible": {
+        "title": "Accesible en cualquier lugar",
+        "content": "El generador de cómics con IA está basado en la nube, lo que te permite crear cómics en cualquier dispositivo, en cualquier momento y lugar."
+      },
+      "share_comics": {
+        "title": "Comparte tus cómics",
+        "content": "Comparte tus cómics en plataformas de redes sociales como Instagram, Twitter y Facebook. El generador de cómics con IA de KomikoAI también facilita la creación de memes diseñados específicamente para compartir."
+      }
+    }
+  },
+  "faq": {
+    "heading": "Preguntas frecuentes sobre el generador de cómics con IA",
+    "description": "Aprende más sobre cómo funciona el generador de cómics con IA de KomikoAI y sus ventajas.",
+    "edit_after_creation": {
+      "question": "¿Puedo editar el cómic después de que el generador de cómics con IA lo haya creado?",
+      "answer": "¡Sí! Si deseas cambiar la imagen, editar los bocadillos de diálogo o cambiar el diseño del cómic, puedes hacer clic en el botón \"Editar\" en la esquina superior derecha del cómic. Esto te redirigirá a la página de AI Canvas, donde podrás editar el cómic."
+    },
+    "what_is_comic_generator": {
+      "question": "¿Qué es un generador de cómics con IA?",
+      "answer": "Un generador de cómics con IA es una herramienta innovadora que utiliza la IA para generar cómics automáticamente. Introduce tu idea, elige un estilo de cómic y deja que la IA genere un cómic en cuestión de segundos. Simplifica el proceso de creación generando automáticamente imágenes y diálogos basados en tu aportación. Puedes crear todo tipo de historias de cómics, como historias divertidas, historias de aventuras o historias de superhéroes geniales, ¡sin necesidad de dibujar!"
+    },
+    "what_is_manga_generator": {
+      "question": "¿Qué es un generador de manga con IA?",
+      "answer": "Un generador de manga con IA es una herramienta innovadora que utiliza la IA para generar manga automáticamente. Introduce tu idea, elige un estilo de manga y deja que la IA genere un manga en cuestión de segundos. Simplifica el proceso de creación generando automáticamente imágenes y diálogos basados en tu aportación. Puedes crear todo tipo de manga, como shonen, shojo, seinen, isekai, etc."
+    },
+    "what_is_manhwa_generator": {
+      "question": "¿Qué es un generador de manhwa con IA?",
+      "answer": "Un generador de manhwa con IA es una herramienta innovadora que utiliza la IA para generar manhwa automáticamente. Introduce tu idea, elige un estilo de manhwa y deja que la IA genere un manhwa en cuestión de segundos. Simplifica el proceso de creación generando automáticamente imágenes y diálogos basados en tu aportación. Puedes crear todo tipo de manhwa, como acción, romance, comedia, terror, isekai, etc."
+    },
+    "how_to_make_comics": {
+      "question": "¿Cómo se hacen cómics con el generador de cómics con IA?",
+      "answer": "¡Es muy fácil hacer cómics con el generador de cómics con IA! Simplemente introduce una idea para un cómic y el generador de cómics con IA convertirá tu idea en un cómic increíble. También añadirá automáticamente bocadillos de diálogo y organizará los paneles de tu cómic."
+    },
+    "how_it_works": {
+      "question": "¿Cómo funciona el generador de cómics con IA?",
+      "answer": "Simplemente introduce tu idea o concepto, elige un estilo artístico (anime, manga o un estilo personalizado) y deja que la IA de KomikoAI cree una tira cómica completamente diseñada. La IA analiza tu aportación, generando imágenes detalladas y diálogos atractivos para cada panel."
+    },
+    "art_styles": {
+      "question": "¿Qué estilos artísticos se admiten?",
+      "answer": "KomikoAI admite una variedad de estilos, incluyendo anime, manga, cómic estadounidense y estilos artísticos personalizados basados en tu prompt."
+    },
+    "what_comics_can_i_generate": {
+      "question": "¿Qué tipo de cómics puedo generar con el generador de cómics con IA?",
+      "answer": "Puedes generar cualquier tipo de cómic, manga o manhwa. Historias de superhéroes, anime japonés, isekai, regresión, shonen, shojo, seinen, cualquier historia que puedas imaginar. ¡El generador de cómics con IA puede ayudarte a hacer realidad tus ideas!"
+    },
+    "commercial_use": {
+      "question": "¿Puedo usar los cómics generados para fines comerciales?",
+      "answer": "¡Sí! Los cómics creados con KomikoAI pueden utilizarse para fines personales o comerciales, sujetos a nuestros términos de servicio."
+    },
+    "need_drawing_skills": {
+      "question": "¿Necesito saber dibujar para usar el generador de cómics con IA?",
+      "answer": "¡Absolutamente no! El generador de cómics con IA de KomikoAI está diseñado para todos, desde artistas profesionales hasta principiantes completos. Simplemente trae tus ideas y el generador de cómics con IA se encargará del resto."
+    },
+    "for_memes": {
+      "question": "¿Puedo usar el generador de cómics con IA para crear memes?",
+      "answer": "¡Por supuesto! El generador de cómics con IA de KomikoAI es perfecto para crear memes divertidos y virales. Simplemente selecciona el modo \"Meme\" y deja que la IA haga el trabajo."
+    },
+    "is_free": {
+      "question": "¿Es gratis usar el generador de cómics con IA?",
+      "answer": "KomikoAI ofrece un plan gratuito con zaps (créditos) limitados. Para obtener más funciones y límites de uso más altos, consulta nuestros planes de precios."
+    },
+    "share_online": {
+      "question": "¿Puedo compartir mis cómics en línea?",
+      "answer": "Sí, puedes descargar tus cómics y compartirlos en plataformas de redes sociales como Instagram, Twitter y Facebook. KomikoAI también facilita la creación de memes diseñados específicamente para compartir."
+    },
+    "custom_art_styles": {
+      "question": "¿Puedo crear estilos artísticos personalizados con el generador de cómics con IA?",
+      "answer": "Sí, con el modo personalizado de KomikoAI, puedes especificar tus propios estilos artísticos, combinaciones de colores y detalles visuales para crear cómics únicos adaptados a tu visión."
+    },
+    "title": "Preguntas frecuentes"
+  },
+  "examples": {
+    "title": "Ejemplos de cómics"
+  },
+  "auto_post": "Publicación automática",
+  "date": {
+    "today": "Hoy",
+    "yesterday": "Ayer"
+  }
+}

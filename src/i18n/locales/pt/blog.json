@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Blog KomikoAI | Crie histórias em quadrinhos, manhwa, mangá e anime com IA",
+    "description": "Crie quadrinhos, webtoons e histórias visuais com IA. Desenhe personagens originais e explore mundos de histórias infinitas.",
+    "blog_post": "Artigo do Blog",
+    "keywords": {
+      "general": "HQs com IA, mangá, anime, criação de personagens, webtoon, arte gerada por IA, gerador de quadrinhos, criador de mangá",
+      "base_tags": [
+        "IA",
+        "quadrinhos",
+        "mangá",
+        "anime",
+        "criação de personagens",
+        "webtoon"
+      ]
+    }
+  },
+  "navigation": {
+    "see_all_posts": "Ver todos os artigos"
+  },
+  "article": {
+    "published_on": "Publicado em",
+    "min_read": "min de leitura",
+    "view_article": "Ler Artigo"
+  },
+  "sections": {
+    "latest_post": "Artigo Mais Recente",
+    "all_posts": "Todos os Artigos"
+  }
+}

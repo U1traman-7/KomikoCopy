@@ -1,0 +1,212 @@
+{
+  "ui": {
+    "title": "Image Playground：轉換為動漫、漫畫、韓漫或連環畫",
+    "infoTooltip": "支援拖放上傳照片、3D 渲染圖、漫畫分格、草圖等。",
+    "styleSelection": {
+      "label": "選擇藝術風格"
+    },
+    "styleModes": {
+      "templates": "Templates",
+      "prompt": "Prompt",
+      "expression": "Expressions"
+    },
+    "prompt": {
+      "placeholder": "Describe your desired style transformation...",
+      "example": "Example: \"Replace the man with Naruto\", \"Turn this into a classic 90s anime style\", \"Dress the girl in a floral dress\""
+    },
+    "button": {
+      "convert": "轉換",
+      "zaps": "-{{cost}}/{{credit}}"
+    },
+    "results": {
+      "title": "您的 AI 動漫、漫畫、漫畫 & 網路漫畫轉換",
+      "empty": "轉換後的作品將顯示在此處。 立即生成令人驚豔的動漫、漫畫、漫畫和網路漫畫藝術！"
+    },
+    "deleteModal": {
+      "title": "刪除作品",
+      "message": "您確定要刪除此圖像嗎？ 此操作無法撤銷。",
+      "cancel": "取消",
+      "delete": "刪除"
+    },
+    "toast": {
+      "fetchFailed": "載入圖像失敗。 請檢查您的網路並重試。",
+      "deleteSuccess": "作品刪除成功。",
+      "deleteFailed": "刪除失敗。 請重試。",
+      "downloadFailed": "下載失敗。 請刷新並重試。",
+      "purchaseZaps": "請購買更多 zaps 以繼續。",
+      "conversionDone": "AI 藝術轉換完成！",
+      "conversionFailed": "轉換失敗。 請重試。",
+      "noZaps": "zaps 不足",
+      "generateFailed": "生成動畫失敗。",
+      "mediaReceived": "圖像已上傳，準備好進行轉換。"
+    },
+    "errors": {
+      "generateImageFailed": "圖像生成失敗。 嘗試其他輸入。",
+      "resourceExhausted": "資源使用已耗盡。 請升級您的方案。"
+    },
+    "styles": {
+      "anime": "動漫",
+      "ghibliAnime": "吉卜力動畫",
+      "koreanManhwa": "韓國漫畫",
+      "cartoon": "卡通",
+      "manga": "漫畫",
+      "inkWash": "水墨畫",
+      "chibi": "Q 版貼圖",
+      "spriteSheet": "精靈圖",
+      "simpsons": "辛普森家庭",
+      "rickAndMorty": "瑞克和莫蒂",
+      "southPark": "南方公園",
+      "naruto": "火影忍者",
+      "onePiece": "航海王",
+      "myLittlePony": "彩虹小馬",
+      "actionFigure": "動作人偶",
+      "figureInBox": "盒裝人偶",
+      "sticker": "貼圖",
+      "watercolor": "水彩",
+      "lineArt": "線稿",
+      "origamiPaperArt": "摺紙藝術",
+      "lego": "樂高",
+      "lowPoly": "低多邊形",
+      "clay": "黏土動畫",
+      "pixelArt": "像素藝術",
+      "vaporwave": "蒸汽波",
+      "cyberpunk": "賽博龐克",
+      "dollBox": "盒裝人偶 2",
+      "barbieDoll": "芭比娃娃",
+      "characterSheet": "角色設定稿",
+      "plushie": "絨毛玩具",
+      "badge": "徽章",
+      "standee": "立牌",
+      "bodyPillow": "抱枕"
+    },
+    "styleDescriptions": {
+      "anime": "日式動漫，色彩鮮豔、光線動感且富有表現力。",
+      "ghibliAnime": "細緻、充滿奇幻風格，靈感來自吉卜力工作室的標誌性動畫。",
+      "koreanManhwa": "全彩、受網路漫畫啟發的漫畫風格，具有平滑的漸層和戲劇性的分格。",
+      "cartoon": "現代卡通風格，具有粗體輪廓和俏皮的表情。",
+      "manga": "黑白日式漫畫，具有複雜的線條和獨特的分格。",
+      "inkWash": "傳統亞洲水墨畫、柔和的漸層和精緻的筆觸。",
+      "chibi": "可愛、風格化的 Q 版角色，非常適合貼圖、徽章和表情符號。",
+      "simpsons": "經典辛普森家庭外觀：黃色膚色、粗體輪廓和卡通風格。",
+      "rickAndMorty": "著名動畫系列的極具風格化、古怪的外觀。",
+      "southPark": "扁平、簡單的形狀，色彩鮮豔，是對南方公園風格的致敬。",
+      "naruto": "受火影忍者角色設計、調色盤和戲劇性效果啟發的動漫。",
+      "onePiece": "經典航海王漫畫/動漫風格，冒險、充滿活力、獨特的面部特徵。",
+      "myLittlePony": "充滿奇幻風格、柔和和神奇的視覺效果，以彩虹小馬系列為模型。",
+      "actionFigure": "光面 3D 動作人偶藝術，非常適合收藏品和展示模型。",
+      "figureInBox": "像盒裝人偶一樣展示您的藝術作品，為收藏家準備好。",
+      "sticker": "大膽、生動的風格，適合引人注目的動漫/漫畫貼圖和貼花。",
+      "watercolor": "柔和、溫和的水彩畫，呈現出繪畫般的故事書效果。",
+      "lineArt": "乾淨的單色線稿，非常適合漫畫或紋身設計。",
+      "origamiPaperArt": "幾何摺疊、紙張紋理，現代摺紙風格。",
+      "lego": "將角色重新想像成俏皮的樂高迷你人偶。",
+      "lowPoly": "塊狀、多邊形風格，讓人聯想到經典 3D 動畫。",
+      "clay": "黏土動畫外觀，手工製作且觸感良好，懷舊的動畫氛圍。",
+      "pixelArt": "復古像素設計，懷舊、受遊戲啟發的視覺效果。",
+      "vaporwave": "柔和、霓虹和復古未來主義風格，受蒸汽波啟發。",
+      "cyberpunk": "黑暗、發光、技術驅動的賽博龐克藝術。",
+      "dollBox": "盒裝人偶展示，非常適合模型和收藏品。",
+      "barbieDoll": "時尚的芭比風格數位娃娃，光鮮亮麗。",
+      "characterSheet": "用於動畫/遊戲藝術家的角色設定稿。",
+      "plushie": "柔軟的絨毛玩具風格，適合可愛和擁抱的藝術。",
+      "badge": "圓形徽章風格，非常適合頭像、別針和社交媒體。",
+      "standee": "獨立的剪裁藝術，類似動漫大會商品。",
+      "bodyPillow": "完美格式化為 dakimakura/抱枕的客製化藝術。"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Image Playground - KomikoAI",
+      "description": "這是一個全方位的 AI 創意遊樂場，專為動漫、漫畫藝術生成和無縫風格轉換而設。透過最先進的 AI 技術工具組，您可以輕鬆地將照片、草圖和 3D 渲染生成、轉換和設計成專業級的動漫或漫畫作品。",
+      "keywords": "Image Playground, AI playground, 動漫藝術生成, 漫畫風格轉換, 韓漫漫畫創作, 漫畫風格AI工具, 動漫角色生成器, 漫畫面板創建器, 韓漫上色AI, 網絡漫畫製作, 批量漫畫轉換器, AI動漫頭像生成器, 貼紙藝術生成器, 漫畫面板動畫, 插畫風格轉移, 動畫準備資產, AI驅動的漫畫工具包, 創意AI工作室, 數字動漫藝術平台"
+    },
+    "hero": {
+      "title": "Image Playground"
+    },
+    "whatIs": {
+      "title": "什麼是 Image Playground?",
+      "description": "Image Playground 是 KomikoAI 一站式的創意平台，由 Nano Banana 提供支持。只需一鍵，即可將您的角色和圖像轉換為動漫、漫畫、3D、Q版貼紙等100多種有趣的範本！我們的先進人工智慧模型會分析您的輸入並應用真實的藝術風格，同時保留構圖和情感。這是藝術家、創作者和動漫愛好者探索多樣藝術風格的理想選擇。"
+    },
+    "examples": {
+      "title": "Image Playground 示例",
+      "description": "看看 Image Playground 如何僅需一鍵就能將圖像轉換為令人驚嘆的動漫、漫畫、韓漫和連環畫風格。"
+    },
+    "howToUse": {
+      "title": "如何使用 Image Playground",
+      "steps": [
+        {
+          "title": "上傳照片、渲染圖或藝術品",
+          "content": "上傳您的源材料（JPG、PNG、WEBP照片、3D渲染圖、角色插畫、漫畫/連環畫面板或手繪草圖）。Image Playground 將分析構圖、結構和視覺風格，以獲得最佳轉換效果。"
+        },
+        {
+          "title": "選擇並自定義藝術風格",
+          "content": "從數十種動漫、漫畫、韓漫、卡通、網絡漫畫和數字藝術風格中選擇，如墨線、賽璐璐著色、水彩、像素藝術或Q版。自定義調色板、線條粗細等以符合您的想法。"
+        },
+        {
+          "title": "即時AI驅動的風格轉換",
+          "content": "讓強大的AI模型自動應用真實的動漫、漫畫或連環畫風格。使用經過訓練的先進神經網絡預覽並轉換您的圖像，這些網絡基於多樣的藝術風格和視覺內容。"
+        },
+        {
+          "title": "下載、分享和管理創作",
+          "content": "下載您的高分辨率藝術品，可以打印、進行數字漫畫出版或分享至社交媒體。使用直觀的管理工具組織資源，創建網絡漫畫集、貼紙包或角色表。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼選擇使用 Image Playground?",
+      "description": "Image Playground 提供最先進的風格轉換，具有廣泛的自定義選項和專業品質的輸出。",
+      "features": [
+        {
+          "title": "🎨 高級 AI 風格轉換",
+          "content": "業界領先的神經網路，適用於動漫、漫畫、漫畫、網路漫畫和卡通風格。 實現高品質的風格轉換，保留您藝術的構圖和情感，同時添加正宗的線條藝術、賽璐珞陰影和色彩效果。",
+          "icon": "🎨"
+        },
+        {
+          "title": "🗂️ 高效的圖像處理",
+          "content": "輕鬆上傳、轉換和管理圖像、角色設定稿、漫畫分格或作品。 專為簡化工作流程和方便性而設計。",
+          "icon": "🗂️"
+        },
+        {
+          "title": "💎 高解析度、專業品質輸出",
+          "content": "下載清晰、高品質的 PNG、JPG 或 WEBP 高解析度圖像，非常適合專業漫畫製作、印刷、數位出版或動畫資產。",
+          "icon": "💎"
+        },
+        {
+          "title": "🖌️ 多樣化的 AI 藝術風格 & 自定義",
+          "content": "探索大量 AI 驅動的風格：動漫、漫畫、漫畫、卡通、Q 版、動作人偶、像素藝術等。 完全自訂您的輸出，以符合您的創意願景。",
+          "icon": "🖌️"
+        },
+        {
+          "title": "🚀 隨時掌握最新趨勢",
+          "content": "不斷更新新的 AI 模型，反映動漫、漫畫、漫畫和數位漫畫的當前趨勢。 您的作品始終處於流行藝術風格的最前沿。",
+          "icon": "🚀"
+        },
+        {
+          "title": "🤝 資產管理 & 社群協作",
+          "content": "安全地儲存、組織和分享您的動漫和漫畫藝術。 加入協作創意專案，或向熱情的動漫、漫畫和漫畫創作者社群展示您的作品。",
+          "icon": "🤝"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Image Playground 常見問題",
+      "description": "您需要了解的一切，關於使用我們最先進的 AI 驅動創意遊樂場，從您的照片或作品中生成動漫、漫畫、漫畫、貼紙和動畫資產。",
+      "q1": "Image Playground 支持哪些圖像格式？",
+      "a1": "支援輸入格式 JPG、PNG 和 WEBP，並具有高解析度 PNG 和 JPG 輸出，非常適合漫畫、網路漫畫和可印刷作品。",
+      "q2": "AI 可以處理不同的動畫、漫畫和漫畫風格嗎？",
+      "a2": "可以！ 這個遊樂場的 AI 模型經過訓練，適用於各種藝術風格：日本動漫、經典漫畫、全彩漫畫、網路漫畫、Q 版貼紙、賽璐珞陰影漫畫、像素藝術等等。",
+      "q3": "AI 的風格轉換有多準確？",
+      "a3": "由於在各種藝術風格上訓練的先進神經網路，我們的 AI 為動漫、漫畫和漫畫提供高度準確的風格轉換，從而產生正宗、高品質的結果。",
+      "q4": "該平台適合專業藝術家或工作室嗎？",
+      "a4": "是的——專業級輸出、高效處理、可自訂的工作流程和高解析度下載，使其非常適合專業漫畫創作者、漫畫家、動畫工作室和獨立插畫家。",
+      "q5": "還有哪些其他創意功能可用？",
+      "a5": "除了動漫轉換之外，還可以生成貼紙、角色設定稿、頭像、背景、精靈圖、漫畫分格、動作人偶等等。 使用集成的資產工具和社群功能，管理和分享您的作品。"
+    },
+    "cta": {
+      "title": "立即開始使用 Image Playground 創作！",
+      "description": "Transform your images into stunning anime, manga, and comic art with our advanced AI technology.",
+      "buttonText": "免費試用 Image Playground"
+    }
+  },
+  "examples": []
+}

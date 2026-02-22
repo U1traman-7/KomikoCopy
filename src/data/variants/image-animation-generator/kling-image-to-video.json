@@ -1,0 +1,143 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Kling Image to Video - AI Video Animation Generator",
+      "description": "Transform your static images into dynamic videos with Kling Image to Video, an AI-powered animation tool designed for creators. Bring your illustrations, comics, and photos to life using advanced AI technology.",
+      "fullDescription": "Kling Image to Video is an advanced AI animation tool that converts still images into engaging videos by simulating natural motion and cinematic effects. Suitable for illustrators, content creators, and animators, this tool uses cutting-edge AI algorithms to generate high-quality video content effortlessly from static visuals.",
+      "keywords": "Kling Image to Video, AI video generator, image to video animation, AI animation tool, video creation from images, dynamic image animation"
+    },
+    "hero": {
+      "title": "Kling Image to Video",
+      "description": "Bring your static images to life by transforming them into dynamic videos with Kling's AI-powered image-to-video technology."
+    },
+    "whatIs": {
+      "title": "What is Kling Image to Video?",
+      "description": "Kling Image to Video is a cutting-edge AI tool that transforms static images into dynamic, high-quality videos by adding realistic motion and animations. It uses deep learning to understand image content, enabling natural movements like flowing water, swaying trees, or character actions while preserving image details. Users simply upload an image, enter animation prompts, and generate smooth videos typically lasting 5 to 10 seconds. Kling AI supports detailed customization like motion styles, effects, and aspect ratios, making it ideal for marketers, content creators, and storytellers seeking quick, professional video content from still images."
+    },
+    "examples": {
+      "title": "Image to Video Examples",
+      "description": "Explore examples of animated videos that demonstrate the type of content you can create using Kling Image to Video, showing how to transform simple illustrations, portraits, and graphics into visually compelling animated videos, enhancing storytelling and engagement."
+    },
+    "howToUse": {
+      "title": "How to Use Kling Image to Video",
+      "steps": [
+        {
+          "title": "Upload Your Static Image",
+          "content": "Start by uploading the image you want to animate, such as artwork, comics, or photos."
+        },
+        {
+          "title": "Write Animation Prompt",
+          "content": "Describe the type of movement, expressions, or effects you want the AI to generate in the video using a text prompt."
+        },
+        {
+          "title": "Generate the Video",
+          "content": "Click the 'Generate Animation' button to let Kling's AI process your image and create a dynamic, high-quality animation."
+        },
+        {
+          "title": "Download and Share Your Creation",
+          "content": "Once your video is ready, download it and share across social media, presentations, or creative projects."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Choose Kling Image to Video?",
+      "description": "Discover the key advantages of using Kling Image to Video to animate your static visuals quickly and effectively.",
+      "features": [
+        {
+          "title": "AI-Powered Animation Creation",
+          "content": "Cutting-edge AI translates still images into fluid, captivating videos, enhancing your creative content effortlessly.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Customizable Motion and Effects",
+          "content": "Control animation style, duration, and visual effects to tailor videos to your specific creative needs.",
+          "icon": "⚙️"
+        },
+        {
+          "title": "No Technical or Animation Skills Needed",
+          "content": "User-friendly interface makes animating images accessible to all creators, regardless of experience.",
+          "icon": "👌"
+        },
+        {
+          "title": "Fast Video Generation",
+          "content": "Turn static images into engaging videos within seconds, saving time compared to manual animation techniques.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Versatile Content Applications",
+          "content": "Ideal for animators, comic artists, marketers, and social media creators to add motion to artwork, photos, and brand visuals.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professional-Grade Video Output",
+          "content": "Produce high-resolution, polished videos suitable for commercial use and diverse digital platforms.",
+          "icon": "✨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Kling Image to Video - Frequently Asked Questions",
+      "description": "Answers to common questions about using Kling AI to convert images into animated videos.",
+      "q1": "What is Kling Image to Video?",
+      "a1": "It is an AI-based tool that transforms static images into dynamic videos by generating smooth animations and cinematic effects using machine learning.",
+      "q2": "How does Kling Image to Video work?",
+      "a2": "Kling analyzes your uploaded image and animation preferences, then creates video frames that mimic natural motion and visual storytelling from a still image.",
+      "q3": "What image types are supported?",
+      "a3": "You can use illustrations, comics, photographs, or graphics to create animated videos with Kling.",
+      "q4": "Do I need prior animation skills to use Kling?",
+      "a4": "No, the tool is designed with an intuitive interface that enables anyone to generate videos without animation experience.",
+      "q5": "Can I use the videos commercially?",
+      "a5": "Yes, videos created with Kling Image to Video are suitable for both personal and commercial projects, following the tool’s usage terms.",
+      "q6": "How customizable are the animations?",
+      "a6": "Users can customize motion style, duration, and visual effects via prompts or settings to tailor animations for their projects."
+    }
+  },
+  "originalKeyword": "Kling Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Kling",
+      "description": "Prompt: A girl is talking to herself peacefully",
+      "videoUrl": "/images/examples/image-animation-generator/output5.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said “cute” using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Midjourney",
+      "description": "Prompt: Ethereal girl with flowing white hair walking gracefully through shallow water, sunlight creating dancing ripples, floating white lilies, gentle water movement with each step, serene forest pond, soft golden lighting",
+      "videoUrl": "/images/pages/midjourney/example6.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A cat turns into a tiger",
+      "videoUrl": "/images/pages/vidu/cat.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 6,
+      "title": "Model: AniSora",
+      "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+      "videoUrl": "/images/pages/anisora/example3.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "KLING_V2"
+}

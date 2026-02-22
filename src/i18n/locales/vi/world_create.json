@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Tạo Thế Giới | KomikoAI",
+  "createWorld": "Tạo Thế Giới Mới",
+  "coverImage": "Ảnh Bìa",
+  "uploadCoverImage": "Tải Ảnh Bìa",
+  "worldName": "Tên Thế Giới",
+  "introduction": "Giới Thiệu ({{length}}/250)",
+  "introductionPlaceholder": "Giới thiệu ngắn gọn về thế giới. Người chơi và nhân vật sẽ trải qua những cuộc phiêu lưu gì? Vui lòng sử dụng '{character}' khi đề cập đến nhân vật.",
+  "storyline": "Cốt Truyện ({{length}}/5000)",
+  "storylinePlaceholder": "Mô tả chi tiết cốt truyện của thế giới. Vui lòng sử dụng '{character}' khi đề cập đến nhân vật và 'người chơi' khi đề cập đến người chơi.",
+  "winningCondition": "Điều Kiện Chiến Thắng ({{length}}/250)",
+  "winningConditionPlaceholder": "Mô tả các điều kiện để người chơi giành chiến thắng.",
+  "rules": "Luật Chơi ({{length}}/5000)",
+  "rulesPlaceholder": "Xác định các luật chơi. Ví dụ: 'Người chơi sẽ vào vai {character},' hoặc '{character} gọi người chơi là \"Lữ Khách\",' hoặc 'Mỗi lời thoại của {character} bắt đầu bằng (Madness: X), với X ban đầu là 100.'",
+  "createWorldButton": "Tạo Thế Giới",
+  "pleaseNote": "Lưu ý:",
+  "nsfwWarning": "Nội dung NSFW công khai bị nghiêm cấm trong cộng đồng KomikoAI. Mọi vi phạm sẽ dẫn đến việc xóa nội dung ngay lập tức và có thể dẫn đến việc cấm vĩnh viễn khỏi nền tảng của chúng tôi. Hãy cùng nhau xây dựng một không gian lành mạnh và an toàn cho tất cả mọi người. 🤗",
+  "errorWorldName": "Vui lòng nhập tên thế giới.",
+  "errorIntroduction": "Vui lòng nhập phần giới thiệu.",
+  "errorStoryline": "Vui lòng nhập cốt truyện.",
+  "errorCoverImage": "Vui lòng tải ảnh bìa.",
+  "errorNSFW": "Nội dung NSFW bị nghiêm cấm trên KomikoAI. Vui lòng giúp chúng tôi duy trì một không gian an toàn và lành mạnh."
+}

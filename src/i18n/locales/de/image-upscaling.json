@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "KI-Bild-Upscaling – KomikoAI",
+    "description": "Verwandeln Sie Ihre Bilder mit dem fortschrittlichen KI-Bild-Upscaler von KomikoAI AI. Unsere KI-gestützte Bildverbesserungstechnologie nutzt Super Resolution, um Ihre Fotos intelligent hochzuskalieren und zu optimieren. Erzielen Sie professionelle Ergebnisse mit überlegener Klarheit und Detailgenauigkeit.",
+    "fullDescription": "Verwandeln Sie Ihre Bilder mit dem fortschrittlichen KI-Bild-Upscaler von KomikoAI AI. Unsere KI-gestützte Bildverbesserungstechnologie nutzt Super Resolution, um Ihre Fotos intelligent hochzuskalieren und zu optimieren. Egal, ob Sie Bilder auf 4K hochskalieren, Rauschen reduzieren oder die Bildqualität verbessern möchten, unser KI-Foto-Enhancer liefert professionelle Ergebnisse mit überlegener Klarheit und Detailgenauigkeit.",
+    "keywords": "KI-Bild-Upscaler, Bildverbesserung, Super Resolution, KI-Foto-Enhancer, 4K-Bild-Hochskalierung, Bildqualitätsverbesserung, Rauschunterdrückung, Bildwiederherstellung, professionelle Bildverbesserung, maschinelles Lernen für Upscaling"
+  },
+  "title": "KI-Bild-Upscaler",
+  "description": "Wandeln Sie Ihre Bilder mit dem fortschrittlichen KI-Bild-Upscaler von KomikoAI AI um. Unsere KI-gestützte Bildverbesserungstechnologie nutzt Super Resolution, um Ihre Fotos, Anime-Bilder und Manga-Inhalte intelligent hochzuskalieren und zu optimieren. Egal, ob Sie Bilder auf 4K hochskalieren, Manhwa-Panels verbessern, hochwertige Anime-Hintergrundbilder erstellen oder die allgemeine Bildqualität verbessern möchten, unser KI-Foto-Enhancer liefert professionelle Ergebnisse mit überlegener Klarheit und Detailgenauigkeit.",
+  "inputImage": "Eingabebild",
+  "scaleFactor": "Skalierungsfaktor",
+  "imageResults": "Bildergebnisse",
+  "resultsPlaceholder": "Die Ergebnisse werden hier angezeigt",
+  "whatIsSection": {
+    "title": "Was ist Bild-Upscaling?",
+    "description": "Bild-Upscaling ist ein Prozess zur Erhöhung der Auflösung eines Bildes. Es ermöglicht, qualitativ hochwertige Bilder mit mehr Details und Klarheit zu erzeugen. KI-Bild-Upscaling ist ein Tool, mit dem Sie Ihre Bilder sofort mit KI hochskalieren können."
+  },
+  "howToSection": {
+    "title": "Wie man Bilder mit dem KI-Bild-Upscaler hochskaliert",
+    "description": "Entdecken Sie, wie der Bild-Upscaler von KomikoAI AI fortschrittliches maschinelles Lernen nutzt, um Ihre Fotos zu verbessern. Unser KI-Foto-Enhancer macht professionelles Bild-Upscaling für jeden zugänglich."
+  },
+  "steps": {
+    "step1": {
+      "title": "Schritt 1: Bild hochladen",
+      "content": "Laden Sie jedes Foto hoch, das Sie mit unserem KI-Bild-Upscaler optimieren möchten. Wir unterstützen die Formate JPG, PNG und WebP."
+    },
+    "step2": {
+      "title": "Schritt 2: Skalierungsfaktor wählen",
+      "content": "Wählen Sie den gewünschten Skalierungsfaktor aus und verbessern Sie die Bildauflösung mit der Super-Resolution-Technologie um das bis zu Zehnfache."
+    },
+    "step3": {
+      "title": "Schritt 3: Bild verarbeiten",
+      "content": "Klicken Sie auf 'Bild hochskalieren', um den KI-Bildverbesserungsprozess zu starten."
+    },
+    "step4": {
+      "title": "Schritt 4: Ergebnis herunterladen",
+      "content": "Laden Sie Ihr optimiertes Foto mit verbesserter Qualität und Auflösung herunter!"
+    }
+  },
+  "examples": {
+    "title": "KI-Bild-Upscaling-Beispiele",
+    "description": "Sehen Sie sich Beispiele für KI-Bildverbesserungsergebnisse an, die von KomikoAI-Benutzern generiert wurden",
+    "inputAlt1": "Beispiel für ein Eingabebild",
+    "inputCaption1": "Beispiel 1 für ein Eingabebild",
+    "outputAlt1": "Beispiel für ein Eingabebild",
+    "outputCaption1": "Ausgabe: 4x hochskaliertes Bild 1",
+    "inputAlt2": "Beispiel für ein Eingabebild",
+    "inputCaption2": "Beispiel 2 für ein Eingabebild",
+    "outputAlt2": "Beispiel für ein Eingabebild",
+    "outputCaption2": "Ausgabe: 4x hochskaliertes Bild 2",
+    "inputAlt3": "Beispiel für ein Eingabebild",
+    "inputCaption3": "Beispiel 3 für ein Eingabebild",
+    "outputAlt3": "Beispiel für ein Eingabebild",
+    "outputCaption3": "Ausgabe: 4x hochskaliertes Bild 3"
+  },
+  "whyChoose": {
+    "title": "Warum unseren KI-Bild-Upscaler wählen?",
+    "description": "Der KI-Bild-Upscaler von KomikoAI wandelt Ihre Fotos mit niedriger Auflösung in beeindruckende, hochwertige Bilder um, die sich perfekt für den persönlichen und professionellen Gebrauch eignen."
+  },
+  "features": {
+    "feature1": {
+      "title": "Fortschrittliche KI-Fotooptimierung",
+      "content": "Unsere Bildqualitätsverbesserungstechnologie liefert außergewöhnliche Ergebnisse, indem sie jedes Detail Ihrer Fotos und Anime-Bilder intelligent analysiert und optimiert."
+    },
+    "feature2": {
+      "title": "Spezialisiertes Anime-Upscaling",
+      "content": "Perfekt für die Erstellung hochwertiger Anime-Hintergrundbilder und das Upscaling von Anime-Charakteren unter Beibehaltung des künstlerischen Stils und der Details."
+    },
+    "feature3": {
+      "title": "Manga-Optimierung",
+      "content": "Verbessern Sie Manhwa- und Manga-Panels mit unserer spezialisierten KI-Bildwiederherstellungstechnologie und erzielen Sie scharfe Linien und klaren Text."
+    },
+    "feature4": {
+      "title": "Überlegene Auflösungsskalierung",
+      "content": "Verwandeln Sie Bilder mit niedriger Auflösung in kristallklare Fotos mit unserem KI-Bildvergrößerer, der eine bis zu 10-fache Hochskalierung unterstützt."
+    },
+    "feature5": {
+      "title": "Intelligente Rauschunterdrückung",
+      "content": "Unsere KI-Bildwiederherstellungstechnologie entfernt automatisch Rauschen und Artefakte und bewahrt gleichzeitig wichtige Details."
+    },
+    "feature6": {
+      "title": "4K-Bild-Upscaling",
+      "content": "Skalieren Sie Bilder mit unseren fortschrittlichen Super-Resolution-Algorithmen auf 4K-Qualität hoch, um professionelle Ergebnisse zu erzielen."
+    }
+  },
+  "guide": {
+    "title": "Vollständige Anleitung zum KI-Bild-Upscaling",
+    "description": "Erfahren Sie alles über die Verbesserung der Bildqualität mit dem Bild-Upscaler von KomikoAI AI. Erhalten Sie Expertenantworten zu unserer auf maschinellem Lernen basierenden Bildverbesserungstechnologie und wie sie Ihre Fotos verändern kann."
+  },
+  "faq": {
+    "question1": "Was ist der KI-Bild-Upscaler von KomikoAI?",
+    "answer1": "Der KI-Bild-Upscaler von KomikoAI ist ein hochmodernes Bildverbesserungstool, das fortschrittliche KI-Technologie verwendet, um die Bildauflösung und -qualität zu erhöhen. Unser KI-Foto-Enhancer wandelt automatisch Bilder von geringer Qualität in kristallklare, hochauflösende Fotos um und bewahrt gleichzeitig natürliche Details und visuelle Wiedergabetreue. Er ist besonders effektiv für das Upscaling von Anime-Bildern, Manga-Panels und digitalen Kunstwerken.",
+    "question2": "Wie funktioniert unsere KI-Bildverbesserung?",
+    "answer2": "Unser KI-Bildvergrößerer verwendet fortschrittliche Modelle für maschinelles Lernen, die auf Millionen von hochwertigen Bildern trainiert wurden, darunter Anime- und Manga-Inhalte. Die KI analysiert jedes Pixel, um die Bildqualität zu verbessern, die Auflösung zu erhöhen und die Gesamtqualität zu optimieren. Diese Super-Resolution-Technologie liefert im Vergleich zu herkömmlichen Upscaling-Methoden überlegene Ergebnisse.",
+    "question3": "Was sind die Vorteile des KI-Bild-Upscalings?",
+    "answer3": {
+      "point1": "Verwandeln Sie Fotos mit niedriger Auflösung in kristallklare 4K-Bilder",
+      "point2": "Verbessern Sie die Bildqualität unter Beibehaltung natürlicher Details",
+      "point3": "Entfernen Sie Bildrauschen und Komprimierungsartefakte",
+      "point4": "Skalieren Sie Bilder mit KI auf bis zu das 10-fache ihrer Originalgröße hoch",
+      "point5": "Perfekt für das Upscaling von Anime-Hintergrundbildern und Manga-Panels"
+    },
+    "question4": "Welche Bildformate werden unterstützt?",
+    "answer4": "Unser KI-Bild-Upscaler funktioniert mit JPG-, PNG- und WebP-Bildern. Mit unserer Bildqualitätsverbesserungstechnologie können Sie Ihre Fotos auf jede Größe verbessern und dabei die Qualität beibehalten.",
+    "question5": "Ist der KI-Bild-Upscaler kostenlos nutzbar?",
+    "answer5": "Beginnen Sie mit der kostenlosen Verbesserung Ihrer Bilder mit den ergänzenden Zaps (Credits) von KomikoAI. Für professionelle Anforderungen an die Bildqualitätsverbesserung bieten unsere kostenpflichtigen Pläne zusätzliche Zaps und Zugriff auf Ausgaben mit höherer Auflösung.",
+    "question6": "Welchen Skalierungsfaktor soll ich wählen?",
+    "answer6": "Wählen Sie 2x für eine gute Qualitätsverbesserung, 4x für Premium-Qualität oder höhere Faktoren für maximale Auflösung. Unsere KI-Bildwiederherstellungstechnologie gewährleistet optimale Ergebnisse bei jedem Skalierungsfaktor.",
+    "question7": "Wie effektiv ist er für das Upscaling von Anime- und Manga-Inhalten?",
+    "answer7": "Unser KI-Bild-Upscaler ist speziell für das Anime-Bild-Upscaling und die Manga-Verbesserung optimiert. Egal, ob Sie Anime-Charaktere hochskalieren, hochauflösende Anime-Hintergrundbilder erstellen oder Manhwa-Panels verbessern möchten, unsere Technologie bewahrt den einzigartigen künstlerischen Stil und verbessert gleichzeitig die Qualität.",
+    "question8": "Kann ich ihn sowohl für Fotos als auch für Anime-/Manga-Inhalte verwenden?",
+    "answer8": "Ja! Unser KI-Foto-Enhancer ist vielseitig genug, um sowohl echte Fotos als auch illustrierte Inhalte zu verarbeiten. Er ist gleichermaßen effektiv bei der Hochskalierung von Fotografien, Anime-Bildern, Manga-Panels und digitaler Kunst und bewahrt gleichzeitig die unterschiedlichen Merkmale der einzelnen Medien.",
+    "question9": "Was unterscheidet KomikoAI AI von anderen Upscalern?",
+    "answer9": "KomikoAI AI kombiniert modernste Super-Resolution-Technologie mit speziellem Training sowohl für fotografische als auch für illustrierte Inhalte. Dies macht ihn besonders effektiv für das Upscaling von Anime-Bildern und Manga und liefert dennoch hervorragende Ergebnisse für normale Fotos.",
+    "question10": "Wie erziele ich die besten Ergebnisse beim Upscaling von Manga- oder Anime-Bildern?",
+    "answer10": "Um mit unserem Bild-Upscaling-Tool die besten Ergebnisse für Manga- oder Anime-Inhalte zu erzielen, empfehlen wir, mit sauberen Quellbildern zu beginnen und für eine optimale Detailerhaltung eine 2- oder 4-fache Hochskalierung zu verwenden. Unsere KI-Bildwiederherstellungstechnologie ist besonders effektiv bei der Aufrechterhaltung der Linienschärfe und Farbgenauigkeit in illustrierten Inhalten."
+  },
+  "deleteModal": {
+    "title": "Löschbestätigung",
+    "message": "Sind Sie sicher, dass Sie dieses Bild löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "cancel": "Abbrechen",
+    "delete": "Löschen"
+  },
+  "toasts": {
+    "deleteSuccess": "Löschen erfolgreich",
+    "deleteFailed": "Löschen fehlgeschlagen",
+    "downloadFailed": "Download fehlgeschlagen",
+    "upscaleSuccess": "Bild-Upscale erfolgreich",
+    "upscaleFailed": "Bild-Upscale fehlgeschlagen",
+    "noZaps": "Bitte kaufen Sie mehr Zaps",
+    "mediaReceived": "Medien erfolgreich empfangen",
+    "purchaseMoreZaps": "Nicht genügend Zaps. Bitte kaufen Sie mehr.",
+    "imageTooLarge": "Oops! Die Bildauflösung ist zu hoch für KomikoAI. Bitte versuchen Sie, ein Bild mit einer geringeren Auflösung hochzuladen."
+  },
+  "upscaleImage": "Bild hochskalieren"
+}

@@ -1,0 +1,438 @@
+{
+  "ui": {
+    "title": "Generator Animasi AI",
+    "tooltip": "Transformasikan gambar statis Anda menjadi animasi menarik dengan Generator Animasi AI",
+    "input": {
+      "title": "Input",
+      "tooltip": "Unggah gambar yang ingin dianimasikan",
+      "prompt": {
+        "label": "Prompt",
+        "placeholder": "Jelaskan bagaimana kamu ingin gambar tersebut dianimasikan..."
+      },
+      "model": {
+        "label": "Model AI",
+        "placeholder": "Pilih model",
+        "ariaLabel": "Pilih model animasi"
+      },
+      "aspectRatio": {
+        "label": "Rasio Aspek",
+        "placeholder": "Pilih rasio aspek"
+      },
+      "duration": {
+        "label": "Durasi",
+        "placeholder": "Pilih durasi",
+        "sections": "{{sections}} detik"
+      },
+      "style": {
+        "label": "Gaya",
+        "placeholder": "Pilih gaya",
+        "anime": "Anime",
+        "default": "Default"
+      },
+      "resolution": {
+        "label": "Resolusi",
+        "placeholder": "Pilih resolusi"
+      },
+      "ratio": "Perbandingan",
+      "addEndFrame": "Tambahkan bingkai akhir",
+      "startFrame": "Frame Mulai",
+      "endFrame": "Frame Akhir",
+      "image": {
+        "title": "Gambar",
+        "description": "Unggah gambar JPG/PNG/WEBP hingga 10MB, dengan lebar/tinggi minimum 300px.",
+        "label": {
+          "required": "Tambah referensi (Wajib)",
+          "optional": "Tambah referensi (Opsional)",
+          "image": "Unggah gambar (Opsional)",
+          "imageRequired": "Harap unggah gambar",
+          "more": "Tambahkan referensi lain (Opsional)",
+          "endFrame": "Tambahkan frame terakhir (Opsional)",
+          "firstFrame": "Frame Pertama"
+        }
+      },
+      "addOC": "Tambah Karakter",
+      "singleOCOnly": "Hanya satu karakter yang diizinkan. Silakan gunakan Vidu Q1 untuk beberapa karakter.",
+      "maxOCsReached": "Maksimal {{max}} karakter yang diizinkan. Hanya Vidu Q1 yang mendukung beberapa karakter.",
+      "config": "Informasi Lanjutan"
+    },
+    "output": {
+      "title": "Hasil Animasi",
+      "empty": {
+        "line1": "Hasil animasimu akan muncul di sini",
+        "line2": "Unggah gambar dan berikan prompt untuk memulai"
+      }
+    },
+    "deleteModal": {
+      "title": "Konfirmasi Penghapusan",
+      "message": "Apakah kamu yakin ingin menghapus animasi ini? Tindakan ini tidak dapat dibatalkan.",
+      "cancelButton": "Batal",
+      "deleteButton": "Hapus"
+    },
+    "toasts": {
+      "deleteSuccess": "Berhasil dihapus",
+      "deleteFailed": "Gagal menghapus",
+      "generateSuccess": "Berhasil Membuat Animasi",
+      "generateFailed": "Gagal Membuat Animasi",
+      "downloadFailed": "Gagal mengunduh",
+      "fetchFailed": "Gagal mengambil video",
+      "noZaps": "Silakan beli lebih banyak zaps",
+      "generatingSticker": "Sedang membuat stiker...",
+      "stickerGenerated": "Stiker berhasil dibuat",
+      "stickerGeneratedFailed": "Gagal membuat stiker",
+      "generatingStickerFailed": "Gagal membuat stiker",
+      "imageTooSmall": "Gambar terlalu kecil. Ukuran minimum adalah 240x240 piksel."
+    },
+    "modelOptions": {
+      "kling": {
+        "name": "Kling 1.6",
+        "description": "Gerakan lebih realistis",
+        "timeCost": "2 menit",
+        "fps": "30fps"
+      },
+      "minimax": {
+        "name": "Hailuo 02",
+        "description": "Output HD dengan konten visual yang kaya",
+        "timeCost": "3 menit",
+        "fps": "25fps"
+      },
+      "ray": {
+        "name": "Luma Ray 2",
+        "description": "Model skala besar untuk visual realistis",
+        "timeCost": "2 menit",
+        "fps": "24fps"
+      },
+      "pixverse": {
+        "name": "PixVerse v3.5",
+        "description": "Gerakan dan koherensi yang ditingkatkan",
+        "timeCost": "2 menit",
+        "fps": "30fps"
+      },
+      "veo": {
+        "name": "Veo3 (Google)",
+        "description": "Kualitas video tertinggi",
+        "timeCost": "1 menit",
+        "fps": "24fps"
+      },
+      "wan": {
+        "name": "Wan 2.6",
+        "description": "Video berkualitas tinggi dengan variasi gerakan yang beragam",
+        "timeCost": "1 menit",
+        "fps": "24 fps"
+      },
+      "wan_pro": {
+        "name": "Wan Pro",
+        "description": "Kualitas visual yang luar biasa dengan variasi gerakan yang beragam",
+        "timeCost": "5 menit",
+        "fps": "30 fps"
+      },
+      "ray_flash_v2": {
+        "name": "Luma Ray Flash 2",
+        "description": "Model skala besar untuk visual yang realistis",
+        "timeCost": "30 detik",
+        "fps": "24 fps"
+      },
+      "kling_v2": {
+        "name": "Kling 2.1",
+        "description": "Gerakan yang lebih nyata",
+        "timeCost": "2 menit",
+        "fps": "30 fps"
+      },
+      "frame_pack": {
+        "name": "FramePack",
+        "description": "Menghasilkan video secara autoregresif",
+        "timeCost": "1 menit",
+        "fps": "30 fps"
+      },
+      "vidu": {
+        "name": "Vidu Q1",
+        "description": "Konsistensi dan animasi 2D yang mulus",
+        "timeCost": "1 menit",
+        "fps": "24 fps"
+      },
+      "vidu_base": {
+        "name": "Anime Komiko",
+        "description": "Menghasilkan animasi dengan biaya yang sangat efektif",
+        "timeCost": "1 menit",
+        "fps": "24 fps"
+      },
+      "anisora": {
+        "name": "AniSora",
+        "description": "Platform sumber terbuka untuk pembuatan video anime",
+        "timeCost": "1 menit",
+        "fps": "30fps"
+      },
+      "magi_1": {
+        "name": "Magi-1",
+        "description": "Pemahaman gerakan fisik & komposisi sinematik",
+        "timeCost": "2 menit",
+        "fps": "24 fps"
+      },
+      "mj_video": {
+        "name": "Pro Anime",
+        "description": "Pilihan terbaik untuk membuat anime dan animasi",
+        "timeCost": "1 menit",
+        "fps": "24 fps"
+      },
+      "seedance": {
+        "name": "Seedance 1.5 Pro",
+        "description": "Model generasi video multi-shot pertama di dunia",
+        "timeCost": "1 menit",
+        "fps": "24 fps"
+      },
+      "sora": {
+        "name": "Sora 2",
+        "description": "Pembuatan video multi-sudut yang menakjubkan dengan audio",
+        "timeCost": "1 menit",
+        "fps": "30 fps"
+      },
+      "sora_pro": {
+        "name": "Sora 2 Pro",
+        "description": "Pembuatan video multi-sudut yang menakjubkan dengan audio",
+        "timeCost": "1 menit",
+        "fps": "30 fps"
+      },
+      "sora_stable": {
+        "name": "Sora 2 Stabil",
+        "description": "Penghasilan video stabil multi-shot dengan audio",
+        "timeCost": "1 menit",
+        "fps": "30 fps"
+      },
+      "sora_pro_stable": {
+        "name": "Sora 2 Pro Stabil",
+        "description": "Penghasilan video berkualitas tinggi yang stabil dengan audio",
+        "timeCost": "1 menit",
+        "fps": "30 fps"
+      },
+      "vidu_q2": {
+        "name": "Vidu Q2",
+        "description": "Animasi gambar ke video yang sangat cepat dan konsisten",
+        "timeCost": "1 menit",
+        "fps": "24 fps"
+      },
+      "vidu_q2_pro": {
+        "name": "Vidu Q2 Pro",
+        "description": "Versi profesional dengan detail lebih baik dan gerakan yang lebih maju",
+        "timeCost": "1 menit",
+        "fps": "24 fps"
+      },
+      "wan_22_turbo": {
+        "name": "Wan 2.2 Turbo",
+        "description": "Nilai terbaik untuk kualitas dan harga",
+        "timeCost": "1 menit",
+        "fps": "24 fps"
+      }
+    },
+    "buttons": {
+      "generateAnimation": "Hasilkan Animasi",
+      "seconds5": "5 detik",
+      "seconds8": "8 detik",
+      "seconds10": "10 detik",
+      "default": "Default",
+      "anime": "Anime",
+      "landscape": "16:9 (Lanskap)",
+      "portrait": "9:16 (Potret)",
+      "square": "1:1 (Persegi)"
+    },
+    "resolutions": {
+      "360p": "360p",
+      "540p": "540p",
+      "720p": "720p",
+      "1080p": "1080p"
+    },
+    "styleModes": {
+      "effect": "Efek",
+      "prompt": "Arahan",
+      "motion": "Gerak",
+      "dance": "Berdansa",
+      "templates": "Templat"
+    },
+    "audio": {
+      "label": "Audio Opsional (MP3/WAV, 3-30 detik, ≤15MB)",
+      "upload": "Unggah",
+      "record": "Rekam",
+      "invalidFormat": "Format audio tidak valid. Harap gunakan MP3 atau WAV",
+      "missing": "Silakan unggah file audio (MP3/WAV)",
+      "durationRange": "Durasi audio harus antara 3 detik dan 30 detik",
+      "processFailed": "Gagal memproses file audio"
+    },
+    "characterName": "Nama Karakter",
+    "characterNamePlaceholder": "Masukkan nama karakter...",
+    "importFromCharacter": "Impor dari Karakter",
+    "characterProfileOptional": "Profil Karakter (Opsional)",
+    "characterProfilePlaceholder": "Nama karakter, kepribadian, tema, dan detail lainnya",
+    "bankaiEffectTitle": "Efek Bankai yang Diinginkan",
+    "bankaiEffectPlaceholder": "Jelaskan efek transformasi Bankai, kemampuan, perubahan visual, dll.",
+    "sec": "detik",
+    "multiShots": {
+      "label": "Multi-shot",
+      "tooltip": "Ketika diaktifkan, video secara cerdas dibagi menjadi beberapa bagian untuk cerita yang lebih baik"
+    },
+    "cameraFixed": {
+      "label": "Kamera Tetap",
+      "tooltip": "Pertahankan posisi kamera tetap selama video berlangsung"
+    }
+  },
+  "seo": {
+    "examples": {
+      "title": "Contoh Generator Animasi AI",
+      "description": "Jelajahi kekuatan Generator Animasi AI kami melalui contoh-contoh menakjubkan ini. Lihat bagaimana teknologi kami mengubah gambar statis menjadi video yang dinamis dan menarik!",
+      "inputAlt": "Contoh Gambar Input",
+      "inputLabel": "Gambar Input",
+      "outputLabel": "Hasil Animasi",
+      "videoNotSupported": "Browser Anda tidak mendukung tag video.",
+      "example1": {
+        "details": "Model: Veo | Prompt: \"Gadis itu menari dan bernyanyi\""
+      },
+      "example2": {
+        "details": "Model: Minimax | Prompt: \"Seorang pria berbicara dengan marah\""
+      },
+      "example3": {
+        "details": "Model: Ray | Prompt: \"Seorang gadis berbicara dengan sedih\""
+      },
+      "example4": {
+        "details": "Model: Kling | Prompt: \"Seorang gadis berbicara pada dirinya sendiri dengan tenang\""
+      },
+      "example5": {
+        "details": "Model: Anime Pro | Prompt: \"Adegan pertarungan bergaya anime. Seorang pejuang muda dengan pedang bercahaya melawan monster iblis besar dengan mata bersinar dan gigi tajam. Pertarungan pedang yang cepat, percikan api, close-up intens. Diakhiri dengan pahlawan menghabisi monster dalam serangan terakhir yang dramatis. Latar belakang gelap, pencahayaan sinematik, partikel bercahaya.\""
+      },
+      "example6": {
+        "details": "Model: Anime Pro | Prompt: \"Seorang anak laki-laki anime tiba-tiba mengeluarkan pistol dan menembak dengan kilatan cahaya, ekspresi serius, sudut kamera dramatis. Dia segera berbalik dan berlari di sepanjang jalan.\""
+      },
+      "example7": {
+        "details": "Model: Anime Pro | Prompt: \"Seorang gadis anime meluncur cepat melalui gang yang diterangi neon pada malam hari, berbelok tajam dengan angin menyapu rambutnya, diikuti dari belakang. Cahaya neon memantul di trotoar basah saat ia melewati gang sempit.\""
+      },
+      "example8": {
+        "details": "Model: Anime Pro | Prompt: \"Adegan pertarungan bergaya anime. Seorang pejuang muda dengan pedang bercahaya melawan monster iblis besar dengan mata bersinar dan gigi tajam. Pertarungan pedang yang cepat, percikan api, close-up intens. Diakhiri dengan pahlawan menghabisi monster dalam serangan terakhir yang dramatis. Latar belakang gelap, pencahayaan sinematik, partikel bercahaya.\""
+      }
+    },
+    "meta": {
+      "title": "Generator Animasi AI - KomikoAI",
+      "description": "Ubah gambar statis menjadi animasi menarik dengan Generator Animasi AI kami. Dengan teknologi canggih, buat video anime, manga, dan komik yang dinamis dengan mudah dalam hitungan menit.",
+      "keywords": "generator animasi AI, generator anime AI, video animasi AI, gambar ke animasi, generator animasi anime, pembuat animasi manga, alat animasi AI, menghasilkan animasi dari gambar, generator video AI, pembuat video animasi"
+    },
+    "hero": {
+      "title": "Generator Animasi AI",
+      "description": "Transformasikan gambar statis menjadi animasi menarik dengan Generator Animasi AI kami yang handal. Ciptakan video anime, manga, dan komik yang menakjubkan tanpa usaha. Teknologi animasi AI canggih kami menganalisis karya seni Anda dan menghasilkan animasi dinamis berkualitas profesional dalam hitungan menit."
+    },
+    "whatIs": {
+      "title": "Apa itu Generator Animasi AI?",
+      "description": "Generator Animasi AI adalah alat cerdas yang secara otomatis membuat animasi menakjubkan dari gambar statis Anda. Alat kami menggunakan algoritma pembelajaran mendalam canggih untuk menghidupkan karya seni anime, manga, dan komik, memungkinkan siapa saja untuk membuat animasi profesional tanpa memerlukan keahlian teknis atau pengalaman dalam animasi."
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Generator Animasi AI",
+      "steps": [
+        {
+          "title": "Unggah Gambarmu",
+          "content": "Unggah gambar yang ingin kamu animasikan. Baik itu karakter anime, panel manga, atau ilustrasi komik, AI kami dapat menghidupkannya."
+        },
+        {
+          "title": "Masukkan Prompt",
+          "content": "Berikan prompt untuk memandu animasi. Jelaskan gerakan, ekspresi, atau tindakan yang ingin dihasilkan oleh AI."
+        },
+        {
+          "title": "Hasilkan Animasi",
+          "content": "Klik tombol 'Hasilkan Animasi' dan biarkan AI kami bekerja secara ajaib. Saksikan saat gambarmu berubah menjadi video dinamis."
+        },
+        {
+          "title": "Unduh dan Bagikan",
+          "content": "Unduh animasi hasil AI-mu dan bagikan ke seluruh dunia! Sempurna untuk media sosial, proyek pribadi, dan lainnya."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan Generator Animasi AI?",
+      "description": "Temukan mengapa Generator Animasi AI kami adalah pilihan terbaik untuk membuat animasi anime, manga, dan komik profesional. Rasakan masa depan teknologi animasi dengan fitur-fitur canggih yang dirancang untuk para kreator dari berbagai tingkat keterampilan!",
+      "features": [
+        {
+          "title": "Teknologi Animasi AI Canggih",
+          "content": "Generator Animasi AI kami menggunakan model pembelajaran mendalam paling mutakhir untuk menciptakan animasi berkualitas profesional. AI ini menganalisis gambar Anda secara cerdas dan menghasilkan gerakan yang halus dan realistis secara otomatis.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Buat Animasi Profesional Secara Instan",
+          "content": "Transformasikan karya seni statis menjadi video animasi dinamis yang sempurna untuk media sosial, YouTube, presentasi, dan proyek kreatif lainnya. Generator Animasi AI kami memberikan hasil berkualitas studio.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Alat Animasi AI Ramah Pengguna",
+          "content": "Tidak perlu memiliki keterampilan animasi! Generator Animasi AI kami dirancang untuk semua orang. Cukup unggah gambar Anda, ketik prompt, dan biarkan AI membuat animasi menakjubkan untuk Anda.",
+          "icon": "👌"
+        },
+        {
+          "title": "Hemat Waktu Produksi Berjam-Jam",
+          "content": "Generator Animasi AI kami menciptakan animasi dalam hitungan menit, bukan jam atau hari. Kurangi waktu produksi hingga 90% dibandingkan metode animasi tradisional.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Kualitas Animasi Setingkat Profesional",
+          "content": "Generator Animasi AI menghasilkan hasil berkualitas tinggi dengan transisi yang halus, gerakan alami, dan kecepatan bingkai yang konsisten. Sempurna untuk penggunaan profesional dan komersial.",
+          "icon": "✨"
+        },
+        {
+          "title": "Kemungkinan Kreatif Tanpa Batas",
+          "content": "Fokus pada visi kreatif Anda sementara Generator Animasi AI kami menangani pekerjaan teknis yang rumit. Ciptakan gaya animasi apa pun dari adegan aksi hingga momen emosional.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Generator Animasi AI - Semua yang Perlu Anda Ketahui",
+      "description": "Pelajari cara membuat animasi profesional dengan Generator Animasi AI kami. Dapatkan jawaban atas pertanyaan umum tentang teknologi animasi AI, fitur-fitur, dan praktik terbaik.",
+      "q1": "Apa itu Generator Animasi AI?",
+      "a1": "Generator Animasi AI adalah alat AI yang mengubah gambar statis menjadi video animasi dinamis. Dengan menggunakan algoritma pembelajaran mendalam canggih, AI ini menganalisis karya seni Anda dan secara otomatis menghasilkan animasi halus berkualitas profesional dengan gerakan dan ekspresi yang realistis, sempurna untuk pembuatan konten anime, manga, dan komik.",
+      "q2": "Bagaimana cara menggunakan Generator Animasi AI?",
+      "a2": "Menggunakan Generator Animasi AI sangat mudah! Pertama, unggah gambar statis Anda (karya seni anime, manga, atau komik). Kemudian, masukkan prompt terperinci yang menggambarkan gerakan, ekspresi, atau aksi yang Anda inginkan. Selanjutnya, klik 'Generate Animation' dan biarkan AI membuat video Anda. Akhirnya, unduh dan bagikan animasi Anda di media sosial, YouTube, atau platform lainnya.",
+      "q3": "Bagaimana Generator Animasi AI bekerja?",
+      "a3": "Generator Animasi AI menggunakan teknologi pembelajaran mendalam yang canggih untuk menganalisis gambar Anda. AI ini bekerja dengan mengidentifikasi elemen kunci, memahami komposisi, dan menghasilkan frame intermediate untuk menciptakan gerakan yang mulus. AI ini menafsirkan prompt teks Anda untuk menghasilkan gerakan, ekspresi wajah, dan sudut kamera yang menghidupkan karya seni statis Anda secara otomatis.",
+      "q4": "Apa generator animasi AI terbaik?",
+      "a4": "KomikoAI menyediakan alat generator animasi AI terbaik. Tujuan kami adalah menjadi platform penciptaan AI terkemuka dengan memberikan hasil berkualitas profesional, penyesuaian yang fleksibel, dan alur kerja yang intuitif—sepenuhnya gratis untuk dicoba. Dengan Generator Animasi AI dari KomikoAI, Anda dapat mengubah gambar anime, manga, dan komik menjadi video menakjubkan dengan gerakan realistis, menciptakan konten menarik untuk media sosial dan YouTube, serta mengakses berbagai model AI canggih, menjadikannya sempurna untuk pengguna yang menginginkan animasi profesional tanpa keterampilan teknis atau perangkat lunak mahal.",
+      "q5": "Apakah Generator Animasi AI KomikoAI gratis online?",
+      "a5": "Ya, Anda dapat mencoba Generator Animasi AI di KomikoAI secara gratis, tanpa harus mendaftar berlangganan apa pun. Coba alat kami hari ini!",
+      "q6": "Apa yang bisa saya lakukan dengan Generator Animasi AI?",
+      "a6": "Anda dapat menggunakan Generator Animasi AI di KomikoAI untuk membuat video karakter anime animasi dengan gerakan dinamis, mengubah panel manga menjadi urutan cerita yang menarik, menghidupkan ilustrasi komik dengan aksi dan emosi, menghasilkan konten media sosial yang menarik perhatian, memproduksi video YouTube dan materi promosi, membuat animasi karakter untuk proyek permainan atau penceritaan, dan mengembangkan presentasi profesional dengan visual animasi.",
+      "q7": "Bisakah saya menggunakan Generator Animasi AI di ponsel saya?",
+      "a7": "Ya, Anda dapat menggunakan Generator Animasi AI sebagai aplikasi web di berbagai perangkat, termasuk smartphone dan komputer, menjadikannya nyaman untuk semua orang.",
+      "q8": "Bisakah saya mengunduh hasil kreasi dari Generator Animasi AI?",
+      "a8": "Ya, Generator Animasi AI dari KomikoAI memungkinkan Anda mengekspor hasil kreasi Anda dalam berbagai format, seperti MP4 dan format video lainnya, untuk memudahkan berbagi.",
+      "q9": "Mengapa saya harus menggunakan Generator Animasi AI?",
+      "a9": "Menggunakan Generator Animasi AI dapat menghemat 90% waktu produksi animasi, membuat video berkualitas profesional tanpa keahlian animasi, dan mengubah visi kreatif Anda menjadi kenyataan secara instan. Alat kami memungkinkan Anda menghidupkan karya seni statis dengan gerakan realistis, menghasilkan konten menarik untuk media sosial dan YouTube, mengakses berbagai model AI canggih untuk berbagai gaya animasi, dan membuat animasi sepenuhnya gratis untuk dicoba."
+    },
+    "cta": {
+      "title": "Buat Animasi Menakjubkan Gratis dengan Generator Animasi AI Kami Hari Ini!",
+      "description": "Ubah gambar statis Anda menjadi video animasi menarik dalam hitungan menit. Mulai buat sekarang!",
+      "buttonText": "Coba Generator Animasi AI Kami Gratis"
+    }
+  },
+  "examples": {
+    "title": "Contoh Animasi Anime dan Manga AI",
+    "description": "Jelajahi contoh animasi yang dibuat oleh Generator Animasi Gambar AI kami. Lihat bagaimana kamu dapat mengubah gambar statismu menjadi video dinamis!",
+    "inputAlt": "Contoh Gambar Input",
+    "inputLabel": "Gambar Input",
+    "outputLabel": "Hasil Animasi",
+    "videoNotSupported": "Browser Anda tidak mendukung tag video.",
+    "example1": {
+      "details": "Model: Veo | Prompt: \"Gadis itu menari dan bernyanyi\""
+    },
+    "example2": {
+      "details": "Model: Minimax | Prompt: \"Seorang pria berbicara dengan marah\""
+    },
+    "example3": {
+      "details": "Model: Ray | Prompt: \"Seorang gadis berbicara dengan sedih\""
+    },
+    "example4": {
+      "details": "Model: Kling | Prompt: \"Seorang gadis berbicara pada dirinya sendiri dengan tenang\""
+    },
+    "example5": {
+      "details": "Model: Anime Pro | Prompt: \"Adegan pertarungan bergaya anime. Seorang pejuang muda dengan pedang bercahaya melawan monster iblis besar dengan mata bersinar dan gigi tajam. Pertarungan pedang yang cepat, percikan api, close-up intens. Diakhiri dengan pahlawan menghabisi monster dalam serangan terakhir yang dramatis. Latar belakang gelap, pencahayaan sinematik, partikel bercahaya.\""
+    },
+    "example6": {
+      "details": "Model: Anime Pro | Prompt: \"Seorang anak laki-laki anime tiba-tiba mengeluarkan pistol dan menembak dengan kilatan cahaya, ekspresi serius, sudut kamera dramatis. Dia segera berbalik dan berlari di sepanjang jalan.\""
+    },
+    "example7": {
+      "details": "Model: Anime Pro | Prompt: \"Seorang gadis anime meluncur cepat melalui gang yang diterangi neon pada malam hari, berbelok tajam dengan angin menyapu rambutnya, diikuti dari belakang. Cahaya neon memantul di trotoar basah saat ia melewati gang sempit.\""
+    },
+    "example8": {
+      "details": "Model: Anime Pro | Prompt: \"Adegan pertarungan bergaya anime. Seorang pejuang muda dengan pedang bercahaya melawan monster iblis besar dengan mata bersinar dan gigi tajam. Pertarungan pedang yang cepat, percikan api, close-up intens. Diakhiri dengan pahlawan menghabisi monster dalam serangan terakhir yang dramatis. Latar belakang gelap, pencahayaan sinematik, partikel bercahaya.\""
+    }
+  }
+}

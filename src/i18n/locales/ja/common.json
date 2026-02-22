@@ -1,0 +1,1512 @@
+{
+  "copyright": "Copyright © {{currentYear}} Caffelabs. All rights reserved.",
+  "price": {
+    "mo": "/月",
+    "upgrade": "アップグレード",
+    "manage_subscription": "サブスクリプションを管理"
+  },
+  "nav": {
+    "features": "機能",
+    "ai_comic_generator": "AIコミック生成",
+    "ai_anime_generator": "AIアニメジェネレーター",
+    "anigen_competition": "AniGen コンテスト",
+    "pricing": "料金プラン",
+    "faq": "よくある質問",
+    "blog": "ブログ",
+    "partners": "パートナー",
+    "menu": "メニュー",
+    "video_to_video": "ビデオからビデオAI",
+    "layer_splitter": "レイヤー分割ツール",
+    "ai-talking-head": "AIトーキングヘッド",
+    "professional_artists": "アーティスト向け",
+    "oc_maker": "OCメーカー",
+    "playground": "イメージプレイグラウンド",
+    "ai_expression_changer": "AI表情変更ツール"
+  },
+  "footer": {
+    "pricing": "料金プラン",
+    "ai_comic_generator": "AIコミック生成",
+    "logo_alt": "Komiko AIロゴ",
+    "twitter_aria": "Twitter",
+    "twitter_alt": "Twitter",
+    "tiktok_aria": "TikTok",
+    "tiktok_alt": "TikTok",
+    "ai_models": "AIモデル",
+    "ai_tools": "AIツール",
+    "all_tools": "すべてのツール",
+    "comic_tools": "コミック用ツール",
+    "illustration_tools": "イラスト用ツール",
+    "animation_tools": "アニメーション用ツール",
+    "description": "Komiko は、コミック・漫画・マンファ・アニメ・アニメーション制作を一つでこなせるオールインワンAIプラットフォームです。",
+    "claim_site": "KomikKomikoAI は Story Engine Inc. の独立した製品であり、NHN comico Corp. または NHN comico KOREA Corp. とは一切関連していません。",
+    "learn_more": "もっと詳しく",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー",
+    "languages": "言語",
+    "carbon_removal": "カーボンリムーバル",
+    "blog": "ブログ",
+    "partners": "パートナー"
+  },
+  "layer_options": {
+    "send_to_back": "一番後ろへ",
+    "send_to_front": "一番前へ"
+  },
+  "ai_tools": {
+    "comic_generation": {
+      "title": "コミック・漫画・マンファを生成",
+      "create_character": {
+        "title": "OCメーカー",
+        "content": "物語づくりのためのオリジナルキャラクターをデザイン。"
+      },
+      "create_on_canvas": {
+        "title": "コミックキャンバス",
+        "content": "まっさらなキャンバスから、自分だけのコミックを一から作成できます。"
+      },
+      "ai_comic_generator": {
+        "title": "AIコミック生成",
+        "content": "アイデアを入力するだけで、数秒でコミックを自動生成できます。"
+      },
+      "ai_comic_factory": {
+        "title": "AIコミックファクトリー"
+      },
+      "ai_manga_maker": {
+        "title": "AIマンガメーカー"
+      },
+      "ai_manhwa_generator": {
+        "title": "AIマンファジェネレーター"
+      },
+      "ai_manga_generator": {
+        "title": "AIマンガジェネレーター"
+      },
+      "ai_comic_strip_generator": {
+        "title": "AIコミックストリップジェネレーター"
+      },
+      "ai_comic_book_generator": {
+        "title": "AIコミックブックジェネレーター"
+      },
+      "ai_comic_maker": {
+        "title": "AIコミックメーカー"
+      },
+      "ai_storyboard_generator": {
+        "title": "AIストーリーボードジェネレーター"
+      },
+      "free_ai_comic_strip_maker": {
+        "title": "無料AIコミックストリップメーカー"
+      },
+      "nsfw_ai_comic_generator": {
+        "title": "NSFW AIコミックジェネレーター"
+      },
+      "ai_marvel_comic_generator": {
+        "title": "AIマーベルコミックジェネレーター"
+      },
+      "batman_comic_ai_generator": {
+        "title": "バットマンコミックAIジェネレーター"
+      },
+      "dc_comic_ai_generator": {
+        "title": "DCコミックAIジェネレーター"
+      },
+      "ai_porn_comic_generator": {
+        "title": "AIポルノコミックジェネレーター"
+      },
+      "ai_erotic_comic_generator": {
+        "title": "AIエロティックコミックジェネレーター"
+      },
+      "boomer_comic_ai_generator": {
+        "title": "ブーマーコミックAIジェネレーター"
+      },
+      "anime_manga_ai_generator": {
+        "title": "アニメ・マンガAIジェネレーター"
+      },
+      "ai_webtoon_generator": {
+        "title": "AIウェブトゥーンジェネレーター"
+      }
+    },
+    "illustration": {
+      "title": "アート・イラスト・絵コンテ制作をAIでサポート",
+      "ai_anime_generator": {
+        "title": "AIアート生成",
+        "content": "キャラクター入りのアニメ風画像を生成できます。"
+      },
+      "line_art_colorization": {
+        "title": "線画の自動色塗り",
+        "content": "線画やラフスケッチに自動で色をつけます。"
+      },
+      "sketch_simplification": {
+        "title": "スケッチ整理",
+        "content": "ラフで荒いスケッチを、きれいな線画に整えます。"
+      },
+      "background_removal": {
+        "title": "背景削除",
+        "content": "AIで画像の背景を自動削除します。"
+      },
+      "image_upscaling": {
+        "title": "画像アップスケール",
+        "content": "AIで画像を高解像度化します。"
+      },
+      "image_relighting": {
+        "title": "画像のリライティング",
+        "content": "AIで画像のリライティングを行います。"
+      },
+      "photo_to_anime": {
+        "title": "写真をアニメ風に"
+      },
+      "ai_playground": {
+        "title": "イメージラボ",
+        "content": "写真をアニメ・マンガ・カートゥーンなど30種類以上のアートスタイルに変換します。"
+      },
+      "ai_action_figure_generator": {
+        "title": "AIアクションフィギュアジェネレーター"
+      },
+      "ai_character_sheet_generator": {
+        "title": "AIキャラクターシートジェネレーター"
+      },
+      "ai_doll_generator": {
+        "title": "AIドールジェネレーター"
+      },
+      "anime_ai_filter": {
+        "title": "アニメAIフィルター"
+      },
+      "studio_ghibli_ai_generator": {
+        "title": "スタジオジブリAIジェネレーター"
+      },
+      "studio_ghibli_filter": {
+        "title": "スタジオジブリフィルター"
+      },
+      "frame_pack_ai_video_generator": {
+        "title": "FramePack AIビデオジェネレーター"
+      },
+      "vidu_ai_video_generator": {
+        "title": "Vidu Q1ビデオジェネレーター"
+      },
+      "magi_1_video_generator": {
+        "title": "Magi-1ビデオジェネレーター"
+      },
+      "moonvalley_ai_video_generator": {
+        "title": "Moonvalley AIビデオジェネレーター"
+      },
+      "marey_ai_video_generator": {
+        "title": "Marey AIビデオジェネレーター"
+      },
+      "runway_aleph": {
+        "title": "Runway Aleph"
+      },
+      "anisora_video_generator": {
+        "title": "AniSora AIビデオジェネレーター"
+      },
+      "veo3_video_generator": {
+        "title": "Veo3 AIビデオジェネレーター"
+      },
+      "midjourney_video_generator": {
+        "title": "Midjourney AIビデオジェネレーター"
+      },
+      "video_style_transfer": {
+        "title": "ビデオスタイル転写"
+      },
+      "video_to_anime_ai": {
+        "title": "動画をアニメ風にするAI"
+      },
+      "ai_video_to_animation": {
+        "title": "AIビデオをアニメーションに変換"
+      },
+      "convert_video_to_cartoon": {
+        "title": "動画をカートゥーン風に変換"
+      },
+      "convert_video_to_sketch": {
+        "title": "動画をスケッチ風に変換"
+      },
+      "claymation_ai_generator": {
+        "title": "クレイアニメAIジェネレーター"
+      },
+      "ai_video_restyle": {
+        "title": "AIビデオリスタイル"
+      },
+      "change_video_style_ai": {
+        "title": "動画スタイル変更AI"
+      },
+      "modify_video": {
+        "title": "動画を編集"
+      },
+      "modify_with_instructions": {
+        "title": "指示に従って編集"
+      },
+      "cartoonize_video": {
+        "title": "動画をカートゥーン化"
+      },
+      "wan_video2video": {
+        "title": "Wan Video2Video"
+      },
+      "domoai": {
+        "title": "DomoAI"
+      },
+      "ai_anime_video_generator": {
+        "title": "AIアニメビデオジェネレーター"
+      },
+      "ai_cartoon_video_generator": {
+        "title": "AIカートゥーンビデオジェネレーター"
+      },
+      "character_animation": {
+        "title": "キャラクターアニメーション"
+      },
+      "ai_video_generator": {
+        "title": "AIビデオジェネレーター"
+      },
+      "ai_image_to_video_generator": {
+        "title": "AIイメージからビデオジェネレーター"
+      },
+      "image_to_video_generator": {
+        "title": "画像から動画ジェネレーター"
+      },
+      "all_in_one_ai_video_generator": {
+        "title": "オールインワンAIビデオジェネレーター"
+      },
+      "ai_stick_figure_animation": {
+        "title": "AI棒人間アニメーション"
+      },
+      "hailuo_ai_video_generator": {
+        "title": "Hailuo AIビデオジェネレーター"
+      },
+      "hailuo_image_to_video": {
+        "title": "Hailuo 画像から動画"
+      },
+      "minimax_ai_video_generator": {
+        "title": "MiniMax AIビデオジェネレーター"
+      },
+      "vidu_image_to_video": {
+        "title": "Vidu 画像から動画"
+      },
+      "pixverse_ai_video_generator": {
+        "title": "Pixverse AIビデオジェネレーター"
+      },
+      "pixverse_image_to_video": {
+        "title": "Pixverse 画像から動画"
+      },
+      "kling_ai_video_generator": {
+        "title": "Kling AIビデオジェネレーター"
+      },
+      "kling_image_to_video": {
+        "title": "Kling 画像から動画"
+      },
+      "veo2_video_generator": {
+        "title": "Veo2ビデオジェネレーター"
+      },
+      "ray2_video_generator": {
+        "title": "Ray2ビデオジェネレーター"
+      },
+      "ray2_image_to_video": {
+        "title": "Ray2 画像から動画"
+      },
+      "luma_video_generator": {
+        "title": "Lumaビデオジェネレーター"
+      },
+      "luma_image_to_video": {
+        "title": "Luma 画像から動画"
+      },
+      "dream_machine_video_generator": {
+        "title": "Dream Machineビデオジェネレーター"
+      },
+      "wan_ai_video_generator": {
+        "title": "Wan AIビデオジェネレーター"
+      },
+      "perchance_ai_video_generator": {
+        "title": "Perchance AIビデオジェネレーター"
+      },
+      "seedance_ai_video_generator": {
+        "title": "Seedance 1.0 AIビデオジェネレーター"
+      },
+      "seedance_pro_ai_video_generator": {
+        "title": "Seedance Pro AIビデオジェネレーター"
+      },
+      "ai_video_generator_nsfw": {
+        "title": "AIビデオジェネレーター回覧注意"
+      },
+      "nsfw_ai_video_generator": {
+        "title": "回覧注意AIビデオジェネレーター"
+      },
+      "ai_anime_porn_video_generator": {
+        "title": "AIアニメポルノビデオジェネレーター"
+      },
+      "waver_ai_video_generator": {
+        "title": "Waver AIビデオジェネレーター"
+      },
+      "ai_waifu_generator": {
+        "title": "AIワイフジェネレーター"
+      },
+      "ai_naruto_generator": {
+        "title": "AIナルトジェネレーター"
+      },
+      "random_genshin_character_generator": {
+        "title": "原神ランダムキャラジェネレーター"
+      },
+      "dragon_ball_ai_generator": {
+        "title": "ドラゴンボールAIジェネレーター"
+      },
+      "pokemon_ai_generator": {
+        "title": "ポケモンAIジェネレーター"
+      },
+      "ai_genshin_impact_generator": {
+        "title": "AI原神ジェネレーター"
+      },
+      "one_piece_ai_generator": {
+        "title": "ワンピースAIジェネレーター"
+      },
+      "demon_slayer_ai_generator": {
+        "title": "滅の刃AIジェネレーター"
+      },
+      "attack_on_titan_ai_generator": {
+        "title": "進撃の巨人AIジェネレーター"
+      },
+      "jujutsu_kaisen_ai_generator": {
+        "title": "呪術廻戦AIジェネレーター"
+      },
+      "my_hero_academia_ai_generator": {
+        "title": "僕のヒーローアカデミアAIジェネレーター"
+      },
+      "spy_x_family_ai_generator": {
+        "title": "SPY×FAMILY AIジェネレーター"
+      },
+      "league_of_legends_ai_generator": {
+        "title": "リーグ・オブ・レジェンドAIジェネレーター"
+      },
+      "ai_disney_pixar_generator": {
+        "title": "AIディズニー／ピクサージェネレーター"
+      },
+      "marvel_ai_generator": {
+        "title": "マーベルAIジェネレーター"
+      },
+      "sonic_ai_generator": {
+        "title": "ソニックAIジェネレーター"
+      },
+      "ai_spiderman_generator": {
+        "title": "AIスパイダーマンジェネレーター"
+      },
+      "anime_ai_generator": {
+        "title": "アニメAIジェネレーター"
+      },
+      "anime_art_ai_generator": {
+        "title": "アニメアートAIジェネレーター"
+      },
+      "studio_ghibli_style_ai_image_generator": {
+        "title": "スタジオジブリ風AI画像ジェネレーター"
+      },
+      "female_character_generator": {
+        "title": "女性キャラジェネレーター"
+      },
+      "superhero_ai_generator": {
+        "title": "スーパーヒーローAIジェネレーター"
+      },
+      "villain_maker": {
+        "title": "ヴィランメーカー"
+      },
+      "villain_generator": {
+        "title": "ヴィランジェネレーター"
+      },
+      "fantasy_character_ai_generator": {
+        "title": "ファンタジーキャラAIジェネレーター"
+      },
+      "tim_burton_character_maker": {
+        "title": "ティム・バートン風キャラメーカー"
+      },
+      "dbz_ai_generator": {
+        "title": "ドラゴンボールZ AIジェネレーター"
+      },
+      "ai_elf_generator": {
+        "title": "AIエルフジェネレーター"
+      },
+      "ai_princess_generator": {
+        "title": "AIプリンセスジェネレーター"
+      },
+      "ai_vampire_generator": {
+        "title": "AIヴァンパイアジェネレーター"
+      },
+      "ai_pirate_generator": {
+        "title": "AIパイレーツジェネレーター"
+      },
+      "ai_couple_generator": {
+        "title": "AIカップルジェネレーター"
+      },
+      "chibi_creator": {
+        "title": "ちびキャラクリエイター"
+      },
+      "chibi_ai_generator": {
+        "title": "ちびキャラAIジェネレーター"
+      },
+      "ai_character_generator_from_text": {
+        "title": "テキストからAIキャラ生成"
+      },
+      "video_game_character_generator": {
+        "title": "ゲームキャラジェネレーター"
+      },
+      "ai_fantasy_art_generator": {
+        "title": "AIファンタジーアートジェネレーター"
+      },
+      "ai_world_generator": {
+        "title": "AIワールドジェネレーター"
+      },
+      "ai_landscape_generator": {
+        "title": "AI風景ジェネレーター"
+      },
+      "ai_map_generator": {
+        "title": "AIマップジェネレーター"
+      },
+      "ai_village_generator": {
+        "title": "AIヴィレッジジェネレーター"
+      },
+      "ai_mansion_builder": {
+        "title": "AIマンションビルダー"
+      },
+      "ai_castle_generator": {
+        "title": "AIキャッスルジェネレーター"
+      },
+      "fantasy_island_generator": {
+        "title": "ファンタジーアイランドジェネレーター"
+      },
+      "city_map_maker": {
+        "title": "シティマップメーカー"
+      },
+      "ai_skybox_generator": {
+        "title": "AIスカイボックスジェネレーター"
+      },
+      "pop_art_creator": {
+        "title": "ポップアートクリエイター"
+      },
+      "pop_art_generator": {
+        "title": "ポップアートジェネレーター"
+      },
+      "ai_watercolor_generator": {
+        "title": "AI水彩風ジェネレーター"
+      },
+      "abstract_ai_art_generator": {
+        "title": "抽象AIアートジェネレーター"
+      },
+      "ai_renaissance_painting_generator": {
+        "title": "AIルネサンス絵画ジェネレーター"
+      },
+      "ai_oil_painter": {
+        "title": "AI油絵ジェネレーター"
+      },
+      "ai_dark_art_generator": {
+        "title": "AIダークアートジェネレーター"
+      },
+      "ai_cartoon_generator_from_text_free": {
+        "title": "無料テキスト→カートゥーンAIジェネレーター"
+      },
+      "ai_pencil_drawing_generator": {
+        "title": "AI鉛筆画ジェネレーター"
+      },
+      "ai_generated_coloring_pages": {
+        "title": "AIぬりえジェネレーター"
+      },
+      "ai_generated_collager": {
+        "title": "AIコラージュジェネレーター"
+      },
+      "ai_mural_generator": {
+        "title": "AI壁画ジェネレーター"
+      },
+      "glitch_art_generator": {
+        "title": "グリッチアートジェネレーター"
+      },
+      "ai_vaporwave_generator": {
+        "title": "AIヴェイパーウェーブジェネレーター"
+      },
+      "ai_funko_pops_creator": {
+        "title": "AI Funko Popクリエイター"
+      },
+      "ai_weapon_generator": {
+        "title": "AI武器ジェネレーター"
+      },
+      "sword_generator": {
+        "title": "ソードジェネレーター"
+      },
+      "ai_monster_generator": {
+        "title": "AIモンスタージェネレーター"
+      },
+      "bratz_ai_generator": {
+        "title": "Bratz AIジェネレーター"
+      },
+      "ai_creature_generator": {
+        "title": "AIクリーチャージェネレーター"
+      },
+      "ai_muppet_generator": {
+        "title": "AIマペットジェネレーター"
+      },
+      "ai_clothing_generator": {
+        "title": "AI衣装ジェネレーター"
+      },
+      "ai_jersey_generator": {
+        "title": "AIジャージジェネレーター"
+      },
+      "ai_t_shirt_designer": {
+        "title": "AI Tシャツデザイナー"
+      },
+      "anime_character_generator": {
+        "title": "アニメキャラジェネレーター"
+      },
+      "vampire_oc_maker": {
+        "title": "ヴァンパイアOCメーカー"
+      },
+      "anime_oc_maker": {
+        "title": "アニメOCメーカー"
+      },
+      "perchance_ai_character_generator": {
+        "title": "Perchance AIキャラジェネレーター"
+      },
+      "genshin_oc_maker": {
+        "title": "原神OCメーカー"
+      },
+      "genshin_oc_generator": {
+        "title": "原神OCジェネレーター"
+      },
+      "naruto_oc_maker": {
+        "title": "ナルトOCメーカー"
+      },
+      "demon_slayer_oc_maker": {
+        "title": "鬼滅の刃OCメーカー"
+      },
+      "pokemon_oc_maker": {
+        "title": "ポケモンOCメーカー"
+      },
+      "jjk_oc_maker": {
+        "title": "JJK OCメーカー"
+      },
+      "jujutsu_kaisen_oc_maker": {
+        "title": "呪術廻戦OCメーカー"
+      },
+      "one_piece_oc_maker": {
+        "title": "ワンピースOCメーカー"
+      },
+      "one_piece_characters_generator": {
+        "title": "ワンピースキャラジェネレーター"
+      },
+      "dragon_ball_oc_maker": {
+        "title": "ドラゴンボールOCメーカー"
+      },
+      "attack_on_titan_oc_maker": {
+        "title": "進撃の巨人OCメーカー"
+      },
+      "aot_oc_maker": {
+        "title": "AOT OC Maker"
+      },
+      "my_hero_academia_oc_maker": {
+        "title": "僕のヒーローアカデミアOCメーカー"
+      },
+      "spy_x_family_oc_maker": {
+        "title": "SPY×FAMILY OCメーカー"
+      },
+      "sonic_oc_maker": {
+        "title": "ソニックOCメーカー"
+      },
+      "league_of_legends_oc_maker": {
+        "title": "リーグ・オブ・レジェンドOCメーカー"
+      },
+      "nsfw_oc_maker": {
+        "title": "回覧注意 OCメーカー"
+      },
+      "nsfw_character_creator": {
+        "title": "回覧注意 キャラクタークリエイター"
+      },
+      "disney_oc_maker": {
+        "title": "ディズニーOCメーカー"
+      },
+      "marvel_oc_maker": {
+        "title": "マーベルOCメーカー"
+      },
+      "ai_marvel_character_generator": {
+        "title": "AIマーベルキャラジェネレーター"
+      },
+      "ai_anime_porn_generator": {
+        "title": "AIアニメポルノジェネレーター"
+      },
+      "furry_ai_generator": {
+        "title": "ケモノAIジェネレーター"
+      },
+      "ai_art_generator_nsfw": {
+        "title": "回覧注意 AIアートジェネレーター"
+      },
+      "ai_image_generator_to_create_a_webtoon_story": {
+        "title": "ウェブトゥーン作品を作るためのAI画像ジェネレーター"
+      },
+      "anime_ai_generator_nsfw": {
+        "title": "アニメAIジェネレーター 回覧注意"
+      },
+      "nsfw_anime_ai_generator": {
+        "title": "回覧注意 アニメAIジェネレーター"
+      },
+      "nsfw_ai_art_generator": {
+        "title": "回覧注意 AIアートジェネレーター"
+      },
+      "mlp_ai_generator": {
+        "title": "MLP  AIジェネレーター"
+      },
+      "my_little_pony_ai_generator": {
+        "title": "マイリトルポニーAIジェネレーター"
+      },
+      "anime_pfp_maker": {
+        "title": "アニメPFPメーカー（プロフィール画像）"
+      },
+      "ai_game_asset_generator": {
+        "title": "AIゲームアセットジェネレーター"
+      },
+      "mlp_oc_maker": {
+        "title": "MLP OCメーカー"
+      },
+      "my_little_pony_oc_maker": {
+        "title": "マイリトルポニーOCメーカー"
+      },
+      "visual_novel_character_generator": {
+        "title": "ビジュアルノベルキャラジェネレーター"
+      },
+      "random_video_game_character_generator": {
+        "title": "ランダムゲームキャラジェネレーター"
+      },
+      "lego_ai_filter": {
+        "title": "レゴAIフィルター"
+      },
+      "photo_to_line_art": {
+        "title": "写真から線画変換"
+      },
+      "photo_to_simpsons": {
+        "title": "写真をシンプソンズ風に"
+      },
+      "naruto_ai_filter": {
+        "title": "ナルトAIフィルター"
+      },
+      "watercolor_ai_filter": {
+        "title": "水彩AIフィルター"
+      },
+      "cyberpunk_filter": {
+        "title": "サイバーパンクフィルター"
+      },
+      "emote_maker": {
+        "title": "エモートメーカー"
+      },
+      "ai_sprite_sheet_generator": {
+        "title": "AIスプライトシートジェネレーター"
+      },
+      "ai_emoji_generator": {
+        "title": "AI絵文字ジェネレーター"
+      },
+      "ai_emoticon_generator": {
+        "title": "AI顔文字ジェネレーター"
+      },
+      "anime_sticker_maker": {
+        "title": "アニメステッカーメーカー"
+      },
+      "ai_sticker_generator": {
+        "title": "AIステッカージェネレーター"
+      },
+      "ai_sprite_generator": {
+        "title": "AIスプライトジェネレーター"
+      },
+      "ai_plush_generator": {
+        "title": "AIぬいぐるみジェネレーター"
+      },
+      "ai_badge_generator": {
+        "title": "AIバッジジェネレーター"
+      },
+      "ai_clay_filter": {
+        "title": "クレイ風AIフィルター"
+      },
+      "photo_to_minecraft": {
+        "title": "写真をマインクラフト風に"
+      },
+      "ai_style_transfer": {
+        "title": "AIスタイル転写"
+      },
+      "photo_to_pixel_art": {
+        "title": "写真をドット絵化"
+      },
+      "ai_cosplay_generator": {
+        "title": "AIコスプレジェネレーター"
+      },
+      "qwen_image_edit": {
+        "title": "Qwen 画像編集"
+      },
+      "replace_object_in_video": {
+        "title": "動画内のオブジェクトを差し替え"
+      },
+      "replace_person_in_video_with_ai": {
+        "title": "動画内の人物をAIで差し替え"
+      },
+      "video_restyle": {
+        "title": "動画リスタイル"
+      },
+      "ai_video_filter": {
+        "title": "AIビデオフィルター"
+      },
+      "ai_fairy_filter": {
+        "title": "AIフェアリーフィルター"
+      },
+      "ai_fairy_video_generator": {
+        "title": "AIフェアリービデオジェネレーター"
+      },
+      "cartoonify_video": {
+        "title": "動画をカートゥーン化"
+      },
+      "video_to_anime_converter": {
+        "title": "動画からアニメ変換"
+      },
+      "video_to_anime": {
+        "title": "動画をアニメに"
+      },
+      "video_to_anime_style_app": {
+        "title": "動画をアニメ風にするアプリ"
+      },
+      "convert_video_to_animation_ai": {
+        "title": "動画からアニメーションAI変換"
+      },
+      "convert_video_to_anime_style_ai": {
+        "title": "動画からアニメ風AI変換"
+      },
+      "anime_style_transfer": {
+        "title": "アニメスタイル転写"
+      },
+      "video_to_cartoon": {
+        "title": "動画をカートゥーンに変換"
+      },
+      "video_cartoonizer": {
+        "title": "ビデオカートゥーナイザー"
+      },
+      "vid2vid": {
+        "title": "Vid2Vid"
+      },
+      "video2video": {
+        "title": "Video2Video"
+      },
+      "stylize_video_ai": {
+        "title": "動画スタイライズAI"
+      },
+      "ai_style_transfer_video": {
+        "title": "AIスタイル転写ビデオ"
+      },
+      "video_style_changer_ai": {
+        "title": "動画スタイルチェンジャーAI"
+      },
+      "convert_skeleton_ai": {
+        "title": "骨格（スケルトン）変換AI"
+      },
+      "ghibli_style_video_converter": {
+        "title": "ジブリ風ビデオコンバーター"
+      },
+      "domoia": {
+        "title": "Domoia"
+      },
+      "wan_animate": {
+        "title": "Wan Animate"
+      },
+      "vidu_q2": {
+        "title": "Vidu Q2"
+      },
+      "wan_25": {
+        "title": "Wan 2.5"
+      },
+      "ai_expression_changer": {
+        "title": "AI表現チェンジャー",
+        "content": "プリセットを使えば、キャラクターの表情をかんたんに切り替えられます。"
+      },
+      "ai_adult_video": {
+        "title": "AIアダルトビデオ"
+      },
+      "ai_kissing_video_generator": {
+        "title": "AIキスシーンビデオジェネレーター"
+      },
+      "ai_moving_image_generator": {
+        "title": "AI動く画像ジェネレーター"
+      },
+      "make_image_move": {
+        "title": "画像を動かす"
+      },
+      "animation_ai": {
+        "title": "アニメーションAI"
+      },
+      "image_animator": {
+        "title": "イメージアニメーター"
+      },
+      "image_to_motion_ai": {
+        "title": "画像からモーションAI"
+      },
+      "animated_image_generator": {
+        "title": "アニメーション画像ジェネレーター"
+      },
+      "animate_a_picture": {
+        "title": "画像をアニメーション化"
+      },
+      "animate_a_photo": {
+        "title": "写真をアニメーション化"
+      },
+      "ai_transition_between_images": {
+        "title": "画像間トランジションAI"
+      },
+      "picture_to_video_ai": {
+        "title": "画像から動画AI"
+      },
+      "sexy_animation": {
+        "title": "セクシーアニメーション"
+      },
+      "ai_cartoon_porn": {
+        "title": "AIカートゥーンポルノ"
+      },
+      "animated_wallpaper_generator": {
+        "title": "アニメーション壁紙ジェネレーター"
+      },
+      "pixel_art_animation": {
+        "title": "ドット絵アニメーション"
+      },
+      "animate_sketch": {
+        "title": "スケッチをアニメーション化"
+      },
+      "veo_3_1": {
+        "title": "Veo 3.1"
+      },
+      "sora_2_video_generator": {
+        "title": "Sora 2ビデオジェネレーター"
+      },
+      "ai_video_effects": {
+        "title": "AIビデオエフェクト"
+      },
+      "dance_video_generator": {
+        "title": "ダンスビデオジェネレーター"
+      },
+      "text_to_video": {
+        "title": "テキストからビデオ"
+      },
+      "ai_anime_filter": {
+        "title": "AIアニメフィルター"
+      },
+      "ai_aging_filter": {
+        "title": "AI老化フィルター"
+      },
+      "ai_caricature_maker": {
+        "title": "AIカリカチュアメーカー"
+      },
+      "ai_bald_filter": {
+        "title": "AI坊主頭フィルター"
+      },
+      "ai_beard_filter": {
+        "title": "AIあごひげフィルター"
+      },
+      "ai_bikini": {
+        "title": "AIビキニ"
+      },
+      "ai_blonde_hair_filter": {
+        "title": "AI金髪フィルター"
+      },
+      "ai_cartoon_generator": {
+        "title": "AIカートゥーンジェネレーター"
+      },
+      "ai_comic_book_filter": {
+        "title": "AIコミックブックフィルター"
+      },
+      "ai_fat_filter": {
+        "title": "AI太っちょフィルター"
+      },
+      "ai_lego_filter": {
+        "title": "AIレゴフィルター"
+      },
+      "ai_magazine_cover_maker": {
+        "title": "AI雑誌表紙メーカー"
+      },
+      "ai_manga_filter": {
+        "title": "AIマンガフィルター"
+      },
+      "ai_minecraft_generator": {
+        "title": "AIマインクラフトジェネレーター"
+      },
+      "ai_silhouette_maker": {
+        "title": "AIシルエットメーカー"
+      },
+      "ai_simpsons_generator": {
+        "title": "AIシンプソンズジェネレーター"
+      },
+      "baby_filter": {
+        "title": "赤ちゃんフィルター"
+      },
+      "image_to_image_ai_generator": {
+        "title": "画像から画像AIジェネレーター"
+      },
+      "magazine_ai_generator": {
+        "title": "雑誌風AIジェネレーター"
+      },
+      "mugshot_generator": {
+        "title": "逮捕時写真ジェネレーター"
+      },
+      "photo_to_sketch": {
+        "title": "写真からスケッチ"
+      },
+      "pixar_ai_generator": {
+        "title": "ピクサーAIジェネレーター"
+      },
+      "ps2_ai_filter": {
+        "title": "PS2風AIフィルター"
+      },
+      "seedance": {
+        "title": "Seedance"
+      },
+      "nano_banana_2": {
+        "title": "Nano Banana 2"
+      },
+      "wan_26": {
+        "title": "ワン 2.6"
+      }
+    },
+    "animation": {
+      "title": "アニメーション動画を作成",
+      "image_to_animation": {
+        "title": "画像からアニメーション",
+        "content": "画像から、なめらかなアニメーション動画を生成します。"
+      },
+      "animation_generator": {
+        "title": "AIアニメーション生成",
+        "content": "画像やテキストから、なめらかなアニメーション動画を生成します。"
+      },
+      "inbetweening": {
+        "title": "中割り生成",
+        "content": "キーフレーム間の中割りフレームを自動生成します。"
+      },
+      "layer_splitter": {
+        "title": "レイヤースプリッター",
+        "content": "キャラクター画像をパーツごとに分割します。"
+      },
+      "video_upscaling": {
+        "title": "ビデオアップスケール",
+        "content": "動画の解像度をアップします。"
+      },
+      "video_interpolation": {
+        "title": "フレーム補間",
+        "content": "フレームを補間して、動画をよりなめらかにします。"
+      },
+      "ai_talking_head": {
+        "title": "AIトーキングヘッド",
+        "content": "静止画から、しゃべるキャラクターアニメーションを生成します。"
+      },
+      "video_to_video": {
+        "title": "ビデオからビデオ変換",
+        "content": "動画を、AIで別のスタイルに変換します。"
+      },
+      "text_to_video": {
+        "title": "テキストからビデオ"
+      },
+      "dance_video_generator": {
+        "title": "ダンスビデオジェネレーター"
+      }
+    }
+  },
+  "gridIndex": "グリッド {{index}}",
+  "popularity": "{{count}} 人気度",
+  "roleplay": "ロールプレイ",
+  "likes": "{{count}} いいね",
+  "following": "フォロー中",
+  "follow": "フォロー",
+  "post_card": {
+    "following": "フォロー中",
+    "follow": "フォロー",
+    "the_end": "ザ・エンド",
+    "discover": "発見する",
+    "more_stories": "さらにストーリーを見る",
+    "or_start": "または始める",
+    "creating_your_own": "自分の物語を作り始めよう",
+    "comments": "コメント",
+    "the_end_dash": "ザ・エンド",
+    "prompts": "プロンプト",
+    "prompt_copied": "プロンプトをクリップボードにコピーしました",
+    "copy_prompt": "プロンプトをコピー",
+    "create_yours": "自分でも作ってみる",
+    "try_the_tool": "このツールを試す",
+    "prompt_hidden": "プロンプトは非表示です",
+    "prompt_hidden_tooltip": "投稿者がこのプロンプトを非表示に設定しています。自分の投稿でもプロンプトを隠したい場合は、アップグレードしてください。",
+    "no_prompts": "プロンプトがありません😢",
+    "join_discussion": "コメントで参加しよう！",
+    "reply_to_user": "@{{userName}}への返信…",
+    "reply": "返信",
+    "replies": "{{count}} 件の返信",
+    "sharing_link_copied": "シェア用リンクをコピーしました！友達に共有しよう！",
+    "image_downloaded": "画像をダウンロードしました！",
+    "video_downloaded": "動画をダウンロードしました！",
+    "download_failed": "ダウンロードに失敗しました。しばらくしてからもう一度お試しください。",
+    "download": "ダウンロード",
+    "copy_link": "リンクをコピー",
+    "more": "もっと見る",
+    "share": {
+      "twitter": "@KomikoAI で {{username}} さんが作成した「{{title}}」をチェック！\n\n{{content}}\n\n#AIart #AiAnime\n{{link}}",
+      "facebook": "@KomikoAI で {{username}} さんが作成した「{{title}}」をチェック！\n\n{{content}}",
+      "reddit": "\"@KomikoAI で {{username}} さんが作成した「{{title}}」をチェック！",
+      "pinterest": "\"@KomikoAI で {{username}} さんが作成した「{{title}}」をチェック！",
+      "whatsapp": "@KomikoAI で {{username}} さんが作成した「{{title}}」をチェック！\n{{link}}",
+      "telegram": "@KomikoAI で {{username}} さんが作成した「{{title}}」をチェック！"
+    },
+    "delete": "削除",
+    "confirm_delete": "削除の確認",
+    "confirm_delete_message": "この投稿を本当に削除しますか？",
+    "cancel": "キャンセル",
+    "delete_success": "投稿を削除しました",
+    "delete_failed": "投稿の削除に失敗しました",
+    "turn_into": "〜に変換",
+    "video_to": "動画から",
+    "expression": "表情",
+    "effect": "エフェクト",
+    "dance_video_generator": "ダンスビデオジェネレーター",
+    "menu": {
+      "tag_moderator": "タグモデレーター",
+      "admin": "管理者",
+      "pin": "ピン留め",
+      "unpin": "ピン留め解除",
+      "pin_global": "グローバルピン",
+      "unpin_global": "グローバルピン解除",
+      "feature": "特集",
+      "unfeature": "特集解除",
+      "feature_global": "グローバル特集",
+      "unfeature_global": "グローバル特集解除",
+      "translate": "翻訳",
+      "hide": "非表示にする",
+      "unhide": "表示する",
+      "report": "レポート",
+      "block_user": "@{{name}}をブロック",
+      "unblock_user": "@{{name}}のブロック解除"
+    },
+    "loading": "ロード中...",
+    "reply1": "1件の返信",
+    "remix_count": "{{count}} 回リミックス",
+    "remix_count_one": "{{count}} 回のリミックス",
+    "remix_count_other": "{{count}} 回のリミックス",
+    "remix": "リミックス"
+  },
+  "uploadFile": {
+    "tapToUpload": "タップしてアップロード、またはここに画像をドラッグ＆ドロップ",
+    "clickToUpload": "クリックしてアップロードするか、画像をここにドラッグ＆ドロップしてください",
+    "dragAudio": "ここに音声ファイルをドラッグするか、クリックしてアップロード",
+    "supportedAudio": "対応形式：MP3、WAV",
+    "errors": {
+      "invalidExtension": "拡張子 {{accept}} のファイルを選択してください",
+      "selectImage": "像を選択してください",
+      "selectVideo": "動画を選択してください",
+      "selectAudio": "音声ファイルを選択してください",
+      "fileSize": "音声ファイルのサイズは {{limit}}MB 未満である必要があります",
+      "audioSize": "音声ファイルのサイズは {{limit}}MB 未満である必要があります",
+      "maxDuration": "最大長さ：{{duration}} 分"
+    },
+    "warnings": {
+      "imageWillCompress": "画像が {{limit}}MB を超えているため、自動的に圧縮されます",
+      "audioTooLarge": "音声ファイルが {{limit}}MB を超えています。処理品質に影響する可能性があります。"
+    }
+  },
+  "home": {
+    "create_story": {
+      "title": "新しいコミック",
+      "subtitle": "画像を生成して、物語を作ろう",
+      "generate": {
+        "title": "生成",
+        "description": "一行のプロンプトから、数秒でコミックを生成"
+      },
+      "from_scratch": {
+        "title": "ゼロから作る",
+        "description": "まっさらなキャンバスから、自由な発想で作り始めましょう"
+      }
+    },
+    "create_character": {
+      "title": "新しいキャラ",
+      "subtitle": "物語のためのキャラクターを作る"
+    },
+    "create_animation": {
+      "title": "新しいロールプレイ"
+    }
+  },
+  "result_card": {
+    "generating": "生成中…",
+    "more_ai_tools": {
+      "title": "人気のAIツールを探す",
+      "description": "関連するAIツールでもっと創作の幅を広げよう。",
+      "view_more": "他のAIツールも見る"
+    },
+    "generated_by": "生成元",
+    "tools": {
+      "title": "ツール",
+      "remove_bg": "背景削除",
+      "upscale": "アップスケール",
+      "anime_style": "リスタイル",
+      "animate": "アニメ化",
+      "video_upscale": "ビデオアップスケール",
+      "video_interpolate": "補間",
+      "character_sheet": "キャラクターシート",
+      "character": "キャラクター",
+      "restyle": "リスタイル",
+      "add_text": "テキストを追加",
+      "new_character": "新しいキャラ",
+      "create_animation": "アニメーションを作成"
+    },
+    "generation_failed": "生成が失敗しました",
+    "generation_failed_desc": "生成中に問題が発生しました。もう一度お試しください。"
+  },
+  "actions": {
+    "download": "ダウンロード",
+    "delete": "削除",
+    "post": "投稿",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "share": "シェア",
+    "apply": "適用",
+    "applying": "適用中…",
+    "generate": "生成",
+    "generating": "生成中…",
+    "upload": "アップロード",
+    "uploading": "アップロード中…",
+    "extract": "抽出",
+    "extracting": "抽出中…",
+    "download_layers": "レイヤーをダウンロード",
+    "confirm_delete": "削除の確認",
+    "delete_warning": "この画像を本当に削除しますか？",
+    "show_more": "もっと見る",
+    "show_less": "閉じる"
+  },
+  "tools": {
+    "video_upscaling": "ビデオアップスケール",
+    "background-removal": "背景削除",
+    "video_interpolation": "ビデオ補間",
+    "character": "キャラクター",
+    "restyle": "リスタイル",
+    "video_to_video": "ビデオからビデオ AI"
+  },
+  "video_tabs": {
+    "video_to_video": "ビデオからビデオ",
+    "talking_head": "トーキングヘッド",
+    "image_or_text_to_video": "画像またはテキストからビデオ",
+    "dance": "ダンス",
+    "templates": "テンプレート"
+  },
+  "toasts": {
+    "fetchFailed": "取得に失敗しました",
+    "deleteSuccess": "削除に成功しました",
+    "deleteFailed": "削除に失敗しました",
+    "downloadFailed": "ダウンロードに失敗しました",
+    "processingSuccess": "処理に成功しました",
+    "processingFailed": "処理に失敗しました",
+    "uploadFailed": "アップロードに失敗しました",
+    "noVideoUrl": "動画URLが指定されていません",
+    "noZaps": "Zapsを追加購入してください",
+    "mediaReceived": "別のツールからメディアを受け取りました",
+    "extractFailed": "フレームの抽出に失敗しました。もう一度お試しください。",
+    "invalidResponse": "APIからの応答が不正です",
+    "timeout": "処理がタイムアウトしました",
+    "missingData": "必要なデータが不足しています",
+    "unexpectedFormat": "予期しないデータ形式です",
+    "maxImagesReached": "許可されている最大枚数の画像に達しました",
+    "loginRequired": "まずログインしてください",
+    "cannotBlockSelf": "自分をブロックすることはできません",
+    "userBlocked": "ユーザーを正常にブロックしました",
+    "userBlockedName": "@{{name}}をブロックしました",
+    "userUnblocked": "ユーザーのブロックを正常に解除しました",
+    "userUnblockedName": "@{{name}}のブロックを解除しました",
+    "blockFailed": "ユーザーのブロックに失敗しました",
+    "unblockFailed": "ユーザーのブロック解除に失敗しました",
+    "alreadyReported": "この投稿は既に報告されています",
+    "postReported": "投稿を正常に報告しました",
+    "reportFailed": "投稿の報告に失敗しました"
+  },
+  "create_character": "キャラクターを作る",
+  "explore_characters": "キャラクターを探す",
+  "create_character_short": "キャラクター",
+  "generate_image": "画像を生成",
+  "generate_image_short": "AI画像",
+  "generate": "生成",
+  "create_comic": "コミックを作る",
+  "ai_comic": "AIコミック",
+  "generate_comic": "コミックを生成",
+  "generate_animation": "動画を生成",
+  "generate_animation_short": "AI動画",
+  "logout": "ログアウト",
+  "from_other_tools": "{{tools}} から {{input_type}} を受信しました",
+  "input_types": {
+    "image": "画像",
+    "video": "動画"
+  },
+  "alt": {
+    "generated_image": "生成された画像"
+  },
+  "success": {
+    "copy": "クリップボードにコピーしました"
+  },
+  "unknown": "Unknown",
+  "daily_check_in": {
+    "title": "デイリー報酬",
+    "claim_button": "今日の {{amount}} Zaps を受け取る",
+    "upgrade_button": "アップグレードすると、最大 {{amount}} 個の無料Zapsを受け取れます！",
+    "extra_rewards_tip": "プロフィールページの「報酬」をタップして、追加の報酬をゲットしよう！",
+    "christmas_banner_tip": "🎄 アートを作成して、150ドルを獲得しよう！",
+    "christmas_banner_tip_description": "今日のZapsを使ってクリスマスAUを作成し、最大150ドルのKomikoリワードを獲得しよう！",
+    "christmas_reward_tip": "クリスマスの楽しさ、ダブルチャンス！喜び2倍、感動2倍！",
+    "christmas_reward_btn_text": "メリークリスマス！200 Zapsをゲットしよう！",
+    "off50_yearly_deal": "年額プランが50%OFF！",
+    "join_now": "KomikoAIに参加して、新年の雰囲気とお祭りのサプライズを楽しもう！このオファーは1月6日に終了します！"
+  },
+  "sampleImage": "サンプル画像",
+  "sampleVideo": "サンプル動画",
+  "exampleResult": "出力例",
+  "error": {
+    "code": "エラーコード：{{code}}",
+    "requestId": "リクエストID：{{id}}",
+    "downloadFailed": "ダウンロードに失敗しました。もう一度お試しください。"
+  },
+  "loading": "読み込み中…",
+  "load_more": "さらに読み込む",
+  "no_followers_yet": "まだフォロワーがいません",
+  "magic_prompt": "マジックプロンプト",
+  "magic_prompt_on": "オン",
+  "magic_prompt_off": "オフ",
+  "magic_prompt_description": "最初のプロンプトを自動で強化して、画像のバリエーションと表現の豊かさを高めます。英語への翻訳にも対応しています。",
+  "nsfw": {
+    "title": "⚠️ 年齢確認",
+    "message": "このセクションには、18歳以上向けのコンテンツが含まれます。続行するには、あなたが18歳以上（またはお住まいの地域で定められた成年年齢以上）である必要があります。「Yes」をクリックすることで、あなたは18歳以上であり、お住まいの地域の法律に基づいて、回覧注意コンテンツへアクセスすることが法的に認められていると自己申告したものとみなされます。KomikoAI は、この自己申告に依拠しており、必要に応じて公的身分証の提示など、追加の年齢確認をお願いする場合があります。虚偽の情報を提供した場合、その結果生じる法的な責任はすべてご自身にあります。",
+    "yes": "はい",
+    "no": "いいえ"
+  },
+  "settings": {
+    "title": "設定",
+    "privacy": "プライバシー設定",
+    "language": "表示言語",
+    "subscription": {
+      "title": "サブスクリプション管理",
+      "manage": "サブスクリプションを管理",
+      "upgrade": "プランをアップグレード",
+      "currentPlan": "現在のプラン：{{plan}}"
+    },
+    "nsfw": {
+      "enable": "回覧注意を有効にする",
+      "description": "回覧注意を有効にすると、あなたが18歳以上であることに同意したものとみなされます。回覧注意コンテンツには、職場環境での閲覧に適さないヌード、暴力表現、ポルノなどが含まれます",
+      "confirmTitle": "年齢確認",
+      "iConfirm": "確認しました",
+      "nevermind": "やめておく"
+    },
+    "danger": {
+      "title": "危険な操作",
+      "description": "Komikoアカウントと関連するすべてのデータを完全に削除します。この操作は元に戻せません。",
+      "delete": "アカウントを削除"
+    },
+    "blockedUsers": "ブロックされたユーザー",
+    "blockedUsersPage": {
+      "title": "ブロックされたユーザー",
+      "empty": "ブロックされたユーザーはいません",
+      "emptyDescription": "ブロックしたユーザーがここに表示されます。",
+      "blockedOn": "{{date}}にブロック",
+      "buttonUnblock": "ブロック解除",
+      "unblockConfirmTitle": "@{{name}}のブロックを解除しますか？",
+      "unblockConfirmDescription": "彼らは再びあなたの投稿とコメントを見ることができます。",
+      "buttonCancel": "キャンセル"
+    }
+  },
+  "faq": "よくある質問",
+  "network": {
+    "online": "オンライン",
+    "offline": "オフライン"
+  },
+  "publicVisibility": {
+    "label": "公開設定",
+    "tooltip": "このコンテンツをすべてのユーザーに公開します",
+    "popoverTitle": "公開範囲",
+    "public": "公開",
+    "publicDescription": "誰でも閲覧・利用できます",
+    "private": "非公開",
+    "privateDescription": "自分だけが閲覧・利用できます",
+    "plusBadge": "プラス"
+  },
+  "max": "マックス",
+  "referenceImage": {
+    "title": "参考画像",
+    "description": "キャラ生成の目安に使う参考画像をアップロードしてください",
+    "add": "画像を追加",
+    "dropHere": "ここに画像をドロップ",
+    "info": "{{count}}/9 枚 • 1ファイル最大25MB • 合計50MBまで",
+    "clearAll": "すべてクリア",
+    "imageName": "画像名",
+    "placeholder": "名前を入力"
+  },
+  "referenceImages": {
+    "modal": {
+      "title": "参考画像",
+      "description": "プロンプト内で、参考画像は名前で指定できます。→ ボタンを押すと、その名前をプロンプトに直接挿入できます。",
+      "imageName": {
+        "label": "名前",
+        "placeholder": "参考???"
+      },
+      "remove": "削除",
+      "insertTooltip": "プロンプトに挿入",
+      "close": "閉じる",
+      "dropHere": "ここに画像をドラッグ&ドロップしてください。",
+      "addNew": {
+        "title": "新しい画像を追加",
+        "subtitle": "クリックまたはドラッグ＆ドロップ"
+      },
+      "selectAll": "すべて選択",
+      "deleteAll": "すべて削除",
+      "deleteSelected": "選択項目を削除",
+      "deselectAll": "選択を解除",
+      "bulkInsert": "まとめて挿入",
+      "insertSelected": "選択項目を挿入",
+      "bulkInsertSuccess": "キャラクター名を挿入しました！",
+      "deleted": "{{count}} 件の参考画像を削除しました",
+      "allDeleted": "すべての参考画像を削除しました",
+      "unsupportedFormat": "対応形式：JPEG、PNG、WebP のみ",
+      "limits": "制限：{{current}}/{{maxImages}} 枚 • 1ファイル最大 {{maxSingleSize}} • 合計最大 {{maxTotalSize}} • 対応形式：{{formats}}"
+    }
+  },
+  "min": "Min???",
+  "examples": {
+    "inputLabel": "入力",
+    "outputLabel": "出力",
+    "styleLabel": "スタイル",
+    "promptLabel": "プロンプト"
+  },
+  "hide_my_prompt": "自分のプロンプトを隠す",
+  "hide_my_prompt_tooltip": "このプロンプトは他のユーザーには表示されません。利用するにはアップグレードが必要です。",
+  "audio": "音声",
+  "collections": "コレクション",
+  "endFrame": "終了フレーム",
+  "multipleReferences": "マルチ",
+  "NSFW": "回覧注意",
+  "share_title": "この投稿を友達とシェアしよう！友達が参加すると、あなたと友達の両方に {{count}} Zaps がもらえます！",
+  "preset_tags": {
+    "all_posts": "すべての投稿",
+    "featured": "注目",
+    "templates": "テンプレート",
+    "animation": "アニメーション",
+    "oc": "OC",
+    "anime": "アニメ",
+    "manga": "マンガ",
+    "game": "ゲーム",
+    "movie": "映画",
+    "ship": "推しカップル",
+    "furry": "ケモノ",
+    "kawaii": "カワイイ",
+    "nsfw": "回覧注意",
+    "genshin_impact": "原神",
+    "demon_slayer": "鬼滅の刃",
+    "spy_x_family": "SPY×FAMILY",
+    "my_hero_academia": "僕のヒーローアカデミア",
+    "pokemon": "ポケモン",
+    "hatsune_miku": "初音ミク",
+    "jujutsu_kaisen": "呪術廻戦",
+    "frieren": "葬送のフリーレン",
+    "naruto": "ナルト",
+    "one_piece": "One Piece",
+    "hazbin_hotel": "ハズビン・ホテル",
+    "kpop_demon_hunters": " KPOPガールズ! デーモン・ハンターズ",
+    "marvel": "マーベル",
+    "chainsaw_man": "チェンソーマン",
+    "re_zero": "Re:ゼロから始める異世界生活",
+    "ai_apps": "AIアプリ",
+    "gay": "ゲイ",
+    "harbin_hotel": "ハルビンホテル",
+    "husbando": "理想の夫",
+    "lesbian": "レズビアン",
+    "waifu": "理想の妻",
+    "gundam": "ガンダム",
+    "cthulhu": "クトゥルフ",
+    "komikoChristmas": "コミコクリスマス",
+    "harry_potter": "ハリー・ポッター",
+    "zootopia": "ズートピア",
+    "scenery": "風景",
+    "scifi": "SF",
+    "bankai": "卍解",
+    "dragon_ball": "ドラゴンボール",
+    "umamusume": "ウマ娘 プリティーダービー",
+    "street_fighter": "ストリートファイター",
+    "my_little_pony": "マイリトルポニー",
+    "zenless_zone_zero": "ゼンレス ゾーン ゼロ"
+  },
+  "change": "変更",
+  "bgmAvailableFor4SecondVideosOnly": "BGMは4秒ビデオでのみ使用可能です",
+  "describe_video_effect": "作成したいビデオを説明してください。@を入力してキャラクターに言及しましょう。",
+  "mention_characters": "生成したい内容を書いてください。@ を付けるとキャラを呼び出せます。",
+  "weekend_flash_promotion": {
+    "weekend_flash_title": "週末限定フラッシュセール：年間プランが30%オフ！"
+  },
+  "set_tag": "タグを設定",
+  "templates": "ひな型",
+  "videoReference": {
+    "description": "動画生成用の参照画像をアップロードしてください。単一の画像、複数の画像、または初めと終わりのフレームをアップロードできます。",
+    "limits": "最大 {{maxImages}} 画像 • 各ファイルは最大25MB • 対応フォーマット: JPEG, PNG, WebP",
+    "firstFrame": "最初のフレーム",
+    "addEndFrame": "終了フレームを追加",
+    "endFrameHint": "最初と最後のフレームのアニメーション用",
+    "endFrameInfo": "ヒント: 終了フレームを追加することで、最初から最後のフレームへのアニメーションが作成できます。対応するモデルが自動で選択されます。",
+    "done": "完了"
+  },
+  "home_ai_video": {
+    "video_prompt_placeholder": "ビデオエフェクトを説明してください（任意）。キャラクターを言及する場合は@を入力してください。",
+    "reference": "参照"
+  },
+  "multiImage": {
+    "maxReached": "最大 {{max}} 枚の画像がアップロードできます",
+    "uploadPrompt": "{{min}} 枚から {{max}} 枚の画像をアップロードしてください",
+    "dragDropHint": "ここをクリックするか、画像をドラッグ＆ドロップしてください。",
+    "addMore": "さらに画像を追加する",
+    "imagesUploaded": "アップロードされた画像",
+    "minRequired": "最低 {{min}} 枚が必要です"
+  },
+  "effects": "エフェクト",
+  "block": {
+    "confirmBlockTitle": "@{{name}}をブロックしますか？",
+    "confirmUnblockTitle": "@{{name}}のブロックを解除しますか？",
+    "unblockDescription": "彼らは再びあなたの投稿とコメントを見ることができます。",
+    "blockDescription1": "お互いの投稿はフィードに表示されません。",
+    "blockDescription2": "お互いのコメントは表示されません。",
+    "blockDescription3": "このアクションは取り消すことができます。",
+    "buttonBlock": "ブロック",
+    "buttonUnblock": "ブロック解除",
+    "buttonCancel": "キャンセル"
+  },
+  "report": {
+    "confirmTitle": "この投稿を報告しますか？",
+    "selectReason": "理由を選択してください：",
+    "description": "この投稿はあなたのフィードから非表示になり、モデレーターにレビューのため報告されます。",
+    "warning": "報告機能の乱用はアカウント制限の原因になることがあります。",
+    "buttonReport": "報告",
+    "buttonCancel": "キャンセル",
+    "reasons": {
+      "inappropriate": {
+        "label": "不適切なコンテンツ",
+        "description": "性的、暴力的、または不快なコンテンツ"
+      },
+      "spam": {
+        "label": "スパム",
+        "description": "繰り返しまたは不要なコンテンツ"
+      },
+      "hate_speech": {
+        "label": "憎悪表現",
+        "description": "グループに対する憎悪や暴力を助長する"
+      },
+      "violence": {
+        "label": "暴力",
+        "description": "グラフィックな暴力または脅威"
+      },
+      "copyright": {
+        "label": "著作権侵害",
+        "description": "著作権で保護された素材の無許可使用"
+      },
+      "other": {
+        "label": "その他",
+        "description": "コミュニティガイドラインのその他の違反"
+      }
+    }
+  },
+  "time": {
+    "just_now": "今",
+    "minutes_ago": "{{count}}分前",
+    "hours_ago": "{{count}}時間前",
+    "days_ago": "{{count}}日前"
+  },
+  "ad_consent": {
+    "title": "広告とプライバシー",
+    "description": "私たちは無料のサービスを支えるために広告を利用しています。関連性のある広告を提供するために、広告パートナーは以下のデータを収集する場合があります：",
+    "banner_text": "無料のサービスを支えるために、クッキーと広告を使用しています。これを受け入れることで、パーソナライズされた広告に必要なデータ収集を許可します。",
+    "learn_more": "詳しくはこちら",
+    "data": {
+      "browsing": "閲覧履歴と検索履歴",
+      "preferences": "ユーザーの好みとコンテンツの相互作用",
+      "profile": "ユーザープロファイル（プランの種類）"
+    },
+    "note_title": "ご注意ください：",
+    "note_content": "設定でいつでも選択を変更できます。拒否しても基本的なウェブサイト機能には影響しませんが、広告の関連性が低くなることがあります。",
+    "privacy_policy": "詳細については、当社の",
+    "privacy_link": "プライバシーポリシー",
+    "reject": "拒否",
+    "accept": "受け入れる"
+  }
+}

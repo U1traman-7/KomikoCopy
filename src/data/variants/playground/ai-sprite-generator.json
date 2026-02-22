@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Sprite Generator",
+      "description": "Create stunning sprite art instantly! Transform your photos with our AI Sprite Generator and share unique visuals that captivate and inspire.",
+      "keywords": "AI Sprite Generator, AI pixel art creator, AI character generator, sprite art generator, digital art transformation"
+    },
+    "hero": {
+      "title": "AI Sprite Generator"
+    },
+    "whatIs": {
+      "title": "What is AI Sprite Generator?",
+      "description": "The AI Sprite Generator is a specialized tool for artists and hobbyists to convert standard images into unique sprite art. Leveraging advanced AI algorithms, users upload their photos to apply various sprite-style filters, resulting in visually striking artwork reminiscent of classic gaming aesthetics. Experience an easy-to-use interface designed for everyone, delivering high-quality outputs effortlessly."
+    },
+    "examples": {
+      "title": "AI Sprite Generator Examples",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "How to Use the AI Sprite Generator",
+      "steps": [
+        {
+          "title": "Step 1: Upload Your Photo",
+          "content": "Choose a clear, high-resolution photo from your device. The AI works best with images that have good contrast and distinct outlines for optimal results."
+        },
+        {
+          "title": "Step 2: Select the Sprite Sheet Template",
+          "content": "Select the Sprite Sheet template to transform your photo with the sprite sheet style."
+        },
+        {
+          "title": "Step 3: Convert to Sprite Sheet",
+          "content": "Hit 'Convert to Sprite Art' and let the AI transform your image into vibrant sprite artwork, ready for your review and adjustments."
+        },
+        {
+          "title": "Step 4: Download and Share",
+          "content": "Once you’re happy with the result, download your sprite art easily! Share your creation on social media to connect with fellow creators."
+        }
+      ],
+      "subtitle": "Transform your photos into incredible sprite art in just a few simple steps."
+    },
+    "benefits": {
+      "title": "Why Use the AI Sprite Generator?",
+      "description": "Experience unmatched features designed for creators of every level.",
+      "features": [
+        {
+          "title": "🎨 Unique Art Styles",
+          "content": "With a variety of sprite art styles available, customize your creations to match any artistic vision or project need."
+        },
+        {
+          "title": "⚡ Quick and Effective",
+          "content": "Transform your images rapidly. Our AI Sprite Generator ensures fast processing times without compromising quality."
+        },
+        {
+          "title": "🖼️ Simple to Use",
+          "content": "Enjoy an easy-to-navigate interface perfect for both beginners and seasoned digital artists looking for quick creative solutions."
+        },
+        {
+          "title": "💫 High-Quality Outputs",
+          "content": "Generate high-resolution images ready for printing, online sharing, or any artistic project you have in mind."
+        },
+        {
+          "title": "🎯 Creative Community",
+          "content": "Join a lively community of sprite art enthusiasts where you can share your work, find inspiration, and engage with others."
+        },
+        {
+          "title": "🚀 Regular Updates",
+          "content": "Take advantage of ongoing enhancements with new styles and features continuously rolled out for your creative exploration."
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI Sprite Generator FAQ",
+      "description": "",
+      "q1": "What image formats does the AI Sprite Generator support?",
+      "a1": "Supports JPG, PNG, and WEBP formats; users can easily upload and download high-resolution outputs.",
+      "q2": "How does the AI Sprite Generator create sprite art?",
+      "a2": "By utilizing advanced machine learning algorithms honed on diverse art styles, the AI produces authentic sprite transformations.",
+      "q3": "Is there a limit to the number of images I can transform?",
+      "a3": "No limits! You can transform as many images as you’d like—explore creativity without restrictions.",
+      "q4": "Can I use the generated sprite art commercially?",
+      "a4": "Absolutely! The sprite art you create can be used for commercial ventures, enhancing your projects.",
+      "q5": "Is using the AI Sprite Generator free?",
+      "a5": "Yes, our AI Sprite Generator is free to use! Explore premium options for advanced styles."
+    },
+    "cta": {
+      "title": "Start Creating with AI Sprite Generator Today!",
+      "description": "Embrace the world of pixel art with our AI Sprite Generator. Transform your photos into unique sprite art and showcase your creativity—begin your artistic journey now!",
+      "buttonText": "Try AI Sprite Generator Free"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into stunning sprite art",
+  "originalKeyword": "AI Sprite Generator",
+  "defaultStyle": "sprite-sheet",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/boy-output.webp",
+      "prompt": "Style: Sprite Sheet",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/4_portrait-2-3_9129.webp"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/girl-output.webp",
+      "prompt": "Style: Sprite Sheet",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/3_portrait-2-3_274.webp"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/girl2-output.webp",
+      "prompt": "Style: Sprite Sheet",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/1_portrait-2-3_9842.webp"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/ganyu-output.webp",
+      "prompt": "Style: Sprite Sheet",
+      "input": "/images/examples/playground/ai-sprite-generator/ganyu-input.webp"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "meta": {
+      "title": "KI-Stilübertragung",
+      "description": "Verwandeln Sie Ihre Bilder mithilfe unseres KI-Stilübertragungs-Tools im Handumdrehen in einzigartige Kunstwerke. Erstellen Sie noch heute beeindruckende Kunst! Testen Sie es kostenfrei.",
+      "keywords": "KI-Stilübertragung, KI-Kunstgenerator, Foto zu Kunst, künstlerische Fototransformation, KI-Bildverbesserung"
+    },
+    "hero": {
+      "title": "KI-Stilübertragung"
+    },
+    "whatIs": {
+      "title": "Was ist KI-Stilübertragung?",
+      "description": "Die KI-Stilübertragung nutzt fortschrittliches maschinelles Lernen, um Ihre Fotos zu analysieren und eine Vielzahl künstlerischer Stile anzuwenden. Von klassischen Ölgemälden bis hin zu lebendiger digitaler Kunst – beobachten Sie, wie sich Ihre Bilder in beeindruckende künstlerische Interpretationen verwandeln, die auf Ihre Vision und Ihren Geschmack zugeschnitten sind."
+    },
+    "examples": {
+      "title": "Beispiele für KI-Stilübertragung",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "So verwenden Sie die KI-Stilübertragung",
+      "steps": [
+        {
+          "title": "Schritt 1: Laden Sie Ihr Foto hoch",
+          "content": "Wählen Sie ein hochauflösendes Foto aus, das Sie transformieren möchten. Klicken Sie auf die Schaltfläche zum Hochladen, um ein Bild von Ihrem Gerät auszuwählen."
+        },
+        {
+          "title": "Schritt 2: Wählen Sie einen künstlerischen Stil aus",
+          "content": "Durchsuchen Sie eine umfangreiche Galerie von KI-generierten Kunststilen, vom Impressionismus bis zu modernen Vektorgrafiken. Wählen Sie einen Stil, der mit Ihrer künstlerischen Vision übereinstimmt."
+        },
+        {
+          "title": "Schritt 3: Generieren Sie Ihr Kunstwerk",
+          "content": "Klicken Sie auf die Schaltfläche 'Transformieren' und beobachten Sie, wie Ihr Foto in Echtzeit und in wenigen Augenblicken transformiert wird!"
+        },
+        {
+          "title": "Schritt 4: Herunterladen und teilen",
+          "content": "Veröffentlichen Sie Ihr neu gestaltetes Kunstwerk online, teilen Sie es mit Ihren Lieben oder verwenden Sie es in Ihren Projekten. Laden Sie Ihr Meisterwerk mit einem einzigen Klick herunter."
+        }
+      ],
+      "subtitle": "Eine einfache Anleitung zur nahtlosen Transformation Ihrer Bilder."
+    },
+    "benefits": {
+      "title": "Warum KI-Stilübertragung verwenden?",
+      "description": "Entdecken Sie die einzigartigen Vorteile der künstlerischen Transformation.",
+      "features": [
+        {
+          "title": "🎨 Vielfältige künstlerische Stile",
+          "content": "Wählen Sie aus einer kuratierten Auswahl künstlerischer Stile, um jeder Transformation eine persönliche Note zu verleihen."
+        },
+        {
+          "title": "⚡ Schnell und benutzerfreundlich",
+          "content": "Erleben Sie schnelle Transformationen mit einer Benutzeroberfläche, die für Benutzer aller Erfahrungsstufen entwickelt wurde."
+        },
+        {
+          "title": "🖼️ Hochauflösende Ausgaben",
+          "content": "Behalten Sie die Qualität Ihrer Originale mit einer erstklassigen Ausgabe, die sich perfekt zum Drucken eignet."
+        },
+        {
+          "title": "💫 Entfesseln Sie Ihre Kreativität",
+          "content": "Fördern Sie die künstlerische Erkundung und erweitern Sie die Grenzen Ihrer Fotografie."
+        },
+        {
+          "title": "🎯 Nahtlose Zugänglichkeit",
+          "content": "Erstellen Sie Kunst von überall mit Internetzugang – perfekt für spontane Kreativität."
+        }
+      ]
+    },
+    "faq": {
+      "title": "KI-Stilübertragung FAQ",
+      "description": "",
+      "q1": "Was ist KI-Stilübertragung und wie funktioniert sie?",
+      "a1": "Die KI-Stilübertragung verwendet ausgefeilte Algorithmen, um Ihre Fotos zu analysieren und künstlerische Eigenschaften anzuwenden, wodurch die beiden zu einem neuen Kunstwerk verschmolzen werden, das die gewählten Stile widerspiegelt.",
+      "q2": "Wie kann ich mit der KI-Stilübertragung die besten Ergebnisse erzielen?",
+      "a2": "Verwenden Sie für optimale Ergebnisse Bilder mit klaren Schwerpunkten und experimentieren Sie mit verschiedenen Stilen, um Ihre ideale Ästhetik zu finden.",
+      "q3": "Ist die Verwendung der KI-Stilübertragung kostenlos?",
+      "a3": "Ja, unsere grundlegenden Funktionen sind kostenfrei! Entdecken Sie Premium-Optionen für erweiterte Stile.",
+      "q4": "Was unterscheidet die KI-Stilübertragung von Filtern?",
+      "a4": "Die KI-Stilübertragung verwendet Deep Learning, um nuancierte künstlerische Stile nachzubilden und bietet Einzigartigkeit und Tiefe, die über reine Farbfilter hinausgehen.",
+      "q5": "Kann ich meine KI-Stilübertragungs-Kreationen kommerziell nutzen?",
+      "a5": "Ja, transformierte Bilder können kommerziell verwendet werden. Wir empfehlen jedoch, unsere Nutzungsbedingungen bezüglich abgeleiteter Werke zu überprüfen."
+    },
+    "cta": {
+      "title": "Erstellen Sie noch heute Ihr KI-Stilübertragungs-Kunstwerk",
+      "description": "Tauchen Sie ein in eine Welt der Kreativität und verwandeln Sie Ihre Fotos mit unserem KI-Stilübertragungs-Tool in atemberaubende Kunstwerke. Beginnen Sie jetzt Ihre künstlerische Reise!",
+      "buttonText": "KI-Stilübertragung kostenlos ausprobieren"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique AI artwork",
+  "originalKeyword": "AI Style Transfer",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Korean Manhwa"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Cyberpunk"
+    }
+  ]
+}

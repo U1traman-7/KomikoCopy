@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Animate A Picture ",
+      "description": "Transform static images into lifelike animations using AI technology. Animate your photos, artwork, and illustrations seamlessly with our powerful Animate A Picture tool.",
+      "keywords": "Animate a Picture, image animation, AI animation, AI picture animation, image to animation tool, AI animation generator"
+    },
+    "hero": {
+      "title": "Animate A Picture",
+      "description": "Bring your static images to life with AI-powered animation. Convert your photos, artwork, or illustrations into engaging animations using our Animate A Picture tool."
+    },
+    "whatIs": {
+      "title": "What is Animate A Picture?",
+      "description": "Animate A Picture is an innovative AI tool that turns static images into captivating animations. Perfect for creating dynamic content from your photos, artwork, or illustrations."
+    },
+    "examples": {
+      "title": "Examples of Animate A Picture",
+      "description": "Discover the power of AI with examples from our Animate A Picture tool. See how static images become dynamic animations!",
+      "inputAlt": "Example Input Image",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result"
+    },
+    "howToUse": {
+      "title": "How to Animate a Picture",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Choose the static image you want to animate. Whether it's a portrait, illustration, or artwork, our AI can transform it into animation."
+        },
+        {
+          "title": "Enter a Prompt",
+          "content": "Describe the movement you want the AI to animate in your picture. Guide the animation with specific prompts."
+        },
+        {
+          "title": "Generate Animation",
+          "content": "Click on the 'Animate Picture' button and watch as the AI creates a dynamic animation from your image."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Download the animated picture and share your creation on social media or save it for personal projects."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Benefits of Using Animate A Picture",
+      "description": "Explore the advantages of transforming static images into animations with our Animate A Picture tool.",
+      "features": [
+        {
+          "title": "AI-Powered Animation",
+          "content": "Utilize the capabilities of AI to transform static images into vibrant animations effortlessly.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Create Engaging Content",
+          "content": "Convert your still images into dynamic visuals that capture attention, perfect for digital storytelling and social media.",
+          "icon": "🎬"
+        },
+        {
+          "title": "User-Friendly Interface",
+          "content": "Our interface is designed for ease of use, letting anyone create animations without prior experience.",
+          "icon": "👌"
+        },
+        {
+          "title": "Efficient and Quick",
+          "content": "Reduce time spent on creating animations from scratch with our fast AI processing.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Professional Quality",
+          "content": "Achieve high-quality animations with smooth transitions and expressive movements.",
+          "icon": "✨"
+        },
+        {
+          "title": "Foster Creativity",
+          "content": "Focus on your creative ideas while our AI handles the technical aspects of animating.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Get answers to common questions about our Animate A Picture.",
+      "q1": "What is Animate A Picture?",
+      "a1": "Animate A Picture is an AI tool that transforms static images into lively animations using advanced technology. This tool brings your pictures to life by adding movement and dynamic effects, perfect for creative projects.",
+      "q2": "How to use Animate A Picture?",
+      "a2": "Using Animate A Picture is simple! First, upload your image, then enter a descriptive prompt to guide the animation, and finally, click 'Animate Picture' to generate the animation. Watch your image turn into an engaging animation effortlessly.",
+      "q3": "How does Animate A Picture work?",
+      "a3": "Animate A Picture uses cutting-edge AI technology to analyze static images and apply movement. It creates animations by processing your inputs using advanced algorithms, resulting in dynamic and realistic animations.",
+      "q4": "What is the best image to animation tool?",
+      "a4": "KomikoAI provides the best image to animation tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Animate A Picture, you can create dynamic animations, making it perfect for users who want to elevate their visual storytelling.",
+      "q5": "Is the KomikoAI Animate A Picture free online?",
+      "a5": "Yes, you can test out the Animate A Picture on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Animate A Picture?",
+      "a6": "You can use Animate A Picture on KomikoAI to create animated photos for social media, bring illustrations to life, and craft eye-catching content for personal or professional projects.",
+      "q7": "Can I use Animate A Picture on my phone?",
+      "a7": "Yes, you can use Animate A Picture as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Animate A Picture?",
+      "a8": "Yes, KomikoAI's Animate A Picture allows you to export your generation in various formats, such as MP4, GIF, WebM, for easy sharing.",
+      "q9": "Why should I use Animate A Picture?",
+      "a9": "Using Animate A Picture can enhance your visual content creation. Our tool allows you to transform static images into animations, creating engaging content with minimal effort. It is suitable for all creators, regardless of technical expertise."
+    },
+    "cta": {
+      "title": "Animate Your Pictures for FREE with Our Animate A Picture Today!",
+      "description": "Unleash the potential of your images with dynamic animations.",
+      "buttonText": "Try Our Animate A Picture Free"
+    }
+  },
+  "placeholderText": "Generate Animate A Picture style artwork",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Kling",
+      "description": "Prompt: A girl is talking to herself peacefully",
+      "videoUrl": "/images/examples/image-animation-generator/output5.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Marey",
+      "description": "Prompt: Motion Transfer - Advanced motion capture and animation techniques",
+      "videoUrl": "https://framerusercontent.com/assets/G6g5UNTx9dlKbMGdS8Iag4Xas.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: The boy slowly lean in, gently holds the girl's face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Veo 3",
+      "description": "Prompt: A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+      "videoUrl": "/images/pages/veo3/example7.webm"
+    }
+  ],
+  "originalKeyword": "Animate A Picture",
+  "pageStructure": [
+    "examples",
+    "howToUse",
+    "moreAITools",
+    "whatIs",
+    "whyUse",
+    "faq",
+    "cta"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Vidu AI 视频生成器 - KomikoAI",
+      "description": "使用 Vidu AI 视频生成器，将静态图像转化为令人惊叹的动态视频。借助 AI 技术，轻松为您的漫画、插画和艺术作品赋予生机。",
+      "fullDescription": "探索 Vidu AI 视频生成器，这款革命性的人工智能视频创作工具能够将静态图像转化为生动、引人入胜的视频。它是艺术家、内容创作者和动画师的理想选择，帮助他们以最小的投入快速将视觉故事变为现实。",
+      "keywords": "Vidu AI 视频生成器, AI 视频生成器, 图像到视频转换器, 视频动画工具, AI 视频创作, 自动视频生成器, AI 驱动的视频工具, 视频制作 AI, 文本到视频, 视频内容创建"
+    },
+    "hero": {
+      "title": "Vidu AI 视频生成器",
+      "description": "借助人工智能的强大力量，将静态图像和艺术作品转化为引人入胜的视频，让您的作品焕发生机。利用尖端技术，从漫画、Manhwa（韩国漫画）、Manga（日本漫画）等创作动画。"
+    },
+    "whatIs": {
+      "title": "什么是 Vidu AI 视频生成器？",
+      "description": "Vidu AI 视频生成器是一款先进的人工智能工具，可以将静态图像和文本输入转化为高质量的动画视频。它集成了深度学习算法，专门用于视频合成、运动动画和风格迁移，从而能够从静态艺术作品、照片或描述性提示生成动态视频内容。这款工具专为娱乐、营销和数字媒体等行业的创作者设计，通过自动生成具有可定制输出的动画，降低了传统视频制作的复杂性。"
+    },
+    "examples": {
+      "title": "Vidu AI 视频生成器示例",
+      "description": "了解如何使用 Vidu AI 视频生成器将您的艺术作品转化为充满活力的动画，非常适合社交媒体、故事叙述和创意项目。"
+    },
+    "howToUse": {
+      "title": "如何使用 Vidu AI 视频生成器",
+      "steps": [
+        {
+          "title": "上传您的图像",
+          "content": "首先上传您希望制作动画的静态图像或艺术作品，无论是漫画分格、漫画草图还是数字插画。该工具支持多种图像格式。"
+        },
+        {
+          "title": "输入您的动画提示",
+          "content": "提供您希望看到的动画的详细描述。包括角色动作、表情、背景运动和风格偏好等元素，以指导 AI 的创作过程。"
+        },
+        {
+          "title": "生成您的视频",
+          "content": "点击生成按钮，观看 Vidu AI 视频生成器在几秒钟内将您的静态图像转化为生动的视频动画。"
+        },
+        {
+          "title": "下载并分享",
+          "content": "生成后，以高清格式下载您的视频，并在您的社交媒体渠道、作品集或各种内容项目中使用。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "为什么选择 Vidu AI 视频生成器？",
+      "description": "了解 Vidu AI 视频生成器的强大优势，它可以快速、轻松地从您的图像创建引人入胜的视频内容。非常适合艺术家、营销人员和故事叙述者。",
+      "features": [
+        {
+          "title": "轻松实现视频动画",
+          "content": "将任何静态艺术作品转换为动态视频，无需专业的动画技能。",
+          "icon": "🎥"
+        },
+        {
+          "title": "快速且高效",
+          "content": "在几秒钟内生成高质量的视频动画，从而加速您的创作工作流程。",
+          "icon": "⚡"
+        },
+        {
+          "title": "多样化的风格选择",
+          "content": "创建反映各种视觉风格的视频，包括动漫、漫画、Manhwa（韩国漫画）和其他插画格式。",
+          "icon": "🎨"
+        },
+        {
+          "title": "内容创作者的理想之选",
+          "content": "为社交媒体、营销活动、网络漫画等创作独特的视频内容。",
+          "icon": "🌟"
+        },
+        {
+          "title": "一致的视觉叙事",
+          "content": "通过跨多个视频无缝地为角色和场景设计动画，保持视觉连续性。",
+          "icon": "📖"
+        },
+        {
+          "title": "允许商业用途",
+          "content": "在您的商业项目、广告和宣传材料中使用生成的视频，不受任何限制。",
+          "icon": "💼"
+        }
+      ]
+    },
+    "faq": {
+      "title": "关于 Vidu AI 视频生成器的常见问题",
+      "description": "在此处查找常见问题的解答，以更好地了解和充分利用 Vidu AI 视频生成器。",
+      "q1": "什么是 Vidu AI 视频生成器？",
+      "a1": "Vidu AI 视频生成器是一款复杂的 AI 工具，它通过应用先进的视频动画算法，将静态图像转换为引人入胜的动画视频。",
+      "q2": "Vidu AI 视频生成器的工作原理是什么？",
+      "a2": "它会分析您上传的图像以及您的描述性提示，然后生成动画序列，为您的视觉效果带来运动和活力。",
+      "q3": "我需要任何特殊技能才能使用此工具吗？",
+      "a3": "您无需任何先前的动画或技术技能，这使得它适用于初学者和专业人士。",
+      "q4": "生成的视频可以用于商业用途吗？",
+      "a4": "是的，根据平台的使用政策，所有创建的视频都可以用于个人和商业目的。",
+      "q5": "AI 接受哪些格式的图像上传？",
+      "a5": "支持常见的图像格式，如 JPG 和 PNG；为获得最佳效果，请使用清晰的高分辨率图像。",
+      "q6": "哪种类型的图像效果最好？",
+      "a6": "具有清晰轮廓和细节的插画、角色设计、照片和风格化图形可产生最佳的动画效果。",
+      "q7": "我可以自定义动画风格吗？",
+      "a7": "是的，您可以在提示中指定样式和效果，以便根据您的艺术愿景定制动画。",
+      "q8": "我可以生成的视频数量有限制吗？",
+      "a8": "您可以生成的视频数量取决于您的订阅计划。免费用户有每日限制，高级用户可以享受更多功能。"
+    }
+  },
+  "originalKeyword": "Vidu AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：Vidu Q1",
+      "description": "Prompt: A cat turns into a tiger",
+      "videoUrl": "/images/pages/vidu/cat.webm"
+    },
+    {
+      "id": 2,
+      "title": "模型：Vidu Q1",
+      "description": "Prompt: A fairy sits in the blossom as the petals open",
+      "videoUrl": "/images/pages/vidu/flower.webm"
+    },
+    {
+      "id": 3,
+      "title": "模型：Vidu Q1",
+      "description": "Prompt: The camera quickly zooms in on the man from a distance",
+      "videoUrl": "/images/pages/vidu/man.webm"
+    },
+    {
+      "id": 4,
+      "title": "模型：Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "VIDU_Q2"
+}

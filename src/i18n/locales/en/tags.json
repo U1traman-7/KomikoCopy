@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "title": "{{tag}} AI",
+    "titleWithDescription": "{{tag}} Fanart",
+    "description": "Discover stunning {{tag}} art, and turn your own ideas into {{tag}} fanart with KomikoAI. Create amazing {{tag}} fanart, {{tag}} oc, and animations for free.",
+    "descriptionWithTagDescription": "{{tagDescription}} Discover stunning {{tag}} art, and turn your own ideas into {{tag}} fanart with KomikoAI. Create amazing {{tag}} fanart, {{tag}} oc, and animations for free.",
+    "keywords": "{{tag}} AI, {{tag}} ai, {{tag}} Art, {{tag}} Fanart, {{tag}} {{tag}}, {{tag}} AI Art, {{tag}} AI Art Generator, AI {{tag}}, AI {{tag}} Generator, {{tag}} generator, {{tag}} AI Generator, {{tag}} Anime Art, {{tag}} {{tag}} Maker, {{tag}} {{tag}} Generator, {{tag}} AI Anime, {{tag}} Anime AI Art"
+  },
+  "title": "{{tag}} AI",
+  "titleWithDescription": "{{tag}} Fanart",
+  "pageDescription": "Discover stunning {{tag}} art, and turn your own ideas into {{tag}} fanart with KomikoAI. Create amazing {{tag}} fanart, {{tag}} oc, and animations for free.",
+  "headings": {
+    "mainTitle": "{{tag}} AI",
+    "mainTitleWithDescription": "{{tag}} AI Art",
+    "whatIs": "Create Your Own {{tag}} Art with {{tag}} AI",
+    "whatIsWithDescription": "Create Your Own {{tag}} Fanart with KomikoAI",
+    "howToUse": "How to Use the {{tag}} AI Generator",
+    "whyUse": "Why Use {{tag}} AI Generator",
+    "applications": "{{tag}} AI Generator Applications"
+  },
+  "whatIsDescription": "Discover the best {{tag}} AI art, and turn your own ideas into stunning {{tag}} art and {{tag}} OCs with {{tag}} AI. The {{tag}} AI generator is trained on millions of {{tag}} artworks, so you can make high-quality {{tag}} art in just seconds!",
+  "whatIsDescriptionWithDescription": "Discover the best {{tag}} AI art, and turn your own ideas into {{tag}} fanart and {{tag}} OC with AI. KomikoAI's {{tag}} generator knows the world of {{tag}} inside and out, so you can make high-quality {{tag}} art in just seconds!",
+  "howToUseDescription": "Follow these simple steps to create stunning {{tag}} artwork with our AI {{tag}} generator",
+  "whyUseDescription": "Discover why thousands of creators choose AI {{tag}} Art Generator for their anime artwork needs.",
+  "howToUseSteps": [
+    {
+      "title": "Enter Your Prompt",
+      "content": "Start by typing a detailed description of the {{tag}} art you want to create. Include character details, scene elements, art style, and mood for best results."
+    },
+    {
+      "title": "Choose Your Style",
+      "content": "Start by typing a detailed description of the {{tag}} art you want to create. Include character details, scene elements, art style, and mood for best results."
+    },
+    {
+      "title": "Generate Your {{tag}} Art",
+      "content": "Select from preset anime styles or specify your own aesthetic preferences like manga, anime, manhwa, or specific artist influences."
+    },
+    {
+      "title": "Download & Share",
+      "content": "Discover why thousands of creators choose AI {{tag}} Art Generator for their anime artwork needs."
+    }
+  ],
+  "cta": {
+    "title": "Experience The AI {{tag}} Generator",
+    "description": "The {{tag}} AI generator is trained on millions of beautiful {{tag}} artworks, so you can easily create personalized {{tag}} AI art. No artistic skills required - just your imagination and a few descriptive words!",
+    "button": "Try {{tag}} AI Now"
+  },
+  "generateArt": "Generate {{tag}} Art",
+  "followers": "Followers",
+  "follow": "Follow",
+  "search_tags_placeholder": "Search popular tags...",
+  "unfollow": "Unfollow",
+  "applyModerator": "Apply Mod",
+  "showMore": "Show more",
+  "showLess": "Show less",
+  "host": "Host",
+  "moderators": "Mods",
+  "mods": "Mods",
+  "people": "",
+  "cancel": "Cancel",
+  "save": "Save",
+  "owner": "Owner",
+  "moderator": "Mod",
+  "postsLabel": "Posts",
+  "allPosts": "All Posts",
+  "trending": "Trending",
+  "newest": "Newest",
+  "featured": "Featured",
+  "characters": "Characters",
+  "followersLabel": "Followers",
+  "viewAll": "View All",
+  "characterAdded": "Character added",
+  "characterRemoved": "Character removed",
+  "cannotRemoveOfficial": "Cannot remove official character",
+  "addCharacterToTag": "Add Character to Tag",
+  "searchCharacters": "Search characters by name...",
+  "noCharactersFound": "No characters found",
+  "typeMoreToSearch": "Type at least 2 characters to search",
+  "searchCharacterHint": "Search for characters to add to this tag",
+  "noCharactersYet": "No characters yet",
+  "noCharactersDesc": "Characters related to this tag will appear here",
+  "addCharacter": "Add Character",
+  "relatedCharacters": "Related Characters",
+  "removeCharacter": "Remove from tag",
+  "noModerators": "No moderators yet",
+  "hiddenPosts": {
+    "title": "Hidden Posts",
+    "empty": "No hidden posts",
+    "hiddenAt": "Hidden",
+    "unhide": "Unhide",
+    "unhideSuccess": "Post unhidden"
+  },
+  "settings": {
+    "title": "Settings",
+    "basicSettings": "Basic Settings",
+    "remove": "Remove",
+    "removeHeader": "Remove Header",
+    "logo": "Logo",
+    "uploadLogo": "Upload Logo",
+    "headerImage": "Header Image",
+    "clickToUpload": "Click to upload",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe this tag...",
+    "invalidImage": "Please select an image file",
+    "success": "Saved successfully!",
+    "error": "Failed to save",
+    "isNsfw": "This is an NSFW tag",
+    "isNsfwDescription": "Turning this on will allow mature/adult content in this tag",
+    "ctaLink": "CTA Button Link",
+    "ctaLinkError": "Only internal links allowed (relative paths or komiko.app/komikoai.com)",
+    "ctaLinkHint": "Only internal links allowed. Leave empty to use default.",
+    "ctaLinkHintWithDefault": "Auto-detected: {{defaultLink}}",
+    "characterCategory": "Character Category",
+    "characterCategoryPlaceholder": "Search or select a category",
+    "characterCategoryHint": "Link this tag to an official character category.",
+    "moderators": "Moderator Management",
+    "noModerators": "No moderators yet",
+    "ownerBadge": "Owner",
+    "removeMod": "Remove moderator",
+    "confirmDeleteMod": "Are you sure you want to remove moderator {{name}}?",
+    "deleteModSuccess": "Moderator removed successfully",
+    "deleteModFailed": "Failed to remove moderator",
+    "logoHint": "Square image recommended. Non-square images will be center-cropped.",
+    "headerHint": "Recommended size: 1200x400px. Larger images will be resized.",
+    "imageProcessError": "Failed to process image",
+    "allowedMediaTypes": "Allowed Media Types",
+    "mediaTypeAll": "All (Images & Videos)",
+    "mediaTypeImage": "Images Only",
+    "mediaTypeVideo": "Videos Only"
+  },
+  "addMod": {
+    "title": "Add Moderator",
+    "emailLabel": "User Email",
+    "emailPlaceholder": "Enter the user's registered email",
+    "roleLabel": "Role",
+    "roleModerator": "Moderator",
+    "roleOwner": "Owner",
+    "confirm": "Add Moderator",
+    "emailRequired": "Please enter an email address",
+    "failed": "Failed to add moderator",
+    "success": "Moderator added successfully!",
+    "networkError": "Network error, please try again"
+  },
+  "moderatorApplication": {
+    "title": "Apply to Become a Komiko Moderator!",
+    "status": "Application Status",
+    "pending": "Pending Review",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "pendingMessage": "Your application is being reviewed. We will notify you once a decision is made.",
+    "approvedMessage": "Congratulations! Your application has been approved. You are now a moderator for this tag.",
+    "rejectedMessage": "Unfortunately, your application was not approved this time. You may apply again later.",
+    "submitted": "Application submitted successfully!",
+    "introTitle": "Help shape the community and enjoy exclusive perks as a moderator!",
+    "benefitsTitle": "Benefits:",
+    "benefit1": "Power to manage content: Pin posts, edit tag details, and feature/hide content.",
+    "benefit2": "Exclusive training: Access official workshops on tag management and community discussions.",
+    "process": "Approval is directly reviewed by Komiko's team. Results will be delivered within 5 business days if selected.",
+    "preferredName": "How should we address you?",
+    "preferredNamePlaceholder": "e.g. Your nickname or preferred name",
+    "tagsQuestion": "Which tag(s) are you interested in moderating?",
+    "contact": "What's your Discord handle or email address?",
+    "contactPlaceholder": "e.g. yourname#1234 or you@example.com",
+    "reason": "Why should we choose you?",
+    "reasonPlaceholder": "Tell us about your experience, motivation, and how you would help this community...",
+    "note": "Your application will be reviewed by our team. We'll notify you once a decision is made.",
+    "submitApplication": "Submit Application",
+    "close": "Close",
+    "preferredNameRequired": "Please enter your preferred name",
+    "preferredNameTooLong": "Name must be 50 characters or less",
+    "contactInfoRequired": "Please enter your contact information",
+    "invalidContactInfo": "Please enter a valid email or Discord username",
+    "reasonRequired": "Please tell us why we should choose you",
+    "reasonTooShort": "Please write at least 50 characters",
+    "reasonTooLong": "Please keep it under 1000 characters",
+    "reasonMinLength": "Minimum 50 characters",
+    "applicationValidationFailed": "Please fix the errors in the form"
+  },
+  "tagOrder": {
+    "title": "Customize Tag Order",
+    "description": "Drag and drop to reorder your followed tags",
+    "position": "Position: {{position}}",
+    "noFollowedTags": "No followed tags yet. Follow some tags to customize their order!"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What is an AI {{tag}} Art Generator?",
+        "answer": "An AI {{tag}} Art Generator is an advanced AI-powered tool that creates custom anime-style artwork based on text descriptions. It uses deep learning algorithms trained on millions of anime images to generate unique illustrations in various anime styles including classic anime, manga, and modern styles."
+      },
+      {
+        "question": "How does AI {{tag}} Art Generator work?",
+        "answer": "AI {{tag}} Art Generator works by converting your text prompts into visual art using specialized AI models trained on anime artwork. Simply enter a detailed description of what you want to see, select any style preferences, and the AI will generate a unique anime illustration matching your description. The more specific your prompt, the better the results."
+      },
+      {
+        "question": "What types of anime art can I create?",
+        "answer": "You can create virtually any anime-style art including character portraits, action scenes, fantasy settings, sci-fi concepts, backgrounds, manga panels, and more. The generator supports various anime subgenres such as shōnen, shōjo, seinen, moe, chibi, and many others."
+      },
+      {
+        "question": "Do I need artistic skills to use the AI {{tag}} Art Generator?",
+        "answer": "No artistic skills are required! That's the beauty of AI {{tag}} Art Generator - it makes anime art creation accessible to everyone. Whether you're a professional artist looking for inspiration or someone with no drawing experience, you can create stunning anime art just by describing what you want."
+      },
+      {
+        "question": "How can I improve the quality of generated anime art?",
+        "answer": "For better results, use detailed prompts that include character features, outfit details, pose, expressions, backgrounds, lighting, and art style references. Try including specific anime artists or styles in your prompt like 'in the style of Studio Ghibli' or 'like Makoto Shinkai art'. Experiment with different prompts and learn what produces the best results for your vision."
+      },
+      {
+        "question": "Can I use the generated anime art commercially?",
+        "answer": "Yes, all artwork created with our AI {{tag}} Art Generator can be used for both personal and commercial projects, subject to our terms of service. This makes it perfect for content creators, game developers, webcomic artists, and businesses looking for unique anime-style visuals."
+      },
+      {
+        "question": "How many images can I generate?",
+        "answer": "The number of images you can generate depends on your subscription plan. Free users receive a limited number of generations per day, while premium subscribers enjoy higher or unlimited generation limits with access to additional features and higher resolution outputs."
+      },
+      {
+        "question": "Can I generate anime characters based on real people?",
+        "answer": "Yes, you can create anime-style versions of real people by describing their features in your prompt. For best results, include specific details about their appearance and the anime style you prefer. This feature is great for creating personalized anime avatars or character portraits."
+      },
+      {
+        "question": "What's the difference between manga and anime style generations?",
+        "answer": "Manga-style generations typically follow black and white, line art aesthetics with strong contrasts and distinctive panel layouts similar to Japanese comics. Anime-style generations feature full color, softer shading, and aesthetics closer to animated shows. Both styles can be specified in your prompts to get the exact look you want."
+      },
+      {
+        "question": "Can I edit the generated anime images?",
+        "answer": "Yes! Once generated, you can download your anime art and edit it using your preferred image editing software. For advanced users, the images make great starting points for further refinement, coloring, or integration into larger artwork or projects."
+      }
+    ]
+  },
+  "variants": {
+    "fanart": {
+      "title": "{{name}} Fanart",
+      "description": "Discover the best {{name}} fanart on KomikoAI, and get inspiration to create your own {{name}} fan art.",
+      "keywords": "{{name}} fanart, {{name}} fan art, {{name}} art, {{name}} anime art, {{name}} AI art, {{name}} OC, {{name}}",
+      "h1": "{{name}} Fanart",
+      "h1Description": "Discover the best {{name}} fanart on KomikoAI, and get inspiration to create your own {{name}} fan art.",
+      "createTitle": "Create Your Own {{name}} Fanart",
+      "createDescription": "Discover stunning {{name}} fanart, and get inspired by other {{name}} fan art creations.\n\nReimagine {{name}} in your own style. Generate beautiful {{name}} fanart in seconds with KomikoAI's advanced anime models.",
+      "buttonText": "Generate {{name}} Fanart Now!"
+    },
+    "oc": {
+      "title": "{{name}} OC",
+      "description": "Discover {{name}} OCs created by the community, and design your own {{name}}-inspired OC using KomikoAI.",
+      "keywords": "{{name}} oc, {{name}} original character, {{name}} oc maker, {{name}} ai oc, {{name}} character generator, {{name}} character design",
+      "h1": "{{name}} OC",
+      "h1Description": "Explore OCs created by {{name}} fans. Customize looks, outfits, and backstories to build your own version of {{name}} OC.",
+      "createTitle": "Design Your Own {{name}} OC",
+      "createDescription": "Ever imagined your own version of {{name}}? Use KomikoAI's powerful OC maker to bring your {{name}} OC ideas to life.\n\nMix traits, styles, and personalities to build your {{name}} OC — from a magical redesign to a cyberpunk alternate self.",
+      "buttonText": "Generate {{name}} OC Now!"
+    },
+    "pfp": {
+      "title": "{{name}} PFP",
+      "description": "Discover the best {{name}} PFPs, or generate your own {{name}} pfp with AI.",
+      "keywords": "{{name}} pfp, {{name}} profile picture, {{name}} avatar, {{name}} AI art, {{name}} art",
+      "h1": "{{name}} PFP",
+      "h1Description": "Explore cute and stylish {{name}} profile pictures created by the KomikoAI community, or generate your own {{name}} pfp.",
+      "createTitle": "Create Your Own {{name}} PFP",
+      "createDescription": "Explore stylish, expressive {{name}} profile pictures crafted by the KomikoAI community.\n\nTransform your ideas into stunning {{name}} pfps that match your vibe. Customize background colors, lighting, and mood — KomikoAI's models handle the artistry. Ideal for avatars on Discord, TikTok, YouTube, or anywhere your fandom shines.",
+      "buttonText": "Generate {{name}} PFP Now!"
+    },
+    "wallpaper": {
+      "title": "{{name}} Wallpaper",
+      "description": "Download or create stunning {{name}} wallpapers. Choose your favorite scenes and resolutions for your {{name}} wallpapers — mobile, tablet, or desktop.",
+      "keywords": "{{name}} wallpaper, {{name}} background, {{name}} anime wallpaper, {{name}} ai wallpaper, {{name}} hd wallpaper, {{name}} art",
+      "h1": "{{name}} Wallpaper",
+      "h1Description": "Explore a curated gallery of {{name}} wallpapers. Every {{name}} wallpaper is generated or inspired by the KomikoAI community.",
+      "createTitle": "Create Custom {{name}} Wallpapers",
+      "createDescription": "Design your own {{name}} wallpaper using KomikoAI's powerful AI models.\n\nSelect moods, lighting, and scenery — ocean sunset, neon city, fantasy ruins — and let AI generate a perfect {{name}} wallpaper for your phone or desktop.",
+      "buttonText": "Generate {{name}} Wallpaper Now!"
+    },
+    "pictures": {
+      "title": "{{name}} Pictures",
+      "description": "Browse the gallery of {{name}} pictures created by KomikoAI — portraits, scenes, sketches, and cinematic frames.",
+      "keywords": "{{name}} pictures, {{name}} art, {{name}} anime pictures, {{name}} ai pictures, {{name}} gallery, {{name}} ai art",
+      "h1": "{{name}} Pictures",
+      "h1Description": "Welcome to the gallery of {{name}} pictures. From portraits to action scenes, each image offers a different perspective on {{name}}.",
+      "createTitle": "Generate Your Own {{name}} Pictures",
+      "createDescription": "Explore stylish, expressive {{name}} pictures created by the KomikoAI community, and turn your ideas into visuals.\n\nKomikoAI lets you instantly create high-quality {{name}} pictures across multiple styles — manga, anime, cinematic, painterly, or realistic. Join thousands of creators generating {{name}} pictures.",
+      "buttonText": "Generate {{name}} Pictures Now!"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Blog KomikoAI | Tạo Truyện Tranh, Manhwa, Manga và Anime bằng AI",
+    "description": "Dễ dàng tạo truyện tranh, webtoon và các câu chuyện trực quan nhờ AI. Thiết kế nhân vật độc đáo và khám phá những thế giới truyện tranh vô tận.",
+    "blog_post": "Bài Viết",
+    "keywords": {
+      "general": "truyện tranh AI, manga, anime, tạo nhân vật, webtoon, nghệ thuật AI, công cụ tạo truyện tranh, công cụ tạo manga",
+      "base_tags": [
+        "AI",
+        "truyện tranh",
+        "manga",
+        "anime",
+        "tạo nhân vật",
+        "webtoon"
+      ]
+    }
+  },
+  "navigation": {
+    "see_all_posts": "Xem Tất Cả Các Bài Viết"
+  },
+  "article": {
+    "published_on": "Đăng ngày",
+    "min_read": "phút đọc",
+    "view_article": "Xem Bài Viết"
+  },
+  "sections": {
+    "latest_post": "Bài Mới Nhất",
+    "all_posts": "Tất Cả Bài Viết"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "seo": {
+    "title": "游戏角色生成器",
+    "description": "使用我们AI驱动的生成器创建独特的游戏角色。立即设计和可视化您的创作！现在就开始！",
+    "keywords": "AI角色创建器, AI 奇幻角色创建器, 游戏角色生成器, 角色设计工具, 游戏角色创建"
+  },
+  "placeholderText": "一个拥有蓝色头发和魔法力量的游戏角色生成器角色",
+  "content": {
+    "header": {
+      "title": "游戏角色生成器",
+      "subtitle": "使用先进的AI技术为您的游戏创建令人惊叹且独特的角色。"
+    },
+    "sections": {
+      "whatIs": {
+        "title": "什么是游戏角色生成器？",
+        "description": "游戏角色生成器是一个强大的AI驱动工具，用于设计专门为游戏领域量身定制的原创角色 (OC)。它允许您创建具有独特视觉特征、详细个性和沉浸式背景故事的角色，使其成为游戏开发者、艺术家和作家等的完美资源。使用我们的创新平台提升您的角色创建过程并激发您的想象力。"
+      },
+      "howToUse": {
+        "title": "通过 4 个简单步骤创建游戏角色",
+        "subtitle": "使用我们直观的界面轻松设计角色。",
+        "steps": [
+          {
+            "title": "步骤 1：描述您的角色",
+            "content": "首先描述您角色的外观——想想发色、服装风格、个人特征和特殊能力。更详细的描述会产生更好的AI创作。"
+          },
+          {
+            "title": "步骤 2：个性化角色特征",
+            "content": "从一系列自定义选项中进行选择：独特的面部特征、服装和配饰，以区分您角色的设计。 混合搭配以创建独特的组合！"
+          },
+          {
+            "title": "步骤 3：生成您的角色",
+            "content": "点击“生成角色”按钮，观看AI将您的想法变为现实！ 可以随意调整各个方面，直到它与您的愿景完美契合。"
+          },
+          {
+            "title": "步骤 4：保存并应用",
+            "content": "选择您理想的角色设计并最终确定。 您现在将拥有一个独特的创作，可以融入到您的游戏、故事或任何创意项目中！"
+          }
+        ]
+      },
+      "whyUse": {
+        "title": "为什么使用游戏角色生成器？",
+        "subtitle": "利用AI技术进行无与伦比的角色创建。",
+        "features": [
+          {
+            "title": "🎮 专为游戏量身定制",
+            "content": "制作特别适合游戏环境的角色，确保每个设计都能引起游戏社区的共鸣。"
+          },
+          {
+            "title": "🚀 速度和效率",
+            "content": "瞬间生成角色，让您可以专注于引人入胜的故事情节和游戏玩法，而不是繁琐的设计。"
+          },
+          {
+            "title": "🎨 高质量设计",
+            "content": "受益于视觉上令人惊叹的角色创作，这些创作符合并超过行业标准，并且角色美学多样化。"
+          },
+          {
+            "title": "🌟 独特的角色元素",
+            "content": "创建具有独特能力和丰富背景的角色，为玩家提供身临其境的讲故事体验。"
+          },
+          {
+            "title": "🤝 用户友好界面",
+            "content": "我们的工具专为新手和专业开发人员设计，简化了角色创建，确保了易于访问和愉快的导航。"
+          },
+          {
+            "title": "🔄 支持多种类型",
+            "content": "无论是您正在探索的奇幻、科幻还是任何类型，我们的生成器都支持多种艺术风格和偏好。"
+          }
+        ]
+      },
+      "examples": {
+        "title": "探索游戏角色生成器中的示例",
+        "description": "深入了解展示我们AI创建的各种角色的画廊！ 每个示例都突出了我们游戏角色生成器可能实现的创造力和独特设计，从而激发您自己独特的角色概念。"
+      },
+      "applications": {
+        "title": "游戏角色生成器的应用",
+        "items": [
+          {
+            "title": "游戏开发",
+            "content": "设计独特的角色，以增强游戏的叙事和玩家体验。"
+          },
+          {
+            "title": "讲故事",
+            "content": "为小说、漫画或动画创作令人难忘的角色，确保引人入胜的背景故事和独特的外观。"
+          },
+          {
+            "title": "概念艺术",
+            "content": "利用生成的角色作为概念艺术的起点，通过有效的AI驱动设计加速您的创作过程。"
+          },
+          {
+            "title": "角色扮演游戏和桌面游戏",
+            "content": "为角色扮演游戏创建出色的角色，为玩家提供具有背景故事和特征的丰富头像。"
+          }
+        ]
+      },
+      "tips": {
+        "title": "角色创建专家提示",
+        "items": [
+          "结合独特的能力和叙事来创建引人注目的角色，这些角色能够引起受众的共鸣。",
+          "使用原型作为基础，但注入原创性以使您的角色令人兴奋。",
+          "自由使用“重新生成”功能来探索角色各种不同的诠释。"
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "什么是游戏角色生成器，它是如何工作的？",
+        "answer": "游戏角色生成器采用AI来可视化基于您的描述的角色设计。 只需输入您角色的特征，即可在几秒钟内看到生成的艺术作品。"
+      },
+      {
+        "question": "如何确保我的角色具有独特性？",
+        "answer": "将特定的特征、故事和属性融入到您的角色描述中，供AI利用，从而保证独特而多样的输出。"
+      },
+      {
+        "question": "游戏角色生成器可以免费使用吗？",
+        "answer": "是的！ 游戏角色生成器是完全免费的，允许任何人探索和试验角色设计而无需付费。"
+      },
+      {
+        "question": "我可以将我创建的角色用于商业用途吗？",
+        "answer": "当然！ 您保留对您创建的角色的完全权利，非常适合用于商业活动。"
+      },
+      {
+        "question": "我可以创建哪些类型的角色？",
+        "answer": "从奇幻英雄到星际外星人，您可以为多种类型创作角色，展示为不同的创意项目量身定制的各种风格。"
+      }
+    ],
+    "cta": {
+      "title": "立即开始制作您独特的游戏角色",
+      "description": "使用我们的AI将您的想法转化为非凡的角色。 生成独特的设计，将您的项目提升到一个新的水平。 不要犹豫——立即开始创建您的角色！",
+      "buttonText": "免费创建游戏角色"
+    },
+    "examples": [
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/3_portrait-2-3_3627.webp",
+        "alt": "AI 生成的游戏角色生成器 2:3 纵向风格",
+        "prompt": "1girl, purple hair, pink eyes, cheerful demeanor, cute animal companion, casual game clothes, holding a game console, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/4_portrait-2-3_9957.webp",
+        "alt": "AI 生成的游戏角色生成器 2:3 纵向风格",
+        "prompt": "1boy, blonde hair, brown eyes, strategic expression, tactical outfit, holding a map, adventure-ready pose, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/5_portrait-2-3_7877.webp",
+        "alt": "AI 生成的游戏角色生成器 2:3 纵向风格",
+        "prompt": "1girl, teal hair, amber eyes, mischievous grin, magical girl attire, casting a spell, whimsical pose, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/6_portrait-2-3_8875.webp",
+        "alt": "AI 生成的游戏角色生成器 2:3 纵向风格",
+        "prompt": "1boy, red hair, blue eyes, serious look, battle armor, wielding a lance, ready for combat, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/7_portrait-2-3_1429.webp",
+        "alt": "AI 生成的游戏角色生成器 2:3 纵向风格",
+        "prompt": "1girl, black hair, violet eyes, enigmatic expression, rogue outfit, dual daggers, stealthy pose, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/2_portrait-2-3_3729.webp",
+        "alt": "AI 生成的游戏角色生成器 2:3 纵向风格",
+        "prompt": "1boy, spiky red hair, silver eyes, confident grin, cybernetic outfit, dual pistols, action stance, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/5_portrait-2-3_3143.webp",
+        "alt": "AI 生成的游戏角色生成器 2:3 纵向风格",
+        "prompt": "1girl, wild pink hair, violet eyes, mischievous smirk, steampunk explorer outfit, goggles on head, gear-shaped backpack, adventurous pose, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/8_portrait-2-3_6891.webp",
+        "alt": "AI 生成的游戏角色生成器 2:3 纵向风格",
+        "prompt": "1boy, messy brown hair, green eyes, determined look, post-apocalyptic survival gear, makeshift crossbow, survivalist pose, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      }
+    ]
+  },
+  "originalKeyword": "Video Game Character Generator"
+}

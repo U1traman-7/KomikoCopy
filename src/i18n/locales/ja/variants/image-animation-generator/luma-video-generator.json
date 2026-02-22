@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Luma Video Generator - KomikoAI",
+      "description": "Luma Video Generatorで、画像から高品質かつリアルな動画を生成しましょう。マーケティング、ソーシャルメディア、ストーリーテリングに、高速で映画のようなAI動画生成をご活用ください。",
+      "keywords": "Luma Video Generator, AI動画生成, 画像から動画AI, AIアニメーションツール, 映画のようなAI動画, AI動画作成, Luma AI"
+    },
+    "hero": {
+      "title": "Luma Video Generator",
+      "description": "高度なAI技術により、静止画像をダイナミックで映画のような動画へと変換します。Luma AIが提供する、高速かつリアルな動画生成をご体験ください。"
+    },
+    "whatIs": {
+      "title": "Luma Video Generatorとは",
+      "description": "Luma Video Generatorは、Luma Labsが開発した高度なAI搭載ツールであり、静止画像を極めてリアルな短尺動画に変換します。最先端のニューラルネットワークと独自のDream Machine技術を活用し、自然な動き、滑らかなトランジション、奥行き効果、そして一貫性のあるシーンのダイナミクスを備えた、映画品質の動画を生成します。この技術は動画制作を自動化し、従来の撮影や編集の必要性を排除することで、クリエイター、マーケター、そして様々な業界の企業にとって、プロフェッショナルな動画作成をより手軽に、そしてスケーラブルに実現します。"
+    },
+    "examples": {
+      "title": "Luma Video Generatorの活用例",
+      "description": "Luma Video Generatorで作成された素晴らしい動画をご覧ください。AIによる画像から動画への変換機能をご紹介します。マーケティングキャンペーン、ソーシャルメディア、ストーリーテリングに最適な、静止アートワークがどのように豊かで魅力的な動画コンテンツへと変わるのかをご覧ください。"
+    },
+    "howToUse": {
+      "title": "Luma Video Generatorの使い方",
+      "steps": [
+        {
+          "title": "画像のアップロード",
+          "content": "まず、アニメーション化したい静止画像をアップロードします。これは、動画コンテンツのベースとなる素材です。"
+        },
+        {
+          "title": "プロンプトの入力",
+          "content": "動画で表現したいシーン、アクション、またはスタイルを記述します。動き、カメラアングル、ムード、または特定の効果に関する詳細を追加して、AIに指示を与えます。'prompt'"
+        },
+        {
+          "title": "動画の生成",
+          "content": "「生成」ボタンをクリックすると、AIが入力に基づいて処理を行い、映画のような動きと滑らかなトランジションを備えた、ダイナミックで視覚的に優れた動画を作成します。"
+        },
+        {
+          "title": "ダウンロードと共有",
+          "content": "生成された動画をプレビューし、MP4やGIFなどの一般的な形式でダウンロードして、ソーシャルメディア、マーケティングチャネル、または個人的なプロジェクトで共有します。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Luma Video Generatorのメリット",
+      "description": "Luma Video Generatorで、AIを活用した強力な動画作成能力を引き出しましょう。プロレベルの動画を迅速かつ容易に作成でき、クリエイティブなプロジェクト、マーケティング、デジタルストーリーテリングに最適です。",
+      "features": [
+        {
+          "title": "AI搭載による映画品質",
+          "content": "Dream MachineやRay2のような高度なAIモデルを活用して、リアルな照明、モーションコヒーレンス、そして高い視覚的忠実度を備えた映画のような動画を生成します。",
+          "icon": "🎥"
+        },
+        {
+          "title": "画像から動画への柔軟性",
+          "content": "静止画像から動画を作成することで、お客様のスタイルやニーズに合わせて柔軟なコンテンツ制作が可能です。",
+          "icon": "🖼️"
+        },
+        {
+          "title": "高速な動画生成",
+          "content": "わずか数秒から数分で動画を生成し、従来の撮影や編集ワークフローと比較して、制作時間を大幅に短縮します。",
+          "icon": "⚡"
+        },
+        {
+          "title": "シームレスな統合とアクセシビリティ",
+          "content": "ウェブまたはモバイルアプリ経由でLuma Video Generatorにアクセスし、APIと統合することで、既存のツールやワークフロー内で自動化された動画作成を実現します。",
+          "icon": "🔗"
+        },
+        {
+          "title": "魅力的な視覚効果",
+          "content": "映画のようなトランジション、ダイナミックなカメラワーク、そして3Dのような奥行き効果を追加して、ストーリーテリングと視聴者のエンゲージメントを高めます。",
+          "icon": "✨"
+        },
+        {
+          "title": "編集経験は不要",
+          "content": "あらゆるスキルレベルのユーザー向けに設計されており、アニメーションや動画編集の専門知識がなくても、驚くほど美しい動画を簡単に作成できます。",
+          "icon": "👌"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Luma Video Generatorに関するFAQ",
+      "description": "Luma Video Generatorと、画像からプロフェッショナルなAI生成動画を作成する方法について、よくある質問とその回答をご紹介します。",
+      "q1": "Luma Video Generatorとは何ですか？",
+      "a1": "Luma Video Generatorは、静止画像から高品質な短尺動画を作成するAI駆動のツールです。高度なニューラルネットワークとDream Machine技術を搭載し、リアルな動き、映画のようなトランジション、そして一貫性のある動画コンテンツを生成します。",
+      "q2": "Luma AIはどのように画像から動画を生成するのですか？",
+      "a2": "Luma AIは、動画データでトレーニングされた深層学習モデルの組み合わせを使用して、入力画像を解釈します。視覚的な一貫性を維持しながら、自然な動きと照明を合成し、まるで本物のような動画を自動的に生成します。",
+      "q3": "Luma Video Generatorではどのような種類の動画を作成できますか？",
+      "a3": "プロモーション動画、ソーシャルメディアコンテンツ、製品デモ、アニメーションによるストーリーテリング、採用動画、不動産ツアーなど、画像から動画への変換機能を活用して、様々な動画を作成できます。",
+      "q4": "Luma Video Generatorを使用するには、動画編集のスキルが必要ですか？",
+      "a4": "いいえ、事前の動画またはアニメーションスキルは必要ありません。AIがクリエイティブおよび技術的な側面を自動化するため、あらゆるレベルのユーザーがプロフェッショナルな動画を簡単に作成できます。",
+      "q5": "Luma Video Generatorは、どのような動画形式と長さをサポートしていますか？",
+      "a5": "Lumaは通常、5〜10秒の動画を最大1080pの解像度で生成し、MP4やGIFなどの一般的な形式でエクスポートします。これらは個人利用および商用利用に適しています。",
+      "q6": "Lumaで生成された動画を商用目的で使用できますか？",
+      "a6": "はい、Luma Video Generatorで作成された動画は商用プロジェクトでご使用いただけます。具体的な詳細については、プラットフォームのライセンスおよび利用規約をご確認ください。",
+      "q7": "使用量または動画生成速度に制限はありますか？",
+      "a7": "動画の生成は通常非常に高速で、複雑さによって通常10〜60秒です。一部のプラットフォームまたはプランでは、広範な使用のために毎日の制限またはサブスクリプションティアが設けられている場合があります。",
+      "q8": "Luma Video Generatorは他のAI動画ツールとどう違うのですか？",
+      "a8": "Lumaは、非常にリアルなビジュアル、シームレスなモーションコヒーレンス、柔軟な画像入力オプション、そしてクリエイターと企業の両方のために調整された迅速な動画作成を可能にする最先端のDream Machine技術で際立っています。"
+    }
+  },
+  "originalKeyword": "Luma Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "モデル: Luma Ray2",
+      "description": "Prompt: Dragon breathing fire.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_11.mp4"
+    },
+    {
+      "id": 2,
+      "title": "モデル: Luma Ray2",
+      "description": "Prompt: an explosion with camera shake",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/explosion_camera_shake_185cff.mp4"
+    },
+    {
+      "id": 3,
+      "title": "モデル: Luma Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    },
+    {
+      "id": 4,
+      "title": "モデル: Luma Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky.",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 5,
+      "title": "モデル: Luma Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 6,
+      "title": "モデル: Luma Ray2",
+      "description": "Prompt: Putting on sun glasses.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_05.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

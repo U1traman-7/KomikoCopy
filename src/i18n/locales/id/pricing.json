@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "title": "Harga | KomikoAI – Generator Anime & Komik AI | Buat Manga dan Anime dengan AI",
+    "description": "Pilih paket yang paling sesuai untuk membuka kreativitas Anda dengan alat bertenaga AI dari KomikoAI untuk membuat komik, manhwa, manga, dan anime."
+  },
+  "page": {
+    "title": "Pilih Paket KomikoAI yang Tepat untuk Anda",
+    "zapPacksTitle": "Paket Zap",
+    "description": "Temukan rencana sempurna Anda dan mulailah berkarya hari ini. KomikoAI memberi Anda semua yang dibutuhkan untuk membuat karakter, seni, anime, dan komik. Pengguna baru mendapatkan 500 zap gratis!",
+    "zapPacksDescription": "Butuh lebih banyak zap tanpa berlangganan? Beli paket zap sekali pakai untuk mendukung kreativitas Anda.",
+    "monthly": "Bulanan",
+    "annual": "Tahunan",
+    "save": "Hemat 17%",
+    "faq": "FAQ",
+    "one_time_pack": "Paket Zap Sekali Beli",
+    "upgrade_plan": "Upgrade Paket",
+    "save50": "Hemat 50%",
+    "join_now": "Hemat 50%! Bergabunglah dengan KomikoAI untuk suasana Tahun Baru & kejutan meriah! Penawaran berlaku hingga 6 Januari!",
+    "save_amount": "Hemat {{amount}}%"
+  },
+  "plans": {
+    "free": {
+      "name": "Gratis",
+      "price": "$0",
+      "zaps": "Dapatkan Zap melalui Tugas",
+      "description": "Untuk bersenang-senang & mencoba-coba",
+      "includes": [
+        "Dapatkan zap melalui tugas",
+        "Hingga 50 gambar"
+      ]
+    },
+    "starter": {
+      "name": "Starter",
+      "price": {
+        "monthly": "$9.99",
+        "annual": "$99.90"
+      },
+      "zaps": "5.000 Zaps / bulan",
+      "description": "Untuk penggemar AI & kesenangan",
+      "includes": [
+        "100 Zaps bonus untuk check-in harian",
+        "Maksimal 800 gambar atau 40 video",
+        "3 pembuatan video paralel",
+        "Tanpa watermark",
+        "Mendukung gambar multi-referensi"
+      ]
+    },
+    "plus": {
+      "name": "Plus",
+      "price": {
+        "monthly": "$19.99",
+        "annual": "$199.90"
+      },
+      "zaps": "15.000 Zaps / bulan",
+      "description": "Untuk kreator tingkat lanjut",
+      "includes": [
+        "120 Zaps bonus untuk check-in harian",
+        "Maksimal 1.860 gambar atau 93 video",
+        "5 pembuatan video paralel",
+        "Termasuk semua di Paket Starter",
+        "Akses awal ke fitur baru"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "price": {
+        "monthly": "$49.99",
+        "annual": "$499.90"
+      },
+      "zaps": "50.000 Zaps / bulan",
+      "description": "Untuk profesional",
+      "includes": [
+        "160 Zaps bonus untuk check-in harian",
+        "Maksimal 5.480 gambar atau 274 video",
+        "10 pembuatan video paralel",
+        "Termasuk semua di Paket Plus"
+      ],
+      "popular": "Paling Populer"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Hubungi Kami",
+      "zaps": "Hubungi Kami",
+      "description": "Untuk studio & perusahaan",
+      "includes": [
+        "Jumlah Zaps kustom",
+        "Fitur & batasan kustom",
+        "Dukungan pelanggan prioritas",
+        "dan sebagainya..."
+      ]
+    }
+  },
+  "buttons": {
+    "upgrade": "Upgrade",
+    "downgrade": "Downgrade",
+    "currentPlan": "Paket Saat Ini",
+    "contactSales": "Hubungi Sales",
+    "cancelSubscription": "Batalkan Langganan",
+    "doNotCancel": "Jangan Batalkan",
+    "takeMeBack": "Kembali",
+    "buyNow": "Beli Sekarang",
+    "manageSubscription": "Kelola Langganan"
+  },
+  "labels": {
+    "active": "Aktif",
+    "perMonth": "/bln",
+    "billedAnnually": "Ditagih setiap tahun sebesar {{price}}",
+    "oneTimePurchase": "Pembelian Sekali Pakai",
+    "subscriberBonuses": "Bonus Pelanggan:",
+    "bonusZaps": "{{amount}} bonus zap"
+  },
+  "zapPacks": {
+    "medium": "Paket Zap Kecil",
+    "large": "Paket Zap Besar",
+    "packs": [
+      {
+        "name": "800 Zap",
+        "price": "$0.99",
+        "label": "oneTimeOffer",
+        "bonuses": [
+          {
+            "plan": "Pemula",
+            "amount": "100"
+          },
+          {
+            "plan": "Plus",
+            "amount": "200"
+          },
+          {
+            "plan": "Premium",
+            "amount": "500"
+          }
+        ]
+      },
+      {
+        "name": "2.000 Zap",
+        "price": "$4.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "Pemula",
+            "amount": "300"
+          },
+          {
+            "plan": "Plus",
+            "amount": "1.700"
+          },
+          {
+            "plan": "Premium",
+            "amount": "3.000"
+          }
+        ]
+      },
+      {
+        "name": "9.000 Zap",
+        "price": "$19.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "Pemula",
+            "amount": "1.000"
+          },
+          {
+            "plan": "Plus",
+            "amount": "6.000"
+          },
+          {
+            "plan": "Premium",
+            "amount": "11.000"
+          }
+        ]
+      },
+      {
+        "name": "20.000 Zap",
+        "price": "$39.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "Pemula",
+            "amount": "1.000"
+          },
+          {
+            "plan": "Plus",
+            "amount": "10.000"
+          },
+          {
+            "plan": "Premium",
+            "amount": "20.000"
+          }
+        ]
+      },
+      {
+        "name": "52.500 Zap",
+        "price": "$99.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "Pemula",
+            "amount": "2.500"
+          },
+          {
+            "plan": "Plus",
+            "amount": "22.000"
+          },
+          {
+            "plan": "Premium",
+            "amount": "47.000"
+          }
+        ]
+      },
+      {
+        "name": "221.500 Zap",
+        "price": "$399.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "Pemula",
+            "amount": "9.800"
+          },
+          {
+            "plan": "Plus",
+            "amount": "78.000"
+          },
+          {
+            "plan": "Premium",
+            "amount": "178.000"
+          }
+        ]
+      }
+    ],
+    "title": "Paket Zap KomikoAI",
+    "subtitle": "Butuh lebih banyak zap tanpa langganan? Beli paket zap satu kali untuk mendukung kreativitas Anda.",
+    "subscriberBonuses": "Bonus untuk pelanggan:",
+    "buyNow": "BELI SEKARANG",
+    "oneTimePurchase": "PEMBELIAN SEKALI",
+    "oneTimeOffer": "PENAWARAN SEKALI (HANYA UNTUK PENGGUNA BARU)",
+    "bonusZaps": "+{{amount}} zap bonus",
+    "alreadyPurchased": "SUDAH DIBELI",
+    "checking": "MEMERIKSA..."
+  },
+  "modals": {
+    "cancel": {
+      "title": "Anda yakin ingin membatalkan?",
+      "message": "Akses Anda ke fitur premium dan {{zaps}} zap akan hilang di akhir periode bulan ini.",
+      "confirm": "Batalkan Langganan"
+    }
+  },
+  "toasts": {
+    "subscriptionNotCancelled": "Langganan tidak dibatalkan",
+    "subscriptionCancelled": "Langganan berhasil dibatalkan",
+    "failedToCancel": "Gagal membatalkan langganan",
+    "failedToCreateZapPack": "Gagal membuat paket zap sekali pakai",
+    "failedToFindSubscription": "Gagal menemukan langganan"
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "question": "Apa yang terjadi jika saya kehabisan zap untuk bulan ini?",
+        "answer": "Kami akan membatasi kemampuan Anda untuk menggunakan alat AI KomikoAI, termasuk pembuatan gambar dan video. Namun, Anda bisa mendapatkan lebih banyak zap dengan menyelesaikan tugas harian. Alternatif lainnya, Anda dapat meningkatkan dari rencana gratis ke rencana berbayar. Kami sarankan memilih rencana yang paling cocok dengan kebutuhan penggunaan Anda."
+      },
+      {
+        "question": "Bisakah saya meningkatkan rencana saya?",
+        "answer": "Ya, Anda bisa. Saat ini, kami hanya mengizinkan peningkatan dari rencana gratis ke rencana lain. Peningkatan antar rencana berbayar belum didukung saat ini. Silakan hubungi kami melalui Discord jika Anda memerlukan dukungan khusus."
+      },
+      {
+        "question": "Apakah zap yang tidak terpakai bisa dibawa ke bulan berikutnya?",
+        "answer": "Tidak, zap yang tidak terpakai tidak dapat dibawa ke bulan berikutnya. Zap Anda akan diperbarui di awal setiap siklus penagihan."
+      },
+      {
+        "question": "Metode pembayaran apa saja yang diterima?",
+        "answer": "Kami menerima semua kartu kredit utama (Visa, MasterCard, American Express), Line, Apple Pay, dan lainnya. Semua pembayaran diproses dengan aman oleh penyedia pembayaran kami."
+      },
+      {
+        "question": "Apakah ada rencana gratis yang tersedia?",
+        "answer": "Ya, Anda bisa menggunakan zap gratis untuk mencoba alat AI KomikoAI. Anda juga bisa mendapatkan lebih banyak zap dengan menyelesaikan tugas harian."
+      },
+      {
+        "question": "Bisakah saya membatalkan langganan kapan saja?",
+        "answer": "Ya, Anda bisa membatalkan langganan kapan saja. Jika Anda membatalkan, Anda akan tetap memiliki akses ke fitur plan Anda sampai akhir periode penagihan Anda saat ini. Kami tidak menawarkan pengembalian dana untuk bulan yang tidak lengkap."
+      },
+      {
+        "question": "Bisakah saya mendapatkan pengembalian dana untuk langganan saya?",
+        "answer": "Tidak, kami tidak menawarkan pengembalian dana untuk bulan yang tidak penuh. Namun, jika Anda tidak puas dengan layanan kami, Anda bisa menghubungi kami melalui Discord dan kami akan berusaha mencari solusi terbaik."
+      },
+      {
+        "question": "Apakah ada fitur eksklusif untuk rencana berbayar?",
+        "answer": "Ya, rencana berbayar memiliki fitur eksklusif seperti tanpa tanda air, batas zap yang lebih tinggi, dan prioritas pembuatan. Silakan cek bagian fitur untuk detail lebih lanjut."
+      },
+      {
+        "question": "Apakah saya akan mendapatkan zap saya kembali jika pembuatan gagal?",
+        "answer": "Ya! Jika pembuatan gagal, zap Anda tidak akan dikurangi."
+      }
+    ]
+  },
+  "productHunt": "Dengan bangga menjadi Produk Teratas di Product Hunt",
+  "bonus": "Bonus",
+  "custom": "Kustom"
+}

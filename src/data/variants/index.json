@@ -1,0 +1,47 @@
+{
+  "tools": [
+    {
+      "key": "ai-anime-generator",
+      "name": "AI Anime Generator",
+      "directory": "ai-anime-generator",
+      "variantCount": 5
+    },
+    {
+      "key": "oc-maker",
+      "name": "OC Maker",
+      "directory": "oc-maker",
+      "variantCount": 9
+    },
+    {
+      "key": "ai-comic-generator",
+      "name": "AI Comic Generator",
+      "directory": "ai-comic-generator",
+      "variantCount": 1
+    },
+    {
+      "key": "playground",
+      "name": "Image Playground",
+      "directory": "playground",
+      "variantCount": 23
+    },
+    {
+      "key": "video-to-video",
+      "name": "Video to Video AI",
+      "directory": "video-to-video",
+      "variantCount": 0
+    },
+    {
+      "key": "image-animation-generator",
+      "name": "Image Animation Generator",
+      "directory": "image-animation-generator",
+      "variantCount": 4
+    },
+    {
+      "key": "ai-video-effects",
+      "name": "AI Video Effects",
+      "directory": "ai-video-effects",
+      "variantCount": 5
+    }
+  ],
+  "lastUpdated": "2026-01-26T00:00:00.000Z"
+}

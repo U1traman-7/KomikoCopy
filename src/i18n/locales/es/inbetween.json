@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "Animación Interpolada con IA - KomikoAI",
+    "description": "Transforma imágenes estáticas en animaciones fluidas con la interpolación de KomikoAI AI. Nuestra avanzada IA de interpolación crea automáticamente los fotogramas entre fotogramas clave, haciendo que la creación de animaciones sea más rápida y eficiente. Perfecto para artistas, animadores y creadores de contenido.",
+    "keywords": "KomikoAI AI, Animación con IA, Animación interpolada, IA de interpolación, Generador de animación, Generador de fotogramas con IA, Animación digital, Software de animación"
+  },
+  "title": "Animación Interpolada con IA",
+  "description": "Transforma imágenes estáticas en animaciones fluidas con la animación interpolada por IA. Nuestra avanzada IA de interpolación crea automáticamente fotogramas entre múltiples fotogramas clave, lo que permite una creación de animación más rápida y eficiente. Tanto si estás creando animaciones de personajes, gráficos en movimiento o arte digital, nuestro generador de fotogramas con IA ofrece resultados profesionales. Experimenta el futuro de la animación con las herramientas de interpolación más avanzadas de KomikoAI: perfectas para artistas, animadores y creadores de contenido que buscan optimizar su flujo de trabajo.",
+  "inputImages": {
+    "title": "Imágenes de entrada",
+    "imageLabel": "Imagen"
+  },
+  "prompt": {
+    "label": "Indicación",
+    "placeholder": "Introduce una indicación aquí... Alguna acción, etc."
+  },
+  "button": {
+    "submit": "Interpolar imágenes"
+  },
+  "results": {
+    "title": "Resultados del vídeo",
+    "empty": "Los resultados se mostrarán aquí"
+  },
+  "deleteModal": {
+    "title": "Confirmación de eliminación",
+    "message": "¿Estás seguro de que quieres eliminar este vídeo? Esta acción no se puede deshacer.",
+    "cancel": "Cancelar",
+    "delete": "Eliminar"
+  },
+  "toasts": {
+    "removeInput": "Entrada eliminada correctamente",
+    "addInput": "Entrada añadida correctamente",
+    "createSuccess": "Vídeo creado correctamente",
+    "createFailed": "Error al crear el vídeo",
+    "deleteSuccess": "Eliminado correctamente",
+    "deleteFailed": "Error al eliminar",
+    "downloadFailed": "Error al descargar",
+    "fetchFailed": "Error al obtener el vídeo",
+    "noZaps": "Por favor, compra más zaps",
+    "noZapsError": "Sin zaps"
+  },
+  "sections": {
+    "whatIs": {
+      "title": "¿Qué es la animación interpolada?",
+      "description": "La animación interpolada es una técnica de animación utilizada para crear transiciones suaves entre fotogramas clave. Es un aspecto clave para crear animaciones fluidas y realistas. La animación interpolada con IA es una técnica de animación de vanguardia que utiliza la inteligencia artificial para generar automáticamente transiciones suaves entre fotogramas clave. Esta revolucionaria tecnología ayuda a crear animaciones fluidas al rellenar de forma inteligente los fotogramas intermedios entre las poses clave, haciendo que la creación de animación sea más rápida y accesible que nunca."
+    },
+    "howTo": {
+      "title": "¿Cómo crear animaciones con animación interpolada con IA?",
+      "description": "Transforma tus imágenes estáticas en animaciones fluidas en cuestión de minutos con nuestra avanzada tecnología de interpolación con IA. Sigue estos sencillos pasos para dar vida a tus creaciones.",
+      "steps": [
+        {
+          "title": "Paso 1: Cargar fotogramas clave",
+          "content": "Carga de 2 a 5 imágenes de fotogramas clave que representen las poses o posiciones principales de tu animación."
+        },
+        {
+          "title": "Paso 2: Introducir una indicación",
+          "content": "Añade una indicación opcional para guiar el estilo y el movimiento de la animación."
+        },
+        {
+          "title": "Paso 3: Generar animación",
+          "content": "Haz clic en \"Interpolar imágenes\" y deja que la IA cree transiciones suaves entre tus fotogramas clave."
+        },
+        {
+          "title": "Paso 4: Descargar animación",
+          "content": "Descarga tu animación terminada en formato MP4 y ¡compártela!"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Ejemplos de animación interpolada con IA",
+      "description": "Consulta los resultados de animación interpolada con IA generados por los usuarios de KomikoAI",
+      "input1": "Imagen de entrada 1: Fotograma de inicio",
+      "input2": "Imagen de entrada 2: Fotograma final",
+      "output": "Salida: Vídeo procesado"
+    },
+    "whyChoose": {
+      "title": "¿Por qué elegir KomikoAI AI para la animación interpolada?",
+      "description": "Transforma tu flujo de trabajo de animación con las herramientas de interpolación de KomikoAI. Nuestra IA de interpolación crea automáticamente fotogramas entre dos fotogramas, revolucionando la forma en que los animadores trabajan generando transiciones suaves entre fotogramas clave.",
+      "features": [
+        {
+          "title": "Tecnología de interpolación de IA avanzada",
+          "content": "Experimenta la IA de interpolación más avanzada que crea automáticamente fotogramas entre dos fotogramas. Nuestro generador de fotogramas con IA garantiza transiciones suaves y naturales para las animaciones."
+        },
+        {
+          "title": "Creación rápida de animación",
+          "content": "Lo que tradicionalmente lleva horas de interpolación manual ahora se puede hacer en minutos. Deja que KomikoAI AI se encargue de la creación de fotogramas entre dos fotogramas, mientras tú te concentras en las poses clave."
+        },
+        {
+          "title": "Calidad de animación profesional",
+          "content": "Crea animaciones con calidad de estudio utilizando nuestra tecnología de interpolación con IA. La IA de interpolación de KomikoAI garantiza un movimiento consistente y transiciones suaves, cumpliendo con los estándares profesionales de animación."
+        },
+        {
+          "title": "Interpolación personalizable",
+          "content": "Guía tu generación de fotogramas con IA con indicaciones personalizadas. Ajusta el estilo de movimiento y las expresiones de los personajes para lograr los efectos de animación deseados con nuestra IA de interpolación."
+        },
+        {
+          "title": "Herramientas de animación de fácil acceso",
+          "content": "Tanto si eres un principiante en la animación como un profesional experimentado, KomikoAI AI hace que la animación interpolada sea accesible para todos. Nuestro generador de fotogramas con IA simplifica el proceso de animación."
+        },
+        {
+          "title": "Flujo de trabajo de animación eficiente",
+          "content": "Agiliza tu flujo de trabajo de animación con nuestras herramientas de interpolación con IA. Prototipea rápidamente animaciones, prueba movimientos y crea transiciones suaves entre fotogramas clave con la IA de interpolación de KomikoAI."
+        }
+      ]
+    },
+    "faqSection": {
+      "title": "Preguntas frecuentes sobre la animación interpolada: Todo lo que necesitas saber",
+      "description": "Descubre cómo funcionan nuestras herramientas de interpolación con IA, descubre las mejores prácticas y encuentra respuestas a las preguntas más frecuentes sobre el uso de la inteligencia artificial para crear animaciones profesionales."
+    }
+  },
+  "faq": {
+    "question1": "¿Cómo funciona la animación interpolada con IA de KomikoAI?",
+    "answer1": {
+      "intro": "El generador de fotogramas con IA de KomikoAI funciona en tres sencillos pasos:",
+      "step1": "Carga de 2 a 5 imágenes de fotogramas clave que representen tus poses principales",
+      "step2": "Añade una indicación opcional para guiar el estilo de la animación",
+      "step3": "Deja que nuestra IA avanzada analice los fotogramas clave y cree automáticamente fotogramas entre dos fotogramas",
+      "step4": "El sistema utiliza el aprendizaje automático más avanzado para comprender el movimiento y generar transiciones naturales."
+    },
+    "question2": "¿Cuáles son los beneficios de usar la IA para la animación interpolada?",
+    "answer2": {
+      "intro": "Crear fotogramas entre dos fotogramas con IA tiene numerosos beneficios:",
+      "benefit1": "Reduce drásticamente el tiempo de animación en comparación con los métodos tradicionales de fotograma a fotograma",
+      "benefit2": "Crea automáticamente fotogramas intermedios con calidad profesional",
+      "benefit3": "Ideal para animadores principiantes y profesionales",
+      "benefit4": "Elimina el tedioso trabajo de interpolación manual",
+      "benefit5": "Permite la iteración y la experimentación rápidas en las animaciones"
+    },
+    "question3": "¿Qué tipos de archivos puedo usar con las herramientas de interpolación con IA de KomikoAI?",
+    "answer3": {
+      "intro": "Nuestro generador de fotogramas con IA admite:",
+      "format1": "Formatos de imagen comunes: JPG y PNG",
+      "format2": "Resolución óptima: 512x512 píxeles",
+      "format3": "Tamaño máximo de archivo: 5 MB por imagen",
+      "format4": "Rango de fotogramas clave: De 2 a 5 imágenes para obtener resultados óptimos"
+    },
+    "question4": "¿Puedo usar las herramientas de interpolación con IA de KomikoAI de forma gratuita?",
+    "answer4": "KomikoAI ofrece zaps (créditos) gratuitos para probar nuestras herramientas de interpolación de animación con IA. Para un uso más amplio y funciones avanzadas, consulta nuestros planes de pago, que incluyen velocidades de procesamiento más rápidas y salidas de mayor resolución.",
+    "question5": "¿Cómo puedo obtener los mejores resultados con la animación interpolada con IA?",
+    "answer5": {
+      "intro": "Para una generación óptima de fotogramas con IA:",
+      "tip1": "Mantén un estilo artístico consistente entre los fotogramas clave",
+      "tip2": "Mantén una iluminación y una composición similares",
+      "tip3": "Asegúrate de que haya un posicionamiento lógico de los personajes entre los fotogramas",
+      "tip4": "Utiliza indicaciones claras y descriptivas",
+      "tip5": "Empieza con movimientos sencillos antes de intentar animaciones complejas"
+    },
+    "question6": "¿Cuáles son las limitaciones actuales de la animación interpolada con IA?",
+    "answer6": {
+      "intro": "Si bien nuestra IA de interpolación es potente, actualmente existen algunas limitaciones:",
+      "limit1": "Máximo de 5 fotogramas clave por secuencia de animación",
+      "limit2": "Los movimientos muy complejos o extremos pueden requerir ajustes manuales",
+      "limit3": "La consistencia del estilo entre los fotogramas es crucial para obtener los mejores resultados",
+      "limit4": "El tiempo de procesamiento aumenta con más fotogramas clave"
+    },
+    "question7": "¿Puedo usar las animaciones generadas por la IA de KomikoAI con fines comerciales?",
+    "answer7": "Sí, puedes utilizar las animaciones creadas con nuestras herramientas de interpolación con IA para proyectos personales y comerciales, sujeto a los Términos de servicio de KomikoAI. Nuestras herramientas son perfectas para crear animaciones profesionales de forma eficiente."
+  }
+}

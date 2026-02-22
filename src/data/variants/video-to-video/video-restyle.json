@@ -1,0 +1,156 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Video Restyle",
+      "description": "Rediscover your videos with Video Restyle. Our AI Video Restyle technology transforms clips into anime, cartoon, manga, and manhwa styles while preserving original motion.",
+      "keywords": "Video Restyle, AI Video Restyle, anime restyle tool, cartoon video restyle, manga style restyle, manhwa animation restyle, video to anime restyling, video transformation tool, anime style video restyle, manga video restyle, video stylization, animated video restyle, comic video restyle, anime restyling, cartoon style restyle"
+    },
+    "hero": {
+      "title": "Video Restyle"
+    },
+    "whatIs": {
+      "title": "What is Video Restyle?",
+      "description": "Video Restyle is an AI tool that reinvents your videos into anime, cartoon, manga, and manhwa-style animations using cutting-edge Video Restyle technology. Our unique approach first applies your chosen style to a reference frame, then uses this styled frame to transform your entire clip while retaining original motion and timing. Choose from 100+ styles including Studio Ghibli, Korean manhwa, Japanese manga, and more."
+    },
+    "examples": {
+      "title": "Video Restyle Examples",
+      "description": "Witness the transformational power of Video Restyle as it converts videos into captivating anime, cartoon, manga, and manhwa styles, all while maintaining seamless motion with advanced Video Restyle technology."
+    },
+    "howToUse": {
+      "title": "How to Use Video Restyle",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Upload any video file (MP4, MOV, AVI) up to 15 seconds and 50MB for Video Restyle processing. Videos exceeding 15 seconds are truncated to enhance processing with our Video Restyle system."
+        },
+        {
+          "title": "Video Restyle Reference",
+          "content": "We select the initial frame and apply your chosen anime, cartoon, or manga style to create a blueprint for consistent Video Restyle transformation."
+        },
+        {
+          "title": "Select Artistic Style",
+          "content": "Pick from 100+ preset styles like Studio Ghibli, Korean manhwa, Japanese manga, or craft custom styles using text prompts and reference images with our Video Restyle tool."
+        },
+        {
+          "title": "Generate Video Restyle",
+          "content": "Our Video Restyle tool revamps your entire video by utilizing the styled reference frame while preserving all original motion, expressions, and timing through cutting-edge Video Restyle technology."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Video Restyle",
+      "description": "Video Restyle offers a leading-edge Video Restyle technology with unparalleled motion preservation and a wide array of style choices, coupled with honest pricing.",
+      "features": [
+        {
+          "title": "Superior Motion Preservation",
+          "content": "Video Restyle retains every nuance of original motion, facial expressions, and timing, applying anime, cartoon, or manga styles with frame-perfect Video Restyle consistency.",
+          "icon": "🎬"
+        },
+        {
+          "title": "100+ Video Restyle Options",
+          "content": "Access styles like Studio Ghibli anime, Korean manhwa, Japanese manga, Disney cartoon, and more. Create custom Video Restyle transformations with text prompts or reference images using our tool.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professional Quality Output",
+          "content": "Produce high-definition anime and cartoon videos with robust Video Restyle application, smooth transitions, and no flickers or artifacts using our Video Restyle tool.",
+          "icon": "✨"
+        },
+        {
+          "title": "Transparent Pricing System",
+          "content": "Predictable pricing with distinct charges for Video Restyle processing and video generation. Experiment with diverse styles without additional video costs using Video Restyle.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Simple Two-Step Process",
+          "content": "Effortless Video Restyle process: upload your video, apply Video Restyle to reference frame, generate complete video. No technical know-how needed with real-time progress tracking.",
+          "icon": "👌"
+        },
+        {
+          "title": "Automatic Optimization",
+          "content": "Smart Video Restyle processing with auto-trimming, format support (MP4, MOV, AVI), and duration-based cost algorithms for optimal Video Restyle outcomes.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Answers to common queries about our Video Restyle and Video Restyle technology.",
+      "q1": "What is Video Restyle?",
+      "a1": "Video Restyle is an AI tool that transforms your videos into diverse styles, including anime, cartoon, manga, and manhwa, while maintaining motion integrity using advanced technology.",
+      "q2": "How to use Video Restyle?",
+      "a2": "Using Video Restyle is simple! First upload your video, then select your desired artistic style, and watch as your video is transformed. Enjoy a quick and creative process with accessible and customizable options.",
+      "q3": "How does Video Restyle work?",
+      "a3": "Video Restyle employs advanced Video Style Transfer technology to apply artistic styles to videos. It works by first processing a reference frame, then adapting this across all frames, preserving visual accuracy and motion.",
+      "q4": "What is the best video transformation tool?",
+      "a4": "KomikoAI provides the best video transformation tool. Our aim is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—entirely free to try. With KomikoAI's Video Restyle, you can explore a vast range of styles, making it perfect for users seeking fresh creative approaches.",
+      "q5": "Is the KomikoAI Video Restyle free online?",
+      "a5": "Yes, you can test out the Video Restyle on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Video Restyle?",
+      "a6": "You can use Video Restyle on KomikoAI to create vibrant anime, striking cartoon styles, elegant manga transformations, and unique manhwa adaptations with preserved motion fidelity.",
+      "q7": "Can I use Video Restyle on my phone?",
+      "a7": "Yes, you can use Video Restyle as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Video Restyle?",
+      "a8": "Yes, KomikoAI's Video Restyle allows you to export your generation in various formats, such as MP4, MOV, AVI, for easy sharing.",
+      "q9": "Why should I use Video Restyle?",
+      "a9": "Using Video Restyle can elevate your creative projects. Our tool allows you to explore new artistic expressions, maintain technical quality, and personalize your video style choices effectively."
+    },
+    "cta": {
+      "title": "Transform Your Videos for FREE with Our Video Restyle Today!",
+      "description": "Explore creative video transformations with AI Video Restyle tool.",
+      "buttonText": "Try Our Video Restyle Free"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon Style",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Sketch Style",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/drum-set.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/the-simpsons.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Transferred Result",
+      "description": "Movie/Show | Style: The Simpsons"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/skateboard.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/minfecraft.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Transferred Result",
+      "description": "Game | Style: Minecraft"
+    }
+  ],
+  "originalKeyword": "Video Restyle",
+  "pageStructure": [
+    "whyUse",
+    "examples",
+    "whatIs",
+    "howToUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

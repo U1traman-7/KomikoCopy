@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "DomoAI",
+      "description": "Looking for the best DomoAI alternative? Transform your videos into anime, manga, and cartoon styles with our advanced video-to-video AI style transfer tool.",
+      "keywords": "DomoAI alternative, video to anime converter, video style transfer, anime video generator, manga style transfer, cartoon video filter"
+    },
+    "hero": {
+      "title": "DomoAI"
+    },
+    "examples": {
+      "title": "Video to Video Examples",
+      "description": "Experience superior video-to-video transformation that outperforms DomoAI with faster processing, better motion consistency, and more diverse style options including anime, manga, manhwa, and cartoon styles."
+    },
+    "whatIs": {
+      "title": "What is DomoAI?",
+      "description": "DomoAI is a popular AI-powered tool known for converting videos into anime and other artistic styles through advanced video style transfer technology. It enables creators to transform ordinary footage into stunning animations inspired by anime, manga, and cartoons. Looking for a DomoAI alternative? Our AI tool offers a powerful video-to-video style transfer solution that not only matches but often surpasses DomoAI’s capabilities. With over 20 artistic styles including Studio Ghibli anime, Korean manhwa, and Japanese manga, our tool preserves original motion and timing flawlessly, delivering professional-quality animated videos with ease."
+    },
+    "howToUse": {
+      "title": "How to Use Our Video-to-Video AI Tool",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Start by uploading any video file (MP4, MOV, AVI) up to 15 seconds and 50MB. Videos longer than 15 seconds are automatically trimmed to ensure optimal style transfer performance."
+        },
+        {
+          "title": "Select Your Artistic Style",
+          "content": "In the Style Selection section, choose from 20+ preset styles including anime, cartoon, manga, Korean manhwa, or create custom styles using text prompts and reference images for your video style transfer."
+        },
+        {
+          "title": "Style Preview & Reference",
+          "content": "We extract the first frame and apply your chosen style to create a styled reference. This preview shows how your selected style will be applied to the entire video transformation."
+        },
+        {
+          "title": "Generate Your Styled Video",
+          "content": "Watch as our AI transforms your full video using the styled reference frame, preserving all original motion, expressions, and timing for a smooth, high-quality anime or cartoon animation."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Our Video-to-Video AI Tool",
+      "description": "Our AI tool stands out as the best DomoAI alternative by offering unmatched motion preservation, a wide variety of artistic styles, and professional-grade video outputs—all with transparent pricing and an easy-to-use workflow.",
+      "features": [
+        {
+          "title": "Flawless Motion Preservation",
+          "content": "Maintain every detail of original motion, facial expressions, and timing while applying anime, manga, or cartoon styles with frame-perfect consistency.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Extensive Style Options",
+          "content": "Access over 20 preset styles including Studio Ghibli, Korean manhwa, Japanese manga, and more. Customize your style with text prompts or reference images for truly unique video transformations.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Professional Quality Results",
+          "content": "Generate high-definition videos with smooth transitions, no flickering, and consistent style transfer application for a polished, animation-quality finish.",
+          "icon": "⭐"
+        },
+        {
+          "title": "Simple & Transparent Pricing",
+          "content": "Enjoy clear pricing with separate charges for style transfer and video generation, allowing you to experiment freely without hidden costs.",
+          "icon": "🌟"
+        },
+        {
+          "title": "Smart Video Optimization",
+          "content": "Automatic video optimization includes format conversion, duration adjustment, and quality enhancement to ensure the best possible results for your anime and cartoon transformations.",
+          "icon": "🛠️"
+        },
+        {
+          "title": "Multi-Category Style Support",
+          "content": "As the best DomoAI alternative, access styles across multiple categories: Style Transfer (anime, cartoon), Change Material (clay, skeleton), Change Environment (cyberpunk, underwater), and Cosplay options.",
+          "icon": "🎭"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Video-to-Video AI FAQ",
+      "description": "Answers to common questions about our video style transfer tool, process, pricing, and best practices.",
+      "q1": "How does this AI tool compare to DomoAI?",
+      "a1": "Our AI tool offers a similar two-step video style transfer process but with more style options, better motion preservation, and professional-quality output, making it an excellent DomoAI alternative.",
+      "q2": "What video formats and sizes are supported?",
+      "a2": "We support MP4, MOV, and AVI formats with a maximum file size of 50MB. Videos longer than 15 seconds are automatically trimmed for optimal processing.",
+      "q3": "How long does the video style transfer take?",
+      "a3": "The entire process takes about 5-10 minutes, including 1-3 minutes for style transfer and 3-7 minutes for video generation, with real-time progress updates.",
+      "q4": "What are the costs involved?",
+      "a4": "Pricing is transparent and split between style transfer and video generation based on video length. You see costs upfront and are only charged after successful style transfer.",
+      "q5": "Can I create custom styles?",
+      "a5": "Yes, you can select from 20+ presets or create custom styles using text prompts and reference images for unique video transformations.",
+      "q6": "What makes a good input video for best results?",
+      "a6": "Videos with clear subjects, good lighting, stable motion, and well-defined features work best. Avoid fast movements, dark, or blurry footage for optimal style transfer."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/fire-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Fire",
+      "description": "Change Material | Transform the character into fire effect"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/korean-manhwa-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Korean Manhwa",
+      "description": "Style Transfer | Change the original video to Korean manhwa style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/snow-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Snowy",
+      "description": "Change Environment | Transform the background into a snowy environment"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cowboy-skiing.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cosplay",
+      "description": "Cosplay | Change the original video character's clothes to a cowboy outfit"
+    }
+  ],
+  "originalKeyword": "DomoAI | Best DomoAI Alternative For Video to Anime and Style Transfer",
+  "pageStructure": [
+    "examples",
+    "benefits",
+    "howToUse",
+    "whatIs",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

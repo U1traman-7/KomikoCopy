@@ -1,0 +1,335 @@
+{
+  "title": "OC Maker - KomikoAI",
+  "meta": {
+    "description": "Tạo OC với diện mạo, tính cách và cốt truyện độc đáo. Dựng nhân vật gốc cho truyện tranh, hoạt hình, trò chơi và các câu chuyện bằng sức mạnh AI.",
+    "keywords": "OC Maker, Nhân vật gốc, Công cụ tạo OC, Công cụ dựng Nhân vật gốc, Công cụ tạo Nhân vật AI, Thiết kế OC Anime, Công cụ tạo Nhân vật trò chơi, Công cụ tạo Nhân vật AI"
+  },
+  "header": {
+    "title": "OC Maker",
+    "subtitle": "Tạo nhân vật gốc (OC) của bạn bằng sức mạnh AI - kiến tạo diện mạo, tính cách và cốt truyện độc đáo"
+  },
+  "characterAppearance": {
+    "title": "Diện mạo nhân vật",
+    "randomize": "Chọn ngẫu nhiên",
+    "placeholder": "Mô tả chi tiết về OC của bạn (ví dụ: 'cô gái mèo, tóc xanh, đeo kính, nhút nhát')",
+    "aiOptimize": "Tối ưu hóa bằng AI",
+    "referenceImage": {
+      "title": "Ảnh tham khảo (Tùy chọn)",
+      "description": "Tải lên ảnh chân dung để tạo nhân vật có khuôn mặt tương tự"
+    },
+    "placeholderVariant": "Thiết kế OC {{variantTitle}} của bạn, ví dụ: '{{examplePrompt}}'"
+  },
+  "gender": {
+    "male": "Nam",
+    "female": "Nữ",
+    "other": "Khác"
+  },
+  "actions": {
+    "generateCharacter": "Tạo nhân vật",
+    "generateMore": "Tạo thêm",
+    "finalizeDesign": "Hoàn thiện thiết kế",
+    "selectedCharacterOptions": "Các tùy chọn hành động cho nhân vật đã chọn"
+  },
+  "results": {
+    "empty": {
+      "title": "Nhân vật của bạn sẽ hiển thị ở đây",
+      "description": "Mô tả diện mạo nhân vật và nhấp vào \"Tạo nhân vật\" để dựng nhân vật gốc của bạn"
+    }
+  },
+  "whatIs": {
+    "title": "OC Maker là gì?",
+    "description": "OC Maker là một công cụ AI cho phép bạn thiết kế OC bằng sức mạnh AI, trong đó OC là viết tắt của Nhân vật gốc. Bạn có thể tạo các nhân vật gốc với diện mạo và tính cách riêng biệt."
+  },
+  "howItWorks": {
+    "title": "Tạo OC trong 4 bước đơn giản",
+    "steps": {
+      "step1": {
+        "title": "Mô tả OC của bạn",
+        "content": "Mô tả chi tiết diện mạo nhân vật, bao gồm các đặc điểm trên khuôn mặt, vóc dáng, trang phục và phụ kiện"
+      },
+      "step2": {
+        "title": "Tải ảnh tham khảo",
+        "content": "Tải lên ảnh chân dung để tạo nhân vật có khuôn mặt tương tự"
+      },
+      "step3": {
+        "title": "Tạo nhân vật",
+        "content": "Nhấp vào 'Tạo nhân vật' để dựng nhân vật gốc (OC) của bạn"
+      },
+      "step4": {
+        "title": "Hoàn thiện thiết kế",
+        "content": "Chọn nhân vật yêu thích và nhấp vào 'Hoàn thiện thiết kế' để chuyển đến trang chỉnh sửa thông tin OC"
+      }
+    }
+  },
+  "examples": {
+    "title": "Ví dụ về OC Maker",
+    "examples": {
+      "example1": {
+        "desc": "Ngoại hình: 1girl, tóc vàng, tóc xoăn rất dài, mắt tím, áo hoodie tím, váy xếp ly đen, tất đen, giày thể thao đen, cánh đen, nhìn thẳng"
+      },
+      "example2": {
+        "desc": "Ngoại hình: 1boy, tóc vàng, tóc ngắn, mắt xanh, khăn quàng cổ vàng, áo hoodie xanh, khóa kéo, quần áo thường ngày, quần đen, giày lười, giày đen, nhìn thẳng"
+      },
+      "example3": {
+        "desc": "Ngoại hình: 1girl, tai mèo, mắt xanh lục, tóc đuôi sam, tóc màu bạc hà, tóc dài, trang phục màu xanh lục, họa tiết lá, tất đùi, phụ kiện lá, cầm cung, dây leo, đuôi mèo, phong cách genshin impact"
+      },
+      "example4": {
+        "desc": "Ngoại hình: 1boy, tóc đỏ và đen, undercut, mắt phát sáng, mắt xanh, cánh tay robot, áo khoác đen, kiếm, cầm vũ khí, giày bốt chiến đấu, điện"
+      }
+    }
+  },
+  "features": {
+    "title": "Tại sao nên sử dụng OC Maker hỗ trợ AI?",
+    "features": {
+      "feature1": {
+        "title": "✨ Kết quả chất lượng chuyên nghiệp",
+        "content": "Tạo thiết kế nhân vật chất lượng phòng studio mà không cần kỹ năng nghệ thuật - AI của chúng tôi hiểu bố cục, ánh sáng và tính nhất quán của phong cách."
+      },
+      "feature2": {
+        "title": "🎨 Tự do sáng tạo không giới hạn",
+        "content": "Thử nghiệm với vô số sự kết hợp các tính năng, trang phục và phong cách mà không bị giới hạn - hoàn hảo để tìm thiết kế nhân vật lý tưởng."
+      },
+      "feature3": {
+        "title": "⚡ Tiết kiệm thời gian và chi phí",
+        "content": "Tạo thiết kế nhân vật gốc hoàn chỉnh chỉ trong vài giây thay vì hàng giờ hoặc hàng ngày làm thủ công, giúp tiết kiệm cả thời gian và chi phí thuê người."
+      },
+      "feature4": {
+        "title": "🖼️ Hỗ trợ ảnh tham khảo",
+        "content": "Tải ảnh tham khảo để tạo các nhân vật có đặc điểm khuôn mặt tương tự, đảm bảo OC hoàn toàn phù hợp với tầm nhìn của bạn."
+      },
+      "feature5": {
+        "title": "🔄 Tạo nhiều kiểu",
+        "content": "Tạo nhân vật theo nhiều phong cách nghệ thuật khác nhau từ anime và manga đến hiện thực và cách điệu - tất cả đều với cùng một giao diện đơn giản."
+      },
+      "feature6": {
+        "title": "🌟 Phát triển OC toàn diện",
+        "content": "Ngoài diện mạo, hãy phát triển hồ sơ nhân vật toàn diện bao gồm tính cách, cốt truyện và khả năng độc đáo."
+      }
+    }
+  },
+  "howToUse": {
+    "title": "Cách sử dụng OC Maker",
+    "description": "Giải phóng sự sáng tạo với OC Maker AI của chúng tôi và dễ dàng thiết kế các nhân vật gốc. Hình dung diện mạo OC và sử dụng cho các câu chuyện, hoạt hình, trò chơi, v.v."
+  },
+  "faq": {
+    "question1": "Tôi có thể tạo những phong cách nhân vật nào với OC Maker này?",
+    "answer1": "OC Maker của chúng tôi hỗ trợ hơn 50 phong cách bao gồm anime, manga, truyện tranh, sinh vật giả tưởng, nhân vật trò chơi và các phong cách hỗn hợp - hoàn hảo cho kể chuyện, RPG và hoạt hình.",
+    "question2": "Tôi có thể làm cho các nhân vật đã tạo trở nên sống động không?",
+    "answer2": "Có! Bạn có thể sử dụng các công cụ hoạt hình AI của chúng tôi để mang các nhân vật vào cuộc sống với các chuyển động và biểu cảm sống động. Xem https://komiko.app/image-animation-generator",
+    "question3": "Tôi có thể tạo nhân vật gốc của mình chi tiết đến mức nào?",
+    "answer3": "Tùy chỉnh hơn 100 thuộc tính bao gồm các đặc điểm trên khuôn mặt, vóc dáng, kết cấu quần áo, phụ kiện và đặc điểm tính cách thông qua giao diện ngôn ngữ tự nhiên của chúng tôi.",
+    "question4": "Độ phân giải của hình ảnh đầu ra là bao nhiêu?",
+    "answer4": "Hình ảnh nhân vật được tạo ở độ phân giải 768px × 1152px. Bạn có thể sử dụng AI Image Upscaler của KomikoAI để nâng cấp hình ảnh lên độ phân giải cao hơn để sử dụng chuyên nghiệp.",
+    "question5": "Tôi có thể sử dụng các nhân vật này cho mục đích thương mại không?",
+    "answer5": "Có! Bạn có thể sử dụng các nhân vật đã tạo cho mục đích thương mại, bao gồm cả phương tiện kỹ thuật số và in ấn."
+  },
+  "popButton": {
+    "style": "Phong cách",
+    "age": "Độ tuổi",
+    "body": "Thân hình",
+    "hair": "Kiểu tóc",
+    "eyes": "Màu mắt",
+    "face": "Khuôn mặt",
+    "skin": "Làn da",
+    "top": "Áo",
+    "bottom": "Quần",
+    "set": "Bộ sưu tập",
+    "material": "Chất liệu",
+    "accessory": "Phụ kiện",
+    "gender": "Giới tính"
+  },
+  "prompts": {
+    "male": "Nam",
+    "female": "Nữ",
+    "other": "Giới tính khác",
+    "child": "Trẻ em",
+    "teenager": "Thiếu niên",
+    "mature": "Trưởng thành",
+    "middleAged": "Trung niên",
+    "elderly": "Người lớn tuổi",
+    "athletic": "Thể thao",
+    "muscular": "Cơ bắp",
+    "curvy": "Đầy đặn",
+    "slim": "Mảnh mai",
+    "petite": "Nhỏ nhắn",
+    "stocky": "Vạm vỡ",
+    "tall": "Cao",
+    "short": "Thấp",
+    "scrawny": "Gầy gò",
+    "chubby": "Mũm mĩm",
+    "blackHair": "Tóc đen",
+    "brownHair": "Tóc nâu",
+    "blondeHair": "Tóc vàng",
+    "redHair": "Tóc đỏ",
+    "blueHair": "Tóc xanh",
+    "greenHair": "Tóc xanh lá",
+    "purpleHair": "Tóc tím",
+    "pinkHair": "Tóc hồng",
+    "grayHair": "Tóc xám",
+    "whiteHair": "Tóc trắng",
+    "maroonHair": "Tóc nâu đỏ",
+    "offWhiteHair": "Tóc trắng ngà",
+    "silverHair": "Tóc bạc",
+    "straightHair": "Tóc thẳng",
+    "braids": "Tóc tết",
+    "ponytail": "Tóc buộc đuôi ngựa",
+    "twintails": "Tóc hai ngọn",
+    "bun": "Tóc búi",
+    "longHair": "Tóc dài",
+    "shortHair": "Tóc ngắn",
+    "wavyHair": "Tóc gợn sóng",
+    "curlyHair": "Tóc xoăn",
+    "frizzyHair": "Tóc xù",
+    "pigtails": "Tóc buộc hai bên",
+    "bald": "Hói",
+    "sidePartedHair": "Tóc rẽ ngôi",
+    "undercut": "Tóc cắt gọn phần gáy",
+    "mohawk": "Tóc Mohawk",
+    "dreadlocks": "Tóc dreadlocks",
+    "spikyHair": "Tóc vuốt nhọn",
+    "bobCut": "Tóc bob",
+    "mullet": "Tóc mullet",
+    "mushroomCut": "Tóc nấm",
+    "brownEyes": "Mắt nâu",
+    "blueEyes": "Mắt xanh",
+    "greenEyes": "Mắt xanh lá",
+    "redEyes": "Mắt đỏ",
+    "purpleEyes": "Mắt tím",
+    "pinkEyes": "Mắt hồng",
+    "grayEyes": "Mắt xám",
+    "freckles": "Tàn nhang",
+    "dimple": "Lúm đồng tiền",
+    "beard": "Râu",
+    "mustache": "Ria",
+    "scar": "Vết sẹo",
+    "tattoo": "Hình xăm",
+    "fairSkin": "Da trắng",
+    "tanSkin": "Da rám nắng",
+    "oliveSkin": "Da ô-liu",
+    "darkSkin": "Da sẫm",
+    "paleSkin": "Da tái",
+    "tShirt": "Áo phông",
+    "vest": "Áo gi-lê",
+    "plaidShirt": "Áo kẻ",
+    "stripedShirt": "Áo sọc",
+    "bohemianShirt": "Áo bohemian",
+    "henleyShirt": "Áo Henley",
+    "hoodie": "Áo hoodie",
+    "knittedCardigan": "Áo cardigan len",
+    "labCoat": "Áo khoác phòng thí nghiệm",
+    "leatherJacket": "Áo khoác da",
+    "punkLeatherJacket": "Áo khoác da phong cách punk",
+    "varsityJacket": "Áo khoác thể thao",
+    "outdoorAdventureJacket": "Áo khoác dã ngoại",
+    "poloShirt": "Áo polo",
+    "knittedVest": "Áo gi-lê len",
+    "schoolVest": "Áo gi-lê học sinh",
+    "jeans": "Quần bò",
+    "overalls": "Yếm",
+    "suitPants": "Quần tây",
+    "casualPants": "Quần thông thường",
+    "cargoPants": "Quần túi hộp",
+    "capriPants": "Quần lửng",
+    "wideLegPants": "Quần ống rộng",
+    "pleatedSkirt": "Váy xếp ly",
+    "pencilSkirt": "Váy bút chì",
+    "denimSkirt": "Váy bò",
+    "beachShorts": "Quần short đi biển",
+    "tracksuit": "Bộ đồ thể thao",
+    "pajamas": "Đồ ngủ",
+    "downJacket": "Áo khoác phao",
+    "schoolUniform": "Đồng phục học sinh",
+    "raincoat": "Áo mưa",
+    "eveningDress": "Váy dạ hội",
+    "littleBlackDress": "Váy đen nhỏ",
+    "suit": "Bộ vest",
+    "tuxedo": "Bộ tuxedo",
+    "spacesuit": "Bộ đồ vũ trụ",
+    "divingSuit": "Bộ đồ lặn",
+    "apron": "Tạp dề",
+    "studs": "Đính nút",
+    "tassels": "Tua rua",
+    "ruffles": "Diềm xếp",
+    "lace": "Ren",
+    "zebraPrint": "Họa tiết ngựa vằn",
+    "plastic": "Nhựa",
+    "headband": "Băng đô",
+    "hairpin": "Kẹp tóc",
+    "hairAccessory": "Phụ kiện tóc",
+    "crown": "Vương miện",
+    "corsage": "Hoa cài ngực",
+    "weddingVeil": "Khăn voan cưới",
+    "angleWings": "Cánh thiên thần",
+    "tie": "Cà vạt",
+    "bowTie": "Nơ",
+    "scarf": "Khăn quàng",
+    "bow": "Nơ",
+    "earrings": "Bông tai",
+    "necklace": "Dây chuyền",
+    "choker": "Vòng cổ choker",
+    "beret": "Mũ nồi",
+    "baseballCap": "Mũ lưỡi trai",
+    "knitHat": "Mũ len",
+    "topHat": "Mũ chóp cao",
+    "sunHat": "Mũ rộng vành",
+    "bucketHat": "Mũ xô",
+    "featherHat": "Mũ lông vũ",
+    "cowboyHat": "Mũ cao bồi",
+    "beanie": "Mũ len chụp",
+    "headscarf": "Khăn trùm đầu",
+    "jewelry": "Trang sức",
+    "diamonds": "Kim cương",
+    "pearls": "Ngọc trai",
+    "glasses": "Kính",
+    "sunglasses": "Kính râm",
+    "steampunkGoggles": "Kính Steampunk",
+    "eyePatch": "Đồ che mắt",
+    "aviatorSunglasses": "Kính râm phi công",
+    "headphones": "Tai nghe",
+    "bracelet": "Vòng tay",
+    "kneeHighSocks": "Tất cao đến gối",
+    "boxingGloves": "Găng tay đấm bốc",
+    "foxEars": "Tai cáo",
+    "catEars": "Tai mèo",
+    "rabbitEars": "Tai thỏ",
+    "wolfEars": "Tai sói",
+    "mechanicalWatch": "Đồng hồ cơ",
+    "digitalWatch": "Đồng hồ điện tử",
+    "quartzWatch": "Đồng hồ quartz",
+    "animeColoring": "Tô màu anime",
+    "chibi": "Chibi",
+    "pastelColors": "Màu pastel",
+    "celShading": "Tô bóng cel",
+    "impasto": "Sơn đắp",
+    "watercolor": "Màu nước",
+    "realistic": "Hiện thực",
+    "celluloid": "Celluloid",
+    "softServe": "Kem mềm",
+    "studioGhibli": "Studio Ghibli",
+    "lineart": "Vẽ nét",
+    "cartoon": "Hoạt hình",
+    "americanComic": "Truyện tranh Mỹ",
+    "pixelArt": "Nghệ thuật pixel",
+    "cyberpunk": "Cyberpunk",
+    "genshinImpact": "Genshin Impact",
+    "jujutsuKaisen": "Jujutsu Kaisen",
+    "onePiece": "One Piece",
+    "naruto": "Naruto",
+    "demonSlayer": "Sát quỷ",
+    "myHeroAcademia": "Học viện anh hùng",
+    "dragonBall": "Bảy viên ngọc rồng",
+    "sonic": "Sonic",
+    "marvel": "Marvel",
+    "minecraft": "Minecraft",
+    "mario": "Mario",
+    "vintageComic": "Truyện tranh cổ điển",
+    "oilPainting": "Tranh sơn dầu",
+    "furry": "Nhân vật lông lá",
+    "figurine": "Tượng nhỏ",
+    "vampire": "Ma cà rồng",
+    "mermaid": "Nàng tiên cá",
+    "elf": "Tiên",
+    "angel": "Thiên thần",
+    "demon": "Ác quỷ"
+  }
+}

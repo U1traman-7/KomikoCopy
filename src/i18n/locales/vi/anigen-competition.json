@@ -1,0 +1,173 @@
+{
+  "hero": {
+    "title": "AniGen",
+    "subtitle": "CUỘC THI HOẠT HÌNH AI NGẮN ĐẦU TIÊN TRÊN THẾ GIỚI",
+    "sponsors": "Nhà tài trợ:",
+    "btnRules": "XEM CHI TIẾT THỂ LỆ",
+    "btnSubmit": "GỬI PHIM HOẠT HÌNH CỦA BẠN"
+  },
+  "about": {
+    "subtitle": "Nơi AI Hợp Tác Cùng Hoạt Hình",
+    "title": "GIỚI THIỆU VỀ CUỘC THI",
+    "description1": "Chào mừng bạn đến với AniGen, cuộc thi hoạt hình AI ngắn định dạng dọc đầu tiên trên thế giới, được tổ chức bởi KomikoAI, Hedra, Hailuo và AniShort. Chúng tôi kết hợp công nghệ AI tiên tiến với khả năng kể chuyện sáng tạo, mở ra một kỷ nguyên mới cho hoạt hình.",
+    "description2": "AniGen hướng đến việc tìm kiếm và hỗ trợ những nhà sáng tạo tiềm năng trong lĩnh vực hoạt hình. Đây là cơ hội để bạn vượt qua giới hạn của hoạt hình bằng AI. Dù bạn là nhà sáng tạo AI, nhà làm phim hoạt hình truyền thống muốn khám phá công nghệ mới, biên kịch, hay người yêu thích hoạt hình, hãy tham gia để thể hiện tài năng và giành những giải thưởng hấp dẫn, quyền sử dụng miễn phí các công cụ AI, và cơ hội xuất bản tác phẩm trên ứng dụng AniShort."
+  },
+  "prizes": {
+    "title": "GIẢI THƯỞNG",
+    "animation": {
+      "title": "Hạng mục Hoạt hình",
+      "grandPrize": "Giải Nhất (1 người)",
+      "grandPrizeDetails": [
+        "$3.000 USD",
+        "6 tháng sử dụng miễn phí bản pro các công cụ Hailuo, Hedra và KomikoAI",
+        "Cơ hội phát triển dự án hoạt hình với tài trợ và được giới thiệu trên ứng dụng AniShort"
+      ],
+      "secondPrize": "Giải Nhì (1 người)",
+      "secondPrizeDetails": "$1.500 USD + 3 tháng sử dụng bản pro các công cụ AI",
+      "runnerUp": "Giải Ba (2 người)",
+      "runnerUpDetails": "$500 USD + 2 tháng sử dụng bản pro các công cụ AI",
+      "excellence": "Giải Khuyến Khích (30 người)",
+      "excellenceDetails": "1 tháng sử dụng bản pro các công cụ AI",
+      "note": "Những tác phẩm đoạt giải sẽ được quảng bá trên các kênh truyền thông của nhà tài trợ, có cơ hội phát hành trên nền tảng AniShort, và thậm chí nhận được tài trợ hoặc hỗ trợ từ studio để phát triển thêm."
+    },
+    "scriptwriting": {
+      "title": "Hạng mục Biên kịch",
+      "grandPrize": "Giải Nhất (1 người)",
+      "grandPrizeDetails": "$1.000 USD",
+      "excellence": "Giải Khuyến Khích (3 người)",
+      "excellenceDetails": "$100 USD",
+      "note": "Những kịch bản tiềm năng có thể được chuyển thể thành phim hoạt hình và phát hành trên AniShort, chia sẻ doanh thu với tác giả."
+    }
+  },
+  "judges": {
+    "label": "Gặp Gỡ Ban Giám Khảo",
+    "title": "BAN GIÁM KHẢO",
+    "description": "Hội đồng giám khảo uy tín của chúng tôi bao gồm các chuyên gia đầu ngành và những nhà sáng tạo tiên phong:",
+    "judge1": {
+      "name": "Ben Waller",
+      "title": "Giám đốc Sáng tạo tại Story Engine Inc., Biên kịch, Star Trek: Lower Decks, Roborockaylpse."
+    },
+    "judge2": {
+      "name": "Michael Lingelbach",
+      "title": "Người sáng lập & Giám đốc điều hành của Hedra"
+    },
+    "judge3": {
+      "name": "Garrett Pollack",
+      "title": "Người có tầm ảnh hưởng trong cộng đồng anime"
+    },
+    "judge4": {
+      "name": "Aiden Guo",
+      "title": "Nhà làm phim hoạt hình của One Piece, nhà sáng tạo hoạt hình AI & người có ảnh hưởng"
+    },
+    "judge5": {
+      "name": "Leanna Ren",
+      "title": "Phó chủ tịch @ MiniMax"
+    }
+  },
+  "timeline": {
+    "title": "MỐC THỜI GIAN",
+    "launch": {
+      "date": "28 tháng 4, 2025",
+      "title": "Khởi động Cuộc thi"
+    },
+    "submission": {
+      "date": "28 tháng 4 - 20 tháng 5, 2025",
+      "title": "Thời gian Gửi Bài"
+    },
+    "judging": {
+      "date": "20 tháng 5 - 1 tháng 6, 2025",
+      "title": "Thời gian Chấm Điểm"
+    },
+    "announcement": {
+      "date": "1 tháng 6, 2025",
+      "title": "Công bố Kết Quả"
+    }
+  },
+  "rules": {
+    "title": "THỂ LỆ & YÊU CẦU",
+    "animation": {
+      "title": "HẠNG MỤC HOẠT HÌNH",
+      "description": "Tạo một phim hoạt hình ngắn định dạng dọc với câu chuyện hấp dẫn",
+      "format": {
+        "label": "Định dạng:",
+        "value": "Dọc 9:16 (tối ưu cho điện thoại), MP4"
+      },
+      "duration": {
+        "label": "Thời lượng:",
+        "value": "Từ 30 giây đến 3 phút"
+      },
+      "content": {
+        "label": "Nội dung:",
+        "value": "Hoạt hình phải kể một câu chuyện hoàn chỉnh hoặc là phần mở đầu của một series dài hơn. Chúng tôi KHÔNG chấp nhận trailer hoặc video âm nhạc."
+      },
+      "requirements": {
+        "label": "Yêu cầu Chính:",
+        "list": [
+          "Sử dụng các công cụ AI cho ít nhất 50% quá trình sáng tạo, bao gồm:",
+          "Ít nhất một cảnh nhân vật đối thoại sử dụng mô hình Character-3 của Hedra",
+          "Ít nhất một hình ảnh nhân vật/cảnh được tạo bằng KomikoAI",
+          "Ít nhất một đoạn clip hoạt hình được tạo bằng Hailuo, thông qua nền tảng Hailuo hoặc Hedra/KomikoAI",
+          "Chỉ chấp nhận tác phẩm gốc - không vi phạm bản quyền",
+          "Yêu cầu thuyết minh hoặc phụ đề tiếng Anh",
+          "Đăng tải tác phẩm lên mạng xã hội và gắn thẻ #AniGen @hedra_labs @KomikoAI @Hailuo_AI @AniShortApp để được chia sẻ lại",
+          "Bạn phải từ 18 tuổi trở lên",
+          "Không chấp nhận nội dung 18+, ngôn từ thù hận, bạo lực cực đoan hoặc tài liệu có bản quyền"
+        ]
+      }
+    },
+    "scriptwriting": {
+      "title": "HẠNG MỤC BIÊN KỊCH",
+      "description": "Phát triển một ý tưởng độc đáo cho series hoạt hình ngắn định dạng dọc",
+      "format": {
+        "label": "Định dạng:",
+        "value": "Gói ý tưởng bao gồm kịch bản cho 5 tập đầu tiên"
+      },
+      "duration": {
+        "label": "Thời lượng:",
+        "value": "Mỗi tập nên dài 1-2 phút, được thiết kế để kể chuyện nhanh và thu hút"
+      },
+      "genre": {
+        "label": "Thể loại:",
+        "value": "Chúng tôi chào đón mọi thể loại: hành động, lãng mạn, giả tưởng, isekai, shounen, v.v."
+      },
+      "requirements": {
+        "label": "Yêu cầu:",
+        "list": [
+          "Tiêu đề, tóm tắt cốt truyện, giới thiệu nhân vật và kịch bản hoàn chỉnh của 5 tập đầu tiên",
+          "Ngôn ngữ: Tiếng Anh hoặc có bản dịch tiếng Anh",
+          "Chỉ chấp nhận tác phẩm gốc - không vi phạm bản quyền",
+          "Không chấp nhận nội dung 18+, ngôn từ thù hận, bạo lực cực đoan hoặc tài liệu có bản quyền"
+        ]
+      }
+    }
+  },
+  "sponsors": {
+    "title": "NHÀ TÀI TRỢ & ĐỐI TÁC",
+    "hedra": {
+      "name": "Hedra",
+      "description": "Mô hình tạo video avatar AI"
+    },
+    "hailuo": {
+      "name": "Hailuo",
+      "description": "Mô hình tạo video AI"
+    },
+    "komiko": {
+      "name": "KomikoAI",
+      "description": "Bộ công cụ tạo hoạt hình & truyện tranh AI"
+    },
+    "anishort": {
+      "name": "AniShort",
+      "description": "Nền tảng phát trực tuyến hoạt hình ngắn"
+    }
+  },
+  "submit": {
+    "title": "THAM GIA VÀO TƯƠNG LAI CỦA HOẠT HÌNH",
+    "description": "Gửi tác phẩm của bạn ngay hôm nay và trở thành người tiên phong trong làn sóng hoạt hình AI tiếp theo.",
+    "btnSubmit": "GỬI PHIM HOẠT HÌNH CỦA BẠN",
+    "btnRules": "XEM LẠI THỂ LỆ"
+  },
+  "meta": {
+    "title": "Cuộc thi AniGen - Cuộc thi Hoạt hình AI Ngắn | Giải thưởng $6.000 và Quyền sử dụng Công cụ AI Miễn phí",
+    "description": "Tham gia cuộc thi hoạt hình AI ngắn định dạng dọc đầu tiên trên thế giới do KomikoAI, Hedra, Hailuo và AniShort tổ chức."
+  }
+}

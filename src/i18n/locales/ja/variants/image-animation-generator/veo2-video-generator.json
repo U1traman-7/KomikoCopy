@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Veo2 ビデオジェネレーター - KomikoAI",
+      "description": "Veo 2 ビデオジェネレーターで、テキストと画像から驚くほど美しいAI生成ビデオを作成しませんか。自然なプロンプトから最大4K解像度の高品質なシネマティッククリップをお楽しみいただけます。",
+      "fullDescription": "GoogleのVeo2 ビデオジェネレーターは、テキストプロンプトと画像を最大8秒のダイナミックでリアルなビデオクリップに変換する、最先端のAIツールです。 Imagen Videoテクノロジーをはじめとする高度な機械学習モデルを基盤としており、カメラアングル、照明、エフェクトを精密に制御し、高解像度のシネマティックビデオを生成します。マーケティング、コンテンツ制作、アニメーション、ソーシャルメディアなど、幅広い用途に最適で、高速なビデオ生成、プロフェッショナルレベルの品質、そして多様なユースケースを実現します。",
+      "keywords": "Veo 2 ビデオジェネレーター, AIビデオ作成, テキストからビデオAI, 画像からビデオAI, Google Veo 2, 高品質AIビデオ, シネマティックAIビデオ, AIビデオツール"
+    },
+    "hero": {
+      "title": "Veo2 ビデオジェネレーター",
+      "description": "GoogleのVeo 2を使用して、テキストプロンプトや画像を高品質なシネマティックAIビデオに変換しましょう。プロフェッショナルなディテールで、ダイナミックなクリップを瞬時に生成できます。"
+    },
+    "whatIs": {
+      "title": "Veo2 ビデオジェネレーターとは",
+      "description": "Veo 2は、Googleが開発した高度なAI搭載ビデオ生成ツールです。自然言語のテキストプロンプトと静止画像から、高品質なショートビデオを作成するように設計されています。 Imagen Videoなどの最先端の機械学習モデルを搭載したVeo 2は、最大4K解像度で最大8秒間の滑らかでフォトリアリスティックなビデオを生成可能です。現実世界の物理学、映画撮影技術、人間の動きに関する高度な理解を組み込み、視覚的に魅力的なコンテンツを提供します。このツールは、従来の撮影や編集作業を省き、プロフェッショナルレベルのビデオコンテンツを迅速に生成したいクリエイター、マーケター、および開発者の皆様に最適です。"
+    },
+    "examples": {
+      "title": "Veoで生成されたビデオの例",
+      "description": "Veoで作成されたビデオの例をご覧ください。テキストプロンプトや画像が、ソーシャルメディアやプロフェッショナルなプロジェクトに最適な、ダイナミックで高品質なビデオコンテンツへとどのように変換されるかをご確認ください。"
+    },
+    "howToUse": {
+      "title": "Veo2 ビデオジェネレーターの使用方法",
+      "steps": [
+        {
+          "title": "画像のアップロード",
+          "content": "まず、アニメーション化したい画像をアップロードします。アニメキャラクター、漫画のコマ、コミックの絵など、AIがあなたの作品をビデオとして生き生きと表現します。"
+        },
+        {
+          "title": "プロンプトの入力",
+          "content": "ビデオの作成をガイドする説明的なプロンプトを入力してください。AIに表現させたい動き、表情、アクションに関する詳細を具体的に記述します。"
+        },
+        {
+          "title": "ビデオの生成",
+          "content": "「ビデオを生成」ボタンをクリックするだけで、AIが静止画像を鮮やかでアニメーション化されたビデオに変換する様子をご覧ください。"
+        },
+        {
+          "title": "ダウンロードとカスタマイズ",
+          "content": "生成されたビデオをプレビューし、お好みのバージョンをダウンロードしてください。オプションでBGMや効果音を追加して、さらに魅力的なビデオにすることも可能です。ソーシャルメディアやマーケティングキャンペーンでの共有に最適です。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Veo2 ビデオジェネレーターを選ぶ理由",
+      "description": "Veo2 ビデオジェネレーターが、プロフェッショナルな品質、スピード、そして創造的な柔軟性を提供するAI搭載機能により、ビデオ制作をどのように効率化するかをご紹介します。",
+      "features": [
+        {
+          "title": "高解像度ビデオ出力",
+          "content": "プロフェッショナルおよびシネマティックな用途に適した、最大4K解像度の鮮明かつ詳細なビデオを作成できます。",
+          "icon": "🎥"
+        },
+        {
+          "title": "高度なテキストからビデオ＆画像からビデオ",
+          "content": "説明的なテキストから直接ビデオを生成したり、画像をダイナミックなビデオクリップに変換して表現力を高めることができます。",
+          "icon": "📝"
+        },
+        {
+          "title": "映画のような制御",
+          "content": "カメラアングル、レンズの種類、焦点技術、そして映画的なエフェクトを指定して、視覚的に訴求力のあるシーンを作成できます。",
+          "icon": "🎞️"
+        },
+        {
+          "title": "高速ビデオ生成",
+          "content": "わずか数分でビデオを生成し、従来のビデオ制作に伴う時間とコストを大幅に削減します。",
+          "icon": "⚡"
+        },
+        {
+          "title": "リアルなモーションと物理学",
+          "content": "AIは深層学習を活用し、自然な人間の動き、物理法則、そして環境効果をシミュレートして、リアリズムを向上させます。",
+          "icon": "🤖"
+        },
+        {
+          "title": "多様なユースケース",
+          "content": "マーケター、コンテンツクリエイター、教育者、そして大規模なリソースを必要とせずに、迅速かつ高品質なビデオコンテンツを必要とする映画製作者に最適です。",
+          "icon": "🌟"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Veo2 ビデオジェネレーターに関するよくあるご質問",
+      "description": "Veo2 ビデオジェネレーターとそのAIビデオ生成機能に関する、特によくある質問とその回答をご紹介します。",
+      "q1": "Veo2 ビデオジェネレーターとは何ですか",
+      "a1": "Veo2 ビデオジェネレーターは、Googleが提供する最先端のAIツールであり、高度な機械学習モデルを使用して、テキストによる説明や画像から高解像度で映画のような品質のショートビデオを生成します。",
+      "q2": "Veo2 ビデオジェネレーターは、テキストや画像からどのようにビデオを作成するのですか",
+      "a2": "Veo2 ビデオジェネレーターは、深層学習技術を用いて自然言語プロンプトと視覚的な入力を解釈し、モーション、カメラエフェクト、照明などをシミュレートすることで、リアルなビデオフレームを生成します。",
+      "q3": "Veo2 ビデオジェネレーターは、どのようなビデオの長さと解像度をサポートしていますか",
+      "a3": "Veo2 ビデオジェネレーターは通常5〜8秒のビデオを生成し、様々なプロフェッショナルおよびソーシャルメディア用途に適した最大4Kの解像度をサポートしています。",
+      "q4": "Veo2 ビデオジェネレーターの主なユースケースは何ですか",
+      "a4": "一般的な用途としては、ソーシャルメディアクリップ、製品広告、アニメーションによるストーリーテリング、フィルムのプロトタイピング、そして教育コンテンツの作成などが挙げられます。",
+      "q5": "Veo2 ビデオジェネレーターを使用するには、特別な技術スキルが必要ですか",
+      "a5": "特別な技術スキルやビデオ編集の経験は必要ありません。テキストまたは画像を入力し、基本的な設定を調整するだけで、AIがビデオを生成します。",
+      "q6": "Veo2 ビデオジェネレーターは商用利用に適していますか",
+      "a6": "はい、Veo2 ビデオジェネレーターで生成されたビデオは、プラットフォームの利用規約およびライセンス契約に従って、商用利用が可能です。",
+      "q7": "Veo2 ビデオジェネレーターにはどのような制限がありますか",
+      "a7": "現在のところ、Veo2 ビデオジェネレーターは短いクリップに最適化されており、より長いビデオや非常に複雑なビデオ構成には対応できない場合があります。また、最高解像度での出力には、高い計算リソースが必要です。"
+    }
+  },
+  "originalKeyword": "Veo2 Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "モデル: Veo",
+      "description": "Prompt: A snow-covered plain of iridescent moon-dust under twilight skies. Thirty-foot crystalline flowers bloom, refracting light into slow-moving rainbows. A fur-cloaked figure walks between these colossal blossoms, leaving the only footprints in untouched dust..",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_veo_3_a-snow-covered-plain-of-iridescent-moon-dust-under-twilight-skie.mp4"
+    },
+    {
+      "id": 2,
+      "title": "モデル: Veo",
+      "description": "Prompt:  A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_a-keyboard-whose-keys-are-made-of-different-types-of-candy-typin_1.mp4"
+    },
+    {
+      "id": 3,
+      "title": "モデル: Veo",
+      "description": "Prompt:  Camping (Stop Motion): Camper: \"I'm one with nature now!\" Bear: \"Nature would prefer some personal space.\"",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_camping-stop-motion-camper-i-m-one-with-nature-now-bear-nature-w.mp4"
+    },
+    {
+      "id": 4,
+      "title": "モデル: Veo",
+      "description": "Prompt: a cute monster dancing.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_50d36a35-c64c-4992-a506-07cd6353b701_A_monster_walking_202505121621_1.mp4"
+    },
+    {
+      "id": 5,
+      "title": "モデル: Veo",
+      "description": "Prompt: a cute monster swimming underwater.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_e88815cd-4ac3-4f94-95a9-c242f64f914a_Cute_monster_swimming_202505121603_1.mp4"
+    },
+    {
+      "id": 6,
+      "title": "モデル: Veo",
+      "description": "Prompt: a cute monster walking in a candy wonderland.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_0806b1b7-fc1f-4bba-8b90-febc755c3ba6_A_cute_monster_202505121604_0002_1.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "VEO"
+}

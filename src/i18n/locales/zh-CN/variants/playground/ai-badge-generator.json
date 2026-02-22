@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI徽章生成器",
+      "description": "利用AI技术，轻松将您的图像转化为精美的徽章。体验前所未有的创作乐趣！立即开始生成！",
+      "keywords": "AI徽章生成器, AI摄影徽章, 定制徽章设计, AI徽章创建器, 独特徽章生成器, 艺术照片徽章"
+    },
+    "hero": {
+      "title": "AI徽章生成器"
+    },
+    "whatIs": {
+      "title": "什么是 AI 徽章生成器？",
+      "description": "AI徽章生成器是一款用户友好的工具，可帮助您轻松地将图像转换为独特的徽章风格。它利用先进的AI算法，将您照片中的元素重新诠释为艺术徽章，非常适合希望快速便捷地提升视觉项目质量的创作者。"
+    },
+    "examples": {
+      "title": "AI 徽章生成器示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用 AI 徽章生成器",
+      "steps": [
+        {
+          "title": "步骤 1：上传您的照片",
+          "content": "选择您想要的照片（JPG、PNG、WEBP格式），然后在此处上传。 建议使用较高分辨率的图像，以获得更佳效果！"
+        },
+        {
+          "title": "步骤 2：选择徽章模板",
+          "content": "选择您喜欢的徽章模板，将您的照片转换为相应的徽章风格。"
+        },
+        {
+          "title": "步骤 3：转换为徽章",
+          "content": "点击“转换为徽章”以应用您选择的样式。AI将处理您的图像，并生成视觉效果出色的徽章。"
+        },
+        {
+          "title": "步骤 4：下载并分享",
+          "content": "预览您的新徽章！如果满意，请下载并在社交媒体上分享，或将其融入您的项目中。"
+        }
+      ],
+      "subtitle": "只需几个简单的步骤，即可创建令人惊艳的徽章！"
+    },
+    "benefits": {
+      "title": "为什么选择 AI 徽章生成器？",
+      "description": "探索提升您创意表达的各项功能。",
+      "features": [
+        {
+          "title": "🎨 独特的艺术风格",
+          "content": "提供多种徽章风格，满足不同的主题和氛围，非常适合线上和线下项目！"
+        },
+        {
+          "title": "⚡ 快速处理时间",
+          "content": "体验高速图像处理，让您的创意流畅表达，不受任何阻碍。"
+        },
+        {
+          "title": "🖼️ 高分辨率下载",
+          "content": "获取高分辨率的徽章图像，不会损失任何质量，完美适用于各种应用场景。"
+        },
+        {
+          "title": "💫 直观的用户体验",
+          "content": "轻松浏览我们的平台，其设计兼顾了从初学者到资深设计师的各类用户。"
+        },
+        {
+          "title": "🎯 可定制的设计",
+          "content": "为任何活动、品牌或个人用途创建独特的徽章设计，充分展现您的个人品味。"
+        },
+        {
+          "title": "🚀 定期功能增强",
+          "content": "随时了解新增样式和功能，持续激发您的创作灵感。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI徽章生成器 FAQ",
+      "description": "",
+      "q1": "AI 徽章生成器是做什么的？",
+      "a1": "AI 徽章生成器允许您使用机器学习技术将您的照片转换为独特的徽章风格。它会分析您的图像，并根据先进的算法创建艺术设计。",
+      "q2": "如何最大限度地发挥 AI 徽章生成器的效果？",
+      "a2": "使用清晰、高分辨率的照片，选择与您的图像互补的样式，并尝试各种转换，以找到最佳匹配。",
+      "q3": "使用 AI 徽章生成器是免费的吗？",
+      "a3": "是的，我们的 AI 徽章生成器可以免费使用！您也可以选择付费解锁高级样式。",
+      "q4": "AI 徽章生成器与其他工具的区别是什么？",
+      "a4": "我们的 AI 徽章生成器采用专门为创建独特徽章艺术而设计的高级机器学习模型，可提供高质量的转换效果。",
+      "q5": "我可以使用 AI 徽章生成器创建的艺术品进行商业化吗？",
+      "a5": "是的，您可以将您的徽章作品用于商业用途，例如用于商品，但您需要遵守我们的使用指南。"
+    },
+    "cta": {
+      "title": "立即开始使用 AI 徽章生成器进行创作",
+      "description": "不要犹豫！立即释放您的创造力，在短短几分钟内，将您的照片制作成精美的徽章艺术品。加入我们的创作者社区，共同利用 AI 重塑视觉体验！",
+      "buttonText": "免费创建您的 AI 徽章艺术"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique badge style",
+  "originalKeyword": "AI Badge Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-badge-generator/tanjiro-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/tanjiro-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/demon-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/demon-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/naruto-output.webp",
+      "input": "/images/examples/playground/ai-cosplay-generator/naruto-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/dn-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/dn-input.webp",
+      "prompt": "Style: Badge"
+    }
+  ]
+}

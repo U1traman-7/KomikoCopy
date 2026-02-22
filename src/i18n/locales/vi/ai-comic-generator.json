@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "AI Comic Generator - KomikoAI",
+    "description": "Công cụ tạo truyện tranh AI giúp bạn biến ý tưởng đơn giản thành truyện tranh sống động. Sử dụng AI Comic Generator của KomikoAI để tạo truyện tranh, manhwa và manga một cách dễ dàng."
+  },
+  "form": {
+    "title": "AI Comic Generator",
+    "subtitle": "Biến hóa ý tưởng thành truyện tranh, manga hoặc manhwa hấp dẫn nhờ sức mạnh của AI. Chỉ cần nhập ý tưởng, chọn phong cách, và để AI Comic Generator lo phần còn lại.",
+    "idea_label": "Ý tưởng truyện tranh",
+    "idea_placeholder": "Nhập ý tưởng truyện tranh của bạn...",
+    "style_label": "Phong cách truyện tranh",
+    "style_placeholder": "Chọn phong cách truyện tranh",
+    "styles": {
+      "anime": "Anime",
+      "manga": "Manga",
+      "manhwa": "Manhwa",
+      "american": "Kiểu Mỹ",
+      "cartoon": "Hoạt hình",
+      "realistic": "Hiện thực"
+    },
+    "type_label": "Thể loại truyện tranh",
+    "type_placeholder": "Chọn thể loại truyện tranh",
+    "types": {
+      "normal": "Bình thường",
+      "funny": "Hài hước",
+      "meme": "Meme"
+    },
+    "layout_label": "Bố cục truyện tranh",
+    "mode_label": "Chế độ tạo",
+    "modes": {
+      "gemini": "Gemini",
+      "gemini_cost": "{{cost}} zaps mỗi khung hình",
+      "flux": "Flux",
+      "flux_cost": "{{cost}} zaps mỗi khung hình"
+    },
+    "narration_checkbox": "Thêm lời dẫn truyện",
+    "generate_button": "Tạo truyện tranh"
+  },
+  "buttons": {
+    "edit": "Chỉnh sửa",
+    "download": "Tải xuống",
+    "share": "Chia sẻ"
+  },
+  "preview_alt": "Xem trước truyện tranh",
+  "preview_text": "Nhập ý tưởng truyện tranh và nhấn Tạo để tạo truyện của bạn.",
+  "narration": "Lời dẫn truyện",
+  "idea_input": {
+    "label": "Ý tưởng câu chuyện của bạn là gì?",
+    "custom_placeholder": "Nhập ý tưởng câu chuyện và chỉ định phong cách nghệ thuật"
+  },
+  "login_to_generate": "Tạo",
+  "edit_button": "Chỉnh sửa",
+  "comics_generated": "{{count}} truyện tranh đã được tạo bởi người dùng KomikoAI",
+  "comic_type": {
+    "normal": {
+      "label": "🙂 Bình thường",
+      "text": "Bình thường"
+    },
+    "meme": {
+      "label": "🤣 Meme",
+      "text": "Meme"
+    }
+  },
+  "comic_style": {
+    "anime": "Anime",
+    "american": "Kiểu Mỹ",
+    "manga": "Manga",
+    "manhwa": "Manhwa",
+    "custom": "Tùy chỉnh"
+  },
+  "seo": {
+    "main_heading": "AI Comic Generator là gì?",
+    "main_description": "AI Comic Generator là công cụ hỗ trợ AI giúp người sáng tạo dễ dàng biến ý tưởng thành truyện tranh, manga và meme hấp dẫn. Dù bạn là nghệ sĩ hay người yêu thích kể chuyện, hãy hiện thực hóa trí tưởng tượng với hình ảnh và lời dẫn truyện do AI tạo. Chỉ cần nhập ý tưởng, chọn phong cách, và để AI Comic Generator của KomikoAI lo phần còn lại. Trải nghiệm khả năng tạo truyện tranh AI vượt trội hơn AI Comic Factory trên Hugging Face."
+  },
+  "how_to_use": {
+    "heading": "Cách sử dụng AI Comic Generator",
+    "step1": {
+      "title": "Bước 1: Nhập ý tưởng",
+      "content": "Nhập ý tưởng, khái niệm hoặc nguồn cảm hứng meme. Mô tả ngắn gọn hoặc chi tiết câu chuyện của bạn."
+    },
+    "step2": {
+      "title": "Bước 2: Tùy chỉnh phong cách",
+      "content": "Chọn phong cách như manga, anime, truyện tranh kiểu Mỹ, hoặc tùy chỉnh phong cách nghệ thuật riêng."
+    },
+    "step3": {
+      "title": "Bước 3: Tạo bằng AI",
+      "content": "Nhấn nút 'Tạo truyện tranh'. Đợi AI Comic Generator của KomikoAI tạo khung hình, hình ảnh, bong bóng thoại và lời dẫn truyện dựa trên thông tin bạn cung cấp. Truyện tranh của bạn sẽ được tạo trong vài giây."
+    },
+    "step4": {
+      "title": "Bước 4: Xuất & Chia sẻ",
+      "content": "Tải xuống truyện tranh chất lượng cao để chia sẻ trên mạng xã hội hoặc sử dụng cho các dự án cá nhân."
+    }
+  },
+  "why_use": {
+    "heading": "Tại sao nên tạo truyện tranh bằng AI Comic Generator?",
+    "description": "AI Comic Generator của KomikoAI đơn giản hóa việc tạo truyện tranh cho tất cả mọi người, từ người mới bắt đầu đến chuyên gia, với khả năng tùy chỉnh và dễ dàng tiếp cận.",
+    "features": {
+      "beginner_friendly": {
+        "title": "Dễ sử dụng cho người mới",
+        "content": "Không biết vẽ? Không sao! Chỉ cần nhập ý tưởng và AI Comic Generator sẽ vẽ truyện tranh cho bạn chỉ với một cú nhấp chuột."
+      },
+      "custom_art": {
+        "title": "Phong cách nghệ thuật tùy chỉnh",
+        "content": "Chọn phong cách nghệ thuật như truyện tranh kiểu Mỹ, manga, manhwa, anime, hoặc tùy chỉnh phong cách riêng bằng cách chỉ định trong phần mô tả."
+      },
+      "amazing_layouts": {
+        "title": "Bố cục tuyệt vời",
+        "content": "Chọn từ các bố cục truyện tranh được thiết kế đẹp mắt để truyện tranh của bạn trông thật ấn tượng. Truyện tranh của bạn sẽ được tạo theo ý muốn."
+      },
+      "tell_story": {
+        "title": "Kể câu chuyện của bạn",
+        "content": "Trình tạo truyện tranh AI của KomikoAI tự động thêm bong bóng thoại, hội thoại và lời dẫn truyện vào truyện tranh của bạn. Làm cho nhân vật của bạn trò chuyện và kể những câu chuyện thú vị!"
+      },
+      "ai_efficiency": {
+        "title": "Hiệu quả nhờ AI",
+        "content": "Tiết kiệm thời gian làm việc thủ công bằng cách để AI xử lý hình ảnh, lời dẫn truyện và bố cục."
+      },
+      "high_quality": {
+        "title": "Chất lượng cao",
+        "content": "Tải xuống truyện tranh với chất lượng chuyên nghiệp, hoàn hảo để chia sẻ hoặc in ấn."
+      },
+      "creative_freedom": {
+        "title": "Tự do sáng tạo",
+        "content": "Thử nghiệm với các ý tưởng, điều chỉnh chi tiết và tinh chỉnh truyện tranh để kể câu chuyện của bạn. Không hài lòng với truyện tranh? Chỉ cần thử lại trong AI Comic Generator."
+      },
+      "accessible": {
+        "title": "Truy cập mọi lúc",
+        "content": "AI Comic Generator dựa trên nền tảng đám mây, cho phép bạn tạo truyện tranh từ mọi nơi, trên mọi thiết bị."
+      },
+      "share_comics": {
+        "title": "Chia sẻ truyện tranh của bạn",
+        "content": "Chia sẻ truyện tranh của bạn trên các nền tảng mạng xã hội như Instagram, Twitter và Facebook. AI Comic Generator của KomikoAI cũng giúp bạn dễ dàng tạo meme phù hợp để chia sẻ."
+      }
+    }
+  },
+  "faq": {
+    "heading": "Câu hỏi thường gặp về AI Comic Generator",
+    "description": "Tìm hiểu thêm về cách AI Comic Generator của KomikoAI hoạt động và những lợi ích nó mang lại.",
+    "edit_after_creation": {
+      "question": "Tôi có thể chỉnh sửa truyện tranh sau khi AI Comic Generator tạo không?",
+      "answer": "Có! Nếu bạn muốn thay đổi hình ảnh, chỉnh sửa bong bóng thoại hoặc thay đổi bố cục truyện tranh, hãy nhấp vào nút \"Chỉnh sửa\" ở góc trên bên phải của truyện tranh. Bạn sẽ được chuyển đến trang AI canvas, nơi bạn có thể chỉnh sửa truyện tranh."
+    },
+    "what_is_comic_generator": {
+      "question": "AI Comic Generator là gì?",
+      "answer": "AI Comic Generator là công cụ sáng tạo sử dụng AI để tự động tạo truyện tranh. Nhập ý tưởng, chọn phong cách truyện tranh và để AI tạo truyện tranh trong vài giây! Nó đơn giản hóa quá trình sáng tạo bằng cách tự động tạo hình ảnh và đối thoại dựa trên thông tin bạn cung cấp. Bạn có thể tạo mọi loại truyện tranh, từ những câu chuyện hài hước, phiêu lưu đến những câu chuyện siêu anh hùng thú vị mà không cần phải vẽ!"
+    },
+    "what_is_manga_generator": {
+      "question": "AI Manga Generator là gì?",
+      "answer": "AI Manga Generator là công cụ sáng tạo sử dụng AI để tự động tạo manga. Nhập ý tưởng, chọn phong cách manga và để AI tạo manga trong vài giây! Nó đơn giản hóa quá trình sáng tạo bằng cách tự động tạo hình ảnh và đối thoại dựa trên thông tin bạn cung cấp. Bạn có thể tạo tất cả các loại manga, như shounen, shoujo, seinen, isekai, v.v."
+    },
+    "what_is_manhwa_generator": {
+      "question": "AI Manhwa Generator là gì?",
+      "answer": "AI Manhwa Generator là công cụ sáng tạo sử dụng AI để tự động tạo manhwa. Nhập ý tưởng, chọn phong cách manhwa và để AI tạo manhwa trong vài giây! Nó đơn giản hóa quá trình sáng tạo bằng cách tự động tạo hình ảnh và đối thoại dựa trên thông tin bạn cung cấp. Bạn có thể tạo tất cả các loại manhwa, như hành động, lãng mạn, hài hước, kinh dị, isekai, v.v."
+    },
+    "how_to_make_comics": {
+      "question": "Làm thế nào để tạo truyện tranh bằng AI Comic Generator?",
+      "answer": "Tạo truyện tranh bằng AI Comic Generator rất dễ! Chỉ cần nhập ý tưởng câu chuyện cho truyện tranh của bạn và AI Comic Generator sẽ biến ý tưởng của bạn thành một truyện tranh tuyệt vời. Nó cũng sẽ tự động thêm bong bóng thoại và sắp xếp các khung truyện tranh của bạn."
+    },
+    "how_it_works": {
+      "question": "AI Comic Generator hoạt động như thế nào?",
+      "answer": "Chỉ cần nhập ý tưởng hoặc khái niệm, chọn phong cách nghệ thuật (anime, manga hoặc phong cách tùy chỉnh) và để AI của KomikoAI tạo một dải truyện tranh được thiết kế đầy đủ. AI phân tích thông tin bạn cung cấp để tạo ra hình ảnh chi tiết và đối thoại hấp dẫn cho mỗi khung hình."
+    },
+    "art_styles": {
+      "question": "Những phong cách nghệ thuật nào được hỗ trợ?",
+      "answer": "KomikoAI hỗ trợ nhiều phong cách, bao gồm anime, manga, truyện tranh kiểu Mỹ và phong cách nghệ thuật tùy chỉnh dựa trên mô tả của bạn."
+    },
+    "what_comics_can_i_generate": {
+      "question": "Tôi có thể tạo loại truyện tranh nào với AI Comic Generator?",
+      "answer": "Bạn có thể tạo bất kỳ loại truyện tranh, manga, manhwa nào. Những câu chuyện siêu anh hùng, anime Nhật Bản, isekai, hồi quy, shounen, shoujo, seinen, bất kỳ loại câu chuyện nào bạn có thể tưởng tượng. AI Comic Generator giúp biến ý tưởng của bạn thành hiện thực!"
+    },
+    "commercial_use": {
+      "question": "Tôi có thể sử dụng truyện tranh được tạo ra cho mục đích thương mại không?",
+      "answer": "Có! Truyện tranh được tạo bằng KomikoAI có thể được sử dụng cho mục đích cá nhân hoặc thương mại, tuân theo các điều khoản dịch vụ của chúng tôi."
+    },
+    "need_drawing_skills": {
+      "question": "Tôi có cần biết vẽ để sử dụng AI Comic Generator không?",
+      "answer": "Không hề! AI Comic Generator của KomikoAI được thiết kế cho tất cả mọi người, từ nghệ sĩ chuyên nghiệp đến người mới bắt đầu. Chỉ cần mang ý tưởng và AI Comic Generator sẽ lo phần còn lại."
+    },
+    "for_memes": {
+      "question": "Tôi có thể sử dụng AI Comic Generator để tạo meme không?",
+      "answer": "Chắc chắn rồi! AI Comic Generator của KomikoAI rất phù hợp để tạo meme hài hước và lan truyền. Chỉ cần chọn chế độ \"Meme\" và để AI thực hiện công việc."
+    },
+    "is_free": {
+      "question": "AI Comic Generator có miễn phí không?",
+      "answer": "KomikoAI cung cấp gói miễn phí với số lượng zaps (tín dụng) giới hạn. Để có thêm các tính năng và giới hạn sử dụng cao hơn, hãy xem các gói giá của chúng tôi."
+    },
+    "share_online": {
+      "question": "Tôi có thể chia sẻ truyện tranh của mình trực tuyến không?",
+      "answer": "Có, bạn có thể tải xuống truyện tranh và chia sẻ chúng trên các nền tảng mạng xã hội như Instagram, Twitter và Facebook. KomikoAI cũng giúp bạn dễ dàng tạo meme phù hợp để chia sẻ."
+    },
+    "custom_art_styles": {
+      "question": "Tôi có thể tạo phong cách nghệ thuật tùy chỉnh với AI Comic Generator không?",
+      "answer": "Có, với chế độ tùy chỉnh của KomikoAI, bạn có thể chỉ định phong cách nghệ thuật, bảng màu và chi tiết hình ảnh riêng để tạo ra những truyện tranh độc đáo phù hợp với tầm nhìn của bạn."
+    },
+    "title": "Các Câu Hỏi Thường Gặp"
+  },
+  "examples": {
+    "title": "Truyện tranh mẫu"
+  },
+  "auto_post": "Tự động đăng",
+  "date": {
+    "today": "Hôm nay",
+    "yesterday": "Ngày hôm qua"
+  }
+}

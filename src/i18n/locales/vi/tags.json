@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "{{tag}} AI",
+    "description": "Khám phá tác phẩm nghệ thuật {{tag}} tuyệt mỹ và biến ý tưởng của bạn thành fanart {{tag}} cùng KomikoAI. Tạo ra fanart {{tag}} ấn tượng, OC {{tag}}, và hoạt hình miễn phí.",
+    "keywords": "{{tag}} AI, {{tag}} AI, Nghệ thuật {{tag}}, Fanart {{tag}}, {{tag}} {{tag}}, Nghệ thuật AI {{tag}}, Máy tạo Nghệ thuật AI {{tag}}, AI {{tag}}, Máy tạo AI {{tag}}, Máy tạo {{tag}}, Máy tạo AI {{tag}}, Nghệ thuật Anime {{tag}}, Người tạo {{tag}} {{tag}}, Máy tạo {{tag}} {{tag}}, AI Anime {{tag}}, Nghệ thuật AI Anime {{tag}}",
+    "titleWithDescription": "Fanart {{tag}}",
+    "descriptionWithTagDescription": "{{tagDescription}} Khám phá nghệ thuật tuyệt đẹp của {{tag}} và biến ý tưởng của bạn thành fanart {{tag}} với KomikoAI. Tạo fanart {{tag}}, nhân vật gốc {{tag}} và hoạt hình tuyệt vời miễn phí."
+  },
+  "title": "{{tag}} AI",
+  "headings": {
+    "whatIs": "Tạo Nghệ thuật {{tag}} của Bạn với {{tag}} AI",
+    "howToUse": "Cách sử dụng AI Generator {{tag}}",
+    "whyUse": "Tại sao nên dùng AI Generator {{tag}}",
+    "applications": "Ứng dụng của AI Generator {{tag}}",
+    "whatIsWithDescription": "Tạo fanart {{tag}} của riêng bạn cùng KomikoAI",
+    "mainTitle": "{{tag}} AI",
+    "mainTitleWithDescription": "Nghệ Thuật AI {{tag}}"
+  },
+  "whatIsDescription": "Khám phá nghệ thuật AI {{tag}} đặc sắc và biến những ý tưởng của bạn thành nghệ thuật {{tag}} tuyệt vời cùng với {{tag}} AI. Máy tạo AI {{tag}} được huấn luyện từ hàng triệu tác phẩm nghệ thuật {{tag}}, giúp bạn dễ dàng tạo ra các tác phẩm nghệ thuật {{tag}} chất lượng cao chỉ trong vài giây!",
+  "howToUseDescription": "Hãy làm theo những bước đơn giản dưới đây để tạo ra tác phẩm nghệ thuật {{tag}} tuyệt mỹ với trình tạo AI {{tag}} của chúng tôi.",
+  "whyUseDescription": "Tìm hiểu vì sao hàng ngàn nhà sáng tạo lại chọn AI {{tag}} Art Generator cho nhu cầu nghệ thuật anime của họ.",
+  "howToUseSteps": [
+    {
+      "title": "Nhập Mô Tả Của Bạn",
+      "content": "Bắt đầu bằng cách nhập một mô tả chi tiết về tác phẩm nghệ thuật {{tag}} mà bạn muốn tạo. Hãy bao gồm thông tin về nhân vật, phong cảnh, phong cách nghệ thuật và cảm xúc để có kết quả tốt nhất."
+    },
+    {
+      "title": "Chọn Phong Cách",
+      "content": "Chọn từ các phong cách anime có sẵn hoặc xác định sở thích thẩm mỹ riêng của bạn như manga, anime, manhwa, hoặc chịu ảnh hưởng từ các nghệ sĩ cụ thể."
+    },
+    {
+      "title": "Tạo Nghệ Thuật {{tag}} Của Riêng Bạn",
+      "content": "Chọn từ các phong cách anime có sẵn hoặc xác định sở thích thẩm mỹ của bạn như manga, anime, manhwa, hoặc theo phong cách của các nghệ sĩ cụ thể."
+    },
+    {
+      "title": "Tải Xuống & Chia Sẻ",
+      "content": "Lưu và chia sẻ tác phẩm của bạn khi đã ưng ý với kết quả."
+    }
+  ],
+  "cta": {
+    "title": "Trải nghiệm Trình tạo {{tag}} AI",
+    "description": "Trình tạo {{tag}} AI được đào tạo với hàng triệu tác phẩm nghệ thuật {{tag}} tinh tế, giúp bạn dễ dàng tạo ra nghệ thuật {{tag}} AI tùy chỉnh. Không cần kỹ năng mỹ thuật - chỉ cần trí tưởng tượng và vài từ mô tả của bạn!",
+    "button": "Trải nghiệm {{tag}} AI Ngay"
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp",
+    "items": [
+      {
+        "question": "Trình Tạo Nghệ Thuật AI {{tag}} là gì?",
+        "answer": "Trình Tạo Nghệ Thuật AI {{tag}} là công cụ tiên tiến hỗ trợ bởi AI, tạo ra tác phẩm nghệ thuật anime tùy chỉnh dựa trên mô tả văn bản. Nó sử dụng các thuật toán học sâu được huấn luyện trên hàng triệu hình ảnh anime để tạo ra minh họa độc đáo trong các phong cách khác nhau như anime kinh điển, manga, và hiện đại."
+      },
+      {
+        "question": "Trình Tạo Nghệ Thuật AI {{tag}} hoạt động như thế nào?",
+        "answer": "Trình Tạo Nghệ Thuật AI {{tag}} chuyển đổi mô tả văn bản thành hình ảnh bằng cách sử dụng mô hình AI chuyên biệt được huấn luyện trên tác phẩm nghệ thuật anime. Bạn chỉ cần nhập mô tả chi tiết, chọn phong cách yêu thích, và AI sẽ tạo ra một minh họa anime theo miêu tả của bạn. Mô tả càng chi tiết, kết quả càng tốt."
+      },
+      {
+        "question": "Tôi có thể tạo các loại nghệ thuật anime nào?",
+        "answer": "Bạn có thể tạo hầu hết mọi thể loại nghệ thuật kiểu anime như chân dung nhân vật, cảnh hành động, bối cảnh kỳ ảo, ý tưởng khoa học viễn tưởng, nền, bảng truyện tranh và nhiều hơn nữa. Trình tạo hỗ trợ nhiều thể loại anime như shōnen, shōjo, seinen, moe, chibi và các thể loại khác."
+      },
+      {
+        "question": "Tôi cần kỹ năng nghệ thuật để sử dụng Trình Tạo Nghệ Thuật AI {{tag}} không?",
+        "answer": "Không cần kỹ năng nghệ thuật! Trình Tạo Nghệ Thuật AI {{tag}} giúp việc tạo ra nghệ thuật anime dễ dàng cho mọi người. Dù là một nghệ sĩ chuyên nghiệp hay người mới bắt đầu, bạn có thể tạo ra tác phẩm anime đẹp chỉ bằng cách miêu tả ý tưởng."
+      },
+      {
+        "question": "Làm thế nào để cải thiện chất lượng của nghệ thuật anime đã tạo?",
+        "answer": "Để có kết quả tốt hơn, hãy sử dụng mô tả chi tiết bao gồm đặc điểm nhân vật, trang phục, tư thế, biểu cảm, nền, ánh sáng, và phong cách nghệ thuật tham khảo. Thử thêm nghệ sĩ hoặc phong cách anime cụ thể như 'theo phong cách Studio Ghibli' hoặc 'giống nghệ thuật của Makoto Shinkai'. Hãy thử nghiệm với các câu lệnh khác nhau để tìm ra kết quả tốt nhất cho tầm nhìn của bạn."
+      },
+      {
+        "question": "Tôi có thể sử dụng nghệ thuật anime đã tạo cho mục đích thương mại không?",
+        "answer": "Có, tất cả các tác phẩm được tạo ra với Trình Tạo Nghệ Thuật AI {{tag}} của chúng tôi có thể được sử dụng cho cả dự án cá nhân và thương mại tùy theo điều khoản dịch vụ. Điều này phù hợp cho nhà sáng tạo nội dung, nhà phát triển trò chơi, nghệ sĩ truyện tranh web và các doanh nghiệp cần hình ảnh phong cách anime độc đáo."
+      },
+      {
+        "question": "Tôi có thể tạo bao nhiêu hình ảnh?",
+        "answer": "Số lượng hình ảnh bạn có thể tạo phụ thuộc vào kế hoạch đăng ký của bạn. Người dùng miễn phí được tạo một số lượng hình ảnh nhất định mỗi ngày, trong khi người đăng ký cao cấp được quyền tạo nhiều hơn hoặc không giới hạn cùng các tính năng bổ sung và chất lượng xuất ra cao hơn."
+      },
+      {
+        "question": "Tôi có thể tạo các nhân vật anime dựa trên người thật không?",
+        "answer": "Có, bạn có thể tạo các phiên bản anime của người thật bằng cách nêu ra các đặc điểm của họ trong mô tả. Để có kết quả tốt nhất, hãy bao gồm các thông tin cụ thể về diện mạo và phong cách anime bạn muốn dùng. Tính năng này rất phù hợp để tạo avatar anime cá nhân hoặc chân dung nhân vật."
+      },
+      {
+        "question": "Sự khác biệt giữa tạo phong cách manga và phong cách anime là gì?",
+        "answer": "Phong cách manga thường sử dụng đường nét đen trắng với độ tương phản mạnh và bố cục trang như truyện tranh Nhật Bản. Phong cách anime có màu sắc phong phú, bóng mượt và thường gần giống với các chương trình hoạt hình. Bạn có thể chỉ định cả hai phong cách trong mô tả để có giao diện chính xác theo ý thích."
+      },
+      {
+        "question": "Tôi có thể chỉnh sửa hình ảnh anime đã tạo không?",
+        "answer": "Có! Sau khi tạo, bạn có thể tải xuống tác phẩm và chỉnh sửa bằng phần mềm chỉnh sửa hình ảnh yêu thích. Đối với người dùng nâng cao, các hình ảnh này có thể là điểm khởi đầu lý tưởng để tinh chỉnh, tô màu, hoặc tích hợp vào dự án lớn hơn."
+      }
+    ]
+  },
+  "titleWithDescription": "Fanart {{tag}}",
+  "pageDescription": "Khám phá tác phẩm nghệ thuật {{tag}} tuyệt mỹ và biến ý tưởng của bạn thành fanart {{tag}} cùng KomikoAI. Tạo ra fanart {{tag}} ấn tượng, OC {{tag}}, và hoạt hình miễn phí.",
+  "whatIsDescriptionWithDescription": "Khám phá tác phẩm nghệ thuật AI {{tag}} hàng đầu, và biến ý tưởng của bạn thành fanart {{tag}} và OC {{tag}} với AI. Trình tạo {{tag}} của KomikoAI hiểu rõ thế giới của {{tag}}, nên bạn có thể tạo ra nghệ thuật {{tag}} chất lượng cao chỉ trong vài giây!",
+  "followers": "Người theo dõi",
+  "applyModerator": "Nộp đơn làm điều hành viên",
+  "becomeMod": "Trở thành Mod",
+  "showMore": "Xem thêm",
+  "showLess": "Thu gọn",
+  "host": "Người chịu trách nhiệm",
+  "moderators": "Người điều hành",
+  "mods": "Người điều hành",
+  "people": "",
+  "cancel": "Hủy bỏ",
+  "save": "Lưu lại",
+  "owner": "Chủ sở hữu",
+  "moderator": "Người điều hành",
+  "postsLabel": "Bài viết",
+  "followersLabel": "Người theo dõi",
+  "viewAll": "Xem tất cả",
+  "characterAdded": "Nhân vật đã được thêm",
+  "characterRemoved": "Nhân vật đã được xóa",
+  "cannotRemoveOfficial": "Không thể xóa nhân vật chính thức",
+  "addCharacterToTag": "Thêm nhân vật vào thẻ",
+  "searchCharacters": "Tìm kiếm nhân vật theo tên...",
+  "noCharactersFound": "Không tìm thấy nhân vật nào",
+  "typeMoreToSearch": "Nhập ít nhất 2 ký tự để tìm kiếm",
+  "searchCharacterHint": "Tìm kiếm nhân vật để thêm vào thẻ này",
+  "noCharactersYet": "Chưa có nhân vật nào",
+  "noCharactersDesc": "Những nhân vật liên quan đến thẻ này sẽ xuất hiện tại đây",
+  "addCharacter": "Thêm nhân vật",
+  "relatedCharacters": "Nhân vật liên quan",
+  "removeCharacter": "Xóa khỏi thẻ",
+  "noModerators": "Chưa có người điều hành",
+  "hiddenPosts": {
+    "title": "Bài viết ẩn",
+    "empty": "Không có bài viết nào bị ẩn",
+    "hiddenAt": "Đã ẩn",
+    "unhide": "Bỏ ẩn",
+    "unhideSuccess": "Bài viết đã được bỏ ẩn"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "basicSettings": "Cài đặt cơ bản",
+    "remove": "Xóa",
+    "removeHeader": "Xóa tiêu đề",
+    "logo": "Logo",
+    "uploadLogo": "Tải lên Logo",
+    "headerImage": "Hình ảnh tiêu đề",
+    "clickToUpload": "Nhấn để tải lên",
+    "description": "Mô tả",
+    "descriptionPlaceholder": "Mô tả thẻ này...",
+    "invalidImage": "Vui lòng chọn một tệp hình ảnh",
+    "success": "Đã lưu thành công!",
+    "error": "Lưu thất bại",
+    "allowNsfw": "Cho phép Nội dung NSFW",
+    "allowNsfwDescription": "Kích hoạt để cho phép nội dung trưởng thành/người lớn trong thẻ này",
+    "moderators": "Quản lý Người điều hành",
+    "noModerators": "Chưa có người điều hành",
+    "ownerBadge": "Chủ sở hữu",
+    "removeMod": "Xóa người điều hành",
+    "confirmDeleteMod": "Bạn có chắc chắn muốn xóa người điều hành {{name}} không?",
+    "deleteModSuccess": "Xóa người điều hành thành công",
+    "deleteModFailed": "Xóa người điều hành thất bại",
+    "isNsfw": "Đây là thẻ nội dung nhạy cảm",
+    "isNsfwDescription": "Bật tùy chọn này sẽ cho phép nội dung nhạy cảm/nội dung cho người lớn trong thẻ này",
+    "logoHint": "Nên sử dụng hình ảnh vuông. Hình ảnh không vuông sẽ bị cắt ở giữa.",
+    "headerHint": "Kích thước đề xuất: 1200x400px. Hình ảnh lớn hơn sẽ được thay đổi kích thước.",
+    "imageProcessError": "Xử lý hình ảnh không thành công",
+    "ctaLink": "Liên kết nút hành động",
+    "ctaLinkError": "Chỉ cho phép liên kết nội bộ (đường dẫn tương đối hoặc komiko.app/komikoai.com)",
+    "ctaLinkHint": "Chỉ cho phép liên kết nội bộ. Để trống sẽ sử dụng liên kết mặc định.",
+    "ctaLinkHintWithDefault": "Tự động phát hiện: {{defaultLink}}",
+    "characterCategory": "Loại Nhân vật",
+    "characterCategoryPlaceholder": "Tìm kiếm hoặc chọn một loại",
+    "characterCategoryHint": "Liên kết thẻ này với một danh mục nhân vật chính thức.",
+    "allowedMediaTypes": "Các loại phương tiện được phép",
+    "mediaTypeAll": "Tất cả (Hình ảnh & Video)",
+    "mediaTypeImage": "Chỉ ảnh",
+    "mediaTypeVideo": "Chỉ video"
+  },
+  "addMod": {
+    "title": "Thêm Người điều hành",
+    "emailLabel": "Email người dùng",
+    "emailPlaceholder": "Nhập email đã đăng ký của người dùng",
+    "roleLabel": "Vai trò",
+    "roleModerator": "Người điều hành",
+    "roleOwner": "Chủ sở hữu",
+    "confirm": "Thêm Người điều hành",
+    "emailRequired": "Vui lòng nhập một địa chỉ email",
+    "failed": "Thêm người điều hành thất bại",
+    "success": "Đã thêm người điều hành thành công!",
+    "networkError": "Lỗi mạng, vui lòng thử lại"
+  },
+  "moderatorApplication": {
+    "title": "Đăng ký trở thành Người điều hành Komiko!",
+    "status": "Tình trạng đơn đăng ký",
+    "pending": "Đang chờ xét duyệt",
+    "approved": "Đã được phê duyệt",
+    "rejected": "Bị từ chối",
+    "pendingMessage": "Đơn đăng ký của bạn đang được xem xét. Chúng tôi sẽ thông báo cho bạn khi có quyết định.",
+    "approvedMessage": "Chúc mừng! Đơn đăng ký của bạn đã được phê duyệt. Bạn hiện là người điều hành cho thẻ này.",
+    "rejectedMessage": "Rất tiếc, đơn đăng ký của bạn chưa được duyệt lần này. Bạn có thể đăng ký lại sau.",
+    "submitted": "Đã nộp đơn đăng ký thành công!",
+    "introTitle": "Giúp định hình cộng đồng và hưởng các đặc quyền độc quyền như một người điều hành!",
+    "benefitsTitle": "Lợi ích:",
+    "benefit1": "Quyền lực để quản lý nội dung: Ghim bài viết, chỉnh sửa chi tiết thẻ và nổi bật/giấu nội dung.",
+    "benefit2": "Đào tạo độc quyền: Truy cập các hội thảo chính thức về quản lý thẻ và thảo luận cộng đồng.",
+    "process": "Việc chấp thuận sẽ được đội ngũ Komiko xem xét trực tiếp. Kết quả sẽ được thông báo trong vòng 5 ngày làm việc nếu bạn được chọn.",
+    "preferredName": "Chúng tôi nên gọi bạn là gì?",
+    "preferredNamePlaceholder": "ví dụ: Biệt danh hoặc tên ưa thích của bạn",
+    "tagsQuestion": "Bạn quan tâm điều hành thẻ nào?",
+    "contact": "Tên Discord hoặc địa chỉ email của bạn là gì?",
+    "contactPlaceholder": "ví dụ: yourname#1234 hoặc you@example.com",
+    "reason": "Tại sao chúng tôi nên chọn bạn?",
+    "reasonPlaceholder": "Hãy cho chúng tôi biết về kinh nghiệm, động lực của bạn và cách bạn sẽ giúp cộng đồng này...",
+    "note": "Đơn đăng ký của bạn sẽ được đội ngũ của chúng tôi xem xét. Chúng tôi sẽ thông báo cho bạn khi có quyết định.",
+    "submitApplication": "Nộp đơn đăng ký",
+    "close": "Đóng",
+    "preferredNameRequired": "Vui lòng nhập tên ưa thích của bạn",
+    "preferredNameTooLong": "Tên phải có tối đa 50 ký tự",
+    "contactInfoRequired": "Vui lòng nhập thông tin liên hệ của bạn",
+    "invalidContactInfo": "Vui lòng nhập một email hợp lệ hoặc tên người dùng Discord",
+    "reasonRequired": "Vui lòng cho chúng tôi biết lý do nên chọn bạn",
+    "reasonTooShort": "Vui lòng viết ít nhất 50 ký tự",
+    "reasonTooLong": "Vui lòng giữ dưới 1000 ký tự",
+    "reasonMinLength": "Tối thiểu 50 ký tự",
+    "applicationValidationFailed": "Vui lòng sửa các lỗi trong biểu mẫu"
+  },
+  "tagOrder": {
+    "title": "Tùy chỉnh thứ tự thẻ",
+    "description": "Kéo và thả để sắp xếp lại các thẻ bạn đang theo dõi",
+    "position": "Vị trí: {{position}}",
+    "noFollowedTags": "Chưa có thẻ nào được theo dõi. Hãy theo dõi một số thẻ để tùy chỉnh thứ tự của chúng!"
+  },
+  "follow": "Theo dõi",
+  "unfollow": "Ngừng theo dõi",
+  "generateArt": "Tạo Nghệ Thuật {{tag}}",
+  "variants": {
+    "fanart": {
+      "title": "Tranh Fanart {{name}}",
+      "description": "Khám phá những tác phẩm fan art {{name}} xuất sắc trên KomikoAI, lấy cảm hứng để tạo fan art {{name}} độc đáo của riêng bạn.",
+      "keywords": "tranh fanart {{name}}, fan art {{name}}, nghệ thuật {{name}}, anime {{name}}, AI art {{name}}, {{name}} OC, {{name}}",
+      "h1": "Tranh Fanart {{name}}",
+      "h1Description": "Khám phá những tác phẩm fan art {{name}} xuất sắc trên KomikoAI, lấy cảm hứng để tạo fan art {{name}} độc đáo của riêng bạn.",
+      "createTitle": "Chế Tác Tranh Fanart {{name}} Của Riêng Bạn",
+      "createDescription": "Khám phá những tác phẩm fan art {{name}} đầy ấn tượng và lấy cảm hứng từ các tác phẩm cộng đồng.\n\nHãy tái hiện {{name}} theo phong cách riêng của bạn. Tạo tranh fanart {{name}} tuyệt đẹp trong chớp mắt với mô hình anime tiên tiến của KomikoAI.",
+      "buttonText": "Chế Tác Tranh Fanart {{name}} Ngay Bây Giờ!"
+    },
+    "oc": {
+      "title": "Nhân Vật OC {{name}}",
+      "description": "Khám phá những nhân vật OC {{name}} của cộng đồng, và tự thiết kế nhân vật OC từ {{name}} nhờ KomikoAI.",
+      "keywords": "{{name}} oc, nhân vật OC {{name}}, tạo OC {{name}}, AI OC {{name}}, tạo nhân vật {{name}}, thiết kế nhân vật {{name}}",
+      "h1": "Nhân Vật OC {{name}}",
+      "h1Description": "Khám phá những nhân vật OC được fan tạo nên từ {{name}}. Tùy chỉnh phong cách, trang phục, và câu chuyện để tạo nhân vật OC {{name}} của riêng bạn.",
+      "createTitle": "Thiết Kế Nhân Vật OC {{name}} Của Riêng Bạn",
+      "createDescription": "Đã bao giờ bạn tưởng tượng một phiên bản {{name}} của riêng mình? Sử dụng trình tạo OC mạnh mẽ của KomikoAI để biến ý tưởng OC {{name}} của bạn thành hiện thực.\n\nKết hợp các đặc điểm, phong cách và cá tính để sáng tạo một OC {{name}} của riêng bạn — từ phép thuật huyền bí đến bản tương lai cyberpunk.",
+      "buttonText": "Thiết Kế Nhân Vật OC {{name}} Ngay Bây Giờ!"
+    },
+    "pfp": {
+      "title": "Hình Đại Diện {{name}}",
+      "description": "Khám phá những hình đại diện {{name}} ấn tượng hoặc tự tạo hình đại diện {{name}} bằng AI.",
+      "keywords": "hình đại diện {{name}}, ảnh hồ sơ {{name}}, avatar {{name}}, AI art {{name}}, nghệ thuật {{name}}",
+      "h1": "Hình Đại Diện {{name}}",
+      "h1Description": "Khám phá các hình đại diện {{name}} dễ thương và phong cách, sản phẩm của cộng đồng KomikoAI, hoặc tự tạo hình đại diện của riêng bạn.",
+      "createTitle": "Tạo Hình Đại Diện {{name}} Của Riêng Bạn",
+      "createDescription": "Khám phá những hình đại diện {{name}} phong cách và biểu cảm đã được sáng tạo bởi cộng đồng KomikoAI.\n\nChuyển đổi ý tưởng của bạn thành những hình đại diện {{name}} tuyệt đẹp phù hợp với phong cách cá nhân. Tùy chỉnh màu nền, chiếu sáng, và cảm xúc — mô hình KomikoAI đảm bảo phần nghệ thuật. Hoàn hảo cho avatar Discord, TikTok, YouTube, hay bất kỳ nơi nào bạn muốn tỏa sáng trong cộng đồng fan hâm mộ.",
+      "buttonText": "Tạo Hình Đại Diện {{name}} Ngay Bây Giờ!"
+    },
+    "wallpaper": {
+      "title": "Hình Nền {{name}}",
+      "description": "Tải về hoặc tự tạo các hình nền {{name}} tuyệt đẹp. Lựa chọn cảnh và độ phân giải yêu thích cho hình nền {{name}} của bạn — cho điện thoại, máy tính bảng hay máy tính.",
+      "keywords": "hình nền {{name}}, background {{name}}, hình nền anime {{name}}, AI wallpaper {{name}}, HD wallpaper {{name}}, nghệ thuật {{name}}",
+      "h1": "Hình Nền {{name}}",
+      "h1Description": "Khám phá bộ sưu tập hình nền {{name}} đã được chọn lọc kỹ lưỡng. Mỗi hình nền đều được tạo ra hoặc lấy cảm hứng từ cộng đồng KomikoAI.",
+      "createTitle": "Tạo Hình Nền {{name}} Tùy Chỉnh",
+      "createDescription": "Thiết kế hình nền {{name}} riêng của bạn thông qua các mô hình AI mạnh mẽ của KomikoAI.\n\nLựa chọn cảm xúc, chiếu sáng và khung cảnh — từ hoàng hôn biển, thành phố neon đến di tích kỳ ảo — và để AI tạo ra một hình nền {{name}} hoàn mỹ cho điện thoại hay máy tính của bạn.",
+      "buttonText": "Tạo Hình Nền {{name}} Ngay Bây Giờ!"
+    },
+    "pictures": {
+      "title": "Hình Ảnh {{name}}",
+      "description": "Khám phá bộ sưu tập hình ảnh {{name}} được tạo ra bởi KomikoAI — từ chân dung, cảnh vật, phác thảo, đến khung hình điện ảnh.",
+      "keywords": "hình ảnh {{name}}, nghệ thuật {{name}}, anime {{name}} images, AI images {{name}}, bộ sưu tập {{name}}, AI art {{name}}",
+      "h1": "Hình Ảnh {{name}}",
+      "h1Description": "Chào mừng đến với bộ sưu tập hình ảnh {{name}}. Từ chân dung đến những cảnh hành động, mỗi hình ảnh mang một góc nhìn khác biệt về {{name}}.",
+      "createTitle": "Tạo Hình Ảnh {{name}} Của Riêng Bạn",
+      "createDescription": "Khám phá những hình ảnh {{name}} phong cách và biểu cảm đã được sáng tạo bởi cộng đồng KomikoAI, và hãy biến ý tưởng của bạn thành hiện thực.\n\nKomikoAI cho phép tạo ngay lập tức hình ảnh {{name}} chất lượng cao theo nhiều phong cách — từ manga, anime, điện ảnh đến vẽ tranh, hoặc hiện thực. Tham gia cùng hàng ngàn người sáng tạo đang tạo ra những hình ảnh {{name}}.",
+      "buttonText": "Tạo Hình Ảnh {{name}} Ngay Bây Giờ!"
+    }
+  },
+  "allPosts": "Tất cả các bài viết",
+  "featured": "Đặc sắc",
+  "characters": "Nhân vật",
+  "trending": "Xu hướng",
+  "newest": "Mới nhất",
+  "search_tags_placeholder": "Tìm kiếm thẻ phổ biến..."
+}

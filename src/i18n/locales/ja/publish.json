@@ -1,0 +1,88 @@
+{
+  "pageTitle": "投稿 | KomikoAI",
+  "shareStory": "ストーリーをシェア",
+  "enterStoryTitle": "タイトルを入力",
+  "addMoreDescription": "説明を追加",
+  "post": "投稿する",
+  "pleaseNote": "ご注意：",
+  "nsfwWarning": "不適切な内容は必ず「回覧注意」タグを付けてください。タグなし投稿は削除対象となり、繰り返した場合はアカウント停止の可能性があります。違法コンテンツ（未成年を含む）は厳禁で、即時永久BANとなります。",
+  "imageDownloadSuccess": "画像をダウンロードしました！友だちにシェアしよう！",
+  "pleaseEnterTitle": "タイトルを入力してください",
+  "pleaseCreateStory": "ストーリーを作成してください",
+  "failedToPost": "投稿に失敗しました",
+  "addTags": "タグを追加",
+  "tagPlaceholder": "#タグを入力",
+  "tagCount": "タグ ({{current}}/{{max}})",
+  "recommendedTags": "おすすめタグ",
+  "popularTags": "人気のタグ",
+  "activity": "アクティビティ",
+  "defaultTitles": {
+    "character": "私のキャラクター作品",
+    "anime": "アニメ風フォト作品",
+    "animation": "アニメーション作品",
+    "creation": "マイクリエーション"
+  },
+  "share": "シェア",
+  "uploadMedia": "メディアをアップロード",
+  "dragDropOrClick": "ここにドラッグ＆ドロップ、またはクリックして選択",
+  "dropFileHere": "ここにファイルをドロップ",
+  "uploading": "アップロード中",
+  "storyTitle": "タイトル",
+  "description": "説明",
+  "titleLengthWarning": "タイトルが長くなっています",
+  "characters": "文字",
+  "pleasePublishFirst": "先に投稿を公開してください",
+  "preppingPost": "投稿を準備中…",
+  "pinPost": "この投稿をトレンド上部に固定する",
+  "fileUpload": {
+    "title": "メディアをアップロード",
+    "subtitle": "ここにドラッグ＆ドロップ、またはクリックして選択",
+    "dropHere": "ここにドロップ",
+    "supportedFormats": "対応フォーマット",
+    "imageFormats": "JPG, PNG, WEBP",
+    "videoFormats": "MP4, MOV, AVI",
+    "maxSize": "画像：最大 {{size}}MB",
+    "videoMaxSize": "動画：最大 {{size}}MB、{{duration}}分",
+    "processing": "ファイルを処理中…",
+    "uploading": "アップロード中…",
+    "success": "アップロード成功！",
+    "error": "アップロードに失敗しました。もう一度お試しください。"
+  },
+  "mediaPreview": {
+    "image": "画像",
+    "video": "動画",
+    "download": "ダウンロード",
+    "share": "シェア",
+    "clear": "クリア"
+  },
+  "validation": {
+    "titleRequired": "タイトルを入力してください",
+    "contentRequired": "ストーリーを作成してください",
+    "fileRequired": "ファイルを選択してください",
+    "fileTooLarge": "ファイルサイズが大きすぎます。最大 {{size}}MB までです",
+    "unsupportedFormat": "対応していないファイル形式です",
+    "uploadFailed": "アップロードに失敗しました。もう一度お試しください。"
+  },
+  "actions": {
+    "publish": "公開する",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "clear": "すべてクリア",
+    "download": "ダウンロード",
+    "share": "シェア"
+  },
+  "drawer": {
+    "action": {
+      "newPost": "新規投稿",
+      "newCharacter": "新規キャラ作成",
+      "generateImage": "画像生成",
+      "generateVideo": "動画生成",
+      "generateComic": "コミック生成",
+      "exploreTemplates": "テンプレートを探す"
+    },
+    "description": {
+      "newPost": "あなたの作品をコミュニティでシェアしよう。",
+      "exploreTemplates": "すべてのツールでキュレーションされたプリセットを閲覧できるテンプレートギャラリーを開きます。"
+    }
+  }
+}

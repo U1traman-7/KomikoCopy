@@ -1,0 +1,26 @@
+{
+  "logo_alt": "KomikoAIのロゴ",
+  "login_button": "ログイン",
+  "join_discord": "Discordに参加する",
+  "modal": {
+    "create_account_or_signin": "アカウント作成 / ログイン",
+    "sign_in": "サインイン",
+    "trouble_signing_in": "サインインでお困りの場合"
+  },
+  "promotion_offer": "特別オファー | 年間プランが50%オフ！この割引は<time>{{deadline}}</time>まで有効です",
+  "promotion_offer_mobile": "50%お得！この割引は<time>{{deadline}}</time>まで有効です",
+  "promotion_offer_mobile_days": "50%の節約！割引は<time>{{days}}日間</time>で終了します。",
+  "promotion_offer_days": "【期間限定】年間プランが50%オフ！割引は<time>{{days}}日間</time>で終了します。",
+  "new_user_promotion": {
+    "title": "新規ユーザー限定｜年間プランが40%オフ！終了まで<time>{{deadline}}</time>",
+    "mobile_title": "年間プランが40%オフ！終了まで<time>{{deadline}}</time>",
+    "mobile_days_title": "年間プランが40%オフ！終了まで<time>{{days}}日</time>",
+    "days_title": "新規ユーザー限定｜年間プランが40%オフ！終了まで<time>{{days}}日</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "週末限定フラッシュセール：年間プランが30%オフ！終了まであと<time>{{deadline}}</time>",
+    "mobile_title": "年間プランが30%オフ！終了まであと<time>{{deadline}}</time>",
+    "mobile_days_title": "年間プランが30%オフ！終了まであと<time>{{days}}日</time>",
+    "days_title": "週末限定フラッシュセール：年間プランが30%オフ！終了まであと<time>{{days}}日</time>"
+  }
+}

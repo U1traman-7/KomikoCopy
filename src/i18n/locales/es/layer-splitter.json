@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Separador de Capas con IA - KomikoAI",
+    "og": {
+      "title": "Separador de Capas - KomikoAI",
+      "description": "Separa los elementos de tus imágenes utilizando IA. Sube tu imagen y deja que la IA separe automáticamente los diferentes componentes para animación y desarrollo de juegos.",
+      "url": "https://komiko.app/layer_splitter"
+    },
+    "twitter": {
+      "title": "Separador de Capas - KomikoAI",
+      "description": "Separa los elementos de tus imágenes utilizando IA. Sube tu imagen y deja que la IA separe automáticamente los diferentes componentes para animación y desarrollo de juegos."
+    },
+    "description": "Separa los elementos de tus imágenes utilizando IA. Sube tu imagen y deja que la IA separe automáticamente los diferentes componentes para animación y desarrollo de juegos."
+  },
+  "hero": {
+    "title": "Separador de Capas con IA",
+    "description": "Divide tus imágenes en capas separadas utilizando IA. ¡Sube una sola imagen y obtén al instante capas de componentes individuales! Nuestra potente IA analiza tu trabajo y separa elementos como personajes, fondos y objetos en diferentes capas. Perfecto para artistas, animadores y desarrolladores de juegos que necesitan crear capas listas para animar."
+  },
+  "input": {
+    "title": "Entrada",
+    "upload": {
+      "label": "Subir imagen",
+      "tooltip": "Subir imagen al separador de capas"
+    }
+  },
+  "output": {
+    "title": "Resultado de la Separación",
+    "empty": {
+      "title": "Aquí se mostrarán tus resultados de separación",
+      "subtitle": "Sube una imagen para comenzar"
+    }
+  },
+  "tutorial": {
+    "title": "Cómo Separar Imágenes con IA",
+    "description": "En solo unos sencillos pasos, separa automáticamente las imágenes en capas separadas utilizando el separador de capas con IA de KomikoAI.",
+    "steps": {
+      "1": {
+        "title": "Paso 1: Subir Imagen",
+        "content": "Sube tu imagen al separador de capas con IA. Se admiten formatos JPG y PNG."
+      },
+      "2": {
+        "title": "Paso 2: Separar y Descargar",
+        "content": "Haz clic en \"Separar Imagen\" y espera a que la IA separe tu imagen. ¡Descarga las capas individuales para usar en tus proyectos!"
+      }
+    }
+  },
+  "examples": {
+    "title": "Ejemplos de Separación de Capas con IA",
+    "description": "Mira los resultados de separación de capas con IA generados por los usuarios de KomikoAI",
+    "labels": {
+      "original": "Imagen Original",
+      "split": "Capas Separadas"
+    },
+    "captions": {
+      "1": "Capa de fondo separada del personaje",
+      "2": "Capa de personaje extraída de la imagen de entrada",
+      "3": "Múltiples capas separadas de una sola imagen de entrada"
+    }
+  },
+  "features": {
+    "title": "Por Qué Usar la IA para Separar Imágenes",
+    "description": "El separador de capas con IA de KomikoAI facilita a cualquiera la separación de los componentes de las imágenes, desde principiantes hasta artistas profesionales y desarrolladores de juegos.",
+    "items": {
+      "precise": {
+        "title": "Separación Precisa",
+        "content": "Nuestra IA puede detectar y separar con precisión diferentes elementos en una imagen, creando capas individuales limpias para cada componente."
+      },
+      "timeSaving": {
+        "title": "Ahorro de Tiempo",
+        "content": "Olvídate de los tediosos procesos manuales de selección y enmascaramiento. Obtén capas separadas en segundos, en lugar de horas de trabajo laborioso."
+      },
+      "flexible": {
+        "title": "Edición Flexible",
+        "content": "Edita componentes individuales por separado y vuelve a combinarlos para obtener el máximo control creativo sobre tus imágenes."
+      },
+      "gameAssets": {
+        "title": "Creación de Recursos para Juegos",
+        "content": "Crea fácilmente sprites y recursos de juegos individuales a partir de imágenes complejas. Perfecto para los desarrolladores de juegos que necesitan aislar personajes y objetos."
+      },
+      "animation": {
+        "title": "Listo para la Animación",
+        "content": "Obtén capas listas para la animación que se pueden importar instantáneamente a tu software de animación favorito."
+      },
+      "quality": {
+        "title": "Salida de Alta Calidad",
+        "content": "Descarga capas separadas con calidad de nivel profesional, perfectas para proyectos comerciales."
+      },
+      "workflow": {
+        "title": "Flujo de Trabajo Simplificado",
+        "content": "Integra a la perfección la separación de capas con IA en tu flujo de trabajo de diseño, ilustración o desarrollo de juegos para ahorrar tiempo y recursos."
+      },
+      "background": {
+        "title": "Eliminación de Fondo",
+        "content": "Separa fácilmente los sujetos del primer plano de los fondos sin técnicas complejas de enmascaramiento o pantallas verdes."
+      },
+      "creative": {
+        "title": "Libertad Creativa",
+        "content": "Empieza separando los elementos de diferentes imágenes en capas de componentes y luego mézclalos y combínalos. Crea nuevas composiciones con facilidad."
+      }
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes sobre la Separación de Capas con IA",
+    "description": "Encuentra respuestas a preguntas comunes sobre el uso de la IA para dividir imágenes en capas.",
+    "questions": {
+      "1": {
+        "question": "¿Qué es la Separación de Capas con IA?",
+        "answer": "La Separación de Capas con IA es un proceso que utiliza la inteligencia artificial para separar automáticamente una imagen en capas de componentes individuales. La herramienta de Separador de Capas con IA de KomikoAI analiza tu trabajo e identifica diferentes elementos como personajes, fondos y objetos, creando capas separadas que pueden editarse independientemente."
+      },
+      "2": {
+        "question": "¿Cómo puedo usar la IA para dividir imágenes en capas?",
+        "answer": "Puedes separar tus imágenes utilizando la IA de KomikoAI en dos sencillos pasos:\n1. Sube tu imagen al separador de capas con IA\n2. Haz clic en el botón \"Separar Imagen\" para iniciar el proceso de separación"
+      },
+      "3": {
+        "question": "¿Puedo separar elementos de una imagen usando IA?",
+        "answer": "Sí, puedes separar elementos en una imagen usando IA. La herramienta de Separador de Capas con IA de KomikoAI puede analizar tu imagen e identificar diferentes componentes, creando capas separadas para cada elemento. Esto facilita la edición de partes específicas de la imagen sin afectar a toda la composición."
+      },
+      "4": {
+        "question": "¿Cómo funciona la Separación de Capas con IA?",
+        "answer": "La Separación de Capas con IA utiliza modelos avanzados de aprendizaje profundo entrenados con millones de imágenes para identificar diferentes elementos en una imagen. La IA analiza patrones, bordes, colores y contexto para determinar qué píxeles pertenecen a qué objetos, y luego crea capas separadas para cada componente identificado."
+      },
+      "5": {
+        "question": "¿Cuáles son los beneficios de la Separación de Capas con IA?",
+        "answer": "Hay muchos beneficios al usar la IA para separar imágenes:\n- Ahorra tiempo en comparación con el enmascaramiento y la selección manual\n- Genera capas limpias y de alta calidad con detección precisa de bordes\n- Capacidad de editar fácilmente componentes individuales\n- Perfecto para crear recursos de juegos y elementos de animación"
+      },
+      "6": {
+        "question": "¿Puedo usar capas separadas con IA para fines comerciales?",
+        "answer": "Sí, puedes usar capas separadas generadas por IA para fines personales y comerciales. Esto la convierte en una opción ideal para el desarrollo de juegos, proyectos de diseño y trabajo profesional. Sin embargo, asegúrate de cumplir con los Términos de Servicio de KomikoAI."
+      },
+      "7": {
+        "question": "¿Qué formatos y tamaños se admiten?",
+        "answer": "La IA admite imágenes en formatos JPG y PNG. Las capas de salida mantendrán la resolución de la imagen original para una calidad óptima."
+      },
+      "8": {
+        "question": "¿Es gratis el separador de capas con IA?",
+        "answer": "KomikoAI ofrece zaps (créditos) gratuitos para que pruebes la herramienta. Si necesitas más uso, también puedes comprar planes de pago para obtener más zaps, así como funciones premium como velocidades de procesamiento más rápidas y resoluciones más altas."
+      },
+      "9": {
+        "question": "¿Necesito agregar algún prompt para la separación de capas?",
+        "answer": "A diferencia de algunas herramientas de IA, nuestro separador de capas no requiere prompts detallados. La IA está entrenada para identificar y separar inteligentemente los componentes de la imagen. Simplemente sube tu imagen y deja que la IA haga su trabajo."
+      },
+      "10": {
+        "question": "¿Cuáles son las limitaciones de la Separación de Capas con IA?",
+        "answer": "Si bien la Separación de Capas con IA es una herramienta poderosa, tiene algunas limitaciones:\n- Escenas complejas: las imágenes muy ocupadas o intrincadas pueden hacer que ciertos elementos se agrupen\n- Transparencia: ciertos detalles finos (como el cabello o la piel) pueden ser difíciles de separar perfectamente\n- Objetos superpuestos: los elementos que se superponen significativamente pueden ser difíciles de separar por completo\nA pesar de estas limitaciones, la Separación de Capas con IA puede acelerar significativamente el flujo de trabajo de artistas, diseñadores y desarrolladores."
+      },
+      "11": {
+        "question": "¿Necesito habilidades de diseño para usar la Separación de Capas con IA?",
+        "answer": "No, no necesitas habilidades de diseño avanzadas para usar la Separación de Capas con IA.\n- Para diseñadores: si eres un profesional, esta herramienta puede acelerar significativamente tu flujo de trabajo\n- Para principiantes: puedes separar fácilmente los elementos de la imagen sin necesidad de dominar técnicas de selección complejas\nLa herramienta está diseñada para ser amigable para todos, tanto si eres un diseñador experimentado como si estás comenzando."
+      },
+      "12": {
+        "question": "¿Qué tipos de imágenes son las más adecuadas para la Separación de Capas con IA?",
+        "answer": "El separador de capas con IA funciona bien con varios tipos de imágenes:\n- Recursos de juegos y diseños de personajes\n- Ilustraciones y obras de arte\n- Fotos con elementos claros de primer plano y fondo\n- Imágenes de productos\n- Imágenes de estilo de dibujos animados y anime\n- Obras de arte digitales con componentes claros\nPara obtener los mejores resultados, usa imágenes con un buen contraste entre los diferentes elementos."
+      },
+      "13": {
+        "question": "¿Cómo puedo obtener los mejores resultados de la Separación de Capas con IA?",
+        "answer": "Sigue estos consejos para una separación de capas óptima:\n- Usa imágenes con un buen contraste entre los elementos\n- Asegúrate de que tu imagen tenga suficiente resolución\n- Las imágenes con bordes claros entre los elementos funcionan mejor\n- Evita escenas extremadamente desordenadas o complejas siempre que sea posible\n- Usa el formato PNG para obtener los mejores resultados de calidad"
+      },
+      "14": {
+        "question": "¿Cómo se compara la Separación de Capas con IA con la separación manual?",
+        "answer": "La Separación de Capas con IA puede ahorrar una cantidad significativa de tiempo en comparación con el enmascaramiento y la selección manual, reduciendo horas de trabajo a minutos. Si bien puede que no reemplace completamente las técnicas profesionales para los proyectos más intrincados, es una excelente herramienta para la creación rápida de recursos, el desarrollo de juegos y los flujos de trabajo de diseño. La IA comprende los límites de los objetos y puede crear separaciones limpias, lo que requiere una cantidad significativa de tiempo y habilidad para lograrlo manualmente."
+      },
+      "15": {
+        "question": "¿Puedo editar capas separadas con IA?",
+        "answer": "Sí, puedes editar y optimizar aún más las capas generadas por IA con tu software de diseño favorito. Las capas generadas por IA son un gran punto de partida, que puedes mejorar con detalles o correcciones adicionales según sea necesario."
+      },
+      "16": {
+        "question": "¿Cuáles son algunas formas creativas de usar la Separación de Capas con IA?",
+        "answer": "La Separación de Capas con IA se puede utilizar para:\n- Desarrollo de juegos: creación de sprites y fondos de personajes individuales\n- Animación: preparación de elementos para gráficos en movimiento\n- Diseño gráfico: aislamiento de componentes para composiciones creativas\n- Edición de fotos: separación de sujetos de fondos\n- Diseño UI/UX: creación de elementos de interfaz en capas\n- Arte digital: preparación de obras de arte para efectos dinámicos"
+      },
+      "17": {
+        "question": "¿Qué tan precisa es la tecnología de Separación de Capas con IA?",
+        "answer": "El separador de capas con IA de KomikoAI utiliza tecnología de visión artificial de última generación para identificar y separar con precisión los componentes de la imagen. Esta tecnología es particularmente eficaz para imágenes con elementos claros y buen contraste. Si bien ningún sistema de IA es perfecto, nuestra tecnología proporciona resultados de calidad profesional para la mayoría de los casos de uso comunes, lo que ahorra una cantidad significativa de tiempo en comparación con los procesos manuales."
+      },
+      "18": {
+        "question": "¿Puedo usar la Separación de Capas con IA para proyectos de animación?",
+        "answer": "Sí, la Separación de Capas con IA es ideal para proyectos de animación:\n- Separa fácilmente los personajes de los fondos para la animación independiente\n- Crea partes móviles, como extremidades, rasgos faciales u objetos\n- Prepara obras de arte existentes para la animación sin comenzar desde cero\n- Genera archivos en capas listos para importarse al software de animación\nEsta función es particularmente valiosa para los animadores que buscan dar vida a obras de arte estáticas o optimizar sus procesos de producción."
+      }
+    }
+  },
+  "delete": {
+    "title": "Confirmación de Eliminación",
+    "message": "¿Estás seguro de que quieres eliminar este vídeo? Esta acción no se puede deshacer.",
+    "cancel": "Cancelar",
+    "confirm": "Eliminar"
+  },
+  "buttons": {
+    "split": "Separar Imagen"
+  },
+  "errors": {
+    "noZaps": "Por favor, compra más zaps",
+    "splitFailed": "Error al separar la imagen",
+    "splitSuccess": "Imagen separada con éxito",
+    "deleteSuccess": "Eliminación exitosa",
+    "deleteFailed": "Error al eliminar",
+    "downloadFailed": "Error al descargar"
+  }
+}

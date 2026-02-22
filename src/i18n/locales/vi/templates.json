@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Mẫu | Komiko AI",
+    "description": "Khám phá các cài đặt sẵn (presets) thân thiện với anime được tuyển chọn cho Playground, hiệu ứng video, chuyển đổi video và các công cụ nhảy. Chọn một mẫu để bắt đầu với các cài đặt hoàn hảo đã được tải sẵn.",
+    "keywords": "thư viện mẫu anime, cài đặt sẵn Komiko, mẫu hiệu ứng video, mẫu cosplay"
+  },
+  "hero": {
+    "eyebrow": "Mẫu",
+    "title": "Tuyển Chọn Các Mẫu Được Yêu Thích Bởi Cộng Đồng Sáng Tạo Anime",
+    "description": "Tìm mẫu bạn yêu thích và bắt đầu sáng tạo ngay lập tức."
+  },
+  "buttons": {
+    "useTemplate": "Sử Dụng Mẫu Này",
+    "preview": "Xem Trước",
+    "close": "Đóng",
+    "seeAll": "Xem Tất Cả"
+  },
+  "categories": {
+    "featured": {
+      "title": "Nổi Bật"
+    },
+    "art": {
+      "title": "Nhân Vật Cài Sẵn",
+      "description": "Chuyển đổi các bức chân dung thành thiết kế nhân vật chuyên nghiệp - nghệ thuật đường nét, chibi, sprite, biểu cảm khuôn mặt, các góc nhìn và nhiều hơn nữa."
+    },
+    "style": {
+      "title": "Chuyển Đổi Phong Cách",
+      "description": "Các cài đặt sẵn evergreen cho Playground để chuyển đổi ảnh chân dung thành anime, màu nước hoặc bản vẽ cyberpunk bóng bẩy."
+    },
+    "imageRestyle": {
+      "title": "Tái Tạo Hình Ảnh",
+      "description": "Chuyển đổi hình ảnh thành phong cách anime, Pixar, manga, màu nước, neon, và hơn 15 phong cách nghệ thuật khác."
+    },
+    "videoRestyle": {
+      "title": "Tái Tạo Video",
+      "description": "Biến các cảnh quay video thành các phong cách hoạt hình như anime, cartoon, vẽ phác thảo, emoji và nhiều phong cách hoạt hình khác. Biến video thực tế thành nội dung phong cách."
+    },
+    "merch": {
+      "title": "Xưởng Sản Phẩm",
+      "description": "Tạo ảnh tượng, thú nhồi bông và bảng nhân vật sẵn sàng cho các bộ sưu tập."
+    },
+    "game": {
+      "title": "Trò Chơi",
+      "description": "Tạo video và cảnh theo phong cách game, bao gồm trailer Genshin Impact, game pixel cổ điển, tiến hóa Pokemon, mô phỏng hẹn hò và nhiều thẩm mỹ game khác."
+    },
+    "movie": {
+      "title": "Phim",
+      "description": "Tái hiện chân dung theo phong cách phim và truyền hình nghệ thuật - từ các chương trình hoạt hình đến phim giả tưởng và hơn thế nữa."
+    },
+    "cosplay": {
+      "title": "Cosplay & Trang Phục",
+      "description": "Các cài đặt sẵn tái tạo quảng cáo cosplay, trailer cosplay và các cảnh cosplay. Bao gồm cả trang phục nhân vật."
+    },
+    "effects": {
+      "title": "Hiệu Ứng & Hoạt Hình Video",
+      "description": "Áp dụng các hiệu ứng động như hoạt hình Live2D, góc nhìn nhân vật 360°, biến đổi của cô gái phép thuật, tăng cường sức mạnh Super Saiyan, và video nhạc theo phong cách anime/manga."
+    },
+    "dance": {
+      "title": "Múa",
+      "description": "Các chuyển động video AI Dance được tối ưu hóa cho K-pop, các trào lưu TikTok thịnh hành và các điệu nhảy robot cách điệu."
+    },
+    "christmas": {
+      "title": "Giáng Sinh",
+      "description": "Tạo ra khung cảnh Giáng Sinh mê hoặc với các cài đặt trước tuyệt vời cho nhân vật lễ hội và môi trường ngày lễ."
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "Hiệu ứng thú vị được yêu thích bởi người tạo anime",
+    "description": "Tìm hiệu ứng bạn thích và bắt tay vào tạo ngay.",
+    "defaultDescription": "Tạo hiệu ứng {{name}} {{type}} với KomikoAI. Tải lên hình ảnh của nhân vật và trải nghiệm sức mạnh của AI {{name}} Generator chỉ trong vài giây.",
+    "eyebrow": "Thư Viện Hiệu Ứng"
+  },
+  "meta": {
+    "keywords": "hiệu ứng AI, mẫu anime, hiệu ứng video, hoạt hình, phong cách hình ảnh, komiko",
+    "title": "Hiệu ứng | Komiko AI",
+    "description": "Khám phá tất cả các hiệu ứng và mẫu AI để tạo anime. Phong cách hình ảnh, hiệu ứng video, hoạt hình và nhiều hơn nữa.",
+    "titleTemplate": "Trình tạo {{name}}"
+  },
+  "categories": {
+    "trending": {
+      "description": "Các hiệu ứng phổ biến nhất hiện nay",
+      "title": "Xu Hướng"
+    },
+    "imageRestyle": {
+      "description": "Chuyển đổi hình ảnh của bạn thành nhiều phong cách nghệ thuật khác nhau",
+      "title": "Đổi Mới Hình Ảnh"
+    },
+    "merch": {
+      "description": "Tạo thiết kế hàng hóa sưu tầm từ nhân vật của bạn",
+      "title": "Xưởng Hàng Hóa"
+    },
+    "movie": {
+      "description": "Tạo lại chân dung theo phong cách điện ảnh",
+      "title": "Phim"
+    },
+    "cosplay": {
+      "description": "Tạo thiết kế cosplay và trang phục cuốn hút",
+      "title": "Cosplay & Trang Phục"
+    },
+    "dance": {
+      "description": "Tạo chuyển động video nhảy múa bằng AI",
+      "title": "Múa"
+    },
+    "featured": {
+      "title": "Nổi Bật"
+    },
+    "art": {
+      "title": "Nghệ thuật",
+      "description": "Chuyển đổi hình ảnh chân dung thành thiết kế nhân vật chuyên nghiệp"
+    },
+    "videoRestyle": {
+      "title": "Đổi Mới Video",
+      "description": "Chuyển đổi đoạn phim thành phong cách hoạt hình"
+    },
+    "game": {
+      "title": "Trò Chơi",
+      "description": "Tạo video và cảnh theo phong cách trò chơi"
+    },
+    "effects": {
+      "title": "Hiệu Ứng Video",
+      "description": "Áp dụng hiệu ứng và hoạt hình video động"
+    },
+    "characterExpression": {
+      "title": "Biểu Cảm Nhân Vật",
+      "description": "Thay đổi biểu cảm của nhân vật một cách linh hoạt"
+    },
+    "funEffects": {
+      "title": "Hiệu Ứng Vui Nhộn",
+      "description": "Hiệu ứng video vui nhộn và giải trí"
+    }
+  },
+  "whatIs": {
+    "title": "Generator {{name}} Là Gì",
+    "defaultDescription": "AI {{name}} Generator là công cụ AI tạo ra các hiệu ứng {{type}} của {{name}}. Đây là một trong hơn 100 mẫu hiệu ứng AI được thiết kế bởi đội ngũ KomikoAI. Chỉ cần tải lên hình ảnh nhân vật và để AI thực hiện điều kỳ diệu."
+  },
+  "howToUse": {
+    "step1Title": "Tải Lên Hình Ảnh",
+    "step2Title": "Chọn Hiệu Ứng",
+    "step3Title": "Tạo",
+    "step4Title": "Tải Xuống",
+    "title": "Cách Sử Dụng",
+    "step1": "Tải lên hình ảnh nhân vật của bạn ở phía trên",
+    "step2": "Hiệu ứng {{name}} đã được chọn sẵn cho bạn",
+    "step3": "Nhấp vào \"Tạo Hoạt Hình\" và đợi kết quả của bạn",
+    "step4": "Tải xuống hoặc chia sẻ tác phẩm của bạn"
+  },
+  "breadcrumb": {
+    "effects": "Hiệu Ứng"
+  },
+  "buttons": {
+    "useTemplate": "Sử Dụng Mẫu",
+    "preview": "Xem Trước",
+    "close": "Đóng",
+    "seeAll": "Xem Tất Cả"
+  },
+  "empty": "Không tìm thấy hiệu ứng nào.",
+  "notFound": {
+    "title": "Không Tìm Thấy Hiệu Ứng",
+    "description": "Hiệu ứng \"{{name}}\" không thể được tìm thấy. Có thể nó đã bị xóa hoặc URL không đúng.",
+    "browseAll": "Duyệt Tất Cả Các Hiệu Ứng"
+  },
+  "moreTools": {
+    "title": "Nhiều Hiệu Ứng AI Hơn",
+    "description": "Khám phá bộ sưu tập đầy đủ các hiệu ứng và mẫu AI của chúng tôi.",
+    "browseAll": "Duyệt Tất Cả Các Hiệu Ứng"
+  },
+  "changeModal": {
+    "title": "Chuyển Đổi Hiệu Ứng"
+  },
+  "communityExamples": {
+    "title": "Ví Dụ Về Hiệu Ứng {{name}}",
+    "description": "Tất cả các tác phẩm được tạo ra với hiệu ứng {{name}} bởi cộng đồng KomikoAI.",
+    "noExamples": "Hiện chưa có ví dụ nào từ cộng đồng."
+  },
+  "types": {
+    "video": "video",
+    "image": "ảnh",
+    "dance": "múa"
+  }
+}

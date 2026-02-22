@@ -1,0 +1,118 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Photo to Anime - KomikoAI",
+      "description": "Transform your photos, illustrations, and 3D renders into stunning anime art with our AI-powered converter. Perfect for manga artists, comic creators, and anime enthusiasts. Convert selfies to anime characters, turn screenshots into manga panels, or reimagine 3D renders as anime-style artwork in seconds.",
+      "keywords": "AI photo to anime, convert photo to manga style, 3D to anime converter, comic panel animation, manhwa art generator, AI anime avatar creator, screenshot to anime, illustration style transfer, webtoon maker, cel-shading converter"
+    },
+    "hero": {
+      "title": "AI Photo to Anime"
+    },
+    "whatIs": {
+      "title": "What is AI Photo to Anime?",
+      "description": "AI Photo to Anime is an advanced AI-powered converter that transforms your photos, illustrations, and 3D renders into stunning anime artwork. Using cutting-edge neural networks trained on over 500,000 anime frames, our tool delivers authentic anime-style conversions while preserving your original composition and artistic intent. Perfect for manga artists, comic creators, and anime enthusiasts looking to convert selfies to anime characters, turn screenshots into manga panels, or reimagine 3D renders as anime-style artwork."
+    },
+    "examples": {
+      "title": "AI Photo to Anime Conversion Examples",
+      "description": "See the stunning transformations our AI can create"
+    },
+    "howToUse": {
+      "title": "Convert Photos to Anime Art in 4 Steps",
+      "steps": [
+        {
+          "title": "Upload Source Material",
+          "content": "Upload photos (JPG/WEBP/PNG), 3D renders, or existing comic panels. Our AI analyzes composition and lighting for optimal conversion."
+        },
+        {
+          "title": "Style Customization",
+          "content": "Select from diverse anime styles including classic manga inkwork, modern anime cel-shading, or manhwa-style full color rendering."
+        },
+        {
+          "title": "AI Transformation",
+          "content": "Our advanced AI model powered by GPT and Gemini processes images through neural layers, applying authentic line work and anime color palettes."
+        },
+        {
+          "title": "Download & Share",
+          "content": "Download print-ready high resolution images and share them with your friends."
+        }
+      ],
+      "subtitle": "Transform your images into anime masterpieces effortlessly"
+    },
+    "benefits": {
+      "title": "Professional Photo to Anime Conversion Tools",
+      "description": "Why choose our AI anime converter?",
+      "features": [
+        {
+          "title": "🖌️ Advanced Style Preservation",
+          "content": "Maintains 98% of original composition while applying anime-specific lighting and perspective adjustments"
+        },
+        {
+          "title": "🗂️ Efficient Image Management",
+          "content": "Easily upload, convert, and manage multiple images in one session, streamlining your workflow"
+        },
+        {
+          "title": "📸 High-Quality Outputs",
+          "content": "Delivers crisp, high-resolution PNG images perfect for digital comics, print production, and online sharing"
+        },
+        {
+          "title": "📊 Resolution Scaling",
+          "content": "From mobile-friendly resolutions to print-ready outputs with optimized image quality"
+        },
+        {
+          "title": "🎯 Style Transfer Accuracy",
+          "content": "94% accuracy rate in matching requested anime styles based on user testing"
+        },
+        {
+          "title": "🗃️ Asset Management",
+          "content": "Securely store and organize your converted anime images for easy access and reuse"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Expert Guide to AI Photo to Anime",
+      "description": "Discover everything you need to know about transforming your photos, illustrations, screenshots, and 3D renderings into captivating anime-style artwork with our AI photo to anime converter.",
+      "q1": "What image formats does the AI anime converter support?",
+      "a1": "Our converter supports JPG, PNG, and WEBP formats for input, delivering high-resolution PNG outputs perfect for digital comics and print production.",
+      "q2": "Can I convert 3D renders to anime style?",
+      "a2": "Absolutely! Our AI specializes in transforming 3D renders into authentic 2D anime artwork while preserving structural details - perfect for manga pre-production.",
+      "q3": "How accurate are the manga/manhwa style conversions?",
+      "a3": "Using neural networks trained on 500,000+ anime frames, our converter achieves 98% style accuracy for popular formats including shonen manga and full-color manhwa.",
+      "q4": "What resolution are the output images?",
+      "a4": "Images are generated at 4K resolution (4096x4096px) with optional upscaling available for professional print production needs.",
+      "q5": "How does the AI handle different art styles?",
+      "a5": "The system automatically detects line work, coloring style, and composition to apply the most appropriate anime transformation while preserving original artistic intent.",
+      "q6": "Is the AI Photo to Anime converter free?",
+      "a6": "Yes, you can use our AI Photo to Anime converter for free with a generous selection of styles. For users looking for more advanced and unique transformations, we also offer other premium styles, which are available exclusively for subscribers. Free styles can be used at no cost, while premium styles are marked with a crown and require a subscription."
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photos into stunning anime art",
+  "originalKeyword": "Photo to Anime",
+  "defaultStyle": "anime",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "output": "/images/examples/photo-to-anime/girl_anime.webp",
+      "image": "/images/examples/playground/photo-to-anime/example_1.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "output": "/images/examples/photo-to-anime/boy_anime.webp",
+      "image": "/images/examples/playground/photo-to-anime/example_2.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "output": "/images/examples/photo-to-anime/cat_anime.webp",
+      "image": "/images/examples/playground/photo-to-anime/example_3.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "output": "/images/styles/anime.webp",
+      "image": "/images/styles/anime.webp",
+      "prompt": "Style: Anime"
+    }
+  ]
+}

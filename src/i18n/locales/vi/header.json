@@ -1,0 +1,26 @@
+{
+  "logo_alt": "Logo KomikoAI",
+  "login_button": "Đăng Nhập",
+  "join_discord": "Tham Gia Discord",
+  "modal": {
+    "create_account_or_signin": "Tạo Tài Khoản hoặc Đăng Nhập",
+    "sign_in": "Đăng Nhập",
+    "trouble_signing_in": "Bạn gặp vấn đề khi đăng nhập?"
+  },
+  "promotion_offer": "Ưu đãi có hạn | Giảm 50% cho gói hàng năm! Khuyến mãi kết thúc trong <time>{{deadline}}</time>",
+  "promotion_offer_mobile": "Giảm 50%! Khuyến mãi kết thúc trong <time>{{deadline}}</time>",
+  "promotion_offer_mobile_days": "Giảm 50%! Khuyến mãi kết thúc trong <time>{{days}} ngày</time>",
+  "promotion_offer_days": "Ưu đãi có hạn | Giảm 50% với Gói năm! Khuyến mãi kết thúc trong <time>{{days}} ngày</time>",
+  "new_user_promotion": {
+    "title": "ƯU ĐÃI ĐẶC BIỆT CHO NGƯỜI DÙNG MỚI | GIẢM 40% GÓI DÀI HẠN! Kết thúc sau <time>{{deadline}}</time>",
+    "mobile_title": "GIẢM 40% GÓI DÀI HẠN! Kết thúc sau <time>{{deadline}}</time>",
+    "mobile_days_title": "GIẢM 40% GÓI DÀI HẠN! Kết thúc sau <time>{{days}} ngày</time>",
+    "days_title": "ƯU ĐÃI ĐẶC BIỆT CHO NGƯỜI DÙNG MỚI | GIẢM 40% GÓI DÀI HẠN! Kết thúc sau <time>{{days}} ngày</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "KHUYẾN MÃI NHANH CUỐI TUẦN: GIẢM 30% cho Gói hàng năm! Kết thúc sau <time>{{deadline}}</time>",
+    "mobile_title": "GIẢM 30% cho Gói hàng năm! Kết thúc sau <time>{{deadline}}</time>",
+    "mobile_days_title": "GIẢM 30% cho Gói hàng năm! Kết thúc sau <time>{{days}} Ngày</time>",
+    "days_title": "KHUYẾN MÃI NHANH CUỐI TUẦN: GIẢM 30% cho Gói hàng năm! Kết thúc sau <time>{{days}} Ngày</time>"
+  }
+}

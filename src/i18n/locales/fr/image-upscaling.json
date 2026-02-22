@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "Amélioration d'image IA - KomikoAI",
+    "description": "Sublimez vos images grâce à l'optimiseur d'image IA avancé de KomikoAI AI. Notre technologie d'amélioration d'image basée sur l'IA exploite la super résolution pour rehausser intelligemment vos photos, offrant des résultats professionnels d'une clarté et d'un niveau de détail exceptionnels.",
+    "fullDescription": "Sublimez vos images grâce à l'optimiseur d'image IA avancé de KomikoAI AI. Notre technologie d'amélioration d'image basée sur l'IA exploite la super résolution pour rehausser intelligemment vos photos. Que vous souhaitiez améliorer des images en 4K, réduire le bruit ou améliorer la qualité globale, notre optimiseur de photo IA offre des résultats professionnels d'une clarté et d'un niveau de détail exceptionnels.",
+    "keywords": "Améliorateur d'Image IA, Amélioration d'Image, Super Résolution, Améliorateur de Photo IA, Amélioration d'image 4K, amélioration de la qualité de l'image, réduction du bruit, restauration d'image, amélioration d'image professionnelle, amélioration par apprentissage automatique"
+  },
+  "title": "Optimiseur d'Image IA",
+  "description": "Sublimez vos images grâce à l'optimiseur d'image IA avancé de KomikoAI AI. Notre technologie d'amélioration d'image basée sur l'IA exploite la super résolution pour rehausser intelligemment vos photos, vos images d'anime et votre contenu manga. Que vous souhaitiez améliorer des images en 4K, sublimer des planches de manhwa, créer des fonds d'écran d'anime de haute qualité ou améliorer la qualité globale de l'image, notre optimiseur de photo IA offre des résultats professionnels d'une clarté et d'un niveau de détail exceptionnels.",
+  "inputImage": "Image source",
+  "scaleFactor": "Facteur d'agrandissement",
+  "imageResults": "Résultats",
+  "resultsPlaceholder": "Les résultats s'afficheront ici",
+  "whatIsSection": {
+    "title": "Qu'est-ce que l'amélioration d'image ?",
+    "description": "L'amélioration d'image est un processus qui consiste à augmenter la résolution d'une image. Elle permet aux artistes de créer des images de haute qualité avec plus de détails et de clarté. L'amélioration d'image IA est un outil qui vous permet d'améliorer instantanément vos images grâce à l'IA."
+  },
+  "howToSection": {
+    "title": "Comment améliorer des images avec l'optimiseur d'image IA ?",
+    "description": "Découvrez comment l'optimiseur d'image de KomikoAI AI exploite l'apprentissage automatique avancé pour sublimer vos photos. Notre optimiseur de photo IA rend l'amélioration d'image de qualité professionnelle accessible à tous."
+  },
+  "steps": {
+    "step1": {
+      "title": "Étape 1 : Télécharger l'image",
+      "content": "Téléchargez n'importe quelle photo que vous souhaitez améliorer avec notre optimiseur d'image IA. Nous prenons en charge les formats JPG, PNG et WebP."
+    },
+    "step2": {
+      "title": "Étape 2 : Choisir le facteur d'agrandissement",
+      "content": "Choisissez le facteur de zoom souhaité - améliorez la résolution de l'image jusqu'à 10 fois grâce à la technologie Super Resolution."
+    },
+    "step3": {
+      "title": "Étape 3 : Traiter l'image",
+      "content": "Cliquez sur « Améliorer l'image » pour lancer le processus d'amélioration d'image par IA."
+    },
+    "step4": {
+      "title": "Étape 4 : Télécharger le résultat",
+      "content": "Téléchargez votre photo améliorée avec une qualité et une résolution supérieures !"
+    }
+  },
+  "examples": {
+    "title": "Exemples d'amélioration d'image par IA",
+    "description": "Découvrez les résultats concrets de l'amélioration d'image par IA générés par les utilisateurs de KomikoAI",
+    "inputAlt1": "Exemple d'image source",
+    "inputCaption1": "Exemple d'image source 1",
+    "outputAlt1": "Exemple d'image d'entrée",
+    "outputCaption1": "Image améliorée, résultat 4x (1)",
+    "inputAlt2": "Exemple d'image source",
+    "inputCaption2": "Exemple d'image source 2",
+    "outputAlt2": "Exemple d'image d'entrée",
+    "outputCaption2": "Image améliorée, résultat 4x (2)",
+    "inputAlt3": "Exemple d'image source",
+    "inputCaption3": "Exemple d'image source 3",
+    "outputAlt3": "Exemple d'image d'entrée",
+    "outputCaption3": "Image améliorée, résultat 4x (3)"
+  },
+  "whyChoose": {
+    "title": "Pourquoi choisir notre optimiseur d'image IA ?",
+    "description": "L'optimiseur d'image IA de KomikoAI transforme vos photos basse résolution en superbes images de haute qualité, parfaites pour un usage personnel et professionnel."
+  },
+  "features": {
+    "feature1": {
+      "title": "Amélioration de photo IA avancée",
+      "content": "Notre technologie d'amélioration de la qualité d'image offre des résultats exceptionnels en analysant et en améliorant intelligemment chaque détail de vos photos et images d'anime."
+    },
+    "feature2": {
+      "title": "Amélioration d'anime spécialisée",
+      "content": "Idéal pour créer des fonds d'écran d'anime de haute qualité et améliorer les personnages d'anime tout en préservant le style artistique et les détails."
+    },
+    "feature3": {
+      "title": "Amélioration de manga",
+      "content": "Sublimez les planches de manhwa et de manga grâce à notre technologie de restauration d'image IA spécialisée, en conservant des lignes nettes et un texte clair."
+    },
+    "feature4": {
+      "title": "Mise à l'échelle à résolution supérieure",
+      "content": "Transformez des images basse résolution en photos d'une clarté cristalline grâce à notre agrandisseur d'image IA, prenant en charge une amélioration jusqu'à 10x."
+    },
+    "feature5": {
+      "title": "Réduction intelligente du bruit",
+      "content": "Notre technologie de restauration d'image IA supprime automatiquement le bruit et les artefacts tout en préservant les détails importants."
+    },
+    "feature6": {
+      "title": "Amélioration d'image 4K",
+      "content": "Améliorez les images en qualité 4K grâce à nos algorithmes de super résolution avancés, pour des résultats de qualité professionnelle."
+    }
+  },
+  "guide": {
+    "title": "Guide complet de l'amélioration d'image par IA",
+    "description": "Apprenez tout ce qu'il faut savoir sur l'amélioration de la qualité d'image grâce à l'optimiseur d'image de KomikoAI AI. Obtenez des réponses d'experts sur notre technologie d'amélioration d'image basée sur l'apprentissage automatique et sur la manière dont elle peut transformer vos photos."
+  },
+  "faq": {
+    "question1": "Qu'est-ce que l'optimiseur d'image IA de KomikoAI ?",
+    "answer1": "L'optimiseur d'image IA de KomikoAI est un outil d'amélioration d'image de pointe qui exploite une technologie d'IA avancée pour augmenter la résolution et la qualité d'image. Notre optimiseur de photo IA transforme automatiquement les images de mauvaise qualité en photos haute résolution d'une clarté cristalline, tout en préservant les détails naturels et la fidélité visuelle. Il est particulièrement efficace pour améliorer les images d'anime, les planches de manga et les œuvres d'art numériques.",
+    "question2": "Comment fonctionne notre amélioration d'image par IA ?",
+    "answer2": "Notre agrandisseur d'image IA exploite des modèles d'apprentissage automatique avancés, entraînés sur des millions d'images de haute qualité, y compris du contenu anime et manga. L'IA analyse chaque pixel pour améliorer la qualité d'image, augmenter la résolution et améliorer la clarté globale. Cette technologie de super résolution offre des résultats supérieurs par rapport aux méthodes d'amélioration traditionnelles.",
+    "question3": "Quels sont les avantages de l'amélioration d'image par IA ?",
+    "answer3": {
+      "point1": "Transformez des photos basse résolution en images 4K d'une clarté cristalline",
+      "point2": "Améliorez la qualité d'image tout en conservant les détails naturels",
+      "point3": "Supprimez le bruit et les artefacts de compression des images",
+      "point4": "Améliorez les images jusqu'à 10 fois leur taille d'origine grâce à l'IA",
+      "point5": "Idéal pour améliorer les fonds d'écran d'anime et les planches de manga"
+    },
+    "question4": "Quels formats d'image sont pris en charge ?",
+    "answer4": "Notre optimiseur d'image IA fonctionne avec les images JPG, PNG et WebP. Vous pouvez améliorer vos photos à n'importe quelle taille tout en conservant la qualité grâce à notre technologie d'amélioration de la qualité d'image.",
+    "question5": "L'optimiseur d'image IA est-il gratuit ?",
+    "answer5": "Commencez à améliorer vos images gratuitement grâce aux zaps (crédits) offerts par KomikoAI. Pour les besoins professionnels d'amélioration de la qualité d'image, nos forfaits payants offrent des zaps supplémentaires et un accès à des sorties de résolution plus élevée.",
+    "question6": "Quel facteur d'agrandissement dois-je choisir ?",
+    "answer6": "Sélectionnez 2x pour une amélioration de bonne qualité, 4x pour une qualité supérieure, ou des facteurs plus élevés pour une résolution maximale. Notre technologie de restauration d'image IA garantit des résultats optimaux quel que soit le facteur d'agrandissement.",
+    "question7": "Quelle est son efficacité pour l'amélioration du contenu anime et manga ?",
+    "answer7": "Notre optimiseur d'image IA est spécialement optimisé pour l'amélioration d'image anime et l'amélioration de manga. Que vous souhaitiez améliorer des personnages d'anime, créer des fonds d'écran d'anime haute résolution ou améliorer des planches de manhwa, notre technologie préserve le style artistique unique tout en améliorant la qualité.",
+    "question8": "Puis-je l'utiliser à la fois pour des photos et du contenu anime/manga ?",
+    "answer8": "Oui ! Notre optimiseur de photo IA est suffisamment polyvalent pour traiter à la fois des photos réelles et du contenu illustré. Il est tout aussi efficace pour améliorer les photographies, les images d'anime, les planches de manga et l'art numérique, tout en conservant les caractéristiques distinctes de chaque support.",
+    "question9": "Qu'est-ce qui différencie KomikoAI AI des autres optimiseurs ?",
+    "answer9": "KomikoAI AI combine une technologie de super résolution de pointe avec une formation spécialisée sur le contenu photographique et illustré. Cela le rend particulièrement efficace pour améliorer les images d'anime et les mangas tout en offrant d'excellents résultats pour les photos ordinaires.",
+    "question10": "Comment puis-je obtenir les meilleurs résultats lors de l'amélioration d'images de manga ou d'anime ?",
+    "answer10": "Pour obtenir les meilleurs résultats lors de l'utilisation de notre outil d'amélioration d'image sur du contenu manga ou anime, nous vous recommandons de commencer avec des images sources nettes et d'utiliser une amélioration 2x ou 4x pour une préservation optimale des détails. Notre technologie de restauration d'image IA est particulièrement efficace pour maintenir la clarté des lignes et la précision des couleurs dans le contenu illustré."
+  },
+  "deleteModal": {
+    "title": "Confirmation de suppression",
+    "message": "Êtes-vous sûr de vouloir supprimer cette image ? Cette action est irréversible.",
+    "cancel": "Annuler",
+    "delete": "Supprimer"
+  },
+  "toasts": {
+    "deleteSuccess": "Suppression réussie",
+    "deleteFailed": "Échec de la suppression",
+    "downloadFailed": "Échec du téléchargement",
+    "upscaleSuccess": "Image améliorée avec succès",
+    "upscaleFailed": "Échec de l'amélioration de l'image",
+    "noZaps": "Veuillez acheter plus de zaps",
+    "mediaReceived": "Média reçu avec succès",
+    "purchaseMoreZaps": "Nombre de zaps insuffisant, veuillez en acheter plus",
+    "imageTooLarge": "Oups ! La résolution de l'image est trop élevée pour que l'IA puisse la traiter. Veuillez essayer de télécharger une image de taille inférieure."
+  },
+  "upscaleImage": "Améliorer l'image"
+}

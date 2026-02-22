@@ -1,0 +1,86 @@
+{
+  "pageTitle": "पोस्ट | KomikoAI",
+  "shareStory": "कहानी साझा करें",
+  "enterStoryTitle": "कहानी का शीर्षक दर्ज करें",
+  "addMoreDescription": "और विवरण जोड़ें",
+  "post": "पोस्ट करें",
+  "pleaseNote": "कृपया ध्यान दें:",
+  "nsfwWarning": "देखिए, सभी अनुचित सामग्री को \"NSFW\" के रूप में टैग करना आवश्यक है। बिना टैग की गई पोस्ट्स को हटा दिया जाएगा और अगर बार-बार गलती होगी तो बैन भी लगाया जा सकता है। अवैध सामग्री (नाबालिगों के साथ) बिल्कुल वर्जित है और इससे स्थायी बैन हो सकता है।",
+  "imageDownloadSuccess": "चित्र डाउनलोड सफल! अब अपने दोस्तों के साथ साझा करें!",
+  "pleaseEnterTitle": "कृपया शीर्षक दर्ज करें",
+  "pleaseCreateStory": "कृपया कहानी बनाएं",
+  "failedToPost": "पोस्ट करने में विफल",
+  "defaultTitles": {
+    "character": "मेरे पात्र की रचना",
+    "anime": "मेरे एनीमे शैली की तस्वीर",
+    "animation": "मेरी एनिमेशन",
+    "creation": "मेरी कृति"
+  },
+  "addTags": "टैग्स जोड़ें",
+  "tagPlaceholder": "#टैग दर्ज करें",
+  "tagCount": "टैग्स ({{current}}/{{max}})",
+  "recommendedTags": "सुझाए गए टैग",
+  "popularTags": "प्रचलित टैग",
+  "activity": "क्रियाकलाप",
+  "share": "साझा करें",
+  "uploadMedia": "मीडिया अपलोड करें",
+  "dragDropOrClick": "फाइलों को यहाँ खींचें और छोड़ें, या चयन करने के लिए क्लिक करें",
+  "dropFileHere": "फाइलें यहाँ छोड़ें",
+  "uploading": "अपलोड हो रहा है",
+  "storyTitle": "कहानी का शीर्षक",
+  "description": "विवरण",
+  "titleLengthWarning": "शीर्षक लंबा हो रहा है",
+  "characters": "अक्षर",
+  "pleasePublishFirst": "कृपया पहले सामग्री प्रकाशित करें, फिर साझा करें",
+  "pinPost": "इस पोस्ट को ट्रेंडिंग फीड में सबसे ऊपर पिन करें",
+  "fileUpload": {
+    "title": "मीडिया अपलोड करें",
+    "subtitle": "फाइल्स को यहां खींचें और छोड़ें, या चुनने के लिए क्लिक करें",
+    "dropHere": "फाइल्स यहां छोड़ें",
+    "supportedFormats": "समर्थित प्रारूप",
+    "imageFormats": "JPG, PNG, WEBP",
+    "videoFormats": "MP4, MOV, AVI",
+    "maxSize": "छवियाँ: अधिकतम {{size}}MB",
+    "videoMaxSize": "वीडियो: अधिकतम {{size}}MB, {{duration}} मिनट",
+    "processing": "फाइल संसाधित की जा रही है...",
+    "uploading": "अपलोड हो रहा है...",
+    "success": "अपलोड सफल!",
+    "error": "अपलोड विफल। कृपया फिर से प्रयास करें।"
+  },
+  "mediaPreview": {
+    "image": "छवि",
+    "video": "वीडियो",
+    "download": "डाउनलोड",
+    "share": "शेयर करें",
+    "clear": "हटाएं"
+  },
+  "validation": {
+    "titleRequired": "कृपया एक शीर्षक दर्ज करें",
+    "contentRequired": "कृपया एक कहानी बनाएं",
+    "fileRequired": "कृपया एक फाइल चुनें",
+    "fileTooLarge": "फाइल बहुत बड़ी है। अधिकतम आकार: {{size}}MB",
+    "unsupportedFormat": "असमर्थित फाइल प्रारूप",
+    "uploadFailed": "अपलोड विफल। कृपया फिर से प्रयास करें।"
+  },
+  "actions": {
+    "publish": "प्रकाशित करें",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "clear": "सभी हटाएं",
+    "download": "डाउनलोड",
+    "share": "शेयर करें"
+  },
+  "preppingPost": "आपकी पोस्ट को तैयार किया जा रहा है…",
+  "drawer": {
+    "action": {
+      "newPost": "नई पोस्ट",
+      "newCharacter": "नया पात्र",
+      "generateImage": "चित्र उत्पन्न करें",
+      "generateVideo": "वीडियो बनाएं",
+      "generateComic": "कॉमिक बनाएं"
+    },
+    "description": {
+      "newPost": "अपनी रचनाओं को समुदाय के साथ साझा करें।"
+    }
+  }
+}

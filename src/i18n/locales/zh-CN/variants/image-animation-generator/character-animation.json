@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "角色动画 - KomikoAI",
+      "description": "使用角色动画功能，让您的角色栩栩如生。将静态图像转化为动态动画，以自然流畅的动作和表情吸引观众。",
+      "fullDescription": "解锁角色动画的强大功能，将您的静态作品转化为引人入胜的动画。此功能非常适合希望将角色插图动画化并增强其创意项目的艺术家、作者和动漫爱好者。",
+      "keywords": "角色动画, 角色动画工具, 动漫角色动画, 漫画角色动画, 动态角色动画, 角色动画生成器, 图像到角色动画, 角色动画软件"
+    },
+    "hero": {
+      "title": "角色动画",
+      "description": "使用我们的角色动画工具，将您的静态角色图像转化为生动的动态动画。借助先进的AI技术，以栩栩如生的动作和自然流畅的效果吸引您的观众。"
+    },
+    "whatIs": {
+      "title": "什么是角色动画？",
+      "description": "角色动画是一种创新工具，它利用AI技术从静态图像创建出色的角色动画。它使艺术家和创作者能够轻松地为其角色赋予生机。"
+    },
+    "examples": {
+      "title": "角色动画示例",
+      "description": "探索由我们的角色动画工具生成的引人入胜的角色动画示例。了解如何将您的角色作品转化为动态视频！"
+    },
+    "howToUse": {
+      "title": "如何使用角色动画",
+      "steps": [
+        {
+          "title": "上传您的角色图像",
+          "content": "首先上传您想要进行动画处理的角色图像。无论是动漫角色、漫画插图还是概念艺术，我们的AI都能将其转化为动画。"
+        },
+        {
+          "title": "输入提示词 (Prompt)",
+          "content": "提供描述性的提示词 (Prompt) 来指导AI动画角色。描述所需的动作、表情或行为，让您的角色栩栩如生。"
+        },
+        {
+          "title": "生成动画",
+          "content": "点击“生成动画”按钮，见证AI的强大功能。观看您的角色图像演变为引人入胜的动画视频。"
+        },
+        {
+          "title": "下载并分享",
+          "content": "下载由角色动画生成的角色动画，并在各种平台上展示。此功能非常适合社交媒体、作品集和创意项目。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "为什么要使用角色动画？",
+      "description": "了解角色动画为您的角色设计注入活力的诸多优势。此工具为创作者和艺术家开辟了新的可能性！",
+      "features": [
+        {
+          "title": "AI驱动的角色动画",
+          "content": "利用AI的强大力量创建引人入胜的角色动画。 我们的智能算法分析您的图像，以提供流畅的动态视频输出。",
+          "icon": "🤖"
+        },
+        {
+          "title": "创建引人入胜的内容",
+          "content": "将静态角色图像转化为生动的动画，非常适合故事讲述、营销或个人创作。",
+          "icon": "🎬"
+        },
+        {
+          "title": "用户友好的界面 (UI)",
+          "content": "无需动画经验！只需上传您的角色图像，输入提示词 (Prompt)，然后让我们的AI完成繁重的工作。",
+          "icon": "👌"
+        },
+        {
+          "title": "节省时间的自动化",
+          "content": "加速您的动画制作流程。我们的AI在短短几分钟内生成出色的动画，从而为您节省宝贵的时间。",
+          "icon": "⚡"
+        },
+        {
+          "title": "高质量的动画输出",
+          "content": "实现专业级的动画效果。我们的AI确保流畅的过渡和逼真的角色动作，从而吸引观众。",
+          "icon": "✨"
+        },
+        {
+          "title": "无限的创作潜力",
+          "content": "专注于您的艺术表达，而我们的AI会处理动画的复杂性。轻松创建引人入胜的动画。",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "角色动画常见问题解答",
+      "description": "通过我们的角色动画工具，了解创建动态角色动画所需的一切信息。",
+      "q1": "什么是角色动画？",
+      "a1": "角色动画利用先进的人工智能技术来动画化静态角色图像。它将它们转化为栩栩如生的动画，使其成为艺术家以及动漫、漫画等爱好者的理想选择。",
+      "q2": "角色动画如何工作？",
+      "a2": "我们的AI会分析输入的角色图像和您的提示词 (Prompt) 以生成新的动画帧。它模拟运动、表情和动态场景，从而创建引人入胜的动画序列。",
+      "q3": "使用角色动画有哪些优势？",
+      "a3": "角色动画提供了诸多优势，例如减少动画制作时间，轻松制作高质量的内容，以及将静态作品转化为动态视频，非常适合社交媒体和创意项目。",
+      "q4": "我可以将角色动画生成的动画用于商业用途吗？",
+      "a4": "是的，您可以将角色动画生成的角色动画用于个人和商业用途。请查看我们的服务条款以获取详细指南。",
+      "q5": "角色动画支持哪些图像格式？",
+      "a5": "我们的角色动画支持标准的图像格式，如JPG和PNG。为了获得最佳效果，请使用能够有效表现您的角色设计的高分辨率图像。",
+      "q6": "哪种类型的作品最适合角色动画？",
+      "a6": "角色动画擅长处理动漫、漫画和风格化的角色设计。清晰且独特的设计能够产生卓越的动画质量。",
+      "q7": "我需要具备艺术技巧才能使用此工具吗？",
+      "a7": "不需要任何艺术技巧！我们的角色动画工具可将您现有的图像转化为动画，从而使每个人都可以轻松上手。",
+      "q8": "使用角色动画时，我应该注意哪些限制？",
+      "a8": "尽管功能强大，但角色动画仍然存在一些限制：具有复杂细节的复杂场景可能需要更长的处理时间；在动画帧之间保持一致性可能是一个挑战；并且极高分辨率的图像可能需要额外的计算资源。"
+    }
+  },
+  "originalKeyword": "Character Animation",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：Veo 3",
+      "description": "Prompt: The girl is dancing and singing",
+      "videoUrl": "/images/examples/image-animation-generator/output2.mp4"
+    },
+    {
+      "id": 2,
+      "title": "模型：AniSora",
+      "description": "Prompt: The figures in the picture are sitting in a forward moving car waving to the rear, their hair swaying from side to side in the wind",
+      "videoUrl": "/images/pages/anisora/example1.webm"
+    },
+    {
+      "id": 3,
+      "title": "模型：Anime Pro",
+      "description": "Prompt: Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+    },
+    {
+      "id": 4,
+      "title": "模型：Anime Pro",
+      "description": "Prompt: Anime boy suddenly draws a gun and fires with a flash of light, intense expression, dramatic camera angle. He immediately turns and runs down the street.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/man.webm"
+    },
+    {
+      "id": 5,
+      "title": "模型：AniSora",
+      "description": "Prompt: The man on the left presses his lips tightly together, his face etched with fury and resolve. Every line of his expression radiates both profound frustration and unshakable conviction. Meanwhile, the other man's jaw hangs open—poised as if to erupt into a shout or impassioned declaration.",
+      "videoUrl": "/images/pages/anisora/example4.webm"
+    },
+    {
+      "id": 6,
+      "title": "模型：Kling",
+      "description": "Prompt: A girl is talking to herself peacefully",
+      "videoUrl": "/images/examples/image-animation-generator/output5.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ]
+}

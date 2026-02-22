@@ -1,0 +1,212 @@
+{
+  "ui": {
+    "title": "Sân Chơi Hình Ảnh: Biến Đổi Thành Anime, Manga, Manhwa, hoặc Truyện Tranh",
+    "infoTooltip": "Hỗ trợ tải lên bằng cách kéo và thả ảnh, mô hình 3D, khung truyện tranh, bản phác thảo, v.v.",
+    "styleSelection": {
+      "label": "Chọn Phong Cách Nghệ Thuật"
+    },
+    "styleModes": {
+      "templates": "Templates",
+      "prompt": "Prompt",
+      "expression": "Expressions"
+    },
+    "prompt": {
+      "placeholder": "Describe your desired style transformation...",
+      "example": "Example: \"Replace the man with Naruto\", \"Turn this into a classic 90s anime style\", \"Dress the girl in a floral dress\""
+    },
+    "button": {
+      "convert": "Chuyển đổi",
+      "zaps": "-{{cost}}/{{credit}}"
+    },
+    "results": {
+      "title": "Chuyển Đổi Anime, Manga, Manhwa & Truyện Tranh AI Của Bạn",
+      "empty": "Các tác phẩm nghệ thuật đã chuyển đổi sẽ xuất hiện ở đây. Tạo ra anime, manga, manhwa và truyện tranh tuyệt đẹp ngay lập tức!"
+    },
+    "deleteModal": {
+      "title": "Xóa Tác Phẩm Nghệ Thuật",
+      "message": "Bạn có chắc chắn muốn xóa hình ảnh này không? Hành động này không thể được hoàn tác.",
+      "cancel": "Hủy",
+      "delete": "Xóa"
+    },
+    "toast": {
+      "fetchFailed": "Không tải được hình ảnh. Vui lòng kiểm tra kết nối mạng và thử lại.",
+      "deleteSuccess": "Đã xóa tác phẩm nghệ thuật thành công.",
+      "deleteFailed": "Xóa không thành công. Vui lòng thử lại.",
+      "downloadFailed": "Tải xuống không thành công. Vui lòng làm mới và thử lại.",
+      "purchaseZaps": "Vui lòng mua thêm zaps để tiếp tục.",
+      "conversionDone": "Đã hoàn thành chuyển đổi nghệ thuật AI!",
+      "conversionFailed": "Chuyển đổi không thành công. Vui lòng thử lại.",
+      "noZaps": "Không đủ zaps",
+      "generateFailed": "Không tạo được ảnh động.",
+      "mediaReceived": "Đã tải hình ảnh lên và sẵn sàng để chuyển đổi."
+    },
+    "errors": {
+      "generateImageFailed": "Tạo hình ảnh không thành công. Hãy thử một đầu vào khác.",
+      "resourceExhausted": "Đã sử dụng hết tài nguyên. Vui lòng nâng cấp gói của bạn."
+    },
+    "styles": {
+      "anime": "Anime",
+      "ghibliAnime": "Ghibli Anime",
+      "koreanManhwa": "Manhwa Hàn Quốc",
+      "cartoon": "Hoạt Hình",
+      "manga": "Manga",
+      "inkWash": "Tranh Thủy Mặc",
+      "chibi": "Nhãn Dán Chibi",
+      "spriteSheet": "Bảng Sprite",
+      "simpsons": "Simpsons",
+      "rickAndMorty": "Rick and Morty",
+      "southPark": "South Park",
+      "naruto": "Naruto",
+      "onePiece": "One Piece",
+      "myLittlePony": "My Little Pony",
+      "actionFigure": "Tượng Hành Động",
+      "figureInBox": "Hộp Tượng",
+      "sticker": "Nhãn Dán",
+      "watercolor": "Màu Nước",
+      "lineArt": "Vẽ Đường Nét",
+      "origamiPaperArt": "Nghệ Thuật Giấy Origami",
+      "lego": "Lego",
+      "lowPoly": "Low Poly",
+      "clay": "Đất Sét Hoạt Hình",
+      "pixelArt": "Pixel Art",
+      "vaporwave": "Vaporwave",
+      "cyberpunk": "Cyberpunk",
+      "dollBox": "Hộp Tượng 2",
+      "barbieDoll": "Búp Bê Barbie",
+      "characterSheet": "Bảng Nhân Vật",
+      "plushie": "Thú Nhồi Bông",
+      "badge": "Huy Hiệu",
+      "standee": "Standee",
+      "bodyPillow": "Gối Ôm"
+    },
+    "styleDescriptions": {
+      "anime": "Anime Nhật Bản với màu sắc sống động, ánh sáng động và các đặc điểm biểu cảm.",
+      "ghibliAnime": "Phong cách chi tiết, kỳ ảo lấy cảm hứng từ hoạt hình đặc trưng của Studio Ghibli.",
+      "koreanManhwa": "Phong cách manhwa đầy màu sắc, lấy cảm hứng từ webtoon với các chuyển màu mượt mà và các khung hình ấn tượng.",
+      "cartoon": "Phong cách hoạt hình hiện đại với đường nét đậm và biểu cảm vui nhộn.",
+      "manga": "Manga Nhật Bản đen trắng với đường nét phức tạp và cách tạo khung độc đáo.",
+      "inkWash": "Rửa mực truyền thống của Châu Á, chuyển màu mềm mại và nét vẽ tinh tế.",
+      "chibi": "Nhân vật chibi dễ thương, cách điệu — hoàn hảo cho nhãn dán, huy hiệu và biểu tượng cảm xúc.",
+      "simpsons": "Vẻ ngoài Simpsons cổ điển: tông màu da vàng, đường nét đậm và các đặc điểm hoạt hình.",
+      "rickAndMorty": "Vẻ ngoài lập dị, được cách điệu cao từ loạt phim hoạt hình nổi tiếng.",
+      "southPark": "Hình dạng phẳng, đơn giản với màu sắc tươi sáng — một lời chào đến phong cách South Park.",
+      "naruto": "Anime lấy cảm hứng từ thiết kế nhân vật, bảng màu và hiệu ứng ấn tượng của Naruto.",
+      "onePiece": "Phong cách manga/anime One Piece cổ điển — phiêu lưu, tràn đầy năng lượng, các đặc điểm khuôn mặt độc đáo.",
+      "myLittlePony": "Hình ảnh kỳ ảo, màu phấn và kỳ diệu được mô phỏng theo loạt phim My Little Pony.",
+      "actionFigure": "Nghệ thuật tượng hành động 3D bóng bẩy, lý tưởng cho đồ sưu tầm và mô hình trưng bày.",
+      "figureInBox": "Giới thiệu nghệ thuật của bạn như một bức tượng đóng hộp — sẵn sàng cho người sưu tập.",
+      "sticker": "Phong cách đậm, sống động cho nhãn dán và đề can anime/truyện tranh bắt mắt.",
+      "watercolor": "Màu nước mềm mại, nhẹ nhàng cho hiệu ứng vẽ, truyện cổ tích.",
+      "lineArt": "Vẽ đường nét đơn sắc sạch sẽ — tối ưu cho truyện tranh hoặc thiết kế hình xăm.",
+      "origamiPaperArt": "Nếp gấp hình học, kết cấu giấy — một sự thay đổi origami hiện đại.",
+      "lego": "Hình dung lại các nhân vật như những hình nhỏ Lego vui nhộn.",
+      "lowPoly": "Phong cách đa giác, khối gợi nhớ đến hoạt hình 3D cổ điển.",
+      "clay": "Vẻ ngoài đất sét hoạt hình — thủ công và xúc giác, mang đến cảm giác hoài cổ.",
+      "pixelArt": "Thiết kế pixel cổ điển — hình ảnh hoài cổ, lấy cảm hứng từ trò chơi.",
+      "vaporwave": "Phong cách màu phấn, neon và tương lai cổ điển — lấy cảm hứng từ vaporwave.",
+      "cyberpunk": "Nghệ thuật cyberpunk tối tăm, phát sáng, hướng đến công nghệ.",
+      "dollBox": "Trình bày tượng đóng hộp, hoàn hảo cho các mô hình và đồ sưu tầm.",
+      "barbieDoll": "Búp bê kỹ thuật số lấy cảm hứng từ Barbie phong cách, bóng bẩy và thời trang.",
+      "characterSheet": "Bảng xoay nhân vật cho nghệ sĩ hoạt hình/trò chơi.",
+      "plushie": "Phong cách đồ chơi mềm mại, sang trọng cho nghệ thuật dễ thương và đáng yêu.",
+      "badge": "Phong cách huy hiệu tròn — tuyệt vời cho hình đại diện, ghim và mạng xã hội.",
+      "standee": "Nghệ thuật cắt rời tự do, giống như hàng hóa hội nghị anime.",
+      "bodyPillow": "Nghệ thuật tùy chỉnh được định dạng hoàn hảo cho gối ôm dakimakura."
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Sân Chơi Hình Ảnh - KomikoAI",
+      "description": "Nền tảng AI sáng tạo tất cả trong một đỉnh cao cho anime, manga, manhwa, tạo truyện tranh và chuyển đổi phong cách mượt mà. Dễ dàng tạo, chuyển đổi và tạo phong cách cho ảnh, bản phác thảo và mô hình 3D thành tác phẩm nghệ thuật anime hoặc truyện tranh chuyên nghiệp bằng bộ công cụ AI tiên tiến.",
+      "keywords": "Sân chơi hình ảnh, AI playground, tạo nghệ thuật anime, chuyển đổi phong cách manga, tạo truyện tranh manhwa, công cụ AI phong cách truyện tranh, tạo nhân vật anime, tạo bảng truyện manga, tô màu manhwa bằng AI, tạo webtoon, chuyển đổi truyện tranh hàng loạt, tạo avatar anime bằng AI, tạo nghệ thuật dán nhãn, hoạt hình bảng truyện, chuyển đổi phong cách minh họa, tài nguyên sẵn sàng cho hoạt hình, bộ công cụ truyện tranh hỗ trợ AI, studio AI sáng tạo, nền tảng nghệ thuật anime kỹ thuật số"
+    },
+    "hero": {
+      "title": "Sân Chơi Hình Ảnh"
+    },
+    "whatIs": {
+      "title": "Sân Chơi Hình Ảnh Là Gì?",
+      "description": "Sân Chơi Hình Ảnh là nền tảng sáng tạo tất cả trong một của KomikoAI, được hỗ trợ bởi Nano Banana. Chỉ với một cú nhấp chuột, bạn có thể biến đổi nhân vật và hình ảnh của mình thành anime, manga, nhãn dán chibi 3D và hơn 100+ mẫu vui nhộn! Các mô hình AI tiên tiến của chúng tôi phân tích đầu vào của bạn và áp dụng các phong cách nghệ thuật chân thực trong khi vẫn giữ nguyên bố cục và cảm xúc. Hoàn hảo cho các nghệ sĩ, nhà sáng tạo và người đam mê anime muốn khám phá các phong cách nghệ thuật một cách dễ dàng."
+    },
+    "examples": {
+      "title": "Ví Dụ Về Sân Chơi Hình Ảnh",
+      "description": "Khám phá cách Sân Chơi Hình Ảnh biến đổi hình ảnh thành các phong cách anime, manga, manhwa và truyện tranh tuyệt đẹp chỉ với một cú nhấp chuột."
+    },
+    "howToUse": {
+      "title": "Cách Sử Dụng Sân Chơi Hình Ảnh",
+      "steps": [
+        {
+          "title": "Tải Lên Ảnh, Renders, Hoặc Tác Phẩm Nghệ Thuật",
+          "content": "Tải lên tài liệu của bạn (hình ảnh JPG, PNG, WEBP, render 3D, minh họa nhân vật, bảng truyện manga/comic, hoặc phác thảo bằng tay). Sân Chơi Hình Ảnh của chúng tôi sẽ phân tích bố cục, kết cấu và phong cách hình ảnh để đem lại kết quả chuyển đổi tốt nhất."
+        },
+        {
+          "title": "Chọn & Tùy Chỉnh Phong Cách Nghệ Thuật",
+          "content": "Lựa chọn từ hàng tá phong cách anime, manga, manhwa, hoạt hình, webtoon và nghệ thuật kỹ thuật số như mực vẽ, tô bóng cel, màu nước, nghệ thuật pixel, hoặc chibi. Tùy chỉnh bảng màu, độ dày nét vẽ và nhiều điều khác để phù hợp với tầm nhìn của bạn."
+        },
+        {
+          "title": "Chuyển Đổi Phong Cách Tức Thì Bằng AI",
+          "content": "Hãy để các mô hình AI mạnh mẽ tự động áp dụng phong cách anime, manga, hoặc truyện tranh chính thống. Xem trước và chuyển đổi hình ảnh của bạn bằng các mạng nơron tiên tiến được huấn luyện dựa trên các phong cách nghệ thuật và nội dung hình ảnh đa dạng."
+        },
+        {
+          "title": "Tải Xuống, Chia Sẻ, & Quản Lý Tác Phẩm",
+          "content": "Tải về tác phẩm nghệ thuật độ phân giải cao của bạn, sẵn sàng để in, xuất bản truyện tranh kỹ thuật số hoặc chia sẻ trên mạng xã hội. Tổ chức tài nguyên, tạo tập webtoon, bộ nhãn dán, hoặc bảng nhân vật bằng công cụ quản lý trực quan."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Tại Sao Chọn Sân Chơi Hình Ảnh?",
+      "description": "Sân Chơi Hình Ảnh cung cấp khả năng chuyển đổi phong cách tiên tiến nhất với nhiều tùy chọn tùy chỉnh và kết quả chất lượng chuyên nghiệp.",
+      "features": [
+        {
+          "title": "🎨 Chuyển Đổi Phong Cách AI Vượt Trội",
+          "content": "Mạng nơ-ron hàng đầu trong ngành cho các phong cách anime, manga, manhwa, webtoon và hoạt hình. Đạt được chuyển đổi phong cách chất lượng cao, giữ nguyên bố cục và cảm xúc nghệ thuật, đồng thời thêm hình ảnh đường nét, cel-shading và màu sắc chân thực.",
+          "icon": "🎨"
+        },
+        {
+          "title": "🗂️ Xử Lý Hình Ảnh Hiệu Quả",
+          "content": "Tải lên, chuyển đổi và quản lý hình ảnh, bảng nhân vật, khung truyện tranh hoặc tác phẩm nghệ thuật một cách dễ dàng. Được thiết kế để đơn giản hóa quy trình làm việc và mang lại sự tiện lợi.",
+          "icon": "🗂️"
+        },
+        {
+          "title": "💎 Đầu Ra Chất Lượng Chuyên Nghiệp, Độ Phân Giải Cao",
+          "content": "Tải xuống hình ảnh PNG, JPG hoặc WEBP sắc nét, chất lượng cao ở độ phân giải cao — lý tưởng cho sản xuất truyện tranh chuyên nghiệp, in ấn, xuất bản kỹ thuật số hoặc tài sản hoạt hình.",
+          "icon": "💎"
+        },
+        {
+          "title": "🖌️ Thư Viện Nghệ Thuật AI Đa Dạng & Có Thể Tùy Chỉnh",
+          "content": "Khám phá bộ sưu tập lớn các phong cách hỗ trợ AI: anime, manga, manhwa, hoạt hình, chibi, tượng hành động, pixel art, v.v. Tùy chỉnh hoàn toàn đầu ra của bạn để phù hợp với tầm nhìn sáng tạo của bạn.",
+          "icon": "🖌️"
+        },
+        {
+          "title": "🚀 Luôn Cập Nhật Xu Hướng Mới Nhất",
+          "content": "Liên tục cập nhật các mô hình AI mới phản ánh xu hướng hiện tại trong anime, manga, manhwa và truyện tranh kỹ thuật số. Các sáng tạo của bạn luôn đi đầu trong các phong cách nghệ thuật phổ biến.",
+          "icon": "🚀"
+        },
+        {
+          "title": "🤝 Quản Lý Tài Sản & Hợp Tác Cộng Đồng",
+          "content": "Lưu trữ, sắp xếp và chia sẻ an toàn nghệ thuật anime và truyện tranh của bạn. Tham gia các dự án sáng tạo hợp tác hoặc giới thiệu tác phẩm của bạn với cộng đồng những người sáng tạo anime, manga và truyện tranh đầy đam mê.",
+          "icon": "🤝"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Câu Hỏi Thường Gặp Về Sân Chơi Hình Ảnh",
+      "description": "Mọi thứ bạn cần biết về việc tạo anime, manga, manhwa, truyện tranh, nhãn dán và tài sản hoạt hình từ ảnh hoặc tác phẩm nghệ thuật của bạn bằng playground sáng tạo hỗ trợ AI hiện đại của chúng tôi.",
+      "q1": "Sân Chơi Hình Ảnh hỗ trợ những định dạng hình ảnh nào?",
+      "a1": "Hỗ trợ các định dạng đầu vào JPG, PNG và WEBP, với đầu ra PNG và JPG độ phân giải cao — hoàn hảo cho truyện tranh, webtoon và tác phẩm nghệ thuật sẵn sàng in.",
+      "q2": "AI có thể xử lý các phong cách hoạt hình, manga và truyện tranh khác nhau không?",
+      "a2": "Có! Các mô hình AI của playground này được đào tạo cho vô số phong cách nghệ thuật: anime Nhật Bản, manga cổ điển, manhwa đầy màu sắc, webtoon, nhãn dán chibi, truyện tranh cel-shaded, pixel art, v.v.",
+      "q3": "Độ chính xác của việc chuyển đổi phong cách của AI là bao nhiêu?",
+      "a3": "Nhờ các mạng nơ-ron tiên tiến được đào tạo trên nhiều phong cách nghệ thuật, AI của chúng tôi cung cấp khả năng chuyển đổi phong cách có độ chính xác cao cho anime, manga và manhwa — tạo ra kết quả chân thực, chất lượng cao.",
+      "q4": "Nền tảng này có phù hợp cho các nghệ sĩ hoặc studio chuyên nghiệp không?",
+      "a4": "Có — đầu ra cấp độ chuyên nghiệp, xử lý hiệu quả, quy trình làm việc có thể tùy chỉnh và tải xuống độ phân giải cao khiến nó trở nên lý tưởng cho người sáng tạo manga chuyên nghiệp, họa sĩ truyện tranh, studio hoạt hình và họa sĩ minh họa tự do.",
+      "q5": "Những tính năng sáng tạo bổ sung nào có sẵn?",
+      "a5": "Ngoài chuyển đổi anime, hãy tạo nhãn dán, bảng nhân vật, hình đại diện, hình nền, bảng sprite, khung truyện tranh, tượng hành động, v.v. Quản lý và chia sẻ sáng tạo của bạn bằng các công cụ tài sản tích hợp và các tính năng cộng đồng."
+    },
+    "cta": {
+      "title": "Bắt Đầu Tạo Với Sân Chơi Hình Ảnh Ngay Hôm Nay!",
+      "description": "Transform your images into stunning anime, manga, and comic art with our advanced AI technology.",
+      "buttonText": "Dùng Thử Sân Chơi Hình Ảnh Miễn Phí"
+    }
+  },
+  "examples": []
+}

@@ -1,0 +1,150 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Converter Vídeo em Esboço | A Melhor Ferramenta de Criação de Esboços a Partir de Vídeos",
+      "description": "Transforme os seus vídeos em esboços impressionantes com a nossa ferramenta de IA Converter Vídeo em Esboço. Obtenha estilos animados únicos que capturam a essência das suas filmagens.",
+      "fullDescription": "Descubra a revolucionária ferramenta Converter Vídeo em Esboço, que lhe permite transformar vídeos comuns em esboços e animações artísticas. Utilizando técnicas avançadas, a nossa IA preserva a consistência do movimento ao converter os seus vídeos em arte de esboço cativante. Perfeito para criadores de conteúdo, artistas e entusiastas que desejam aprimorar a sua narrativa visual.",
+      "keywords": "Converter Vídeo em Esboço, gerador de esboços de vídeo, sketchnote de vídeo de workshop, ferramenta de esboço animado, efeito de esboço, conversor de vídeo para esboço, gerador de esboços com IA, ferramenta de animação, criador de sketchnote de vídeo, transformação de vídeo artística, transferência de estilo de esboço"
+    },
+    "hero": {
+      "title": "Converter Vídeo em Esboço"
+    },
+    "whatIs": {
+      "title": "O Que É Converter Vídeo em Esboço?",
+      "description": "Converter Vídeo em Esboço é uma ferramenta inovadora que transforma os seus vídeos comuns em animações distintas com estilo de esboço, utilizando tecnologia de IA avançada. Este processo começa aplicando o estilo de esboço selecionado a um frame de referência, seguido pela transformação de todo o vídeo, preservando o movimento e as nuances originais. Experimente uma variedade de estilos artísticos para expressar a sua criatividade."
+    },
+    "examples": {
+      "title": "Exemplos de Converter Vídeo em Esboço",
+      "description": "Explore como a nossa ferramenta Converter Vídeo em Esboço dá vida aos vídeos com esboços artísticos, mantendo a consistência perfeita do movimento através de tecnologia avançada.",
+      "style": "Estilo de Esboço Aplicado"
+    },
+    "howToUse": {
+      "title": "Como Utilizar Converter Vídeo em Esboço",
+      "steps": [
+        {
+          "title": "Carregue o Seu Vídeo",
+          "content": "Comece por carregar qualquer ficheiro de vídeo (MP4, MOV, AVI) com até 15 segundos de duração e 50 MB de tamanho para processamento com Converter Vídeo em Esboço. Vídeos com mais de 15 segundos serão automaticamente cortados para otimizar a transferência de estilo."
+        },
+        {
+          "title": "Selecione o Estilo de Esboço",
+          "content": "Na secção de Seleção de Estilo, vá para a categoria Transferência de Estilo e escolha o estilo Esboço a Lápis. Também pode criar estilos de esboço personalizados utilizando *prompts* de texto e imagens de referência."
+        },
+        {
+          "title": "Visualização e Referência do Estilo de Esboço",
+          "content": "Extraímos o primeiro frame e aplicamos o estilo de esboço escolhido para criar uma referência estilizada. Esta visualização demonstra como o estilo de esboço selecionado será aplicado a todo o vídeo."
+        },
+        {
+          "title": "Gere o Seu Vídeo em Esboço",
+          "content": "A nossa ferramenta Converter Vídeo em Esboço transformará o seu vídeo completo, utilizando o frame de referência estilizado, mantendo todos os movimentos, expressões faciais e ritmo originais."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Por Que Utilizar Converter Vídeo em Esboço",
+      "description": "A utilização da ferramenta Converter Vídeo em Esboço fornece os recursos mais avançados para expressão criativa, garantindo uma transformação perfeita, preservando o movimento original.",
+      "features": [
+        {
+          "title": "Preservação Consistente do Movimento",
+          "content": "A ferramenta Converter Vídeo em Esboço mantém habilmente todos os aspetos do movimento, expressões e ritmo originais ao aplicar efeitos de esboço, garantindo uma transformação perfeita em cada frame.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Personalização do Estilo de Esboço",
+          "content": "Converter Vídeo em Esboço oferece transformação de estilo de esboço a lápis, além da capacidade de criar estilos de esboço personalizados utilizando *prompts* de texto e imagens de referência para efeitos artísticos personalizados.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Saída de Qualidade Profissional",
+          "content": "Gere vídeos de esboço de alta definição com transições perfeitas e sem cintilação ou artefactos utilizando Converter Vídeo em Esboço, garantindo uma experiência de utilizador de alto nível.",
+          "icon": "✨"
+        },
+        {
+          "title": "Estrutura de Preços Transparente",
+          "content": "Desfrute de um modelo de preços claro com cobranças separadas para a transferência de estilo de esboço e a geração de vídeo. Experimente criatividade ilimitada sem a preocupação de custos ocultos.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Processo Simplificado de Duas Etapas",
+          "content": "A ferramenta Converter Vídeo em Esboço apresenta um fluxo de trabalho intuitivo: carregue o seu vídeo, aplique uma transformação de esboço a um frame de referência e gere a saída de vídeo completa. Não são necessárias habilidades técnicas.",
+          "icon": "👌"
+        },
+        {
+          "title": "Processamento Otimizado",
+          "content": "Converter Vídeo em Esboço corta automaticamente vídeos mais longos e suporta vários formatos (MP4, MOV, AVI) para garantir um processamento suave e eficiência de custos.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes Sobre Converter Vídeo em Esboço",
+      "description": "Encontre respostas para as suas perguntas sobre a ferramenta Converter Vídeo em Esboço, o seu processo, custos e melhores práticas.",
+      "q1": "Como funciona Converter Vídeo em Esboço?",
+      "a1": "A ferramenta Converter Vídeo em Esboço utiliza um processo de duas etapas: primeiro, extraímos um frame de referência do seu vídeo e aplicamos o estilo de esboço escolhido; depois, transformamos todo o vídeo utilizando este frame estilizado, preservando o movimento e a expressão por toda a parte.",
+      "q2": "Que formatos de vídeo posso usar com Converter Vídeo em Esboço?",
+      "a2": "A ferramenta Converter Vídeo em Esboço suporta formatos MP4, MOV e AVI. O seu vídeo não deve exceder 15 segundos ou 50 MB; vídeos mais longos são cortados automaticamente para otimizar a transformação do esboço.",
+      "q3": "Quanto tempo demora a transformação do esboço?",
+      "a3": "O tempo de processamento para Converter Vídeo em Esboço geralmente demora entre 5 e 10 minutos, incluindo a transferência de estilo inicial (1 a 3 minutos) e a geração de vídeo completa (3 a 7 minutos). O progresso pode ser monitorizado em tempo real.",
+      "q4": "Quais são os custos para usar Converter Vídeo em Esboço?",
+      "a4": "As opções de cobrança para a ferramenta Converter Vídeo em Esboço são divididas em custos de transferência de estilo e geração de vídeo, calculados com base na duração. Receberá uma estimativa de custo antes do processamento, garantindo a transparência.",
+      "q5": "Posso criar estilos de esboço personalizados com Converter Vídeo em Esboço?",
+      "a5": "Absolutamente! Pode utilizar o estilo de esboço a lápis, escrever *prompts* de texto exclusivos ou carregar imagens de referência para criar as suas transformações de esboço distintas utilizando a nossa ferramenta.",
+      "q6": "Que tipos de vídeos funcionam melhor para Converter Vídeo em Esboço?",
+      "a6": "Para obter resultados ideais com Converter Vídeo em Esboço, utilize vídeos com assuntos claros, boa iluminação, movimento estável e características bem definidas. Vídeos curtos (menos de 5 segundos) mostrando objetos claros produzirão as melhores transformações de esboço."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-dj.webm",
+      "inputLabel": "Vídeo Original",
+      "outputLabel": "Estilo de Esboço",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-girl.webm",
+      "inputLabel": "Vídeo Original",
+      "outputLabel": "Estilo de Esboço",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-man.webm",
+      "inputLabel": "Vídeo Original",
+      "outputLabel": "Estilo de Esboço",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-skiing.webm",
+      "inputLabel": "Vídeo Original",
+      "outputLabel": "Estilo de Esboço",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    }
+  ],
+  "originalKeyword": "Convert Video to Sketch",
+  "config": {
+    "defaultStyle": "pencil-sketch"
+  },
+  "pageStructure": [
+    "exemplos",
+    "benefícios",
+    "oQueÉ",
+    "comoUsar",
+    "maisFerramentasIA",
+    "faq",
+    "cta"
+  ]
+}

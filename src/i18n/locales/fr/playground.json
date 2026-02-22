@@ -1,0 +1,212 @@
+{
+  "ui": {
+    "title": "Image Playground : Conversion en Anime, Manga, Manhwa ou Comics",
+    "infoTooltip": "Prise en charge du téléchargement par glisser-déposer pour les photos, les rendus 3D, les panneaux de bande dessinée, les croquis, etc.",
+    "styleSelection": {
+      "label": "Choisir le style artistique"
+    },
+    "styleModes": {
+      "templates": "Templates",
+      "prompt": "Prompt",
+      "expression": "Expressions"
+    },
+    "prompt": {
+      "placeholder": "Describe your desired style transformation...",
+      "example": "Example: \"Replace the man with Naruto\", \"Turn this into a classic 90s anime style\", \"Dress the girl in a floral dress\""
+    },
+    "button": {
+      "convert": "Convertir",
+      "zaps": "-{{cost}}/{{credit}}"
+    },
+    "results": {
+      "title": "Vos conversions IA Anime, Manga, Manhwa et Bande dessinée",
+      "empty": "Les illustrations converties apparaîtront ici. Générez instantanément de superbes œuvres d'art anime, manga, manhwa et de bande dessinée !"
+    },
+    "deleteModal": {
+      "title": "Supprimer l'illustration",
+      "message": "Êtes-vous sûr de vouloir supprimer cette image ? Cette action est irréversible.",
+      "cancel": "Annuler",
+      "delete": "Supprimer"
+    },
+    "toast": {
+      "fetchFailed": "Échec du chargement des images. Veuillez vérifier votre connexion et réessayer.",
+      "deleteSuccess": "Illustration supprimée avec succès.",
+      "deleteFailed": "La suppression a échoué. Veuillez réessayer.",
+      "downloadFailed": "Le téléchargement a échoué. Veuillez actualiser et réessayer.",
+      "purchaseZaps": "Veuillez acheter plus de zaps pour continuer.",
+      "conversionDone": "Conversion d'art IA terminée !",
+      "conversionFailed": "La conversion a échoué. Veuillez réessayer.",
+      "noZaps": "Zaps insuffisants",
+      "generateFailed": "Échec de la génération de l'animation.",
+      "mediaReceived": "Image téléchargée et prête pour la conversion."
+    },
+    "errors": {
+      "generateImageFailed": "Échec de la génération de l'image. Essayez une autre entrée.",
+      "resourceExhausted": "Utilisation des ressources épuisée. Veuillez mettre à niveau votre abonnement."
+    },
+    "styles": {
+      "anime": "Anime",
+      "ghibliAnime": "Anime Ghibli",
+      "koreanManhwa": "Manhwa coréen",
+      "cartoon": "Dessin animé",
+      "manga": "Manga",
+      "inkWash": "Peinture à l'encre",
+      "chibi": "Autocollants Chibi",
+      "spriteSheet": "Feuille de sprites",
+      "simpsons": "Simpson",
+      "rickAndMorty": "Rick et Morty",
+      "southPark": "South Park",
+      "naruto": "Naruto",
+      "onePiece": "One Piece",
+      "myLittlePony": "My Little Pony",
+      "actionFigure": "Figurine",
+      "figureInBox": "Boîte de figurine",
+      "sticker": "Autocollant",
+      "watercolor": "Aquarelle",
+      "lineArt": "Line Art",
+      "origamiPaperArt": "Art du papier origami",
+      "lego": "Lego",
+      "lowPoly": "Low Poly",
+      "clay": "Claymation",
+      "pixelArt": "Pixel Art",
+      "vaporwave": "Vaporwave",
+      "cyberpunk": "Cyberpunk",
+      "dollBox": "Boîte de figurine 2",
+      "barbieDoll": "Poupée Barbie",
+      "characterSheet": "Feuille de personnage",
+      "plushie": "Peluche",
+      "badge": "Badge",
+      "standee": "Présentoir",
+      "bodyPillow": "Oreiller corporel"
+    },
+    "styleDescriptions": {
+      "anime": "Anime japonais avec des couleurs vibrantes, un éclairage dynamique et des traits expressifs.",
+      "ghibliAnime": "Style détaillé et enchanteur inspiré de l'animation emblématique du Studio Ghibli.",
+      "koreanManhwa": "Manhwa en couleur inspiré du webtoon avec des dégradés fluides et des effets spectaculaires.",
+      "cartoon": "Style de dessin animé moderne avec des contours marqués et des expressions ludiques.",
+      "manga": "Manga japonais en noir et blanc avec des tracés complexes et des compositions de panneaux uniques.",
+      "inkWash": "Lavis d'encre asiatique traditionnel, dégradés subtils et coups de pinceau délicats.",
+      "chibi": "Personnages chibi mignons et stylisés, parfaits pour les autocollants, les badges et les émojis.",
+      "simpsons": "Le look classique des Simpsons : tons de peau jaunes, contours épais et traits caricaturaux.",
+      "rickAndMorty": "Le style très stylisé et excentrique de la célèbre série animée.",
+      "southPark": "Formes plates et simples avec des couleurs vives, un clin d'œil au style South Park.",
+      "naruto": "Anime inspiré de la conception des personnages, de la palette de couleurs et des effets spectaculaires de Naruto.",
+      "onePiece": "Style manga/anime classique One Piece : aventureux, énergique, avec des traits faciaux uniques.",
+      "myLittlePony": "Visuels fantaisistes, pastel et magiques inspirés de la série My Little Pony.",
+      "actionFigure": "Art de figurine 3D brillant, idéal pour les objets de collection et les maquettes d'affichage.",
+      "figureInBox": "Présentez votre art comme une figurine en boîte, prête pour les collectionneurs.",
+      "sticker": "Style audacieux et vif pour des autocollants et des décalcomanies anime/bande dessinée accrocheurs.",
+      "watercolor": "Aquarelles douces et délicates pour un effet peint et un aspect de livre de contes.",
+      "lineArt": "Line art monochrome épuré, idéal pour les bandes dessinées ou la conception de tatouages.",
+      "origamiPaperArt": "Plis géométriques, texture de papier, une touche origami moderne.",
+      "lego": "Réimaginez les personnages en mini-figurines Lego ludiques.",
+      "lowPoly": "Style polygonal et géométrique évoquant l'animation 3D classique.",
+      "clay": "Look d'animation en pâte à modeler, artisanal et tactile, ambiance d'animation nostalgique.",
+      "pixelArt": "Conceptions de pixels rétro, visuels nostalgiques inspirés des jeux.",
+      "vaporwave": "Styles pastel, néon et rétro-futuristes, inspirés du vaporwave.",
+      "cyberpunk": "Art cyberpunk sombre, éclatant et axé sur la technologie.",
+      "dollBox": "Présentation de la figurine en boîte, parfaite pour les maquettes et les objets de collection.",
+      "barbieDoll": "Poupées numériques élégantes inspirées de Barbie, brillantes et à la mode.",
+      "characterSheet": "Feuilles de rotation des personnages pour les artistes d'animation/de jeu.",
+      "plushie": "Style de jouet en peluche doux pour un art mignon et câlin.",
+      "badge": "Style de badge circulaire, idéal pour les avatars, les épingles et les réseaux sociaux.",
+      "standee": "Art de découpe autonome, comme des produits dérivés de convention d'anime.",
+      "bodyPillow": "Art personnalisé parfaitement formaté pour les dakimakura/oreillers corporels."
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Image Playground - KomikoAI",
+      "description": "La plateforme IA créative tout-en-un par excellence pour l'anime, le manga, le manhwa, la création d'art de bande dessinée et la transformation de style fluide. Générez, transformez et stylisez sans effort vos photos, croquis et rendus 3D en œuvres d'art anime ou de bande dessinée de qualité professionnelle grâce à la boîte à outils IA la plus avancée.",
+      "keywords": "Image Playground, aire de jeu AI, génération d'art anime, transformation style manga, création de BD manhwa, outils AI style comics, générateur de personnages anime, créateur de planches manga, AI coloration de manhwa, créateur de webtoon, convertisseur de comics en lot, créateur d'avatar anime AI, générateur d'art autocollant, animation de planches de comics, transfert de style illustration, actifs prêts à l'animation, outils de bande dessinée basés sur l'IA, studio créatif AI, plateforme d'art numérique anime"
+    },
+    "hero": {
+      "title": "Image Playground"
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que l'Image Playground ?",
+      "description": "Image Playground est la plateforme créative tout-en-un de KomikoAI alimentée par Nano Banana. En un clic, transformez vos personnages et images en anime, manga, stickers 3D chibi et plus de 100 modèles amusants ! Nos modèles AI avancés analysent votre entrée et appliquent des styles artistiques authentiques tout en préservant la composition et l'émotion. Parfait pour les artistes, créateurs, et amateurs d'anime qui souhaitent explorer divers styles artistiques sans effort."
+    },
+    "examples": {
+      "title": "Exemples d'Image Playground",
+      "description": "Découvrez comment Image Playground transforme les images en magnifiques styles anime, manga, manhwa et comics en un seul clic."
+    },
+    "howToUse": {
+      "title": "Comment utiliser l'Image Playground",
+      "steps": [
+        {
+          "title": "Téléchargez des Photos, Rendus ou Illustrations",
+          "content": "Téléchargez vos matériaux sources (photos JPG, PNG, WEBP, rendus 3D, illustrations de personnages, planches manga/comics, ou croquis à la main). Notre Image Playground analyse la composition, la structure et le style visuel pour garantir des résultats de transformation optimaux."
+        },
+        {
+          "title": "Choisissez et Personnalisez le Style Artistique",
+          "content": "Sélectionnez parmi une variété de styles d'art anime, manga, manhwa, dessin animé, webtoon, et numérique tels que dessin à l'encre, cel-shading, aquarelle, pixel art, ou chibi. Personnalisez les palettes de couleurs, le poids des traits et plus encore pour réaliser votre vision."
+        },
+        {
+          "title": "Transformation de Style Instantanée alimentée par l'IA",
+          "content": "Laissez les modèles AI puissants appliquer automatiquement un style anime, manga ou comics authentique. Prévisualisez et convertissez vos images en utilisant des réseaux neuronaux avancés entraînés sur divers styles d'art et contenus visuels."
+        },
+        {
+          "title": "Téléchargez, Partagez et Gérez vos Créations",
+          "content": "Téléchargez votre œuvre d'art haute résolution, prête pour l'impression, la publication numérique ou le partage sur les réseaux sociaux. Organisez vos ressources, créez des épisodes de webtoon, des packs d'autocollants ou des fiches de personnages avec des outils de gestion intuitifs."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi utiliser l'Image Playground ?",
+      "description": "Notre Image Playground offre la transformation de style la plus avancée avec des options de personnalisation étendues et des résultats de qualité professionnelle.",
+      "features": [
+        {
+          "title": "🎨 Transfert de style IA avancé",
+          "content": "Réseaux neuronaux de pointe pour les styles anime, manga, manhwa, webtoon et dessin animé. Obtenez une transformation de style de haute qualité, en préservant la composition et l'émotion de votre art tout en ajoutant des tracés au trait, des cel-shading et des couleurs authentiques.",
+          "icon": "🎨"
+        },
+        {
+          "title": "🗂️ Traitement d'image efficace",
+          "content": "Téléchargez, convertissez et gérez facilement des images, des feuilles de personnages, des panneaux de bande dessinée ou des illustrations. Conçu pour un flux de travail rationalisé et une commodité accrue.",
+          "icon": "🗂️"
+        },
+        {
+          "title": "💎 Sorties de haute résolution et de qualité professionnelle",
+          "content": "Téléchargez des images PNG, JPG ou WEBP nettes et de haute qualité en haute résolution, idéales pour la production professionnelle de bandes dessinées, l'impression, la publication numérique ou les ressources d'animation.",
+          "icon": "💎"
+        },
+        {
+          "title": "🖌️ Bibliothèque d'art IA polyvalente et personnalisation",
+          "content": "Explorez une vaste collection de styles basés sur l'IA : anime, manga, manhwa, dessin animé, chibi, figurine, pixel art et plus encore. Personnalisez entièrement votre sortie pour qu'elle corresponde à votre vision créative.",
+          "icon": "🖌️"
+        },
+        {
+          "title": "🚀 Toujours à jour avec les dernières tendances",
+          "content": "Continuement mis à jour avec de nouveaux modèles d'IA reflétant les tendances actuelles en matière d'anime, de manga, de manhwa et de bandes dessinées numériques. Vos créations restent à la pointe des styles artistiques populaires.",
+          "icon": "🚀"
+        },
+        {
+          "title": "🤝 Gestion des ressources et collaboration communautaire",
+          "content": "Stockez, organisez et partagez en toute sécurité votre art anime et bande dessinée. Participez à des projets créatifs collaboratifs ou présentez votre travail à une communauté passionnée de créateurs d'anime, de manga et de bandes dessinées.",
+          "icon": "🤝"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ sur l'Image Playground",
+      "description": "Tout ce que vous devez savoir sur la génération d'anime, de manga, de manhwa, de bandes dessinées, d'autocollants et d'actifs animés à partir de vos photos ou illustrations grâce à notre terrain de jeu créatif IA de pointe.",
+      "q1": "Quels formats d'image sont pris en charge par l'Image Playground ?",
+      "a1": "Prise en charge des formats d'entrée JPG, PNG et WEBP, avec des sorties PNG et JPG haute résolution, parfaites pour les bandes dessinées, les webtoons et les illustrations prêtes à l'impression.",
+      "q2": "L'IA peut-elle gérer différents styles d'animation, de manga et de bande dessinée ?",
+      "a2": "Oui ! Les modèles d'IA de ce terrain de jeu sont entraînés pour une grande variété de styles artistiques : anime japonais, manga classique, manhwa en couleur, webtoons, autocollants chibi, bandes dessinées en cel-shading, pixel art, etc.",
+      "q3": "Quelle est la précision de la transformation de style de l'IA ?",
+      "a3": "Grâce à des réseaux neuronaux avancés entraînés sur divers styles artistiques, notre IA offre une transformation de style très précise pour l'anime, le manga et le manhwa, produisant des résultats authentiques et de haute qualité.",
+      "q4": "La plateforme convient-elle aux artistes ou studios professionnels ?",
+      "a4": "Oui, les sorties de niveau professionnel, le traitement efficace, les flux de travail personnalisables et les téléchargements haute résolution la rendent idéale pour les créateurs de manga professionnels, les dessinateurs, les studios d'animation et les illustrateurs indépendants.",
+      "q5": "Quelles sont les fonctionnalités créatives supplémentaires disponibles ?",
+      "a5": "Au-delà de la conversion d'anime, générez des autocollants, des feuilles de personnages, des avatars, des arrière-plans, des feuilles de sprites, des panneaux de bande dessinée, des figurines, et bien plus encore. Gérez et partagez vos créations à l'aide d'outils de ressources intégrés et de fonctionnalités communautaires."
+    },
+    "cta": {
+      "title": "Commencez à créer avec l'Image Playground dès aujourd'hui !",
+      "description": "Transform your images into stunning anime, manga, and comic art with our advanced AI technology.",
+      "buttonText": "Essayez Image Playground Gratuitement"
+    }
+  },
+  "examples": []
+}

@@ -1,0 +1,151 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Vid2Vid",
+      "description": "Transformez vos vidéos en styles anime, dessin animé, manga et manhwa grâce à Vid2Vid. Cette IA avancée préserve le mouvement et le rythme originaux.",
+      "keywords": "Vid2Vid, IA de transfert de style vidéo, outil de transformation anime, filtre de style dessin animé, créateur de vidéo manga, générateur d'animation manhwa, convertisseur vidéo anime, effets d'animation, vidéo de style anime, sortie vidéo manga, IA de stylisation vidéo, transformation de vidéo en bande dessinée, convertisseur anime-vers-vidéo"
+    },
+    "hero": {
+      "title": "Vid2Vid"
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que Vid2Vid ?",
+      "description": "Vid2Vid réinvente vos vidéos en les transformant en styles anime, dessin animé, manga et manhwa grâce à une technologie de pointe. Le processus en deux étapes consiste à styliser une image de référence, puis à transformer la vidéo complète, tout en conservant le mouvement et le rythme originaux. Avec plus de 100 styles disponibles, Vid2Vid vous offre une expérience esthétique unique."
+    },
+    "examples": {
+      "title": "Exemples Vid2Vid",
+      "description": "Découvrez comment Vid2Vid transforme des vidéos ordinaires en créations époustouflantes de styles anime, dessin animé, manga et manhwa, tout en assurant une continuité parfaite du mouvement grâce à une technologie de stylisation avancée."
+    },
+    "howToUse": {
+      "title": "Comment utiliser Vid2Vid",
+      "steps": [
+        {
+          "title": "Téléversez votre vidéo",
+          "content": "Téléversez n'importe quel fichier vidéo (MP4, MOV, AVI) d'une durée maximale de 15 secondes et d'une taille maximale de 50 Mo pour le traitement avec Vid2Vid. Les vidéos dépassant 15 secondes seront coupées pour correspondre aux exigences du transfert de style vidéo."
+        },
+        {
+          "title": "Stylisation de l'image de référence",
+          "content": "La première étape consiste à styliser une image extraite de votre vidéo, en adoptant l'esthétique anime, dessin animé ou manga de votre choix. Cette image servira de guide pour une transformation vidéo cohérente."
+        },
+        {
+          "title": "Sélectionnez votre style",
+          "content": "Choisissez parmi plus de 100 options artistiques, y compris Studio Ghibli, manhwa coréen, manga japonais, ou créez votre propre style personnalisé grâce à des instructions textuelles et des images de référence."
+        },
+        {
+          "title": "Générez avec Vid2Vid",
+          "content": "Vid2Vid transforme votre vidéo entière en appliquant uniformément l'image de référence stylisée, tout en conservant le mouvement et le rythme originaux grâce à une technologie d'IA avancée."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi utiliser Vid2Vid",
+      "description": "Vid2Vid offre le summum en matière de transfert de style vidéo, une conservation exceptionnelle du mouvement, un large éventail de styles et une tarification transparente.",
+      "features": [
+        {
+          "title": "Préservation exceptionnelle du mouvement",
+          "content": "Avec Vid2Vid, chaque nuance du mouvement vidéo original, des expressions au rythme, est préservée et intégrée de manière transparente aux styles anime, dessin animé ou manga."
+        },
+        {
+          "title": "Vaste choix de styles",
+          "content": "Explorez des styles tels que Studio Ghibli, manhwa coréen, manga japonais, ou créez des rendus personnalisés avec des instructions textuelles ou des images de référence pour des transformations sur mesure."
+        },
+        {
+          "title": "Sorties de haute qualité",
+          "content": "Obtenez des vidéos haute définition avec une application de style cohérente, des transitions fluides et une absence d'artefacts, grâce à la puissance de la technologie d'IA de Vid2Vid."
+        },
+        {
+          "title": "Options économiques",
+          "content": "Notre tarification transparente propose des frais distincts pour le transfert de style et la génération de vidéo, vous permettant ainsi d'expérimenter différents styles sans frais supplémentaires."
+        },
+        {
+          "title": "Flux de travail simple en deux étapes",
+          "content": "Vid2Vid offre un processus convivial : téléversement, stylisation de la référence et transformation complète, le tout avec un suivi en temps réel, sans aucune expertise technique requise."
+        },
+        {
+          "title": "Automatisation optimisée",
+          "content": "Un traitement intelligent assure la découpe automatique et prend en charge divers formats, optimisant ainsi le transfert de style en fonction de la durée."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foire aux questions",
+      "description": "Découvrez des informations essentielles sur Vid2Vid et les opportunités qu'il offre aux créateurs.",
+      "q1": "Qu'est-ce que Vid2Vid ?",
+      "a1": "Vid2Vid est un outil d'IA qui transforme les vidéos conventionnelles en styles artistiques animés, tels que l'anime, le dessin animé, le manga et le manhwa. Il exploite une technologie avancée de transfert de style vidéo pour une application cohérente du mouvement et du style sur l'ensemble de la vidéo, offrant ainsi une expérience visuelle fluide.",
+      "q2": "Comment créer des vidéos avec Vid2Vid ?",
+      "a2": "L'utilisation de Vid2Vid est un jeu d'enfant ! Téléversez d'abord votre vidéo, puis choisissez le style souhaité et enfin, générez votre vidéo stylisée. Avec Vid2Vid, vous pouvez prévisualiser vos modifications, choisir parmi plus de 100 options de style et obtenir des transformations de haute qualité à chaque fois.",
+      "q3": "Comment fonctionne Vid2Vid ?",
+      "a3": "Vid2Vid utilise une technologie de pointe de transfert de style vidéo pour convertir les vidéos. Il commence par styliser une image de référence, puis applique ce style uniformément à l'ensemble de la vidéo, en préservant l'intégrité du mouvement et la synchronisation du rythme tout au long du processus.",
+      "q4": "Quel est le meilleur générateur d'effets d'animation ?",
+      "a4": "KomikoAI fournit le meilleur outil de générateur d'effets d'animation. Notre objectif est d'être la principale plateforme de création d'IA en fournissant des résultats de qualité professionnelle, une personnalisation puissante et amusante, et un flux de travail intuitif, le tout gratuitement. Grâce à Vid2Vid de KomikoAI, vous pouvez transformer des vidéos en animations captivantes, ce qui le rend idéal pour les utilisateurs qui apprécient la production cinématographique créative et l'animation.",
+      "q5": "Vid2Vid de KomikoAI est-il gratuit en ligne ?",
+      "a5": "Oui, vous pouvez tester Vid2Vid sur KomikoAI gratuitement, sans avoir à vous abonner. Essayez notre outil innovant dès aujourd'hui !",
+      "q6": "Que puis-je faire avec Vid2Vid ?",
+      "a6": "Vous pouvez utiliser Vid2Vid sur KomikoAI pour créer des vidéos visuellement saisissantes. Convertissez du contenu ordinaire en chefs-d'œuvre d'anime, de dessin animé, de manga ou de manhwa, adaptés au partage sur les réseaux sociaux et à la narration créative, grâce à de nombreuses options de personnalisation.",
+      "q7": "Puis-je utiliser Vid2Vid sur mon téléphone ?",
+      "a7": "Oui, vous pouvez utiliser Vid2Vid en tant qu'application Web sur différents appareils, notamment les smartphones et les ordinateurs, ce qui le rend accessible à tous.",
+      "q8": "Puis-je télécharger ma génération depuis Vid2Vid ?",
+      "a8": "Oui, Vid2Vid de KomikoAI vous permet d'exporter votre génération dans différents formats, tels que MP4, MOV et AVI, pour un partage aisé.",
+      "q9": "Pourquoi devrais-je utiliser Vid2Vid ?",
+      "a9": "L'utilisation de Vid2Vid peut révolutionner votre production créative grâce à des animations époustouflantes. Notre outil vous permet d'appliquer divers styles artistiques, d'optimiser le mouvement vidéo et d'améliorer la narration vidéo, ce qui le rend parfait pour les créateurs passionnés par la vidéographie convaincante et imaginative."
+    },
+    "cta": {
+      "title": "Créez des vidéos époustouflantes GRATUITEMENT avec notre Vid2Vid dès aujourd'hui !",
+      "description": "Réalisez d'incroyables vidéos de style anime grâce à la technologie d'IA moderne.",
+      "buttonText": "Essayez notre Vid2Vid gratuitement"
+    }
+  },
+  "originalKeyword": "Vid2Vid",
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "Vidéo originale",
+      "outputLabel": "Style bande dessinée",
+      "description": "Transfert de style | Transférer la vidéo originale au style bande dessinée"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/retro-game.webm",
+      "inputLabel": "Vidéo originale",
+      "outputLabel": "Style jeu rétro",
+      "description": "Transfert de style | Transférer la vidéo originale au style jeu rétro"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/watercolor.webm",
+      "inputLabel": "Vidéo originale",
+      "outputLabel": "Style aquarelle",
+      "description": "Transfert de style | Transférer la vidéo originale au style aquarelle"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/vaporwave.webm",
+      "inputLabel": "Vidéo originale",
+      "outputLabel": "Style vaporwave",
+      "description": "Transfert de style | Transférer la vidéo originale au style vaporwave"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ],
+  "placeholderText": "Generate Vid2Vid style artwork"
+}

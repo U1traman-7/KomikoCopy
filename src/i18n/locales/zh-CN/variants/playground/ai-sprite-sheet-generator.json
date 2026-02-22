@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 精灵图表生成器",
+      "description": "使用我们的 AI 精灵图表生成器，轻松将您的照片转换为独特的精灵图表。非常适合游戏美术和动画制作。免费开始！",
+      "keywords": "AI 精灵图表生成器, AI 角色创建器, AI 动漫生成器, 照片转精灵图表, 精灵图表美术生成器"
+    },
+    "hero": {
+      "title": "AI 精灵图表生成器"
+    },
+    "whatIs": {
+      "title": "什么是 AI 精灵图表生成器？",
+      "description": "AI 精灵图表生成器利用前沿的 AI 算法将您的照片转换为像素化精灵美术，专门为游戏和动画设计而优化。此工具非常适合开发者、艺术家和爱好者，可帮助您快速生成独特的精灵，使您能够专注于您的创意项目。"
+    },
+    "examples": {
+      "title": "AI 精灵图表生成器示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用 AI 精灵图表生成器",
+      "steps": [
+        {
+          "title": "步骤 1：上传您的照片",
+          "content": "上传一张清晰的图像（JPG 或 PNG 格式），突出显示一个明确的主题，以获得最佳转换效果。"
+        },
+        {
+          "title": "步骤 2：选择 Sprite Sheet 模板",
+          "content": "选择 Sprite Sheet 模板，使用您喜欢的精灵图表样式转换您的照片。"
+        },
+        {
+          "title": "步骤 3：转换为 Sprite Sheet",
+          "content": "点击“转换为 Sprite Sheet”，我们的 AI 将迅速创建一系列反映您所选风格的精灵。"
+        },
+        {
+          "title": "步骤 4：下载或分享您的作品",
+          "content": "轻松下载您完美的精灵图表，或与世界分享您的创作。"
+        }
+      ],
+      "subtitle": "按照这些简单的步骤来制作您的精灵图表。"
+    },
+    "benefits": {
+      "title": "为什么选择 AI 精灵图表生成器？",
+      "description": "了解使我们的生成器脱颖而出的独特功能。",
+      "features": [
+        {
+          "title": "🕹️ 立即转换",
+          "content": "通过即时精灵转换，全情投入创作，确保您的想法与实现之间的时间间隔最短。"
+        },
+        {
+          "title": "🎨 自定义风格选择",
+          "content": "访问各种满足不同品味的艺术风格，从复古像素艺术到现代设计，丰富您的艺术工作流程。"
+        },
+        {
+          "title": "✏️ 高分辨率输出",
+          "content": "我们的 AI 提供具有清晰细节的高质量结果，使您的像素艺术视觉效果更加清晰生动。"
+        },
+        {
+          "title": "🌟 直观的 UI/UX 体验",
+          "content": "我们用户友好的界面让任何人（无论技能水平如何）都能轻松创建令人印象深刻的精灵图表。"
+        },
+        {
+          "title": "🚀 快速处理时间",
+          "content": "凭借先进的 AI 技术，我们的生成器经过优化，可以快速处理转换，让您在更短的时间内创作更多作品。"
+        },
+        {
+          "title": "🌐 非常适合游戏创作",
+          "content": "专为寻求通用精灵的游戏开发者而设计，无缝增强您的角色并制作动画。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 精灵图表生成器 FAQ",
+      "description": "",
+      "q1": "什么是 AI 精灵图表生成器，它是如何工作的？",
+      "a1": "AI 精灵图表生成器利用 AI 将您的图像转换为具有不同艺术风格的程式化精灵图表，从而显著提高创作者的效率。",
+      "q2": "如何使用 AI 精灵图表生成器获得最佳效果？",
+      "a2": "选择清晰、主题明确的图像，并浏览各种可用的风格选项以补充您的创意视野。",
+      "q3": "AI 精灵图表生成器可以免费使用吗？",
+      "a3": "是的，您可以免费享受初始转换，尽情探索不同的风格！",
+      "q4": "与其他生成器相比，此生成器有何独特之处？",
+      "a4": "我们的生成器专注于生成专为游戏和动画设计的、具有高度一致性的精灵图表，专门为这些艺术目的量身定制。",
+      "q5": "我可以将我生成的精灵图表用于商业用途吗？",
+      "a5": "当然！您可以随意将您的精灵图表纳入任何项目，包括商业用途。"
+    },
+    "cta": {
+      "title": "开始您的 AI 精灵图表生成器之旅",
+      "description": "通过使用我们高效的生成器将图像转换为像素艺术，释放您的无限创造力。您的下一个艺术杰作，只需点击一下！",
+      "buttonText": "免费生成精灵美术"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into AI sprite art",
+  "originalKeyword": "AI Sprite Sheet Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl-output.webp",
+      "input": "/images/examples/playground/ai-plush-generator/girl-input.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/jjk-output.webp",
+      "input": "/images/examples/oc-maker/jjk-oc-maker/8_portrait-2-3_3043.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl2-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/3_portrait-2-3_274.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl3-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/1_portrait-2-3_9842.webp",
+      "prompt": "Style: Sprite Sheet"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Criador de Stickers de Anime",
+      "description": "Transforme as suas fotos em stickers de anime exclusivos com a nossa ferramenta alimentada por IA. Crie designs incríveis sem esforço e comece gratuitamente!",
+      "keywords": "Criador de Stickers de Anime, gerador de anime com IA, foto para sticker de anime, stickers de anime personalizados, criador de arte de anime, criador de personagens"
+    },
+    "hero": {
+      "title": "Criador de Stickers de Anime"
+    },
+    "whatIs": {
+      "title": "O que é o Criador de Stickers de Anime?",
+      "description": "O Criador de Stickers de Anime é uma ferramenta especializada, projetada para transformar as suas fotografias em stickers de anime vibrantes com apenas alguns cliques. Recorrendo à tecnologia avançada de IA, interpreta as suas imagens e estiliza-as de forma única na estética anime, permitindo a criação de arte de sticker personalizada e atraente, ideal para partilhar nas redes sociais ou criar merchandising personalizado."
+    },
+    "examples": {
+      "title": "Exemplos do Criador de Stickers de Anime",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como utilizar o Criador de Stickers de Anime",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a sua Foto",
+          "content": "Selecione uma imagem nítida para enviar; fotografias bem iluminadas e com objetos distintos produzem os melhores resultados. Os formatos suportados incluem JPG e PNG."
+        },
+        {
+          "title": "Passo 2: Selecione o Template de Stickers Chibi",
+          "content": "Selecione o template de Stickers Chibi para transformar a sua foto com o estilo de stickers chibi."
+        },
+        {
+          "title": "Passo 3: Converter para Stickers Chibi",
+          "content": "Clique em 'Gerar' após selecionar a sua foto e estilo. A nossa IA analisará e aplicará automaticamente a estética escolhida para criar o seu sticker."
+        },
+        {
+          "title": "Passo 4: Descarregue e Partilhe",
+          "content": "Assim que a sua transformação estiver concluída, descarregue o seu sticker de anime exclusivo e partilhe facilmente a sua criação nas plataformas sociais. Aproveite a utilização dos seus stickers personalizados em mensagens e projetos!"
+        }
+      ],
+      "subtitle": "Siga estes passos simples para transformar as suas imagens em stickers de anime impressionantes!"
+    },
+    "benefits": {
+      "title": "Por que utilizar o Criador de Stickers de Anime",
+      "description": "Descubra as funcionalidades que tornam a nossa ferramenta indispensável para criar stickers personalizados!",
+      "features": [
+        {
+          "title": "🎉 Estilos de Anime Exclusivos",
+          "content": "Personalize os seus stickers com a nossa variedade de estilos de anime, garantindo que cada design capture a sua verdadeira essência criativa."
+        },
+        {
+          "title": "⚡ Transformações Rápidas",
+          "content": "A nossa IA de ponta processa as suas imagens rapidamente, permitindo que crie stickers impressionantes sem espera."
+        },
+        {
+          "title": "🌟 Resultados de Alta Qualidade",
+          "content": "Receba as suas criações em alta resolução, tornando-as perfeitas para exibição digital e fins de impressão."
+        },
+        {
+          "title": "🖌️ Experiência de Utilizador Simples",
+          "content": "A nossa interface intuitiva foi projetada para todos – não são necessárias habilidades técnicas. Crie belos stickers com apenas alguns cliques."
+        },
+        {
+          "title": "💬 Partilha Sem Esforço",
+          "content": "Descarregue os seus stickers e partilhe-os facilmente em vários canais de redes sociais e projetos pessoais."
+        },
+        {
+          "title": "🎨 Ideal para Todos os Criativos",
+          "content": "Seja um artista profissional, um entusiasta ou simplesmente adore anime, a nossa ferramenta ajuda a dar vida às suas ideias."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Criador de Stickers de Anime FAQ",
+      "description": "",
+      "q1": "Qual é o processo por trás das transformações do Criador de Stickers de Anime?",
+      "a1": "O Criador de Stickers de Anime transforma as suas imagens analisando-as e reimaginando-as em estilos de anime atraentes, utilizando IA avançada.",
+      "q2": "Como posso obter os melhores resultados com o Criador de Stickers de Anime?",
+      "a2": "Para obter efeitos ideais, utilize imagens de alta qualidade e selecione estilos que reflitam o humor desejado. Sinta-se à vontade para experimentar estilos diferentes para efeitos variados.",
+      "q3": "É gratuito utilizar o Criador de Stickers de Anime?",
+      "a3": "Absolutamente! O Criador de Stickers de Anime é oferecido como uma ferramenta gratuita, permitindo que crie e experimente sem qualquer compromisso financeiro.",
+      "q4": "O que diferencia o Criador de Stickers de Anime dos filtros padrão?",
+      "a4": "O Criador de Stickers de Anime é especializado em traduzir as suas imagens em arte de anime autêntica, capturando cores vibrantes e expressões dinâmicas que os filtros típicos não conseguem alcançar.",
+      "q5": "Posso utilizar comercialmente os meus stickers de anime?",
+      "a5": "Sim, pode utilizar as suas criações comercialmente, inclusive em merchandising. Apenas certifique-se de rever quaisquer termos de utilização para garantir a conformidade."
+    },
+    "cta": {
+      "title": "Crie a Sua Obra-Prima de Sticker de Anime Hoje",
+      "description": "Desbloqueie o seu potencial criativo com o nosso Criador de Stickers de Anime alimentado por IA. Comece a criar stickers impressionantes sem esforço – comece já a sua jornada!",
+      "buttonText": "Experimente o Criador de Stickers de Anime Gratuitamente"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into Anime Sticker Maker style",
+  "originalKeyword": "Anime Sticker Maker",
+  "examples": [
+    {
+      "image": "/images/examples/playground/anime-sticker-maker/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/anime-sticker-maker/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/anime-sticker-maker/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/anime-sticker-maker/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Chibi"
+    }
+  ]
+}

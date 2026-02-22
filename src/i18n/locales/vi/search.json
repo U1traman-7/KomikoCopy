@@ -1,0 +1,21 @@
+{
+  "title": "Tìm Kiếm",
+  "placeholder": "Tìm kiếm tác phẩm, nhân vật, người dùng...",
+  "input_placeholder": "Tìm kiếm",
+  "history": "Lịch sử tìm kiếm",
+  "clear": "Xóa lịch sử",
+  "tags": "Thẻ",
+  "no_results": "Không tìm thấy kết quả nào",
+  "filter": {
+    "all": "Tất cả",
+    "users": "Người dùng",
+    "characters": "Nhân vật",
+    "templates": "Mẫu",
+    "posts": "Bài đăng",
+    "tags": "Nhãn"
+  },
+  "see_all": "Xem tất cả",
+  "followers": "Người theo dõi",
+  "follow": "Theo dõi",
+  "following": "Đang theo dõi"
+}

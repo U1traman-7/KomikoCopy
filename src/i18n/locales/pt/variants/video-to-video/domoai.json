@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "komiko.app",
+      "description": "Procura a melhor alternativa ao DomoAI? Transforme os seus vídeos em estilos de anime, mangá e desenho animado com a nossa ferramenta avançada de transferência de estilo de vídeo para vídeo com IA.",
+      "keywords": "Alternativa DomoAI, conversor de vídeo para anime, transferência de estilo de vídeo, gerador de vídeo de anime, transferência de estilo de mangá, filtro de vídeo de desenho animado"
+    },
+    "hero": {
+      "title": "komiko.app"
+    },
+    "examples": {
+      "title": "Exemplos de Vídeo para Vídeo",
+      "description": "Experimente uma transformação de vídeo para vídeo superior ao DomoAI, com processamento mais rápido, melhor consistência de movimento e opções de estilo mais diversificadas, incluindo estilos de anime, mangá, manhwa e desenho animado."
+    },
+    "whatIs": {
+      "title": "O que é o DomoAI?",
+      "description": "O DomoAI é uma ferramenta popular com tecnologia de IA conhecida por converter vídeos em anime e outros estilos artísticos através de tecnologia avançada de transferência de estilo de vídeo. Permite que os criadores transformem filmagens comuns em animações impressionantes inspiradas em anime, mangá e desenhos animados. Procura uma alternativa ao DomoAI? A nossa ferramenta de IA oferece uma solução poderosa de transferência de estilo de vídeo para vídeo que não só iguala, como frequentemente supera as capacidades do DomoAI. Com mais de 20 estilos artísticos, incluindo anime Studio Ghibli, manhwa coreano e mangá japonês, a nossa ferramenta preserva o movimento e o tempo originais na perfeição, oferecendo vídeos animados de qualidade profissional com facilidade."
+    },
+    "howToUse": {
+      "title": "Como Usar a Nossa Ferramenta de IA de Vídeo para Vídeo",
+      "steps": [
+        {
+          "title": "Carregue o Seu Vídeo",
+          "content": "Comece por carregar qualquer ficheiro de vídeo (MP4, MOV, AVI) com até 15 segundos e 50 MB. Vídeos com mais de 15 segundos são automaticamente cortados para garantir o desempenho ideal da transferência de estilo."
+        },
+        {
+          "title": "Selecione o Seu Estilo Artístico",
+          "content": "Na secção de Seleção de Estilo, escolha entre mais de 20 estilos predefinidos, incluindo anime, desenho animado, mangá, manhwa coreano, ou crie estilos personalizados usando prompts de texto e imagens de referência para a sua transferência de estilo de vídeo."
+        },
+        {
+          "title": "Visualização e Referência do Estilo",
+          "content": "Extraímos o primeiro frame e aplicamos o estilo escolhido para criar uma referência estilizada. Esta visualização mostra como o estilo selecionado será aplicado a toda a transformação do vídeo."
+        },
+        {
+          "title": "Gere o Seu Vídeo Estilizado",
+          "content": "Observe como a nossa IA transforma o seu vídeo completo usando o frame de referência estilizado, preservando todo o movimento, expressões e tempo originais para uma animação de anime ou desenho animado suave e de alta qualidade."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Por que Usar a Nossa Ferramenta de IA de Vídeo para Vídeo",
+      "description": "A nossa ferramenta de IA destaca-se como a melhor alternativa ao DomoAI, oferecendo preservação de movimento incomparável, uma vasta variedade de estilos artísticos e saídas de vídeo de nível profissional - tudo com preços transparentes e um fluxo de trabalho fácil de usar.",
+      "features": [
+        {
+          "title": "Preservação de Movimento Impecável",
+          "content": "Mantenha cada detalhe do movimento original, expressões faciais e tempo, aplicando estilos de anime, mangá ou desenho animado com consistência perfeita em cada frame.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Extensas Opções de Estilo",
+          "content": "Aceda a mais de 20 estilos predefinidos, incluindo Studio Ghibli, manhwa coreano, mangá japonês e muito mais. Personalize o seu estilo com prompts de texto ou imagens de referência para transformações de vídeo verdadeiramente únicas.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Resultados de Qualidade Profissional",
+          "content": "Gere vídeos de alta definição com transições suaves, sem cintilação e aplicação consistente de transferência de estilo para um acabamento polido e com qualidade de animação.",
+          "icon": "⭐"
+        },
+        {
+          "title": "Preços Simples e Transparentes",
+          "content": "Desfrute de preços claros com cobranças separadas para transferência de estilo e geração de vídeo, permitindo que experimente livremente, sem custos ocultos.",
+          "icon": "🌟"
+        },
+        {
+          "title": "Otimização Inteligente de Vídeo",
+          "content": "A otimização automática de vídeo inclui conversão de formato, ajuste de duração e aprimoramento de qualidade para garantir os melhores resultados possíveis para as suas transformações de anime e desenho animado.",
+          "icon": "🛠️"
+        },
+        {
+          "title": "Suporte a Estilos de Múltiplas Categorias",
+          "content": "Como a melhor alternativa ao DomoAI, aceda a estilos em várias categorias: Transferência de Estilo (anime, desenho animado), Alterar Material (argila, esqueleto), Alterar Ambiente (cyberpunk, subaquático) e opções de Cosplay.",
+          "icon": "🎭"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes sobre IA de Vídeo para Vídeo",
+      "description": "Respostas a perguntas comuns sobre a nossa ferramenta de transferência de estilo de vídeo, processo, preços e práticas recomendadas.",
+      "q1": "Como esta ferramenta de IA se compara ao DomoAI?",
+      "a1": "A nossa ferramenta de IA oferece um processo de transferência de estilo de vídeo de duas etapas semelhante, mas com mais opções de estilo, melhor preservação de movimento e saída de qualidade profissional, tornando-a uma excelente alternativa ao DomoAI.",
+      "q2": "Quais formatos e tamanhos de vídeo são suportados?",
+      "a2": "Suportamos formatos MP4, MOV e AVI com um tamanho máximo de ficheiro de 50 MB. Vídeos com mais de 15 segundos são cortados automaticamente para um processamento ideal.",
+      "q3": "Quanto tempo demora a transferência de estilo de vídeo?",
+      "a3": "Todo o processo leva cerca de 5 a 10 minutos, incluindo 1 a 3 minutos para transferência de estilo e 3 a 7 minutos para geração de vídeo, com atualizações de progresso em tempo real.",
+      "q4": "Quais são os custos envolvidos?",
+      "a4": "O preço é transparente e dividido entre transferência de estilo e geração de vídeo com base na duração do vídeo. Vê os custos antecipadamente e só é cobrado após a transferência de estilo bem-sucedida.",
+      "q5": "Posso criar estilos personalizados?",
+      "a5": "Sim, pode selecionar entre mais de 20 predefinições ou criar estilos personalizados usando prompts de texto e imagens de referência para transformações de vídeo exclusivas.",
+      "q6": "O que torna um bom vídeo de entrada para obter os melhores resultados?",
+      "a6": "Vídeos com assuntos claros, boa iluminação, movimento estável e recursos bem definidos funcionam melhor. Evite movimentos rápidos, filmagens escuras ou desfocadas para uma transferência de estilo ideal."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/fire-dj.webm",
+      "inputLabel": "Vídeo Original",
+      "outputLabel": "Fogo",
+      "description": "Change Material | Transform the character into fire effect"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/korean-manhwa-girl.webm",
+      "inputLabel": "Vídeo Original",
+      "outputLabel": "Manhwa Coreano",
+      "description": "Style Transfer | Change the original video to Korean manhwa style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/snow-man.webm",
+      "inputLabel": "Vídeo Original",
+      "outputLabel": "Nevado",
+      "description": "Change Environment | Transform the background into a snowy environment"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cowboy-skiing.webm",
+      "inputLabel": "Vídeo Original",
+      "outputLabel": "Cosplay",
+      "description": "Cosplay | Change the original video character's clothes to a cowboy outfit"
+    }
+  ],
+  "originalKeyword": "DomoAI | Best DomoAI Alternative For Video to Anime and Style Transfer",
+  "pageStructure": [
+    "exemplos",
+    "benefícios",
+    "comoUsar",
+    "oQueÉ",
+    "maisFerramentasIA",
+    "faq",
+    "cta"
+  ]
+}

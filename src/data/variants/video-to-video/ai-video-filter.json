@@ -1,0 +1,128 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Video Filter",
+      "description": "Revitalize your videos with AI Video Filter. Transform ordinary videos into anime, cartoon, manga, and manhwa styles, preserving original motion and expressions.",
+      "keywords": "AI Video Filter, AI animation tool, anime video filter, cartoon video transformation, manga style animation, manhwa video filter, video stylization, artistic video filter, animation transformation tool, digital creator tool, content creation"
+    },
+    "hero": {
+      "title": "AI Video Filter"
+    },
+    "whatIs": {
+      "title": "What is AI Video Filter?",
+      "description": "The AI Video Filter is a cutting-edge tool that transforms regular videos into anime, cartoon, manga, and manhwa styles through advanced AI technology. Our two-step approach applies a chosen style to a reference frame, then uses this to transform the entire video while maintaining original motion and expressions. Choose from over 100 styles including Studio Ghibli, Korean manhwa, Japanese manga, among others."
+    },
+    "examples": {
+      "title": "AI Video Filter Examples",
+      "description": "Discover how AI Video Filter transforms videos into charming anime, cartoon, manga, and manhwa visuals while ensuring perfect motion preservation with our advanced AI technology."
+    },
+    "howToUse": {
+      "title": "How to Use AI Video Filter",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Submit any video file (MP4, MOV, AVI) up to 15 seconds and 50MB for AI Video Filter processing. Videos exceeding 15 seconds are automatically trimmed for optimal transformation."
+        },
+        {
+          "title": "Style Transfer Reference Frame",
+          "content": "We extract the initial frame and apply your selected style to create a reference guide ensuring consistent transformation across the entire video."
+        },
+        {
+          "title": "Select Artistic Style",
+          "content": "Choose from 100+ artistic styles like Studio Ghibli anime, Korean manhwa, Japanese manga, or build custom styles using text inputs or reference images."
+        },
+        {
+          "title": "Generate with AI Video Filter",
+          "content": "The AI Video Filter processes your video using the styled reference frame, preserving all original motion, expressions, and timing for seamless transformation."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use AI Video Filter",
+      "description": "AI Video Filter offers advanced animation transformation with motion preservation, extensive style selection, and clear pricing.",
+      "features": [
+        {
+          "title": "Impeccable Motion Preservation",
+          "content": "AI Video Filter preserves every detail of original video motion, expressions, and timing while applying diverse animation styles with precision.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Extensive Style Options",
+          "content": "Select from limitless styles including Studio Ghibli, Korean manhwa, Japanese manga, and more. Customize styles using text inputs or reference image uploads.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Exceptional Quality Output",
+          "content": "Create high-quality anime and cartoon-style videos with consistent transformation, smooth transitions, and no visual artifacts.",
+          "icon": "✨"
+        },
+        {
+          "title": "Transparent Pricing Model",
+          "content": "Distinct pricing for style transfer and generation, allowing users to experiment with different styles without additional costs.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Simple Two-Step Process",
+          "content": "Effortless workflow: upload video, style the reference frame, and generate your styled video. No specialized skills required.",
+          "icon": "👌"
+        },
+        {
+          "title": "Automatic Optimization",
+          "content": "AI Video Filter automatically manages trimming, format support, and cost calculation for optimized animations.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Here are some common questions about AI Video Filter to help you get started quickly.",
+      "q1": "What is AI Video Filter?",
+      "a1": "AI Video Filter is an AI tool that transforms regular videos into anime, cartoon, manga, and manhwa-style animations using sophisticated AI technology. It provides users with a simple two-step process involving style transfer on a reference frame and full video transformation, ensuring motion consistency and professional-quality output.",
+      "q2": "How to use AI Video Filter?",
+      "a2": "Using AI Video Filter is simple! First upload your video file, then select your desired style, and let the AI Video Filter apply the style across the entire video. The tool preserves original motion and timing while transforming your video. It's perfect for creating engaging and artistic content with ease.",
+      "q3": "How does AI Video Filter work?",
+      "a3": "AI Video Filter uses advanced AI technology to apply artistic styles to videos. It starts by styling a reference frame and then seamlessly transfers this style to the entire video, preserving the original motion and expressions, thanks to its intelligent processing capabilities.",
+      "q4": "What is the best video filter tool?",
+      "a4": "KomikoAI provides the best video filter tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's AI Video Filter, you can transform videos into amazing animations using diverse styles, making it perfect for digital creators and artists looking for creative tools.",
+      "q5": "Is the KomikoAI AI Video Filter free online?",
+      "a5": "Yes, you can test out the AI Video Filter on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with AI Video Filter?",
+      "a6": "You can use AI Video Filter on KomikoAI to create personalized, captivating videos that mimic the styles of anime, manga, cartoon, and manhwa animations. Make social media content stand out, create artful video advertisements, or just have fun with creative expression using our advanced AI technology.",
+      "q7": "Can I use AI Video Filter on my phone?",
+      "a7": "Yes, you can use AI Video Filter as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from AI Video Filter?",
+      "a8": "Yes, KomikoAI's AI Video Filter allows you to export your generation in various formats, such as MP4, MOV, AVI, for easy sharing.",
+      "q9": "Why should I use AI Video Filter?",
+      "a9": "Using AI Video Filter can enhance your video content by transforming it into artful animations. Our tool allows you to experiment with different styles, create unique content, and leverage advanced animation technology to engage your audience and elevate your creative projects."
+    },
+    "cta": {
+      "title": "Transform Videos for FREE with Our AI Video Filter Today!",
+      "description": "Create unique and captivating videos with AI Video Filter. Try it now!",
+      "buttonText": "Try Our AI Video Filter Free"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/ghibli-anime-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Ghibli Anime Style",
+      "description": "Style Transfer | Transfer original video to Ghibli anime style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/drum-set.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/the-simpsons.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Transferred Result",
+      "description": "Movie/Show | Style: The Simpsons"
+    }
+  ],
+  "originalKeyword": "AI Video Filter",
+  "pageStructure": ["examples", "whatIs", "whyUse", "howToUse", "moreAITools", "faq", "cta"]
+}

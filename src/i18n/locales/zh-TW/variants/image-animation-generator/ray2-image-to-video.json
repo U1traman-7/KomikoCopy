@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Ray2 圖片轉影片 - KomikoAI",
+      "description": "透過 Ray2 圖片轉影片，將靜態圖片轉換為栩栩如生、動態十足的影片。體驗具備自然動態與電影級品質的尖端 AI 影片生成技術。",
+      "keywords": "Ray2, 圖片轉影片, AI 影片生成, 逼真 AI 影片, AI 動畫, 影片生成技術, AI 影片工具, Luma AI Ray2"
+    },
+    "hero": {
+      "title": "Ray2 圖片轉影片",
+      "description": "運用先進 AI 強大的功能，將您的靜態圖片轉換為生動、逼真的影片序列。Ray2 提供具有自然動態和精確物理效果的電影級品質影片，徹底改變您將視覺效果化為現實的方式。"
+    },
+    "whatIs": {
+      "title": "什麼是 Ray2 圖片轉影片？",
+      "description": "Ray2 圖片轉影片是由 Luma Labs 開發的先進 AI 影片生成模型。它透過引入自然、連貫的動態和超逼真的物理互動，將單張靜態圖片轉換為動態影片序列。Ray2 建立在尖端的多模態 Transformer 架構之上，利用其前身 10 倍的運算能力，提供具有電影級品質且可直接用於生產的流暢影片輸出。這項技術可以解析視覺和文字輸入，以生成能夠維持邏輯事件序列、準確物理模擬和豐富細節的影片，非常適合娛樂、行銷、設計等領域的應用。"
+    },
+    "examples": {
+      "title": "Ray2 圖片轉影片範例",
+      "description": "觀賞 Ray2 在娛樂、行銷、設計和創意專案中的實際應用 – 將靜態圖片轉換為專業的影片內容。"
+    },
+    "howToUse": {
+      "title": "如何使用 Ray2 圖片轉影片",
+      "steps": [
+        {
+          "title": "上傳您的圖片",
+          "content": "選擇並上傳您想要製作動畫的靜態圖片。這可以是藝術作品、插圖、照片或任何您想轉換為影片的視覺內容。"
+        },
+        {
+          "title": "輸入詳細提示",
+          "content": "提供描述性 prompt 來引導 AI 動畫。指定動作、操作、場景細節或相機角度，以協助 Ray2 生成所需的影片敘事。"
+        },
+        {
+          "title": "生成您的影片",
+          "content": "點擊生成按鈕，啟動影片生成過程。Ray2 將處理圖片和 prompt，以創建流暢、逼真的影片序列。"
+        },
+        {
+          "title": "下載和分享",
+          "content": "影片準備就緒後，下載高品質的電影片段。將其用於社群媒體、簡報、行銷活動或創意專案。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為何選擇 Ray2 圖片轉影片",
+      "description": "探索 Ray2 如何透過結合速度、品質和多功能性的尖端 AI 影片生成技術，賦能創作者和專業人士，將靜態視覺效果化為現實。",
+      "features": [
+        {
+          "title": "AI 驅動的自然動態",
+          "content": "捕捉逼真的人類、動物和物體運動，並以流暢、連貫的動作改善故事敘述和互動。",
+          "icon": "🤖"
+        },
+        {
+          "title": "超逼真的影片品質",
+          "content": "提供 1080p 解析度的影片，具有驚人的細節、準確的物理模擬和電影級視覺效果。",
+          "icon": "✨"
+        },
+        {
+          "title": "多功能輸入和控制",
+          "content": "支援圖片和影片輸入，具有可自訂的相機角度、縮放和場景擴展，以實現創意靈活性。",
+          "icon": "🎥"
+        },
+        {
+          "title": "快速且可直接用於生產",
+          "content": "在幾秒鐘內生成具有高成功率的影片，適合立即用於專業內容創作。",
+          "icon": "⚡"
+        },
+        {
+          "title": "廣泛的產業應用",
+          "content": "非常適合娛樂、行銷、建築、教育和藝術專案，以創建身歷其境且引人入勝的影片內容。",
+          "icon": "🏢"
+        },
+        {
+          "title": "易於所有技能水平的使用者使用",
+          "content": "無需高級動畫技能；直觀的提示讓任何人都能從靜態圖片創建動態影片。",
+          "icon": "👌"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Ray2 圖片轉影片 常見問題",
+      "description": "了解您需要了解的所有資訊，以便使用 Ray2 從圖片創建令人驚豔的 AI 生成影片。",
+      "q1": "什麼是 Ray2 圖片轉影片？",
+      "a1": "Ray2 圖片轉影片是一種新一代 AI 模型，可將靜態圖片轉換為具有自然動態、逼真物理效果和電影級品質的動態影片序列。它使用在大量運算能力上訓練的大規模多模態 Transformer 架構，以實現專業級影片輸出。",
+      "q2": "Ray2 如何從圖片生成影片？",
+      "a2": "Ray2 分析輸入圖片和使用者提供的文字 prompt，以了解場景元素、動態和事件。它生成連續的影格，模擬逼真的運動和環境互動，從而生成維持視覺和物理一致性的連貫影片。",
+      "q3": "哪些類型的圖片最適合 Ray2 圖片轉影片？",
+      "a3": "Ray2 在具有清晰、高解析度且具有明確主題和視覺細節的圖片上表現最佳。它對於藝術作品、照片、產品圖片和場景特別有效，在這些場景中，動態可以透過 prompt 以邏輯方式暗示或創造性地引導。",
+      "q4": "我可以使用 Ray2 影片用於商業專案嗎？",
+      "a4": "是的，使用 Ray2 生成的影片可用於個人和商業應用，包括行銷、廣告、娛樂和教育內容，但須遵守該工具的許可條款。",
+      "q5": "Ray2 圖片轉影片支援什麼影片品質和長度？",
+      "a5": "Ray2 輸出高達 1080p 解析度的影片，通常生成 3 到 10 秒的片段，具體取決於輸入和 prompt 規範，並可選擇擴展或循環播放影片以進行更長的簡報。",
+      "q6": "使用 Ray2 圖片轉影片是否需要技術知識？",
+      "a6": "不需要技術或動畫專業知識。該平台直觀、基於 prompt 的介面允許使用者透過簡單地上傳視覺效果和描述所需的動態或場景，輕鬆地將圖片轉換為影片。",
+      "q7": "哪些產業從 Ray2 圖片轉影片中受益最大？",
+      "a7": "Ray2 廣泛應用於娛樂、行銷、建築、教育和藝術領域。它簡化了影片內容創建，使專業人士能夠節省時間和成本，同時製作高品質、引人入勝的影片素材。",
+      "q8": "Ray2 圖片轉影片有什麼限制嗎？",
+      "a8": "雖然功能強大，但 Ray2 可能難以應對需要廣泛逐幀一致性的極其複雜或高度詳細的場景。高解析度輸入需要更多處理資源，並且目前僅支援英文 prompt。"
+    }
+  },
+  "originalKeyword": "Ray2 Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky.",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 2,
+      "title": "模型：Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 3,
+      "title": "模型：Ray2",
+      "description": "Prompt: Putting on sun glasses.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_05.mp4"
+    },
+    {
+      "id": 4,
+      "title": "模型：Ray2",
+      "description": "Prompt: Dragon breathing fire.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_11.mp4"
+    },
+    {
+      "id": 5,
+      "title": "模型：Ray2",
+      "description": "Prompt: an explosion with camera shake",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/explosion_camera_shake_185cff.mp4"
+    },
+    {
+      "id": 6,
+      "title": "模型：Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

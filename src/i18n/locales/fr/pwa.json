@@ -1,0 +1,17 @@
+{
+  "install": {
+    "title": "Installer KomikoAI",
+    "description": "Ajouter à votre écran d'accueil pour une meilleure expérience",
+    "instruction": "Appuyez sur Partager puis Sur l'écran d'accueil",
+    "install_button": "Installer",
+    "android_instruction": "Appuyez sur le bouton d'installation ci-dessus",
+    "dismiss": "Plus tard",
+    "step1": "Appuyez sur le bouton de partage",
+    "step2": "Choisissez « Ajouter à l'écran d'accueil »",
+    "ios_note": "Accédez plus rapidement à KomikoAI depuis votre écran d'accueil !",
+    "got_it": "J'ai compris !",
+    "android_step1": "Appuyez sur le menu du navigateur (⋮)",
+    "android_step2": "Choisissez \"Ajouter à l'écran d'accueil\"",
+    "android_note": "Accédez à KomikoAI plus facilement depuis votre écran d'accueil !"
+  }
+}

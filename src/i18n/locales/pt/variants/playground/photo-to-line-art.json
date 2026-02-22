@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Foto para Arte de Linha",
+      "description": "Transforme as suas fotos em deslumbrantes obras de arte de linha com IA. Crie peças artísticas únicas instantaneamente e partilhe-as facilmente. Comece agora gratuitamente!",
+      "keywords": "foto para arte de linha, gerador de arte de linha com IA, transformação artística de arte de linha, conversor de esboço com IA, criação de arte de linha única"
+    },
+    "hero": {
+      "title": "Foto para Arte de Linha"
+    },
+    "whatIs": {
+      "title": "O que é Foto para Arte de Linha?",
+      "description": "O nosso Gerador de IA Foto para Arte de Linha é uma ferramenta especializada que transforma as suas fotos em ilustrações de arte de linha notáveis. Ao utilizar tecnologia de IA avançada, converte imagens em esboços delineados que refletem a essência do assunto. Perfeito para artistas e criadores, simplifica o processo artístico, tornando-o acessível a todos os níveis de habilidade."
+    },
+    "examples": {
+      "title": "Exemplos de Foto para Arte de Linha",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como Usar Foto para Arte de Linha",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a Sua Foto",
+          "content": "Envie uma foto clara e de alta qualidade para obter os melhores resultados. Basta arrastar e soltar a sua imagem na nossa interface simplificada."
+        },
+        {
+          "title": "Passo 2: Selecione o Template de Arte de Linha",
+          "content": "Selecione o template de Arte de Linha para transformar a sua foto com o estilo de arte de linha."
+        },
+        {
+          "title": "Passo 3: Converter para Arte de Linha",
+          "content": "Clique no botão 'Converter para Arte de Linha' para iniciar a transformação por IA. Em meros segundos, veja a sua imagem transformar-se numa impressionante obra-prima de arte de linha!"
+        },
+        {
+          "title": "Passo 4: Descarregue e Partilhe a Sua Obra-Prima",
+          "content": "Depois que a sua arte de linha for gerada, descarregue-a instantaneamente para exibir nas redes sociais ou integre-a perfeitamente nos seus projetos de design."
+        }
+      ],
+      "subtitle": "Liberte a sua visão artística com estes passos simples!"
+    },
+    "benefits": {
+      "title": "Por que Escolher Foto para Arte de Linha?",
+      "description": "Descubra as vantagens únicas da nossa ferramenta alimentada por IA.",
+      "features": [
+        {
+          "title": "🎨 Criação de Arte Sem Esforço",
+          "content": "Converta as suas fotos em arte de linha requintada com o mínimo de esforço. Nenhuma habilidade artística necessária — a nossa IA robusta trata de tudo!"
+        },
+        {
+          "title": "⚡ Rápido e Eficiente",
+          "content": "Experimente um processamento rápido, gerando arte de linha de alta qualidade em segundos — ideal para criadores de ritmo acelerado."
+        },
+        {
+          "title": "🖼️ Casos de Uso Versáteis",
+          "content": "Perfeito para arte digital, marketing, presentes pessoais e muito mais, este gerador adapta-se a várias necessidades criativas."
+        },
+        {
+          "title": "💻 Experiência de Utilizador Intuitiva",
+          "content": "Navegue com facilidade através da nossa interface amigável, criada para facilitar a sua jornada artística."
+        },
+        {
+          "title": "🎯 Saídas de Alta Resolução",
+          "content": "Receba arte de linha nítida e detalhada, adequada para impressões ou uso digital, mantendo a clareza em cada linha."
+        },
+        {
+          "title": "🚀 Partilhe Instantaneamente a Sua Arte",
+          "content": "Descarregue e partilhe as suas criações impressionantes nas redes sociais ou inclua-as nos seus projetos sem esforço."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foto para Arte de Linha FAQ",
+      "description": "",
+      "q1": "O que é Foto para Arte de Linha e como funciona?",
+      "a1": "Foto para Arte de Linha usa algoritmos de IA inteligentes para analisar e converter as suas imagens em esboços delineados, enfatizando contornos para um apelo artístico.",
+      "q2": "Como posso obter os melhores resultados com Foto para Arte de Linha?",
+      "a2": "Selecione imagens claras e bem iluminadas para garantir que a IA possa definir contornos e detalhes com precisão, produzindo qualidade superior na sua arte de linha.",
+      "q3": "O gerador Foto para Arte de Linha é gratuito para usar?",
+      "a3": "Sim! Experimente o nosso teste gratuito e experimente o básico do gerador. Alguns recursos avançados podem implicar uma taxa.",
+      "q4": "O que distingue Foto para Arte de Linha de outros filtros?",
+      "a4": "Foto para Arte de Linha concentra-se especificamente na criação de efeitos delineados, proporcionando uma nova perspetiva artística, ao contrário dos filtros suaves típicos.",
+      "q5": "Posso usar comercialmente a arte de linha gerada?",
+      "a5": "Absolutamente! As suas criações são suas para usar em projetos pessoais ou comerciais. Por favor, reveja os nossos termos para direitos de uso."
+    },
+    "cta": {
+      "title": "Comece a Sua Jornada Artística com Foto para Arte de Linha",
+      "description": "Não perca! Transforme as suas fotos favoritas em arte de linha deslumbrante agora. Desfrute de um teste gratuito e dê vida à sua visão artística!",
+      "buttonText": "Transformar a Minha Foto em Arte de Linha Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a captivating line art style",
+  "originalKeyword": "Photo to Line Art",
+  "examples": [
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Line Art"
+    }
+  ]
+}

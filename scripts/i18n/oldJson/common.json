@@ -1,0 +1,394 @@
+{
+  "copyright": "Copyright © {{currentYear}} Caffelabs. All rights reserved.",
+  "dashboard": {
+    "main_nav_documentation": "Documentation",
+    "main_nav_support": "Support",
+    "sidebar_nav_clusters": "Clusters",
+    "sidebar_nav_billing": "Billing",
+    "sidebar_nav_settings": "Settings",
+    "title_text": "Create and manage clusters."
+  },
+  "marketing": {
+    "introducing": "Introducing Saasfly",
+    "get_started": "Get Started",
+    "price_features": "Economically efficient for production environments.",
+    "main_nav_features": "Features",
+    "main_nav_pricing": "Pricing",
+    "main_nav_create_comics": "Playground",
+    "main_nav_products": "Products",
+    "main_nav_blog": "Blog",
+    "main_nav_partners": "Partners",
+    "main_nav_documentation": "Documentation",
+    "login": "Login",
+    "signup": "Sign up"
+  },
+  "price": {
+    "title": "Cheap, transparent prices!",
+    "pricing": "Pricing",
+    "slogan": "Start at full speed !",
+    "monthly_bill": "Monthly Billing",
+    "annual_bill": "Annual Billing",
+    "annual_info": "will be charged when annual",
+    "monthly_info": "when charged monthly",
+    "mo": "/mo",
+    "contact": "for to contact our support team.",
+    "contact_2": "You can test the subscriptions and won&apos;t be charged.",
+    "faq": "Frequently Asked Questions",
+    "faq_detail": "Explore our comprehensive FAQ to find quick answers to common inquiries. If you need further assistance, don&apos;t hesitate to contact us for personalized help.",
+    "signup": "Sign up",
+    "upgrade": "Upgrade",
+    "manage_subscription": "Manage Subscription",
+    "go_to_dashboard": "Go to dashboard"
+  },
+  "nav": {
+    "features": "Features",
+    "ai_comic_generator": "AI Comic Generator",
+    "ai_anime_generator": "AI Anime Generator",
+    "anigen_competition": "AniGen Competition",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "partners": "Partners",
+    "menu": "Menu",
+    "video_to_video": "Video to Video AI",
+    "layer_splitter": "Layer Splitter",
+    "ai-talking-head": "AI Talking Head",
+    "professional_artists": "For Artists"
+  },
+  "footer": {
+    "pricing": "Pricing",
+    "ai_comic_generator": "AI Comic Generator",
+    "logo_alt": "KomikoAI AI Logo",
+    "twitter_aria": "Twitter",
+    "twitter_alt": "Twitter",
+    "tiktok_aria": "TikTok",
+    "tiktok_alt": "TikTok",
+    "ai_models": "AI Models",
+    "ai_tools": "AI Tools",
+    "all_tools": "All Tools",
+    "comic_tools": "Comic Tools",
+    "illustration_tools": "Illustration Tools",
+    "animation_tools": "Animation Tools",
+    "description": "KomikoAI is a one-stop AI platform for comics, manga, manhwa, anime and animation creation.",
+    "learn_more": "Learn More",
+    "languages": "Languages",
+    "carbon_removal": "Carbon Removal",
+    "blog": "Blog",
+    "partners": "Partners"
+  },
+  "layer_options": {
+    "send_to_back": "Send to back",
+    "send_backward": "Send backward",
+    "send_forward": "Send forward",
+    "send_to_front": "Send to front"
+  },
+  "ai_tools": {
+    "comic_generation": {
+      "title": "Generate comics, manga and manhwa",
+      "create_character": {
+        "title": "OC Maker",
+        "content": "Design original characters for storytelling."
+      },
+      "create_on_canvas": {
+        "title": "Comics Canvas",
+        "content": "Create your comics from scratch on a blank canvas."
+      },
+      "ai_comic_generator": {
+        "title": "AI Comic Generator",
+        "content": "Enter an idea and generate a comic in seconds."
+      }
+    },
+    "illustration": {
+      "title": "Assist with art, illustration and storyboarding",
+      "ai_anime_generator": {
+        "title": "Anime Art Generator",
+        "content": "Generate anime-style images with characters."
+      },
+      "line_art_colorization": {
+        "title": "Line Art Colorization",
+        "content": "Add colors to your line art and sketches."
+      },
+      "sketch_simplification": {
+        "title": "Sketch Simplification",
+        "content": "Convert rough, messy sketches into clean line art."
+      },
+      "background_removal": {
+        "title": "Background Removal",
+        "content": "Remove background from images with AI."
+      },
+      "image_upscaling": {
+        "title": "Image Upscaling",
+        "content": "Upscale your images with AI."
+      },
+      "image_relighting": {
+        "title": "Image Relighting",
+        "content": "Relight your images with AI."
+      },
+      "photo_to_anime": {
+        "title": "Photo to Anime",
+        "content": "Transform your photo to anime and other styles."
+      },
+      "ai_action_figure_generator": {
+        "title": "AI Action Figure Generator"
+      },
+      "ai_character_sheet_generator": {
+        "title": "AI Character Sheet Generator"
+      },
+      "ai_doll_generator": {
+        "title": "AI Doll Generator"
+      },
+      "anime_ai_filter": {
+        "title": "Anime AI Filter"
+      },
+      "studio_ghibli_ai_generator": {
+        "title": "Studio Ghibli AI Generator"
+      },
+      "studio_ghibli_filter": {
+        "title": "Studio Ghibli Filter"
+      },
+      "frame_pack_ai_video_generator": {
+        "title": "FramePack AI Video Generator"
+      },
+      "vidu_ai_video_generator": {
+        "title": "Vidu Q1 Video Generator"
+      },
+      "magi_1_video_generator": {
+        "title": "Magi-1 Video Generator"
+      },
+      "anisora_video_generator": {
+        "title": "AniSora AI Video Generator"
+      },
+      "veo3_video_generator": {
+        "title": "Veo3 AI Video Generator"
+      },
+      "midjourney_video_generator": {
+        "title": "Midjourney AI Video Generator"
+      }
+    },
+    "animation": {
+      "title": "Create animation videos",
+      "image_to_animation": {
+        "title": "Image to Animation",
+        "content": "Generate smooth animation videos from images."
+      },
+      "inbetweening": {
+        "title": "In-betweening",
+        "content": "Generate animation frames between keyframes."
+      },
+      "layer_splitter": {
+        "title": "Layer Splitter",
+        "content": "Split character images into separate components=."
+      },
+      "video_upscaling": {
+        "title": "Video Upscaling",
+        "content": "Increase the resolution of your videos."
+      },
+      "video_interpolation": {
+        "title": "Frame Interpolation",
+        "content": "Make videos smoother by inserting extra frames."
+      },
+      "ai_talking_head": {
+        "title": "AI Talking Head",
+        "content": "Generate animated talking characters from still images."
+      },
+      "video_to_video": {
+        "title": "Video to Video",
+        "content": "Convert your videos to different styles with AI."
+      }
+    },
+    "more": {
+      "title": "AND MORE",
+      "content": "Explore our complete suite of AI tools for Comic, Illustration and Animation."
+    }
+  },
+  "gridIndex": "Grid {{index}}",
+  "popularity": "{{count}} popularity",
+  "roleplay": "Roleplay",
+  "likes": "{{count}} likes",
+  "following": "Following",
+  "follow": "Follow",
+  "post_card": {
+    "following": "Following",
+    "follow": "Follow",
+    "the_end": "—— the end ——",
+    "discover": "Discover",
+    "more_stories": "more stories",
+    "or_start": "or start",
+    "creating_your_own": "creating your own",
+    "comments": "Comments",
+    "the_end_dash": "- the end -",
+    "prompts": "Prompts",
+    "prompt_copied": "Prompt copied to clipboard",
+    "copy_prompt": "Copy prompt",
+    "generate_more": "Generate more",
+    "no_prompts": "No prompts available😢",
+    "join_discussion": "Join the discussion!",
+    "sharing_link_copied": "Sharing link copied! Share it with your friends now!",
+    "image_downloaded": "Image downloaded successfully!",
+    "download_failed": "Download image failed, please try again later.",
+    "download_image": "Download Image",
+    "copy_link": "Copy Link",
+    "more": "More",
+    "share_text": "Just found this awesome comic \"{{title}}\"! You've gotta check it out!",
+    "delete": "Delete",
+    "confirm_delete": "Confirm Delete",
+    "confirm_delete_message": "Are you sure you want to delete this post?",
+    "cancel": "Cancel",
+    "delete_success": "Post deleted successfully",
+    "delete_failed": "Failed to delete post"
+  },
+  "uploadFile": {
+    "tapToUpload": "Tap to upload or drag your image here",
+    "dragAudio": "Drag audio here or click to upload",
+    "supportedAudio": "Supports MP3, WAV",
+    "errors": {
+      "invalidExtension": "Please select a file with extension: {{accept}}",
+      "selectImage": "Please select an image",
+      "selectVideo": "Please select a video",
+      "selectAudio": "Please select an audio file",
+      "fileSize": "File size must be less than {{limit}}MB",
+      "maxDuration": "Max duration: {{duration}} minutes",
+      "safariVideoTooLong": "For the best experience on Safari, please use videos up to 10 seconds, or try Chrome for longer videos!"
+    }
+  },
+  "audioRecorder": {
+    "duration": "Duration",
+    "recording": "Recording in progress",
+    "preparing": "Preparing...",
+    "instructions": "Click the button below to start recording",
+    "stop": "Stop Recording",
+    "start": "Start Recording",
+    "record_new": "Record New Audio"
+  },
+  "home": {
+    "create_story": {
+      "title": "New Comic",
+      "subtitle": "Generate images and create stories",
+      "generate": {
+        "title": "Generate",
+        "description": "Generate a comic from a one-line prompt in seconds"
+      },
+      "from_scratch": {
+        "title": "From Scratch",
+        "description": "Start with a blank canvas and let your creativity flow"
+      }
+    },
+    "create_character": {
+      "title": "New Character",
+      "subtitle": "Create characters for your stories"
+    },
+    "create_animation": {
+      "title": "New Roleplay"
+    }
+  },
+  "result_card": {
+    "generating": "Generating",
+    "video_not_supported": "Your browser does not support the video tag.",
+    "more_ai_tools": {
+      "title": "Explore Popular AI Tools",
+      "description": "Expand your creative horizons with more related AI tools.",
+      "view_more": "View More AI Tools"
+    },
+    "generated_by": "Generated by",
+    "tools": {
+      "title": "Tools",
+      "remove_bg": "Remove Bg",
+      "upscale": "Upscale",
+      "anime_style": "Restyle",
+      "animate": "Animate",
+      "video_upscale": "Upscale",
+      "video_interpolate": "Interpolate",
+      "character_sheet": "Character Sheet",
+      "oc-maker": "OC Maker",
+      "line_art_colorization": "Line Art Colorization",
+      "character": "Character",
+      "restyle": "Restyle"
+    }
+  },
+  "actions": {
+    "download": "Download",
+    "delete": "Delete",
+    "post": "Post",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "share": "Share",
+    "apply": "Apply",
+    "applying": "Applying...",
+    "generate": "Generate",
+    "generating": "Generating...",
+    "upload": "Upload",
+    "uploading": "Uploading...",
+    "extract": "Extract",
+    "extracting": "Extracting..."
+  },
+  "tools": {
+    "image-animation-generator": "Image Animation Generator",
+    "video-upscaling": "Video Upscaling",
+    "video_upscaling": "Video Upscaling",
+    "photo-to-anime": "Photo to Anime",
+    "background-removal": "Background Removal",
+    "image-upscaling": "Image Upscaling",
+    "video-interpolation": "Video Interpolation",
+    "video_interpolation": "Video Interpolation",
+    "ai-character-sheet-generator": "Character Sheet Generator",
+    "oc-maker": "OC Maker",
+    "line_art_colorization": "Line Art Colorization",
+    "character": "Character",
+    "restyle": "Restyle",
+    "layer_splitter": "Layer Splitter",
+    "video-to-video": "Video to Video AI",
+    "video_to_video": "Video to Video AI",
+    "ai-talking-head": "AI Talking Head"
+  },
+  "video_tabs": {
+    "image_to_animation": "Image to Video",
+    "video_to_video": "Video to Video",
+    "talking_head": "Talking Head",
+    "image_to_video_sub": "Image to Video",
+    "character_to_video_sub": "Character to Video"
+  },
+  "toasts": {
+    "fetchFailed": "Fetch failed",
+    "deleteSuccess": "Delete success",
+    "deleteFailed": "Delete failed",
+    "downloadFailed": "Download failed",
+    "processingSuccess": "Processing success",
+    "processingFailed": "Processing failed",
+    "uploadFailed": "Upload failed",
+    "noVideoUrl": "No video URL provided",
+    "noZaps": "Please purchase more zaps",
+    "mediaReceived": "Media received from another tool",
+    "extractFailed": "Failed to extract frame. Please try again.",
+    "invalidResponse": "Invalid response from API",
+    "timeout": "Operation timed out",
+    "missingData": "Missing required data",
+    "unexpectedFormat": "Unexpected data format"
+  },
+  "create_character": "Create Character",
+  "generate_image": "Generate Image",
+  "generate": "Generate",
+  "create_comic": "Create Comic",
+  "generate_animation": "Generate Video",
+  "logout": "Logout",
+  "from_other_tools": "{{input_type}} received from {{tools}}",
+  "input_types": {
+    "image": "Image",
+    "character": "Character",
+    "video": "Video"
+  },
+  "alt": {
+    "generated_image": "Generated image"
+  },
+  "success": {
+    "copy": "Copied to clipboard"
+  },
+  "unknown": "Unknown",
+  "sampleImage": "Sample Image",
+  "sampleVideo": "Sample Video",
+  "exampleResult": "Example Result",
+  "error": {
+    "code": "Error Code: {{code}}",
+    "requestId": "Request ID: {{id}}",
+    "downloadFailed": "Download failed. Please try again."
+  }
+}

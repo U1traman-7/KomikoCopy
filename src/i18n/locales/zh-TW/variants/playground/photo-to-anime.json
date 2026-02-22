@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 照片轉動漫 - KomikoAI",
+      "description": "運用我們 AI 驅動的轉換器，將您的照片、插圖及 3D 渲染圖轉換為令人驚豔的動漫藝術。 非常適合漫畫家、漫畫創作者及動漫愛好者。將自拍照轉換為動漫角色、將螢幕截圖轉換為漫畫分鏡，或在幾秒內將 3D 渲染圖重新構想為動漫風格藝術品。",
+      "keywords": "AI 照片轉動漫, 照片轉漫畫風格, 3D 轉動漫轉換器, 漫畫分鏡動畫, 韓漫藝術生成器, AI 動漫頭像創建器, 螢幕截圖轉動漫, 插圖風格轉換, 網路漫畫製作工具, 賽璐璐著色轉換器"
+    },
+    "hero": {
+      "title": "AI 照片轉動漫"
+    },
+    "whatIs": {
+      "title": "什麼是 AI 照片轉動漫？",
+      "description": "AI 照片轉動漫是一種先進的 AI 驅動轉換器，可將您的照片、插圖及 3D 渲染圖轉換為令人驚豔的動漫作品。 我們的工具採用在超過 50 萬個動漫影格上訓練出的尖端神經網路，提供擬真的動漫風格轉換，同時保留您的原始構圖與藝術意圖。 非常適合希望將自拍照轉換為動漫角色、將螢幕截圖轉換為漫畫分鏡，或將 3D 渲染圖重新構想為動漫風格藝術品的漫畫家、漫畫創作者及動漫愛好者。"
+    },
+    "examples": {
+      "title": "AI 照片轉動漫轉換範例",
+      "description": "看看我們的 AI 可以創造的驚人轉換"
+    },
+    "howToUse": {
+      "title": "4 個步驟將照片轉換為動漫藝術",
+      "steps": [
+        {
+          "title": "上傳來源素材",
+          "content": "上傳照片 (JPG/WEBP/PNG)、3D 渲染圖或現有漫畫分鏡。 我們的 AI 會分析構圖與光線，以實現最佳轉換效果。"
+        },
+        {
+          "title": "風格客製化",
+          "content": "從多種動漫風格中選擇，包括經典漫畫墨線、現代動漫賽璐璐著色或韓漫風格的全彩渲染。"
+        },
+        {
+          "title": "AI 轉換",
+          "content": "我們由 GPT 和 Gemini 驅動的先進 AI 模型，透過神經層處理圖像，並應用擬真的線條和動漫調色盤。"
+        },
+        {
+          "title": "下載和分享",
+          "content": "下載可供列印的高解析度圖像，並與您的朋友分享。"
+        }
+      ],
+      "subtitle": "輕鬆將您的圖像轉換為動漫傑作"
+    },
+    "benefits": {
+      "title": "專業的照片轉動漫轉換工具",
+      "description": "為何選擇我們的 AI 動漫轉換器？",
+      "features": [
+        {
+          "title": "🖌️ 高級風格保留",
+          "content": "在應用動漫專用光線與透視調整的同時，保持 98% 的原始構圖"
+        },
+        {
+          "title": "🗂️ 有效的圖像管理",
+          "content": "在單一會話中輕鬆上傳、轉換及管理多個圖像，進而簡化您的工作流程"
+        },
+        {
+          "title": "📸 高品質輸出",
+          "content": "提供清晰、高解析度的 PNG 圖像，非常適合數位漫畫、印刷製作及線上分享"
+        },
+        {
+          "title": "📊 解析度縮放",
+          "content": "從適合行動裝置的解析度到具有最佳化圖像品質的可供列印輸出"
+        },
+        {
+          "title": "🎯 風格轉換準確性",
+          "content": "根據使用者測試，在匹配請求的動漫風格方面，準確率為 94%"
+        },
+        {
+          "title": "🗃️ 資產管理",
+          "content": "安全地儲存和組織您轉換後的動漫圖像，以便於存取與重複使用"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 照片轉動漫專家指南",
+      "description": "探索您需要了解的一切，使用我們的 AI 照片轉動漫轉換器，將您的照片、插圖、螢幕截圖及 3D 渲染圖轉換為迷人的動漫風格作品。",
+      "q1": "AI 動漫轉換器支援哪些圖像格式？",
+      "a1": "我們的轉換器支援 JPG、PNG 及 WEBP 格式作為輸入，並提供高解析度的 PNG 輸出，非常適合數位漫畫與印刷製作。",
+      "q2": "我可以將 3D 渲染圖轉換為動漫風格嗎？",
+      "a2": "當然可以！ 我們的 AI 專門將 3D 渲染圖轉換為擬真的 2D 動漫作品，同時保留結構細節 - 非常適合漫畫預製作。",
+      "q3": "漫畫/韓漫風格轉換的準確度如何？",
+      "a3": "我們的轉換器使用在超過 50 萬個動漫影格上訓練出的神經網路，對於包括少年漫畫與全彩韓漫在內的流行格式，可實現 98% 的風格準確度。",
+      "q4": "輸出圖像的解析度是多少？",
+      "a4": "圖像以 4K 解析度 (4096x4096px) 產生，並可選擇升頻以滿足專業印刷製作需求。",
+      "q5": "AI 如何處理不同的藝術風格？",
+      "a5": "系統會自動偵測線條、著色風格與構圖，以應用最合適的動漫轉換，同時保留原始藝術意圖。",
+      "q6": "AI 照片轉動漫轉換器是免費的嗎？",
+      "a6": "是的，您可以免費使用我們的 AI 照片轉動漫轉換器，並提供豐富的風格選擇。 對於尋求更進階與獨特轉換的使用者，我們還提供其他僅供訂閱者使用的高級風格。 免費風格可以免費使用，而高級風格則標有皇冠標誌，並且需要訂閱。"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photos into stunning anime art",
+  "originalKeyword": "Photo to Anime",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "output": "/images/examples/photo-to-anime/girl_anime.webp",
+      "image": "/images/examples/playground/photo-to-anime/example_1.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "output": "/images/examples/photo-to-anime/boy_anime.webp",
+      "image": "/images/examples/playground/photo-to-anime/example_2.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "output": "/images/examples/photo-to-anime/cat_anime.webp",
+      "image": "/images/examples/playground/photo-to-anime/example_3.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "output": "/images/styles/anime.webp",
+      "image": "/images/styles/anime.webp",
+      "prompt": "Style: Anime"
+    }
+  ]
+}

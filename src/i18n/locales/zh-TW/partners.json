@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "合作夥伴 | KomikoAI",
+    "description": "與 KomikoAI 攜手合作，共同成長。"
+  },
+  "hero": {
+    "title": "我們的合作夥伴",
+    "description": "身為領先的 AI 漫畫與動畫平台，我們與頂尖的 AI 創新者合作，一同革新設計與娛樂領域的創意內容製作。"
+  },
+  "technologyPartners": {
+    "title": "技術合作夥伴",
+    "description": "與業界領袖合作，突破 AI 創意的界限",
+    "partners": {
+      "mathosAI": {
+        "name": "Mathos AI",
+        "description": "Mathos AI 是一個強大的 AI 驅動數學解題器，能幫助您解決複雜的數學問題。"
+      },
+      "collovAI": {
+        "name": "Collov AI",
+        "description": "Collov AI 提供最先進的 AI 虛擬佈景，以令人驚豔的逼真設計改造房地產物件。 以快速、具成本效益的佈景提升房地產行銷。"
+      },
+      "altpageAI": {
+        "name": "altpage.ai",
+        "description": "altpage.ai 是一個 AI 代理，專門建立 SEO 優化的對比頁面，以便吸引競爭對手的品牌流量。它會分析數據，強調您的優勢，並布署頁面以獲得更高的排名，而不需要技術技能。"
+      },
+      "easysiteAI": {
+        "name": "易站AI",
+        "description": "即時利用AI建置以數據為驅動的網站和應用程式。功能包括內建資料庫、行動轉換、聊天小工具與分析。支持WordPress/Netlify。"
+      },
+      "newoaksAI": {
+        "name": "AI聊天機器人構建器；AI代理構建器",
+        "description": "NewOaks AI 處理所有渠道的顧客服務對話，並確保您滿檔的日程。專注於完成交易，而非追逐潛在客戶！"
+      },
+      "komiko": {
+        "name": "KomikoAI",
+        "description": "KomikoAI: 全方位AI平台，專注於藝術、動畫和漫畫。KomikoAI 的強大AI工具讓藝術家和故事創作者能更輕鬆將他們的理念變為現實。無論是線條藝術上色、AI動畫生成或AI漫畫生成，我們一應俱全。只需幾分鐘即可創建插畫、漫畫、漫畫書及動畫，而非數天。"
+      },
+      "kuaAI": {
+        "name": "kua.ai",
+        "description": "專為電子商務設計的AI代理"
+      },
+      "vidAU": {
+        "name": "VidAU",
+        "description": "VidAU AI 讓您在幾分鐘內創作出吸引人的影片。只需提供產品鏈接或簡要描述，我們的平台即可生成高質量影片，並具有多種語言和口音的逼真AI化身。無論您是為TikTok、YouTube、行銷活動或是培訓課程創建內容，VidAU AI都能滿足您的需要。不論是吸引人的短片，還是專業的說明影片，我們一體化且易用的AI影片創作平台幫助您快速制作出引人注目的內容，提升品牌形象，並以影響力訴說您的故事。"
+      },
+      "bikaAI": {
+        "name": "Bika.AI",
+        "description": "Bika.ai 是一個全方位的AI工作空間，用於創建業務AI代理，結合AI聊天機器人、自動化、資料庫、儀表板及知識庫，管理和自動化無盡的業務流程。不需頻繁與AI互動。Bika.ai 自動化重複性工作，無縫執行跨職能工作，支持您的行銷、銷售及專案，讓您專注於策略性工作。"
+      }
+    }
+  },
+  "partnershipCTA": {
+    "title": "與我們一同拓展您的業務",
+    "description": "與 KomikoAI 合作，擴大您的市場覆蓋範圍。 我們很高興與相關創意產業的公司合作。",
+    "button": "聯絡我們的團隊"
+  },
+  "productLines": {
+    "title": "產品線",
+    "description": "探索我們重塑創意 AI 工具未來的創新解決方案",
+    "aiComicGeneration": {
+      "title": "AI 漫畫生成",
+      "description": "透過我們先進的 AI 技術，立即創建令人驚豔的漫畫",
+      "items": [
+        "角色設計",
+        "漫畫場景生成",
+        "多格故事敘述",
+        "自訂風格控制"
+      ]
+    },
+    "imageProcessing": {
+      "title": "圖像處理",
+      "description": "專業的 AI 圖像工具，可簡化您的創意工作流程",
+      "items": [
+        "背景移除",
+        "圖像著色",
+        "圖像超解析度",
+        "線稿著色"
+      ]
+    },
+    "videoEnhancement": {
+      "title": "影片增強",
+      "description": "強大的影片工具，讓您的創作栩栩如生",
+      "items": [
+        "影片幀率插值",
+        "影片超解析度",
+        "AI 影片動畫",
+        "角色動作生成"
+      ]
+    }
+  },
+  "solutions": {
+    "title": "解決方案",
+    "description": "針對不同市場區隔的客製化方法",
+    "professionals": {
+      "title": "專業人士",
+      "description": "為創意專業人士提供的簡化工具",
+      "items": [
+        "漫畫家",
+        "內容創作者",
+        "遊戲設計師",
+        "插畫家"
+      ]
+    },
+    "enterprises": {
+      "title": "企業",
+      "description": "適用於企業的可擴展 AI 解決方案",
+      "items": [
+        "教育機構",
+        "娛樂產業",
+        "出版社",
+        "廣告公司"
+      ]
+    }
+  }
+}

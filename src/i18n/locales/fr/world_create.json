@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Créer un monde | KomikoAI",
+  "createWorld": "Créer un monde",
+  "coverImage": "Image de couverture",
+  "uploadCoverImage": "Télécharger une image de couverture",
+  "worldName": "Nom du monde",
+  "introduction": "Introduction ({{length}}/250)",
+  "introductionPlaceholder": "Présentez brièvement l'histoire. Quelles aventures attendent le joueur et le personnage ? Utilisez '{character}' pour désigner le personnage.",
+  "storyline": "Scénario ({{length}}/5000)",
+  "storylinePlaceholder": "Décrivez le scénario en détail. Utilisez '{character}' pour désigner le personnage et 'player' pour désigner le joueur.",
+  "winningCondition": "Condition de victoire ({{length}}/250)",
+  "winningConditionPlaceholder": "Décrivez les conditions requises pour gagner la partie.",
+  "rules": "Règles du jeu ({{length}}/5000)",
+  "rulesPlaceholder": "Définissez les règles du jeu. Par exemple : 'Le joueur incarne {character}', ou '{character} s'adresse au joueur en l'appelant \"Voyageur\"', ou 'Chaque ligne de dialogue de {character} commence par (Folie : X), avec X initialement fixé à 100'.",
+  "createWorldButton": "Créer un monde",
+  "pleaseNote": "Remarque :",
+  "nsfwWarning": "Le contenu NSFW public est strictement interdit sur KomikoAI. Toute infraction entraînera la suppression immédiate du contenu et pourra mener à un bannissement permanent de la plateforme. Merci de nous aider à maintenir un espace sûr et respectueux pour tous. 🤗",
+  "errorWorldName": "Veuillez saisir le nom du monde",
+  "errorIntroduction": "Veuillez saisir une introduction",
+  "errorStoryline": "Veuillez saisir un scénario",
+  "errorCoverImage": "Veuillez télécharger une image de couverture",
+  "errorNSFW": "Le contenu NSFW est strictement interdit sur KomikoAI. Merci de nous aider à maintenir un espace sûr et respectueux pour tous."
+}

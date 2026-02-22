@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Filtro de Arcilla con IA",
+      "description": "Transforme sus fotos en obras de arte inspiradas en arcilla al instante con IA. Cree arte digital único sin esfuerzo. ¡Pruébelo gratis!",
+      "keywords": "Filtro de Arcilla con IA, transformación de fotos con IA, arte digital en arcilla, efectos artísticos con IA, imágenes de arcilla creadas con IA"
+    },
+    "hero": {
+      "title": "Filtro de Arcilla con IA"
+    },
+    "whatIs": {
+      "title": "¿Qué es el Filtro de Arcilla con IA?",
+      "description": "El Filtro de Arcilla con IA es una herramienta avanzada de inteligencia artificial que convierte sus fotos en obras de arte texturizadas al estilo de la arcilla. Utilizando redes neuronales de última generación, entrenadas en diversos estilos artísticos, este generador permite a los usuarios plasmar sus ideas visuales como vívidas esculturas de arcilla, manteniendo la intrincada sensación del arte hecho a mano. Tanto si es un artista experimentado como un creador curioso, el Filtro de Arcilla con IA ofrece una manera sencilla de experimentar e innovar."
+    },
+    "examples": {
+      "title": "Ejemplos del Filtro de Arcilla con IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cómo usar el Filtro de Arcilla con IA",
+      "steps": [
+        {
+          "title": "Paso 1: Suba su foto",
+          "content": "Comience subiendo una imagen clara y de alta resolución que desee transformar. Las imágenes de entrada de mayor calidad producen un arte de estilo arcilla más impresionante."
+        },
+        {
+          "title": "Paso 2: Seleccione la plantilla Claymation",
+          "content": "Seleccione la plantilla Claymation para transformar su foto con el estilo de *claymation*."
+        },
+        {
+          "title": "Paso 3: Convierta a Claymation",
+          "content": "Pulse el botón 'Transformar' y deje que nuestra IA haga el trabajo. En instantes, su foto se renderizará como una brillante pieza de arte en arcilla, lista para que la utilice."
+        },
+        {
+          "title": "Paso 4: Descargue y comparta",
+          "content": "Una vez que esté satisfecho, descargue su obra de arte y compártala en las redes sociales o incorpórela a sus proyectos. ¡Muestre su creación con el Filtro de Arcilla con IA!"
+        }
+      ],
+      "subtitle": "Siga estos sencillos pasos para crear su arte único al estilo de la arcilla sin esfuerzo."
+    },
+    "benefits": {
+      "title": "¿Por qué usar el Filtro de Arcilla con IA?",
+      "description": "Descubra las ventajas de nuestra herramienta de transformación de arcilla impulsada por IA.",
+      "features": [
+        {
+          "title": "🎨 Estilos únicos de arte en arcilla",
+          "content": "Cree fácilmente obras de arte distintivas al estilo de la arcilla que destaquen con ricas texturas y dimensiones."
+        },
+        {
+          "title": "⚡ Rápido y fácil de usar",
+          "content": "Transforme imágenes en segundos con mínimos esfuerzos, ideal para creativos que buscan resultados instantáneos."
+        },
+        {
+          "title": "🖼️ Usos versátiles",
+          "content": "Perfecto para artistas que necesitan inspiración fresca, *marketers* que desean crear contenido llamativo o aficionados ansiosos por experimentar."
+        },
+        {
+          "title": "💽 Salidas de alta calidad",
+          "content": "Disfrute de salidas de alta resolución que son adecuadas para la impresión y el uso compartido digital sin sacrificar la calidad."
+        },
+        {
+          "title": "🛠️ Funciones personalizables",
+          "content": "Ajuste la configuración para transformaciones personalizadas que se alineen con su visión."
+        },
+        {
+          "title": "🌐 Únase a una comunidad creativa",
+          "content": "Conéctese con otros artistas y comparta sus creaciones, encuentre inspiración y reciba comentarios sobre su trabajo."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Filtro de Arcilla con IA FAQ",
+      "description": "",
+      "q1": "¿Qué es el Filtro de Arcilla con IA y cómo funciona?",
+      "a1": "El Filtro de Arcilla con IA utiliza algoritmos avanzados de aprendizaje automático para transformar sus imágenes en obras de arte estilizadas, como si estuvieran hechas de arcilla.",
+      "q2": "¿Cómo puedo obtener los mejores resultados del Filtro de Arcilla con IA?",
+      "a2": "Seleccione imágenes claras y experimente con diferentes estilos disponibles para obtener los mejores efectos de arcilla.",
+      "q3": "¿Es el Filtro de Arcilla con IA de uso gratuito?",
+      "a3": "Sí, las funciones básicas del Filtro de Arcilla con IA son de uso gratuito, con opciones *premium* disponibles para funcionalidades avanzadas.",
+      "q4": "¿Qué hace que el Filtro de Arcilla con IA sea único en comparación con otros generadores?",
+      "a4": "Su enfoque en la calidad textural hace que cada obra de arte parezca hecha a mano de forma única, ofreciendo un aspecto distintivamente orgánico.",
+      "q5": "¿Puedo usar mis creaciones comercialmente?",
+      "a5": "¡Absolutamente! Puede aprovechar sus obras de arte al estilo de la arcilla para usos comerciales, siempre y cuando cumpla con nuestras políticas de uso."
+    },
+    "cta": {
+      "title": "Comience a crear su arte en arcilla hoy mismo",
+      "description": "Dé rienda suelta a su creatividad y vea cómo sus fotos se transforman en impresionantes obras maestras de arcilla. No espere más: ¡experimente el poder del Filtro de Arcilla con IA!",
+      "buttonText": "Transformar al Filtro de Arcilla con IA Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into AI Clay Filter style",
+  "originalKeyword": "AI Clay Filter",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "image": "/images/examples/playground/ai-clay-filter/example_1.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_2.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_3.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_4.webp",
+      "prompt": "Style: Clay Filter"
+    }
+  ]
+}

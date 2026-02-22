@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Create World | KomikoAI",
+  "createWorld": "Create a world",
+  "coverImage": "Cover Image",
+  "uploadCoverImage": "Upload a cover image",
+  "worldName": "World Name",
+  "introduction": "Introduction ({{length}}/250)",
+  "introductionPlaceholder": "Briefly introduce the story. What's the adventures await the player and the character? Please use '{character}' when referring to the character.",
+  "storyline": "Storyline ({{length}}/5000)",
+  "storylinePlaceholder": "Describe the storyline in more detail. Please use '{character}' when referring to the character and 'player' when referring to the player.",
+  "winningCondition": "Winning Condition ({{length}}/250)",
+  "winningConditionPlaceholder": "Describe the conditions for winning the game.",
+  "rules": "Rules ({{length}}/5000)",
+  "rulesPlaceholder": "Define the game rules. For example, 'The player will act as {character},' or'{character} addresses the player as \"Traveler\",' or 'Every line from {character} starts with (Madness: X), with X initially set to 100.'",
+  "createWorldButton": "Create World",
+  "pleaseNote": "Please note:",
+  "nsfwWarning": "public NSFW content is strictly prohibited in the KomikoAI community. Any violations will result in immediate removal of the content and may lead to a permanent ban from our platform. Let's work together to maintain a clean and safe space for everyone.🤗",
+  "errorWorldName": "Please enter a world name",
+  "errorIntroduction": "Please enter an introduction",
+  "errorStoryline": "Please enter a storyline",
+  "errorCoverImage": "Please upload a cover image",
+  "errorNSFW": "NSFW content is strictly prohibited in the KomikoAI community. Please help us maintain a clean and safe space for everyone."
+}

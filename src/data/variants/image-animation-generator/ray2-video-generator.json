@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Ray2 Video Generator - KomikoAI",
+      "description": "Create stunning high-resolution videos with Ray2 Video Generator. AI-powered image-to-video with natural, coherent motion and cinematic quality for anime, manga, and animation projects.",
+      "keywords": "Ray2 Video Generator, AI video generation, image-to-video AI, realistic AI video, cinematic AI video, AI animation tool, Luma AI Ray2"
+    },
+    "hero": {
+      "title": "Ray2 Video Generator",
+      "description": "Unlock AI-powered video creation with Ray2, offering hyper-realistic visuals, smooth natural motion, and advanced physics simulations. Perfect for dynamic storytelling and animation."
+    },
+    "whatIs": {
+      "title": "What is Ray2 Video Generator?",
+      "description": "Ray2 Video Generator by Luma AI transforms images into high-quality videos with natural motion. Using advanced multi-modal architecture, it produces 1080p videos with cinematic visuals, physics-aware animations, and precise camera controls. Ray2 overcomes common AI video issues like distorted motion through enhanced scene understanding and physics-based dynamics, serving creators in animation, gaming, marketing, and design."
+    },
+    "examples": {
+      "title": "Ray2 Generated Video Examples",
+      "description": "Check out what Ray2 can do: Instantly bring anime, manga, or comic art to life from a single image. Make cinematic marketing videos with natural lighting and smooth motion. Turn product shots into dynamic video mockups. Add realistic, physics-driven effects to any visual. Create seamless video loops for backgrounds. Perfect for anyone who wants pro-quality video without the hassle of manual animation."
+    },
+    "howToUse": {
+      "title": "How to Use Ray2 Video Generator",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Click to upload or drag your image into the upload area. Ray2 accepts various image formats and will use this as the base for your animated video."
+        },
+        {
+          "title": "Write Animation Prompt",
+          "content": "Enter a detailed text prompt describing how you want the image to be animated. Be specific about movements, effects, and the type of motion you want to see."
+        },
+        {
+          "title": "Configure Settings",
+          "content": "Select your AI model (like Luma Ray2), choose aspect ratio (16:9 Landscape or 9:16 Portrait), and set the duration (5 seconds or other available options)."
+        },
+        {
+          "title": "Generate Animation",
+          "content": "Click the 'Generate Animation' button to start the AI processing. Ray2 will create your video with smooth, natural motion based on your image and prompt."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Choose Ray2 Video Generator",
+      "description": "Discover how Ray2 revolutionizes AI video creation with powerful features tailored to streamline production and enhance creativity.",
+      "features": [
+        {
+          "title": "Hyper-Realistic Video Output",
+          "content": "Produces ultra-realistic visuals with precise lighting, textures, and details up to 1080p resolution for professional-grade results.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Natural and Coherent Motion",
+          "content": "Advanced physics-based animation delivers smooth, lifelike movements and logical event sequences, reducing jitter and distortions.",
+          "icon": "💨"
+        },
+        {
+          "title": "Image-to-Video Transformation",
+          "content": "Transforms static images into dynamic videos with seamless motion and realistic physics for diverse creative workflows.",
+          "icon": "🖼️"
+        },
+        {
+          "title": "Intuitive Camera Control",
+          "content": "Users can specify shot types, angles, zooms, and pans to produce cinematic perspectives and dynamic visual storytelling.",
+          "icon": "📷"
+        },
+        {
+          "title": "Efficient and Speedy Generation",
+          "content": "Leveraging ten times the compute power of its predecessor, Ray2 accelerates production with faster render times and higher success rates for usable videos.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Expanded Creative Possibilities",
+          "content": "Enables effortless creation of engaging content for marketing, animation, gaming, and digital media, helping creators unleash their artistic vision with AI assistance.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Ray2 Video Generator FAQs",
+      "description": "Find answers to the most common questions about Ray2 AI video generation technology and its applications.",
+      "q1": "What is the Ray2 Video Generator?",
+      "a1": "Ray2 Video Generator is an advanced AI model developed by Luma AI that creates realistic videos from images using large-scale video generative technology, delivering natural motion and cinematic quality.",
+      "q2": "How does Ray2 Video Generator create such realistic and natural motion?",
+      "a2": "Ray2 uses a multi-modal architecture with enhanced physics-based simulations and deep learning models trained on extensive datasets. This enables smooth, coherent movements and accurate interactions between objects and characters.",
+      "q3": "What types of inputs does Ray2 Video Generator accept?",
+      "a3": "Ray2 Video Generator supports image-to-video generation, allowing users to create videos from static images with AI-powered animation and motion effects.",
+      "q4": "What resolution and video length does Ray2 Video Generator support?",
+      "a4": "Ray2 can generate videos up to 1080p resolution with durations up to 10 seconds, ideal for professional and social media content.",
+      "q5": "Can I use Ray2-generated videos commercially?",
+      "a5": "Yes, videos generated with Ray2 can be used for both personal and commercial projects subject to the platform's terms of service and licensing agreements.",
+      "q6": "Are there any limitations or challenges when using Ray2 Video Generator?",
+      "a6": "While Ray2 delivers high-quality outputs, complex scenes may require careful prompt crafting, and high demand can affect generation speed. Currently, fine-tuning custom models is not supported.",
+      "q7": "What industries benefit most from Ray2 Video Generator?",
+      "a7": "Ray2 is valuable for animation studios, marketing teams, product designers, content creators, and digital artists seeking fast, realistic video generation without extensive manual work.",
+      "q8": "Is technical expertise needed to use Ray2 Video Generator?",
+      "a8": "No specialized skills are required. Ray2's intuitive interface allows anyone to generate high-quality videos by simply uploading images and providing motion prompts."
+    }
+  },
+  "originalKeyword": "Ray2 Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Ray2",
+      "description": "Prompt: Camera turn with beautiful lighting.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_08.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Model: Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Model: Ray2",
+      "description": "Prompt: Putting on sun glasses.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_05.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Ray2",
+      "description": "Prompt: Dragon breathing fire.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_11.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Model: Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 6,
+      "title": "Model: Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

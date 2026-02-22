@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "KomikoAI - AI 動漫創作平台及原創角色創造器",
+    "og_title": "KomikoAI - AI 動漫創作平台及原創角色創造器",
+    "twitter_title": "KomikoAI - AI 動漫創作平台及原創角色創造器",
+    "description": "使用KomikoAI創作原創角色、動漫及漫畫。探索超過100種專為粉絲設計的AI工具及創意模板。",
+    "keywords": "Komiko, KomikoAI, Komiko AI, Komiko app, komiko.ai, komiko.app, AI 動漫創作平台, 原創角色創造器, OC生成器, 動漫AI, AI 藝術創作工具, AI 漫畫創作, AI 動畫生成器, AI 視頻效果, 動漫角色創作"
+  },
+  "hero": {
+    "title": "您想創作什麼？",
+    "community": "社群創作"
+  },
+  "tabs": {
+    "for_you": "為您推薦",
+    "comic": "漫畫",
+    "illustration": "插畫",
+    "animation": "動畫",
+    "all": "全部"
+  },
+  "sections": {
+    "for_you": "為您推薦"
+  },
+  "create_section": {
+    "ai_art": "AI 藝術",
+    "storytelling": "故事敘述",
+    "create": "創建您的故事"
+  },
+  "carousel": {
+    "slide1_title": "AniGen 大賽",
+    "slide1_desc": "創作 AI 短篇動畫，贏得超過 $3,000 獎金和專業訂閱！",
+    "check_it_out": "了解詳情",
+    "slide2_title": "AI視頻轉換技術",
+    "slide2_desc": "將您的視頻轉換為動漫、卡通、漫畫或韓漫風格，且保留原始動作效果。",
+    "check_it_out2": "試試吧"
+  },
+  "banner": {
+    "merch_title": "把你的角色變成商品",
+    "merch_description": "將你的動漫角色創造成玩偶、徽章和立牌等商品。",
+    "try_now": "立即體驗"
+  },
+  "activity_posts": {
+    "video_to_video": {
+      "title": "視頻轉視頻 AI",
+      "description": "運用視頻轉視頻 AI 技術來轉換您的影片。將任何影片轉換為動畫、卡通、漫畫或韓漫風格。",
+      "button": "立即体验"
+    },
+    "character_merch": {
+      "title": "將您的角色變為周邊產品",
+      "description": "從您喜愛的角色創造出令人驚豔的周邊產品，包括徽章、抱枕、公仔和立牌。",
+      "button": "立即体验"
+    },
+    "ambassador": {
+      "title": "加入 KomikoAI 大使並賺取分成💰",
+      "description": "成為 KomikoAI 大使，通過推薦獲得分成。現在就加入我們的聯盟計劃吧！",
+      "button": "立即加入"
+    },
+    "promoted": "推廣",
+    "anishort": {
+      "title": "探索精彩短篇動畫，或發佈您的個人系列！",
+      "button": "立即開始探索"
+    },
+    "ad": "廣告",
+    "new-playground": {
+      "title": "✨ 探索 100+ 有趣模板",
+      "description": "使用熱門模板來改變您的照片和角色——從 Q 版表情和角色頁到真實商品、卍解效果等等！",
+      "button": "立即試用"
+    },
+    "sora-2": {
+      "title": "Sora 2 現已登陸 KomikoAI！參加 #Sora動漫挑戰，贏取 $1000 獎金池中的好禮！",
+      "button": "立刻參加"
+    }
+  },
+  "ai_apps_banner": {
+    "eyebrow": "AI應用集成中心",
+    "title": "您的工具已上架AI應用頁面",
+    "description": "收藏常用工具，瀏覽完整AI應用目錄，適用於插畫、動畫、漫畫等。",
+    "cta": "開啟AI應用"
+  },
+  "generateArt": "生成藝術",
+  "generateTagArt": "生成{{tag}}藝術"
+}

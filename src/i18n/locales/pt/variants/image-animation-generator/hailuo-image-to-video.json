@@ -1,0 +1,135 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Hailuo Image to Video – KomikoAI",
+      "description": "Anime qualquer imagem estática em um vídeo dinâmico com Hailuo Image to Video. Nossa ferramenta de animação de imagem com tecnologia de IA dá vida a fotos, ilustrações e artes.",
+      "fullDescription": "Hailuo Image to Video utiliza algoritmos avançados de animação por IA para transformar suas imagens estáticas – obras de arte, fotos, esboços – em vídeos envolventes. Perfeita para criadores, profissionais de marketing e contadores de histórias, esta ferramenta de IA de imagem para vídeo torna a criação de movimento cinematográfico fácil e rápida.",
+      "keywords": "Hailuo Image to Video, IA de imagem para vídeo, IA de animação de imagem, ferramenta de animação de fotos, conversor de imagem para vídeo, animar imagem para vídeo, vídeo de IA a partir de imagem"
+    },
+    "hero": {
+      "title": "Hailuo Image to Video",
+      "description": "Anime as suas imagens e transforme-as em vídeos cativantes com a animação de imagem por IA da Hailuo. Dê vida instantaneamente a obras de arte, fotos e ilustrações."
+    },
+    "whatIs": {
+      "title": "O que é Hailuo Image to Video?",
+      "description": "Hailuo Image to Video (da MiniMax) é um gerador de vídeo com IA de ponta que transforma imagens estáticas em videoclipes dinâmicos de 6 a 10 segundos com qualidade cinematográfica. Reconhecido pela sua síntese de movimento superior e saída em 1080p, destaca-se na preservação de expressões faciais, adicionando movimentos naturais de câmara e criando transições perfeitas. A nossa ferramenta Hailuo Image to Video utiliza os algoritmos avançados Video-01 da MiniMax — otimizados para fotografias, arte digital e ilustrações — para animar os seus visuais com resultados de nível profissional. Experimente a geração ultrarrápida (em menos de 90 segundos), a consistência visual excecional e o controlo criativo intuitivo sobre cada sequência animada."
+    },
+    "examples": {
+      "title": "Exemplos de Hailuo Image to Video",
+      "description": "Explore animações criadas com Hailuo Image to Video. Veja como imagens simples se transformam em videoclipes dinâmicos com movimento realista e estilo cinematográfico!"
+    },
+    "howToUse": {
+      "title": "Como usar Hailuo Image to Video",
+      "steps": [
+        {
+          "title": "Carregue a sua imagem",
+          "content": "Selecione a foto, ilustração ou obra de arte que pretende animar. O Hailuo suporta formatos JPG, PNG e WebP até 10 MB."
+        },
+        {
+          "title": "Adicione o seu prompt de animação",
+          "content": "Descreva o movimento que deseja – zoom da câmara, panorâmica, movimento do personagem ou efeitos ambientes. Forneça detalhes como velocidade, direção ou tom para obter os melhores resultados."
+        },
+        {
+          "title": "Gere o seu vídeo",
+          "content": "Clique em “Animar” e deixe o algoritmo de IA de imagem para vídeo criar um vídeo suave. Visualize o seu clipe e ajuste as configurações, se necessário."
+        },
+        {
+          "title": "Descarregue e partilhe",
+          "content": "Guarde o seu ficheiro de vídeo em alta resolução e partilhe-o nas redes sociais, incorpore-o nos seus projetos ou utilize-o para campanhas de marketing."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Por que usar Hailuo Image to Video?",
+      "description": "Descubra as vantagens de usar a nossa ferramenta de animação de imagem com IA para converter imagens estáticas em conteúdo de vídeo envolvente.",
+      "features": [
+        {
+          "title": "Animação de imagem perfeita",
+          "content": "Transforme qualquer imagem estática num vídeo dinâmico com efeitos de movimento orientados por IA — sem necessidade de *keyframing* manual.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Conversor com tecnologia de IA",
+          "content": "Aproveite as redes neurais de última geração, treinadas em milhões de fotogramas, para gerar animações realistas automaticamente.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Fluxo de trabalho intuitivo",
+          "content": "Não são necessárias habilidades técnicas ou de animação — basta carregar, descrever o efeito e clicar para criar o seu vídeo.",
+          "icon": "👌"
+        },
+        {
+          "title": "Resultados rápidos",
+          "content": "Gere videoclipes de alta qualidade em segundos, acelerando a criação de conteúdo e reduzindo o tempo de produção.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Saída versátil",
+          "content": "Exporte vídeos em formatos HD prontos para redes sociais, sites, apresentações e muito mais.",
+          "icon": "✨"
+        },
+        {
+          "title": "Aumente o envolvimento",
+          "content": "Capture a atenção com visuais em movimento que superam as imagens estáticas em *feeds* sociais e materiais de *marketing*.",
+          "icon": "📈"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes sobre Hailuo Image to Video",
+      "description": "Encontre respostas para perguntas comuns sobre o uso do Hailuo Image to Video para animação de imagem perfeita.",
+      "q1": "Que formatos o Hailuo Image to Video suporta?",
+      "a1": "O Hailuo aceita formatos de imagem comuns como JPG, PNG e WebP. Para obter melhores resultados, utilize imagens de alta resolução com detalhes nítidos.",
+      "q2": "Quanto tempo demora a gerar um vídeo?",
+      "a2": "A maioria dos vídeos fica pronta em 5 a 10 segundos, graças ao processamento otimizado por IA e aos servidores na nuvem.",
+      "q3": "Posso personalizar o estilo de animação?",
+      "a3": "Sim. Pode especificar movimentos de câmara (panorâmica, zoom, inclinação), velocidade de movimento e efeitos como paralaxe 3D ou movimentos subtis de personagem.",
+      "q4": "Preciso de experiência em animação?",
+      "a4": "Não. A interface intuitiva do Hailuo e os algoritmos de IA tornam a criação de vídeo acessível a todos, de iniciantes a profissionais.",
+      "q5": "Os vídeos gerados são isentos de direitos de autor?",
+      "a5": "Todos os vídeos que criar com o Hailuo são liberados para uso pessoal e comercial, de acordo com os nossos termos de serviço.",
+      "q6": "Posso animar várias imagens num projeto?",
+      "a6": "Absolutamente. Carregue uma série de imagens para criar um vídeo com várias cenas ou uma animação de *storyboard*.",
+      "q7": "Existe um limite de tamanho para os carregamentos?",
+      "a7": "Cada imagem deve ter menos de 10 MB. Para projetos maiores, otimize os seus ficheiros ou divida-os em lotes menores.",
+      "q8": "Como começo?",
+      "a8": "Basta clicar em “Carregar”, selecionar a sua imagem, adicionar um *prompt* e clicar em “Animar”. É simples assim!"
+    }
+  },
+  "originalKeyword": "Hailuo Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modelo: Hailuo",
+      "description": "Prompt: A cute little rabbit with dragonfly wings flies in the blue sky.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/38.webm"
+    },
+    {
+      "id": 2,
+      "title": "Modelo: Hailuo",
+      "description": "Prompt: A blue furry creature in the scene is constantly stirring a steaming pot of soup. Then, the blue creature blows on the pot, causing the soup in the bowl in front of it to freeze into a block of ice.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/26.webm"
+    },
+    {
+      "id": 3,
+      "title": "Modelo: Hailuo",
+      "description": "Prompt: In the scene, a small dog emits a blue light from its eyes. The messy clothes in front of the dog also begin to glow blue and slowly float into the air, folding neatly on their own before landing in front of the dog. Afterward, the blue light in the dog's eyes fades away.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/25.webm"
+    },
+    {
+      "id": 4,
+      "title": "Modelo: Hailuo",
+      "description": "Prompt: A cat in the scene runs quickly toward the camera, with white electric sparks emanating from its eyes. Its entire body becomes surrounded by electricity as it runs faster and faster. The scenery on both sides rushes backward rapidly, creating motion blur that transforms into a glowing white time tunnel.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/27.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "MINIMAX"
+}

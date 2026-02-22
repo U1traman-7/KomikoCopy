@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "表情包制作器",
+      "description": "使用我们的表情包制作器，通过AI技术轻松生成个性化表情包。将您的照片转化为独一无二的艺术表情，免费试用，尽情展现您的个性风采！",
+      "keywords": "表情包制作器, AI生成表情包, AI表情包生成器, AI驱动的艺术风格转换, 独特表情包生成器, 艺术表情包, 数字头像生成器"
+    },
+    "hero": {
+      "title": "表情包制作器"
+    },
+    "whatIs": {
+      "title": "什么是表情包制作器？",
+      "description": "表情包制作器是一款专为将您的照片转化为引人入胜的艺术表情而设计的工具。它利用先进的AI算法分析和优化您的图像，并应用充满乐趣和动态情感的滤镜效果。无论您是想创建个性化头像、数字贴纸，还是富有表现力的图形，表情包制作器都能将艺术创作过程简化至只需轻点几下即可完成。"
+    },
+    "examples": {
+      "title": "表情包制作器示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用表情包制作器",
+      "steps": [
+        {
+          "title": "步骤 1：上传您的照片",
+          "content": "选择并上传您想要转换为表情包的照片，支持JPG或PNG格式。"
+        },
+        {
+          "title": "步骤 2：选择Q版贴纸模板",
+          "content": "选择您喜欢的Q版贴纸模板，将您的照片转换为可爱的Q版风格。"
+        },
+        {
+          "title": "步骤 3：转换为 Q 版贴纸",
+          "content": "点击“转换为表情包”按钮，观看AI在瞬间将您的照片变成您所选择的风格。"
+        },
+        {
+          "title": "步骤 4：下载并分享您的创作",
+          "content": "确认效果满意后，即可下载您的表情包并在社交媒体上分享，或将其应用于您的数字项目中。"
+        }
+      ],
+      "subtitle": "以下是快速创建您的自定义表情包的步骤。"
+    },
+    "benefits": {
+      "title": "为什么选择表情包制作器 AI 生成器？",
+      "description": "探索专为您的创意需求量身定制的优势。",
+      "features": [
+        {
+          "title": "🎉 快速有趣的创作体验",
+          "content": "在几分钟内创建独一无二的表情包，为您的创意项目增添活力。"
+        },
+        {
+          "title": "✨ 独具特色的表情包风格",
+          "content": "丰富的表达方式和主题供您选择，确保您的表情包与您一样独特。"
+        },
+        {
+          "title": "📷 高品质的生成结果",
+          "content": "获得适用于任何平台的高分辨率表情包，确保在打印和数字设计中都能保持出色的质量。"
+        },
+        {
+          "title": "🔄 广泛的应用场景",
+          "content": "从数字贴纸到游戏头像，表情包制作器能够满足您多样化的艺术需求。"
+        },
+        {
+          "title": "🤖 由先进 AI 提供支持",
+          "content": "体验我们强大的AI技术所带来的无缝照片转换，生成专业品质的表情包。"
+        },
+        {
+          "title": "🌟 加入创意社区",
+          "content": "与创作者们交流互动，分享您的表情包作品，并在表情包制作器社区中汲取灵感。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "表情包制作器 FAQ",
+      "description": "",
+      "q1": "表情包制作器的风格转换包含什么？",
+      "a1": "表情包制作器的风格转换利用AI技术将您的照片转换为突显面部表情和艺术细节的表情图形。",
+      "q2": "如何从表情包制作器获得最佳效果？",
+      "a2": "为了获得最佳效果，请确保您的图像清晰，并尝试不同的风格以发现最引人注目的表情包选项。",
+      "q3": "使用表情包制作器是免费的吗？",
+      "a3": "是的，您可以免费使用我们的表情包制作器！同时，我们提供高级选项，让您体验更丰富的风格。",
+      "q4": "表情包制作器与其他图形滤镜有何不同？",
+      "a4": "表情包制作器的独特之处在于，它专注于创建能够反映艺术风格和个人情感的表情转换。",
+      "q5": "我可以在商业用途中使用我的表情包制作器作品吗？",
+      "a5": "您可以将您的表情包用于商业用途，但请根据您的订阅级别查看相关的使用条款。"
+    },
+    "cta": {
+      "title": "立即使用AI生成表情包，创作您的专属杰作",
+      "description": "加入我们的行列，通过表情包制作器释放您的艺术潜力。将您的照片转化为独一无二、充满活力的表情包，轻松表达您的个性风采。立即开始——它快速、简单且免费！",
+      "buttonText": "免费使用AI生成表情包"
+    }
+  },
+  "config": {},
+  "placeholderText": "Generate emotes with AI from your photo",
+  "originalKeyword": "Emote Maker",
+  "examples": [
+    {
+      "image": "/images/examples/playground/emote-maker/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Chibi"
+    }
+  ]
+}

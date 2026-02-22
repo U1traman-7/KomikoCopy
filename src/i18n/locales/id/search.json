@@ -1,0 +1,21 @@
+{
+  "title": "Pencarian",
+  "placeholder": "Cari karya, karakter, atau pengguna...",
+  "input_placeholder": "Cari",
+  "history": "Riwayat Pencarian",
+  "clear": "Hapus",
+  "tags": "Tag",
+  "no_results": "Tidak ada hasil ditemukan",
+  "filter": {
+    "all": "Semua",
+    "users": "Pengguna",
+    "characters": "Karakter",
+    "templates": "Templat",
+    "posts": "Postingan",
+    "tags": "Label"
+  },
+  "see_all": "Lihat Semua",
+  "followers": "Pengikut",
+  "follow": "Ikuti",
+  "following": "Mengikuti"
+}

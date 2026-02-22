@@ -1,0 +1,232 @@
+{
+  "moonvalley": {
+    "hero": {
+      "title": "Moonvalley AI: Công cụ tạo video AI",
+      "description": "Moonvalley AI đại diện cho tương lai của việc tạo video nhờ AI. Được phát triển bởi công ty nghiên cứu Moonvalley, công cụ đột phá này sở hữu Marey, mô hình tạo video thương mại an toàn đầu tiên trên thế giới. Biến hình ảnh tĩnh thành video điện ảnh ấn tượng với công nghệ tạo video AI tiên tiến nhất của Moonvalley, được thiết kế đặc biệt cho các nhà làm phim, nhà sáng tạo nội dung và nghệ sĩ kỹ thuật số."
+    },
+    "examples": {
+      "title": "Khám phá sức mạnh của Moonvalley AI",
+      "description": "Tìm hiểu sức mạnh mang tính cách mạng của công nghệ tạo video AI Moonvalley. Xem cách công cụ tiên tiến này tạo ra các video điện ảnh chuyên nghiệp với kỹ thuật quay phim đẳng cấp thế giới, hoàn toàn an toàn về mặt thương mại và khả năng kiểm soát chính xác đột phá.",
+      "cameraControl": {
+        "title": "Điều khiển máy quay",
+        "description": "Tạo các chuyển động máy quay đậm chất điện ảnh chỉ từ một hình ảnh. Biến bất kỳ cảnh 2D nào thành môi trường 3D."
+      },
+      "motionTransfer": {
+        "title": "Chuyển động",
+        "description": "Lấy chuyển động từ bất kỳ video tham khảo nào và áp dụng nó vào các đối tượng mới, đồng thời giữ nguyên nhịp độ và năng lượng."
+      },
+      "trajectoryControl": {
+        "title": "Điều khiển quỹ đạo",
+        "description": "Vẽ một quỹ đạo cho bất kỳ yếu tố nào và chứng kiến ý tưởng của bạn trở nên sống động với sự uyển chuyển điện ảnh."
+      },
+      "poseTransfer": {
+        "title": "Chuyển dáng",
+        "description": "Sử dụng hình ảnh tham khảo hoặc dữ liệu hiệu suất để định hướng thời gian và ý định, tạo ra kết quả biểu cảm và chính xác."
+      },
+      "naturalPhysics": {
+        "title": "Vật lý tự nhiên",
+        "description": "Các đối tượng di chuyển với trọng lượng và nhịp độ đáng tin cậy, tuân theo vật lý thế giới thực - trông như được quay, chứ không phải được tạo ra."
+      },
+      "dynamicMotion": {
+        "title": "Chuyển động động",
+        "description": "Đột phá trong chuyển động với sự uyển chuyển điện ảnh được thiết kế cho những thước phim khắt khe nhất."
+      }
+    },
+    "videoFallback": {
+      "cameraControl": "Demo Điều khiển Máy quay",
+      "motionTransfer": "Demo Chuyển động",
+      "trajectoryControl": "Demo Điều khiển Quỹ đạo",
+      "poseTransfer": "Demo Chuyển Dáng",
+      "naturalPhysics": "Demo Vật lý Tự nhiên",
+      "dynamicMotion": "Demo Chuyển động Động"
+    },
+    "whatIs": {
+      "title": "Moonvalley AI là gì?",
+      "description": "Moonvalley là công ty nghiên cứu hàng đầu về công nghệ tạo video AI. Được thành lập như một tổ chức tập trung vào nghiên cứu, Moonvalley phát triển các mô hình AI đột phá, vượt qua giới hạn của những gì có thể trong việc tạo video. Mô hình hàng đầu của họ, Marey, là công cụ tạo video thương mại an toàn đầu tiên trên thế giới, được đào tạo độc quyền trên các cảnh quay được cấp phép để đảm bảo tuân thủ pháp luật hoàn toàn cho mục đích sử dụng chuyên nghiệp. Sứ mệnh của Moonvalley là dân chủ hóa việc tạo video, đồng thời duy trì các tiêu chuẩn cao nhất về chất lượng và an toàn thương mại."
+    },
+    "benefits": {
+      "title": "Tại sao nên sử dụng Moonvalley AI?",
+      "description": "Khám phá những lợi ích vượt trội khi sử dụng Moonvalley AI cho các dự án sáng tạo của bạn. Công cụ tạo video AI mang tính cách mạng này dân chủ hóa quy trình sản xuất video chuyên nghiệp, giúp sức mạnh của Moonvalley AI trở nên dễ tiếp cận hơn với các nhà sáng tạo, nhà làm phim và doanh nghiệp trên toàn thế giới.",
+      "features": {
+        "aiTechnology": {
+          "title": "Công nghệ video AI mang tính cách mạng",
+          "content": "Khai thác sức mạnh của trí tuệ nhân tạo tiên tiến và các thuật toán máy học của Moonvalley. Công cụ tạo video AI phân tích dữ liệu đầu vào sáng tạo của bạn và tạo ra các video chất lượng điện ảnh với độ chính xác và chi tiết chưa từng có."
+        },
+        "cinematicQuality": {
+          "title": "Chất lượng điện ảnh chuyên nghiệp",
+          "content": "Tạo video chất lượng phát sóng với hiệu ứng hình ảnh tuyệt đẹp và đồ họa chuyển động mượt mà. Moonvalley AI mang lại kết quả cấp chuyên nghiệp, phù hợp cho các ứng dụng thương mại và nghệ thuật."
+        },
+        "intuitive": {
+          "title": "Quy trình tạo video trực quan",
+          "content": "Không yêu cầu kiến thức chuyên môn! Chỉ cần cung cấp tầm nhìn sáng tạo của bạn và Moonvalley AI sẽ tự động xử lý quy trình tạo video phức tạp, giúp mọi người có thể tiếp cận được việc sản xuất video chuyên nghiệp."
+        },
+        "accelerated": {
+          "title": "Tăng tốc thời gian sản xuất",
+          "content": "Giảm đáng kể thời gian sản xuất video từ hàng tuần xuống còn vài phút. Moonvalley AI hợp lý hóa toàn bộ quy trình làm việc sáng tạo, cho phép lặp lại nhanh chóng và kết quả ngay lập tức cho nhà sáng tạo nội dung."
+        },
+        "superiorOutput": {
+          "title": "Chất lượng đầu ra video vượt trội",
+          "content": "Đạt được kết quả video độ nét cao vượt trội với động lực chuyển động thực tế và hiệu ứng hình ảnh điện ảnh. Công nghệ AI đảm bảo chất lượng nhất quán và hoạt ảnh cấp chuyên nghiệp trong mọi video được tạo."
+        },
+        "limitless": {
+          "title": "Khả năng sáng tạo vô hạn",
+          "content": "Tập trung hoàn toàn vào tầm nhìn nghệ thuật của bạn trong khi Moonvalley AI quản lý các phức tạp kỹ thuật của sản xuất video. Tạo các biến thể không giới hạn và khám phá các hướng sáng tạo đa dạng một cách dễ dàng."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "Cách sử dụng Moonvalley AI",
+      "steps": {
+        "step1": {
+          "title": "Tải lên nội dung sáng tạo của bạn",
+          "content": "Bắt đầu bằng cách tải lên hình ảnh, tác phẩm nghệ thuật hoặc ý tưởng hình ảnh của bạn. Dù đó là nhân vật anime, hình minh họa manga hay bảng truyện tranh, Moonvalley AI đều có thể biến nó thành nội dung video động."
+        },
+        "step2": {
+          "title": "Tạo lời nhắc video của bạn",
+          "content": "Mô tả kết quả video mong muốn của bạn bằng các lời nhắc chi tiết. Chỉ định chuyển động, kỹ thuật quay phim, phong cách hình ảnh hoặc các yếu tố tường thuật bạn muốn công cụ tạo video AI tạo ra."
+        },
+        "step3": {
+          "title": "Tạo video AI của bạn",
+          "content": "Nhấp vào nút 'Tạo hoạt ảnh' và xem Moonvalley AI thực hiện phép thuật của nó. Công nghệ AI tiên tiến sẽ xử lý dữ liệu đầu vào của bạn và tạo ra một video điện ảnh chuyên nghiệp."
+        },
+        "step4": {
+          "title": "Tải xuống và xuất bản",
+          "content": "Tải xuống video do AI tạo của bạn và chia sẻ nó trên các nền tảng! Lý tưởng cho nội dung truyền thông xã hội, chiến dịch tiếp thị, dự án sáng tạo và bản trình bày chuyên nghiệp."
+        }
+      }
+    },
+    "faqSection": {
+      "title": "Câu hỏi thường gặp về Moonvalley AI",
+      "description": "Nhận câu trả lời cho các câu hỏi thường gặp về công nghệ thương mại an toàn của Moonvalley AI, khả năng của mô hình Marey và cách bắt đầu với công cụ tạo video AI mang tính cách mạng này để tạo video chuyên nghiệp."
+    },
+    "faq": {
+      "question1": "Điều gì làm cho Moonvalley AI khác biệt so với các công cụ tạo video AI khác?",
+      "answer1": "Moonvalley AI là công cụ tạo video AI an toàn về mặt thương mại đầu tiên trên thế giới. Không giống như các công cụ tạo video AI khác được đào tạo trên nội dung thu thập được, mô hình Marey của Moonvalley AI được đào tạo độc quyền trên các cảnh quay độ phân giải cao, được cấp phép với sự hợp tác của Asteria. Điều này có nghĩa là không có vùng xám pháp lý, không có rủi ro về bản quyền và hoàn toàn an toàn về mặt thương mại cho mục đích sử dụng chuyên nghiệp.",
+      "question2": "Marey là gì và nó hoạt động như thế nào?",
+      "answer2": "Marey là mô hình AI hàng đầu của Moonvalley, cung cấp năng lượng cho công nghệ tạo video của họ. Đây là một hệ thống nhận biết 3D đột phá, hiểu các mối quan hệ không gian, ánh sáng và chuyển động. Marey có thể tạo cả nội dung từ hình ảnh sang video và từ văn bản sang video với chất lượng điện ảnh, cung cấp các điều khiển chính xác như chuyển động máy quay, chuyển động và điều khiển quỹ đạo.",
+      "answer3": "Moonvalley cung cấp những điều khiển cụ thể nào?",
+      "question3": "Moonvalley cung cấp các điều khiển cấp chuyên nghiệp bao gồm: Điều khiển Máy quay (tạo chuyển động máy quay điện ảnh từ một hình ảnh), Chuyển động (áp dụng chuyển động từ video tham khảo cho các đối tượng mới), Điều khiển Quỹ đạo (vẽ đường dẫn cho chuyển động của đối tượng), Chuyển Dáng (hướng dẫn thời gian và ý định với dữ liệu tham khảo) và ánh sáng nâng cao với mô phỏng vật lý tự nhiên.",
+      "question4": "Tôi có thể sử dụng Moonvalley cho các dự án thương mại không?",
+      "answer4": "Có! Moonvalley được thiết kế đặc biệt cho mục đích sử dụng thương mại. Vì Marey chỉ được đào tạo trên các cảnh quay được cấp phép mà không có nội dung thu thập được, bạn có thể sử dụng các video được tạo cho mục đích kinh doanh, tiếp thị, sản xuất phim và bất kỳ ứng dụng thương mại nào mà không cần lo lắng về bản quyền. Điều này làm cho nó trở thành giải pháp video AI duy nhất thực sự sẵn sàng cho sản xuất cho mục đích sử dụng chuyên nghiệp.",
+      "question5": "Làm cách nào để truy cập Moonvalley AI?",
+      "answer5": "Bạn có thể truy cập Moonvalley AI thông qua ứng dụng web của họ để thử các khả năng mạnh mẽ của Marey. Đối với các nhà phát triển và doanh nghiệp, API của Moonvalley AI đang được phát triển (hiện đang trong danh sách chờ). Moonvalley AI cũng cung cấp Marey Realism gốc trong ComfyUI để tích hợp quy trình làm việc. Hãy truy cập trang web của họ để bắt đầu với Moonvalley AI hoặc tham gia cộng đồng Discord của họ để biết thông tin cập nhật.",
+      "question6": "Tôi có thể mong đợi những định dạng và chất lượng nào?",
+      "answer6": "Moonvalley tạo ra các video độ nét cao với chất lượng cấp phòng thu. Hệ thống được đào tạo trên các cảnh quay điện ảnh, vì vậy mọi khung hình đều ghi lại các kết cấu mịn, các cạnh sắc nét và độ tương phản phong phú mà không có artefakt. Video duy trì các tiêu chuẩn chuyên nghiệp phù hợp cho các thước phim khắt khe và các ứng dụng thương mại.",
+      "question7": "Những khả năng và hạn chế hiện tại là gì?",
+      "answer7": "Moonvalley vượt trội trong việc tạo nội dung điện ảnh chuyên nghiệp với vật lý tự nhiên, ánh sáng nâng cao và điều khiển chuyển động chính xác. Mặc dù nó xử lý tốt các cảnh phức tạp, nhưng các bố cục có độ chi tiết cao có thể yêu cầu thêm thời gian xử lý. Ưu điểm chính là không có giới hạn pháp lý - không giống như các công cụ tạo video AI khác, không có rủi ro về bản quyền do dữ liệu đào tạo sạch."
+    }
+  },
+  "marey": {
+    "hero": {
+      "title": "Marey AI: Công cụ tạo video AI",
+      "description": "Marey là mô hình AI nền tảng của Moonvalley, công cụ tạo video thương mại an toàn đầu tiên trên thế giới, được xây dựng để đáp ứng các tiêu chuẩn của kỹ thuật quay phim đẳng cấp thế giới. Được thiết kế đặc biệt cho các nhà làm phim và nhà sáng tạo nội dung, Marey biến hình ảnh tĩnh thành video điện ảnh chuyên nghiệp chỉ sử dụng các cảnh quay độ phân giải cao, được cấp phép - không có nội dung thu thập được, không có vùng xám pháp lý."
+    },
+    "examples": {
+      "title": "Ví dụ về tạo video AI Marey",
+      "description": "Trải nghiệm sức mạnh của việc tạo video cấp sản xuất của Marey. Xem cách mô hình video AI an toàn về mặt thương mại đầu tiên trên thế giới biến tầm nhìn sáng tạo thành hiện thực điện ảnh với độ chính xác trong mọi khung hình.",
+      "cameraControl": {
+        "title": "Điều khiển máy quay",
+        "description": "Tạo các chuyển động máy quay đậm chất điện ảnh chỉ từ một hình ảnh. Marey biến bất kỳ cảnh 2D nào thành môi trường 3D."
+      },
+      "motionTransfer": {
+        "title": "Chuyển động",
+        "description": "Lấy chuyển động từ bất kỳ video tham khảo nào và áp dụng nó vào các đối tượng mới, đồng thời giữ nguyên nhịp độ và năng lượng."
+      },
+      "trajectoryControl": {
+        "title": "Điều khiển quỹ đạo",
+        "description": "Vẽ một quỹ đạo cho bất kỳ yếu tố nào và chứng kiến ý tưởng của bạn trở nên sống động với sự uyển chuyển điện ảnh."
+      },
+      "keyframing": {
+        "title": "Khung hình chính",
+        "description": "Tải lên nhiều hình ảnh tham khảo và đặt chúng trên dòng thời gian. Marey tạo ra các chuyển đổi mượt mà, tự nhiên."
+      },
+      "referenceControl": {
+        "title": "Điều khiển tham chiếu",
+        "description": "Sử dụng hình ảnh tham khảo riêng biệt cho từng nhân vật hoặc đối tượng, đồng thời giữ nguyên độ sâu, ánh sáng và vật lý."
+      },
+      "poseControl": {
+        "title": "Điều khiển dáng",
+        "description": "Sử dụng hình ảnh hoặc video tham khảo để định hướng thời gian và ý định, tạo ra kết quả mang lại cảm giác biểu cảm và chính xác."
+      }
+    },
+    "videoFallback": {
+      "cameraControl": "Demo Điều khiển Máy quay",
+      "motionTransfer": "Demo Chuyển động",
+      "trajectoryControl": "Demo Điều khiển Quỹ đạo",
+      "keyframing": "Demo Khung hình chính",
+      "referenceControl": "Demo Điều khiển Tham chiếu",
+      "poseControl": "Demo Điều khiển Dáng"
+    },
+    "whatIs": {
+      "title": "Marey là gì?",
+      "description": "Marey là mô hình AI nền tảng của Moonvalley, được phát triển hợp tác với Asteria, đại diện cho mô hình tạo video thương mại an toàn đầu tiên trên thế giới. Không giống như các công cụ tạo video AI khác được đào tạo trên nội dung thu thập được, Marey được đào tạo độc quyền trên các cảnh quay độ phân giải cao, được cấp phép, đảm bảo an toàn thương mại và tuân thủ pháp luật hoàn toàn. Mô hình đột phá này cung cấp kỹ thuật quay phim đẳng cấp thế giới với độ chính xác trong mọi khung hình, cung cấp cho các nhà làm phim và nhà sáng tạo nội dung các công cụ cấp sản xuất và khả năng kiểm soát đạo diễn trước đây không có sẵn trong việc tạo video AI."
+    },
+    "benefits": {
+      "title": "Tại sao nên sử dụng Marey AI?",
+      "description": "Khám phá những lợi thế của việc sử dụng Marey AI để tạo video chất lượng điện ảnh cho các dự án anime, manga và truyện tranh của bạn. Công nghệ nhận biết 3D tiên tiến của chúng tôi giúp mọi người có thể tiếp cận được việc sản xuất video chuyên nghiệp!",
+      "features": {
+        "awareness3D": {
+          "title": "Tạo video nhận biết 3D",
+          "content": "Trải nghiệm công nghệ nhận biết 3D tiên tiến, hiểu các mối quan hệ không gian và động lực chuyển động. Marey AI tạo ra các video với chuyển động máy quay thực tế và chất lượng điện ảnh chuyên nghiệp."
+        },
+        "commercialSafe": {
+          "title": "Sản xuất an toàn về mặt thương mại",
+          "content": "Tạo video một cách tự tin bằng mô hình AI được cấp phép, được đào tạo một cách có đạo đức của chúng tôi. Tất cả nội dung được tạo đều an toàn về mặt thương mại và tuân thủ pháp luật cho mục đích sử dụng chuyên nghiệp."
+        },
+        "motionControl": {
+          "title": "Điều khiển chuyển động chuyên nghiệp",
+          "content": "Không cần kinh nghiệm sản xuất video! Chỉ cần tải lên hình ảnh của bạn, xác định tầm nhìn của bạn và để Marey AI xử lý việc tạo chuyển động phức tạp và điều khiển máy quay."
+        },
+        "rapidProduction": {
+          "title": "Quy trình sản xuất nhanh chóng",
+          "content": "Tăng tốc đáng kể quy trình tạo video của bạn. Marey AI tạo ra các video chất lượng chuyên nghiệp trong vài phút, loại bỏ hàng giờ làm việc sản xuất video truyền thống."
+        },
+        "studioGrade": {
+          "title": "Chất lượng đầu ra cấp phòng thu",
+          "content": "Đạt được kết quả tiêu chuẩn ngành công nghiệp phim với đầu ra độ nét cao. Marey AI đảm bảo chuyển tiếp chuyển động mượt mà, vật lý thực tế và hiệu ứng ánh sáng điện ảnh."
+        },
+        "creativeFreedom": {
+          "title": "Giải phóng tự do sáng tạo",
+          "content": "Tập trung vào tầm nhìn nghệ thuật của bạn trong khi Marey AI xử lý các phức tạp kỹ thuật của sản xuất video. Tạo nội dung điện ảnh tuyệt đẹp với khả năng kiểm soát sáng tạo chưa từng có."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "Cách sử dụng Marey AI",
+      "steps": {
+        "step1": {
+          "title": "Tải lên nội dung sáng tạo của bạn",
+          "content": "Tải lên hình ảnh bạn muốn chuyển đổi thành video. Dù đó là nhân vật anime, hình minh họa manga hay tác phẩm nghệ thuật truyện tranh, Marey AI có thể tạo ra chuyển động điện ảnh với chất lượng chuyên nghiệp."
+        },
+        "step2": {
+          "title": "Xác định tầm nhìn chuyển động của bạn",
+          "content": "Cung cấp các lời nhắc chi tiết để hướng dẫn việc tạo video. Mô tả chuyển động máy quay, hành động của nhân vật hoặc hiệu ứng điện ảnh bạn muốn Marey AI tạo ra."
+        },
+        "step3": {
+          "title": "Tạo video điện ảnh",
+          "content": "Nhấp vào nút 'Tạo hoạt ảnh' và xem Marey AI thực hiện phép thuật của nó. Trải nghiệm cách hình ảnh tĩnh của bạn biến thành video động, được điều khiển bằng chuyển động."
+        },
+        "step4": {
+          "title": "Tải xuống và phân phối",
+          "content": "Tải xuống video được tạo chuyên nghiệp của bạn và chia sẻ nó trên các nền tảng! Hoàn hảo cho các dự án thương mại, phương tiện truyền thông xã hội và bản trình bày chuyên nghiệp."
+        }
+      }
+    },
+    "faqSection": {
+      "title": "Câu hỏi thường gặp về Marey AI",
+      "description": "Nắm vững mọi thứ về việc tạo video điện ảnh chuyên nghiệp với Marey AI cho các dự án thương mại và sáng tạo."
+    },
+    "faq": {
+      "question1": "Marey AI là gì?",
+      "answer1": "Marey là mô hình AI nền tảng của Moonvalley và là công cụ tạo video an toàn về mặt thương mại đầu tiên trên thế giới. Được phát triển hợp tác với Asteria, Marey được đào tạo độc quyền trên các cảnh quay độ phân giải cao, được cấp phép - không có nội dung thu thập được, không có nội dung do người dùng gửi, không có vùng xám pháp lý. Mô hình đột phá này được thiết kế đặc biệt cho các nhà làm phim và nhà sáng tạo nội dung cần tạo video cấp thương mại với các tiêu chuẩn quay phim đẳng cấp thế giới, độ chính xác trong mọi khung hình và tuân thủ pháp luật hoàn toàn cho mục đích sử dụng chuyên nghiệp.",
+      "question2": "Việc tạo video an toàn về mặt thương mại của Marey hoạt động như thế nào?",
+      "answer2": "Marey tận dụng kiến trúc AI tiên tiến của Moonvalley, được đào tạo độc quyền trên các cảnh quay độ phân giải cao, được cấp phép để đảm bảo an toàn thương mại hoàn toàn. Mô hình này phân tích hình ảnh đầu vào của bạn và tạo ra các chuỗi video chuyên nghiệp với các tiêu chuẩn quay phim đẳng cấp thế giới, mang lại độ chính xác trong mọi khung hình. Không giống như các công cụ tạo video AI khác dựa vào nội dung thu thập được, việc đào tạo của Marey chỉ trên dữ liệu được cấp phép giúp loại bỏ các rủi ro pháp lý đồng thời cung cấp cho các nhà làm phim các công cụ cấp sản xuất và khả năng kiểm soát đạo diễn.",
+      "answer3": "Marey được thiết kế đặc biệt cho các nhà làm phim và nhà sáng tạo nội dung cần tạo video cấp thương mại. Các lợi ích chính bao gồm: mô hình video an toàn về mặt thương mại đầu tiên trên thế giới không có rủi ro pháp lý, được đào tạo độc quyền trên các cảnh quay độ phân giải cao, được cấp phép, cung cấp các công cụ cấp sản xuất và khả năng kiểm soát đạo diễn, mang lại kỹ thuật quay phim đẳng cấp thế giới với độ chính xác trong mọi khung hình, loại bỏ sự không chắc chắn của việc đào tạo nội dung thu thập được và cung cấp sự tuân thủ pháp luật hoàn toàn cho mục đích sử dụng chuyên nghiệp và thương mại.",
+      "answer4": "Chắc chắn rồi! Marey là công cụ tạo video an toàn về mặt thương mại đầu tiên trên thế giới, được thiết kế đặc biệt cho mục đích sử dụng thương mại. Được đào tạo độc quyền trên các cảnh quay độ phân giải cao, được cấp phép mà không có nội dung thu thập được, không có nội dung do người dùng gửi và không có vùng xám pháp lý, Marey loại bỏ các rủi ro về bản quyền liên quan đến các công cụ tạo video AI khác. Điều này làm cho nó trở thành lựa chọn lý tưởng cho các nhà làm phim, hãng phim và nhà sáng tạo nội dung cần tuân thủ pháp luật hoàn toàn cho các dự án chuyên nghiệp và thương mại.",
+      "answer5": "Marey AI hỗ trợ các định dạng hình ảnh tiêu chuẩn bao gồm JPG và PNG. Để có kết quả điện ảnh tối ưu, hãy sử dụng hình ảnh có độ phân giải cao với định nghĩa chủ thể rõ ràng. AI hoạt động tốt nhất với các nhân vật và tác phẩm nghệ thuật được xác định rõ ràng, dịch hiệu quả sang chuyển động video.",
+      "answer6": "Marey được thiết kế cho các nhà làm phim chuyên nghiệp và nhà sáng tạo nội dung làm việc với nội dung hình ảnh đa dạng. Mô hình này vượt trội với hình ảnh chất lượng cao, tác phẩm nghệ thuật nhân vật, nghệ thuật ý tưởng, bảng phân cảnh và tài liệu tham khảo trực quan. Bởi vì Marey được đào tạo trên các cảnh quay độ phân giải cao, được cấp phép, nó mang lại kết quả quay phim đẳng cấp thế giới trên nhiều loại nội dung khác nhau, từ anime và manga đến hình ảnh thực tế, luôn duy trì an toàn thương mại và tuân thủ pháp luật.",
+      "answer7": "Mặc dù Marey được thiết kế để dễ tiếp cận, nhưng nó được xây dựng đặc biệt cho các nhà làm phim và nhà sáng tạo nội dung cần các công cụ cấp chuyên nghiệp. Mô hình này cung cấp khả năng kiểm soát đạo diễn và khả năng cấp sản xuất trong khi vẫn duy trì hoạt động thân thiện với người dùng. Cho dù bạn là một nhà làm phim có kinh nghiệm hay một người sáng tạo nội dung, Marey đều cung cấp độ chính xác và khả năng kiểm soát cần thiết cho kỹ thuật quay phim đẳng cấp thế giới mà không có các rủi ro pháp lý của các công cụ tạo video AI khác.",
+      "answer8": "Mặc dù Marey đại diện cho một bước đột phá trong việc tạo video an toàn về mặt thương mại, nhưng nó vẫn duy trì các cân nhắc kỹ thuật tương tự như các mô hình video AI nâng cao khác. Các cảnh phức tạp với các bố cục có độ chi tiết cao có thể yêu cầu thêm thời gian xử lý để có kết quả tối ưu. Tuy nhiên, không giống như các công cụ tạo video AI khác, việc đào tạo của Marey trên các cảnh quay được cấp phép độc quyền đảm bảo không có giới hạn pháp lý hoặc rủi ro bản quyền, làm cho nó trở thành mô hình video AI duy nhất thực sự sẵn sàng cho sản xuất cho mục đích sử dụng thương mại."
+    }
+  }
+}

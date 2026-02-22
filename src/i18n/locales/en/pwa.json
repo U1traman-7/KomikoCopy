@@ -1,0 +1,17 @@
+{
+  "install": {
+    "title": "Install KomikoAI",
+    "description": "Add to your home screen for a better experience",
+    "instruction": "Tap Share then Add to Home Screen",
+    "install_button": "Install",
+    "android_instruction": "Tap the install button above",
+    "dismiss": "Later",
+    "step1": "Tap the Share button",
+    "step2": "Select \"Add to Home Screen\"",
+    "android_step1": "Tap the browser menu (⋮)",
+    "android_step2": "Select \"Add to Home Screen\"",
+    "android_note": "You can access KomikoAI faster from your home screen!",
+    "ios_note": "You can access KomikoAI faster from your home screen!",
+    "got_it": "Got it!"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Image to Animation Video - KomikoAI",
+      "description": "Transform your static images into stunning animated videos with AI. Create lifelike animations from photos, artwork, and illustrations in seconds.",
+      "keywords": "image to animation, AI animation generator, photo animation, image to video, AI video creator"
+    },
+    "hero": {
+      "title": "AI Image Animation Generator",
+      "subtitle": "Transform static images into dynamic animated videos with AI-powered technology"
+    },
+    "whatIs": {
+      "title": "What is Image Animation?",
+      "description": "Image Animation is an AI-powered technology that transforms static images into dynamic, lifelike videos. Our advanced AI analyzes your photos, artwork, and illustrations to create natural movements, breathing effects, and subtle animations that bring your images to life with captivating motion."
+    },
+    "howToUse": {
+      "title": "How to Create Image Animations",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Select and upload the photo, artwork, or illustration you want to animate"
+        },
+        {
+          "title": "Describe the Animation",
+          "content": "Write a prompt describing the type of movement you want to see in your image"
+        },
+        {
+          "title": "Choose Settings",
+          "content": "Select animation duration, style, and quality preferences for your video"
+        },
+        {
+          "title": "Generate & Download",
+          "content": "Let AI create your animated video and download the result in high quality"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Our Image Animation Generator?",
+      "description": "Create professional animated content from static images without complex software or animation skills",
+      "features": [
+        {
+          "title": "AI-Powered Animation",
+          "content": "Advanced AI technology creates natural, lifelike movements from any static image",
+          "icon": "🤖"
+        },
+        {
+          "title": "Multiple Image Types",
+          "content": "Works with photos, digital art, illustrations, portraits, and various image formats",
+          "icon": "🖼️"
+        },
+        {
+          "title": "Natural Movement",
+          "content": "Generate realistic breathing, blinking, hair movement, and subtle facial animations",
+          "icon": "💫"
+        },
+        {
+          "title": "High Quality Output",
+          "content": "Create smooth, professional-quality animated videos up to 1080p resolution",
+          "icon": "⭐"
+        },
+        {
+          "title": "Easy to Use",
+          "content": "Simple upload and generate process - no animation experience required",
+          "icon": "✨"
+        },
+        {
+          "title": "Fast Processing",
+          "content": "Transform your images into animations in minutes, not hours",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Image Animation Generator FAQ",
+      "description": "Common questions about creating animations from static images",
+      "q1": "What types of images work best for animation?",
+      "a1": "High-quality images with clear subjects work best. Photos, digital art, portraits, and illustrations all produce excellent results when they have good resolution and distinct features.",
+      "q2": "How long can the animated videos be?",
+      "a2": "You can create animations ranging from 5 to 10 seconds long, which is perfect for social media content, presentations, and engaging visual displays.",
+      "q3": "What animation effects can I create?",
+      "a3": "Our AI can generate various effects including breathing animations, eye blinking, hair movement, facial expressions, and environmental effects like flowing water or moving clouds.",
+      "q4": "What image formats are supported?",
+      "a4": "We support common image formats including JPG, PNG, and WEBP files up to 10MB in size for optimal processing and animation quality.",
+      "q5": "How realistic do the animations look?",
+      "a5": "Our AI creates natural-looking animations that enhance your images without making them look artificial. The movements are subtle and lifelike.",
+      "q6": "Can I control the animation style?",
+      "a6": "Yes, you can specify the type of animation you want through detailed prompts, choosing from realistic movements, artistic effects, or stylized animations."
+    }
+  },
+  "placeholderText": "A beautiful portrait with gentle breathing animation, subtle eye movement, and natural facial expressions",
+  "content": {
+    "header": {
+      "title": "AI Image Animation Generator",
+      "subtitle": "Transform your static images into captivating animated videos with AI"
+    },
+    "examples": [
+      {
+        "id": 1,
+        "title": "Model: Veo 3",
+        "description": "Prompt: A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+        "videoUrl": "/images/pages/veo3/example7.webm"
+      },
+      {
+        "id": 2,
+        "title": "Model: AniSora",
+        "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+        "videoUrl": "/images/pages/anisora/example3.webm"
+      },
+      {
+        "id": 3,
+        "title": "Model: Anime Pro",
+        "description": "Prompt: Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+      },
+      {
+        "id": 4,
+        "title": "Model: Marey",
+        "description": "Prompt: Motion Transfer - Advanced motion capture and animation techniques",
+        "videoUrl": "https://framerusercontent.com/assets/G6g5UNTx9dlKbMGdS8Iag4Xas.mp4"
+      },
+      {
+        "id": 5,
+        "title": "Model: Marey",
+        "description": "Prompt: Dynamic Motion - Fluid and dynamic character animation",
+        "videoUrl": "https://framerusercontent.com/assets/vgdQZ2zcFZsxMSqZv8s2kwwKJ8.mp4"
+      },
+      {
+        "id": 6,
+        "title": "Model: Anime Pro",
+        "description": "Prompt: The boy slowly lean in, gently holds the girl’s face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+      }
+    ]
+  },
+  "originalKeyword": "Image Animation Generator"
+}

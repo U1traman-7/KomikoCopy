@@ -1,0 +1,793 @@
+{
+  "ui": {
+    "title": "KI-Animationsgenerator",
+    "tooltip": "Verwandle deine statischen Bilder in fesselnde Animationen mit dem KI-Animationsgenerator",
+    "input": {
+      "title": "Eingabe",
+      "tooltip": "Laden Sie ein Bild zum Animieren hoch",
+      "prompt": {
+        "label": "Prompt",
+        "placeholder": "Beschreiben Sie, wie das Bild animiert werden soll..."
+      },
+      "model": {
+        "label": "KI-Modell",
+        "placeholder": "Modell auswählen",
+        "ariaLabel": "Animationsmodell auswählen"
+      },
+      "aspectRatio": {
+        "label": "Seitenverhältnis",
+        "placeholder": "Seitenverhältnis auswählen"
+      },
+      "duration": {
+        "label": "Dauer",
+        "placeholder": "Dauer auswählen",
+        "sections": "{{sections}} Sekunden"
+      },
+      "style": {
+        "label": "Stil",
+        "placeholder": "Stil auswählen",
+        "anime": "Anime",
+        "default": "Standard"
+      },
+      "resolution": {
+        "label": "Auflösung",
+        "placeholder": "Auflösung auswählen"
+      },
+      "ratio": "Seitenverhältnis",
+      "addEndFrame": "Endbild hinzufügen",
+      "startFrame": "Startbild",
+      "endFrame": "Endbild",
+      "image": {
+        "title": "Bild",
+        "description": "Laden Sie JPG/PNG/WEBP-Bilder bis zu 10 MB hoch, mit einer minimalen Breite/Höhe von 300px.",
+        "label": {
+          "required": "Referenz hinzufügen (erforderlich)",
+          "optional": "Referenz hinzufügen (optional)",
+          "image": "Bild hochladen (optional)",
+          "imageRequired": "Bild hochladen",
+          "more": "Weitere Referenz hinzufügen (optional)",
+          "endFrame": "Endbild hinzufügen (optional)",
+          "firstFrame": "Erstes Bild hinzufügen"
+        }
+      },
+      "addOC": "Charaktere hinzufügen",
+      "singleOCOnly": "Es ist nur ein Charakter erlaubt. Bitte verwenden Sie Vidu Q1, um mehrere Charaktere zu erstellen.",
+      "maxOCsReached": "Maximal {{max}} Charaktere sind erlaubt. Nur Vidu Q1 unterstützt mehrere Charaktere.",
+      "config": "Weiterführende Informationen"
+    },
+    "output": {
+      "title": "Animationsergebnisse",
+      "empty": {
+        "line1": "Ihre Animationsergebnisse werden hier angezeigt",
+        "line2": "Laden Sie ein Bild hoch und geben Sie einen Prompt ein, um loszulegen"
+      }
+    },
+    "deleteModal": {
+      "title": "Löschbestätigung",
+      "message": "Möchten Sie diese Animation wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+      "cancelButton": "Abbrechen",
+      "deleteButton": "Löschen"
+    },
+    "toasts": {
+      "deleteSuccess": "Löschen erfolgreich",
+      "deleteFailed": "Löschen fehlgeschlagen",
+      "generateSuccess": "Animation erfolgreich generiert",
+      "generateFailed": "Animation generieren fehlgeschlagen",
+      "downloadFailed": "Herunterladen fehlgeschlagen",
+      "fetchFailed": "Videos abrufen fehlgeschlagen",
+      "noZaps": "Bitte kaufen Sie weitere Zaps",
+      "generatingSticker": "Aufkleber wird erstellt...",
+      "stickerGenerated": "Aufkleber erfolgreich erstellt",
+      "stickerGeneratedFailed": "Erstellung des Aufklebers fehlgeschlagen",
+      "generatingStickerFailed": "Erstellung des Aufklebers fehlgeschlagen",
+      "imageTooSmall": "Bild ist zu klein. Die Mindestgröße beträgt 240x240 Pixel."
+    },
+    "modelOptions": {
+      "kling": {
+        "name": "Kling 1.6",
+        "description": "Realistischere Bewegungen",
+        "timeCost": "2min",
+        "fps": "30fps"
+      },
+      "minimax": {
+        "name": "Hailuo 02",
+        "description": "HD-Ausgaben mit visuell reichhaltigen Inhalten",
+        "timeCost": "3min",
+        "fps": "25fps"
+      },
+      "ray": {
+        "name": "Luma Ray 2",
+        "description": "Großes Modell für realistische Bilder",
+        "timeCost": "2min",
+        "fps": "24fps"
+      },
+      "pixverse": {
+        "name": "PixVerse v3.5",
+        "description": "Verbesserte Bewegung und Kohärenz",
+        "timeCost": "2min",
+        "fps": "30fps"
+      },
+      "veo": {
+        "name": "Veo3 (Google)",
+        "description": "Höchste Videoqualität",
+        "timeCost": "1min",
+        "fps": "24fps"
+      },
+      "wan": {
+        "name": "Wan 2.6",
+        "description": "Hochwertige Videos und vielfältige Bewegungen",
+        "timeCost": "1 Minute",
+        "fps": "24 fps"
+      },
+      "wan_pro": {
+        "name": "Wan Pro",
+        "description": "Außergewöhnliche visuelle Qualität und vielfältige Bewegungen",
+        "timeCost": "5 Minuten",
+        "fps": "30 fps"
+      },
+      "ray_flash_v2": {
+        "name": "Luma Ray Flash 2",
+        "description": "Großes Modell für realistische Darstellungen",
+        "timeCost": "30 Sekunden",
+        "fps": "24 fps"
+      },
+      "kling_v2": {
+        "name": "Kling 2.1",
+        "description": "Realistischere Bewegungsabläufe",
+        "timeCost": "2 Minuten",
+        "fps": "30 Bilder pro Sekunde"
+      },
+      "frame_pack": {
+        "name": "FramePack",
+        "description": "Erzeugt autoregressive Videos",
+        "timeCost": "1 Min.",
+        "fps": "30 fps"
+      },
+      "vidu": {
+        "name": "Vidu Q1",
+        "description": "Konsistente und flüssige 2D-Animation",
+        "timeCost": "1 Min.",
+        "fps": "24 fps"
+      },
+      "vidu_base": {
+        "name": "Komiko Anime",
+        "description": "Ultra kostengünstige Animationserstellung",
+        "timeCost": "1 Min.",
+        "fps": "24 fps"
+      },
+      "anisora": {
+        "name": "AniSora",
+        "description": "Open-Source-Animé-Videoerstellung",
+        "timeCost": "1 Minute",
+        "fps": "30 fps"
+      },
+      "mj_video": {
+        "name": "Anime Pro",
+        "description": "Am besten geeignet für die Erstellung von Anime und animierten Inhalten",
+        "timeCost": "1 Minute",
+        "fps": "24 fps"
+      },
+      "magi_1": {
+        "name": "Magi-1",
+        "description": "Verständnis von physikalischer Bewegung und filmischer Komposition",
+        "timeCost": "2 Minuten",
+        "fps": "24 fps"
+      },
+      "seedance": {
+        "name": "Seedance 1.5 Pro",
+        "description": "Das weltweit erste Mehrfach-Aufnahme-Videoerzeugungsmodell",
+        "timeCost": "1 Min.",
+        "fps": "24 fps"
+      },
+      "sora": {
+        "name": "Sora 2",
+        "description": "Beeindruckende Videoerstellung mit Mehrfachaufnahmen und Ton",
+        "timeCost": "1 Min.",
+        "fps": "30 fps"
+      },
+      "sora_pro": {
+        "name": "Sora 2 Pro",
+        "description": "Beeindruckende Videoerstellung mit Mehrfachaufnahmen und Ton",
+        "timeCost": "1 Min.",
+        "fps": "30 fps"
+      },
+      "sora_stable": {
+        "name": "Sora 2 Stabil",
+        "description": "Stabile Videoerstellung in Mehrfachaufnahme mit Ton",
+        "timeCost": "1 min",
+        "fps": "30 fps"
+      },
+      "sora_pro_stable": {
+        "name": "Sora 2 Pro Stabil",
+        "description": "Stabile Erstellung hochqualitativer Videos mit Ton",
+        "timeCost": "1 min",
+        "fps": "30 fps"
+      },
+      "vidu_q2": {
+        "name": "Vidu Q2",
+        "description": "Ultraschnelle, hochpräzise Bild-zu-Video-Animation",
+        "timeCost": "1 Min.",
+        "fps": "24 fps"
+      },
+      "vidu_q2_pro": {
+        "name": "Vidu Q2 Pro",
+        "description": "Professionelle Version mit erweiterten Details und fortschrittlichen Bewegungen",
+        "timeCost": "1 Min.",
+        "fps": "24 fps"
+      },
+      "wan_22_turbo": {
+        "name": "Wan 2.2 Turbo",
+        "description": "Bestes Preis-Leistungs-Verhältnis",
+        "timeCost": "1 Min.",
+        "fps": "24 FPS"
+      }
+    },
+    "buttons": {
+      "generateAnimation": "Animation generieren",
+      "seconds5": "5 Sekunden",
+      "seconds8": "8 Sekunden",
+      "seconds10": "10 Sekunden",
+      "default": "Standard",
+      "anime": "Anime",
+      "landscape": "16:9 (Querformat)",
+      "portrait": "9:16 (Hochformat)",
+      "square": "1:1 (Quadratisch)"
+    },
+    "resolutions": {
+      "360p": "360p",
+      "540p": "540p",
+      "720p": "720p",
+      "1080p": "1080p"
+    },
+    "styleModes": {
+      "effect": "Effekte",
+      "prompt": "Eingabe",
+      "motion": "Bewegungen",
+      "dance": "Tanzen",
+      "templates": "Muster"
+    },
+    "audio": {
+      "label": "Audio Optional (MP3/WAV, 3-30s, ≤15MB)",
+      "upload": "Hochladen",
+      "record": "Aufnehmen",
+      "invalidFormat": "Ungültiges Audioformat. Bitte verwenden Sie MP3 oder WAV.",
+      "missing": "Bitte laden Sie eine Audiodatei hoch (MP3/WAV).",
+      "durationRange": "Die Audiodauer muss zwischen 3s und 30s liegen.",
+      "processFailed": "Verarbeitung der Audiodatei fehlgeschlagen."
+    },
+    "characterName": "Charaktername",
+    "characterNamePlaceholder": "Charakternamen eingeben...",
+    "importFromCharacter": "Charaktere importieren",
+    "characterProfileOptional": "Charakterprofil (optional)",
+    "characterProfilePlaceholder": "Charaktername, Persönlichkeit, Thema und andere Details",
+    "bankaiEffectTitle": "Gewünschter Effekt der Bankai-Verwandlung",
+    "bankaiEffectPlaceholder": "Beschreiben Sie die Effekte, Kräfte, visuellen Änderungen etc. der Bankai-Verwandlung",
+    "sec": "Sek.",
+    "multiShots": {
+      "label": "Mehrfach-Aufnahmen",
+      "tooltip": "Wenn aktiviert, segmentiert das Video intelligent in mehrere Aufnahmen für eine bessere Erzählweise"
+    },
+    "cameraFixed": {
+      "label": "Feststehende Kamera",
+      "tooltip": "Behalten Sie die Kameraposition während des Videos bei"
+    }
+  },
+  "seo": {
+    "examples": {
+      "title": "Beispiele des KI-Animationsgenerators",
+      "description": "Entdecke die Möglichkeiten unseres KI-Animationsgenerators durch diese beeindruckenden Beispiele. Erlebe, wie unsere Technologie statische Bilder in dynamische, ansprechende Videos verwandelt!",
+      "inputAlt": "Beispiel-Eingabebild",
+      "inputLabel": "Eingabebild",
+      "outputLabel": "Animationsergebnis",
+      "videoNotSupported": "Ihr Browser unterstützt das Video-Tag nicht.",
+      "example1": {
+        "details": "Modell: Veo | Prompt: \"Das Mädchen tanzt und singt\""
+      },
+      "example2": {
+        "details": "Modell: Minimax | Prompt: \"Ein Mann redet wütend\""
+      },
+      "example3": {
+        "details": "Modell: Ray | Prompt: \"Ein Mädchen redet traurig\""
+      },
+      "example4": {
+        "details": "Modell: Kling | Prompt: \"Ein Mädchen redet friedlich mit sich selbst\""
+      },
+      "example5": {
+        "details": "Modell: Anime Pro | Eingabeaufforderung: \"Kampfszene im Anime-Stil. Ein junger Kämpfer mit einem leuchtenden Schwert kämpft gegen ein riesiges, dämonisches Monster mit glühenden Augen und scharfen Zähnen. Rasante Schwertkämpfe, Funken fliegen, intensive Nahaufnahmen. Endet mit dem dramatischen letzten Schlag des Helden, der das Monster tötet. Dunkler Hintergrund, kinoreife Beleuchtung, leuchtende Partikel.\""
+      },
+      "example6": {
+        "details": "Modell: Anime Pro | Eingabeaufforderung: \"Ein Anime-Junge zieht plötzlich eine Waffe und feuert mit einem Blitzlicht, intensiver Ausdruck, dramatischer Kamerawinkel. Er dreht sich sofort um und rennt die Straße hinunter.\""
+      },
+      "example7": {
+        "details": "Modell: Anime Pro | Eingabeaufforderung: \"Ein Anime-Mädchen skatet schnell durch eine neonbeleuchtete Gasse bei Nacht, nimmt scharfe Kurven, der Wind in ihrem Haar, verfolgt von hinten. Leuchtende Schilder spiegeln sich auf dem nassen Pflaster, während sie an engen Gassen vorbeirauscht.\""
+      },
+      "example8": {
+        "details": "Modell: Anime Pro | Eingabeaufforderung: \"Kampfszene im Anime-Stil. Ein junger Kämpfer mit einem leuchtenden Schwert kämpft gegen ein riesiges, dämonisches Monster mit glühenden Augen und scharfen Zähnen. Rasante Schwertkämpfe, Funken fliegen, intensive Nahaufnahmen. Endet mit dem dramatischen letzten Schlag des Helden, der das Monster tötet. Dunkler Hintergrund, kinoreife Beleuchtung, leuchtende Partikel.\""
+      }
+    },
+    "meta": {
+      "title": "KI-Animationsgenerator - KomikoAI",
+      "description": "Verwandle statische Bilder in beeindruckende Animationen mit unserem KI-Animationsgenerator. Erstelle mühelos dynamische Anime-, Manga- und Comic-Videos. Unsere fortschrittliche KI-Animationstechnologie erweckt dein Kunstwerk in wenigen Minuten zum Leben.",
+      "keywords": "KI-Animationsgenerator, KI Anime Generator, KI Videoanimation, Bild zu Animation, Anime Animation Generator, Manga Animation Ersteller, KI-Animation Tool, Animation aus Bild generieren, KI Video Generator, Animierter Videomacher"
+    },
+    "hero": {
+      "title": "KI-Animationsgenerator",
+      "description": "Verwandle statische Bilder in fesselnde Animationen mit unserem leistungsstarken KI-Animationsgenerator. Erstelle mühelos atemberaubende Anime-, Manga- und Comic-Videos. Unsere fortschrittliche KI-Animationstechnologie analysiert dein Kunstwerk und generiert dynamische, professionelle Animationen in wenigen Minuten."
+    },
+    "whatIs": {
+      "title": "Was ist der KI-Animationsgenerator?",
+      "description": "Der KI-Animationsgenerator ist ein intelligentes Tool, das automatisch beeindruckende Animationen aus deinen statischen Bildern erstellt. Unsere KI-Technologie nutzt fortschrittliche Deep-Learning-Algorithmen, um Anime-, Manga- und Comic-Kunstwerke zum Leben zu erwecken. So werden professionelle Animationen für jedermann zugänglich, ganz ohne technische Kenntnisse oder Animationserfahrungen."
+    },
+    "howToUse": {
+      "title": "Wie man den KI-Animationsgenerator benutzt",
+      "steps": [
+        {
+          "title": "Laden Sie Ihr Bild hoch",
+          "content": "Laden Sie das Bild hoch, das Sie animieren möchten. Egal, ob es sich um eine Anime-Figur, ein Manga-Panel oder eine Comic-Illustration handelt, unsere KI erweckt es zum Leben."
+        },
+        {
+          "title": "Geben Sie einen Prompt ein",
+          "content": "Geben Sie einen Prompt ein, um die Animation zu steuern. Beschreiben Sie die Bewegung, den Ausdruck oder die Aktion, die die KI generieren soll."
+        },
+        {
+          "title": "Animation generieren",
+          "content": "Klicken Sie auf die Schaltfläche 'Animation generieren' und lassen Sie unsere KI ihre Magie wirken. Beobachten Sie, wie sich Ihr Bild in ein dynamisches Video verwandelt."
+        },
+        {
+          "title": "Herunterladen und teilen",
+          "content": "Laden Sie Ihre KI-generierte Animation herunter und teilen Sie sie mit der Welt! Perfekt für soziale Medien, persönliche Projekte und mehr."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Warum den KI-Animationsgenerator verwenden?",
+      "description": "Erfahre, warum unser KI-Animationsgenerator die beste Wahl für die Erstellung professioneller Anime-, Manga- und Comic-Animationen ist. Entdecke die Zukunft der Animationstechnologie mit leistungsstarken Funktionen, die für Kreative aller Erfahrungsstufen entwickelt wurden!",
+      "features": [
+        {
+          "title": "Fortschrittliche KI-Animationstechnologie",
+          "content": "Unser KI-Animationsgenerator verwendet hochmoderne Deep-Learning-Modelle, um Animationen in professioneller Qualität zu erzeugen. Die KI analysiert intelligent deine Bilder und generiert automatisch gleichmäßige, realistische Bewegungen.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Erstelle sofort professionelle Animationen",
+          "content": "Verwandle statische Kunstwerke in dynamische animierte Videos, die perfekt für soziale Medien, YouTube, Präsentationen und kreative Projekte sind. Unser KI-Animationsgenerator liefert Studioqualität.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Benutzerfreundliches KI-Animationstool",
+          "content": "Keine Animationserfahrungen nötig! Unser KI-Animationsgenerator ist für jedermann gestaltet. Einfach dein Bild hochladen und eine Beschreibung eingeben, und die KI erstellt atemberaubende Animationen für dich.",
+          "icon": "👌"
+        },
+        {
+          "title": "Spare Stunden an Produktionszeit",
+          "content": "Unser KI-Animationsgenerator erstellt Animationen in Minuten statt Stunden oder Tagen. Die Produktionszeit wird im Vergleich zu herkömmlichen Animationsmethoden um bis zu 90 % reduziert.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Animationen in professioneller Qualität",
+          "content": "Der KI-Animationsgenerator erzeugt hochwertige Ergebnisse mit fließenden Übergängen, natürlichen Bewegungen und konstanten Bildraten. Perfekt für den professionellen und kommerziellen Gebrauch.",
+          "icon": "✨"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "content": "Konzentriere dich auf deine kreative Vision, während unser KI-Animationsgenerator die komplexe technische Arbeit übernimmt. Erstelle jeden Animationsstil, von Actionszenen bis zu emotionalen Momenten.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "KI-Animationsgenerator FAQ - Alles, was du wissen musst",
+      "description": "Erfahre, wie man mit unserem KI-Animationsgenerator professionelle Animationen erstellt. Erhalte Antworten auf häufige Fragen zur KI-Animationstechnologie, Funktionen und bewährten Verfahren.",
+      "q1": "Was ist der KI-Animationsgenerator?",
+      "a1": "Der KI-Animationsgenerator ist ein KI-Tool, das statische Bilder in dynamische, animierte Videos verwandelt. Mit fortschrittlichen Deep-Learning-Algorithmen analysiert er deine Kunstwerke und erzeugt automatisch gleichmäßige, professionelle Animationen mit realistischen Bewegungen und Ausdrücken, perfekt für die Erstellung von Anime-, Manga- und Comic-Inhalten.",
+      "q2": "Wie verwendet man den KI-Animationsgenerator?",
+      "a2": "Die Verwendung des KI-Animationsgenerators ist einfach! Lade zuerst dein statisches Bild hoch (Anime-, Manga- oder Comic-Kunstwerk). Dann gib eine detaillierte Beschreibung der gewünschten Bewegungen, Ausdrücke oder Aktionen ein. Klicke anschließend auf 'Animation generieren' und lasse die KI dein Video erstellen. Schlussendlich kannst du deine Animation auf sozialen Medien, YouTube oder jeder anderen Plattform teilen.",
+      "q3": "Wie funktioniert der KI-Animationsgenerator?",
+      "a3": "Der KI-Animationsgenerator verwendet fortschrittliche Deep-Learning-Technologie, um deine Bilder zu analysieren. Er funktioniert, indem er Schlüsselelemente identifiziert, die Komposition versteht und Zwischenbilder generiert, um fließende Bewegungen zu erzeugen. Die KI interpretiert deine Texteingabe, um Bewegungen, Gesichtsausdrücke und Kamerawinkel zu erzeugen, die dein statisches Kunstwerk automatisch zum Leben erwecken.",
+      "q4": "Was ist der beste KI-Animationsgenerator?",
+      "a4": "KomikoAI bietet das beste KI-Animationsgenerator-Tool. Unser Ziel ist es, die führende KI-Erstellungsplattform zu sein, indem wir professionelle Ergebnisse, leistungsstarke und unterhaltsame Anpassungen sowie einen intuitiven Workflow bieten - komplett kostenlos auszuprobieren. Mit dem KI-Animationsgenerator von KomikoAI kannst du Anime-, Manga- und Comic-Bilder in atemberaubende Videos mit realistischen Bewegungen verwandeln, ansprechende Inhalte für soziale Medien und YouTube erstellen und Zugriff auf mehrere fortschrittliche KI-Modelle haben, was ihn perfekt für Benutzer macht, die professionelle Animationen ohne technische Fähigkeiten oder teure Software erstellen möchten.",
+      "q5": "Ist der KomikoAI KI-Animationsgenerator kostenlos online?",
+      "a5": "Ja, du kannst den KI-Animationsgenerator bei KomikoAI kostenlos testen, ohne ein Abonnement abschließen zu müssen. Probiere unser Tool noch heute aus!",
+      "q6": "Was kann ich mit dem KI-Animationsgenerator machen?",
+      "a6": "Du kannst den KI-Animationsgenerator bei KomikoAI nutzen, um animierte Anime-Charakter-Videos mit dynamischen Bewegungen zu erstellen, Manga-Panels in fesselnde Erzählsequenzen zu verwandeln, Comic-Illustrationen mit Aktion und Emotion zum Leben zu erwecken, Social-Media-Inhalte zu erstellen, die Aufmerksamkeit erregen, YouTube-Videos und Werbematerialien zu produzieren, Charakteranimationen für Spiele- oder Erzählprojekte zu erstellen und professionelle Präsentationen mit animierten Visuals zu entwickeln.",
+      "q7": "Kann ich den KI-Animationsgenerator auf meinem Telefon verwenden?",
+      "a7": "Ja, du kannst den KI-Animationsgenerator als Web-App auf verschiedenen Geräten, einschließlich Smartphones und Computern, verwenden, was ihn für jedermann praktisch macht.",
+      "q8": "Kann ich meine Generierung vom KI-Animationsgenerator herunterladen?",
+      "a8": "Ja, der KI-Animationsgenerator von KomikoAI ermöglicht es dir, deine Generierung in verschiedenen Formaten wie MP4 und anderen Videoformaten für einfaches Teilen zu exportieren.",
+      "q9": "Warum sollte ich den KI-Animationsgenerator verwenden?",
+      "a9": "Der KI-Animationsgenerator kann dir bis zu 90 % der Animationsproduktionszeit sparen, professionelle Videos ohne Animationserfahrung erstellen und deine kreative Vision sofort in die Realität umsetzen. Unser Tool ermöglicht es dir, statische Kunstwerke mit realistischen Bewegungen zum Leben zu erwecken, ansprechenden Inhalt für soziale Medien und YouTube zu generieren, Zugriff auf mehrere fortschrittliche KI-Modelle für verschiedene Animationsstile zu haben und Animationen vollständig kostenlos auszuprobieren."
+    },
+    "cta": {
+      "title": "Erstelle heute atemberaubende Animationen KOSTENLOS mit unserem KI-Animationsgenerator!",
+      "description": "Verwandle deine statischen Bilder in wenigen Minuten in fesselnde animierte Videos. Beginne jetzt mit der Erstellung!",
+      "buttonText": "Probiere unseren KI-Animationsgenerator kostenlos aus"
+    }
+  },
+  "moonvalley": {
+    "hero": {
+      "title": "Moonvalley AI Video Generator",
+      "description": "Der Moonvalley AI Video Generator ist die Zukunft der KI-gestützten Videoproduktion. Entwickelt von der Imaginationsforschungsfirma Moonvalley, kombiniert dieser revolutionäre Generator Marey, das weltweit erste kommerziell sichere Videoerzeugungsmodell. Wandeln Sie statische Bilder in atemberaubende, kinoreife Videos mit der fortschrittlichsten Technologie von Moonvalley AI, speziell für Filmemacher, Content Creators und digitale Künstler."
+    },
+    "examples": {
+      "title": "Beispiele für den Moonvalley AI Video Generator",
+      "description": "Entdecken Sie die revolutionäre Kraft der Moonvalley AI Video Generator Technologie. Sehen Sie, wie dieser fortschrittliche KI-Video-Generator professionelle Videos in Kinoqualität mit erstklassiger Kinematografie und beeindruckender Präzision erstellt.",
+      "cameraControl": {
+        "title": "Kamerasteuerung",
+        "description": "Erschaffen Sie kinoreife Kamerafahrten mit nur einem Bild. Verwandeln Sie jede 2D-Szene in eine dreidimensionale Umgebung."
+      },
+      "motionTransfer": {
+        "title": "Bewegungsübertragung",
+        "description": "Übertragen Sie die Bewegungen aus einem Referenzvideo auf neue Subjekte, während Sie Timing und Energie beibehalten."
+      },
+      "trajectoryControl": {
+        "title": "Trajektoriensteuerung",
+        "description": "Zeichnen Sie die Trajektorie jedes Elements, um Ihre Regieanweisung filmisch lebendig werden zu lassen."
+      },
+      "poseTransfer": {
+        "title": "Posenübertragung",
+        "description": "Nutzen Sie Referenzbilder oder Performance-Inputs, um Timing und Absicht mit ausdrucksstarken Ergebnissen zu steuern."
+      },
+      "naturalPhysics": {
+        "title": "Natürliche Physik",
+        "description": "Objekte bewegen sich mit glaubwürdigem Gewicht und Timing gemäß den physikalischen Gesetzen, sodass sie filmisch und nicht generiert wirken."
+      },
+      "dynamicMotion": {
+        "title": "Dynamische Bewegung",
+        "description": "Erleben Sie Durchbrüche in der Bewegung mit filmisch flüssigen Bewegungen für anspruchsvolle Bildschirme."
+      }
+    },
+    "videoFallback": {
+      "cameraControl": "Kamerasteuerungs-Demo",
+      "motionTransfer": "Bewegungsübertragungs-Demo",
+      "trajectoryControl": "Trajektoriensteuerungs-Demo",
+      "poseTransfer": "Posenübertragungs-Demo",
+      "naturalPhysics": "Natürliche Physik-Demo",
+      "dynamicMotion": "Dynamische Bewegungs-Demo"
+    },
+    "whatIs": {
+      "title": "Was ist der Moonvalley AI Video Generator?",
+      "description": "Moonvalley ist führend in der AI-Videoerzeugungstechnologie. Ihre Flaggschiffentwicklung Marey ist das erste kommerziell sichere Videoerzeugungsmodell der Welt, ausschließlich auf lizenziertem Material trainiert, um rechtliche Konformität zu gewährleisten. Moonvalleys Mission ist es, Videoproduktion zu demokratisieren und gleichzeitig höchste Qualitäts- und Sicherheitsstandards zu wahren."
+    },
+    "benefits": {
+      "title": "Warum den Moonvalley AI Video Generator nutzen?",
+      "description": "Erleben Sie die transformativen Vorteile der Moonvalley AI Video Generator Technologie. Dieser revolutionäre KI-Video-Generator macht professionelle Videoproduktion für Kreative auf der ganzen Welt zugänglich.",
+      "features": {
+        "aiTechnology": {
+          "title": "Revolutionäre AI-Video-Technologie",
+          "content": "Nutzen Sie die fortschrittliche künstliche Intelligenz und maschinellen Lernalgorithmen von Moonvalley, um Kinoqualität mit beispielloser Präzision zu erzeugen."
+        },
+        "cinematicQuality": {
+          "title": "Professionelle kinoreife Qualität",
+          "content": "Erstellen Sie Videos in Sendequalität mit beeindruckenden visuellen Effekten und fließenden Motion-Graphics. Der Moonvalley AI Videogenerator liefert professionelle Ergebnisse, die sowohl für kommerzielle als auch für künstlerische Anwendungen geeignet sind."
+        },
+        "intuitive": {
+          "title": "Intuitiver Videoproduktionsprozess",
+          "content": "Keine technischen Kenntnisse erforderlich! Teilen Sie einfach Ihre kreative Vision mit, und Moonvalley AI übernimmt den komplexen Videoproduktionsprozess für Sie."
+        },
+        "accelerated": {
+          "title": "Beschleunigter Produktionszeitplan",
+          "content": "Verkürzen Sie die Produktionszeit von Wochen auf Minuten. Der Moonvalley AI Video Generator optimiert den gesamten kreativen Workflow für schnelle Iteration und sofortige Ergebnisse."
+        },
+        "superiorOutput": {
+          "title": "Überlegene Video-Ausgabequalität",
+          "content": "Erhalten Sie herausragende hochauflösende Videos mit realistischen Dynamiken und cineastischer Qualität."
+        },
+        "limitless": {
+          "title": "Grenzenlose kreative Möglichkeiten",
+          "content": "Konzentrieren Sie sich auf Ihre künstlerische Vision, während Moonvalley AI die technischen Herausforderungen der Videoproduktion übernimmt."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "So verwenden Sie den Moonvalley AI Video Generator",
+      "steps": {
+        "step1": {
+          "title": "Laden Sie Ihre kreativen Inhalte hoch",
+          "content": "Beginnen Sie mit dem Hochladen eines Bildes, Kunstwerks oder Konzepts. Ob Anime-Charakter, Manga oder Comic-Panel, der Generator kann all dies in dynamische Inhalte verwandeln."
+        },
+        "step2": {
+          "title": "Gestalten Sie Ihren Video-Prompt",
+          "content": "Beschreiben Sie das gewünschte Videoergebnis mit detaillierten Anweisungen zu Bewegung, Kinematografie und Stil."
+        },
+        "step3": {
+          "title": "Generieren Sie Ihr AI-Video",
+          "content": "Klicken Sie auf 'Video generieren' und erleben Sie, wie Moonvalley AI Ihre Eingaben in ein kinoreifes Video umsetzt."
+        },
+        "step4": {
+          "title": "Herunterladen und Veröffentlichen",
+          "content": "Laden Sie Ihr generiertes Video herunter und teilen Sie es auf verschiedenen Plattformen für soziale Medien, Marketing, Projekte und Präsentationen."
+        }
+      }
+    },
+    "faqSection": {
+      "title": "Moonvalley AI Video Generator FAQ",
+      "description": "Finden Sie Antworten auf häufig gestellte Fragen zur kommerziell sicheren Technologie von Moonvalley und zu den Fähigkeiten des Marey-Modells."
+    },
+    "faq": {
+      "question1": "Was unterscheidet den Moonvalley AI Video Generator von anderen Generatoren?",
+      "answer1": "Moonvalley bietet den ersten kommerziell sicheren AI-Video-Generator. Marey ist ausschließlich auf lizenziertes Material trainiert, um rechtliche Risiken zu vermeiden.",
+      "question2": "Was ist Marey und wie funktioniert es?",
+      "answer2": "Marey ist das führende KI-Modell von Moonvalley und treibt deren Videogenerationstechnologie an. Es handelt sich um ein bahnbrechendes 3D-bewusstes System, das räumliche Beziehungen, Beleuchtung und Bewegung versteht. Marey kann sowohl Bild-zu-Video- als auch Text-zu-Video-Inhalte in Kinoqualität erzeugen und ermöglicht präzise Steuerungen wie Kamerabewegungen, Bewegungsübertragung und Trajektorienkontrolle.",
+      "question3": "Welche spezifischen Steuerungen bietet Moonvalley?",
+      "answer3": "Moonvalley bietet professionelle Steuerungen, darunter: Kamerasteuerung (erstelle kinoreife Kamerabewegungen aus Einzelbildern), Bewegungsübertragung (übertrage Bewegungen von Referenzvideos auf neue Motive), Trajektorienkontrolle (zeichne Wege für Objektbewegungen), Haltungsübertragung (kümmere dich um Timing und Absicht mit Referenzeingaben) und fortschrittliche Beleuchtung mit natürlicher Physiksimulation.",
+      "question4": "Kann ich Moonvalley für kommerzielle Projekte nutzen?",
+      "answer4": "Ja! Moonvalley ist speziell für den kommerziellen Einsatz konzipiert. Da Marey ausschließlich auf lizenziertem Filmmaterial trainiert wurde und kein gescraptes Material verwendet, können Sie die erzeugten Videos für Geschäftszwecke, Marketing, Filmproduktion und jede kommerzielle Anwendung ohne Copyright-Bedenken nutzen. Dies macht es zur einzigen wirklich produktionsbereiten KI-Videolösung für professionelle Anwendungen.",
+      "question5": "Wie kann ich auf den Moonvalley AI Video Generator zugreifen?",
+      "answer5": "Sie können über die Webanwendung auf den Moonvalley AI Video Generator zugreifen, um die leistungsstarken Fähigkeiten von Marey auszuprobieren. Für Entwickler und Unternehmen ist die Moonvalley AI Video Generator API in Entwicklung (derzeit auf der Warteliste). Der Video Generator bietet auch Marey Realism nativ in ComfyUI zur Workflow-Integration. Besuchen Sie die Website, um mit dem Moonvalley AI Video Generator zu starten oder treten Sie der Discord-Community für Updates bei.",
+      "question6": "Welche Formate und welche Qualität kann ich erwarten?",
+      "answer6": "Moonvalley erzeugt hochauflösende Videos in Studioqualität. Das System ist auf kinotaugliches Filmmaterial trainiert, sodass jeder Frame feine Texturen, klare Kanten und hohen Kontrast ohne Artefakte bietet. Die Videos entsprechen professionellen Standards, die für anspruchsvolle Bildschirme und kommerzielle Anwendungen geeignet sind.",
+      "question7": "Was sind die aktuellen Fähigkeiten und Einschränkungen?",
+      "answer7": "Moonvalley überzeugt durch die Schaffung professioneller, kinoreifer Inhalte mit natürlicher Physik, fortschrittlicher Beleuchtung und präziser Bewegungssteuerung. Komplexe Szenen können jedoch zusätzliche Verarbeitungszeit erfordern. Der Hauptvorteil ist das Fehlen rechtlicher Einschränkungen - anders als bei anderen KI-Videogeneratoren gibt es keine Copyright-Risiken durch saubere Trainingsdaten."
+    },
+    "question2": "Was ist Marey und wie funktioniert es?",
+    "answer2": "Marey ist ein führendes AI-Modell von Moonvalley, das auf Raumverständnis, Beleuchtung und Bewegung fokussiert. Es erzeugt hochwertige Video-Inhalte basierend auf Bildern oder Texten."
+  },
+  "marey": {
+    "hero": {
+      "title": "Marey AI Video Generator",
+      "description": "Marey ist Moonvalleys grundlegendes AI-Modell, der weltweit erste, kommerziell sichere Video-Generator, optimiert für erstklassige Kinematografie. Entwickelt für Filmemacher und Content Creators, verwandelt Marey statische Bilder in hochwertige Videos mit lizensiertem Material - ohne rechtliche Grauzonen."
+    },
+    "examples": {
+      "title": "Beispiele für Marey AI Videoerzeugung",
+      "description": "Erleben Sie die Leistungsfähigkeit von Mareys videoorientierter Produktion. Sehen Sie, wie Marey kreative Visionen in professionelle, filmische Realität umsetzt.",
+      "cameraControl": {
+        "title": "Kamerasteuerung",
+        "description": "Erzeugen Sie kinoreife Kamerabewegungen anhand eines einzigen Bildes. Marey wandelt jede 2D-Szene in eine 3D-Welt."
+      },
+      "motionTransfer": {
+        "title": "Bewegungsübertragung",
+        "description": "Übertragen Sie Bewegungen aus einem Video auf neue Subjekte, wobei Timing und Energie erhalten bleiben."
+      },
+      "trajectoryControl": {
+        "title": "Trajektoriensteuerung",
+        "description": "Zeichnen Sie Bewegungsbahnen für Elemente, um Ihre Vision filmisch zum Leben zu erwecken."
+      },
+      "keyframing": {
+        "title": "Keyframing",
+        "description": "Laden Sie mehrere Referenzbilder hoch und Marey schafft fließende, natürliche Übergänge."
+      },
+      "referenceControl": {
+        "title": "Referenzsteuerung",
+        "description": "Nutzen Sie für jedes Objekt separate Referenzbilder, um Tiefe und Beleuchtung zu bewahren."
+      },
+      "poseControl": {
+        "title": "Posensteuerung",
+        "description": "Nutzen Sie Referenzbilder, um Timing und Absicht präzise zu steuern."
+      }
+    },
+    "videoFallback": {
+      "cameraControl": "Kamerasteuerungs-Demo",
+      "motionTransfer": "Bewegungsübertragungs-Demo",
+      "trajectoryControl": "Trajektoriensteuerungs-Demo",
+      "keyframing": "Keyframing-Demo",
+      "referenceControl": "Referenzsteuerungs-Demo",
+      "poseControl": "Posensteuerungs-Demo"
+    },
+    "whatIs": {
+      "title": "Was ist Marey?",
+      "description": "Marey ist Moonvalleys fundamentales AI-Modell, entwickelt in Zusammenarbeit mit Asteria. Es ist das weltweit erste kommerziell sichere Videoerzeugungsmodell, das ausschließlich auf lizenziertem Material trainiert wird, um rechtliche Konformität sicherzustellen."
+    },
+    "benefits": {
+      "title": "Warum Marey AI Video Generator nutzen?",
+      "description": "Entdecken Sie die Vorteile des Marey AI Video Generators für die Erstellung professioneller Videos. Unsere fortschrittliche 3D-Technologie macht Videoproduktion zugänglich.",
+      "features": {
+        "awareness3D": {
+          "title": "3D-bewusste Videoerzeugung",
+          "content": "Erleben Sie 3D-Technologie, die räumliche Beziehungen versteht. Marey AI erstellt Videos mit authentischen Kamerabewegungen und professioneller Qualität."
+        },
+        "commercialSafe": {
+          "title": "Kommerziell sichere Produktion",
+          "content": "Vertrauen Sie auf unsere ethisch trainierte AI, um Inhalte konform und sicher für den professionellen Einsatz zu generieren."
+        },
+        "motionControl": {
+          "title": "Professionelle Bewegungssteuerung",
+          "content": "Keine Produktionserfahrung nötig! Laden Sie Ihr Bild hoch und Marey AI übernimmt die Videoerzeugung."
+        },
+        "rapidProduction": {
+          "title": "Schneller Produktionsprozess",
+          "content": "Schneller Videoproduktions-Workflow. Marey erzeugt Videos in Minuten, spart traditionelle Produktionszeit."
+        },
+        "studioGrade": {
+          "title": "Studioqualität",
+          "content": "Erhalten Sie hochauflösende Ergebnisse mit sanften Übergängen und realistischen Effekten."
+        },
+        "creativeFreedom": {
+          "title": "Kreative Freiheit",
+          "content": "Konzentrieren Sie sich auf Ihre Vision, während Marey AI die technischen Details übernimmt."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "So nutzen Sie den Marey AI Video Generator",
+      "steps": {
+        "step1": {
+          "title": "Laden Sie Ihre kreativen Inhalte hoch",
+          "content": "Laden Sie das Bild hoch, das in ein Video verwandelt werden soll. Egal ob Anime, Manga oder Comic, Marey erstellt bewegte professionelle Qualität."
+        },
+        "step2": {
+          "title": "Definieren Sie Ihre Bewegungsvision",
+          "content": "Geben Sie detaillierte Anweisungen zur Videoerzeugung. Beschreiben Sie Kamerabewegungen, Charakteraktionen und Effekte."
+        },
+        "step3": {
+          "title": "Erzeugen Sie kinoreife Videos",
+          "content": "Klicken Sie auf 'Video generieren' und sehen Sie, wie Marey AI Ihre Vision zum Leben erweckt."
+        },
+        "step4": {
+          "title": "Herunterladen und Teilen",
+          "content": "Laden Sie das Video herunter und teilen Sie es auf Plattformen! Ideal für kommerzielle und kreative Zwecke."
+        }
+      }
+    },
+    "faqSection": {
+      "title": "Marey AI Video Generator FAQs",
+      "description": "Lernen Sie alles über die Verwendung von Marey für professionelle und kreative Videoerzeugung."
+    },
+    "faq": {
+      "question1": "Was ist der Marey AI Video Generator?",
+      "answer1": "Marey ist Moonvalleys AI-Modell, entwickelt für kommerziell sichere Videoproduktion mit lizenziertem Material, optimiert für Filmemacher.",
+      "question2": "Wie funktioniert die kommerziell sichere Videogeneration von Marey?",
+      "answer2": "Marey nutzt die fortschrittliche KI-Architektur von Moonvalley, die ausschließlich auf lizenziertem, hochauflösendem Filmmaterial trainiert wurde, um vollständige kommerzielle Sicherheit zu gewährleisten. Das Modell analysiert Ihr Eingabebild und generiert professionelle Videosequenzen mit globalen Standards der Kinematografie, die Präzision in jedem Frame garantieren. Im Gegensatz zu anderen KI-Videogeneratoren, die auf gescrapten Inhalten basieren, eliminiert das Training von Marey auf lizenzierten Daten rechtliche Risiken und bietet Filmemachern produktionsreife Werkzeuge und Regiekontrolle.",
+      "question3": "Welche Vorteile bietet Marey für professionelle Filmemacher?",
+      "answer3": "Marey ist speziell für Filmemacher und Content-Ersteller konzipiert, die kommerziell taugliche Videogeneration benötigen. Zu den wichtigsten Vorteilen gehören: das weltweit erste kommerziell sichere Videomodell ohne rechtliche Risiken, ausschließlich auf lizenziertem hochauflösendem Filmmaterial trainiert, bietet produktionsreife Werkzeuge und Regiekontrolle, liefert herausragende Kinematografie mit Präzision in jedem Frame, eliminiert die Unsicherheiten des gescrapted Content Trainings und bietet vollständige rechtliche Konformität für professionelle und kommerzielle Nutzung.",
+      "question4": "Kann ich die von Marey erzeugten Videos für kommerzielle Zwecke nutzen?",
+      "answer4": "Absolut! Marey ist der weltweit erste kommerziell sichere Videogenerator, der speziell für den kommerziellen Einsatz entwickelt wurde. Ausschließlich auf lizenziertem, hochauflösendem Filmmaterial ohne gescrapten Inhalt, ohne Nutzereingaben und ohne rechtliche Grauzonen trainiert, eliminiert Marey die Copyright-Risiken, die mit anderen KI-Videogeneratoren verbunden sind. Dies macht es zur idealen Wahl für Filmemacher, Studios und Content-Ersteller, die vollständige rechtliche Konformität für professionelle und kommerzielle Projekte benötigen.",
+      "question5": "Welche Bildformate und Spezifikationen unterstützt Marey AI?",
+      "answer5": "Marey AI unterstützt Standard-Bildformate wie JPG und PNG. Für optimale kinoartige Ergebnisse sollten hochauflösende Bilder mit klarer Motivdefinition verwendet werden. Die KI funktioniert am besten mit gut definierten Charakteren und Kunstwerken, die effektiv in Videobewegungen übersetzt werden können.",
+      "question6": "Welche Art von Inhalten funktioniert am besten mit der Marey-Videogeneration?",
+      "answer6": "Marey ist für professionelle Filmemacher und Content-Ersteller konzipiert, die mit vielfältigen visuellen Inhalten arbeiten. Das Modell glänzt mit hochwertigen Bildern, Charakter-Kunstwerken, Konzeptkunst, Storyboards und visuellen Referenzen. Da Marey auf lizenziertem, hochauflösendem Filmmaterial trainiert ist, liefert es erstklassige Kinematografie-Ergebnisse über verschiedene Inhaltstypen hinweg, von Anime und Manga bis hin zu realistischen Bildern, stets mit kommerzieller Sicherheit und rechtlicher Konformität.",
+      "question7": "Benötige ich Videoproduktionsfähigkeiten, um Marey zu verwenden?",
+      "answer7": "Während Marey darauf ausgelegt ist, zugänglich zu sein, ist es speziell für Filmemacher und Content-Ersteller konzipiert, die professionelle Werkzeuge benötigen. Das Modell bietet Regiekontrolle und produktionsreife Fähigkeiten bei benutzerfreundlicher Anwendung. Egal, ob Sie ein erfahrener Filmemacher oder ein Content-Ersteller sind, Marey bietet die Präzision und Kontrolle, die für herausragende Kinematografie erforderlich sind, ohne die rechtlichen Risiken anderer KI-Videogeneratoren.",
+      "question8": "Was sind die Einschränkungen der Marey-Videogeneration?",
+      "answer8": "Während Marey einen Durchbruch in der kommerziell sicheren Videogeneration darstellt, behält es dieselben technischen Überlegungen wie andere fortschrittliche KI-Videomodelle bei. Komplexe Szenen mit hochdetaillierten Kompositionen können zusätzliche Verarbeitungszeit für optimale Ergebnisse erfordern. Im Gegensatz zu anderen KI-Videogeneratoren jedoch stellt das Training von Marey auf ausschließlich lizenziertem Filmmaterial sicher, dass keine rechtlichen Einschränkungen oder Copyright-Risiken bestehen, was es zum einzigen wirklich produktionsbereiten KI-Videomodell für kommerzielle Zwecke macht."
+    }
+  },
+  "examples": {
+    "title": "KI-Anime- und Manga-Animationsbeispiele",
+    "description": "Entdecken Sie Beispiele für Animationen, die von unserem KI-Bildanimationsgenerator erstellt wurden. Sehen Sie, wie Sie Ihre statischen Bilder in dynamische Videos verwandeln können!",
+    "inputAlt": "Beispiel-Eingabebild",
+    "inputLabel": "Eingabebild",
+    "outputLabel": "Animationsergebnis",
+    "videoNotSupported": "Ihr Browser unterstützt das Video-Tag nicht.",
+    "example1": {
+      "details": "Modell: Veo | Prompt: \"Das Mädchen tanzt und singt\""
+    },
+    "example2": {
+      "details": "Modell: Minimax | Prompt: \"Ein Mann redet wütend\""
+    },
+    "example3": {
+      "details": "Modell: Ray | Prompt: \"Ein Mädchen redet traurig\""
+    },
+    "example4": {
+      "details": "Modell: Kling | Prompt: \"Ein Mädchen redet friedlich mit sich selbst\""
+    },
+    "example5": {
+      "details": "Modell: Anime Pro | Eingabeaufforderung: \"Kampfszene im Anime-Stil. Ein junger Kämpfer mit einem leuchtenden Schwert kämpft gegen ein riesiges, dämonisches Monster mit glühenden Augen und scharfen Zähnen. Rasante Schwertkämpfe, Funken fliegen, intensive Nahaufnahmen. Endet mit dem dramatischen letzten Schlag des Helden, der das Monster tötet. Dunkler Hintergrund, kinoreife Beleuchtung, leuchtende Partikel.\""
+    },
+    "example6": {
+      "details": "Modell: Anime Pro | Eingabeaufforderung: \"Ein Anime-Junge zieht plötzlich eine Waffe und feuert mit einem Blitzlicht, intensiver Ausdruck, dramatischer Kamerawinkel. Er dreht sich sofort um und rennt die Straße hinunter.\""
+    },
+    "example7": {
+      "details": "Modell: Anime Pro | Eingabeaufforderung: \"Ein Anime-Mädchen skatet schnell durch eine neonbeleuchtete Gasse bei Nacht, nimmt scharfe Kurven, der Wind in ihrem Haar, verfolgt von hinten. Leuchtende Schilder spiegeln sich auf dem nassen Pflaster, während sie an engen Gassen vorbeirauscht.\""
+    },
+    "example8": {
+      "details": "Modell: Anime Pro | Eingabeaufforderung: \"Kampfszene im Anime-Stil. Ein junger Kämpfer mit einem leuchtenden Schwert kämpft gegen ein riesiges, dämonisches Monster mit glühenden Augen und scharfen Zähnen. Rasante Schwertkämpfe, Funken fliegen, intensive Nahaufnahmen. Endet mit dem dramatischen letzten Schlag des Helden, der das Monster tötet. Dunkler Hintergrund, kinoreife Beleuchtung, leuchtende Partikel.\""
+    }
+  },
+  "textToAnimation": {
+    "meta": {
+      "title": "Text zu Video",
+      "description": "Verwandeln Sie Texte mühelos in beeindruckende Videos mit fortschrittlicher AI-Technologie zur Text-zu-Video-Erstellung. Erstellen Sie dynamische, hochwertige Videos aus Texteingaben mit modernster AI-Videoerstellung.",
+      "fullDescription": "Entdecken Sie die Zukunft der Videoproduktion mit AI-unterstützten Text-zu-Video-Generatoren, die für Kreative in verschiedenen Stilrichtungen und Branchen entwickelt wurden. Wandeln Sie Ihre beschreibenden Texte in lebendige, hochauflösende Videos um, indem AI-Modelle narrative Elemente interpretieren und filmische Sequenzen erzeugen. Nutzen Sie AI-Text-zu-Video-Tools, um die Erstellung zu beschleunigen, Kreativität zu steigern und ansprechende Videoinhalte zu produzieren, die ideal für soziale Medien, Marketing, Storytelling und professionelle Projekte sind. Diese AI-Technologie ermöglicht es Nutzern, visuell ansprechende Videos schnell zu erstellen, ohne dass fortgeschrittene Videobearbeitungskenntnisse erforderlich sind.",
+      "keywords": "Text zu Video, AI Text zu Video, AI Videogenerator, AI Animation, textbasiertes Video, AI-Videoerstellung, AI-gestützte Videoproduktion, AI-Videokünstler, textgeneriertes Video, Video aus Text, AI-Inhaltserstellung, AI-Videosoftware, automatisierte Videogenerierung, AI-Videotechnologie"
+    },
+    "hero": {
+      "title": "Text zu Video",
+      "description": "Verwandeln Sie Ihre Texte mühelos in fesselnde Videos in professioneller Qualität. Nutzen Sie AI-Text-zu-Video-Technologie für schnelle, ausdrucksstarke und visuell beeindruckende Videokreationen aus textuellen Beschreibungen."
+    },
+    "whatIs": {
+      "title": "Was ist Text zu Video?",
+      "description": "Die Text-zu-Video-Technologie verwendet Deep Learning und natürliche Sprachverarbeitung, um detaillierte Texteingaben in vollständige Videos zu verwandeln. Diese fortschrittliche AI-Videotechnologie versteht narrative Beschreibungen und erstellt automatisch fließende, ansprechende Videoinhalte, die Geschichten und Ideen zum Leben erwecken."
+    },
+    "examples": {
+      "title": "Text zu Video Beispiele",
+      "description": "Sehen Sie sich eine Vielzahl von AI-generierten Videos an, die aus Texteingaben erstellt wurden. Erleben Sie, wie AI Ihre Texte interpretiert und sie in Sequenzen mit dynamischen Bewegungen, realistischen Effekten und filmischem Erzählen verwandelt.",
+      "inputAlt": "Beispiel einer Texteingabe für ein AI-Video",
+      "inputLabel": "Texteingabe",
+      "outputLabel": "Generiertes Video",
+      "videoNotSupported": "Ihr Browser unterstützt die Video-Wiedergabe nicht.",
+      "example1": {
+        "details": "Eingabe: 'Eine futuristische Stadtsilhouette bei Dämmerung mit fliegenden Autos und Neonlichtern, filmische Kamerafahrten und weiche Übergänge.'"
+      },
+      "example2": {
+        "details": "Eingabe: 'Eine ruhige Waldszene mit animierten Wildtieren, sanftem Sonnenlicht, das durch die Bäume filtert, und natürlichen Umgebungsgeräuschen.'"
+      },
+      "example3": {
+        "details": "Eingabe: 'Epische Kampfszene zwischen Rittern und Drachen, detaillierte Rüstungsreflexionen und dramatische Zeitlupeneffekte.'"
+      },
+      "example4": {
+        "details": "Eingabe: 'Romantische Szene am Ozean bei Sonnenuntergang mit sanft brechenden Wellen und leuchtenden Laternen, die am Himmel schweben.'"
+      }
+    },
+    "howToUse": {
+      "title": "Wie man Text zu Video benutzt",
+      "steps": [
+        {
+          "title": "Schreiben Sie eine detaillierte Textbeschreibung",
+          "content": "Verfassen Sie eine lebendige Texteingabe, die die Szene, Charaktere, Aktionen und Emotionen beschreibt, die Sie visuell in Ihrem Video festhalten möchten."
+        },
+        {
+          "title": "Wählen Sie ein AI-Videogenerierungsmodell",
+          "content": "Wählen Sie das AI-Modell aus, das am besten für Ihren gewünschten Videostil und -qualität geeignet ist, um Ihr Video zu erzeugen."
+        },
+        {
+          "title": "Generieren Sie das Video",
+          "content": "Starten Sie den AI-Prozess, um Ihren Text in ein fließendes, fesselndes animiertes Video zu verwandeln."
+        },
+        {
+          "title": "Herunterladen und teilen",
+          "content": "Exportieren Sie Ihr erzeugtes Video in gängigen Formaten wie MP4 und teilen Sie es auf verschiedenen Plattformen, einschließlich sozialer Medien, Präsentationen und Marketingkampagnen."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Warum Text zu Video verwenden?",
+      "description": "Nutzen Sie die mächtigen Vorteile der AI Text zu Video-Technologie, um ansprechende Videoinhalte schnell und effizient zu erstellen. Ideal für Kreative, Vermarkter und Geschichtenerzähler, die visuelle Medien verbessern möchten.",
+      "features": [
+        {
+          "title": "Spitzentechnologie für AI-Videoerzeugung",
+          "content": "Nutzen Sie modernste Deep-Learning-Technologie, um Videos mit filmischer Qualität, fließenden Bewegungen und detaillierten visuellen Effekten zu erzeugen.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Keine technischen Videokenntnisse erforderlich",
+          "content": "Erstellen Sie professionelle Videos einfach durch Bereitstellung von Texteingaben. Die AI übernimmt automatisch die komplexe Videobearbeitung und Animation.",
+          "icon": "👌"
+        },
+        {
+          "title": "Beschleunigte Produktionszeit",
+          "content": "Reduzieren Sie die Zeit für die Videoerstellung erheblich, was eine schnellere Inhaltserstellung ermöglicht und den Anforderungen nach schnellem Inhalt nachkommt.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Steigern Sie das Engagement des Publikums",
+          "content": "Erstellen Sie fesselnde Videoinhalte, die für soziale Medien, Werbung, digitales Marketing und Storytelling optimiert sind, um Zuschauer zu gewinnen und zu binden.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Erweitern Sie die kreativen Möglichkeiten",
+          "content": "Konzentrieren Sie sich auf Narrative und Kreativität, während AI Ideen in hochwertige Videos verwandelt, die Innovation und Experimentierfreudigkeit unterstützen.",
+          "icon": "✨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Text zu Video FAQ",
+      "description": "Antworten auf häufig gestellte Fragen zur AI Text zu Video-Technologie, die Kreativen helfen, dieses mächtige Werkzeug zu verstehen und optimal zu nutzen.",
+      "q1": "Was ist Text zu Video?",
+      "a1": "Text zu Video ist eine innovative Technologie, die beschreibenden Text in animierte Videoinhalte umwandelt, indem künstliche Intelligenz und maschinelles Lernen verwendet werden.",
+      "q2": "Wie erstelle ich Videos mit Text zu Video?",
+      "a2": "Geben Sie einfach detaillierte textliche Beschreibungen Ihrer Szenen an, wählen Sie ein AI-Videogenerierungsmodell aus und lassen Sie die AI das Video für Sie erstellen.",
+      "q3": "Welche Art von Videos kann Text zu Video erstellen?",
+      "a3": "AI kann eine Vielzahl von Videos erstellen, von filmischen Animationen bis hin zu Social-Media-Clips, Storyboards, Erklärvideos und mehr, basierend auf Ihren Texteingaben.",
+      "q4": "Benötige ich Videobearbeitungskenntnisse, um Text zu Video zu verwenden?",
+      "a4": "Es sind keine vorherigen Videobearbeitungskenntnisse erforderlich, da die AI alle Aspekte der Animation und Produktion basierend auf Ihrer Texteingabe übernimmt.",
+      "q5": "Ist die Text-zu-Video-Technologie schnell?",
+      "a5": "Ja, AI-Tools können Videos in hoher Qualität innerhalb von Minuten produzieren, was die Videoerstellungsworkflows erheblich beschleunigt.",
+      "q6": "Kann ich die AI-generierten Videos herunterladen und teilen?",
+      "a6": "Ja, Videos können in gängigen Formaten wie MP4 exportiert werden, um sie einfach über soziale Netzwerke, Präsentationen und Marketingplattformen zu teilen.",
+      "q7": "Kann ich Text zu Video auf mobilen Geräten verwenden?",
+      "a7": "Viele AI Text zu Video-Plattformen bieten Zugriff über Web oder Apps auf Smartphones und Tablets für eine bequeme Nutzung überall.",
+      "q8": "Was sollte ich in meinen Texteingaben enthalten?",
+      "a8": "Enthalten Sie lebendige Beschreibungen von Charakteren, Szenerien, Aktionen, Emotionen und visuellen Stilen, um die AI bei der Erstellung detaillierter und ansprechender Videos zu leiten.",
+      "q9": "Warum ist Text zu Video vorteilhaft?",
+      "a9": "Es ermöglicht eine schnellere, kosteneffiziente und zugängliche Videoerstellung und befähigt Kreative, professionelle Visualisierungen ohne komplexe Software oder Kenntnisse zu produzieren."
+    },
+    "example1Details": "Modell: Seedance Pro | Eingabe: 'pov Cockpitaufnahme eines schnell fliegenden Flugzeugs\n[cut] Nahaufnahme des Piloten\n [cut] Über-die-Schulter-Aufnahme - vor dem Piloten - Flugzeugcockpit'",
+    "example2Details": "Modell: Seedance Pro | Vorgabe: 'Junge Flamingos lernen zu laufen.'",
+    "example4Details": "Modell: Vidu Q1 | Eingabe: 'Ein Mädchen geht nachts durch eine neonbeleuchtete Straße in Tokio, Regen fällt, filmische Beleuchtung, im Anime-Stil'",
+    "example5Details": "Modell: Vidu Q1 | Eingabe: 'Elegante junge indonesische Frau mit einem glatten schwarzen langen Pferdeschwanz und baumelnden Ohrringen'",
+    "example6Details": "Modell: Hailuo 02 | Eingabe: 'Anime-Stil Aufnahme: zwei Krieger prallen in der Mitte der Arena aufeinander — Fäuste fliegen, Tritte landen, der Boden bricht unter ihnen. Die Kamera wackelt bei jedem Aufprall, da der Kampf in einem Unschärfeexplosion explodiert. Schockwellen durchziehen die Luft, Trümmer verstreuen sich, und die Arena zittert unter der Kraft ihrer Schläge. Keine Pausen, keine Worte — nur unerbittlicher Hochgeschwindigkeitskampf aus jedem Winkel.'",
+    "example7Details": "Modell: Hailuo 02 | Eingabe: 'Eine Geschäftsfrau betritt einen Aufzug, drückt einen Knopf, und während sich die Türen schließen, beginnt sich der Raum innen zu drehen und zu entfalten wie Origami, was einen freien Fall durch Schichten von symbolischen Umgebungen — Büro, Dschungel, Tempel — enthüllt, die sich alle schnell ändern, mit einer One-Shot-Simulationskamerabewegung und schnellen Parallaxübergängen, unter blitzenden abstrakten Lichteffekten und surrealem Sounddesign, und eine hochkonzeptionelle, unterbewusste Traumlandschaft etablieren.'",
+    "placeholder": "Bitte beschreiben Sie das Video oder die Animation, die Sie erstellen möchten."
+  }
+}

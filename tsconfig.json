@@ -1,0 +1,80 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
+    "allowJs": false,
+    "noImplicitAny": false,
+    "noEmitOnError": false,
+    "declaration": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "jsxImportSource": "react",
+    "baseUrl": "src/",
+    "paths": {
+      "@/components/*": [
+        "Components/*"
+      ],
+      "@/Components/*": [
+        "Components/*"
+      ],
+      "@/ui/*": [
+        "Components/common/*"
+      ],
+      "@/utils/*": [
+        "utilities/*"
+      ],
+      "@/api/*": [
+        "api/*"
+      ],
+      "@/lib/*": [
+        "lib/*"
+      ],
+      "@/styles/*": [
+        "styles/*"
+      ],
+      "@/state": [
+        "state/index"
+      ],
+      "@/state/*": [
+        "state/*"
+      ],
+      "@/hooks/*": [
+        "hooks/*"
+      ],
+      "contentlayer/generated": [
+        "../.contentlayer/generated"
+      ]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "global.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "contentlayer.config.ts",
+    "api/**/**.ts"
+  ],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

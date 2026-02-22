@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Video to Anime",
+      "description": "Turn your videos into anime with our Video to Anime tool. Harness advanced AI technology to convert any video to anime style while keeping original motion and timing intact.",
+      "keywords": "Video to Anime, AI anime generator, anime video converter, anime transformation tool, cartoon video filter, anime style video, video to anime converter, anime-style animation, video anime maker, animated video generator, anime style transfer, anime video creation"
+    },
+    "hero": {
+      "title": "Video to Anime"
+    },
+    "whatIs": {
+      "title": "What is Video to Anime?",
+      "description": "Video to Anime transforms ordinary videos into anime-style animations using state-of-the-art AI technology. This intuitive process first applies your chosen anime style to a reference frame and then leverages this styled frame to enhance the entire video while preserving original motion and timing. Choose from 100+ styles like Studio Ghibli anime, Japanese manga, and more."
+    },
+    "examples": {
+      "title": "Video to Anime Examples",
+      "description": "Discover how Video to Anime transforms videos into captivating anime styles while maintaining perfect motion consistency with advanced AI technology."
+    },
+    "howToUse": {
+      "title": "How to Use Video to Anime",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Upload any video file (MP4, MOV, AVI) up to 15 seconds and 50MB for Video to Anime processing. Videos longer than 15 seconds are automatically trimmed for optimal processing."
+        },
+        {
+          "title": "Anime Style Reference",
+          "content": "We extract the first frame and apply your chosen anime style to create a reference guide for consistent transformation."
+        },
+        {
+          "title": "Choose Artistic Style",
+          "content": "Select from 100+ preset styles like Studio Ghibli anime, or create custom styles using text prompts and reference images for unique transformations."
+        },
+        {
+          "title": "Generate Video to Anime",
+          "content": "Our Video to Anime tool transforms your complete video using the styled reference frame, ensuring all original motion and timing are preserved through sophisticated AI processing."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Video to Anime",
+      "description": "Our Video to Anime offers the most advanced AI-driven anime conversion with motion preservation, extensive style options, and transparent pricing.",
+      "features": [
+        {
+          "title": "Perfect Motion Preservation",
+          "content": "Video to Anime retains every detail of original motion, expressions, and timing while applying anime styles with frame-perfect AI consistency.",
+          "icon": "🎬"
+        },
+        {
+          "title": "100+ Anime Style Options",
+          "content": "Select from Studio Ghibli anime, Japanese manga, and more. Create custom styles with text prompts or reference images.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professional Quality Output",
+          "content": "Produce high-definition anime videos with consistent style application, smooth transitions, and flawless frame consistency.",
+          "icon": "✨"
+        },
+        {
+          "title": "Smart Cost System",
+          "content": "Enjoy transparent pricing with separate charges for style transfer and video generation, allowing style experimentation without additional video costs.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Easy Two-Step Process",
+          "content": "Simple workflow: upload video, apply style to reference frame, generate full video. Real-time progress tracking with no technical expertise required.",
+          "icon": "👌"
+        },
+        {
+          "title": "Automatic Optimization",
+          "content": "Efficient processing with automatic trimming, format support (MP4, MOV, AVI), and duration-based cost calculations.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Learn more about how to use our Video to Anime tool and its features.",
+      "q1": "What is Video to Anime?",
+      "a1": "Video to Anime is an AI tool that transforms ordinary videos into stunning anime-style animations while preserving original motion and timing for seamless transitions.",
+      "q2": "How to use Video to Anime?",
+      "a2": "Using Video to Anime is simple! First upload your video, then choose an anime style, and finally generate your transformed anime video. Enjoy the easy, smooth process with consistent results.",
+      "q3": "How does Video to Anime work?",
+      "a3": "Video to Anime uses sophisticated AI technology to convert videos into anime styles. It applies a chosen style to a reference frame, then transforms the entire video while maintaining motion consistency.",
+      "q4": "What is the best anime video converter?",
+      "a4": "KomikoAI provides the best anime video converter. Our aim is to lead in AI creation by delivering professional-quality results, offering a wide range of customization options, and providing an intuitive workflow. KomikoAI's Video to Anime tool is perfect for content creators seeking creative anime video transformations with ease.",
+      "q5": "Is the KomikoAI Video to Anime free online?",
+      "a5": "Yes, you can test out the Video to Anime tool on KomikoAI for free, without requiring any subscription. Try our tool today!",
+      "q6": "What can I do with Video to Anime?",
+      "a6": "You can use Video to Anime on KomikoAI to create anime-style videos, convert real-life footage into animated sequences, and explore creative artistic possibilities with a wide variety of styles.",
+      "q7": "Can I use Video to Anime on my phone?",
+      "a7": "Yes, you can use Video to Anime as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Video to Anime?",
+      "a8": "Yes, KomikoAI's Video to Anime allows you to export your generation in various formats, such as MP4, MOV, and AVI, for easy sharing.",
+      "q9": "Why should I use Video to Anime?",
+      "a9": "Using Video to Anime can enhance videos with stunning anime styles. Our tool allows you to transform videos seamlessly while preserving intricate details of motion, offering a professional-quality animated result."
+    },
+    "cta": {
+      "title": "Transform Videos for FREE with Our Video to Anime Today!",
+      "description": "Create captivating anime videos instantly with our advanced AI technology.",
+      "buttonText": "Try Our Video to Anime Free"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "single",
+      "type": "video",
+      "output": "/images/examples/video-to-video/dog.webm",
+      "label": "Anime Transformation",
+      "description": "Real-life dog to anime style transformation showing realistic pet converted to animated character"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/anime-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Anime Style",
+      "description": "Style Transfer | Transfer original video to anime style"
+    }
+  ],
+  "config": {
+    "defaultStyle": "anime"
+  },
+  "originalKeyword": "Video to Anime",
+  "pageStructure": ["whatIs", "examples", "howToUse", "moreAITools", "whyUse", "faq", "cta"]
+}

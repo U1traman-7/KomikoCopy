@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "title": "Superresolución de video con IA - KomikoAI",
+    "description": "La tecnología avanzada de superresolución de video con IA de KomikoAI transforma videos de baja calidad en contenido impresionante de alta resolución. Experimente la mejora de video de nivel profesional impulsada por la IA de KomikoAI, que eleva sus videos a FHD, 2K o 4K, mientras conserva los detalles naturales y la claridad visual.",
+    "keywords": "Superresolución de video con IA, mejora de video, mejora de la calidad de video, convertidor de video HD, superresolución de video 4K, procesamiento de video con IA, mejora de la resolución de video, superresolución de video con aprendizaje automático, mejora de video profesional, potenciador de calidad de video"
+  },
+  "title": "Superresolución de video con IA",
+  "description": "Aumente la resolución y mejore la calidad de video con nuestra avanzada tecnología de superresolución de video con IA. Nuestra tecnología de superresolución de video impulsada por IA transforma videos de baja calidad en contenido impresionante de alta resolución. Ya sea que necesite superresolver videos a FHD, 2K o 4K, nuestra mejora de video con IA ofrece claridad y detalles profesionales.",
+  "input": {
+    "title": "Video de entrada",
+    "uploadPrompt": "Haga clic para cargar o arrastre el video aquí",
+    "from_other_tools": "Vídeo recibido de {{source}}"
+  },
+  "results": {
+    "title": "Resultados del video",
+    "emptyState": "Los resultados se mostrarán aquí"
+  },
+  "seo": {
+    "transformTitle": "Transforme sus videos con la mejora de video con IA",
+    "transformDescription": "Descubra cómo la superresolución de video de KomikoAI AI puede mejorar su contenido utilizando la mejora de video basada en el aprendizaje automático. Nuestro potenciador de video con IA facilita a todos la obtención de una superresolución de video de calidad profesional."
+  },
+  "steps": {
+    "step1": {
+      "title": "Paso 1: Cargue el video",
+      "content": "Cargue cualquier video que desee mejorar con nuestra tecnología de superresolución de video con IA. Admitimos formatos de video comunes."
+    },
+    "step2": {
+      "title": "Paso 2: Seleccione la resolución de salida",
+      "content": "Elija cuánto desea aumentar la resolución: superresuelva el video a calidad FHD, 2K o 4K."
+    },
+    "step3": {
+      "title": "Paso 3: Procese el video",
+      "content": "Haga clic en el botón 'Superresolver video' para iniciar el proceso de mejora."
+    },
+    "step4": {
+      "title": "Paso 4: Descargue los resultados",
+      "content": "¡Descargue su video mejorado y disfrute de la calidad mejorada!"
+    }
+  },
+  "examples": {
+    "title": "Ejemplos de superresolución de video con IA",
+    "description": "Vea los resultados de la superresolución de video con IA generados por los usuarios de KomikoAI",
+    "browserNotSupported": "Su navegador no admite la etiqueta de video.",
+    "inputLabel": "Ejemplo de video de entrada",
+    "outputLabel": "Video de salida superresuelto"
+  },
+  "benefits": {
+    "title": "¿Por qué usar la superresolución de video con IA?",
+    "description": "El superresolucionador de video con IA de KomikoAI transforma sus videos de baja resolución en contenido impresionante de alta calidad, perfecto para uso personal y profesional.",
+    "feature1": {
+      "title": "Superresolución de video con IA",
+      "content": "Nuestro superresolucionador de video con IA proporciona resultados de nivel profesional al mejorar de forma inteligente la calidad del video y aumentar la resolución, al tiempo que mantiene el movimiento natural."
+    },
+    "feature2": {
+      "title": "Múltiples opciones de resolución",
+      "content": "Superresuelva videos a la resolución que desee: elija entre FHD (1080p), 2K (1440p) o 4K (2160p) para mejorar la calidad del video para cualquier plataforma."
+    },
+    "feature3": {
+      "title": "Mejora detallada con IA",
+      "content": "Nuestra tecnología de superresolución de video con IA analiza y mejora cada fotograma, brindando una claridad y detalles excepcionales mientras conserva las características del video original."
+    },
+    "feature4": {
+      "title": "Resultados profesionales",
+      "content": "Transforme metraje antiguo o de baja calidad en contenido de nivel profesional adecuado para transmisión, presentaciones o redes sociales."
+    },
+    "feature5": {
+      "title": "Procesamiento rápido",
+      "content": "Experimente una mejora de video rápida con nuestro flujo de procesamiento de IA optimizado, que le ahorrará tiempo y esfuerzo."
+    },
+    "feature6": {
+      "title": "Compatibilidad universal",
+      "content": "Funciona con una variedad de formatos y longitudes de video, lo que lo hace ideal para mejorar videos personales, contenido de marketing o proyectos profesionales."
+    }
+  },
+  "guide": {
+    "title": "Guía completa para la mejora de video con IA",
+    "description": "Aprenda todo sobre cómo mejorar la calidad de video con el superresolucionador de video con IA de KomikoAI. Obtenga respuestas de expertos sobre nuestra tecnología de mejora de video basada en el aprendizaje automático y cómo transforma su contenido."
+  },
+  "faq": {
+    "question1": "¿Qué es el superresolucionador de video con IA de KomikoAI?",
+    "answer1": "El superresolucionador de video con IA de KomikoAI es una herramienta de vanguardia que utiliza IA para mejorar la calidad del video y aumentar la resolución. Nuestra tecnología de superresolución de video con IA transforma automáticamente videos de baja calidad en contenido nítido FHD, 2K o 4K, al tiempo que conserva los detalles naturales y la fidelidad visual.",
+    "question2": "¿Cómo funciona nuestra superresolución de video con IA?",
+    "answer2": "Nuestro superresolucionador de video con IA utiliza modelos avanzados de aprendizaje automático entrenados en millones de videos de alta calidad. La IA analiza cada fotograma para mejorar la calidad del video, aumentar la resolución y mejorar la claridad general, al tiempo que mantiene un movimiento suave y natural. Este proceso de mejora de video impulsado por IA ofrece resultados superiores en comparación con los métodos de superresolución tradicionales.",
+    "question3": "¿Cuáles son los beneficios de la superresolución de video con IA?",
+    "answer3": {
+      "point1": "Transforme videos de baja resolución en contenido nítido de alta definición",
+      "point2": "Mejore la calidad del video manteniendo el movimiento natural",
+      "point3": "Elimine artefactos de compresión y ruido de video",
+      "point4": "Elija entre múltiples resoluciones de salida (FHD/2K/4K) para obtener el resultado perfecto"
+    },
+    "question4": "¿Qué formatos y tamaños de video se admiten?",
+    "answer4": "Nuestro superresolucionador de video con IA funciona con archivos de video MP4 de cualquier tamaño. Puede mejorar videos a resoluciones FHD (1080p), 2K (1440p) o 4K (2160p), según sus necesidades de calidad.",
+    "question5": "¿Es gratuito el superresolucionador de video con IA?",
+    "answer5": "Comience a mejorar sus videos de forma gratuita utilizando los zaps (créditos) gratuitos de KomikoAI. Para las necesidades profesionales, nuestros planes pagos ofrecen zaps adicionales, tiempos de procesamiento más rápidos y acceso a salidas de mayor resolución.",
+    "question6": "¿Qué resolución debo elegir para mi video?",
+    "answer6": "Elija FHD (1080p) para obtener una excelente calidad de alta definición adecuada para la mayoría de las plataformas en línea, 2K (1440p) para contenido de video premium y 4K (2160p) para proyectos profesionales de ultra alta definición. Las resoluciones más altas ofrecen mejor calidad pero requieren más tiempo de procesamiento."
+  },
+  "modal": {
+    "deleteTitle": "Confirmación de eliminación",
+    "deleteConfirmation": "¿Está seguro de que desea eliminar este video? Esta acción no se puede deshacer.",
+    "cancel": "Cancelar",
+    "delete": "Eliminar"
+  },
+  "notifications": {
+    "deleteSuccess": "Eliminación exitosa",
+    "deleteFailed": "Error al eliminar",
+    "upscaleSuccess": "Superresolución de video exitosa",
+    "upscaleFailed": "Error en la superresolución de video",
+    "downloadFailed": "Error al descargar",
+    "noZaps": "Por favor, compre más zaps"
+  },
+  "upscale_video": "Superresolver video"
+}

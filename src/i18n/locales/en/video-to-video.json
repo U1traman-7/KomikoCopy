@@ -1,0 +1,277 @@
+{
+  "ui": {
+    "title": "Video to Video AI",
+    "tooltip": "Transform your video with Video to Video AI and Video Style Transfer technology",
+    "generatedVideos": "Generated Styled Videos",
+    "emptyState": "Your anime and cartoon styled videos will appear here",
+    "steps": {
+      "uploadVideo": "Upload Video",
+      "styleSelection": "Style",
+      "generateVideo": "3. Generate Video"
+    },
+    "upload": {
+      "dragText": "Tap to upload or drag your video here",
+      "formatInfo": "Supports MP4, MOV, AVI • Max 15 seconds • Max 50MB",
+      "safariFormatInfo": "Supports MP4, MOV, AVI • Max 15 seconds • Max 50MB",
+      "extractFrameManually": "Extract First Frame Manually",
+      "bestResultsTip1": "For best results, use a video filmed in one continuous shot.",
+      "bestResultsTip2": "If it features a human actor, the first frame should show a front-facing view. Ideally, limit the video to one main actor and include at least the full upper body.",
+      "safariNotice": "Safari User Notice",
+      "safariLimitWarning": "Video length limited to 15 seconds or less. For longer videos or custom duration control, please use Chrome browser."
+    },
+    "uploadTips": {
+      "title": "For best results (quality may vary otherwise)",
+      "tip1": "1. Use a single continuous shot (split multi-shot videos and convert separately).",
+      "tip2": "2. Include only one person, large and clear in frame."
+    },
+    "duration": {
+      "title": "Duration",
+      "description": "Select the duration for video generation. Longer durations cost more zaps.",
+      "originalDuration": "Original: {{duration}}s",
+      "originalLength": "Original Length",
+      "tooLong": "Too Long",
+      "willBeTrimmed": "Will be trimmed from {{original}}s to {{target}}s",
+      "safariNote": "Safari detected: Using original video length for best compatibility",
+      "chromeAdvice": "For custom duration control, please use Chrome browser",
+      "safariUseOriginal": "Safari users: Video will use its original duration for optimal compatibility"
+    },
+    "model": {
+      "label": "Model",
+      "placeholder": "Select Model",
+      "ariaLabel": "Select Model",
+      "options": {
+        "v2vHuman": "V2V Human Video (Face must be clearly visible)",
+        "v2vGeneral": "V2V General",
+        "v2vPro": "V2V Pro",
+        "wanAnimate": "Wan Animate (Best for Character Animation)"
+      },
+      "descriptions": {
+        "v2vHuman": "For human videos with static backgrounds. Replicates expressions and body movements.",
+        "v2vGeneral": "Fast style transfer for any video (human or non-human). Works best with one continuous shot.",
+        "v2vPro": "High quality, versatile video-to-video transformation.",
+        "wanAnimate": "For character videos with static backgrounds. Replicates expressions and body movements. Best for 3d animations."
+      },
+      "zapsPerSecond": "zaps/s"
+    },
+    "ratioSelector": {
+      "label": "Output Aspect Ratio",
+      "ariaLabel": "Select Aspect Ratio"
+    },
+    "actTwo": {
+      "bodyControl": "Body Control",
+      "bodyControlDesc": "When enabled, non-facial movements and gestures will be applied to the character in addition to facial expressions.",
+      "expressionIntensity": "Expression Intensity",
+      "expressionIntensityDesc": "A larger value increases the intensity of the character's expression.",
+      "ratioDesc": "The resolution of the output video.",
+      "videoTooShort": "For V2V Human Video, the reference video must be at least {{min}} seconds."
+    },
+    "videoMode": {
+      "title": "Generation Mode",
+      "human": "Human Video Mode",
+      "humanDescription": "Optimized for human subjects and portrait videos",
+      "general": "General Mode",
+      "generalDescription": "Works with any subject and scene type"
+    },
+    "videoPrompt": {
+      "title": "Prompt",
+      "optional": "(Optional)",
+      "placeholder": "E.g., anime girl dancing",
+      "description": "Add additional details to guide the video generation process"
+    },
+    "framePreview": {
+      "original": "Original",
+      "styled": "Styled",
+      "applyingStyle": "Applying Style...",
+      "awaitingStyle": "Awaiting Style",
+      "selectStyleBelow": "Select a style above",
+      "beforeAfterComparison": "Before and after style transfer comparison",
+      "applyingStyleToFrame": "Applying your selected style to the frame...",
+      "frameReferenceText": "This frame will be used as reference for Video Style Transfer",
+      "styleTooltip": "This styled frame will guide the entire video transformation."
+    },
+    "styleModes": {
+      "templates": "Templates",
+      "prompt": "Prompt",
+      "reference": "Reference"
+    },
+    "styleTemplatesTitle": "Style Templates",
+    "viewAll": "View All",
+    "selectAStyle": "Select a Style",
+    "selected": "Selected",
+    "all": "All",
+    "prompt": {
+      "placeholder": "Describe your desired style transformation...",
+      "example": "Example: \"Replace the man with Naruto\", \"Turn this into a classic 90s anime style\", \"Dress the girl in a floral dress\""
+    },
+    "reference": {
+      "uploadText": "Upload a reference image, such as your original character. This will be the first frame of the generated video.",
+      "formatInfo": "Supports JPG, PNG, JPEG, WEBP • Max 10MB",
+      "compositionWarning": "Ensure the reference image matches the composition and pose of the original video's first frame."
+    },
+    "buttons": {
+      "applying": "Applying...",
+      "useNewReference": "Use New Reference",
+      "applyNewStyle": "Apply New Style",
+      "useReference": "Use Reference",
+      "applyStyle": "Apply Style",
+      "applyStyleWithName": "Apply {{style}} Style",
+      "applyNewStyleWithName": "Apply New {{style}} Style",
+      "generateVideo": "Generate Video",
+      "generatingVideo": "Generating Video...",
+      "generateMore": "Generate More Videos",
+      "createAnother": "Create Another Video"
+    },
+    "separators": {
+      "readyToGenerate": "Ready to generate video"
+    },
+    "trending": "Trending"
+  },
+  "seo": {
+    "meta": {
+      "title": "Video to Video AI | Best Video Style Transfer",
+      "description": "Transform your videos with Video to Video AI technology. Our advanced Video Style Transfer converts any video to anime, cartoon, manga, and manhwa styles while preserving original motion and timing.",
+      "keywords": "Video to Video AI, Video Style Transfer, anime video generator, cartoon video filter, manga style transfer, manhwa animation, video to anime converter, animation tool, cartoon video maker, anime style video, manga video creator, video stylization, animated video generator, comic video filter, anime transformation, cartoon style transfer"
+    },
+    "hero": {
+      "title": "Video to Video AI"
+    },
+    "whatIs": {
+      "title": "What is Video to Video AI?",
+      "description": "Video to Video AI transforms ordinary videos into anime, cartoon, manga, and manhwa-style animations using advanced Video Style Transfer technology. Our two-step process first applies your chosen style to a reference frame, then uses this styled frame to transform your entire video while preserving original motion and timing. Choose from 20+ styles including Studio Ghibli anime, Korean manhwa, Japanese manga, and popular cartoon aesthetics with our Video Style Transfer."
+    },
+    "examples": {
+      "title": "Video to Video AI Examples",
+      "description": "See how our Video to Video AI transforms videos into stunning anime, cartoon, manga, and manhwa styles while maintaining perfect motion consistency with advanced Video Style Transfer.",
+      "style": "Applied Style"
+    },
+    "howToUse": {
+      "title": "How to Use Video to Video AI",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Upload any video file (MP4, MOV, AVI) up to 15 seconds and 50MB for Video to Video AI processing. Videos longer than 15 seconds are automatically trimmed for optimal Video Style Transfer."
+        },
+        {
+          "title": "Video Style Transfer Reference",
+          "content": "We extract the first frame and apply your chosen anime, cartoon, or manga style to create a reference guide for consistent Video Style Transfer transformation."
+        },
+        {
+          "title": "Choose Artistic Style",
+          "content": "Select from 20+ preset styles like Studio Ghibli anime, Korean manhwa, Japanese manga, or create custom styles with text prompts and reference images for Video Style Transfer."
+        },
+        {
+          "title": "Generate Video to Video AI",
+          "content": "Our Video to Video AI transforms your complete video using the styled reference frame while preserving all original motion, expressions, and timing through advanced Video Style Transfer."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Video to Video AI",
+      "description": "Our Video to Video AI offers the most advanced Video Style Transfer with motion preservation, extensive style options, and transparent pricing.",
+      "features": [
+        {
+          "title": "Perfect Motion Preservation",
+          "content": "Video to Video AI maintains every detail of original motion, facial expressions, and timing while applying anime, cartoon, or manga styles with frame-perfect Video Style Transfer consistency.",
+          "icon": "🎬"
+        },
+        {
+          "title": "20+ Video Style Transfer Options",
+          "content": "Choose from Studio Ghibli anime, Korean manhwa, Japanese manga, Disney cartoon, Naruto style, and more. Create custom Video Style Transfer with text prompts or reference images using Video to Video AI.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professional Quality Output",
+          "content": "Generate high-definition anime and cartoon videos with consistent Video Style Transfer application, smooth transitions, and no flickering or artifacts with our Video to Video AI.",
+          "icon": "✨"
+        },
+        {
+          "title": "Smart Cost System",
+          "content": "Transparent pricing with separate charges for Video Style Transfer and video generation. Experiment with different styles without additional video costs using Video to Video AI.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Easy Two-Step Process",
+          "content": "Simple Video to Video AI workflow: upload video, apply Video Style Transfer to reference frame, generate full video. No technical expertise required with real-time progress tracking.",
+          "icon": "👌"
+        },
+        {
+          "title": "Automatic Optimization",
+          "content": "Smart Video to Video AI processing with automatic trimming, format support (MP4, MOV, AVI), and duration-based cost calculation for optimal Video Style Transfer.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Video to Video AI FAQ",
+      "description": "Common questions about our Video to Video AI and Video Style Transfer tool, process, costs, and best practices.",
+      "q1": "How does Video to Video AI work?",
+      "a1": "Our Video to Video AI uses a two-step Video Style Transfer process: 1) Extract a reference frame and apply your chosen anime/cartoon style, 2) Transform the entire video using this styled frame while preserving original motion and timing. This ensures consistent Video Style Transfer application across all frames.",
+      "q2": "What are the video format requirements for Video to Video AI?",
+      "a2": "We support MP4, MOV, and AVI formats with 50MB maximum file size for Video to Video AI processing. Videos are limited to 15 seconds and automatically trimmed if longer for optimal Video Style Transfer processing and cost efficiency.",
+      "q3": "How long does Video Style Transfer take?",
+      "a3": "Total Video to Video AI processing takes 5-10 minutes: Video Style Transfer (1-3 minutes) and video generation (3-7 minutes). You can monitor Video Style Transfer progress in real-time.",
+      "q4": "What are the costs for Video to Video AI?",
+      "a4": "Separate charges for Video Style Transfer and video generation based on duration. Video to Video AI costs are shown in real-time before processing, and credits are only deducted after successful Video Style Transfer completion.",
+      "q5": "Can I create custom Video Style Transfer styles?",
+      "a5": "Yes! Choose from 20+ preset templates (Studio Ghibli, Korean manhwa, Japanese manga, etc.), write custom text prompts, or upload reference images for unique Video Style Transfer transformations with our Video to Video AI.",
+      "q6": "What makes good input videos for Video to Video AI?",
+      "a6": "Best Video Style Transfer results with clear subjects, good lighting, stable motion, and well-defined features. Avoid fast movements, dark or blurry footage for optimal Video to Video AI processing. Videos under 5 seconds with people or clear objects work best for Video Style Transfer."
+    },
+    "cta": {
+      "title": "Transform Videos for FREE with Our Video to Video AI Today!",
+      "description": "Create stunning anime and cartoon-style videos with advanced Video Style Transfer technology.",
+      "buttonText": "Try Our Video to Video AI Free"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/dancing-input.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/fox-boy.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Transferred Result",
+      "description": "Anime | Style: Fox Girl/Boy"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/drum-set.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/the-simpsons.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Transferred Result",
+      "description": "Movie/Show | Style: The Simpsons"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/skateboard.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/minfecraft.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Transferred Result",
+      "description": "Game | Style: Minecraft"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Comic Style",
+      "description": "Style Transfer | Style: Comic",
+      "isSpecial": true
+    },
+    {
+      "id": 5,
+      "layout": "single",
+      "type": "video",
+      "output": "/images/examples/video-to-video/dog.webm",
+      "label": "Anime Transformation",
+      "description": "Real-life dog to anime style transformation showing realistic pet converted to animated character"
+    }
+  ]
+}

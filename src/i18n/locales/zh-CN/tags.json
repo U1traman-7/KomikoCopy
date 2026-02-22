@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "title": "{{tag}} AI",
+    "titleWithDescription": "{{tag}} 同人艺术",
+    "description": "探索精彩的 {{tag}} 艺术，并通过 KomikoAI 把你的创想变成 {{tag}} 同人作品。免费创作出色的 {{tag}} 同人作品、{{tag}} 原创角色（OC）和动画。",
+    "descriptionWithTagDescription": "{{tagDescription}}。探索令人惊艳的{{tag}}艺术作品，通过KomikoAI将您的灵感变为现实，创作出色的{{tag}}同人作品。免费创作精彩的{{tag}}同人作品、{{tag}}原创角色和动画。",
+    "keywords": "{{tag}} AI, {{tag}} ai, {{tag}} 艺术, {{tag}} 同人, {{tag}} {{tag}}, {{tag}} AI 艺术, {{tag}} AI 艺术生成器, AI {{tag}}, AI {{tag}} 生成器, {{tag}} 生成器, {{tag}} AI 生成器, {{tag}} 动漫艺术, {{tag}} {{tag}} 制造器, {{tag}} {{tag}} 生成器, {{tag}} AI 动漫, {{tag}} 动漫 AI 艺术"
+  },
+  "title": "{{tag}} AI",
+  "titleWithDescription": "{{tag}} 同人艺术",
+  "pageDescription": "探索精彩的 {{tag}} 艺术，利用 KomikoAI 将你的创意转化为 {{tag}} 同人作品。免费创造出色的 {{tag}} 同人作品、{{tag}} 原创角色（OC）和动画。",
+  "headings": {
+    "whatIs": "通过{{tag}} AI 创造属于你的{{tag}} 艺术",
+    "whatIsWithDescription": "用 KomikoAI 制作你的 {{tag}} 同人艺术",
+    "howToUse": "如何使用{{tag}} AI 生成器",
+    "whyUse": "为什么选择{{tag}} AI 生成器",
+    "applications": "{{tag}} AI 生成器的应用领域",
+    "mainTitle": "{{tag}} AI",
+    "mainTitleWithDescription": "{{tag}} AI 艺术"
+  },
+  "whatIsDescription": "探索顶级的{{tag}} AI 艺术，使用{{tag}} AI 将您的创意转化为令人惊叹的{{tag}} 艺术和原创角色。{{tag}} AI 生成器经过数百万张{{tag}} 艺术作品的训练，让您能在短短几秒内创作出高质量{{tag}} 艺术！",
+  "whatIsDescriptionWithDescription": "发现最佳的 {{tag}} AI 艺术，用 AI 将你的设想转化为 {{tag}} 同人作品和 {{tag}} 原创角色（OC）。KomikoAI 的 {{tag}} 生成器对 {{tag}} 世界了如指掌，助你在瞬间制作出高品质的 {{tag}} 艺术！",
+  "howToUseDescription": "按照以下简单步骤，使用我们的AI {{tag}} 生成器创作精美绝伦的{{tag}} 艺术作品",
+  "whyUseDescription": "了解为何数千名创作者选择AI {{tag}} 艺术生成器来满足他们的动漫艺术需求。",
+  "howToUseSteps": [
+    {
+      "title": "输入您的提示",
+      "content": "首先输入您想要创作的{{tag}} 艺术的详细描述。包括角色细节、场景元素、艺术风格和氛围等，以获得最佳效果。"
+    },
+    {
+      "title": "选择您的风格",
+      "content": "从预设的艺术风格中选择，或指定您个人偏好的美学风格，例如漫画、动画、漫画或特定艺术家的风格。"
+    },
+    {
+      "title": "生成您的{{tag}} 艺术",
+      "content": "点击生成按钮，即可生成符合您描述的独特{{tag}} 艺术作品。"
+    },
+    {
+      "title": "下载并分享",
+      "content": "生成后，您可以下载并分享您的AI {{tag}} 艺术作品，与他人分享您的创意。"
+    }
+  ],
+  "cta": {
+    "title": "体验AI{{tag}}生成器",
+    "description": "{{tag}} AI生成器通过数百万幅精美的{{tag}}艺术作品进行训练，帮助您轻松打造个性化的{{tag}} AI艺术。无需艺术技巧，仅凭您的想象力和几句描述就能实现！",
+    "button": "立即体验{{tag}} AI"
+  },
+  "followers": "粉丝",
+  "trending": "当前热门",
+  "newest": "最新发布",
+  "applyModerator": "申请成为版主",
+  "becomeMod": "成为版主",
+  "showMore": "显示更多",
+  "showLess": "收起",
+  "host": "主持",
+  "moderators": "版主",
+  "mods": "版主",
+  "people": "",
+  "addMod": {
+    "title": "添加版主",
+    "emailLabel": "用户邮箱",
+    "emailPlaceholder": "输入用户注册的邮箱",
+    "roleLabel": "角色",
+    "roleModerator": "版主",
+    "roleOwner": "拥有者",
+    "confirm": "添加版主",
+    "emailRequired": "请输入邮箱地址",
+    "failed": "添加版主失败",
+    "success": "成功添加版主！",
+    "networkError": "网络错误，请重试"
+  },
+  "cancel": "取消",
+  "save": "保存",
+  "settings": {
+    "title": "设置",
+    "basicInfo": "基本信息",
+    "logo": "标志",
+    "uploadLogo": "上传标志",
+    "headerImage": "标题图片",
+    "clickToUpload": "点击上传",
+    "description": "描述",
+    "descriptionPlaceholder": "描述此标签...",
+    "invalidImage": "请选择图片文件",
+    "success": "保存成功！",
+    "error": "保存失败",
+    "moderators": "版主管理",
+    "basicSettings": "基本设置",
+    "remove": "移除",
+    "removeHeader": "移除标题",
+    "allowNsfw": "允许显示成人内容",
+    "allowNsfwDescription": "启用以允许在此标签中展示成熟/成人内容",
+    "ctaLink": "CTA按钮的链接",
+    "ctaLinkError": "只允许使用内部链接（相对路径或komiko.app/komikoai.com）",
+    "ctaLinkHint": "只允许使用内部链接。留空则使用默认值。",
+    "ctaLinkHintWithDefault": "自动检测: {{defaultLink}}",
+    "characterCategory": "角色类别",
+    "characterCategoryPlaceholder": "搜索或选择类别",
+    "characterCategoryHint": "将此标签与一个官方角色类别相链接。",
+    "noModerators": "目前无版主",
+    "ownerBadge": "拥有者",
+    "removeMod": "移除版主",
+    "confirmDeleteMod": "确定移除版主 {{name}} 吗？",
+    "deleteModSuccess": "成功移除版主",
+    "deleteModFailed": "移除版主失败",
+    "isNsfw": "这是一个成人内容标签",
+    "isNsfwDescription": "启用此选项后，此标签中可以包含成熟/成人内容",
+    "logoHint": "建议使用正方形图片，非正方形图片将会居中裁剪。",
+    "headerHint": "建议尺寸：1200x400像素，较大的图片将会被调整大小。",
+    "imageProcessError": "图片处理失败",
+    "allowedMediaTypes": "可选媒体类型",
+    "mediaTypeAll": "所有（图像和视频）",
+    "mediaTypeImage": "仅限图像",
+    "mediaTypeVideo": "仅限视频"
+  },
+  "moderatorApplication": {
+    "preferredNameRequired": "请输入您的首选名字",
+    "preferredNameTooLong": "名字不能超过50个字符",
+    "contactInfoRequired": "请输入联系信息",
+    "invalidContactInfo": "请输入有效的邮箱或 Discord 用户名",
+    "reasonRequired": "请说明为何应选择您",
+    "reasonTooShort": "请至少写50个字符",
+    "reasonTooLong": "请不要超过1000个字符",
+    "reasonMinLength": "至少50个字符",
+    "applicationValidationFailed": "请修正表单中的错误",
+    "title": "申请成为 Komiko 版主！",
+    "status": "申请状态",
+    "pending": "待审核",
+    "approved": "已批准",
+    "rejected": "已拒绝",
+    "pendingMessage": "您的申请正在审核中。一旦有结果，我们会通知您。",
+    "approvedMessage": "恭喜！您的申请已获批准。您现在是此标签的版主。",
+    "rejectedMessage": "遗憾地通知您，您的申请未获批准。您可以稍后再次申请。",
+    "submitted": "申请提交成功！",
+    "introTitle": "帮助塑造社区并享受作为版主的独特福利！",
+    "benefitsTitle": "好处：",
+    "benefit1": "管理内容的权力：置顶帖子、编辑标签详情及精选/隐藏内容。",
+    "benefit2": "独家培训：参与关于标签管理和社区讨论的官方研讨会。",
+    "process": "申请将由Komiko团队直接审核。如被选中，结果将在5个工作日内通知。",
+    "preferredName": "我们应该如何称呼您？",
+    "preferredNamePlaceholder": "例如：您的昵称或首选名字",
+    "tagsQuestion": "您对管理哪些标签感兴趣？",
+    "contact": "您的 Discord 账号或邮箱是什么？",
+    "contactPlaceholder": "例如：yourname#1234 或 you@example.com",
+    "reason": "我们为何应选择您？",
+    "reasonPlaceholder": "请简述您的经验、动机及如何帮助该社区......",
+    "note": "您的申请将由我们的团队审核。我们将在决策后通知您。",
+    "submitApplication": "提交申请",
+    "close": "关闭"
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      {
+        "question": "什么是AI {{tag}} 艺术生成器？",
+        "answer": "AI {{tag}} 艺术生成器是一款高级AI工具，可以基于文字描述创建定制的动漫风格艺术作品。通过使用经过大量动漫图片训练的深度学习算法，生成各种独特的动漫风格插图，包括传统动漫、漫画以及现代风格。"
+      },
+      {
+        "question": "AI {{tag}} 艺术生成器如何工作？",
+        "answer": "AI {{tag}} 艺术生成器通过将您的文字提示转化为视觉艺术作品进行工作，利用经过动漫艺术训练的专用AI模型。只需输入您想要的详细描述，并选择风格偏好，AI程序会生成符合您描述的独特动漫插图。描述越详细，效果越好。"
+      },
+      {
+        "question": "我可以创作哪些类型的动漫艺术？",
+        "answer": "您几乎可以创作任何风格的动漫艺术，包括角色肖像、动作场景、幻想场景、科幻概念、背景、漫画板块等。生成器支持多种动漫子类型，例如少年、少女、青年、萌、Q版等。"
+      },
+      {
+        "question": "使用AI {{tag}} 艺术生成器是否需要艺术技能？",
+        "answer": "您不需要艺术技能！这也是AI {{tag}} 艺术生成器的魅力所在——它让动漫艺术创作变得如此简单。无论您是一名寻找灵感的专业艺术家，还是没有绘画经验的新人，只需描述您想要的内容就能创作出精彩的动漫艺术。"
+      },
+      {
+        "question": "如何提高生成的动漫艺术作品质量？",
+        "answer": "为了获得更理想的效果，请在提示中添加角色特征、服装细节、姿势、表情、背景、灯光和艺术风格参考等详细信息。尝试包含特定的动漫艺术家或风格，比如“吉卜力风格”或“新海诚艺术风格”。对不同的提示进行尝试，找出最佳效果。"
+      },
+      {
+        "question": "我可以将生成的动漫艺术用于商业用途吗？",
+        "answer": "是的，您可以将通过AI {{tag}} 艺术生成器创作的艺术品用于个人和商业项目，但请遵守我们的服务条款。这非常适合内容创作者、游戏开发者、网络漫画艺术家以及寻求独特动漫视觉效果的企业。"
+      },
+      {
+        "question": "我可以生成多少图像？",
+        "answer": "您可以生成的图像数量取决于您的订阅计划。免费用户每天可以生成一定数量的图像，而高级用户则享有更多或不限量的生成次数，并可以访问附加功能和高分辨率输出。"
+      },
+      {
+        "question": "我可以根据真人生成动漫角色吗？",
+        "answer": "可以，您可以通过描述人物特征的提示，创建真人的动漫风格版本。为获得最佳效果，请详细描述外貌，并指定您喜欢的动漫风格。这一功能非常适合用于创作个性化的动漫头像或角色肖像。"
+      },
+      {
+        "question": "漫画风格生成和动漫风格生成有何区别？",
+        "answer": "漫画风格生成通常以黑白线条为主，具有强烈的对比和独特的版面布局，类似于日本漫画。而动漫风格生成则以全彩作品为特色，用柔和的阴影呈现出更接近动画节目的效果。您可以选择任一种风格，获取理想的视觉效果。"
+      },
+      {
+        "question": "我可以对生成的动漫图像进行编辑吗？",
+        "answer": "可以！生成之后，您可以下载动漫艺术作品，并使用您喜欢的图像编辑软件进行进一步编辑。对于高级用户，这些图像是改进、上色或整合到更大艺术项目中的理想起点。"
+      }
+    ]
+  },
+  "owner": "拥有者",
+  "moderator": "版主",
+  "postsLabel": "帖子",
+  "followersLabel": "粉丝",
+  "viewAll": "查看全部",
+  "characterAdded": "角色已添加",
+  "characterRemoved": "角色已移除",
+  "cannotRemoveOfficial": "无法移除官方角色",
+  "addCharacterToTag": "将角色添加至标签",
+  "searchCharacters": "按名称搜索角色...",
+  "noCharactersFound": "未找到角色",
+  "typeMoreToSearch": "输入至少两个字符进行搜索",
+  "searchCharacterHint": "搜索要添加到此标签的角色",
+  "noCharactersYet": "尚无角色",
+  "noCharactersDesc": "与此标签相关的角色将在此显示",
+  "addCharacter": "添加角色",
+  "relatedCharacters": "相关角色",
+  "removeCharacter": "从标签中移除",
+  "noModerators": "目前无版主",
+  "hiddenPosts": {
+    "title": "隐藏的帖子",
+    "empty": "无隐藏帖子",
+    "hiddenAt": "已隐藏于",
+    "unhide": "取消隐藏",
+    "unhideSuccess": "帖子已取消隐藏"
+  },
+  "tagOrder": {
+    "title": "自定义标签排序",
+    "description": "拖放重排您关注的标签",
+    "position": "位置：{{position}}",
+    "noFollowedTags": "还没有关注的标签。关注一些标签以自定义排序！"
+  },
+  "follow": "关注",
+  "unfollow": "取关",
+  "generateArt": "生成{{tag}}艺术",
+  "variants": {
+    "fanart": {
+      "title": "{{name}} 同人画",
+      "description": "在KomikoAI上发现最佳的{{name}}同人画，激发您的灵感，创作属于您自己的{{name}}同人作品。",
+      "keywords": "{{name}} 同人画, {{name}} 同人作品, {{name}} 艺术, {{name}} 动漫艺术, {{name}} AI艺术, {{name}} 原创角色, {{name}}",
+      "h1": "{{name}} 同人画",
+      "h1Description": "在KomikoAI上发现最佳的{{name}}同人画，激发您的灵感，创作属于您自己的{{name}}同人作品。",
+      "createTitle": "创作您自己的{{name}}同人画",
+      "createDescription": "发现令人惊艳的{{name}}同人画，从其他{{name}}同人作品中获得灵感。\n\n用您自己的风格重新诠释{{name}}。使用KomikoAI的先进动漫模型，在数秒内生成精美的{{name}}同人画。",
+      "buttonText": "立即生成{{name}}同人画！"
+    },
+    "oc": {
+      "title": "{{name}} 原创角色",
+      "description": "探索由社区创作的{{name}}原创角色，并使用KomikoAI设计您自己的{{name}}风格原创角色。",
+      "keywords": "{{name}} 原创角色, {{name}} 原创角色创作, {{name}} ai原创角色, {{name}} 角色生成器, {{name}} 角色设计",
+      "h1": "{{name}} 原创角色",
+      "h1Description": "探索由{{name}}粉丝创作的原创角色。自定义外观、服装和背景故事，构建您自己的{{name}}原创角色。",
+      "createTitle": "设计您自己的{{name}}原创角色",
+      "createDescription": "是否曾想象过自己的{{name}}版本？使用KomikoAI强大的原创角色创作工具，将您的{{name}} OC构思付诸实现。\n\n通过特征、风格和个性的混合，构建您的{{name}}原创角色——从魔幻美学到赛博朋克平行世界。",
+      "buttonText": "立即生成{{name}}原创角色！"
+    },
+    "pfp": {
+      "title": "{{name}} 头像",
+      "description": "发现最优秀的{{name}}头像，或用AI创作您自己的{{name}}头像。",
+      "keywords": "{{name}} 头像, {{name}} 个人资料图片, {{name}} 头像, {{name}} AI艺术, {{name}} 艺术",
+      "h1": "{{name}} 头像",
+      "h1Description": "探索KomikoAI社区创作的可爱且时尚的{{name}}个人资料图片，或生成您自己的{{name}}头像。",
+      "createTitle": "创作您自己的{{name}}头像",
+      "createDescription": "探索KomikoAI社区创造的具有独特风格和丰富表情的{{name}}个人资料图片。\n\n将您的想法变成惊艳的{{name}}头像，并且符合您的风格。自定义背景颜色、光照和气氛——KomikoAI的模型帮您创作。非常适合用作Discord、TikTok、YouTube或任何展示粉丝文化的地方的头像。",
+      "buttonText": "立即生成{{name}}头像！"
+    },
+    "wallpaper": {
+      "title": "{{name}} 壁纸",
+      "description": "下载或创作令人惊艳的{{name}}壁纸。选择您喜欢的场景和分辨率，为手机、平板或桌面设置{{name}}壁纸。",
+      "keywords": "{{name}} 壁纸, {{name}} 背景, {{name}} 动漫壁纸, {{name}} ai壁纸, {{name}} 高清壁纸, {{name}} 艺术",
+      "h1": "{{name}} 壁纸",
+      "h1Description": "探索{{name}}壁纸精选画廊。每幅{{name}}壁纸均由KomikoAI社区生成或受到启发。",
+      "createTitle": "创建定制{{name}}壁纸",
+      "createDescription": "使用KomikoAI强大的AI模型设计您自己的{{name}}壁纸。\n\n选择气氛、光线和风景——例如海洋日落、霓虹城市、幻想遗址等，让AI为您的手机或桌面生成完美的{{name}}壁纸。",
+      "buttonText": "立即生成{{name}}壁纸！"
+    },
+    "pictures": {
+      "title": "{{name}} 图片",
+      "description": "浏览由KomikoAI创建的{{name}}图片画廊——包括肖像、场景、草图和电影画面。",
+      "keywords": "{{name}} 图片, {{name}} 艺术, {{name}} 动漫图片, {{name}} AI图片, {{name}} 画廊, {{name}} ai艺术",
+      "h1": "{{name}} 图片",
+      "h1Description": "欢迎来到{{name}}图片画廊。从肖像到动作场景，每幅图片都展现了不同的{{name}}视角。",
+      "createTitle": "生成您自己的{{name}}图片",
+      "createDescription": "探索KomikoAI社区创作的风格化、富有表达力的{{name}}图片，并将您的创意转化为视觉效果。\n\nKomikoAI助您在多个风格中快速创建高质量的{{name}}图片——无论是漫画、动漫、电影风格、绘画风格还是现实风格。加入成千上万的创作者，共同生成{{name}}图片。",
+      "buttonText": "立即生成{{name}}图片！"
+    }
+  },
+  "allPosts": "全部帖子",
+  "featured": "精选",
+  "characters": "人物",
+  "search_tags_placeholder": "搜索热门标签..."
+}

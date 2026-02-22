@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Generador de Sprite Sheets con IA",
+      "description": "Transforme fácilmente sus imágenes en sprite sheets únicas con nuestro Generador de Sprite Sheets con IA. Perfecto para arte de videojuegos y animaciones. ¡Empiece gratis!",
+      "keywords": "Generador de Sprite Sheets con IA, creador de personajes con IA, generador de anime con IA, foto a sprite sheet, generador de arte de sprite sheets"
+    },
+    "hero": {
+      "title": "Generador de Sprite Sheets con IA"
+    },
+    "whatIs": {
+      "title": "¿Qué es el Generador de Sprite Sheets con IA?",
+      "description": "El Generador de Sprite Sheets con IA utiliza algoritmos de IA de vanguardia para transformar sus fotografías en arte de sprites pixelados, ideal para videojuegos y animaciones. Esta herramienta, perfecta para desarrolladores, artistas y aficionados, le ayuda a generar sprites únicos rápidamente, permitiéndole concentrarse en sus proyectos creativos."
+    },
+    "examples": {
+      "title": "Ejemplos del Generador de Sprite Sheets con IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cómo usar el Generador de Sprite Sheets con IA",
+      "steps": [
+        {
+          "title": "Paso 1: Suba su fotografía",
+          "content": "Suba una imagen clara (JPG o PNG) que resalte un sujeto definido para una transformación óptima."
+        },
+        {
+          "title": "Paso 2: Seleccione la plantilla de Sprite Sheet",
+          "content": "Seleccione la plantilla de Sprite Sheet para transformar su fotografía con el estilo deseado."
+        },
+        {
+          "title": "Paso 3: Convierta a Sprite Sheet",
+          "content": "Haga clic en 'Convertir a Sprite Sheet', y nuestra IA creará rápidamente una serie de sprites que reflejen el estilo seleccionado."
+        },
+        {
+          "title": "Paso 4: Descargue o comparta su arte",
+          "content": "Descargue fácilmente su sprite sheet perfecta o comparta su creación con el mundo."
+        }
+      ],
+      "subtitle": "Siga estos sencillos pasos para crear sus sprite sheets."
+    },
+    "benefits": {
+      "title": "¿Por qué elegir el Generador de Sprite Sheets con IA?",
+      "description": "Descubra las características únicas que distinguen a nuestro generador.",
+      "features": [
+        {
+          "title": "🕹️ Transformaciones instantáneas",
+          "content": "Sumérjase en la creatividad con transformaciones de sprites inmediatas, garantizando un tiempo de inactividad mínimo entre sus ideas y su materialización."
+        },
+        {
+          "title": "🎨 Selección de estilo personalizada",
+          "content": "Acceda a una variedad de estilos artísticos que se adaptan a diferentes gustos, desde pixel art retro hasta diseños contemporáneos, enriqueciendo su flujo de trabajo artístico."
+        },
+        {
+          "title": "✏️ Salidas de alta resolución",
+          "content": "Nuestra IA proporciona resultados de alta calidad con detalles nítidos, logrando que sus visuales de pixel art sean increíblemente claros."
+        },
+        {
+          "title": "🌟 Experiencia de usuario intuitiva",
+          "content": "Nuestra interfaz fácil de usar permite a cualquier persona, sin importar su nivel de habilidad, crear sprite sheets impresionantes con facilidad."
+        },
+        {
+          "title": "🚀 Tiempo de procesamiento rápido",
+          "content": "Aprovechando la tecnología de IA, nuestro generador está optimizado para manejar las conversiones rápidamente, permitiéndole crear más en menos tiempo."
+        },
+        {
+          "title": "🌐 Ideal para creaciones de videojuegos",
+          "content": "Diseñado para desarrolladores de videojuegos que buscan sprites versátiles, mejora sus personajes y anima sus creaciones sin problemas."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Generador de Sprite Sheets con IA FAQ",
+      "description": "",
+      "q1": "¿Qué es el Generador de Sprite Sheets con IA y cómo funciona?",
+      "a1": "El Generador de Sprite Sheets con IA utiliza la IA para convertir sus imágenes en sprite sheets estilizadas que se adaptan a diversos estilos artísticos, haciéndolo eficiente para los creadores.",
+      "q2": "¿Cómo logro los mejores resultados con el Generador de Sprite Sheets con IA?",
+      "a2": "Seleccione imágenes claras y bien definidas y explore las diversas opciones de estilo disponibles para complementar su visión creativa.",
+      "q3": "¿Es gratuito el Generador de Sprite Sheets con IA?",
+      "a3": "Sí, ¡disfrute de las transformaciones iniciales sin costo mientras explora diferentes estilos!",
+      "q4": "¿Qué hace que este generador sea único en comparación con otros?",
+      "a4": "Nuestro generador se especializa en producir sprite sheets cohesivas diseñadas para videojuegos y animación, creadas específicamente para ese propósito artístico.",
+      "q5": "¿Puedo usar mis sprite sheets generadas comercialmente?",
+      "a5": "¡Absolutamente! Siéntase libre de incorporar sus sprite sheets en cualquier proyecto, incluidas las iniciativas comerciales."
+    },
+    "cta": {
+      "title": "Comience su viaje con el Generador de Sprite Sheets con IA",
+      "description": "Libere su creatividad convirtiendo imágenes en pixel art utilizando nuestro eficiente generador. ¡Su próximo logro artístico está a solo un clic de distancia!",
+      "buttonText": "Genere arte de sprite gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into AI sprite art",
+  "originalKeyword": "AI Sprite Sheet Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl-output.webp",
+      "input": "/images/examples/playground/ai-plush-generator/girl-input.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/jjk-output.webp",
+      "input": "/images/examples/oc-maker/jjk-oc-maker/8_portrait-2-3_3043.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl2-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/3_portrait-2-3_274.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl3-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/1_portrait-2-3_9842.webp",
+      "prompt": "Style: Sprite Sheet"
+    }
+  ]
+}

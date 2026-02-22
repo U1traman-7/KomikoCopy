@@ -1,0 +1,1633 @@
+{
+  "copyright": "版权所有© {{currentYear}} Caffelabs。保留所有权利。",
+  "dashboard": {
+    "main_nav_documentation": "文档",
+    "main_nav_support": "支持",
+    "sidebar_nav_clusters": "集群",
+    "sidebar_nav_billing": "账单",
+    "sidebar_nav_settings": "设置",
+    "title_text": "创建和管理集群。"
+  },
+  "marketing": {
+    "introducing": "了解 Saasfly",
+    "get_started": "立即开始",
+    "price_features": "经济高效的生产环境。",
+    "main_nav_features": "功能",
+    "main_nav_pricing": "价格",
+    "main_nav_create_comics": "游乐场",
+    "main_nav_products": "产品",
+    "main_nav_blog": "博客",
+    "main_nav_partners": "合作伙伴",
+    "main_nav_documentation": "文档",
+    "login": "登录",
+    "signup": "注册"
+  },
+  "price": {
+    "title": "划算透明的价格！",
+    "pricing": "价格",
+    "slogan": "全速起步！",
+    "monthly_bill": "月账单",
+    "annual_bill": "年账单",
+    "annual_info": "每年收费",
+    "monthly_info": "每月收费",
+    "mo": "/月",
+    "contact": "联系我们的客服团队。",
+    "contact_2": "您可以体验订阅，期间不会收费。",
+    "faq": "常见问题",
+    "faq_detail": "查看我们的常见问题解答，快速找到答案。如需更多帮助，请随时联系我们获得个性化支持。",
+    "signup": "注册",
+    "upgrade": "升级",
+    "manage_subscription": "管理订阅",
+    "go_to_dashboard": "前往仪表板"
+  },
+  "nav": {
+    "features": "功能",
+    "ai_comic_generator": "AI 漫画生成器",
+    "pricing": "价格",
+    "faq": "常见问题",
+    "blog": "博客",
+    "partners": "合作伙伴",
+    "menu": "菜单",
+    "ai_anime_generator": "AI动漫生成工具",
+    "anigen_competition": "AniGen 竞赛",
+    "video_to_video": "视频转视频 AI",
+    "layer_splitter": "分层器",
+    "ai-talking-head": "AI演讲者",
+    "professional_artists": "专业艺术家",
+    "oc_maker": "OC 制作器",
+    "playground": "图像创作空间",
+    "ai_expression_changer": "AI 表情转换器"
+  },
+  "footer": {
+    "pricing": "价格",
+    "ai_comic_generator": "AI 漫画生成器",
+    "logo_alt": "KomikoAI AI 标志",
+    "twitter_aria": "Twitter",
+    "twitter_alt": "Twitter",
+    "tiktok_aria": "TikTok",
+    "tiktok_alt": "TikTok",
+    "ai_tools": "AI 工具",
+    "description": "在KomikoAI创建您的个性角色，激活粉丝圈的热情。",
+    "ai_models": "AI 模型",
+    "all_tools": "所有工具",
+    "comic_tools": "漫画工具",
+    "illustration_tools": "插画工具",
+    "animation_tools": "动画工具",
+    "learn_more": "了解更多",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "languages": "语言",
+    "carbon_removal": "碳移除",
+    "blog": "博客",
+    "partners": "合作伙伴",
+    "claim_site": "KomikoAI 是 Story Engine Inc. 的独立产品，与 NHN comico Corp. 或 NHN comico KOREA Corp. 无关。"
+  },
+  "layer_options": {
+    "send_to_back": "移至底层",
+    "send_backward": "向后移",
+    "send_forward": "向前移",
+    "send_to_front": "移至顶层"
+  },
+  "ai_tools": {
+    "comic_generation": {
+      "title": "生成漫画、动漫和插画",
+      "create_character": {
+        "title": "角色创建器",
+        "content": "为您的故事设计原创角色。"
+      },
+      "create_on_canvas": {
+        "title": "漫画画布",
+        "content": "从空白画布上开始创作漫画。"
+      },
+      "ai_comic_generator": {
+        "title": "AI 漫画生成器",
+        "content": "输入一个创意，瞬间生成漫画。"
+      },
+      "ai_comic_factory": {
+        "title": "AI漫画工厂"
+      },
+      "ai_manga_maker": {
+        "title": "AI漫画创作器"
+      },
+      "ai_manhwa_generator": {
+        "title": "AI韩漫生成器"
+      },
+      "ai_manga_generator": {
+        "title": "AI漫画生成器"
+      },
+      "ai_comic_strip_generator": {
+        "title": "AI连环漫画生成器"
+      },
+      "ai_comic_book_generator": {
+        "title": "AI漫画书生成器"
+      },
+      "ai_comic_maker": {
+        "title": "AI漫画创作器"
+      },
+      "ai_storyboard_generator": {
+        "title": "AI分镜头脚本生成器"
+      },
+      "free_ai_comic_strip_maker": {
+        "title": "免费AI连环漫画创作器"
+      },
+      "nsfw_ai_comic_generator": {
+        "title": "NSFW AI成人漫画生成器"
+      },
+      "ai_marvel_comic_generator": {
+        "title": "AI漫威漫画生成器"
+      },
+      "batman_comic_ai_generator": {
+        "title": "蝙蝠侠漫画AI生成器"
+      },
+      "dc_comic_ai_generator": {
+        "title": "DC漫画AI生成器"
+      },
+      "ai_porn_comic_generator": {
+        "title": "AI色情漫画生成器"
+      },
+      "ai_erotic_comic_generator": {
+        "title": "AI情色漫画生成器"
+      },
+      "boomer_comic_ai_generator": {
+        "title": "老派漫画AI生成器"
+      },
+      "anime_manga_ai_generator": {
+        "title": "动漫AI漫画生成器"
+      },
+      "ai_webtoon_generator": {
+        "title": "AI网络漫画生成器"
+      }
+    },
+    "illustration": {
+      "title": "辅助艺术、插图和分镜",
+      "line_art_colorization": {
+        "title": "线稿上色",
+        "content": "为线稿和素描上色。"
+      },
+      "background_removal": {
+        "title": "背景移除",
+        "content": "使用 AI 从图像中去除背景。"
+      },
+      "image_upscaling": {
+        "title": "图像放大",
+        "content": "使用 AI 放大您的图像。"
+      },
+      "image_relighting": {
+        "title": "图像重光",
+        "content": "使用 AI 重新调整图像的光线。"
+      },
+      "photo_to_anime": {
+        "title": "照片转动漫",
+        "content": "将您的照片转换为动漫或其他风格。"
+      },
+      "ai_playground": {
+        "title": "图像乐园",
+        "content": "将照片转换为动漫、漫画、卡通以及其他超过30种艺术风格。"
+      },
+      "frame_pack_ai_video_generator": {
+        "title": "FramePack AI 视频创作工具"
+      },
+      "vidu_ai_video_generator": {
+        "title": "Vidu Q1 视频生成工具"
+      },
+      "magi_1_video_generator": {
+        "title": "Magi-1 视频制作器"
+      },
+      "ai-anime-generator": {
+        "title": "AI 动漫生成器"
+      },
+      "ai_anime_generator": {
+        "title": "AI动漫生成器",
+        "content": "生成带有角色的动漫风格图像。"
+      },
+      "sketch_simplification": {
+        "content": "将粗糙杂乱的素描转换为干净的线稿。",
+        "title": "草图优化"
+      },
+      "veo3_video_generator": {
+        "title": "Veo3 AI 视频制作工具"
+      },
+      "ai_waifu_generator": {
+        "title": "AI 妹子生成器"
+      },
+      "ai_naruto_generator": {
+        "title": "AI 火影忍者生成器"
+      },
+      "random_genshin_character_generator": {
+        "title": "随机原神角色生成器"
+      },
+      "dragon_ball_ai_generator": {
+        "title": "龙珠 AI 生成器"
+      },
+      "pokemon_ai_generator": {
+        "title": "宝可梦 AI 生成器"
+      },
+      "ai_genshin_impact_generator": {
+        "title": "AI 原神生成器"
+      },
+      "one_piece_ai_generator": {
+        "title": "航海王 AI 生成器"
+      },
+      "demon_slayer_ai_generator": {
+        "title": "鬼灭之刃 AI 生成器"
+      },
+      "attack_on_titan_ai_generator": {
+        "title": "进击的巨人 AI 生成器"
+      },
+      "jujutsu_kaisen_ai_generator": {
+        "title": "咒术回战 AI 生成器"
+      },
+      "my_hero_academia_ai_generator": {
+        "title": "我的英雄学院 AI 生成器"
+      },
+      "spy_x_family_ai_generator": {
+        "title": "间谍过家家 AI 生成器"
+      },
+      "league_of_legends_ai_generator": {
+        "title": "英雄联盟 AI 生成器"
+      },
+      "ai_disney_pixar_generator": {
+        "title": "AI 迪士尼皮克斯生成器"
+      },
+      "marvel_ai_generator": {
+        "title": "漫威 AI 生成器"
+      },
+      "sonic_ai_generator": {
+        "title": "索尼克 AI 生成器"
+      },
+      "ai_spiderman_generator": {
+        "title": "AI 蜘蛛侠生成器"
+      },
+      "anime_ai_generator": {
+        "title": "动漫 AI 生成器"
+      },
+      "anime_art_ai_generator": {
+        "title": "动漫艺术 AI 生成器"
+      },
+      "studio_ghibli_style_ai_image_generator": {
+        "title": "吉卜力风 AI 图像生成器"
+      },
+      "female_character_generator": {
+        "title": "女性角色生成器"
+      },
+      "superhero_ai_generator": {
+        "title": "超级英雄 AI 生成器"
+      },
+      "villain_maker": {
+        "title": "反派制作器"
+      },
+      "villain_generator": {
+        "title": "反派生成器"
+      },
+      "fantasy_character_ai_generator": {
+        "title": "奇幻角色 AI 生成器"
+      },
+      "tim_burton_character_maker": {
+        "title": "蒂姆·伯顿角色制作器"
+      },
+      "dbz_ai_generator": {
+        "title": "龙珠Z AI 生成器"
+      },
+      "ai_elf_generator": {
+        "title": "AI 精灵生成器"
+      },
+      "ai_princess_generator": {
+        "title": "AI 公主生成器"
+      },
+      "ai_vampire_generator": {
+        "title": "AI 吸血鬼生成器"
+      },
+      "ai_pirate_generator": {
+        "title": "AI 海盗生成器"
+      },
+      "ai_couple_generator": {
+        "title": "AI 情侣生成器"
+      },
+      "chibi_creator": {
+        "title": "Q版角色制作器"
+      },
+      "chibi_ai_generator": {
+        "title": "Q版角色 AI 生成器"
+      },
+      "ai_character_generator_from_text": {
+        "title": "AI 文字生成角色"
+      },
+      "video_game_character_generator": {
+        "title": "电子游戏角色生成器"
+      },
+      "ai_fantasy_art_generator": {
+        "title": "AI 奇幻艺术生成器"
+      },
+      "ai_world_generator": {
+        "title": "AI 世界生成器"
+      },
+      "ai_landscape_generator": {
+        "title": "AI 风景生成器"
+      },
+      "ai_map_generator": {
+        "title": "AI 地图生成器"
+      },
+      "ai_village_generator": {
+        "title": "AI 村庄生成器"
+      },
+      "ai_mansion_builder": {
+        "title": "AI 豪宅建造器"
+      },
+      "ai_castle_generator": {
+        "title": "AI 城堡生成器"
+      },
+      "fantasy_island_generator": {
+        "title": "奇幻岛生成器"
+      },
+      "city_map_maker": {
+        "title": "城市地图制作器"
+      },
+      "ai_skybox_generator": {
+        "title": "AI 天空盒生成器"
+      },
+      "pop_art_creator": {
+        "title": "波普艺术创作器"
+      },
+      "pop_art_generator": {
+        "title": "波普艺术生成器"
+      },
+      "ai_watercolor_generator": {
+        "title": "AI 水彩生成器"
+      },
+      "abstract_ai_art_generator": {
+        "title": "抽象 AI 艺术生成器"
+      },
+      "ai_renaissance_painting_generator": {
+        "title": "AI 文艺复兴绘画生成器"
+      },
+      "ai_oil_painter": {
+        "title": "AI 油画师"
+      },
+      "ai_dark_art_generator": {
+        "title": "AI 黑暗艺术生成器"
+      },
+      "ai_cartoon_generator_from_text_free": {
+        "title": "AI 免费文字生成卡通"
+      },
+      "ai_pencil_drawing_generator": {
+        "title": "AI 铅笔画生成器"
+      },
+      "ai_generated_coloring_pages": {
+        "title": "AI 生成的彩色页"
+      },
+      "ai_generated_collager": {
+        "title": "AI 生成的拼贴艺术"
+      },
+      "ai_mural_generator": {
+        "title": "AI 壁画生成器"
+      },
+      "glitch_art_generator": {
+        "title": "故障艺术生成器"
+      },
+      "ai_vaporwave_generator": {
+        "title": "AI Vaporwave 生成器"
+      },
+      "ai_funko_pops_creator": {
+        "title": "AI Funko Pops 制作器"
+      },
+      "ai_weapon_generator": {
+        "title": "AI 武器生成器"
+      },
+      "sword_generator": {
+        "title": "剑生成器"
+      },
+      "ai_monster_generator": {
+        "title": "AI 怪物生成器"
+      },
+      "bratz_ai_generator": {
+        "title": "Bratz AI 生成器"
+      },
+      "ai_creature_generator": {
+        "title": "AI 生物生成器"
+      },
+      "ai_muppet_generator": {
+        "title": "AI 木偶生成器"
+      },
+      "ai_clothing_generator": {
+        "title": "AI 服装生成器"
+      },
+      "ai_jersey_generator": {
+        "title": "AI 球衣生成器"
+      },
+      "ai_t_shirt_designer": {
+        "title": "AI T 恤设计师"
+      },
+      "midjourney_video_generator": {
+        "title": "Midjourney AI 视频创建工具"
+      },
+      "anime_character_generator": {
+        "title": "动漫角色生成器"
+      },
+      "vampire_oc_maker": {
+        "title": "吸血鬼 OC 制作器"
+      },
+      "anime_oc_maker": {
+        "title": "动漫 OC 制作器"
+      },
+      "perchance_ai_character_generator": {
+        "title": "Perchance AI 角色生成器"
+      },
+      "genshin_oc_maker": {
+        "title": "原神 OC 制作器"
+      },
+      "genshin_oc_generator": {
+        "title": "原神 OC 生成器"
+      },
+      "naruto_oc_maker": {
+        "title": "火影忍者 OC 制作器"
+      },
+      "demon_slayer_oc_maker": {
+        "title": "鬼灭之刃 OC 制作器"
+      },
+      "pokemon_oc_maker": {
+        "title": "宝可梦 OC 制作器"
+      },
+      "jjk_oc_maker": {
+        "title": "咒术回战 OC 制作器"
+      },
+      "jujutsu_kaisen_oc_maker": {
+        "title": "咒术回战 OC 制作器"
+      },
+      "one_piece_oc_maker": {
+        "title": "航海王 OC 制作器"
+      },
+      "one_piece_characters_generator": {
+        "title": "航海王角色生成器"
+      },
+      "dragon_ball_oc_maker": {
+        "title": "龙珠 OC 制作器"
+      },
+      "attack_on_titan_oc_maker": {
+        "title": "进击的巨人 OC 制作器"
+      },
+      "aot_oc_maker": {
+        "title": "AOT OC 制作器"
+      },
+      "my_hero_academia_oc_maker": {
+        "title": "我的英雄学院 OC 制作器"
+      },
+      "spy_x_family_oc_maker": {
+        "title": "间谍过家家 OC 制作器"
+      },
+      "sonic_oc_maker": {
+        "title": "索尼克 OC 制作器"
+      },
+      "league_of_legends_oc_maker": {
+        "title": "英雄联盟 OC 制作器"
+      },
+      "nsfw_oc_maker": {
+        "title": "NSFW OC 制作器"
+      },
+      "nsfw_character_creator": {
+        "title": "NSFW 角色创作器"
+      },
+      "disney_oc_maker": {
+        "title": "迪士尼 OC 制作器"
+      },
+      "marvel_oc_maker": {
+        "title": "漫威 OC 制作器"
+      },
+      "ai_marvel_character_generator": {
+        "title": "AI 漫威角色生成器"
+      },
+      "ai_action_figure_generator": {
+        "title": "AI 动作玩偶生成器"
+      },
+      "ai_character_sheet_generator": {
+        "title": "AI 角色卡生成器"
+      },
+      "ai_doll_generator": {
+        "title": "AI 人偶生成器"
+      },
+      "anime_ai_filter": {
+        "title": "动漫 AI 滤镜"
+      },
+      "studio_ghibli_ai_generator": {
+        "title": "吉卜力工作室 AI 生成器"
+      },
+      "studio_ghibli_filter": {
+        "title": "吉卜力风格滤镜"
+      },
+      "anisora_video_generator": {
+        "title": "AniSora AI 视频生成器"
+      },
+      "ai_anime_porn_generator": {
+        "title": "AI 动漫成人内容生成器"
+      },
+      "furry_ai_generator": {
+        "title": "兽迷 AI 生成器"
+      },
+      "ai_art_generator_nsfw": {
+        "title": "AI 艺术生成器 (含 NSFW)"
+      },
+      "ai_image_generator_to_create_a_webtoon_story": {
+        "title": "网络漫画故事 AI 图像生成器"
+      },
+      "anime_ai_generator_nsfw": {
+        "title": "动漫 AI 生成器 (含 NSFW)"
+      },
+      "nsfw_anime_ai_generator": {
+        "title": "NSFW 动漫 AI 生成器"
+      },
+      "nsfw_ai_art_generator": {
+        "title": "NSFW AI 艺术生成器"
+      },
+      "mlp_ai_generator": {
+        "title": "小马宝莉 AI 生成器"
+      },
+      "my_little_pony_ai_generator": {
+        "title": "小马宝莉 AI 生成器"
+      },
+      "anime_pfp_maker": {
+        "title": "动漫头像生成器"
+      },
+      "ai_game_asset_generator": {
+        "title": "AI 游戏素材生成器"
+      },
+      "mlp_oc_maker": {
+        "title": "小马宝莉原创角色生成器"
+      },
+      "my_little_pony_oc_maker": {
+        "title": "小马宝莉原创角色生成器"
+      },
+      "visual_novel_character_generator": {
+        "title": "视觉小说角色创建器"
+      },
+      "random_video_game_character_generator": {
+        "title": "随机游戏角色创建器"
+      },
+      "moonvalley_ai_video_generator": {
+        "title": "Moonvalley AI 视频制作工具"
+      },
+      "marey_ai_video_generator": {
+        "title": "Marey AI 视频制作工具"
+      },
+      "lego_ai_filter": {
+        "title": "乐高AI滤镜"
+      },
+      "photo_to_line_art": {
+        "title": "照片转线条画"
+      },
+      "photo_to_simpsons": {
+        "title": "照片转辛普森风格"
+      },
+      "naruto_ai_filter": {
+        "title": "火影忍者AI滤镜"
+      },
+      "watercolor_ai_filter": {
+        "title": "水彩AI滤镜"
+      },
+      "cyberpunk_filter": {
+        "title": "赛博朋克滤镜"
+      },
+      "emote_maker": {
+        "title": "表情包制作器"
+      },
+      "ai_sprite_sheet_generator": {
+        "title": "AI精灵图生成器"
+      },
+      "ai_emoji_generator": {
+        "title": "AI表情符号生成器"
+      },
+      "ai_emoticon_generator": {
+        "title": "AI符号表情生成器"
+      },
+      "anime_sticker_maker": {
+        "title": "动漫贴纸制作器"
+      },
+      "ai_sticker_generator": {
+        "title": "AI贴纸生成器"
+      },
+      "ai_sprite_generator": {
+        "title": "AI精灵生成器"
+      },
+      "ai_plush_generator": {
+        "title": "AI毛绒玩具生成器"
+      },
+      "ai_badge_generator": {
+        "title": "AI徽章生成器"
+      },
+      "ai_clay_filter": {
+        "title": "AI黏土滤镜"
+      },
+      "photo_to_minecraft": {
+        "title": "照片转我的世界风格"
+      },
+      "ai_style_transfer": {
+        "title": "AI风格转换"
+      },
+      "photo_to_pixel_art": {
+        "title": "照片转像素艺术"
+      },
+      "ai_cosplay_generator": {
+        "title": "AI角色扮演生成器"
+      },
+      "video_style_transfer": {
+        "title": "视频风格转换"
+      },
+      "video_to_anime_ai": {
+        "title": "视频转动漫AI"
+      },
+      "ai_video_to_animation": {
+        "title": "AI视频转动画"
+      },
+      "convert_video_to_cartoon": {
+        "title": "视频转卡通"
+      },
+      "convert_video_to_sketch": {
+        "title": "视频转素描"
+      },
+      "claymation_ai_generator": {
+        "title": "粘土动画AI生成器"
+      },
+      "ai_video_restyle": {
+        "title": "AI视频风格重塑"
+      },
+      "change_video_style_ai": {
+        "title": "AI改变视频风格"
+      },
+      "modify_video": {
+        "title": "视频修改"
+      },
+      "modify_with_instructions": {
+        "title": "根据指令进行修改"
+      },
+      "cartoonize_video": {
+        "title": "视频卡通化处理"
+      },
+      "wan_video2video": {
+        "title": "万视通"
+      },
+      "domoai": {
+        "title": "DomoAI"
+      },
+      "ai_anime_video_generator": {
+        "title": "AI 动漫视频生成器"
+      },
+      "ai_cartoon_video_generator": {
+        "title": "AI 卡通视频生成器"
+      },
+      "character_animation": {
+        "title": "角色动画生成器"
+      },
+      "ai_video_generator": {
+        "title": "AI 视频生成器"
+      },
+      "ai_image_to_video_generator": {
+        "title": "AI 图像转视频生成器"
+      },
+      "image_to_video_generator": {
+        "title": "图像转视频生成器"
+      },
+      "all_in_one_ai_video_generator": {
+        "title": "全能 AI 视频生成器"
+      },
+      "ai_stick_figure_animation": {
+        "title": "AI 简笔画动画生成器"
+      },
+      "hailuo_ai_video_generator": {
+        "title": "海螺 AI 视频生成器"
+      },
+      "hailuo_image_to_video": {
+        "title": "海螺图像转视频"
+      },
+      "minimax_ai_video_generator": {
+        "title": "MiniMax AI 视频生成器"
+      },
+      "vidu_image_to_video": {
+        "title": "Vidu 图像转视频"
+      },
+      "pixverse_ai_video_generator": {
+        "title": "Pixverse AI 视频生成器"
+      },
+      "pixverse_image_to_video": {
+        "title": "Pixverse 图像转视频"
+      },
+      "kling_ai_video_generator": {
+        "title": "Kling AI 视频生成器"
+      },
+      "kling_image_to_video": {
+        "title": "Kling 图像转视频"
+      },
+      "veo2_video_generator": {
+        "title": "Veo2 视频生成器"
+      },
+      "veo2_image_to_video": {
+        "title": "Veo2 图像转视频"
+      },
+      "ray2_video_generator": {
+        "title": "Ray2 视频生成器"
+      },
+      "ray2_image_to_video": {
+        "title": "Ray2 图像转视频"
+      },
+      "luma_video_generator": {
+        "title": "Luma 视频生成器"
+      },
+      "luma_image_to_video": {
+        "title": "Luma 图像转视频"
+      },
+      "dream_machine_video_generator": {
+        "title": "梦幻机器视频生成器"
+      },
+      "wan_ai_video_generator": {
+        "title": "Wan AI 视频生成器"
+      },
+      "perchance_ai_video_generator": {
+        "title": "Perchance AI 视频生成器"
+      },
+      "seedance_ai_video_generator": {
+        "title": "Seedance 1.0 AI 视频生成器"
+      },
+      "seedance_pro_ai_video_generator": {
+        "title": "Seedance Pro AI 视频生成器"
+      },
+      "ai_video_generator_nsfw": {
+        "title": "AI 视频生成器（NSFW）"
+      },
+      "nsfw_ai_video_generator": {
+        "title": "NSFW AI 视频生成器"
+      },
+      "qwen_image_edit": {
+        "title": "Qwen 图像编辑工具"
+      },
+      "waver_ai_video_generator": {
+        "title": "Waver AI 视频制作器"
+      },
+      "replace_object_in_video": {
+        "title": "替换视频中的物体"
+      },
+      "replace_person_in_video_with_ai": {
+        "title": "使用AI替换视频中的人"
+      },
+      "video_restyle": {
+        "title": "视频重新造型"
+      },
+      "ai_video_filter": {
+        "title": "AI视频滤镜"
+      },
+      "ai_fairy_filter": {
+        "title": "AI精灵滤镜"
+      },
+      "ai_fairy_video_generator": {
+        "title": "AI精灵视频生成器"
+      },
+      "cartoonify_video": {
+        "title": "视频卡通化"
+      },
+      "video_to_anime_converter": {
+        "title": "视频转换为动漫转换器"
+      },
+      "video_to_anime": {
+        "title": "视频转为动漫"
+      },
+      "video_to_anime_style_app": {
+        "title": "视频动漫风格应用"
+      },
+      "convert_video_to_animation_ai": {
+        "title": "将视频转换为动画AI"
+      },
+      "convert_video_to_anime_style_ai": {
+        "title": "将视频转换为动漫风格AI"
+      },
+      "anime_style_transfer": {
+        "title": "动漫风格迁移"
+      },
+      "video_to_cartoon": {
+        "title": "视频转为卡通"
+      },
+      "video_cartoonizer": {
+        "title": "视频卡通化工具"
+      },
+      "vid2vid": {
+        "title": "视频转换视频"
+      },
+      "video2video": {
+        "title": "视频到视频"
+      },
+      "stylize_video_ai": {
+        "title": "视频AI风格化"
+      },
+      "ai_style_transfer_video": {
+        "title": "AI风格迁移视频"
+      },
+      "video_style_changer_ai": {
+        "title": "视频风格变换AI"
+      },
+      "convert_skeleton_ai": {
+        "title": "骨架转换AI"
+      },
+      "ghibli_style_video_converter": {
+        "title": "吉卜力风格视频转换器"
+      },
+      "domoia": {
+        "title": "Domoia"
+      },
+      "wan_animate": {
+        "title": "Wan Animate"
+      },
+      "vidu_q2": {
+        "title": "Vidu Q2"
+      },
+      "wan_25": {
+        "title": "Wan 2.5"
+      },
+      "ai_expression_changer": {
+        "title": "AI表情更换器",
+        "content": "通过我们的预设轻松改变角色表情。"
+      },
+      "ai_adult_video": {
+        "title": "AI成人视频"
+      },
+      "ai_kissing_video_generator": {
+        "title": "AI接吻视频生成器"
+      },
+      "ai_moving_image_generator": {
+        "title": "AI动态图片生成器"
+      },
+      "make_image_move": {
+        "title": "让图片动起来"
+      },
+      "animation_ai": {
+        "title": "动画AI"
+      },
+      "image_animator": {
+        "title": "图片动画器"
+      },
+      "image_to_motion_ai": {
+        "title": "图片生成动态效果AI"
+      },
+      "animated_image_generator": {
+        "title": "动态图片生成器"
+      },
+      "animate_a_picture": {
+        "title": "让图片动起来"
+      },
+      "animate_a_photo": {
+        "title": "让相片动起来"
+      },
+      "ai_transition_between_images": {
+        "title": "AI图片间过渡"
+      },
+      "picture_to_video_ai": {
+        "title": "图片转视频AI"
+      },
+      "sexy_animation": {
+        "title": "性感动画"
+      },
+      "ai_cartoon_porn": {
+        "title": "AI卡通色情"
+      },
+      "animated_wallpaper_generator": {
+        "title": "动态壁纸生成器"
+      },
+      "pixel_art_animation": {
+        "title": "像素艺术动画"
+      },
+      "hug_ai_video_generator": {
+        "title": "Hug AI 视频生成工具"
+      },
+      "animate_sketch": {
+        "title": "动画素描"
+      },
+      "veo_3_1": {
+        "title": "Veo 3.1"
+      },
+      "sora_2_video_generator": {
+        "title": "Sora 2 视频生成工具"
+      },
+      "ai_anime_filter": {
+        "title": "AI 动漫滤镜"
+      },
+      "ai_aging_filter": {
+        "title": "AI 老化滤镜"
+      },
+      "ai_caricature_maker": {
+        "title": "AI 漫画头像制作"
+      },
+      "ai_bald_filter": {
+        "title": "AI 光头滤镜"
+      },
+      "ai_beard_filter": {
+        "title": "AI 胡须滤镜"
+      },
+      "ai_bikini": {
+        "title": "AI 比基尼"
+      },
+      "ai_blonde_hair_filter": {
+        "title": "AI 金发滤镜"
+      },
+      "ai_cartoon_generator": {
+        "title": "AI 卡通生成器"
+      },
+      "ai_comic_book_filter": {
+        "title": "AI 漫画书滤镜"
+      },
+      "ai_fat_filter": {
+        "title": "AI 增重滤镜"
+      },
+      "ai_lego_filter": {
+        "title": "AI 乐高滤镜"
+      },
+      "ai_magazine_cover_maker": {
+        "title": "AI 杂志封面制作"
+      },
+      "ai_manga_filter": {
+        "title": "AI 漫画滤镜"
+      },
+      "ai_minecraft_generator": {
+        "title": "AI Minecraft 生成器"
+      },
+      "ai_pop_art_filter": {
+        "title": "AI 波普艺术滤镜"
+      },
+      "ai_silhouette_maker": {
+        "title": "AI 剪影制作"
+      },
+      "ai_skinny_filter": {
+        "title": "AI 瘦身滤镜"
+      },
+      "ai_simpsons_generator": {
+        "title": "AI 辛普森家族生成器"
+      },
+      "baby_filter": {
+        "title": "婴儿滤镜"
+      },
+      "image_to_image_ai_generator": {
+        "title": "图像到图像 AI 生成器"
+      },
+      "magazine_ai_generator": {
+        "title": "杂志 AI 生成器"
+      },
+      "mugshot_generator": {
+        "title": "证件照生成器"
+      },
+      "photo_to_sketch": {
+        "title": "照片转素描"
+      },
+      "pixar_ai_generator": {
+        "title": "皮克斯 AI 生成器"
+      },
+      "ps2_ai_filter": {
+        "title": "PS2 AI 滤镜"
+      },
+      "ai_video_effects": {
+        "title": "AI 视频特效"
+      },
+      "ai_dance_video_generator": {
+        "title": "AI舞蹈视频制作器"
+      },
+      "text_to_video": {
+        "title": "文字转视频"
+      },
+      "dance_video_generator": {
+        "title": "舞蹈视频生成器"
+      },
+      "seedance": {
+        "title": "观舞"
+      },
+      "nano_banana_2": {
+        "title": "纳米香蕉2"
+      },
+      "wan_26": {
+        "title": "万 2.6"
+      }
+    },
+    "animation": {
+      "title": "创建动画视频",
+      "image_to_animation": {
+        "title": "图像转动画",
+        "content": "从图像生成流畅的动画视频。"
+      },
+      "inbetweening": {
+        "title": "生成中间帧",
+        "content": "在关键帧之间生成过渡帧。"
+      },
+      "video_upscaling": {
+        "title": "视频放大",
+        "content": "提升视频的分辨率。"
+      },
+      "video_interpolation": {
+        "title": "帧插值",
+        "content": "通过插帧使视频更流畅。"
+      },
+      "layer_splitter": {
+        "content": "将角色图像分割为独立的组件。",
+        "title": "图层分离器"
+      },
+      "ai_talking_head": {
+        "title": "AI 动态人像",
+        "content": "将静态图像生成动态的说话角色。"
+      },
+      "video_to_video": {
+        "title": "视频转视频",
+        "content": "使用AI将您的视频转换为不同的风格。"
+      },
+      "text_to_video": {
+        "title": "文本转视频",
+        "content": "根据文本提示生成视频。"
+      },
+      "dance_video_generator": {
+        "title": "舞蹈视频生成器",
+        "content": "使用AI生成舞蹈视频。"
+      },
+      "animation_generator": {
+        "title": "AI动画制作工具",
+        "content": "通过图像或文本生成流畅的动画视频。"
+      }
+    },
+    "more": {
+      "title": "还有更多",
+      "content": "探索我们完整的AI工具包，用于绘制漫画、插图和制作动画。"
+    }
+  },
+  "gridIndex": "网格 {{index}}",
+  "popularity": "{{count}} 人气",
+  "roleplay": "角色扮演",
+  "likes": "{{count}} 赞",
+  "following": "关注中",
+  "follow": "关注",
+  "post_card": {
+    "following": "关注中",
+    "follow": "关注",
+    "the_end": "—— 结束 ——",
+    "discover": "发现",
+    "more_stories": "更多故事",
+    "or_start": "或者开始",
+    "creating_your_own": "创建你自己的",
+    "comments": "评论",
+    "the_end_dash": "- 结束 -",
+    "prompts": "提示",
+    "prompt_copied": "提示已复制到剪贴板",
+    "copy_prompt": "复制提示",
+    "generate_more": "生成更多",
+    "create_yours": "创建同款",
+    "try_the_tool": "试用此工具",
+    "prompt_hidden": "提示已被隐藏",
+    "prompt_hidden_tooltip": "作者选择隐藏了提示词。升级会员后发帖时可隐藏提示词！",
+    "no_prompts": "暂无可用提示😢",
+    "join_discussion": "加入讨论！",
+    "reply_to_user": "回复 @{{userName}}...",
+    "reply": "回复",
+    "replies": "{{count}} 条回复",
+    "sharing_link_copied": "链接已复制！快与朋友分享！",
+    "image_downloaded": "图像已成功下载！",
+    "download_failed": "下载失败，请稍后重试。",
+    "download_image": "下载图像",
+    "copy_link": "复制链接",
+    "more": "更多",
+    "loading": "正在加载...",
+    "share_text": "刚发现了这个超棒的漫画 \"{{title}}\"！你一定要看看！",
+    "delete": "删除",
+    "confirm_delete": "确认删除",
+    "confirm_delete_message": "确定要删除这条帖子吗？",
+    "cancel": "取消",
+    "delete_success": "帖子删除成功",
+    "delete_failed": "帖子删除失败",
+    "turn_into": "转换成为 ",
+    "video_to": "视频转换成 ",
+    "expression": "表情",
+    "effect": "展示效果",
+    "dance_video_generator": "舞蹈视频生成工具",
+    "video_downloaded": "视频已成功下载！",
+    "download": "下载",
+    "share": {
+      "twitter": "快来看看由{{username}}在@KomikoAI上创作的《{{title}}》！\n\n{{content}}\n\n#AIart #AiAnime\n{{link}}",
+      "facebook": "快来看看由{{username}}在KomikoAI上创作的《{{title}}》！\n\n{{content}}",
+      "reddit": "这是由{{username}}在KomikoAI上创作的《{{title}}》",
+      "pinterest": "这是由{{username}}在KomikoAI上创作的《{{title}}》",
+      "whatsapp": "快来看看由{{username}}在KomikoAI上创作的《{{title}}》！\n{{link}}",
+      "telegram": "快来看看由{{username}}在KomikoAI上创作的《{{title}}》！"
+    },
+    "menu": {
+      "tag_moderator": "标签管理",
+      "admin": "后台管理",
+      "pin": "置顶",
+      "unpin": "取消置顶",
+      "pin_global": "全局置顶",
+      "unpin_global": "取消全局置顶",
+      "feature": "推荐",
+      "unfeature": "取消推荐",
+      "feature_global": "全局推荐",
+      "unfeature_global": "取消全局推荐",
+      "translate": "翻译",
+      "hide": "隐藏",
+      "unhide": "显示",
+      "report": "举报",
+      "block_user": "屏蔽 @{{name}}",
+      "unblock_user": "解除屏蔽 @{{name}}"
+    },
+    "reply1": "1 条回复",
+    "remix_count": "{{count}} 次重新混音",
+    "remix_count_one": "{{count}} 次改编",
+    "remix_count_other": "{{count}} 次改编",
+    "remix": "重新混音"
+  },
+  "uploadFile": {
+    "tapToUpload": "点击上传或将图像拖到此处",
+    "errors": {
+      "invalidExtension": "请选择一个扩展名为：{{accept}} 的文件",
+      "selectImage": "请选择一张图片",
+      "selectVideo": "请选择一个视频",
+      "selectAudio": "请选择一个音频文件",
+      "fileSize": "文件大小不得超过 {{limit}}MB。",
+      "maxDuration": "最大时长为：{{duration}} 分钟",
+      "safariVideoTooLong": "为在Safari上获得最佳体验，请使用最长为15秒的视频，或者尝试使用Chrome播放更长的视频！",
+      "audioSize": "音频文件大小需小于{{limit}}MB"
+    },
+    "dragAudio": "拖放音频到此处或点击上传",
+    "supportedAudio": "支持格式：MP3, WAV",
+    "warnings": {
+      "imageWillCompress": "图像大小超过{{limit}}MB，将自动压缩",
+      "audioTooLarge": "音频文件大小超过{{limit}}MB，可能影响处理质量"
+    },
+    "clickToUpload": "点击上传或将图片拖到这里"
+  },
+  "home": {
+    "create_story": {
+      "title": "新漫画",
+      "subtitle": "生成图像并编写故事",
+      "generate": {
+        "title": "生成",
+        "description": "在几秒钟内通过简单提示生成漫画"
+      },
+      "from_scratch": {
+        "title": "从头开始",
+        "description": "从空白画布开始，释放您的创意"
+      }
+    },
+    "create_character": {
+      "title": "新角色",
+      "subtitle": "为您的故事创建角色"
+    },
+    "create_animation": {
+      "title": "新角色扮演"
+    }
+  },
+  "result_card": {
+    "generating": "正在生成中",
+    "generation_failed": "生成失败",
+    "generation_failed_desc": "生成过程中出现了一些问题。请重试。",
+    "video_not_supported": "您的浏览器不支持播放视频。",
+    "no_audio_warning": "未检测到音频！",
+    "check_browser_mute": "请检查浏览器标签页或视频是否被静音。点击喇叭图标取消静音。",
+    "more_ai_tools": {
+      "title": "更多AI工具",
+      "description": "利用更多相关的AI工具拓展您的创意视野。",
+      "view_more": "查看更多AI工具"
+    },
+    "generated_by": "生成者",
+    "tools": {
+      "remove_bg": "去背景",
+      "upscale": "高清放大",
+      "anime_style": "动漫风格",
+      "animate": "动画效果",
+      "video_upscale": "视频高清放大",
+      "video_interpolate": "视频插值",
+      "character_sheet": "角色表",
+      "oc-maker": "OC 制作",
+      "line_art_colorization": "线稿填色",
+      "title": "工具",
+      "character": "角色",
+      "restyle": "样式重塑",
+      "add_text": "新增文字",
+      "playground": "图像乐园",
+      "create_animation": "创作属于您的动画"
+    }
+  },
+  "logout": "退出登录",
+  "create_character": "创建角色",
+  "generate_image": "生成图片",
+  "generate": "生成",
+  "create_comic": "制作漫画",
+  "generate_animation": "制作动画",
+  "actions": {
+    "download": "下载",
+    "delete": "删除",
+    "publish": "发布",
+    "cancel": "取消",
+    "confirm": "确认",
+    "post": "发布",
+    "share": "分享",
+    "apply": "应用",
+    "applying": "正在应用...",
+    "generate": "生成",
+    "generating": "正在生成...",
+    "upload": "上传",
+    "uploading": "正在上传...",
+    "extract": "提取",
+    "extracting": "正在提取...",
+    "download_layers": "下载图层",
+    "confirm_delete": "确认删除",
+    "delete_warning": "您确定要删除这张图片吗？",
+    "show_more": "展开更多",
+    "show_less": "收起"
+  },
+  "tools": {
+    "image-animation-generator": "图像动画生成器",
+    "video-upscaling": "视频高清放大",
+    "video_upscaling": "视频高清放大",
+    "photo-to-anime": "照片转动漫",
+    "background-removal": "背景移除",
+    "image-upscaling": "图像高清放大",
+    "video-interpolation": "视频插值",
+    "video_interpolation": "视频插值",
+    "ai-character-sheet-generator": "角色表生成器",
+    "oc-maker": "OC 制作",
+    "oc_maker": "OC 制作",
+    "line_art_colorization": "线稿填色",
+    "character": "角色",
+    "restyle": "样式重塑",
+    "layer_splitter": "分层器",
+    "video_to_video": "AI视频转换",
+    "ai-talking-head": "AI演讲者",
+    "video-to-video": "AI视频转换"
+  },
+  "toasts": {
+    "fetchFailed": "获取失败",
+    "deleteSuccess": "删除成功",
+    "deleteFailed": "删除失败",
+    "downloadFailed": "下载失败",
+    "processingSuccess": "处理成功",
+    "processingFailed": "处理失败",
+    "uploadFailed": "上传失败",
+    "noVideoUrl": "未提供视频 URL",
+    "noZaps": "请购买更多 zaps",
+    "mediaReceived": "已从其他工具接收媒体",
+    "extractFailed": "帧提取失败，请重试。",
+    "invalidResponse": "API返回了无效的响应",
+    "timeout": "操作超时",
+    "missingData": "缺少必要的数据",
+    "unexpectedFormat": "数据格式异常",
+    "maxImagesReached": "已达到允许上传的最大图片数量",
+    "loginRequired": "请先登录",
+    "cannotBlockSelf": "无法屏蔽自己",
+    "userBlocked": "用户已成功屏蔽",
+    "userBlockedName": "已屏蔽 @{{name}}",
+    "userUnblocked": "用户已成功解除屏蔽",
+    "userUnblockedName": "已解除屏蔽 @{{name}}",
+    "blockFailed": "屏蔽用户失败",
+    "unblockFailed": "解除屏蔽失败",
+    "alreadyReported": "你已举报过此帖子",
+    "postReported": "帖子已成功举报",
+    "reportFailed": "举报帖子失败"
+  },
+  "from_other_tools": "已从 {{tools}} 接收 {{input_type}}",
+  "input_types": {
+    "image": "图像",
+    "character": "角色",
+    "video": "视频"
+  },
+  "alt": {
+    "generated_image": "生成的图像"
+  },
+  "success": {
+    "copy": "已复制到剪贴板"
+  },
+  "unknown": "未知",
+  "exampleResult": "示例结果",
+  "error": {
+    "code": "错误代码：{{code}}",
+    "requestId": "请求 ID：{{id}}",
+    "downloadFailed": "下载失败，请重试。"
+  },
+  "video_tabs": {
+    "image_to_animation": "图片转动画",
+    "video_to_video": "视频转视频",
+    "talking_head": "专家讲解",
+    "image_to_video_sub": "图片转视频",
+    "character_to_video_sub": "角色转视频",
+    "text_to_animation": "文字转动画",
+    "image_or_text_to_video": "图片或文字转换为视频",
+    "Dance": "舞蹈",
+    "Template": "模板",
+    "dance": "跳舞",
+    "templates": "视频模板",
+    "animation_generator": "AI动画制作工具"
+  },
+  "audioRecorder": {
+    "duration": "时长",
+    "recording": "正在录音",
+    "preparing": "准备中...",
+    "instructions": "点击下方按钮开始录音",
+    "stop": "停止录音",
+    "start": "开始录音",
+    "record_new": "录制新音频"
+  },
+  "sampleImage": "示例图片",
+  "sampleVideo": "示例视频",
+  "loading": "正在加载...",
+  "load_more": "加载更多",
+  "no_followers_yet": "暂无关注者",
+  "create_character_short": "角色",
+  "generate_image_short": "生成AI图像",
+  "ai_comic": "AI漫画",
+  "generate_comic": "生成漫画",
+  "generate_animation_short": "生成AI视频",
+  "magic_prompt": "神奇的提示",
+  "results_card": {
+    "tools": {
+      "new_character": "新角色"
+    }
+  },
+  "nsfw": {
+    "title": "⚠️ 年龄确认",
+    "message": "该部分包含成人（18+）内容。您必须年满18岁（或所在地区的法定成年年龄）才能继续。点击“是”表示您确认自己至少18岁，并在法律允许的情况下可以访问NSFW内容。KomikoAI依靠您的自我认证，并保留随时要求进一步验证（如政府颁发的身份证明）的权利。如果您提供了错误信息，须自行承担因此产生的任何法律责任。",
+    "yes": "是",
+    "no": "否"
+  },
+  "settings": {
+    "title": "设置",
+    "privacy": "隐私设置",
+    "language": "语言偏好",
+    "subscription": {
+      "title": "订阅管理",
+      "manage": "管理订阅",
+      "upgrade": "升级计划",
+      "currentPlan": "当前计划：{{plan}}",
+      "noSubscription": "没有活跃的订阅"
+    },
+    "nsfw": {
+      "enable": "启用 NSFW",
+      "description": "启用 NSFW 意味着您确认已年满 18 岁。NSFW 内容可能包含裸体、暴力或色情，不适合在工作场所观看。",
+      "confirmTitle": "年龄确认",
+      "iConfirm": "我确认",
+      "nevermind": "算了"
+    },
+    "danger": {
+      "title": "危险区域",
+      "description": "永久删除您的KomikoAI账户及所有相关数据。\n此操作不可逆。",
+      "delete": "删除账户"
+    },
+    "blockedUsers": "被屏蔽的用户",
+    "blockedUsersPage": {
+      "title": "被屏蔽的用户",
+      "empty": "暂无被屏蔽的用户",
+      "emptyDescription": "你屏蔽的用户将出现在这里。",
+      "blockedOn": "屏蔽于 {{date}}",
+      "buttonUnblock": "解除屏蔽",
+      "unblockConfirmTitle": "确定解除对 @{{name}} 的屏蔽？",
+      "unblockConfirmDescription": "他们将可以再次看到你的帖子和评论。",
+      "buttonCancel": "取消"
+    }
+  },
+  "network": {
+    "offline": "未联网",
+    "online": "联网"
+  },
+  "max": "最高",
+  "min": "最低",
+  "faq": "常见问题解答",
+  "publicVisibility": {
+    "label": "公开可见",
+    "tooltip": "所有用户都能看到此内容",
+    "popoverTitle": "可见性",
+    "public": "公开",
+    "publicDescription": "任何人都可以查看和使用这个",
+    "private": "私人",
+    "privateDescription": "只有你能查看和使用这个",
+    "plusBadge": "PLUS"
+  },
+  "referenceImage": {
+    "title": "参考图片",
+    "description": "上传参考图片以指导角色生成",
+    "empty": "暂无参考图片",
+    "add": "添加图片",
+    "dropHere": "请将图片拖拽到此处",
+    "images": "图片",
+    "upgrade": "升级至高级版",
+    "freeLimit": "免费用户最多可添加 {{limit}} 张参考图片",
+    "info": "{{count}}/9 张图片 • 单个文件最大 25MB • 总计 50MB",
+    "clearAll": "清除所有",
+    "imageName": "图片名称",
+    "placeholder": "请输入名称",
+    "insert": "插入",
+    "maxImagesReached": "最多允许添加 {{max}} 张图片"
+  },
+  "referenceImages": {
+    "modal": {
+      "title": "参考图片",
+      "description": "您可以在提示中通过名称引用参考图片。点击→按钮直接插入名称。",
+      "imageName": {
+        "label": "名称",
+        "placeholder": "参考"
+      },
+      "remove": "删除",
+      "removeAll": "清除全部",
+      "confirmRemoveAll": "移除所有参考图片？",
+      "insertSuccess": "{{name}}已成功插入到提示中",
+      "insertTooltip": "插入到提示中",
+      "close": "关闭",
+      "dropHere": "请将图片拖拽到此处",
+      "addNew": {
+        "title": "添加新图片",
+        "subtitle": "点击或拖动添加"
+      },
+      "premiumFeature": {
+        "title": "高级功能",
+        "message": "多重参考图片是高级功能。立即升级以提升您的创作体验。"
+      },
+      "selectAll": "全选",
+      "deleteAll": "全部删除",
+      "deleteSelected": "删除所选",
+      "deselectAll": "取消全选",
+      "bulkInsert": "批量插入",
+      "insertSelected": "插入所选",
+      "bulkInsertSuccess": "角色名称已成功插入！",
+      "noSelection": "请至少选择一个参考",
+      "noValidNames": "没有可插入的有效名称",
+      "deleted": "已删除{{count}}个参考",
+      "allDeleted": "所有参考已删除",
+      "selected": "已选择",
+      "maxImagesReached": "最多允许{{max}}张图片",
+      "fileTooLarge": "文件大小超过{{max}}限制",
+      "someFilesTooLarge": "某些文件大小超过{{max}}限制",
+      "totalSizeTooLarge": "总大小超过{{max}}限制",
+      "unsupportedFormat": "仅支持JPEG、PNG和WebP格式",
+      "limits": "限制: {{current}}/{{maxImages}} 张图片 • 每个文件最大{{maxSingleSize}} • 总计最大{{maxTotalSize}} • 格式: {{formats}}"
+    }
+  },
+  "examples": {
+    "inputLabel": "输入",
+    "outputLabel": "输出",
+    "styleLabel": "风格",
+    "promptLabel": "提示"
+  },
+  "daily_check_in": {
+    "title": "每日奖励",
+    "claim_button": "领取今日 {{amount}} 点数",
+    "upgrade_button": "升级以领取最多 {{amount}} 个免费点数！",
+    "extra_rewards_tip": "访问个人主页点击“奖励”，获取更多额外奖励！",
+    "christmas_banner_tip": "🎄 创作艺术，赢得150美元！",
+    "christmas_banner_tip_description": "使用今天的Zaps创作您的圣诞AU，赢取高达150美元的Komiko奖励！",
+    "christmas_reward_tip": "圣诞佳节，双倍开心，双倍礼遇！",
+    "christmas_reward_btn_text": "圣诞快乐！领取200个Zaps！",
+    "off50_yearly_deal": "年度优惠，享五折折扣！",
+    "join_now": "立即加入KomikoAI，享受新年氛围和节日惊喜！优惠截止日期为1月6日！"
+  },
+  "hide_my_prompt": "隐藏我的提示",
+  "hide_my_prompt_tooltip": "此提示将不会被他人看到。升级以解锁访问权限。",
+  "magic_prompt_on": "开启",
+  "magic_prompt_off": "关闭",
+  "magic_prompt_description": "增强您的初始提示，以提升图像的多样性和丰富性。提示还可以翻译成英文。",
+  "collections": "合集",
+  "explore_characters": "角色探索",
+  "audio": "音效",
+  "endFrame": "结束帧",
+  "multipleReferences": "多个参考",
+  "NSFW": "成人内容",
+  "share_title": "与您的朋友分享此帖子——当他们加入时，您和他们都将获得{{count}}个Zaps！",
+  "preset_tags": {
+    "all_posts": "所有帖子",
+    "featured": "精选",
+    "templates": "模板",
+    "animation": "动画",
+    "oc": "原创角色",
+    "anime": "动漫",
+    "manga": "漫画",
+    "game": "游戏",
+    "movie": "电影",
+    "ship": "配对",
+    "furry": "毛茸茸",
+    "kawaii": "可爱",
+    "nsfw": "不适合工作环境",
+    "genshin_impact": "原神",
+    "demon_slayer": "鬼灭之刃",
+    "spy_x_family": "间谍过家家",
+    "my_hero_academia": "我的英雄学院",
+    "pokemon": "精灵宝可梦",
+    "hatsune_miku": "初音未来",
+    "jujutsu_kaisen": "咒术回战",
+    "frieren": "弗里伦",
+    "naruto": "火影忍者",
+    "one_piece": "海贼王",
+    "hazbin_hotel": "地狱旅馆",
+    "kpop_demon_hunters": "韩流恶魔猎人",
+    "marvel": "漫威",
+    "chainsaw_man": "电锯人",
+    "re_zero": "Re:从零开始的异世界生活",
+    "ai_apps": "AI 应用",
+    "gay": "男同性恋",
+    "harbin_hotel": "哈尔滨酒店",
+    "husbando": "纸片人老公",
+    "lesbian": "女同性恋",
+    "waifu": "纸片人老婆",
+    "gundam": "高达",
+    "cthulhu": "克苏鲁",
+    "komikoChristmas": "Komiko圣诞节",
+    "harry_potter": "哈利·波特",
+    "zootopia": "疯狂动物城",
+    "scenery": "景色",
+    "scifi": "科幻",
+    "bankai": "卍解",
+    "dragon_ball": "龙珠",
+    "umamusume": "赛马娘",
+    "street_fighter": "街霸",
+    "my_little_pony": "小马宝莉",
+    "zenless_zone_zero": "绝区零"
+  },
+  "change": "修改",
+  "describe_video_effect": "请描述您想要生成的视频效果。输入@来提及角色。",
+  "mention_characters": "描述您想创建的内容。输入 @ 提及角色。",
+  "bgmAvailableFor4SecondVideosOnly": "背景音乐只适用于4秒的视频",
+  "weekend_flash_promotion": {
+    "weekend_flash_title": "周末优惠：年度计划七折！"
+  },
+  "set_tag": "设置标签",
+  "templates": "范本",
+  "videoReference": {
+    "description": "上传用于视频生成的参考图片。您可以上传单张图片、多张图片，或指定起始帧和结束帧。",
+    "limits": "最多 {{maxImages}} 张图片 • 单个文件最大 25MB • 支持格式：JPEG, PNG, WebP",
+    "firstFrame": "起始帧",
+    "addEndFrame": "添加结束帧",
+    "endFrameHint": "用于首尾动画",
+    "endFrameInfo": "提示：您可以添加结束帧来创建首尾动画。支持该功能的模型将被自动选择。",
+    "done": "完成"
+  },
+  "home_ai_video": {
+    "video_prompt_placeholder": "描述视频效果（可选）。输入 @ 提及角色。",
+    "reference": "参考"
+  },
+  "multiImage": {
+    "maxReached": "最多允许上传 {{max}} 张图片",
+    "uploadPrompt": "请上传 {{min}}-{{max}} 张图片",
+    "dragDropHint": "点击此处或将图片拖拽至此。",
+    "addMore": "添加更多图片",
+    "imagesUploaded": "{{count}} 张图片已上传",
+    "minRequired": "至少需要上传 {{min}} 张图片"
+  },
+  "effects": "特效",
+  "block": {
+    "confirmBlockTitle": "确定屏蔽 @{{name}}？",
+    "confirmUnblockTitle": "确定解除屏蔽 @{{name}}？",
+    "unblockDescription": "他们将可以再次看到你的帖子和评论。",
+    "blockDescription1": "你们将不会在各自的消息流中看到对方的帖子。",
+    "blockDescription2": "你们将不会看到对方的评论。",
+    "blockDescription3": "此操作可逆。",
+    "buttonBlock": "屏蔽",
+    "buttonUnblock": "解除屏蔽",
+    "buttonCancel": "取消"
+  },
+  "report": {
+    "confirmTitle": "确定举报此帖子？",
+    "selectReason": "请选择举报原因：",
+    "description": "此帖子将从你的消息流中被隐藏，并会被提交给管理员审核。",
+    "warning": "滥用举报功能可能会导致账户被限制。",
+    "buttonReport": "举报",
+    "buttonCancel": "取消",
+    "reasons": {
+      "inappropriate": {
+        "label": "不当内容",
+        "description": "色情、暴力或令人不安的内容"
+      },
+      "spam": {
+        "label": "垃圾信息",
+        "description": "重复或不受欢迎的内容"
+      },
+      "hate_speech": {
+        "label": "仇恨言论",
+        "description": "宣传对群体的仇恨或暴力"
+      },
+      "violence": {
+        "label": "暴力",
+        "description": "涉及身体暴力或威胁的内容"
+      },
+      "copyright": {
+        "label": "版权侵权",
+        "description": "未经授权使用受版权保护的材料"
+      },
+      "other": {
+        "label": "其他",
+        "description": "其他违反社区指引的行为"
+      }
+    }
+  },
+  "time": {
+    "just_now": "刚刚",
+    "minutes_ago": "{{count}}分钟前",
+    "hours_ago": "{{count}}小时前",
+    "days_ago": "{{count}}天前"
+  },
+  "ad_consent": {
+    "title": "广告与隐私",
+    "description": "我们使用广告来支持我们的免费服务。为提供合适的广告内容，我们的广告合作伙伴可能会收集以下数据：",
+    "banner_text": "我们使用Cookies和广告来支持我们的免费服务。接受后，您允许我们收集数据以个性化广告。",
+    "learn_more": "了解更多",
+    "data": {
+      "browsing": "浏览习惯和搜索历史",
+      "preferences": "用户偏好和内容互动",
+      "profile": "用户资料（计划类型）"
+    },
+    "note_title": "请注意：",
+    "note_content": "您可以随时在设置中更改您的选择。拒绝不会影响网站的核心功能，但显示的广告可能不那么相关。",
+    "privacy_policy": "欲了解更多信息，请参见我们的",
+    "privacy_link": "隐私政策",
+    "reject": "拒绝",
+    "accept": "接受"
+  }
+}

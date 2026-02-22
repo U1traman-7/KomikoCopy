@@ -1,0 +1,222 @@
+{
+  "pageTitle": "AI Thay Đổi Ánh Sáng Ảnh - KomikoAI",
+  "ogTitle": "AI Thay Đổi Ánh Sáng Ảnh - KomikoAI",
+  "ogDescription": "Thay đổi ánh sáng cho ảnh của bạn bằng AI. Tải ảnh lên và để AI thực hiện.",
+  "twitterTitle": "AI Thay Đổi Ánh Sáng Ảnh - KomikoAI",
+  "twitterDescription": "Thay đổi ánh sáng cho ảnh của bạn bằng AI. Tải ảnh lên và để AI thực hiện.",
+  "metaDescription": "Biến đổi hình ảnh anime, manga và truyện tranh của bạn với công cụ thay đổi ánh sáng AI. Tăng cường màu sắc, điều chỉnh ánh sáng và thổi hồn vào tác phẩm của bạn một cách dễ dàng.",
+  "metaKeywords": "AI thay đổi ánh sáng ảnh, ánh sáng anime, nâng cao truyện tranh, nghệ thuật manga, công cụ hoạt hình",
+  "title": "AI Thay Đổi Ánh Sáng Ảnh",
+  "description": "Biến đổi không khí và cảm xúc trong nghệ thuật anime, manga và truyện tranh của bạn với AI Thay Đổi Ánh Sáng Ảnh. Dễ dàng sửa đổi ánh sáng trong các cảnh của bạn bằng ảnh nền tham khảo, tăng cường khả năng kể chuyện bằng hình ảnh và thêm chiều sâu cho tác phẩm nghệ thuật. Hoàn hảo cho các nghệ sĩ, nhà thiết kế và những người đam mê muốn mang lại hiệu ứng ánh sáng tuyệt đẹp cho tác phẩm của mình.",
+  "inputSection": {
+    "title": "Ảnh Đầu Vào",
+    "subjectImage": {
+      "title": "Ảnh Chủ Thể",
+      "description": "Ảnh cần được thay đổi ánh sáng."
+    },
+    "backgroundImage": {
+      "title": "Ảnh Nền",
+      "description": "Ảnh tham khảo để thay đổi ánh sáng cho ảnh chủ thể."
+    },
+    "prompt": {
+      "title": "Lời Nhắc",
+      "description": "Mô tả bằng văn bản hướng dẫn quá trình thay đổi và tạo ánh sáng.",
+      "placeholder": "Nhập lời nhắc của bạn... Phụ nữ, khuôn mặt chi tiết, phát sáng RGB khoa học viễn tưởng, cyberpunk, v.v."
+    }
+  },
+  "outputSection": {
+    "title": "Kết Quả Thay Đổi Ánh Sáng",
+    "emptyState": "Kết quả sẽ hiển thị ở đây."
+  },
+  "deleteModal": {
+    "title": "Xác Nhận Xóa",
+    "message": "Bạn có chắc chắn muốn xóa video này? Hành động này không thể hoàn tác.",
+    "cancelButton": "Hủy",
+    "deleteButton": "Xóa"
+  },
+  "seoSection": {
+    "whatIs": {
+      "title": "AI Thay Đổi Ánh Sáng Ảnh Là Gì?",
+      "description": "AI Thay Đổi Ánh Sáng Ảnh là kỹ thuật tiên tiến sử dụng trí tuệ nhân tạo để sửa đổi nền và ánh sáng trong hình ảnh. Quá trình này có thể thay đổi đáng kể cảm xúc và bối cảnh của một cảnh bằng cách điều chỉnh nguồn sáng, bóng tối và không khí tổng thể. Nó cho phép người sáng tạo dễ dàng thử nghiệm với các kịch bản ánh sáng khác nhau mà không cần vẽ lại toàn bộ."
+    },
+    "howTo": {
+      "title": "Cách Thay Đổi Ánh Sáng Ảnh Bằng AI",
+      "description": "Dễ dàng biến đổi ánh sáng trong nghệ thuật anime, manga hoặc truyện tranh của bạn với AI Thay Đổi Ánh Sáng Ảnh. Thực hiện theo các bước đơn giản sau để tăng cường khả năng kể chuyện bằng hình ảnh và thêm chiều sâu cho tác phẩm của bạn."
+    },
+    "steps": {
+      "step1": {
+        "title": "Bước 1: Tải Ảnh Tiền Cảnh Lên",
+        "content": "Tải ảnh chính mà bạn muốn thay đổi ánh sáng. Đây có thể là một nhân vật, khung hình hoặc cảnh từ truyện tranh hoặc anime của bạn."
+      },
+      "step2": {
+        "title": "Bước 2: Tải Ảnh Nền Lên",
+        "content": "Tải ảnh nền để AI tham khảo và thay đổi ánh sáng cho tiền cảnh. AI sẽ sử dụng ánh sáng và bảng màu từ ảnh này."
+      },
+      "step3": {
+        "title": "Bước 3: Nhập Lời Nhắc (Tùy Chọn)",
+        "content": "Nhập lời nhắc để mô tả hiệu ứng ánh sáng mong muốn. Ví dụ: 'ánh sáng hoàng hôn dịu nhẹ' hoặc 'đèn neon cyberpunk khắc nghiệt'."
+      },
+      "step4": {
+        "title": "Bước 4: Thay Đổi Ánh Sáng và Chia Sẻ",
+        "content": "Nhấp vào 'Thay Đổi Ánh Sáng Ảnh' và đợi AI thực hiện. Tải xuống và chia sẻ tác phẩm của bạn!"
+      }
+    },
+    "examples": {
+      "title": "Ví Dụ Về AI Thay Đổi Ánh Sáng Ảnh",
+      "description": "Khám phá những kết quả tuyệt đẹp được tạo ra bởi người dùng sử dụng AI Thay Đổi Ánh Sáng Ảnh cho tác phẩm anime, manga và truyện tranh của họ.",
+      "example1": {
+        "subjectAlt": "Ảnh chủ thể đầu vào",
+        "subjectCaption": "Ảnh chủ thể đầu vào",
+        "backgroundAlt": "Ảnh tham khảo đầu vào",
+        "backgroundCaption": "Ảnh nền đầu vào",
+        "outputAlt": "Ảnh đã thay đổi ánh sáng đầu ra",
+        "outputCaption": "Ảnh đã thay đổi ánh sáng đầu ra"
+      },
+      "example2": {
+        "subjectAlt": "Ảnh chủ thể đầu vào",
+        "subjectCaption": "Ảnh chủ thể đầu vào",
+        "backgroundAlt": "Ảnh tham khảo đầu vào",
+        "backgroundCaption": "Ảnh nền đầu vào",
+        "outputAlt": "Ảnh đã thay đổi ánh sáng đầu ra",
+        "outputCaption": "Ảnh đã thay đổi ánh sáng đầu ra"
+      },
+      "example3": {
+        "subjectAlt": "Ảnh chủ thể đầu vào",
+        "subjectCaption": "Ảnh chủ thể đầu vào",
+        "backgroundAlt": "Ảnh tham khảo đầu vào",
+        "backgroundCaption": "Ảnh nền đầu vào",
+        "outputAlt": "Ảnh đã thay đổi ánh sáng đầu ra",
+        "outputCaption": "Ảnh đã thay đổi ánh sáng đầu ra"
+      }
+    },
+    "benefits": {
+      "title": "Tại Sao Bạn Nên Thay Đổi Ánh Sáng Anime và Truyện Tranh Bằng AI?",
+      "description": "AI Thay Đổi Ánh Sáng Ảnh đơn giản hóa quá trình sửa đổi ánh sáng, phù hợp cho mọi người, từ người mới bắt đầu đến họa sĩ minh họa chuyên nghiệp. Khám phá cách AI có thể nâng cao anime, manga, truyện tranh và manhwa của bạn.",
+      "benefit1": {
+        "title": "Thay Đổi Ánh Sáng Dựa Trên Tham Khảo",
+        "content": "Tải ảnh nền để AI tham khảo, đảm bảo tác phẩm của bạn phù hợp hoàn hảo với ý tưởng của bạn."
+      },
+      "benefit2": {
+        "title": "Chỉ Định Ánh Sáng Mong Muốn",
+        "content": "Chỉ định hiệu ứng ánh sáng bạn muốn bằng lời nhắc như 'hoàng hôn dịu nhẹ' hoặc sử dụng ảnh tham khảo để kiểm soát chính xác hơn."
+      },
+      "benefit3": {
+        "title": "Phong Cách Nghệ Thuật Tùy Chỉnh",
+        "content": "Nâng cao nhiều phong cách nghệ thuật khác nhau với AI, bao gồm 'truyện tranh', 'anime', 'manga' và 'manhwa'. Thêm chiều sâu và cảm xúc vào hình minh họa của bạn một cách dễ dàng."
+      },
+      "benefit4": {
+        "title": "Thay Đổi Ánh Sáng Dễ Dàng",
+        "content": "Tiết kiệm thời gian và công sức khi để AI xử lý việc thay đổi ánh sáng. AI sẽ tự động điều chỉnh ánh sáng và không khí trong cảnh của bạn, loại bỏ việc điều chỉnh thủ công."
+      },
+      "benefit5": {
+        "title": "Ánh Sáng Thông Minh",
+        "content": "Bằng cách hiểu phong cách nghệ thuật của bạn, AI phân tích bố cục, cấu trúc và tính thẩm mỹ tổng thể của bản vẽ. AI áp dụng ánh sáng không chỉ phù hợp mà còn nâng cao hình minh họa."
+      },
+      "benefit6": {
+        "title": "Đầu Ra Chất Lượng Cao",
+        "content": "Tải xuống hình ảnh chất lượng chuyên nghiệp, hoàn hảo để chia sẻ hoặc in truyện tranh, manga và anime của bạn."
+      },
+      "benefit7": {
+        "title": "Quy Trình Làm Việc Được Sắp Xếp Hợp Lý",
+        "content": "AI thay đổi ánh sáng ảnh tích hợp liền mạch vào quy trình làm việc của bạn. AI giúp bạn không phải điều chỉnh ánh sáng phức tạp, cho phép bạn tập trung vào khía cạnh sáng tạo của tác phẩm."
+      },
+      "benefit8": {
+        "title": "Tính Nhất Quán Của Bảng Điều Khiển",
+        "content": "Duy trì ánh sáng nhất quán trên nhiều khung hình và trang manga. Hoàn hảo cho các nghệ sĩ manga và người tạo truyện tranh cần đảm bảo tính liên tục của ánh sáng trong suốt câu chuyện."
+      },
+      "benefit9": {
+        "title": "Cải Thiện Hình Ảnh Tức Thì",
+        "content": "Biến đổi cảnh của bạn với ánh sáng rực rỡ ngay lập tức. Cho dù bạn đang làm việc trên manga, truyện tranh hay bản vẽ, công cụ thay đổi ánh sáng AI sẽ mang tác phẩm của bạn vào cuộc sống mà vẫn bảo tồn chất lượng ban đầu."
+      }
+    },
+    "faq": {
+      "title": "Các Câu Hỏi Thường Gặp Về AI Thay Đổi Ánh Sáng Ảnh",
+      "description": "Tìm câu trả lời cho các câu hỏi thường gặp về việc thay đổi ánh sáng hình ảnh và phác thảo bằng AI cho anime, manga và truyện tranh."
+    }
+  },
+  "faq": {
+    "question1": "AI Thay Đổi Ánh Sáng Ảnh Cho Anime và Truyện Tranh Là Gì?",
+    "answer1": "AI Thay Đổi Ánh Sáng Ảnh là một kỹ thuật tiên tiến sử dụng trí tuệ nhân tạo để sửa đổi ánh sáng trong hình ảnh, đặc biệt là cho anime, manga, truyện tranh và manhwa. Quá trình này có thể thay đổi đáng kể tâm trạng và môi trường của một cảnh bằng cách thay đổi các nguồn sáng, bóng tối và không khí tổng thể. Nó cho phép người sáng tạo dễ dàng thử nghiệm với các kịch bản ánh sáng khác nhau mà không cần vẽ lại hoặc sơn lại toàn bộ các khung hình.",
+    "question2": "AI Thay Đổi Ánh Sáng Hoạt Động Như Thế Nào?",
+    "answer2": {
+      "intro": "AI Thay Đổi Ánh Sáng liên quan đến các thuật toán phức tạp phân tích một hình ảnh và xác định các yếu tố khác nhau của nó, chẳng hạn như nhân vật, hình nền và đối tượng. Sau đó, AI sử dụng thông tin này để áp dụng một cách thực tế các hiệu ứng ánh sáng mới dựa trên lời nhắc của người dùng hoặc hình ảnh tham khảo. Đây là cách sử dụng công cụ AI Thay Đổi Ánh Sáng:",
+      "step1": "Tải lên hình ảnh cơ sở của bạn (ví dụ: khung truyện tranh hoặc khung anime).",
+      "step2": "Tải lên hình ảnh nền sẽ được sử dụng để thay đổi ánh sáng cho hình ảnh tiền cảnh.",
+      "step3": "Tùy chọn, nhập lời nhắc để mô tả hiệu ứng ánh sáng mong muốn (ví dụ: \"ánh sáng hoàng hôn dịu nhẹ,\" \"đèn neon cyberpunk khắc nghiệt\").",
+      "step4": "Nhấp vào nút 'Thay Đổi Ánh Sáng Ảnh' để xử lý hình ảnh.",
+      "step5": "Tải xuống hình ảnh đã thay đổi ánh sáng và kết hợp nó vào dự án của bạn."
+    },
+    "question3": "Tôi Có Thể Sử Dụng AI Để Thêm Các Hiệu Ứng Ánh Sáng Kịch Tính Vào Khung Truyện Tranh Của Mình Không?",
+    "answer3": "Có, AI có thể được sử dụng để thêm các hiệu ứng ánh sáng kịch tính vào khung truyện tranh của bạn. Công cụ AI Thay Đổi Ánh Sáng Ảnh cho phép bạn tải lên khung truyện tranh và chỉ định kiểu ánh sáng hoặc tải lên hình ảnh tham khảo. Sau đó, AI sẽ điều chỉnh ánh sáng trong khung hình của bạn để phù hợp với kiểu đã chỉ định, tăng cường tâm trạng và tác động trực quan của tác phẩm nghệ thuật của bạn.",
+    "question4": "Những Lợi Ích Của Việc Sử Dụng AI Để Thay Đổi Ánh Sáng Là Gì?",
+    "answer4": {
+      "intro": "Có rất nhiều lợi ích khi sử dụng AI để thay đổi ánh sáng trong anime và truyện tranh:",
+      "benefit1": "Tiết Kiệm Thời Gian: AI thay đổi ánh sáng có thể giảm đáng kể thời gian dành cho việc điều chỉnh ánh sáng thủ công trong mỗi khung hình.",
+      "benefit2": "Tăng Cường Sáng Tạo: Thử nghiệm với các kịch bản ánh sáng khác nhau một cách nhanh chóng và dễ dàng, cho phép khám phá sáng tạo hơn.",
+      "benefit3": "Đảm Bảo Tính Nhất Quán: Duy trì một kiểu ánh sáng nhất quán trên nhiều khung hình, điều này rất quan trọng đối với việc kể chuyện bằng hình ảnh.",
+      "benefit4": "Khả Năng Tiếp Cận: Các công cụ AI giúp các kỹ thuật chiếu sáng nâng cao có thể tiếp cận được với các nghệ sĩ ở mọi cấp độ kỹ năng."
+    },
+    "question5": "Những Loại Hình Ảnh Nào Hoạt Động Tốt Nhất Với AI Thay Đổi Ánh Sáng?",
+    "answer5": {
+      "intro": "AI Thay Đổi Ánh Sáng hoạt động tốt với nhiều loại hình ảnh, nhưng kết quả tốt nhất thường đạt được với:",
+      "type1": "Khung Anime: Tăng cường tâm trạng và kịch tính của các cảnh chính với ánh sáng động.",
+      "type2": "Khung Manga: Thêm chiều sâu và không khí cho khung manga đen trắng.",
+      "type3": "Nghệ Thuật Truyện Tranh: Tạo hiệu ứng hình ảnh tuyệt đẹp cho truyện tranh siêu anh hùng và tiểu thuyết đồ họa.",
+      "type4": "Hình Minh Họa Manhwa: Mang webtoon vào cuộc sống với ánh sáng rực rỡ và nhất quán."
+    },
+    "question6": "Tôi Có Thể Sử Dụng Hình Ảnh Do AI Thay Đổi Ánh Sáng Tạo Ra Cho Các Mục Đích Thương Mại Không?",
+    "answer6": "Có, bạn có thể sử dụng hình ảnh do AI tạo ra cho cả mục đích cá nhân và thương mại. Tuy nhiên, hãy luôn đảm bảo rằng bạn tuân thủ các điều khoản dịch vụ của nền tảng liên quan đến nội dung do AI tạo ra.",
+    "question7": "Những Định Dạng Tệp Nào Được Hỗ Trợ Cho AI Thay Đổi Ánh Sáng?",
+    "answer7": "Công cụ AI Thay Đổi Ánh Sáng hỗ trợ các định dạng hình ảnh phổ biến như JPG và PNG. Các định dạng này được sử dụng rộng rãi trong ngành công nghiệp anime và truyện tranh, đảm bảo khả năng tương thích với hầu hết các quy trình làm việc.",
+    "question8": "Công Cụ AI Thay Đổi Ánh Sáng Ảnh Có Miễn Phí Không?",
+    "answer8": "KomikoAI cung cấp một số lượng zaps (tín dụng) miễn phí để bạn dùng thử công cụ. Bạn cũng có thể mua các gói trả phí để có thêm zaps nếu bạn cần sử dụng nhiều hơn, cũng như các tính năng nâng cao như xử lý nhanh hơn và độ phân giải cao hơn.",
+    "question9": "Tôi Nên Sử Dụng Loại Lời Nhắc Nào Để Có Kết Quả Tốt Nhất?",
+    "answer9": "Để có kết quả AI thay đổi ánh sáng tối ưu, hãy sử dụng các lời nhắc rõ ràng và mô tả. Ví dụ: hãy thử các lời nhắc như: \"ánh sáng hoàng hôn dịu nhẹ,\" \"đèn cyberpunk neon mạnh mẽ,\" hoặc \"ánh trăng kỳ lạ.\" Bạn càng cụ thể, AI càng có thể diễn giải tầm nhìn của bạn tốt hơn.",
+    "question10": "Có Bất Kỳ Hạn Chế Nào Đối Với AI Thay Đổi Ánh Sáng Ảnh Không?",
+    "answer10": {
+      "intro": "Mặc dù AI Thay Đổi Ánh Sáng Ảnh là một công cụ mạnh mẽ, nhưng nó có một số hạn chế:",
+      "limitation1": "Phong Cách Nghệ Thuật: AI có thể không phải lúc nào cũng phù hợp hoàn hảo với phong cách nghệ thuật mong muốn của bạn.",
+      "limitation2": "Cảnh Phức Tạp: Các cảnh cực kỳ phức tạp với nhiều nguồn sáng có thể tạo ra kết quả kém dự đoán hơn.",
+      "limitation3": "Diễn Giải Lời Nhắc: Các lời nhắc quá mơ hồ hoặc không rõ ràng có thể mang lại kết quả không đạt yêu cầu.",
+      "conclusion": "Bất chấp những hạn chế này, AI thay đổi ánh sáng có thể cải thiện đáng kể tác phẩm nghệ thuật của bạn và tăng tốc quá trình sáng tạo của bạn."
+    },
+    "question11": "Tôi Có Cần Phải Là Một Nghệ Sĩ Có Kinh Nghiệm Để Sử Dụng AI Thay Đổi Ánh Sáng Ảnh Không?",
+    "answer11": "Không, bạn không cần phải là một nghệ sĩ có kinh nghiệm để sử dụng AI Thay Đổi Ánh Sáng Ảnh. Công cụ này được thiết kế để thân thiện với người dùng cho mọi người, cho dù bạn là một nghệ sĩ chuyên nghiệp hay một người mới bắt đầu khám phá các tùy chọn sáng tạo. AI xử lý các khía cạnh kỹ thuật của ánh sáng, cho phép bạn tập trung vào tầm nhìn nghệ thuật của mình.",
+    "question12": "AI Thay Đổi Ánh Sáng Duy Trì Tính Nhất Quán Trên Nhiều Khung Hình Như Thế Nào?",
+    "answer12": {
+      "intro": "Để duy trì tính nhất quán trên nhiều khung hình, hãy làm theo các mẹo sau:",
+      "tip1": "Sử Dụng Các Lời Nhắc Tương Tự: Áp dụng các lời nhắc ánh sáng tương tự cho mỗi khung hình để đảm bảo kiểu dáng đồng nhất.",
+      "tip2": "Hình Ảnh Tham Khảo: Sử dụng cùng một hình ảnh tham khảo cho nhiều khung hình để hướng dẫn các lựa chọn màu sắc và ánh sáng của AI.",
+      "tip3": "Lặp Lại Và Tinh Chỉnh: Xem xét các khung hình đã thay đổi ánh sáng và thực hiện các điều chỉnh nhỏ để đảm bảo chúng phù hợp với tầm nhìn tổng thể của bạn.",
+      "tip4": "Tạo Các Nhân Vật Nhất Quán: Đảm bảo các đặc điểm nhân vật như màu mắt nhất quán."
+    },
+    "question13": "AI Thay Đổi Ánh Sáng Có Thể Giúp Với Các Khung Manga Đen Trắng Không?",
+    "answer13": "Có, AI Thay Đổi Ánh Sáng có thể cực kỳ hiệu quả đối với các khung manga đen trắng. Bằng cách thêm các độ dốc và điểm nổi bật tinh tế, AI có thể tạo ra cảm giác về chiều sâu và không khí, làm cho các khung hình trở nên hấp dẫn hơn về mặt thị giác. Thử nghiệm với các lời nhắc gợi ý các thời điểm khác nhau trong ngày hoặc điều kiện thời tiết để xem cách AI có thể nâng cao tác phẩm nghệ thuật manga của bạn.",
+    "question14": "Làm Cách Nào Tôi Có Thể Sử Dụng AI Thay Đổi Ánh Sáng Để Tạo Ra Các Tâm Trạng Khác Nhau Trong Truyện Tranh Của Mình?",
+    "answer14": "AI Thay Đổi Ánh Sáng rất tuyệt vời để thiết lập các tâm trạng khác nhau trong truyện tranh của bạn. Ví dụ: sử dụng ánh sáng ấm áp, dịu nhẹ cho một cảnh lãng mạn hoặc ánh sáng khắc nghiệt, mát mẻ cho một khoảnh khắc hồi hộp. Thử nghiệm với bảng màu và hướng ánh sáng để gợi lên những cảm xúc mong muốn ở người đọc. Hình ảnh tham khảo cũng có thể được sử dụng để hướng dẫn AI tới các tâm trạng và phong cách cụ thể.",
+    "question15": "Có Thể Chỉnh Sửa Các Kết Quả Do AI Thay Đổi Ánh Sáng Tạo Ra Không?",
+    "answer15": "Có, bạn có thể chỉnh sửa và tinh chỉnh thêm các hình ảnh do AI thay đổi ánh sáng bằng phần mềm nghệ thuật kỹ thuật số ưa thích của bạn. Kết quả do AI tạo ra đóng vai trò là một cơ sở tuyệt vời mà bạn có thể cải thiện bằng nét nghệ thuật cá nhân của mình. Bạn có thể điều chỉnh màu sắc, tinh chỉnh các chi tiết và thêm các hiệu ứng bổ sung để đạt được giao diện mong muốn.",
+    "question16": "Một Số Cách Sáng Tạo Để Sử Dụng AI Thay Đổi Ánh Sáng Ảnh Là Gì?",
+    "answer16": {
+      "intro": "AI Thay Đổi Ánh Sáng Ảnh có thể được sử dụng cho:",
+      "use1": "Tạo các cảnh kịch tính trong truyện tranh siêu anh hùng",
+      "use2": "Thêm không khí cho khung manga",
+      "use3": "Nâng cao sức hấp dẫn trực quan của webtoon",
+      "use4": "Thử nghiệm với các kiểu ánh sáng khác nhau để thiết kế nhân vật",
+      "use5": "Các mục đích giáo dục trong các lớp học nghệ thuật",
+      "use6": "Hồi sinh các hình minh họa đen trắng cũ"
+    },
+    "question17": "Tính năng ảnh nền hoạt động như thế nào trong công cụ thay đổi ánh sáng AI của KomikoAI?",
+    "answer17": "Công cụ thay đổi ánh sáng AI của KomikoAI bao gồm một tính năng ảnh nền mạnh mẽ cho phép bạn hướng dẫn các lựa chọn ánh sáng của AI cho manga, truyện tranh hoặc hình minh họa của bạn. Bằng cách tải lên ảnh nền cùng với hình vẽ đường nét của bạn, AI sẽ phân tích bảng màu và phong cách nghệ thuật để tạo ra kết quả thay đổi ánh sáng mục tiêu hơn. Tính năng này đặc biệt có giá trị đối với các nghệ sĩ manga và người tạo truyện tranh muốn duy trì ánh sáng nhất quán trên tác phẩm nghệ thuật của họ. Công cụ thay đổi ánh sáng AI sử dụng máy học nâng cao để trích xuất các bảng màu từ ảnh nền của bạn và áp dụng chúng một cách thông minh vào hình ảnh tiền cảnh của bạn trong khi vẫn giữ nguyên ý định nghệ thuật ban đầu.",
+    "question18": "Điều gì tạo nên một ảnh nền tốt cho việc thay đổi ánh sáng hình vẽ đường nét AI?",
+    "answer18": {
+      "intro": "Để có kết quả tối ưu với công cụ thay đổi ánh sáng hình vẽ đường nét AI của KomikoAI, hãy chọn hình ảnh tham khảo phù hợp với tầm nhìn nghệ thuật của bạn cho manga, truyện tranh hoặc hình minh họa. Các ảnh nền tốt nhất nên:",
+      "tip1": "Có màu sắc và ánh sáng rõ ràng, được xác định rõ ràng phù hợp với kiểu manga hoặc truyện tranh mong muốn của bạn",
+      "tip2": "Chia sẻ nội dung hoặc hướng nghệ thuật tương tự với hình ảnh tiền cảnh của bạn (ví dụ: kiểu anime, kiểu truyện tranh)",
+      "tip3": "Thể hiện bảng màu cụ thể mà bạn muốn đạt được trong tác phẩm nghệ thuật của mình",
+      "tip4": "Được chiếu sáng tốt và có chất lượng cao để giúp AI phân tích màu sắc một cách chính xác",
+      "conclusion": "Bạn có thể sử dụng nhiều loại tài liệu tham khảo khác nhau, bao gồm các nhân vật anime hiện có, ảnh chụp màn hình anime, khung manga hoặc hình minh họa kỹ thuật số. Tính linh hoạt này cho phép các nghệ sĩ đạt được sự phù hợp màu sắc chính xác và duy trì tính nhất quán trên các trang manga hoặc khung truyện tranh của họ."
+    }
+  },
+  "relight_image": "Thay Đổi Ánh Sáng Ảnh"
+}

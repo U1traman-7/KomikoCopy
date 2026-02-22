@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Generator Lencana AI",
+      "description": "Buat lencana yang memukau dengan mudah dari gambar Anda menggunakan teknologi AI. Rasakan pengalaman berkreasi yang belum pernah ada sebelumnya! Mulai hasilkan lencana Anda hari ini!",
+      "keywords": "Generator Lencana AI, lencana fotografi AI, desain lencana khusus, pembuat lencana AI, generator lencana unik, lencana foto artistik"
+    },
+    "hero": {
+      "title": "Generator Lencana AI"
+    },
+    "whatIs": {
+      "title": "Apa Itu Generator Lencana AI?",
+      "description": "Generator Lencana AI adalah alat yang mudah digunakan untuk mengubah gambar Anda menjadi lencana dengan gaya khas. Dengan memanfaatkan algoritma AI canggih, alat ini menginterpretasikan elemen dari foto Anda menjadi representasi lencana artistik, ideal bagi kreator yang ingin meningkatkan proyek visual mereka dengan cepat dan mudah."
+    },
+    "examples": {
+      "title": "Contoh Generator Lencana AI",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Generator Lencana AI",
+      "steps": [
+        {
+          "title": "Langkah 1: Unggah Foto Anda",
+          "content": "Pilih foto yang Anda inginkan (JPG, PNG, WEBP) dan unggah di sini. Gambar dengan resolusi tinggi akan menghasilkan hasil yang lebih baik!"
+        },
+        {
+          "title": "Langkah 2: Pilih Template Lencana",
+          "content": "Pilih template Lencana untuk mengubah foto Anda menjadi gaya lencana yang diinginkan."
+        },
+        {
+          "title": "Langkah 3: Konversi ke Lencana",
+          "content": "Klik 'Konversi ke Lencana' untuk menerapkan gaya yang Anda pilih. AI akan memproses gambar Anda dan menghasilkan lencana yang memukau secara visual."
+        },
+        {
+          "title": "Langkah 4: Unduh dan Bagikan",
+          "content": "Pratinjau lencana baru Anda! Jika Anda menyukainya, unduh untuk dibagikan di media sosial atau dimasukkan ke dalam proyek Anda."
+        }
+      ],
+      "subtitle": "Ciptakan transformasi lencana yang menakjubkan hanya dalam beberapa langkah mudah!"
+    },
+    "benefits": {
+      "title": "Mengapa Memilih Generator Lencana AI?",
+      "description": "Temukan fitur-fitur yang akan meningkatkan ekspresi kreatif Anda.",
+      "features": [
+        {
+          "title": "🎨 Gaya Artistik yang Unik",
+          "content": "Nikmati berbagai gaya lencana yang sesuai dengan tema dan suasana yang berbeda—sempurna untuk proyek daring maupun luring!"
+        },
+        {
+          "title": "⚡ Pemrosesan yang Cepat",
+          "content": "Rasakan pemrosesan gambar yang cepat, sehingga kreativitas Anda dapat mengalir tanpa hambatan."
+        },
+        {
+          "title": "🖼️ Unduhan Resolusi Tinggi",
+          "content": "Dapatkan gambar bergaya lencana dalam resolusi tinggi tanpa kehilangan kualitas—ideal untuk berbagai aplikasi."
+        },
+        {
+          "title": "💫 Pengalaman Pengguna yang Intuitif",
+          "content": "Navigasi platform kami dengan mudah. Platform ini dirancang untuk semua kalangan, mulai dari pemula hingga desainer berpengalaman."
+        },
+        {
+          "title": "🎯 Desain yang Dapat Disesuaikan",
+          "content": "Buat desain lencana yang unik untuk acara, merek, atau penggunaan pribadi apa pun, yang mencerminkan selera pribadi Anda."
+        },
+        {
+          "title": "🚀 Peningkatan Fitur Berkala",
+          "content": "Dapatkan pembaruan gaya dan fitur baru secara berkala, yang akan terus menginspirasi perjalanan kreatif Anda."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Generator Lencana AI FAQ",
+      "description": "",
+      "q1": "Apa fungsi Generator Lencana AI?",
+      "a1": "Generator Lencana AI memungkinkan Anda mengubah foto Anda menjadi gaya lencana yang unik menggunakan pembelajaran mesin (machine learning). Alat ini menganalisis gambar Anda dan membuat desain artistik berdasarkan algoritma canggih.",
+      "q2": "Bagaimana cara memaksimalkan efek Generator Lencana AI?",
+      "a2": "Gunakan foto yang jelas dan beresolusi tinggi, pilih gaya yang melengkapi gambar Anda, dan uji berbagai transformasi untuk menemukan yang paling sesuai.",
+      "q3": "Apakah Generator Lencana AI gratis untuk digunakan?",
+      "a3": "Ya, Generator Lencana AI kami gratis untuk digunakan! Jelajahi opsi premium untuk gaya lanjutan.",
+      "q4": "Apa yang membedakan Generator Lencana AI dari alat lain?",
+      "a4": "Generator Lencana AI kami menggunakan model pembelajaran mesin (machine learning) canggih yang dirancang khusus untuk membuat seni lencana yang unik, sehingga menghasilkan transformasi berkualitas tinggi.",
+      "q5": "Apakah saya dapat mengkomersialkan karya seni yang dibuat dengan Generator Lencana AI?",
+      "a5": "Ya, Anda dapat menggunakan kreasi bergaya lencana Anda secara komersial, misalnya untuk merchandise, selama Anda mengikuti panduan penggunaan kami."
+    },
+    "cta": {
+      "title": "Mulai Berkreasi dengan Generator Lencana AI Hari Ini",
+      "description": "Jangan tunda lagi! Bebaskan kreativitas Anda dan buat karya seni lencana yang menakjubkan dari foto Anda hanya dalam beberapa menit. Bergabunglah dengan komunitas kreator yang mengubah visual mereka dengan AI!",
+      "buttonText": "Buat Seni Lencana AI Anda Secara Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique badge style",
+  "originalKeyword": "AI Badge Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-badge-generator/tanjiro-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/tanjiro-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/demon-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/demon-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/naruto-output.webp",
+      "input": "/images/examples/playground/ai-cosplay-generator/naruto-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/dn-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/dn-input.webp",
+      "prompt": "Style: Badge"
+    }
+  ]
+}

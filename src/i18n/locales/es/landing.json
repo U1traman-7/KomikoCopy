@@ -1,0 +1,268 @@
+{
+  "hero": {
+    "title": "Da Vida a Tus Ideas de Anime y Cómics",
+    "subtitle": "Visualiza tus sueños y anima tus historias: diseña personajes, crea arte y anima escenas con IA",
+    "create_now_button": "Crea gratis",
+    "join_discord_button": "Únete a nuestro Discord"
+  },
+  "section2": {
+    "tagline": "KomikoAI: Genera personajes consistentes",
+    "title": "Diseño de personajes consistente",
+    "description": {
+      "part1": "Asegúrate de que tus personajes de cómic sean consistentes con nuestra extensa base de datos de personajes.",
+      "part2": "También puedes",
+      "part3": "y usarlos en la generación de imágenes y la creación de cómics para garantizar una apariencia de personaje coherente."
+    },
+    "create_character_link": "Crea tu propio personaje",
+    "create_character_title": "Crear personaje | KomikoAI",
+    "create_now_button": "Crea gratis",
+    "create_now_title": "Crea tu historia ahora | KomikoAI",
+    "image_alt": "Crea diseños de personajes consistentes en KomikoAI"
+  },
+  "section3": {
+    "tagline": "KomikoAI: Estudio de cómics con IA",
+    "title": "Libertad creativa en el lienzo",
+    "description": {
+      "part1": "¡Libera tu creatividad y crea cómics, mangas e historietas en nuestro lienzo impulsado por IA!",
+      "part2": "Utiliza nuestro generador de texto a imagen con IA para generar imágenes, organiza libremente tus paneles de cómic en un lienzo infinito y añade globos de diálogo y efectos para mejorar tu narración."
+    },
+    "create_comics_title": "Crea cómics en el lienzo | KomikoAI",
+    "create_now_button": "Crea gratis",
+    "create_now_title": "Crea tu historia ahora | KomikoAI",
+    "image_alt": "Crea cómics con IA en un lienzo infinito"
+  },
+  "section4": {
+    "tagline": "KomikoAI: Herramientas de IA para ilustradores, artistas y animadores",
+    "title": "Creación de arte profesional con IA",
+    "description": {
+      "intro": "KomikoAI ofrece potentes herramientas de IA para la creación de arte profesional:",
+      "feature1": "Generación de texto a imagen para la creación instantánea de arte",
+      "feature2": "Coloreado de dibujos lineales y cómics para ahorrar horas de trabajo manual",
+      "feature3": "Ampliación de imágenes de alta calidad para obtener resultados nítidos",
+      "feature4": "Eliminación y reiluminación de fondos para una edición de imágenes flexible",
+      "conclusion": "Tanto si eres un artista profesional como si estás empezando, nuestras herramientas de IA te ayudarán a crear ilustraciones, cómics y animaciones impresionantes más rápido que nunca."
+    },
+    "colorize_title": "Colorea dibujos lineales con IA | KomikoAI",
+    "create_now_button": "Crea gratis",
+    "create_now_title": "Crea tu historia ahora | KomikoAI",
+    "image_alt": "Crea diseños de personajes consistentes en KomikoAI"
+  },
+  "section5": {
+    "tagline": "KomikoAI: Haz que tu arte cobre vida con la animación con IA",
+    "title": "Generación de fotogramas clave a animación",
+    "description": {
+      "part1": "Convierte tus fotogramas clave en animaciones fluidas y de alta calidad utilizando modelos de IA líderes en la industria como Veo, Kling, Hailuo, Pixverse y más.",
+      "part2": "Acelera tus flujos de trabajo de animación profesional con herramientas de interpolación y ampliación de vídeo impulsadas por IA."
+    },
+    "animation_title": "Generador de Animaciones AI | KomikoAI",
+    "create_now_button": "Crea gratis",
+    "create_now_title": "Crea tu historia ahora | KomikoAI",
+    "image_alt": "Genera vídeos de animación con IA en KomikoAI"
+  },
+  "features": {
+    "title": "Plataforma de creación de IA todo en uno",
+    "subtitle": "Explora herramientas profesionales de IA para acelerar tu creación de ilustraciones, cómics y anime"
+  },
+  "testimonials": {
+    "title": "Testimonios",
+    "subtitle": "Descubre cómo KomikoAI está ayudando a nuestros usuarios a crear cómics y animaciones increíbles.",
+    "testimonial1": {
+      "name": "Lina K",
+      "title": "Tarsis Animation, Directora Creativa",
+      "content": "KomikoAI ha revolucionado la forma en que creamos anime. Hemos reducido nuestro tiempo de producción a la mitad y ahora podemos dar vida a escenas más complejas sin las complicaciones habituales. Es un cambio radical para nuestro estudio."
+    },
+    "testimonial2": {
+      "name": "Salmonism",
+      "title": "Artista de cómics",
+      "content": "Colorear solía llevarme horas, ahora solo lleva segundos. La herramienta de coloreado de dibujos lineales con IA de KomikoAI me permite concentrarme en la narración en lugar de perderme en tareas tediosas."
+    },
+    "testimonial3": {
+      "name": "Tristan B",
+      "title": "Fundador de Nebula Studios",
+      "content": "Desde el diseño de personajes hasta los guiones gráficos y la animación, KomikoAI nos ahorra tiempo y hace que nuestro trabajo sea más creativo. A nuestro equipo le encanta y no puedo imaginar volver a la forma en que hacíamos las cosas antes."
+    },
+    "testimonial4": {
+      "name": "VentiVenti",
+      "title": "Creador de cómics de IA",
+      "content": "Siempre quise crear cómics de fans de Genshin Impact, pero nunca tuve tiempo para aprender a dibujar. Las herramientas de IA de KomikoAI lo hicieron posible: puedo dar vida a mis historias exactamente como las imagino."
+    },
+    "testimonial5": {
+      "name": "John D",
+      "title": "Animador independiente",
+      "content": "KomikoAI ha llevado mi animación a un nivel completamente nuevo. Puedo producir trabajos de alta calidad en una fracción del tiempo que solía necesitar. KomikoAI es como tener todo un equipo de animación en una sola herramienta potente."
+    }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "what_is_komiko": {
+      "question": "¿Qué es KomikoAI?",
+      "answer": "KomikoAI es una plataforma impulsada por IA que te permite crear cómics, mangas y animaciones con la ayuda de la IA. Ofrece un conjunto de herramientas que te ayudan a crear cómics, mangas y animaciones de calidad profesional en minutos, no en días."
+    },
+    "what_tools": {
+      "question": "¿Qué herramientas ofrece KomikoAI?",
+      "answer": "KomikoAI ofrece una amplia gama de herramientas de IA para ayudarte a crear cómics, mangas y animaciones de calidad profesional. Incluye creación de personajes, lienzo infinito, generador de cómics con IA, coloreado de dibujos lineales, coloreado de cómics, interpolación, ampliación de vídeo, interpolación de fotogramas y mucho más."
+    },
+    "how_comic_creation_works": {
+      "question": "¿Cómo funciona la creación de cómics con IA de KomikoAI?",
+      "answer": "KomikoAI utiliza tecnología de IA avanzada para ayudarte a generar obras de arte de cómic. Simplemente introduce las ideas de tu historia y nuestra IA generará cómics con consistencia de personajes, globos de diálogo y diseños de paneles para ti."
+    },
+    "is_free": {
+      "question": "¿Es KomikoAI de uso gratuito?",
+      "answer": "Sí, KomikoAI ofrece un nivel gratuito que te permite probar nuestras funciones básicas. También ofrecemos planes de pago para creadores profesionales con funciones avanzadas, salidas de mayor resolución y más generaciones."
+    },
+    "manga_anime_style": {
+      "question": "¿Puedo crear arte de estilo manga y anime con KomikoAI?",
+      "answer": "¡Por supuesto! KomikoAI se centra en los estilos de arte de manga, anime y cómics. Nuestra IA está entrenada exhaustivamente en obras de anime, manga y cómics para garantizar una estética auténtica del cómic japonés y coreano."
+    },
+    "what_makes_different": {
+      "question": "¿Qué diferencia a KomikoAI de otras herramientas de arte con IA?",
+      "answer": "KomikoAI está diseñado específicamente para la creación de cómics y animación, y ofrece funciones especiales como consistencia de personajes, herramientas de diseño de paneles, generación de globos de diálogo y capacidades de animación. Nuestra plataforma ofrece una solución integral para la creación de cómics y animación digital."
+    },
+    "need_artistic_skills": {
+      "question": "¿Necesito habilidades artísticas para usar KomikoAI?",
+      "answer": "¡No se requiere experiencia artística! Si bien los artistas pueden utilizar nuestras herramientas para acelerar sus flujos de trabajo, KomikoAI está diseñado para ayudar a cualquiera a crear cómics y animaciones de aspecto profesional, independientemente de su formación artística."
+    },
+    "commercial_projects": {
+      "question": "¿Puedo usar KomikoAI para proyectos comerciales?",
+      "answer": "Sí, los planes premium de KomikoAI incluyen derechos de uso comercial. Posees todos los derechos de cualquier obra de arte que crees utilizando nuestra plataforma, lo que la hace perfecta para artistas de cómics profesionales y estudios de animación."
+    },
+    "support": {
+      "question": "¿Qué tipo de soporte ofrece KomikoAI?",
+      "answer": "Ofrecemos soporte integral a través de nuestra comunidad de Discord, documentación, tutoriales en vídeo y atención al cliente dedicada. Únete a nuestra comunidad de Discord para aprender consejos, compartir tu trabajo y obtener ayuda cuando la necesites."
+    }
+  },
+  "cta": {
+    "title": "Libera tu creatividad",
+    "subtitle": "Convierte tus ideas en cómics y animaciones asombrosos con KomikoAI IA hoy mismo",
+    "create_now_button": "Crea gratis",
+    "join_discord_button": "Únete a nuestro Discord"
+  },
+  "create_now": "Crea ahora",
+  "interactive_menu": {
+    "click_select": "Haz clic para seleccionar",
+    "input_placeholder": "Escribe tu inspiración aquí...",
+    "input_placeholder_short": "Escribe tu idea...",
+    "character_placeholder": "Diseña tu personaje (por ejemplo, chica mágica con pelo verde y orejas de elfo)",
+    "character_placeholder_short": "Idea de personaje (por ejemplo, gato ninja)",
+    "comic_placeholder": "Crea tu historia (por ejemplo, superhéroe rescatando a un gato de un rascacielos)",
+    "comic_placeholder_short": "Idea para historia (por ejemplo, piratas espaciales)",
+    "anime_placeholder": "Crea tu obra de anime (por ejemplo, samurái ciberpunk con katana luminosa)",
+    "anime_placeholder_short": "Idea para arte de anime (por ejemplo, samurái ciberpunk)",
+    "animation_placeholder": "Crea tu animación (por ejemplo, un gato ninja luchando contra un pirata espacial)",
+    "animation_placeholder_short": "Idea para animación (por ejemplo, gato ninja contra pirata espacial)",
+    "title": "Haz clic para cambiar el tipo",
+    "character_card": {
+      "alt": "Diseño de Personaje",
+      "title": "Personaje"
+    },
+    "comic_card": {
+      "alt": "Cómic de Historia",
+      "title": "Cómic"
+    },
+    "anime_card": {
+      "alt": "Arte de Anime",
+      "title": "Arte de Anime"
+    },
+    "animation_card": {
+      "alt": "Animación",
+      "title": "Animación"
+    },
+    "button": {
+      "choose_type": "Elige un Tipo",
+      "create_character": "Crear Personaje",
+      "create_comic": "Crear Cómic",
+      "create_animation": "Crear Animación",
+      "create_anime": "Crear Arte de Anime"
+    },
+    "see_more": "Comienza Gratis"
+  },
+  "stats": {
+    "active_creators": "Más de 100K Creadores Activos",
+    "creations_made": "Más de 100K Creaciones Realizadas",
+    "trusted_professionals": "Con la confianza de Profesionales"
+  },
+  "partners": {
+    "title": "Nuestros Socios",
+    "subtitle": "Impulsados por los modelos de IA más avanzados del mundo y respaldados por inversores de primera categoría"
+  },
+  "professional": {
+    "line_art_colorization": {
+      "title": "Coloreado de Línea",
+      "short_title": "Coloreado",
+      "description": "Transforma tu arte lineal en ilustraciones completamente coloreadas con IA que entiende el estilo y la iluminación del anime.",
+      "detailed_description": "El coloreado de línea con IA utiliza modelos avanzados entrenados con millones de imágenes para reconocer patrones en el arte lineal y aplicar colores artísticos. Sube tu boceto, añade un indicio de color, y la IA interpretará tu intención artística para generar una imagen coloreada.",
+      "features": {
+        "upload_line_art": "Sube un arte lineal limpio",
+        "reference_guided": "Coloreado guiado por referencias",
+        "specify_colors": "Especifica tus colores",
+        "high_quality": "Resultados de alta calidad"
+      }
+    },
+    "sketch_simplification": {
+      "title": "Simplificación de Bocetos",
+      "short_title": "Boceto",
+      "description": "Convierte bocetos ásperos en arte lineal limpio, optimizando tu flujo de trabajo de ilustración.",
+      "detailed_description": "La simplificación de bocetos con IA utiliza modelos avanzados entrenados con millones de imágenes para analizar la estructura de tu boceto y simplificarlo de manera inteligente. La IA identifica líneas y detalles importantes mientras elimina ruidos y complejidades innecesarias, resultando en arte lineal limpio y profesional.",
+      "features": {
+        "clean_line_art": "Arte lineal limpio",
+        "smart_simplification": "Simplificación inteligente",
+        "time_saving": "Refinamiento que ahorra tiempo",
+        "professional_quality": "Calidad profesional"
+      }
+    },
+    "background_removal": {
+      "title": "Eliminación de Fondo",
+      "short_title": "Eliminar Fondo",
+      "description": "Eliminación de fondo precisa optimizada para personajes de anime, preservando detalles finos como cabellos.",
+      "detailed_description": "La eliminación de fondo con IA utiliza modelos de aprendizaje automático de última generación entrenados específicamente en arte de anime y manga para detectar y eliminar automáticamente los fondos de las imágenes. La IA analiza cada píxel para asegurar una detección precisa de bordes, incluso con peinados de anime complejos y diseños intrincados.",
+      "features": {
+        "hair_precision": "Precisión a nivel de cabello",
+        "anime_optimized": "Optimizado para personajes de anime",
+        "transparent_png": "Exportación en PNG transparente",
+        "batch_processing": "Procesamiento por lotes"
+      }
+    },
+    "image_upscaling": {
+      "title": "Ampliación de Imagen",
+      "short_title": "Ampliar",
+      "description": "Mejora la resolución de la imagen mientras preservas el estilo artístico del anime y los detalles finos.",
+      "detailed_description": "La ampliación impulsada por IA comprende los estilos de arte de anime y manga, aumentando la resolución hasta 4 veces mientras mantiene líneas nítidas, colores vibrantes e integridad artística.",
+      "features": {
+        "up_to_4x": "Resolución de hasta 4 veces",
+        "style_preservation": "Conservación del estilo",
+        "detail_enhancement": "Mejora de detalles",
+        "high_quality_export": "Exportación de alta calidad"
+      }
+    },
+    "animation_inbetweening": {
+      "title": "Generación de Intermedios de Animación",
+      "short_title": "Animar",
+      "description": "Genera cuadros de animación eficientes entre tus fotogramas clave, reduciendo drásticamente el tiempo de producción de animación.",
+      "detailed_description": "La generación de intermedios con IA utiliza aprendizaje automático avanzado para entender el movimiento y generar transiciones naturales entre fotogramas clave. Sube de 2 a 5 imágenes de fotogramas clave, añade un indicio para guiar el estilo de animación y deja que la IA cree transiciones suaves entre tus poses clave.",
+      "features": {
+        "upload_keyframes": "Sube de 2 a 5 fotogramas clave",
+        "advanced_ai": "Tecnología de IA avanzada",
+        "rapid_creation": "Creación rápida de animaciones",
+        "professional_quality": "Calidad profesional"
+      }
+    },
+    "frame_interpolation": {
+      "title": "Interpolación de Cuadros",
+      "short_title": "Interpolar",
+      "description": "Aumenta la tasa de fotogramas de tu animación generando cuadros intermedios, creando un movimiento ultra-suave.",
+      "detailed_description": "La interpolación de cuadros con IA utiliza inteligencia artificial para generar cuadros adicionales entre los existentes, resultando en un movimiento más suave y tasas de fotogramas más altas. Nuestra IA analiza el movimiento entre los cuadros existentes y utiliza algoritmos de aprendizaje automático avanzados para generar nuevos cuadros intermedios.",
+      "features": {
+        "higher_frame_rates": "Tasas de fotogramas más altas",
+        "smoother_motion": "Movimiento más suave",
+        "video_enhancement": "Mejora de video",
+        "professional_quality": "Calidad profesional"
+      }
+    },
+    "section_title": "Para Artistas Profesionales",
+    "main_title": "Herramientas de IA que Aceleran tu Trabajo",
+    "subtitle": "Deja que la IA maneje las tareas que consumen tiempo para que puedas enfocarte en la creatividad",
+    "cta_button": "Comienza a Crear con IA",
+    "cta_subtitle": "Herramientas de calidad profesional en las que confían más de 47K creadores",
+    "learn_more": "Aprende más"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Animation AI",
+      "description": "Harness the power of Animation AI to transform your photos, art, and illustrations into engaging animations, bringing your creations to life with dynamic movement.",
+      "keywords": "Animation AI, AI animation generator, AI-powered animation, photo animation, digital art animation, animated illustrations, video generator, manhwa animation, anime animation"
+    },
+    "hero": {
+      "title": "Animation AI",
+      "description": "Utilize Animation AI to breathe life into your artwork, illustrations, and photos, turning static images into vibrant animations with ease and creativity."
+    },
+    "whatIs": {
+      "title": "What is Animation AI?",
+      "description": "Animation AI is a cutting-edge tool that converts your static images into dynamic animations, ideal for anime, manga, comics, and more, using powerful AI technology."
+    },
+    "examples": {
+      "title": "Animation AI Examples",
+      "description": "Check out these examples showcasing how Animation AI can transform static images into lively animations! Discover the possibilities for your creations.",
+      "inputAlt": "Sample Input Image",
+      "inputLabel": "Input Artwork",
+      "outputLabel": "Animation Result"
+    },
+    "howToUse": {
+      "title": "How to use Animation AI",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Select and upload the image you wish to animate—be it an anime illustration, comic scene, or more."
+        },
+        {
+          "title": "Enter a Prompt",
+          "content": "Describe the motion or scene you envision. Our AI will interpret your instructions to create the animation."
+        },
+        {
+          "title": "Generate Animation",
+          "content": "Click on 'Generate Animation' and let Animation AI work its magic, transforming your image into an animated video."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Save your animated masterpiece and easily share it across platforms for enhanced engagement and creativity."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why use Animation AI?",
+      "description": "Uncover the advantages of Animation AI for your anime, manga, and digital art projects. Make animation accessible and straightforward with our advanced AI tools.",
+      "features": [
+        {
+          "title": "Advanced AI Animation",
+          "content": "Leverage AI technology to generate animations effortlessly from your images, enhancing your creations dynamically.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Engage Creatively",
+          "content": "Turn still visuals into animations ideal for social media, portfolios, and projects with striking appeal.",
+          "icon": "🎬"
+        },
+        {
+          "title": "User-Friendly Interface",
+          "content": "No specialized skills required! Simply input your visuals and prompts to produce animations seamlessly.",
+          "icon": "👌"
+        },
+        {
+          "title": "Efficiency and Speed",
+          "content": "Minimize time investment in animation creation. Our AI efficiently delivers animations in minutes.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Professional Results",
+          "content": "Ensure high-quality, smooth-flowing animations, perfect for creators seeking polished outcomes.",
+          "icon": "✨"
+        },
+        {
+          "title": "Creativity Unleashed",
+          "content": "Focus on your art while Animation AI handles animation intricacies. Deliver stunning content with ease.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Explore commonly asked questions about using Animation AI effectively.",
+      "q1": "What is Animation AI?",
+      "a1": "Animation AI is an AI tool that turns static images into dynamic animations. Using advanced algorithms, it captures your artistic vision by simulating lifelike movements and scenes, ideal for anime, comics, and more engaging digital art projects.",
+      "q2": "How to use Animation AI?",
+      "a2": "Using Animation AI is simple! First, upload your image, then enter a descriptive prompt, and click 'Generate Animation'. Experience the automation as AI crafts an animated video from your image, providing high-quality results effortlessly.",
+      "q3": "How does Animation AI work?",
+      "a3": "Animation AI utilizes deep learning and advanced visualization technologies to interpret your images and prompts. It identifies key features and produces new frames to animate movements, expressions, and scenes seamlessly.",
+      "q4": "What is the best animation generator?",
+      "a4": "KomikoAI provides the best animation generator. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Animation AI, you can create dynamic animations, making it perfect for artists and creators in digital media.",
+      "q5": "Is the KomikoAI Animation AI free online?",
+      "a5": "Yes, you can test out the Animation AI on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Animation AI?",
+      "a6": "You can use Animation AI on KomikoAI to create animations from your images, turning them into engaging content. It supports anime, manga, character art, and more with dynamic movement effects and various styles.",
+      "q7": "Can I use Animation AI on my phone?",
+      "a7": "Yes, you can use Animation AI as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Animation AI?",
+      "a8": "Yes, KomikoAI's Animation AI allows you to export your generation in various formats, such as MP4, GIF, WebM, for easy sharing.",
+      "q9": "Why should I use Animation AI?",
+      "a9": "Using Animation AI can enhance your digital creations, streamlining the animation process with ease. Our tool allows you to create compelling, lifelike animations quickly, offering accessibility to both novice and experienced artists."
+    },
+    "cta": {
+      "title": "Create Stunning Animations for FREE with Our Animation AI Today!",
+      "description": "Join now and transform your images into incredible animations effortlessly.",
+      "buttonText": "Try Our Animation AI Free"
+    }
+  },
+  "placeholderText": "Generate Animation AI style artwork",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: AniSora",
+      "description": "Prompt: The figures in the picture are sitting in a forward moving car waving to the rear, their hair swaying from side to side in the wind",
+      "videoUrl": "/images/pages/anisora/example1.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: AniSora",
+      "description": "Prompt: The man on the left presses his lips tightly together, his face etched with fury and resolve. Every line of his expression radiates both profound frustration and unshakable conviction. Meanwhile, the other man's jaw hangs open—poised as if to erupt into a shout or impassioned declaration.",
+      "videoUrl": "/images/pages/anisora/example4.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Kling",
+      "description": "Prompt: A girl is talking to herself peacefully",
+      "videoUrl": "/images/examples/image-animation-generator/output5.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said “cute” using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    }
+  ],
+  "originalKeyword": "Animation AI",
+  "pageStructure": [
+    "examples",
+    "whatIs",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

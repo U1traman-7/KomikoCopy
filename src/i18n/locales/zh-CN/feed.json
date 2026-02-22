@@ -1,0 +1,70 @@
+{
+  "tags": {
+    "trending": "热门",
+    "newest": "最新",
+    "most_likes": "最受欢迎",
+    "following": "已关注",
+    "ranking": "排名",
+    "leaderboard": "排行榜"
+  },
+  "actions": {
+    "loadMore": "加载更多",
+    "tryAgain": "再尝试一次",
+    "refresh": "刷新",
+    "retry": "重试",
+    "linkCopied": "链接已复制！"
+  },
+  "states": {
+    "noMorePosts": "没有更多文章",
+    "noPostsFound": "未找到任何文章"
+  },
+  "errors": {
+    "noResponse": "数据获取失败：无响应",
+    "unknownError": "发生未知错误",
+    "serverError": "服务器错误 {{status}}：{{statusText}}",
+    "loadFailed": "加载文章失败",
+    "timeout": "请求超时，请重试。",
+    "serverSlow": "服务器响应缓慢，请稍后再试。如果问题仍然存在，请刷新页面。"
+  },
+  "labels": {
+    "sortBy": "排序方式：",
+    "filterBy": "筛选条件："
+  },
+  "noPostsFound": "未找到相关帖子",
+  "noRelatedPostDesc": "快成为第一个创作与此角色相关内容的人吧！",
+  "ranking": {
+    "postRanking": "作品榜单",
+    "creatorRanking": "创作者榜单",
+    "characterRanking": "角色榜单",
+    "daily": "日榜",
+    "weekly": "周榜",
+    "monthly": "月榜",
+    "loading": "加载中...",
+    "noData": "暂无数据",
+    "noPreview": "暂无预览",
+    "fans": "粉丝数",
+    "posts": "帖子数",
+    "follow": "关注",
+    "following": "已关注",
+    "followSuccess": "关注成功",
+    "followFailed": "关注失败",
+    "weeklyRules": "每周排名规则",
+    "weeklyRulesContent": "根据过去一周的总点赞数进行排名。排行榜会在每周一凌晨12:00（PST）锁定，徽章和Zaps奖励将在凌晨5:00发放。\n第1名：500 Zaps | 第2名：300 Zaps | 第3名：100 Zaps\n符合条件者可获得每周和每月的奖励。",
+    "monthlyRules": "每月排名规则",
+    "monthlyRulesContent": "根据过去一个月的总点赞数进行排名。排行榜会在每月1日凌晨12:00（PST）锁定，徽章和Zaps奖励将在凌晨5:00发放。\n第1名：1,000 Zaps | 第2名：800 Zaps | 第3名：500 Zaps\n符合条件者可获得每周和每月的奖励。"
+  },
+  "tagOrder": {
+    "title": "标签管理",
+    "description": "拖动以调整您所关注标签的顺序",
+    "position": "第 {{position}} 位",
+    "noFollowedTags": "您还没有关注任何标签。关注一些标签以便自定义它们的顺序！",
+    "saved": "标签顺序已成功保存",
+    "subscribedTags": "您已关注的标签",
+    "dragToReorder": "(拖动以更改排序)",
+    "presetTags": "推荐的标签",
+    "otherTags": "其他可用标签",
+    "noTags": "暂无可用标签",
+    "saveFailed": "保存更改时失败"
+  },
+  "search_tags_placeholder": "搜索热门标签..."
+}

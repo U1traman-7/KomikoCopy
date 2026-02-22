@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "KomikoAI Blog | Create comics, manhwa, manga and anime with AI",
+    "description": "Create comics, webtoon, and visual stories with AI. Design original characters and explore infinite story worlds with them.",
+    "blog_post": "Blog Post",
+    "keywords": {
+      "general": "AI comics, manga, anime, character creation, webtoon, AI art, comic generator, manga creator",
+      "base_tags": [
+        "AI",
+        "comics",
+        "manga",
+        "anime",
+        "character creation",
+        "webtoon"
+      ]
+    }
+  },
+  "navigation": {
+    "see_all_posts": "See all posts"
+  },
+  "article": {
+    "published_on": "Published on",
+    "min_read": "min read",
+    "view_article": "View Article"
+  },
+  "sections": {
+    "latest_post": "Latest Post",
+    "all_posts": "All Posts"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "moonvalley": {
+    "hero": {
+      "title": "Moonvalley: Generador de Videos con IA",
+      "description": "El generador de videos con IA de Moonvalley representa el futuro de la creación de videos impulsada por IA. Desarrollado por Moonvalley, la empresa de investigación de la imaginación, este innovador generador presenta a Marey, el primer modelo de generación de videos comercialmente seguro del mundo. Transforma imágenes estáticas en videos cinematográficos impresionantes con la tecnología de vanguardia del generador de videos con IA de Moonvalley, diseñado específicamente para cineastas, creadores de contenido y artistas digitales."
+    },
+    "examples": {
+      "title": "Ejemplos del Generador de Videos con IA de Moonvalley",
+      "description": "Descubre el poder revolucionario de la tecnología del generador de videos con IA de Moonvalley. Observa cómo este avanzado generador crea videos cinematográficos profesionales con una cinematografía de primer nivel, seguridad comercial total y controles de precisión innovadores.",
+      "cameraControl": {
+        "title": "Control de Cámara",
+        "description": "Crea movimientos de cámara cinematográficos a partir de una sola imagen. Transforma cualquier escena 2D en un entorno 3D."
+      },
+      "motionTransfer": {
+        "title": "Transferencia de Movimiento",
+        "description": "Extrae el movimiento de cualquier video de referencia y aplícalo a nuevos sujetos, manteniendo el ritmo y la energía originales."
+      },
+      "trajectoryControl": {
+        "title": "Control de Trayectoria",
+        "description": "Dibuja una trayectoria para cualquier elemento y observa cómo tu dirección cobra vida con fluidez cinematográfica."
+      },
+      "poseTransfer": {
+        "title": "Transferencia de Pose",
+        "description": "Utiliza imágenes de referencia o entradas de rendimiento para guiar el ritmo y la intención, obteniendo resultados expresivos y precisos."
+      },
+      "naturalPhysics": {
+        "title": "Física Natural",
+        "description": "Los objetos se mueven con un peso y un ritmo creíbles, siguiendo la física del mundo real: parece filmado, no generado."
+      },
+      "dynamicMotion": {
+        "title": "Movimiento Dinámico",
+        "description": "Avanza en el movimiento con un movimiento cinematográficamente fluido diseñado para pantallas exigentes."
+      }
+    },
+    "videoFallback": {
+      "cameraControl": "Demostración de control de cámara",
+      "motionTransfer": "Demostración de transferencia de movimiento",
+      "trajectoryControl": "Demostración de control de trayectoria",
+      "poseTransfer": "Demostración de transferencia de pose",
+      "naturalPhysics": "Demostración de física natural",
+      "dynamicMotion": "Demostración de movimiento dinámico"
+    },
+    "whatIs": {
+      "title": "¿Qué es el Generador de Videos con IA de Moonvalley?",
+      "description": "Moonvalley es la empresa de investigación de la imaginación a la vanguardia de la tecnología de generación de videos con IA. Fundada como una organización impulsada por la investigación, Moonvalley desarrolla modelos de IA innovadores que superan los límites de lo posible en la creación de videos. Su modelo insignia, Marey, representa el primer generador de videos comercialmente seguro del mundo, entrenado exclusivamente con metraje con licencia para garantizar el cumplimiento legal completo para uso profesional. La misión de Moonvalley es democratizar la creación de videos manteniendo los más altos estándares de calidad y seguridad comercial."
+    },
+    "benefits": {
+      "title": "¿Por qué usar el Generador de Videos con IA de Moonvalley?",
+      "description": "Explora los beneficios transformadores de usar el generador de videos con IA de Moonvalley para tus proyectos creativos. Este revolucionario generador democratiza la producción de videos profesionales, haciendo que su poder sea accesible para creadores, cineastas y empresas de todo el mundo.",
+      "features": {
+        "aiTechnology": {
+          "title": "Tecnología Revolucionaria de Video con IA",
+          "content": "Aprovecha el poder de la inteligencia artificial avanzada y los algoritmos de aprendizaje automático de Moonvalley. El generador analiza tu entrada creativa y produce videos de calidad cinematográfica con una precisión y un detalle sin precedentes."
+        },
+        "cinematicQuality": {
+          "title": "Calidad Cinematográfica Profesional",
+          "content": "Crea videos de calidad de transmisión con impresionantes efectos visuales y gráficos en movimiento fluidos. El generador de videos con IA de Moonvalley ofrece resultados de grado profesional adecuados para aplicaciones comerciales y artísticas."
+        },
+        "intuitive": {
+          "title": "Proceso de Creación de Videos Intuitivo",
+          "content": "¡No se requiere experiencia técnica! Simplemente proporciona tu visión creativa, y Moonvalley AI maneja automáticamente el complejo proceso de generación, haciendo que la producción de videos profesional sea accesible para todos."
+        },
+        "accelerated": {
+          "title": "Cronograma de Producción Acelerado",
+          "content": "Reduce drásticamente el tiempo de producción de videos, de semanas a minutos. El generador agiliza todo el flujo de trabajo creativo, lo que permite una iteración rápida y resultados inmediatos para los creadores de contenido."
+        },
+        "superiorOutput": {
+          "title": "Calidad de Salida de Video Superior",
+          "content": "Logra resultados de video excepcionales de alta definición con una dinámica de movimiento realista y efectos visuales cinematográficos. La tecnología de IA garantiza una calidad constante y una animación de grado profesional en cada video generado."
+        },
+        "limitless": {
+          "title": "Posibilidades Creativas Ilimitadas",
+          "content": "Concéntrate por completo en tu visión artística mientras Moonvalley AI administra las complejidades técnicas de la producción de videos. Crea variaciones ilimitadas y explora diversas direcciones creativas sin esfuerzo."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "Cómo usar el Generador de Videos con IA de Moonvalley",
+      "steps": {
+        "step1": {
+          "title": "Carga tu contenido creativo",
+          "content": "Comienza cargando tu imagen, obra de arte o concepto visual. Ya sean personajes de anime, ilustraciones de manga o paneles de cómics, el generador de videos con IA de Moonvalley puede transformarlo en contenido de video dinámico."
+        },
+        "step2": {
+          "title": "Crea tu *prompt* de video",
+          "content": "Describe el resultado de video deseado con indicaciones detalladas. Especifica el movimiento, la cinematografía, el estilo visual o los elementos narrativos que deseas que cree el generador."
+        },
+        "step3": {
+          "title": "Genera tu video de IA",
+          "content": "Haz clic en el botón 'Generar animación' y observa cómo Moonvalley AI hace su magia. La tecnología de IA avanzada procesará tu entrada y creará un video cinematográfico profesional."
+        },
+        "step4": {
+          "title": "Descarga y publica",
+          "content": "¡Descarga tu video generado por IA y compártelo en todas las plataformas! Ideal para contenido de redes sociales, campañas de marketing, proyectos creativos y presentaciones profesionales."
+        }
+      }
+    },
+    "faqSection": {
+      "title": "Preguntas frecuentes sobre el Generador de Videos con IA de Moonvalley",
+      "description": "Obtén respuestas a preguntas comunes sobre la tecnología comercialmente segura del generador de videos con IA de Moonvalley, las capacidades del modelo Marey y cómo comenzar con este revolucionario generador para la creación de videos profesionales."
+    },
+    "faq": {
+      "question1": "¿Qué diferencia al generador de videos con IA de Moonvalley de otros generadores?",
+      "answer1": "El generador de videos con IA de Moonvalley es el primer generador comercialmente seguro del mundo. A diferencia de otros generadores entrenados con contenido *scrapeado*, el modelo Marey del generador de videos con IA de Moonvalley está entrenado exclusivamente con metraje con licencia y de alta resolución en asociación con Asteria. Esto significa que no hay zonas grises legales, ni riesgos de derechos de autor y una seguridad comercial completa para uso profesional.",
+      "question2": "¿Qué es Marey y cómo funciona?",
+      "answer2": "Marey es el modelo de IA insignia de Moonvalley que impulsa su tecnología de generación de videos. Es un innovador sistema con reconocimiento 3D que comprende las relaciones espaciales, la iluminación y el movimiento. Marey puede generar contenido tanto de imagen a video como de texto a video con calidad cinematográfica, ofreciendo controles precisos como movimiento de cámara, transferencia de movimiento y control de trayectoria.",
+      "question3": "¿Qué controles específicos ofrece Moonvalley?",
+      "answer3": "Moonvalley proporciona controles de grado profesional que incluyen: control de cámara (crea movimientos cinematográficos a partir de imágenes individuales), transferencia de movimiento (aplica movimiento de videos de referencia a nuevos sujetos), control de trayectoria (dibuja rutas para el movimiento de objetos), transferencia de pose (guía el ritmo y la intención con entradas de referencia) e iluminación avanzada con simulación de física natural.",
+      "question4": "¿Puedo usar Moonvalley para proyectos comerciales?",
+      "answer4": "¡Sí! Moonvalley está diseñado específicamente para uso comercial. Dado que Marey está entrenado solo con metraje con licencia sin contenido *scrapeado*, puedes usar los videos generados para negocios, marketing, producción de películas y cualquier aplicación comercial sin preocupaciones sobre los derechos de autor. Esto lo convierte en la única solución de video con IA verdaderamente lista para la producción para uso profesional.",
+      "question5": "¿Cómo puedo acceder al generador de videos con IA de Moonvalley?",
+      "answer5": "Puedes acceder al generador a través de su aplicación web para probar las potentes capacidades de Marey. Para desarrolladores y empresas, la API del generador está en desarrollo (actualmente en lista de espera). Moonvalley AI Video Generator también ofrece Marey Realism de forma nativa en ComfyUI para la integración del flujo de trabajo. Visita su sitio web para comenzar o únete a su comunidad de Discord para recibir actualizaciones.",
+      "question6": "¿Qué formatos y calidad puedo esperar?",
+      "answer6": "Moonvalley genera videos de alta definición con calidad de grado de estudio. El sistema está entrenado con metraje cinematográfico, por lo que cada fotograma captura texturas finas, bordes limpios y un rico contraste sin artefactos. Los videos mantienen los estándares profesionales adecuados para pantallas exigentes y aplicaciones comerciales.",
+      "question7": "¿Cuáles son las capacidades y limitaciones actuales?",
+      "answer7": "Moonvalley sobresale en la creación de contenido cinematográfico profesional con física natural, iluminación avanzada y control de movimiento preciso. Si bien maneja bien las escenas complejas, las composiciones muy detalladas pueden requerir tiempo de procesamiento adicional. La principal ventaja es la ausencia de limitaciones legales: a diferencia de otros generadores, no existen riesgos de derechos de autor debido a los datos de entrenamiento limpios."
+    }
+  },
+  "marey": {
+    "hero": {
+      "title": "Generador de Videos con IA Marey",
+      "description": "Marey es el modelo de IA fundamental de Moonvalley, el primer generador de videos comercialmente seguro del mundo, creado para cumplir con los estándares de la cinematografía de primer nivel. Diseñado específicamente para cineastas y creadores de contenido, Marey transforma imágenes estáticas en videos cinematográficos profesionales utilizando solo metraje con licencia y de alta resolución: sin contenido *scrapeado*, sin zonas grises legales."
+    },
+    "examples": {
+      "title": "Ejemplos de Generación de Videos con IA Marey",
+      "description": "Experimenta el poder de la generación de videos de grado de producción de Marey. Observa cómo el primer modelo de video con IA comercialmente seguro del mundo transforma la visión creativa en realidad cinematográfica con precisión en cada fotograma.",
+      "cameraControl": {
+        "title": "Control de Cámara",
+        "description": "Crea movimientos de cámara cinematográficos a partir de una sola imagen. Marey transforma cualquier escena 2D en un entorno 3D."
+      },
+      "motionTransfer": {
+        "title": "Transferencia de Movimiento",
+        "description": "Extrae el movimiento de cualquier video de referencia y aplícalo a nuevos sujetos, manteniendo el ritmo y la energía originales."
+      },
+      "trajectoryControl": {
+        "title": "Control de Trayectoria",
+        "description": "Dibuja una trayectoria para cualquier elemento y observa cómo tu dirección cobra vida con fluidez cinematográfica."
+      },
+      "keyframing": {
+        "title": "Keyframing",
+        "description": "Carga varias imágenes de referencia y colócalas en una línea de tiempo. Marey genera transiciones suaves y naturales."
+      },
+      "referenceControl": {
+        "title": "Control de Referencia",
+        "description": "Utiliza imágenes de referencia separadas para cada personaje u objeto, conservando la profundidad, la iluminación y la física."
+      },
+      "poseControl": {
+        "title": "Control de Pose",
+        "description": "Utiliza imágenes o videos de referencia para guiar el ritmo y la intención, obteniendo resultados expresivos y precisos."
+      }
+    },
+    "videoFallback": {
+      "cameraControl": "Demostración de control de cámara",
+      "motionTransfer": "Demostración de transferencia de movimiento",
+      "trajectoryControl": "Demostración de control de trayectoria",
+      "keyframing": "Demostración de *keyframing*",
+      "referenceControl": "Demostración de control de referencia",
+      "poseControl": "Demostración de control de pose"
+    },
+    "whatIs": {
+      "title": "¿Qué es Marey?",
+      "description": "Marey es el modelo de IA fundamental de Moonvalley, desarrollado en asociación con Asteria, que representa el primer modelo de generación de videos comercialmente seguro del mundo. A diferencia de otros generadores de videos con IA que se entrenan con contenido *scrapeado*, Marey está entrenado exclusivamente con metraje con licencia y de alta resolución, lo que garantiza una seguridad comercial completa y el cumplimiento legal. Este modelo innovador ofrece una cinematografía de primer nivel con precisión en cada fotograma, proporcionando a los cineastas y creadores de contenido herramientas de grado de producción y control de dirección que antes no estaban disponibles en la generación de videos con IA."
+    },
+    "benefits": {
+      "title": "¿Por qué usar el Generador de Videos con IA Marey?",
+      "description": "Explora las ventajas de usar el generador de videos con IA Marey para crear videos de calidad cinematográfica para tus proyectos de anime, manga y cómics. ¡Nuestra avanzada tecnología con reconocimiento 3D hace que la producción de videos profesional sea accesible para todos!",
+      "features": {
+        "awareness3D": {
+          "title": "Generación de Videos con Reconocimiento 3D",
+          "content": "Experimenta una tecnología de vanguardia con reconocimiento 3D que comprende las relaciones espaciales y la dinámica de movimiento. Marey AI genera videos con movimientos de cámara realistas y calidad cinematográfica profesional."
+        },
+        "commercialSafe": {
+          "title": "Producción Comercialmente Segura",
+          "content": "Crea videos con confianza utilizando nuestro modelo de IA éticamente entrenado y con licencia. Todo el contenido generado es comercialmente seguro y legalmente compatible para uso profesional."
+        },
+        "motionControl": {
+          "title": "Control de Movimiento Profesional",
+          "content": "¡No se necesita experiencia en producción de videos! Simplemente carga tu imagen, define tu visión y deja que Marey AI maneje la compleja generación de movimiento y el control de la cámara."
+        },
+        "rapidProduction": {
+          "title": "Flujo de Trabajo de Producción Rápido",
+          "content": "Acelera drásticamente tu proceso de creación de videos. Marey AI genera videos de calidad profesional en minutos, eliminando horas de trabajo tradicional de producción de videos."
+        },
+        "studioGrade": {
+          "title": "Calidad de Salida de Grado de Estudio",
+          "content": "Logra resultados estándar de la industria cinematográfica con salida de alta definición. Marey AI garantiza transiciones de movimiento suaves, física realista y efectos de iluminación cinematográficos."
+        },
+        "creativeFreedom": {
+          "title": "Libertad Creativa Desatada",
+          "content": "Concéntrate en tu visión artística mientras Marey AI maneja las complejidades técnicas de la producción de videos. Crea contenido cinematográfico impresionante con un control creativo sin precedentes."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "Cómo usar el Generador de Videos con IA Marey",
+      "steps": {
+        "step1": {
+          "title": "Carga tu contenido creativo",
+          "content": "Carga la imagen que deseas transformar en video. Ya sea un personaje de anime, una ilustración de manga o una obra de arte cómica, Marey AI puede generar movimiento cinematográfico con calidad profesional."
+        },
+        "step2": {
+          "title": "Define tu visión de movimiento",
+          "content": "Proporciona indicaciones detalladas para guiar la generación de videos. Describe el movimiento de la cámara, las acciones de los personajes o los efectos cinematográficos que deseas que cree Marey AI."
+        },
+        "step3": {
+          "title": "Genera video cinematográfico",
+          "content": "Haz clic en el botón 'Generar animación' y observa cómo Marey AI hace su magia. Experimenta cómo tu imagen estática se transforma en un video dinámico y controlado por movimiento."
+        },
+        "step4": {
+          "title": "Descarga y distribuye",
+          "content": "¡Descarga tu video generado profesionalmente y compártelo en todas las plataformas! Perfecto para proyectos comerciales, redes sociales y presentaciones profesionales."
+        }
+      }
+    },
+    "faqSection": {
+      "title": "Preguntas frecuentes sobre el Generador de Videos con IA Marey",
+      "description": "Domina todo sobre la creación de videos cinematográficos profesionales con Marey AI Video Generator para proyectos comerciales y creativos."
+    },
+    "faq": {
+      "question1": "¿Qué es el Generador de Videos con IA Marey?",
+      "answer1": "Marey es el modelo de IA fundamental de Moonvalley y el primer generador de videos comercialmente seguro del mundo. Desarrollado en asociación con Asteria, Marey está entrenado exclusivamente con metraje con licencia y de alta resolución: sin contenido *scrapeado*, sin envíos de usuarios, sin zonas grises legales. Este modelo innovador está diseñado específicamente para cineastas y creadores de contenido que necesitan generación de videos de grado comercial con estándares de cinematografía de primer nivel, precisión en cada fotograma y cumplimiento legal completo para uso profesional.",
+      "question2": "¿Cómo funciona la generación de videos comercialmente segura de Marey?",
+      "answer2": "Marey aprovecha la arquitectura de IA avanzada de Moonvalley, entrenada exclusivamente con metraje con licencia y de alta resolución, para garantizar una seguridad comercial completa. El modelo analiza tu imagen de entrada y genera secuencias de video profesionales con estándares de cinematografía de primer nivel, brindando precisión en cada fotograma. A diferencia de otros generadores que dependen de contenido *scrapeado*, el entrenamiento de Marey solo con datos con licencia elimina los riesgos legales al tiempo que proporciona a los cineastas herramientas de grado de producción y control de dirección.",
+      "question3": "¿Cuáles son los beneficios de Marey para los cineastas profesionales?",
+      "answer3": "Marey está diseñado específicamente para cineastas y creadores de contenido que necesitan generación de videos de grado comercial. Los beneficios clave incluyen: el primer modelo de video comercialmente seguro del mundo sin riesgos legales, entrenado exclusivamente con metraje con licencia de alta resolución, proporciona herramientas de grado de producción y control de dirección, ofrece cinematografía de primer nivel con precisión en cada fotograma, elimina la incertidumbre del entrenamiento de contenido *scrapeado* y ofrece cumplimiento legal completo para uso profesional y comercial.",
+      "question4": "¿Puedo usar videos generados por Marey para fines comerciales?",
+      "answer4": "¡Absolutamente! Marey es el primer generador de videos comercialmente seguro del mundo diseñado específicamente para uso comercial. Entrenado exclusivamente con metraje con licencia y de alta resolución sin contenido *scrapeado*, sin envíos de usuarios y sin zonas grises legales, Marey elimina los riesgos de derechos de autor asociados con otros generadores. Esto lo convierte en la opción ideal para cineastas, estudios y creadores de contenido que necesitan un cumplimiento legal completo para proyectos profesionales y comerciales.",
+      "question5": "¿Qué formatos y especificaciones de imagen admite Marey AI?",
+      "answer5": "Marey AI admite formatos de imagen estándar, incluidos JPG y PNG. Para obtener resultados cinematográficos óptimos, utiliza imágenes de alta resolución con una definición clara del sujeto. La IA funciona mejor con personajes y obras de arte bien definidos que se traducen eficazmente al movimiento del video.",
+      "question6": "¿Qué tipos de contenido funcionan mejor con la generación de videos Marey?",
+      "answer6": "Marey está diseñado para cineastas profesionales y creadores de contenido que trabajan con contenido visual diverso. El modelo sobresale con imágenes de alta calidad, ilustraciones de personajes, arte conceptual, guiones gráficos y referencias visuales. Debido a que Marey está entrenado con metraje con licencia y de alta resolución, ofrece resultados de cinematografía de primer nivel en varios tipos de contenido, desde anime y manga hasta imágenes realistas, siempre manteniendo la seguridad comercial y el cumplimiento legal.",
+      "question7": "¿Necesito habilidades de producción de videos para usar Marey?",
+      "answer7": "Si bien Marey está diseñado para ser accesible, está construido específicamente para cineastas y creadores de contenido que necesitan herramientas de grado profesional. El modelo proporciona control de dirección y capacidades de grado de producción al tiempo que mantiene un funcionamiento fácil de usar. Ya seas un cineasta experimentado o un creador de contenido, Marey ofrece la precisión y el control necesarios para una cinematografía de primer nivel sin los riesgos legales de otros generadores.",
+      "question8": "¿Cuáles son las limitaciones de la generación de videos Marey?",
+      "answer8": "Si bien Marey representa un avance en la generación de videos comercialmente seguros, mantiene las mismas consideraciones técnicas que otros modelos de videos con IA avanzados. Las escenas complejas con composiciones muy detalladas pueden requerir tiempo de procesamiento adicional para obtener resultados óptimos. Sin embargo, a diferencia de otros generadores, el entrenamiento de Marey con metraje exclusivamente con licencia garantiza que no haya limitaciones legales ni riesgos de derechos de autor, lo que lo convierte en el único modelo de video con IA verdaderamente listo para la producción para uso comercial."
+    }
+  }
+}

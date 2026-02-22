@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "Interpolación de fotogramas con IA - KomikoAI",
+    "description": "Transforma tus vídeos con la tecnología de interpolación de fotogramas con IA de KomikoAI. Mejora la calidad del vídeo, aumenta los FPS y crea movimientos súper fluidos con nuestra herramienta profesional de mejora de vídeo. Perfecta para creadores de contenido que buscan una calidad de vídeo excepcional.",
+    "keywords": "Interpolación de fotogramas con IA, Interpolación de fotogramas, Suavizado de vídeo, Mejora de FPS, Mejora de la calidad de vídeo, Mejora de vídeo con IA"
+  },
+  "title": "Interpolación de fotogramas con IA",
+  "description": "Mejora tus vídeos con la interpolación de fotogramas avanzada mediante IA. Transforma tus vídeos generando fotogramas inteligentes, aumentando los FPS y creando movimientos súper fluidos. Ideal para creadores de contenido que buscan una calidad de vídeo excepcional con el suavizado de vídeo y la mejora de la velocidad de fotogramas mediante IA.",
+  "input": {
+    "title": "Vídeo de entrada",
+    "uploadPrompt": "Haz clic para subir o arrastra el vídeo aquí",
+    "framesPerSecond": "Fotogramas por segundo",
+    "framesPerSecondRange": "(Mínimo: 1, Máximo: 60)",
+    "interpolationSteps": "Pasos de interpolación",
+    "interpolationStepsRange": "(Mínimo: 1, Máximo: 10)",
+    "submitButton": "Interpolar vídeo",
+    "from_other_tools": "Video recibido de {{source}}"
+  },
+  "results": {
+    "title": "Resultados del vídeo",
+    "emptyState": "Los resultados se mostrarán aquí"
+  },
+  "deleteModal": {
+    "title": "Confirmación de eliminación",
+    "message": "¿Estás seguro de que quieres eliminar este vídeo? Esta acción no se puede deshacer.",
+    "cancelButton": "Cancelar",
+    "deleteButton": "Eliminar"
+  },
+  "toasts": {
+    "fetchFailed": "Error al obtener el vídeo",
+    "deleteSuccess": "Eliminado correctamente",
+    "deleteFailed": "Error al eliminar",
+    "downloadFailed": "Error al descargar",
+    "interpolationSuccess": "Interpolación de fotogramas correcta",
+    "interpolationFailed": "Error en la interpolación de fotogramas",
+    "noZaps": "Por favor, adquiere más zaps"
+  },
+  "seo": {
+    "whatIs": {
+      "title": "¿Qué es la interpolación de fotogramas?",
+      "description": "La interpolación de fotogramas es una técnica para aumentar la velocidad de fotogramas de un vídeo generando nuevos fotogramas entre los existentes. Este proceso puede utilizarse para crear movimientos más fluidos y una mayor velocidad de fotogramas sin necesidad de volver a grabar el vídeo. La interpolación de fotogramas con IA es una tecnología de mejora de vídeo de vanguardia que utiliza inteligencia artificial para generar fotogramas adicionales entre los fotogramas existentes, lo que da como resultado un movimiento más fluido y una mayor velocidad de fotogramas. Este proceso de suavizado de vídeo con IA mejora significativamente la calidad del vídeo y la experiencia de visualización."
+    },
+    "transform": {
+      "title": "Transforma tus vídeos con la tecnología avanzada de interpolación de fotogramas con IA",
+      "description": "Desbloquea un suavizado de vídeo de calidad profesional con nuestras herramientas de mejora de vídeo con IA de última generación. Nuestro software de interpolación de fotogramas utiliza IA avanzada para analizar y generar nuevos fotogramas, creando movimiento fluido y velocidades de fotogramas más altas al instante."
+    },
+    "steps": [
+      {
+        "step": 1,
+        "title": "Sube tu vídeo",
+        "content": "Comienza con cualquier archivo de vídeo: nuestra tecnología de interpolación de fotogramas de vídeo con IA acepta varios formatos y calidades."
+      },
+      {
+        "step": 2,
+        "title": "Configura la velocidad de fotogramas",
+        "content": "Selecciona tus ajustes de FPS y de interpolación objetivo para una suavización de vídeo óptima."
+      },
+      {
+        "step": 3,
+        "title": "Procesamiento con IA",
+        "content": "Nuestro avanzado algoritmo de mejora de vídeo con IA genera nuevos fotogramas para un movimiento más fluido."
+      },
+      {
+        "step": 4,
+        "title": "Descarga el vídeo mejorado",
+        "content": "Obtén un vídeo con una mayor velocidad de fotogramas y un movimiento fluido, impulsado por la interpolación de fotogramas con IA."
+      }
+    ],
+    "example": {
+      "title": "Ejemplos de interpolación de fotogramas",
+      "description": "Consulta los resultados de interpolación de fotogramas con IA generados por usuarios de KomikoAI",
+      "inputLabel": "Ejemplo de vídeo de entrada",
+      "outputLabel": "Vídeo mejorado de salida"
+    },
+    "benefits": {
+      "title": "¿Por qué mejorar tus vídeos con la interpolación de IA?",
+      "description": "La interpolación de fotogramas con IA de KomikoAI simplifica la mejora de vídeo para todos, desde creadores de contenido hasta videógrafos profesionales.",
+      "features": [
+        {
+          "title": "Interpolación de fotogramas con IA avanzada",
+          "content": "Experimenta una tecnología de suavizado de vídeo con IA de vanguardia que transforma metraje entrecortado en vídeos fluidos de calidad profesional a través de la generación inteligente de fotogramas y la mejora de la velocidad de fotogramas del vídeo."
+        },
+        {
+          "title": "Mejora inteligente de FPS",
+          "content": "Utiliza la herramienta de interpolación de fotogramas de vídeo de KomikoAI AI para aumentar los FPS de tu vídeo sin necesidad de volver a grabarlo. Convierte metraje estándar en vídeos fluidos de más de 60 FPS con nuestra tecnología de mejora de vídeo con IA."
+        },
+        {
+          "title": "Mejora automática de la calidad del vídeo",
+          "content": "Nuestro software de interpolación de fotogramas de vídeo con IA gestiona automáticamente la compleja generación de fotogramas. Experimenta un suavizado de vídeo profesional sin necesidad de edición manual ni herramientas complejas."
+        },
+        {
+          "title": "Generación inteligente de fotogramas",
+          "content": "La herramienta de vídeo con IA de KomikoAI analiza los patrones de movimiento para crear fotogramas intermedios que parezcan naturales, garantizando una calidad constante con una tecnología avanzada de interpolación de fotogramas de vídeo."
+        },
+        {
+          "title": "Mejora de vídeo profesional",
+          "content": "Exporta vídeos de alta calidad mejorados con nuestra tecnología de interpolación de fotogramas con IA, perfecta para creadores de contenido que requieren un suavizado de vídeo y una optimización de la velocidad de fotogramas excepcionales."
+        },
+        {
+          "title": "Procesamiento de vídeo con IA eficiente",
+          "content": "Integra a la perfección nuestra herramienta de interpolación de fotogramas con IA en tu flujo de trabajo. Deja que la tecnología de generación de fotogramas de vídeo con IA de KomikoAI se encargue de los aspectos técnicos mientras tú te centras en la creatividad."
+        }
+      ]
+    },
+    "expertGuide": {
+      "title": "Guía experta de interpolación de fotogramas con IA",
+      "description": "Aprende todo sobre cómo mejorar tus vídeos con la tecnología de interpolación de fotogramas impulsada por IA. Obtén respuestas de expertos a preguntas comunes sobre la suavización de vídeo y la mejora de la velocidad de fotogramas."
+    }
+  },
+  "faq": {
+    "question1": "¿Qué es la interpolación de fotogramas con IA?",
+    "answer1": "La interpolación de fotogramas con IA es una tecnología de mejora de vídeo de vanguardia que utiliza inteligencia artificial para generar fotogramas adicionales entre los fotogramas existentes, lo que da como resultado un movimiento más fluido y una mayor velocidad de fotogramas. Este proceso de suavizado de vídeo con IA mejora significativamente la calidad del vídeo y la experiencia de visualización.",
+    "question2": "¿Cómo funciona la interpolación de fotogramas de vídeo con IA?",
+    "answer2": "Nuestro software de interpolación de fotogramas de vídeo con IA analiza el movimiento entre los fotogramas existentes y utiliza algoritmos avanzados de aprendizaje automático para generar nuevos fotogramas intermedios. Este proceso aumenta los FPS (fotogramas por segundo) del vídeo manteniendo un movimiento natural y una alta calidad.",
+    "question3": "¿Cuáles son las ventajas de la interpolación de fotogramas?",
+    "answer3": [
+      "Movimiento y animaciones más fluidos",
+      "Mayor velocidad de fotogramas sin necesidad de volver a grabar",
+      "Calidad de vídeo mejorada",
+      "Mejores efectos de cámara lenta"
+    ],
+    "question4": "¿Qué formatos de vídeo se admiten?",
+    "answer4": "La IA admite el formato de vídeo MP4. Recomendamos utilizar vídeos con movimiento claro y buena calidad para obtener los mejores resultados.",
+    "question5": "¿Cómo elijo la configuración correcta?",
+    "answer5": "Para los fotogramas por segundo (FPS), elige según tus necesidades: 24-30 FPS para vídeo estándar, 60 FPS para movimiento fluido. Los pasos de interpolación determinan cuántos fotogramas se añaden entre los fotogramas existentes: los valores más altos crean un movimiento más fluido, pero tardan más en procesarse.",
+    "question6": "¿Existen limitaciones en la duración o el tamaño del vídeo?",
+    "answer6": "Sí, existen algunas limitaciones para garantizar un procesamiento óptimo. Recomendamos vídeos de no más de 30 segundos y de menos de 100 MB para obtener los mejores resultados. Los vídeos más largos pueden procesarse por segmentos."
+  }
+}

@@ -1,0 +1,4840 @@
+[
+  {
+    "world": "General",
+    "key": "worlds.general",
+    "characters": [
+      {
+        "name": "1boy",
+        "simple_name": "1boy",
+        "image": ""
+      },
+      {
+        "name": "1girl",
+        "simple_name": "1girl",
+        "image": ""
+      },
+      {
+        "name": "2boys",
+        "simple_name": "2boys",
+        "image": ""
+      },
+      {
+        "name": "2girls",
+        "simple_name": "2girls",
+        "image": ""
+      },
+      {
+        "name": "1boy, 1girl, 2people",
+        "simple_name": "1boy, 1girl, 2people",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Genshin Impact",
+    "key": "worlds.genshin_impact",
+    "characters": [
+      {
+        "name": "Lumine (Genshin Impact)",
+        "simple_name": "Lumine",
+        "image": ""
+      },
+      {
+        "name": "Ganyu (Genshin Impact)",
+        "simple_name": "Ganyu",
+        "image": ""
+      },
+      {
+        "name": "Raiden Shogun",
+        "simple_name": "Raiden Shogun",
+        "image": ""
+      },
+      {
+        "name": "Furina (Genshin Impact)",
+        "simple_name": "Furina",
+        "image": ""
+      },
+      {
+        "name": "Yae Miko",
+        "simple_name": "Yae Miko",
+        "image": ""
+      },
+      {
+        "name": "Hu Tao (Genshin Impact)",
+        "simple_name": "Hu Tao",
+        "image": ""
+      },
+      {
+        "name": "Tartaglia (Genshin Impact)",
+        "simple_name": "Tartaglia",
+        "image": ""
+      },
+      {
+        "name": "Barbara (Genshin Impact)",
+        "simple_name": "Barbara",
+        "image": ""
+      },
+      {
+        "name": "Jean (Genshin Impact)",
+        "simple_name": "Jean",
+        "image": ""
+      },
+      {
+        "name": "Columbina (Genshin Impact)",
+        "simple_name": "Columbina",
+        "image": ""
+      },
+      {
+        "name": "Kaedehara Kazuha",
+        "simple_name": "Kaedehara Kazuha",
+        "image": ""
+      },
+      {
+        "name": "Arlecchino (Genshin Impact)",
+        "simple_name": "Arlecchino",
+        "image": ""
+      },
+      {
+        "name": "Aether (Genshin Impact)",
+        "simple_name": "Aether",
+        "image": ""
+      },
+      {
+        "name": "Qiqi (Genshin Impact)",
+        "simple_name": "Qiqi",
+        "image": ""
+      },
+      {
+        "name": "Noelle (Genshin Impact)",
+        "simple_name": "Noelle",
+        "image": ""
+      },
+      {
+        "name": "Alhaitham (Genshin Impact)",
+        "simple_name": "Alhaitham",
+        "image": ""
+      },
+      {
+        "name": "Albedo (Genshin Impact)",
+        "simple_name": "Albedo",
+        "image": ""
+      },
+      {
+        "name": "Keqing (Genshin Impact)",
+        "simple_name": "Keqing",
+        "image": ""
+      },
+      {
+        "name": "Zhongli (Genshin Impact)",
+        "simple_name": "Zhongli",
+        "image": ""
+      },
+      {
+        "name": "Lisa (Genshin Impact)",
+        "simple_name": "Lisa",
+        "image": ""
+      },
+      {
+        "name": "Beidou (Genshin Impact)",
+        "simple_name": "Beidou",
+        "image": ""
+      },
+      {
+        "name": "Lynette (Genshin Impact)",
+        "simple_name": "Lynette",
+        "image": ""
+      },
+      {
+        "name": "Kamisato Ayaka",
+        "simple_name": "Kamisato Ayaka",
+        "image": ""
+      },
+      {
+        "name": "Scaramouche (Genshin Impact)",
+        "simple_name": "Scaramouche",
+        "image": ""
+      },
+      {
+        "name": "Shenhe (Genshin Impact)",
+        "simple_name": "Shenhe",
+        "image": ""
+      },
+      {
+        "name": "Paimon (Genshin Impact)",
+        "simple_name": "Paimon",
+        "image": ""
+      },
+      {
+        "name": "Neuvillette (Genshin Impact)",
+        "simple_name": "Neuvillette",
+        "image": ""
+      },
+      {
+        "name": "Klee (Genshin Impact)",
+        "simple_name": "Klee",
+        "image": ""
+      },
+      {
+        "name": "Nahida (Genshin Impact)",
+        "simple_name": "Nahida",
+        "image": ""
+      },
+      {
+        "name": "Eula (Genshin Impact)",
+        "simple_name": "Eula",
+        "image": ""
+      },
+      {
+        "name": "Mona (Genshin Impact)",
+        "simple_name": "Mona",
+        "image": ""
+      },
+      {
+        "name": "Crystalfly (Genshin Impact)",
+        "simple_name": "Crystalfly",
+        "image": ""
+      },
+      {
+        "name": "Venti (Genshin Impact)",
+        "simple_name": "Venti",
+        "image": ""
+      },
+      {
+        "name": "Xiao (Genshin Impact)",
+        "simple_name": "Xiao",
+        "image": ""
+      },
+      {
+        "name": "Nilou (Genshin Impact)",
+        "simple_name": "Nilou",
+        "image": ""
+      },
+      {
+        "name": "Tighnari (Genshin Impact)",
+        "simple_name": "Tighnari",
+        "image": ""
+      },
+      {
+        "name": "Boo Tao (Genshin Impact)",
+        "simple_name": "Boo Tao",
+        "image": ""
+      },
+      {
+        "name": "Wriothesley (Genshin Impact)",
+        "simple_name": "Wriothesley",
+        "image": ""
+      },
+      {
+        "name": "Kaveh (Genshin Impact)",
+        "simple_name": "Kaveh",
+        "image": ""
+      },
+      {
+        "name": "Yoimiya (Genshin Impact)",
+        "simple_name": "Yoimiya",
+        "image": ""
+      },
+      {
+        "name": "Ningguang (Genshin Impact)",
+        "simple_name": "Ningguang",
+        "image": ""
+      },
+      {
+        "name": "Yelan (Genshin Impact)",
+        "simple_name": "Yelan",
+        "image": ""
+      },
+      {
+        "name": "Clorinde (Genshin Impact)",
+        "simple_name": "Clorinde",
+        "image": ""
+      },
+      {
+        "name": "Xianyun (Genshin Impact)",
+        "simple_name": "Xianyun",
+        "image": ""
+      },
+      {
+        "name": "Sangonomiya Kokomi",
+        "simple_name": "Sangonomiya Kokomi",
+        "image": ""
+      },
+      {
+        "name": "Chiori (Genshin Impact)",
+        "simple_name": "Chiori",
+        "image": ""
+      },
+      {
+        "name": "Navia (Genshin Impact)",
+        "simple_name": "Navia",
+        "image": ""
+      },
+      {
+        "name": "Wanderer (Genshin Impact)",
+        "simple_name": "Wanderer",
+        "image": ""
+      },
+      {
+        "name": "Cloud Retainer (Genshin Impact)",
+        "simple_name": "Cloud Retainer",
+        "image": ""
+      },
+      {
+        "name": "Sayu (Genshin Impact)",
+        "simple_name": "Sayu",
+        "image": ""
+      },
+      {
+        "name": "Amber (Genshin Impact)",
+        "simple_name": "Amber",
+        "image": ""
+      },
+      {
+        "name": "Lyney (Genshin Impact)",
+        "simple_name": "Lyney",
+        "image": ""
+      },
+      {
+        "name": "Sucrose (Genshin Impact)",
+        "simple_name": "Sucrose",
+        "image": ""
+      },
+      {
+        "name": "Fischl (Genshin Impact)",
+        "simple_name": "Fischl",
+        "image": ""
+      },
+      {
+        "name": "Diluc (Genshin Impact)",
+        "simple_name": "Diluc",
+        "image": ""
+      },
+      {
+        "name": "Azami",
+        "simple_name": "Azami",
+        "image": ""
+      },
+      {
+        "name": "Bennett (Genshin Impact)",
+        "simple_name": "Bennett",
+        "image": ""
+      },
+      {
+        "name": "Cyno (Genshin Impact)",
+        "simple_name": "Cyno",
+        "image": ""
+      },
+      {
+        "name": "Dodoco (Genshin Impact)",
+        "simple_name": "Dodoco",
+        "image": ""
+      },
+      {
+        "name": "Slime (Genshin Impact)",
+        "simple_name": "Slime",
+        "image": ""
+      },
+      {
+        "name": "Yanfei (Genshin Impact)",
+        "simple_name": "Yanfei",
+        "image": ""
+      },
+      {
+        "name": "Kaeya (Genshin Impact)",
+        "simple_name": "Kaeya",
+        "image": ""
+      },
+      {
+        "name": "Xiangling (Genshin Impact)",
+        "simple_name": "Xiangling",
+        "image": ""
+      },
+      {
+        "name": "Xingqiu (Genshin Impact)",
+        "simple_name": "Xingqiu",
+        "image": ""
+      },
+      {
+        "name": "Collei (Genshin Impact)",
+        "simple_name": "Collei",
+        "image": ""
+      },
+      {
+        "name": "Hilichurl (Genshin Impact)",
+        "simple_name": "Hilichurl",
+        "image": ""
+      },
+      {
+        "name": "Kujou Sara",
+        "simple_name": "Kujou Sara",
+        "image": ""
+      },
+      {
+        "name": "Kirara (Genshin Impact)",
+        "simple_name": "Kirara",
+        "image": ""
+      },
+      {
+        "name": "Diona (Genshin Impact)",
+        "simple_name": "Diona",
+        "image": ""
+      },
+      {
+        "name": "Razor (Genshin Impact)",
+        "simple_name": "Razor",
+        "image": ""
+      },
+      {
+        "name": "Aranara (Genshin Impact)",
+        "simple_name": "Aranara",
+        "image": ""
+      },
+      {
+        "name": "Dr. Ratio (Honkai:Star Rail)",
+        "simple_name": "Dr. Ratio",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Jujutsu Kaisen",
+    "key": "worlds.jujutsu_kaisen",
+    "characters": [
+      {
+        "name": "Gojou Satoru",
+        "simple_name": "Gojou Satoru",
+        "image": ""
+      },
+      {
+        "name": "Fushiguro Megumi",
+        "simple_name": "Fushiguro Megumi",
+        "image": ""
+      },
+      {
+        "name": "Itadori Yuuji",
+        "simple_name": "Itadori Yuuji",
+        "image": ""
+      },
+      {
+        "name": "Getou Suguru",
+        "simple_name": "Getou Suguru",
+        "image": ""
+      },
+      {
+        "name": "Nanami Kento",
+        "simple_name": "Nanami Kento",
+        "image": ""
+      },
+      {
+        "name": "Ryoumen Sukuna (Jujutsu Kaisen)",
+        "simple_name": "Ryoumen Sukuna",
+        "image": ""
+      },
+      {
+        "name": "Kugisaki Nobara",
+        "simple_name": "Kugisaki Nobara",
+        "image": ""
+      },
+      {
+        "name": "Okkotsu Yuuta",
+        "simple_name": "Okkotsu Yuuta",
+        "image": ""
+      },
+      {
+        "name": "Fushiguro Touji",
+        "simple_name": "Fushiguro Touji",
+        "image": ""
+      },
+      {
+        "name": "Zen'In Maki",
+        "simple_name": "Zen'In Maki",
+        "image": ""
+      },
+      {
+        "name": "Ieiri Shoko",
+        "simple_name": "Ieiri Shoko",
+        "image": ""
+      },
+      {
+        "name": "Toudou Aoi (Jujutsu Kaisen)",
+        "simple_name": "Toudou Aoi",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Spy X Family",
+    "key": "worlds.spy_x_family",
+    "characters": [
+      {
+        "name": "Yor Briar",
+        "simple_name": "Yor Briar",
+        "image": ""
+      },
+      {
+        "name": "Anya (Spy X Family)",
+        "simple_name": "Anya",
+        "image": ""
+      },
+      {
+        "name": "Twilight (Spy X Family)",
+        "simple_name": "Twilight",
+        "image": ""
+      },
+      {
+        "name": "Damian Desmond",
+        "simple_name": "Damian Desmond",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Kimetsu No Yaiba",
+    "key": "worlds.kimetsu_no_yaiba",
+    "characters": [
+      {
+        "name": "Kamado Nezuko",
+        "simple_name": "Kamado Nezuko",
+        "image": ""
+      },
+      {
+        "name": "Kochou Shinobu",
+        "simple_name": "Kochou Shinobu",
+        "image": ""
+      },
+      {
+        "name": "Kanroji Mitsuri",
+        "simple_name": "Kanroji Mitsuri",
+        "image": ""
+      },
+      {
+        "name": "Kamado Tanjirou",
+        "simple_name": "Kamado Tanjirou",
+        "image": ""
+      },
+      {
+        "name": "Rengoku Kyoujurou",
+        "simple_name": "Rengoku Kyoujurou",
+        "image": ""
+      },
+      {
+        "name": "Agatsuma Zenitsu",
+        "simple_name": "Agatsuma Zenitsu",
+        "image": ""
+      },
+      {
+        "name": "Tomioka Giyuu",
+        "simple_name": "Tomioka Giyuu",
+        "image": ""
+      },
+      {
+        "name": "Tsuyuri Kanao",
+        "simple_name": "Tsuyuri Kanao",
+        "image": ""
+      },
+      {
+        "name": "Hashibira Inosuke",
+        "simple_name": "Hashibira Inosuke",
+        "image": ""
+      },
+      {
+        "name": "Tokitou Muichirou",
+        "simple_name": "Tokitou Muichirou",
+        "image": ""
+      },
+      {
+        "name": "Shinazugawa Sanemi",
+        "simple_name": "Shinazugawa Sanemi",
+        "image": ""
+      },
+      {
+        "name": "Iguro Obanai",
+        "simple_name": "Iguro Obanai",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Chainsaw Man",
+    "key": "worlds.chainsaw_man",
+    "characters": [
+      {
+        "name": "Makima (Chainsaw Man)",
+        "simple_name": "Makima",
+        "image": ""
+      },
+      {
+        "name": "Power (Chainsaw Man)",
+        "simple_name": "Power",
+        "image": ""
+      },
+      {
+        "name": "Hayakawa Aki",
+        "simple_name": "Hayakawa Aki",
+        "image": ""
+      },
+      {
+        "name": "Denji (Chainsaw Man)",
+        "simple_name": "Denji",
+        "image": ""
+      },
+      {
+        "name": "Pochita (Chainsaw Man)",
+        "simple_name": "Pochita",
+        "image": ""
+      },
+      {
+        "name": "Himeno (Chainsaw Man)",
+        "simple_name": "Himeno",
+        "image": ""
+      },
+      {
+        "name": "Reze (Chainsaw Man)",
+        "simple_name": "Reze",
+        "image": ""
+      },
+      {
+        "name": "Higashiyama Kobeni",
+        "simple_name": "Higashiyama Kobeni",
+        "image": ""
+      },
+      {
+        "name": "Nayuta (Chainsaw Man)",
+        "simple_name": "Nayuta",
+        "image": ""
+      },
+      {
+        "name": "Fami (Chainsaw Man)",
+        "simple_name": "Fami",
+        "image": ""
+      },
+      {
+        "name": "Yoru (Chainsaw Man)",
+        "simple_name": "Yoru",
+        "image": ""
+      },
+      {
+        "name": "Angel Devil (Chainsaw Man)",
+        "simple_name": "Angel Devil",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Boku No Hero Academia",
+    "key": "worlds.boku_no_hero_academia",
+    "characters": [
+      {
+        "name": "Midoriya Izuku",
+        "simple_name": "Midoriya Izuku",
+        "image": ""
+      },
+      {
+        "name": "Mirko",
+        "simple_name": "Mirko",
+        "image": ""
+      },
+      {
+        "name": "Uraraka Ochako",
+        "simple_name": "Uraraka Ochako",
+        "image": ""
+      },
+      {
+        "name": "Bakugou Katsuki",
+        "simple_name": "Bakugou Katsuki",
+        "image": ""
+      },
+      {
+        "name": "Toga Himiko",
+        "simple_name": "Toga Himiko",
+        "image": ""
+      },
+      {
+        "name": "Asui Tsuyu",
+        "simple_name": "Asui Tsuyu",
+        "image": ""
+      },
+      {
+        "name": "Endeavor (Boku No Hero Academia)",
+        "simple_name": "Endeavor",
+        "image": ""
+      },
+      {
+        "name": "Todoroki Shouto",
+        "simple_name": "Todoroki Shouto",
+        "image": ""
+      },
+      {
+        "name": "Hawks (Boku No Hero Academia)",
+        "simple_name": "Hawks",
+        "image": ""
+      },
+      {
+        "name": "Yaoyorozu Momo",
+        "simple_name": "Yaoyorozu Momo",
+        "image": ""
+      },
+      {
+        "name": "Ashido Mina",
+        "simple_name": "Ashido Mina",
+        "image": ""
+      },
+      {
+        "name": "Jirou Kyouka",
+        "simple_name": "Jirou Kyouka",
+        "image": ""
+      },
+      {
+        "name": "Hadou Nejire",
+        "simple_name": "Hadou Nejire",
+        "image": ""
+      },
+      {
+        "name": "Kirishima Eijirou",
+        "simple_name": "Kirishima Eijirou",
+        "image": ""
+      },
+      {
+        "name": "Dabi (Boku No Hero Academia)",
+        "simple_name": "Dabi",
+        "image": ""
+      },
+      {
+        "name": "Eraser Head (Boku No Hero Academia)",
+        "simple_name": "Eraser Head",
+        "image": ""
+      },
+      {
+        "name": "Hagakure Tooru",
+        "simple_name": "Hagakure Tooru",
+        "image": ""
+      },
+      {
+        "name": "Shigaraki Tomura",
+        "simple_name": "Shigaraki Tomura",
+        "image": ""
+      },
+      {
+        "name": "All Might",
+        "simple_name": "All Might",
+        "image": ""
+      },
+      {
+        "name": "Kaminari Denki",
+        "simple_name": "Kaminari Denki",
+        "image": ""
+      },
+      {
+        "name": "Togata Mirio",
+        "simple_name": "Togata Mirio",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Shingeki No Kyojin",
+    "key": "worlds.shingeki_no_kyojin",
+    "characters": [
+      {
+        "name": "Eren Yeager",
+        "simple_name": "Eren Yeager",
+        "image": ""
+      },
+      {
+        "name": "Mikasa Ackerman",
+        "simple_name": "Mikasa Ackerman",
+        "image": ""
+      },
+      {
+        "name": "Levi (Shingeki No Kyojin)",
+        "simple_name": "Levi",
+        "image": ""
+      },
+      {
+        "name": "Reiner Braun",
+        "simple_name": "Reiner Braun",
+        "image": ""
+      },
+      {
+        "name": "Krista Lenz",
+        "simple_name": "Krista Lenz",
+        "image": ""
+      },
+      {
+        "name": "Armin Arlert",
+        "simple_name": "Armin Arlert",
+        "image": ""
+      },
+      {
+        "name": "Annie Leonhart",
+        "simple_name": "Annie Leonhart",
+        "image": ""
+      },
+      {
+        "name": "Hange Zoe",
+        "simple_name": "Hange Zoe",
+        "image": ""
+      },
+      {
+        "name": "Bertolt Hoover",
+        "simple_name": "Bertolt Hoover",
+        "image": ""
+      },
+      {
+        "name": "Ymir (Shingeki No Kyojin)",
+        "simple_name": "Ymir",
+        "image": ""
+      },
+      {
+        "name": "Erwin Smith",
+        "simple_name": "Erwin Smith",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Sousou No Frieren",
+    "key": "worlds.sousou_no_frieren",
+    "characters": [
+      {
+        "name": "Frieren",
+        "simple_name": "Frieren",
+        "image": ""
+      },
+      {
+        "name": "Fern (Sousou No Frieren)",
+        "simple_name": "Fern",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Honkai (Series)",
+    "key": "worlds.honkai_series",
+    "characters": [
+      {
+        "name": "Fu Hua",
+        "simple_name": "Fu Hua",
+        "image": ""
+      },
+      {
+        "name": "Bronya Zaychik",
+        "simple_name": "Bronya Zaychik",
+        "image": ""
+      },
+      {
+        "name": "Kiana Kaslana",
+        "simple_name": "Kiana Kaslana",
+        "image": ""
+      },
+      {
+        "name": "Raiden Mei",
+        "simple_name": "Raiden Mei",
+        "image": ""
+      },
+      {
+        "name": "Seele Vollerei",
+        "simple_name": "Seele Vollerei",
+        "image": ""
+      },
+      {
+        "name": "Elysia (Honkai Impact)",
+        "simple_name": "Elysia",
+        "image": ""
+      },
+      {
+        "name": "Rita Rossweisse",
+        "simple_name": "Rita Rossweisse",
+        "image": ""
+      },
+      {
+        "name": "Theresa Apocalypse",
+        "simple_name": "Theresa Apocalypse",
+        "image": ""
+      },
+      {
+        "name": "Yae Sakura",
+        "simple_name": "Yae Sakura",
+        "image": ""
+      },
+      {
+        "name": "Fu Hua (Herrscher Of Sentience)",
+        "simple_name": "Fu Hua",
+        "image": ""
+      },
+      {
+        "name": "Murata Himeko",
+        "simple_name": "Murata Himeko",
+        "image": ""
+      },
+      {
+        "name": "Seele (Alter Ego)",
+        "simple_name": "Seele",
+        "image": ""
+      },
+      {
+        "name": "Raiden Mei (Herrscher Of Thunder)",
+        "simple_name": "Raiden Mei",
+        "image": ""
+      },
+      {
+        "name": "Elysia (Miss Pink Elf) (Honkai Impact)",
+        "simple_name": "Elysia",
+        "image": ""
+      },
+      {
+        "name": "Mobius (Honkai Impact)",
+        "simple_name": "Mobius",
+        "image": ""
+      },
+      {
+        "name": "Bianka Durandal Ataegina",
+        "simple_name": "Bianka Durandal Ataegina",
+        "image": ""
+      },
+      {
+        "name": "Fu Hua (Azure Empyrea)",
+        "simple_name": "Fu Hua",
+        "image": ""
+      },
+      {
+        "name": "Rozaliya Olenyeva",
+        "simple_name": "Rozaliya Olenyeva",
+        "image": ""
+      },
+      {
+        "name": "Aponia (Honkai Impact)",
+        "simple_name": "Aponia",
+        "image": ""
+      },
+      {
+        "name": "Bronya Rand",
+        "simple_name": "Bronya Rand",
+        "image": ""
+      },
+      {
+        "name": "Kiana Kaslana (Herrscher Of Flamescion)",
+        "simple_name": "Kiana Kaslana",
+        "image": ""
+      },
+      {
+        "name": "Jing Yuan",
+        "simple_name": "Jing Yuan",
+        "image": ""
+      },
+      {
+        "name": "Kallen Kaslana",
+        "simple_name": "Kallen Kaslana",
+        "image": ""
+      },
+      {
+        "name": "Seele Vollerei (Stygian Nymph)",
+        "simple_name": "Seele Vollerei",
+        "image": ""
+      },
+      {
+        "name": "Griseo",
+        "simple_name": "Griseo",
+        "image": ""
+      },
+      {
+        "name": "Yae Sakura (Gyakushinn Miko)",
+        "simple_name": "Yae Sakura",
+        "image": ""
+      },
+      {
+        "name": "Pardofelis (Honkai Impact)",
+        "simple_name": "Pardofelis",
+        "image": ""
+      },
+      {
+        "name": "Kiana Kaslana (White Comet)",
+        "simple_name": "Kiana Kaslana",
+        "image": ""
+      },
+      {
+        "name": "Fu Hua (Fenghuang Of Vicissitude)",
+        "simple_name": "Fu Hua",
+        "image": ""
+      },
+      {
+        "name": "Kiana Kaslana (Herrscher Of Finality)",
+        "simple_name": "Kiana Kaslana",
+        "image": ""
+      },
+      {
+        "name": "Liliya Olenyeva",
+        "simple_name": "Liliya Olenyeva",
+        "image": ""
+      },
+      {
+        "name": "Theresa Apocalypse (Luna Kindred)",
+        "simple_name": "Theresa Apocalypse",
+        "image": ""
+      },
+      {
+        "name": "Seele Vollerei (Starchasm Nyx)",
+        "simple_name": "Seele Vollerei",
+        "image": ""
+      },
+      {
+        "name": "Yae Sakura (Goushinnso Memento)",
+        "simple_name": "Yae Sakura",
+        "image": ""
+      },
+      {
+        "name": "Kafka (Honkai:Star Rail)",
+        "simple_name": "Kafka",
+        "image": ""
+      },
+      {
+        "name": "Trailblazer (Honkai:Star Rail)",
+        "simple_name": "Trailblazer",
+        "image": ""
+      },
+      {
+        "name": "March 7Th (Honkai:Star Rail)",
+        "simple_name": "March 7Th",
+        "image": ""
+      },
+      {
+        "name": "Stelle (Honkai:Star Rail)",
+        "simple_name": "Stelle",
+        "image": ""
+      },
+      {
+        "name": "Sparkle (Honkai:Star Rail)",
+        "simple_name": "Sparkle",
+        "image": ""
+      },
+      {
+        "name": "Silver Wolf (Honkai:Star Rail)",
+        "simple_name": "Silver Wolf",
+        "image": ""
+      },
+      {
+        "name": "Dan Heng (Honkai:Star Rail)",
+        "simple_name": "Dan Heng",
+        "image": ""
+      },
+      {
+        "name": "Blade (Honkai:Star Rail)",
+        "simple_name": "Blade",
+        "image": ""
+      },
+      {
+        "name": "Caelus (Honkai:Star Rail)",
+        "simple_name": "Caelus",
+        "image": ""
+      },
+      {
+        "name": "Jingliu (Honkai:Star Rail)",
+        "simple_name": "Jingliu",
+        "image": ""
+      },
+      {
+        "name": "Dan Heng (Imbibitor Lunae) (Honkai:Star Rail)",
+        "simple_name": "Dan Heng",
+        "image": ""
+      },
+      {
+        "name": "Black Swan (Honkai:Star Rail)",
+        "simple_name": "Black Swan",
+        "image": ""
+      },
+      {
+        "name": "Bronya Zaychik (Silverwing:N-Ex)",
+        "simple_name": "Bronya Zaychik",
+        "image": ""
+      },
+      {
+        "name": "Himeko (Honkai:Star Rail)",
+        "simple_name": "Himeko",
+        "image": ""
+      },
+      {
+        "name": "Fu Xuan (Honkai:Star Rail)",
+        "simple_name": "Fu Xuan",
+        "image": ""
+      },
+      {
+        "name": "Acheron (Honkai:Star Rail)",
+        "simple_name": "Acheron",
+        "image": ""
+      },
+      {
+        "name": "Aventurine (Honkai:Star Rail)",
+        "simple_name": "Aventurine",
+        "image": ""
+      },
+      {
+        "name": "Ruan Mei (Honkai:Star Rail)",
+        "simple_name": "Ruan Mei",
+        "image": ""
+      },
+      {
+        "name": "Tingyun (Honkai:Star Rail)",
+        "simple_name": "Tingyun",
+        "image": ""
+      },
+      {
+        "name": "Seele (Honkai:Star Rail)",
+        "simple_name": "Seele",
+        "image": ""
+      },
+      {
+        "name": "Herta (Honkai:Star Rail)",
+        "simple_name": "Herta",
+        "image": ""
+      },
+      {
+        "name": "Topaz (Honkai:Star Rail)",
+        "simple_name": "Topaz",
+        "image": ""
+      },
+      {
+        "name": "Pom-Pom (Honkai:Star Rail)",
+        "simple_name": "Pom-Pom",
+        "image": ""
+      },
+      {
+        "name": "Luocha (Honkai:Star Rail)",
+        "simple_name": "Luocha",
+        "image": ""
+      },
+      {
+        "name": "Qingque (Honkai:Star Rail)",
+        "simple_name": "Qingque",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Azur Lane",
+    "key": "worlds.azur_lane",
+    "characters": [
+      {
+        "name": "Manjuu (Azur Lane)",
+        "simple_name": "Manjuu",
+        "image": ""
+      },
+      {
+        "name": "Bremerton (Azur Lane)",
+        "simple_name": "Bremerton",
+        "image": ""
+      },
+      {
+        "name": "Taihou (Azur Lane)",
+        "simple_name": "Taihou",
+        "image": ""
+      },
+      {
+        "name": "Formidable (Azur Lane)",
+        "simple_name": "Formidable",
+        "image": ""
+      },
+      {
+        "name": "Atago (Azur Lane)",
+        "simple_name": "Atago",
+        "image": ""
+      },
+      {
+        "name": "Le Malin (Azur Lane)",
+        "simple_name": "Le Malin",
+        "image": ""
+      },
+      {
+        "name": "Akagi (Azur Lane)",
+        "simple_name": "Akagi",
+        "image": ""
+      },
+      {
+        "name": "Prinz Eugen (Azur Lane)",
+        "simple_name": "Prinz Eugen",
+        "image": ""
+      },
+      {
+        "name": "Shinano (Azur Lane)",
+        "simple_name": "Shinano",
+        "image": ""
+      },
+      {
+        "name": "Le Malin (Listless Lapin) (Azur Lane)",
+        "simple_name": "Le Malin",
+        "image": ""
+      },
+      {
+        "name": "Illustrious (Azur Lane)",
+        "simple_name": "Illustrious",
+        "image": ""
+      },
+      {
+        "name": "Belfast (Azur Lane)",
+        "simple_name": "Belfast",
+        "image": ""
+      },
+      {
+        "name": "Implacable (Azur Lane)",
+        "simple_name": "Implacable",
+        "image": ""
+      },
+      {
+        "name": "Baltimore (Azur Lane)",
+        "simple_name": "Baltimore",
+        "image": ""
+      },
+      {
+        "name": "Sirius (Azur Lane)",
+        "simple_name": "Sirius",
+        "image": ""
+      },
+      {
+        "name": "Amagi (Azur Lane)",
+        "simple_name": "Amagi",
+        "image": ""
+      },
+      {
+        "name": "Kaga (Azur Lane)",
+        "simple_name": "Kaga",
+        "image": ""
+      },
+      {
+        "name": "Commander (Azur Lane)",
+        "simple_name": "Commander",
+        "image": ""
+      },
+      {
+        "name": "St. Louis (Azur Lane)",
+        "simple_name": "St. Louis",
+        "image": ""
+      },
+      {
+        "name": "Ayanami (Azur Lane)",
+        "simple_name": "Ayanami",
+        "image": ""
+      },
+      {
+        "name": "Enterprise (Azur Lane)",
+        "simple_name": "Enterprise",
+        "image": ""
+      },
+      {
+        "name": "Musashi (Azur Lane)",
+        "simple_name": "Musashi",
+        "image": ""
+      },
+      {
+        "name": "Atago (Summer March) (Azur Lane)",
+        "simple_name": "Atago",
+        "image": ""
+      },
+      {
+        "name": "Formidable (The Lady Of The Beach) (Azur Lane)",
+        "simple_name": "Formidable",
+        "image": ""
+      },
+      {
+        "name": "Ulrich Von Hutten (Azur Lane)",
+        "simple_name": "Ulrich Von Hutten",
+        "image": ""
+      },
+      {
+        "name": "Owari (Azur Lane)",
+        "simple_name": "Owari",
+        "image": ""
+      },
+      {
+        "name": "Aegir (Azur Lane)",
+        "simple_name": "Aegir",
+        "image": ""
+      },
+      {
+        "name": "St. Louis (Luxurious Wheels) (Azur Lane)",
+        "simple_name": "St. Louis",
+        "image": ""
+      },
+      {
+        "name": "Hindenburg (Azur Lane)",
+        "simple_name": "Hindenburg",
+        "image": ""
+      },
+      {
+        "name": "Indomitable (Azur Lane)",
+        "simple_name": "Indomitable",
+        "image": ""
+      },
+      {
+        "name": "Takao (Azur Lane)",
+        "simple_name": "Takao",
+        "image": ""
+      },
+      {
+        "name": "Cheshire (Azur Lane)",
+        "simple_name": "Cheshire",
+        "image": ""
+      },
+      {
+        "name": "New Jersey (Azur Lane)",
+        "simple_name": "New Jersey",
+        "image": ""
+      },
+      {
+        "name": "Deutschland (Azur Lane)",
+        "simple_name": "Deutschland",
+        "image": ""
+      },
+      {
+        "name": "Kashino (Azur Lane)",
+        "simple_name": "Kashino",
+        "image": ""
+      },
+      {
+        "name": "Ping Hai (Azur Lane)",
+        "simple_name": "Ping Hai",
+        "image": ""
+      },
+      {
+        "name": "Nagato (Azur Lane)",
+        "simple_name": "Nagato",
+        "image": ""
+      },
+      {
+        "name": "Hammann (Azur Lane)",
+        "simple_name": "Hammann",
+        "image": ""
+      },
+      {
+        "name": "Belfast (Shopping With The Head Maid) (Azur Lane)",
+        "simple_name": "Belfast",
+        "image": ""
+      },
+      {
+        "name": "Akashi (Azur Lane)",
+        "simple_name": "Akashi",
+        "image": ""
+      },
+      {
+        "name": "Massachusetts (Azur Lane)",
+        "simple_name": "Massachusetts",
+        "image": ""
+      },
+      {
+        "name": "Ayanami (Retrofit) (Azur Lane)",
+        "simple_name": "Ayanami",
+        "image": ""
+      },
+      {
+        "name": "Laffey (Azur Lane)",
+        "simple_name": "Laffey",
+        "image": ""
+      },
+      {
+        "name": "Z23 (Azur Lane)",
+        "simple_name": "Z23",
+        "image": ""
+      },
+      {
+        "name": "Bremerton (Kung Fu Cruiser) (Azur Lane)",
+        "simple_name": "Bremerton",
+        "image": ""
+      },
+      {
+        "name": "Dido (Azur Lane)",
+        "simple_name": "Dido",
+        "image": ""
+      },
+      {
+        "name": "Ning Hai (Azur Lane)",
+        "simple_name": "Ning Hai",
+        "image": ""
+      },
+      {
+        "name": "Bremerton (Scorching-Hot Training) (Azur Lane)",
+        "simple_name": "Bremerton",
+        "image": ""
+      },
+      {
+        "name": "Azuma (Azur Lane)",
+        "simple_name": "Azuma",
+        "image": ""
+      },
+      {
+        "name": "Hood (Azur Lane)",
+        "simple_name": "Hood",
+        "image": ""
+      },
+      {
+        "name": "Unicorn (Azur Lane)",
+        "simple_name": "Unicorn",
+        "image": ""
+      },
+      {
+        "name": "Reno (Azur Lane)",
+        "simple_name": "Reno",
+        "image": ""
+      },
+      {
+        "name": "Saint-Louis (Azur Lane)",
+        "simple_name": "Saint-Louis",
+        "image": ""
+      },
+      {
+        "name": "Admiral Hipper (Azur Lane)",
+        "simple_name": "Admiral Hipper",
+        "image": ""
+      },
+      {
+        "name": "Pola (Azur Lane)",
+        "simple_name": "Pola",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Arknights",
+    "key": "worlds.arknights",
+    "characters": [
+      {
+        "name": "Texas (Arknights)",
+        "simple_name": "Texas",
+        "image": ""
+      },
+      {
+        "name": "Angelina (Arknights)",
+        "simple_name": "Angelina",
+        "image": ""
+      },
+      {
+        "name": "Saria (Arknights)",
+        "simple_name": "Saria",
+        "image": ""
+      },
+      {
+        "name": "Doctor (Arknights)",
+        "simple_name": "Doctor",
+        "image": ""
+      },
+      {
+        "name": "Hoshiguma (Arknights)",
+        "simple_name": "Hoshiguma",
+        "image": ""
+      },
+      {
+        "name": "Amiya (Arknights)",
+        "simple_name": "Amiya",
+        "image": ""
+      },
+      {
+        "name": "Lappland (Arknights)",
+        "simple_name": "Lappland",
+        "image": ""
+      },
+      {
+        "name": "Suzuran (Arknights)",
+        "simple_name": "Suzuran",
+        "image": ""
+      },
+      {
+        "name": "Ceobe (Arknights)",
+        "simple_name": "Ceobe",
+        "image": ""
+      },
+      {
+        "name": "Sussurro (Arknights)",
+        "simple_name": "Sussurro",
+        "image": ""
+      },
+      {
+        "name": "Ch'En (Arknights)",
+        "simple_name": "Ch'En",
+        "image": ""
+      },
+      {
+        "name": "Silence (Arknights)",
+        "simple_name": "Silence",
+        "image": ""
+      },
+      {
+        "name": "Ifrit (Arknights)",
+        "simple_name": "Ifrit",
+        "image": ""
+      },
+      {
+        "name": "Skadi (Arknights)",
+        "simple_name": "Skadi",
+        "image": ""
+      },
+      {
+        "name": "Magallan (Arknights)",
+        "simple_name": "Magallan",
+        "image": ""
+      },
+      {
+        "name": "Saga (Arknights)",
+        "simple_name": "Saga",
+        "image": ""
+      },
+      {
+        "name": "Texas The Omertosa (Arknights)",
+        "simple_name": "Texas The Omertosa",
+        "image": ""
+      },
+      {
+        "name": "Mizuki (Arknights)",
+        "simple_name": "Mizuki",
+        "image": ""
+      },
+      {
+        "name": "Ho'Olheyak (Arknights)",
+        "simple_name": "Ho'Olheyak",
+        "image": ""
+      },
+      {
+        "name": "Frostnova (Arknights)",
+        "simple_name": "Frostnova",
+        "image": ""
+      },
+      {
+        "name": "Virtuosa (Arknights)",
+        "simple_name": "Virtuosa",
+        "image": ""
+      },
+      {
+        "name": "W (Arknights)",
+        "simple_name": "W",
+        "image": ""
+      },
+      {
+        "name": "Aurora (Arknights)",
+        "simple_name": "Aurora",
+        "image": ""
+      },
+      {
+        "name": "Kal'Tsit (Arknights)",
+        "simple_name": "Kal'Tsit",
+        "image": ""
+      },
+      {
+        "name": "Shu (Arknights)",
+        "simple_name": "Shu",
+        "image": ""
+      },
+      {
+        "name": "Penance (Arknights)",
+        "simple_name": "Penance",
+        "image": ""
+      },
+      {
+        "name": "Frostleaf (Arknights)",
+        "simple_name": "Frostleaf",
+        "image": ""
+      },
+      {
+        "name": "Ptilopsis (Arknights)",
+        "simple_name": "Ptilopsis",
+        "image": ""
+      },
+      {
+        "name": "Suzuran (Spring Praise) (Arknights)",
+        "simple_name": "Suzuran",
+        "image": ""
+      },
+      {
+        "name": "Exusiai (Arknights)",
+        "simple_name": "Exusiai",
+        "image": ""
+      },
+      {
+        "name": "Projekt Red (Arknights)",
+        "simple_name": "Projekt Red",
+        "image": ""
+      },
+      {
+        "name": "Dusk (Arknights)",
+        "simple_name": "Dusk",
+        "image": ""
+      },
+      {
+        "name": "Surtr (Arknights)",
+        "simple_name": "Surtr",
+        "image": ""
+      },
+      {
+        "name": "Lappland (Refined Horrormare) (Arknights)",
+        "simple_name": "Lappland",
+        "image": ""
+      },
+      {
+        "name": "Swire (Arknights)",
+        "simple_name": "Swire",
+        "image": ""
+      },
+      {
+        "name": "Nian (Arknights)",
+        "simple_name": "Nian",
+        "image": ""
+      },
+      {
+        "name": "Mostima (Arknights)",
+        "simple_name": "Mostima",
+        "image": ""
+      },
+      {
+        "name": "Specter (Arknights)",
+        "simple_name": "Specter",
+        "image": ""
+      },
+      {
+        "name": "Mudrock (Arknights)",
+        "simple_name": "Mudrock",
+        "image": ""
+      },
+      {
+        "name": "Dorothy (Arknights)",
+        "simple_name": "Dorothy",
+        "image": ""
+      },
+      {
+        "name": "Chong Yue (Arknights)",
+        "simple_name": "Chong Yue",
+        "image": ""
+      },
+      {
+        "name": "Goldenglow (Arknights)",
+        "simple_name": "Goldenglow",
+        "image": ""
+      },
+      {
+        "name": "Eyjafjalla (Arknights)",
+        "simple_name": "Eyjafjalla",
+        "image": ""
+      },
+      {
+        "name": "Irene (Arknights)",
+        "simple_name": "Irene",
+        "image": ""
+      },
+      {
+        "name": "Harmonie (Arknights)",
+        "simple_name": "Harmonie",
+        "image": ""
+      },
+      {
+        "name": "Muelsyse (Arknights)",
+        "simple_name": "Muelsyse",
+        "image": ""
+      },
+      {
+        "name": "Angelina (Summer Flower) (Arknights)",
+        "simple_name": "Angelina",
+        "image": ""
+      },
+      {
+        "name": "Skadi The Corrupting Heart (Arknights)",
+        "simple_name": "Skadi The Corrupting Heart",
+        "image": ""
+      },
+      {
+        "name": "Angelina (Distinguished Visitor) (Arknights)",
+        "simple_name": "Angelina",
+        "image": ""
+      },
+      {
+        "name": "Typhon (Arknights)",
+        "simple_name": "Typhon",
+        "image": ""
+      },
+      {
+        "name": "Schwarz (Arknights)",
+        "simple_name": "Schwarz",
+        "image": ""
+      },
+      {
+        "name": "Blue Poison (Arknights)",
+        "simple_name": "Blue Poison",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Jojo No Kimyou Na Bouken",
+    "key": "worlds.jojo_no_kimyou_na_bouken",
+    "characters": [
+      {
+        "name": "Kujo Jotaro",
+        "simple_name": "Kujo Jotaro",
+        "image": ""
+      },
+      {
+        "name": "Joseph Joestar",
+        "simple_name": "Joseph Joestar",
+        "image": ""
+      },
+      {
+        "name": "Dio Brando",
+        "simple_name": "Dio Brando",
+        "image": ""
+      },
+      {
+        "name": "Joseph Joestar (Young)",
+        "simple_name": "Joseph Joestar",
+        "image": ""
+      },
+      {
+        "name": "Caesar Anthonio Zeppeli",
+        "simple_name": "Caesar Anthonio Zeppeli",
+        "image": ""
+      },
+      {
+        "name": "Giorno Giovanna",
+        "simple_name": "Giorno Giovanna",
+        "image": ""
+      },
+      {
+        "name": "Kujo Jolyne",
+        "simple_name": "Kujo Jolyne",
+        "image": ""
+      },
+      {
+        "name": "Kakyoin Noriaki",
+        "simple_name": "Kakyoin Noriaki",
+        "image": ""
+      },
+      {
+        "name": "Higashikata Josuke",
+        "simple_name": "Higashikata Josuke",
+        "image": ""
+      },
+      {
+        "name": "Jonathan Joestar",
+        "simple_name": "Jonathan Joestar",
+        "image": ""
+      },
+      {
+        "name": "Kishibe Rohan",
+        "simple_name": "Kishibe Rohan",
+        "image": ""
+      },
+      {
+        "name": "Johnny Joestar",
+        "simple_name": "Johnny Joestar",
+        "image": ""
+      },
+      {
+        "name": "Bruno Bucciarati",
+        "simple_name": "Bruno Bucciarati",
+        "image": ""
+      },
+      {
+        "name": "Jean Pierre Polnareff",
+        "simple_name": "Jean Pierre Polnareff",
+        "image": ""
+      },
+      {
+        "name": "Gyro Zeppeli",
+        "simple_name": "Gyro Zeppeli",
+        "image": ""
+      },
+      {
+        "name": "Guido Mista",
+        "simple_name": "Guido Mista",
+        "image": ""
+      },
+      {
+        "name": "Diego Brando",
+        "simple_name": "Diego Brando",
+        "image": ""
+      },
+      {
+        "name": "Kira Yoshikage",
+        "simple_name": "Kira Yoshikage",
+        "image": ""
+      },
+      {
+        "name": "Joseph Joestar (Old)",
+        "simple_name": "Joseph Joestar",
+        "image": ""
+      },
+      {
+        "name": "Kars (Jojo)",
+        "simple_name": "Kars",
+        "image": ""
+      },
+      {
+        "name": "Narancia Ghirga",
+        "simple_name": "Narancia Ghirga",
+        "image": ""
+      },
+      {
+        "name": "Prosciutto",
+        "simple_name": "Prosciutto",
+        "image": ""
+      },
+      {
+        "name": "Star Platinum",
+        "simple_name": "Star Platinum",
+        "image": ""
+      },
+      {
+        "name": "Risotto Nero",
+        "simple_name": "Risotto Nero",
+        "image": ""
+      },
+      {
+        "name": "Pannacotta Fugo",
+        "simple_name": "Pannacotta Fugo",
+        "image": ""
+      },
+      {
+        "name": "Mohammed Avdol",
+        "simple_name": "Mohammed Avdol",
+        "image": ""
+      },
+      {
+        "name": "Trish Una",
+        "simple_name": "Trish Una",
+        "image": ""
+      },
+      {
+        "name": "Diavolo",
+        "simple_name": "Diavolo",
+        "image": ""
+      },
+      {
+        "name": "Nijimura Okuyasu",
+        "simple_name": "Nijimura Okuyasu",
+        "image": ""
+      },
+      {
+        "name": "Killer Queen",
+        "simple_name": "Killer Queen",
+        "image": ""
+      },
+      {
+        "name": "Leone Abbacchio",
+        "simple_name": "Leone Abbacchio",
+        "image": ""
+      },
+      {
+        "name": "Hierophant Green",
+        "simple_name": "Hierophant Green",
+        "image": ""
+      },
+      {
+        "name": "Sugimoto Reimi",
+        "simple_name": "Sugimoto Reimi",
+        "image": ""
+      },
+      {
+        "name": "Iggy (Jojo)",
+        "simple_name": "Iggy",
+        "image": ""
+      },
+      {
+        "name": "Narciso Anasui",
+        "simple_name": "Narciso Anasui",
+        "image": ""
+      },
+      {
+        "name": "Higashikata Josuke (Jojolion)",
+        "simple_name": "Higashikata Josuke",
+        "image": ""
+      },
+      {
+        "name": "Ghiaccio",
+        "simple_name": "Ghiaccio",
+        "image": ""
+      },
+      {
+        "name": "Foo Fighters (Jojo)",
+        "simple_name": "Foo Fighters",
+        "image": ""
+      },
+      {
+        "name": "Hirose Koichi",
+        "simple_name": "Hirose Koichi",
+        "image": ""
+      },
+      {
+        "name": "Enrico Pucci",
+        "simple_name": "Enrico Pucci",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Girls' Frontline",
+    "key": "worlds.girls_frontline",
+    "characters": [
+      {
+        "name": "Ump9 (Girls' Frontline)",
+        "simple_name": "Ump9",
+        "image": ""
+      },
+      {
+        "name": "Wa2000 (Girls' Frontline)",
+        "simple_name": "Wa2000",
+        "image": ""
+      },
+      {
+        "name": "Springfield (Girls' Frontline)",
+        "simple_name": "Springfield",
+        "image": ""
+      },
+      {
+        "name": "Hk416 (Girls' Frontline)",
+        "simple_name": "Hk416",
+        "image": ""
+      },
+      {
+        "name": "M4A1 (Girls' Frontline)",
+        "simple_name": "M4A1",
+        "image": ""
+      },
+      {
+        "name": "M16A1 (Girls' Frontline)",
+        "simple_name": "M16A1",
+        "image": ""
+      },
+      {
+        "name": "M4 Sopmod Ii (Girls' Frontline)",
+        "simple_name": "M4 Sopmod Ii",
+        "image": ""
+      },
+      {
+        "name": "An-94 (Girls' Frontline)",
+        "simple_name": "An-94",
+        "image": ""
+      },
+      {
+        "name": "G11 (Girls' Frontline)",
+        "simple_name": "G11",
+        "image": ""
+      },
+      {
+        "name": "Ump45 (Girls' Frontline)",
+        "simple_name": "Ump45",
+        "image": ""
+      },
+      {
+        "name": "St Ar-15 (Girls' Frontline)",
+        "simple_name": "St Ar-15",
+        "image": ""
+      },
+      {
+        "name": "M200 (Girls' Frontline)",
+        "simple_name": "M200",
+        "image": ""
+      },
+      {
+        "name": "Ro635 (Girls' Frontline)",
+        "simple_name": "Ro635",
+        "image": ""
+      },
+      {
+        "name": "Type 95 (Girls' Frontline)",
+        "simple_name": "Type 95",
+        "image": ""
+      },
+      {
+        "name": "Suomi (Girls' Frontline)",
+        "simple_name": "Suomi",
+        "image": ""
+      },
+      {
+        "name": "Rpk-16 (Girls' Frontline)",
+        "simple_name": "Rpk-16",
+        "image": ""
+      },
+      {
+        "name": "G36 (Girls' Frontline)",
+        "simple_name": "G36",
+        "image": ""
+      },
+      {
+        "name": "Dinergate (Girls' Frontline)",
+        "simple_name": "Dinergate",
+        "image": ""
+      },
+      {
+        "name": "P90 (Girls' Frontline)",
+        "simple_name": "P90",
+        "image": ""
+      },
+      {
+        "name": "Dsr-50 (Girls' Frontline)",
+        "simple_name": "Dsr-50",
+        "image": ""
+      },
+      {
+        "name": "Ak-12 (Girls' Frontline)",
+        "simple_name": "Ak-12",
+        "image": ""
+      },
+      {
+        "name": "Tokarev (Girls' Frontline)",
+        "simple_name": "Tokarev",
+        "image": ""
+      },
+      {
+        "name": "Ots-14 (Girls' Frontline)",
+        "simple_name": "Ots-14",
+        "image": ""
+      },
+      {
+        "name": "Pa-15 (Girls' Frontline)",
+        "simple_name": "Pa-15",
+        "image": ""
+      },
+      {
+        "name": "Commander (Girls' Frontline)",
+        "simple_name": "Commander",
+        "image": ""
+      },
+      {
+        "name": "Spas-12 (Girls' Frontline)",
+        "simple_name": "Spas-12",
+        "image": ""
+      },
+      {
+        "name": "Mdr (Girls' Frontline)",
+        "simple_name": "Mdr",
+        "image": ""
+      },
+      {
+        "name": "Grizzly Mkv (Girls' Frontline)",
+        "simple_name": "Grizzly Mkv",
+        "image": ""
+      },
+      {
+        "name": "Welrod Mkii (Girls' Frontline)",
+        "simple_name": "Welrod Mkii",
+        "image": ""
+      },
+      {
+        "name": "Vsk-94 (Girls' Frontline)",
+        "simple_name": "Vsk-94",
+        "image": ""
+      },
+      {
+        "name": "Kalina (Girls' Frontline)",
+        "simple_name": "Kalina",
+        "image": ""
+      },
+      {
+        "name": "Aa-12 (Girls' Frontline)",
+        "simple_name": "Aa-12",
+        "image": ""
+      },
+      {
+        "name": "Ak-15 (Girls' Frontline)",
+        "simple_name": "Ak-15",
+        "image": ""
+      },
+      {
+        "name": "9A-91 (Girls' Frontline)",
+        "simple_name": "9A-91",
+        "image": ""
+      },
+      {
+        "name": "Kar98K (Girls' Frontline)",
+        "simple_name": "Kar98K",
+        "image": ""
+      },
+      {
+        "name": "Type 97 (Girls' Frontline)",
+        "simple_name": "Type 97",
+        "image": ""
+      },
+      {
+        "name": "Mp7 (Girls' Frontline)",
+        "simple_name": "Mp7",
+        "image": ""
+      },
+      {
+        "name": "Mp40 (Girls' Frontline)",
+        "simple_name": "Mp40",
+        "image": ""
+      },
+      {
+        "name": "Nyto (Girls' Frontline)",
+        "simple_name": "Nyto",
+        "image": ""
+      },
+      {
+        "name": "M16A1 (Boss) (Girls' Frontline)",
+        "simple_name": "M16A1",
+        "image": ""
+      },
+      {
+        "name": "M4A1 (Mod3) (Girls' Frontline)",
+        "simple_name": "M4A1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "One Piece",
+    "key": "worlds.one_piece",
+    "characters": [
+      {
+        "name": "Nami (One Piece)",
+        "simple_name": "Nami",
+        "image": ""
+      },
+      {
+        "name": "Monkey D. Luffy",
+        "simple_name": "Monkey D. Luffy",
+        "image": ""
+      },
+      {
+        "name": "Roronoa Zoro",
+        "simple_name": "Roronoa Zoro",
+        "image": ""
+      },
+      {
+        "name": "Sanji (One Piece)",
+        "simple_name": "Sanji",
+        "image": ""
+      },
+      {
+        "name": "Nico Robin",
+        "simple_name": "Nico Robin",
+        "image": ""
+      },
+      {
+        "name": "Trafalgar Law",
+        "simple_name": "Trafalgar Law",
+        "image": ""
+      },
+      {
+        "name": "Yamato (One Piece)",
+        "simple_name": "Yamato",
+        "image": ""
+      },
+      {
+        "name": "Tony Tony Chopper",
+        "simple_name": "Tony Tony Chopper",
+        "image": ""
+      },
+      {
+        "name": "Boa Hancock",
+        "simple_name": "Boa Hancock",
+        "image": ""
+      },
+      {
+        "name": "Usopp",
+        "simple_name": "Usopp",
+        "image": ""
+      },
+      {
+        "name": "Portgas D. Ace",
+        "simple_name": "Portgas D. Ace",
+        "image": ""
+      },
+      {
+        "name": "Donquixote Doflamingo",
+        "simple_name": "Donquixote Doflamingo",
+        "image": ""
+      },
+      {
+        "name": "Uta (One Piece)",
+        "simple_name": "Uta",
+        "image": ""
+      },
+      {
+        "name": "Perona",
+        "simple_name": "Perona",
+        "image": ""
+      },
+      {
+        "name": "Crocodile (One Piece)",
+        "simple_name": "Crocodile",
+        "image": ""
+      },
+      {
+        "name": "Brook (One Piece)",
+        "simple_name": "Brook",
+        "image": ""
+      },
+      {
+        "name": "Franky (One Piece)",
+        "simple_name": "Franky",
+        "image": ""
+      },
+      {
+        "name": "Sabo (One Piece)",
+        "simple_name": "Sabo",
+        "image": ""
+      },
+      {
+        "name": "Donquixote Rocinante",
+        "simple_name": "Donquixote Rocinante",
+        "image": ""
+      },
+      {
+        "name": "Smoker (One Piece)",
+        "simple_name": "Smoker",
+        "image": ""
+      },
+      {
+        "name": "Ulti (One Piece)",
+        "simple_name": "Ulti",
+        "image": ""
+      },
+      {
+        "name": "Dracule Mihawk",
+        "simple_name": "Dracule Mihawk",
+        "image": ""
+      },
+      {
+        "name": "Shanks (One Piece)",
+        "simple_name": "Shanks",
+        "image": ""
+      },
+      {
+        "name": "Eustass Kid",
+        "simple_name": "Eustass Kid",
+        "image": ""
+      },
+      {
+        "name": "Nefertari Vivi",
+        "simple_name": "Nefertari Vivi",
+        "image": ""
+      },
+      {
+        "name": "Jinbe (One Piece)",
+        "simple_name": "Jinbe",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Fate (Series)",
+    "key": "worlds.fate_series",
+    "characters": [
+      {
+        "name": "Artoria Pendragon (Fate)",
+        "simple_name": "Artoria Pendragon",
+        "image": ""
+      },
+      {
+        "name": "Jeanne D'Arc Alter (Fate)",
+        "simple_name": "Jeanne D'Arc Alter",
+        "image": ""
+      },
+      {
+        "name": "Okita Souji (Fate)",
+        "simple_name": "Okita Souji",
+        "image": ""
+      },
+      {
+        "name": "Jeanne D'Arc (Fate)",
+        "simple_name": "Jeanne D'Arc",
+        "image": ""
+      },
+      {
+        "name": "Abigail Williams (Fate)",
+        "simple_name": "Abigail Williams",
+        "image": ""
+      },
+      {
+        "name": "Mash Kyrielight",
+        "simple_name": "Mash Kyrielight",
+        "image": ""
+      },
+      {
+        "name": "Okita Souji (Koha-Ace)",
+        "simple_name": "Okita Souji",
+        "image": ""
+      },
+      {
+        "name": "Jeanne D'Arc Alter (Avenger) (Fate)",
+        "simple_name": "Jeanne D'Arc Alter",
+        "image": ""
+      },
+      {
+        "name": "Nero Claudius (Fate)",
+        "simple_name": "Nero Claudius",
+        "image": ""
+      },
+      {
+        "name": "Shuten Douji (Fate)",
+        "simple_name": "Shuten Douji",
+        "image": ""
+      },
+      {
+        "name": "Fujimaru Ritsuka (Male)",
+        "simple_name": "Fujimaru Ritsuka",
+        "image": ""
+      },
+      {
+        "name": "Oberon (Fate)",
+        "simple_name": "Oberon",
+        "image": ""
+      },
+      {
+        "name": "Mordred (Fate)",
+        "simple_name": "Mordred",
+        "image": ""
+      },
+      {
+        "name": "Ishtar (Fate)",
+        "simple_name": "Ishtar",
+        "image": ""
+      },
+      {
+        "name": "Meltryllis (Fate)",
+        "simple_name": "Meltryllis",
+        "image": ""
+      },
+      {
+        "name": "Minamoto No Raikou (Fate)",
+        "simple_name": "Minamoto No Raikou",
+        "image": ""
+      },
+      {
+        "name": "Tohsaka Rin",
+        "simple_name": "Tohsaka Rin",
+        "image": ""
+      },
+      {
+        "name": "Baobhan Sith (Fate)",
+        "simple_name": "Baobhan Sith",
+        "image": ""
+      },
+      {
+        "name": "Fujimaru Ritsuka (Female)",
+        "simple_name": "Fujimaru Ritsuka",
+        "image": ""
+      },
+      {
+        "name": "Bb (Fate)",
+        "simple_name": "Bb",
+        "image": ""
+      },
+      {
+        "name": "Ereshkigal (Fate)",
+        "simple_name": "Ereshkigal",
+        "image": ""
+      },
+      {
+        "name": "Jeanne D'Arc (Ruler) (Fate)",
+        "simple_name": "Jeanne D'Arc",
+        "image": ""
+      },
+      {
+        "name": "Florence Nightingale (Fate)",
+        "simple_name": "Florence Nightingale",
+        "image": ""
+      },
+      {
+        "name": "Artoria Caster (Fate)",
+        "simple_name": "Artoria Caster",
+        "image": ""
+      },
+      {
+        "name": "Miyamoto Musashi (Fate)",
+        "simple_name": "Miyamoto Musashi",
+        "image": ""
+      },
+      {
+        "name": "Ibaraki Douji (Fate)",
+        "simple_name": "Ibaraki Douji",
+        "image": ""
+      },
+      {
+        "name": "Arjuna (Fate)",
+        "simple_name": "Arjuna",
+        "image": ""
+      },
+      {
+        "name": "Astolfo (Fate)",
+        "simple_name": "Astolfo",
+        "image": ""
+      },
+      {
+        "name": "Tamamo (Fate)",
+        "simple_name": "Tamamo",
+        "image": ""
+      },
+      {
+        "name": "Oda Nobunaga (Fate)",
+        "simple_name": "Oda Nobunaga",
+        "image": ""
+      },
+      {
+        "name": "Saber (Fate)",
+        "simple_name": "Saber",
+        "image": ""
+      },
+      {
+        "name": "Abigail Williams (Swimsuit Foreigner) (Fate)",
+        "simple_name": "Abigail Williams",
+        "image": ""
+      },
+      {
+        "name": "Hassan Of Serenity (Fate)",
+        "simple_name": "Hassan Of Serenity",
+        "image": ""
+      },
+      {
+        "name": "Caenis (Fate)",
+        "simple_name": "Caenis",
+        "image": ""
+      },
+      {
+        "name": "Scathach (Fate)",
+        "simple_name": "Scathach",
+        "image": ""
+      },
+      {
+        "name": "Oberon (Third Ascension) (Fate)",
+        "simple_name": "Oberon",
+        "image": ""
+      },
+      {
+        "name": "Cu Chulainn (Fate)",
+        "simple_name": "Cu Chulainn",
+        "image": ""
+      },
+      {
+        "name": "Oda Nobunaga (Koha-Ace)",
+        "simple_name": "Oda Nobunaga",
+        "image": ""
+      },
+      {
+        "name": "Emiya Shirou",
+        "simple_name": "Emiya Shirou",
+        "image": ""
+      },
+      {
+        "name": "Saber Alter",
+        "simple_name": "Saber Alter",
+        "image": ""
+      },
+      {
+        "name": "Elizabeth Bathory (Fate)",
+        "simple_name": "Elizabeth Bathory",
+        "image": ""
+      },
+      {
+        "name": "Meltryllis (Swimsuit Lancer) (Fate)",
+        "simple_name": "Meltryllis",
+        "image": ""
+      },
+      {
+        "name": "Illyasviel Von Einzbern",
+        "simple_name": "Illyasviel Von Einzbern",
+        "image": ""
+      },
+      {
+        "name": "Osakabehime (Fate)",
+        "simple_name": "Osakabehime",
+        "image": ""
+      },
+      {
+        "name": "Bb (Swimsuit Mooncancer) (Fate)",
+        "simple_name": "Bb",
+        "image": ""
+      },
+      {
+        "name": "Medusa (Fate)",
+        "simple_name": "Medusa",
+        "image": ""
+      },
+      {
+        "name": "Jeanne D'Arc Alter (Avenger) (Third Ascension) (Fate)",
+        "simple_name": "Jeanne D'Arc Alter",
+        "image": ""
+      },
+      {
+        "name": "Gilles De Rais (Caster) (Fate)",
+        "simple_name": "Gilles De Rais",
+        "image": ""
+      },
+      {
+        "name": "Matou Sakura",
+        "simple_name": "Matou Sakura",
+        "image": ""
+      },
+      {
+        "name": "Passionlip (Fate)",
+        "simple_name": "Passionlip",
+        "image": ""
+      },
+      {
+        "name": "Gilgamesh (Fate)",
+        "simple_name": "Gilgamesh",
+        "image": ""
+      },
+      {
+        "name": "Jeanne D'Arc (Third Ascension) (Fate)",
+        "simple_name": "Jeanne D'Arc",
+        "image": ""
+      },
+      {
+        "name": "Semiramis (Fate)",
+        "simple_name": "Semiramis",
+        "image": ""
+      },
+      {
+        "name": "Arthur Pendragon (Fate)",
+        "simple_name": "Arthur Pendragon",
+        "image": ""
+      },
+      {
+        "name": "Mash Kyrielight (Swimsuit Of Perpetual Summer)",
+        "simple_name": "Mash Kyrielight",
+        "image": ""
+      },
+      {
+        "name": "Abigail Williams (Swimsuit Foreigner) (Third Ascension) (Fate)",
+        "simple_name": "Abigail Williams",
+        "image": ""
+      },
+      {
+        "name": "Elizabeth Bathory (First Ascension) (Fate)",
+        "simple_name": "Elizabeth Bathory",
+        "image": ""
+      },
+      {
+        "name": "Lady Avalon (Fate)",
+        "simple_name": "Lady Avalon",
+        "image": ""
+      },
+      {
+        "name": "Morgan Le Fay (Fate)",
+        "simple_name": "Morgan Le Fay",
+        "image": ""
+      },
+      {
+        "name": "Queen Of Sheba (Fate)",
+        "simple_name": "Queen Of Sheba",
+        "image": ""
+      },
+      {
+        "name": "Tezcatlipoca (Fate)",
+        "simple_name": "Tezcatlipoca",
+        "image": ""
+      },
+      {
+        "name": "Miyamoto Musashi (Swimsuit Berserker) (Fate)",
+        "simple_name": "Miyamoto Musashi",
+        "image": ""
+      },
+      {
+        "name": "Archer (Fate)",
+        "simple_name": "Archer",
+        "image": ""
+      },
+      {
+        "name": "Fou (Fate)",
+        "simple_name": "Fou",
+        "image": ""
+      },
+      {
+        "name": "Medea (Fate)",
+        "simple_name": "Medea",
+        "image": ""
+      },
+      {
+        "name": "Karna (Fate)",
+        "simple_name": "Karna",
+        "image": ""
+      },
+      {
+        "name": "Martha (Fate)",
+        "simple_name": "Martha",
+        "image": ""
+      },
+      {
+        "name": "Baobhan Sith (Swimsuit Pretender) (Fate)",
+        "simple_name": "Baobhan Sith",
+        "image": ""
+      },
+      {
+        "name": "Artoria Pendragon (Lancer) (Fate)",
+        "simple_name": "Artoria Pendragon",
+        "image": ""
+      },
+      {
+        "name": "Nemo (Fate)",
+        "simple_name": "Nemo",
+        "image": ""
+      },
+      {
+        "name": "Saber Alter (Ver. Shinjuku 1999) (Fate)",
+        "simple_name": "Saber Alter",
+        "image": ""
+      },
+      {
+        "name": "Mash Kyrielight (Dangerous Beast)",
+        "simple_name": "Mash Kyrielight",
+        "image": ""
+      },
+      {
+        "name": "Captain Nemo (Fate)",
+        "simple_name": "Captain Nemo",
+        "image": ""
+      },
+      {
+        "name": "Jeanne D'Arc (Swimsuit Archer) (Fate)",
+        "simple_name": "Jeanne D'Arc",
+        "image": ""
+      },
+      {
+        "name": "Anastasia (Fate)",
+        "simple_name": "Anastasia",
+        "image": ""
+      },
+      {
+        "name": "Hans Christian Andersen (Fate)",
+        "simple_name": "Hans Christian Andersen",
+        "image": ""
+      },
+      {
+        "name": "Meltryllis (Swimsuit Lancer) (Second Ascension) (Fate)",
+        "simple_name": "Meltryllis",
+        "image": ""
+      },
+      {
+        "name": "Lady Avalon (Second Ascension) (Fate)",
+        "simple_name": "Lady Avalon",
+        "image": ""
+      },
+      {
+        "name": "Kama (Fate)",
+        "simple_name": "Kama",
+        "image": ""
+      },
+      {
+        "name": "Benienma (Fate)",
+        "simple_name": "Benienma",
+        "image": ""
+      },
+      {
+        "name": "Martha (Swimsuit Ruler) (Fate)",
+        "simple_name": "Martha",
+        "image": ""
+      },
+      {
+        "name": "Circe (Fate)",
+        "simple_name": "Circe",
+        "image": ""
+      },
+      {
+        "name": "Sessyoin Kiara",
+        "simple_name": "Sessyoin Kiara",
+        "image": ""
+      },
+      {
+        "name": "Miyamoto Musashi (Swimsuit Berserker) (Second Ascension) (Fate)",
+        "simple_name": "Miyamoto Musashi",
+        "image": ""
+      },
+      {
+        "name": "Bb (Swimsuit Mooncancer) (Second Ascension) (Fate)",
+        "simple_name": "Bb",
+        "image": ""
+      },
+      {
+        "name": "Artoria Caster (Swimsuit) (Fate)",
+        "simple_name": "Artoria Caster",
+        "image": ""
+      },
+      {
+        "name": "Space Ishtar (Fate)",
+        "simple_name": "Space Ishtar",
+        "image": ""
+      },
+      {
+        "name": "Artoria Caster (Second Ascension) (Fate)",
+        "simple_name": "Artoria Caster",
+        "image": ""
+      },
+      {
+        "name": "Okita Souji Alter (Fate)",
+        "simple_name": "Okita Souji Alter",
+        "image": ""
+      },
+      {
+        "name": "Medusa (Lancer) (Fate)",
+        "simple_name": "Medusa",
+        "image": ""
+      },
+      {
+        "name": "Merlin (Fate)",
+        "simple_name": "Merlin",
+        "image": ""
+      },
+      {
+        "name": "Uryuu Ryuunosuke",
+        "simple_name": "Uryuu Ryuunosuke",
+        "image": ""
+      },
+      {
+        "name": "Kadoc Zemlupus",
+        "simple_name": "Kadoc Zemlupus",
+        "image": ""
+      },
+      {
+        "name": "Arjuna Alter (Fate)",
+        "simple_name": "Arjuna Alter",
+        "image": ""
+      },
+      {
+        "name": "Leonardo Da Vinci (Fate)",
+        "simple_name": "Leonardo Da Vinci",
+        "image": ""
+      },
+      {
+        "name": "Minamoto No Raikou (Swimsuit Lancer) (Fate)",
+        "simple_name": "Minamoto No Raikou",
+        "image": ""
+      },
+      {
+        "name": "Cernunnos (Fate)",
+        "simple_name": "Cernunnos",
+        "image": ""
+      },
+      {
+        "name": "Ozymandias (Fate)",
+        "simple_name": "Ozymandias",
+        "image": ""
+      },
+      {
+        "name": "Chloe Von Einzbern",
+        "simple_name": "Chloe Von Einzbern",
+        "image": ""
+      },
+      {
+        "name": "Francis Drake (Fate)",
+        "simple_name": "Francis Drake",
+        "image": ""
+      },
+      {
+        "name": "Constantine Xi (Fate)",
+        "simple_name": "Constantine Xi",
+        "image": ""
+      },
+      {
+        "name": "Florence Nightingale (Trick Or Treatment) (Fate)",
+        "simple_name": "Florence Nightingale",
+        "image": ""
+      },
+      {
+        "name": "Iskandar (Fate)",
+        "simple_name": "Iskandar",
+        "image": ""
+      },
+      {
+        "name": "Mysterious Heroine X (Fate)",
+        "simple_name": "Mysterious Heroine X",
+        "image": ""
+      },
+      {
+        "name": "Nitocris (Fate)",
+        "simple_name": "Nitocris",
+        "image": ""
+      },
+      {
+        "name": "Medusa (Rider) (Fate)",
+        "simple_name": "Medusa",
+        "image": ""
+      },
+      {
+        "name": "Baobhan Sith (First Ascension) (Fate)",
+        "simple_name": "Baobhan Sith",
+        "image": ""
+      },
+      {
+        "name": "Miyu Edelfelt",
+        "simple_name": "Miyu Edelfelt",
+        "image": ""
+      },
+      {
+        "name": "Valkyrie (Fate)",
+        "simple_name": "Valkyrie",
+        "image": ""
+      },
+      {
+        "name": "Nero Claudius (Fate/Extra)",
+        "simple_name": "Nero Claudius",
+        "image": ""
+      },
+      {
+        "name": "Mordred (Fate/Apocrypha)",
+        "simple_name": "Mordred",
+        "image": ""
+      },
+      {
+        "name": "Merlin (Fate/Prototype)",
+        "simple_name": "Merlin",
+        "image": ""
+      },
+      {
+        "name": "Elizabeth Bathory (Fate/Extra Ccc)",
+        "simple_name": "Elizabeth Bathory",
+        "image": ""
+      },
+      {
+        "name": "Bb (Fate/Extra)",
+        "simple_name": "Bb",
+        "image": ""
+      },
+      {
+        "name": "Tamamo No Mae (Fate/Extra)",
+        "simple_name": "Tamamo No Mae",
+        "image": ""
+      },
+      {
+        "name": "Merlin (Fate/Prototype) (Second Ascension)",
+        "simple_name": "Merlin",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "League Of Legends",
+    "key": "worlds.league_of_legends",
+    "characters": [
+      {
+        "name": "Ahri (League Of Legends)",
+        "simple_name": "Ahri",
+        "image": ""
+      },
+      {
+        "name": "Jinx (League Of Legends)",
+        "simple_name": "Jinx",
+        "image": ""
+      },
+      {
+        "name": "Akali",
+        "simple_name": "Akali",
+        "image": ""
+      },
+      {
+        "name": "Gwen (League Of Legends)",
+        "simple_name": "Gwen",
+        "image": ""
+      },
+      {
+        "name": "Sona (League Of Legends)",
+        "simple_name": "Sona",
+        "image": ""
+      },
+      {
+        "name": "Lux (League Of Legends)",
+        "simple_name": "Lux",
+        "image": ""
+      },
+      {
+        "name": "Evelynn (League Of Legends)",
+        "simple_name": "Evelynn",
+        "image": ""
+      },
+      {
+        "name": "Vi (League Of Legends)",
+        "simple_name": "Vi",
+        "image": ""
+      },
+      {
+        "name": "Caitlyn (League Of Legends)",
+        "simple_name": "Caitlyn",
+        "image": ""
+      },
+      {
+        "name": "Kindred (League Of Legends)",
+        "simple_name": "Kindred",
+        "image": ""
+      },
+      {
+        "name": "Soraka (League Of Legends)",
+        "simple_name": "Soraka",
+        "image": ""
+      },
+      {
+        "name": "Arcane Jinx",
+        "simple_name": "Arcane Jinx",
+        "image": ""
+      },
+      {
+        "name": "Miss Fortune (League Of Legends)",
+        "simple_name": "Miss Fortune",
+        "image": ""
+      },
+      {
+        "name": "Kai'Sa",
+        "simple_name": "Kai'Sa",
+        "image": ""
+      },
+      {
+        "name": "Lulu (League Of Legends)",
+        "simple_name": "Lulu",
+        "image": ""
+      },
+      {
+        "name": "Riven (League Of Legends)",
+        "simple_name": "Riven",
+        "image": ""
+      },
+      {
+        "name": "Briar (League Of Legends)",
+        "simple_name": "Briar",
+        "image": ""
+      },
+      {
+        "name": "Neeko (League Of Legends)",
+        "simple_name": "Neeko",
+        "image": ""
+      },
+      {
+        "name": "Katarina (League Of Legends)",
+        "simple_name": "Katarina",
+        "image": ""
+      },
+      {
+        "name": "Xayah",
+        "simple_name": "Xayah",
+        "image": ""
+      },
+      {
+        "name": "Sett (League Of Legends)",
+        "simple_name": "Sett",
+        "image": ""
+      },
+      {
+        "name": "Poppy (League Of Legends)",
+        "simple_name": "Poppy",
+        "image": ""
+      },
+      {
+        "name": "Syndra",
+        "simple_name": "Syndra",
+        "image": ""
+      },
+      {
+        "name": "Wolf (League Of Legends)",
+        "simple_name": "Wolf",
+        "image": ""
+      },
+      {
+        "name": "Ezreal",
+        "simple_name": "Ezreal",
+        "image": ""
+      },
+      {
+        "name": "Graves (League Of Legends)",
+        "simple_name": "Graves",
+        "image": ""
+      },
+      {
+        "name": "Nidalee",
+        "simple_name": "Nidalee",
+        "image": ""
+      },
+      {
+        "name": "Arcane Vi",
+        "simple_name": "Arcane Vi",
+        "image": ""
+      },
+      {
+        "name": "Seraphine (League Of Legends)",
+        "simple_name": "Seraphine",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Final Fantasy",
+    "key": "worlds.final_fantasy",
+    "characters": [
+      {
+        "name": "Warrior Of Light (Ff14)",
+        "simple_name": "Warrior Of Light",
+        "image": ""
+      },
+      {
+        "name": "Tifa Lockhart",
+        "simple_name": "Tifa Lockhart",
+        "image": ""
+      },
+      {
+        "name": "Cloud Strife",
+        "simple_name": "Cloud Strife",
+        "image": ""
+      },
+      {
+        "name": "Aerith Gainsborough",
+        "simple_name": "Aerith Gainsborough",
+        "image": ""
+      },
+      {
+        "name": "Sephiroth",
+        "simple_name": "Sephiroth",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Hololive",
+    "key": "worlds.hololive",
+    "characters": [
+      {
+        "name": "Mori Calliope",
+        "simple_name": "Mori Calliope",
+        "image": ""
+      },
+      {
+        "name": "Nekomata Okayu",
+        "simple_name": "Nekomata Okayu",
+        "image": ""
+      },
+      {
+        "name": "Hoshimachi Suisei",
+        "simple_name": "Hoshimachi Suisei",
+        "image": ""
+      },
+      {
+        "name": "Gawr Gura",
+        "simple_name": "Gawr Gura",
+        "image": ""
+      },
+      {
+        "name": "Nanashi Mumei",
+        "simple_name": "Nanashi Mumei",
+        "image": ""
+      },
+      {
+        "name": "Usada Pekora",
+        "simple_name": "Usada Pekora",
+        "image": ""
+      },
+      {
+        "name": "Houshou Marine",
+        "simple_name": "Houshou Marine",
+        "image": ""
+      },
+      {
+        "name": "Ninomae Ina'Nis",
+        "simple_name": "Ninomae Ina'Nis",
+        "image": ""
+      },
+      {
+        "name": "Ouro Kronii",
+        "simple_name": "Ouro Kronii",
+        "image": ""
+      },
+      {
+        "name": "Tokoyami Towa",
+        "simple_name": "Tokoyami Towa",
+        "image": ""
+      },
+      {
+        "name": "Takanashi Kiara",
+        "simple_name": "Takanashi Kiara",
+        "image": ""
+      },
+      {
+        "name": "Hakui Koyori",
+        "simple_name": "Hakui Koyori",
+        "image": ""
+      },
+      {
+        "name": "Shishiro Botan",
+        "simple_name": "Shishiro Botan",
+        "image": ""
+      },
+      {
+        "name": "Shirakami Fubuki",
+        "simple_name": "Shirakami Fubuki",
+        "image": ""
+      },
+      {
+        "name": "Watson Amelia",
+        "simple_name": "Watson Amelia",
+        "image": ""
+      },
+      {
+        "name": "Hakos Baelz",
+        "simple_name": "Hakos Baelz",
+        "image": ""
+      },
+      {
+        "name": "Shirogane Noel",
+        "simple_name": "Shirogane Noel",
+        "image": ""
+      },
+      {
+        "name": "Fuwawa Abyssgard",
+        "simple_name": "Fuwawa Abyssgard",
+        "image": ""
+      },
+      {
+        "name": "Nakiri Ayame",
+        "simple_name": "Nakiri Ayame",
+        "image": ""
+      },
+      {
+        "name": "Omaru Polka",
+        "simple_name": "Omaru Polka",
+        "image": ""
+      },
+      {
+        "name": "Mococo Abyssgard",
+        "simple_name": "Mococo Abyssgard",
+        "image": ""
+      },
+      {
+        "name": "Ookami Mio",
+        "simple_name": "Ookami Mio",
+        "image": ""
+      },
+      {
+        "name": "Kazama Iroha",
+        "simple_name": "Kazama Iroha",
+        "image": ""
+      },
+      {
+        "name": "Usada Pekora (1St Costume)",
+        "simple_name": "Usada Pekora",
+        "image": ""
+      },
+      {
+        "name": "Kiryu Coco",
+        "simple_name": "Kiryu Coco",
+        "image": ""
+      },
+      {
+        "name": "Takodachi (Ninomae Ina'Nis)",
+        "simple_name": "Takodachi",
+        "image": ""
+      },
+      {
+        "name": "La+ Darknesss",
+        "simple_name": "La+ Darknesss",
+        "image": ""
+      },
+      {
+        "name": "Hakui Koyori (1St Costume)",
+        "simple_name": "Hakui Koyori",
+        "image": ""
+      },
+      {
+        "name": "Hoshimachi Suisei (1St Costume)",
+        "simple_name": "Hoshimachi Suisei",
+        "image": ""
+      },
+      {
+        "name": "Kureiji Ollie",
+        "simple_name": "Kureiji Ollie",
+        "image": ""
+      },
+      {
+        "name": "Oozora Subaru",
+        "simple_name": "Oozora Subaru",
+        "image": ""
+      },
+      {
+        "name": "Gawr Gura (1St Costume)",
+        "simple_name": "Gawr Gura",
+        "image": ""
+      },
+      {
+        "name": "Nekomata Okayu (1St Costume)",
+        "simple_name": "Nekomata Okayu",
+        "image": ""
+      },
+      {
+        "name": "Amane Kanata",
+        "simple_name": "Amane Kanata",
+        "image": ""
+      },
+      {
+        "name": "Yuzuki Choco",
+        "simple_name": "Yuzuki Choco",
+        "image": ""
+      },
+      {
+        "name": "Himemori Luna",
+        "simple_name": "Himemori Luna",
+        "image": ""
+      },
+      {
+        "name": "Akai Haato",
+        "simple_name": "Akai Haato",
+        "image": ""
+      },
+      {
+        "name": "Mori Calliope (1St Costume)",
+        "simple_name": "Mori Calliope",
+        "image": ""
+      },
+      {
+        "name": "Bibi (Tokoyami Towa)",
+        "simple_name": "Bibi",
+        "image": ""
+      },
+      {
+        "name": "Bloop (Gawr Gura)",
+        "simple_name": "Bloop",
+        "image": ""
+      },
+      {
+        "name": "Shiori Novella",
+        "simple_name": "Shiori Novella",
+        "image": ""
+      },
+      {
+        "name": "Shishiro Botan (1St Costume)",
+        "simple_name": "Shishiro Botan",
+        "image": ""
+      },
+      {
+        "name": "Nanashi Mumei (1St Costume)",
+        "simple_name": "Nanashi Mumei",
+        "image": ""
+      },
+      {
+        "name": "Minato Aqua",
+        "simple_name": "Minato Aqua",
+        "image": ""
+      },
+      {
+        "name": "Kazama Iroha (1St Costume)",
+        "simple_name": "Kazama Iroha",
+        "image": ""
+      },
+      {
+        "name": "Sakamata Chloe",
+        "simple_name": "Sakamata Chloe",
+        "image": ""
+      },
+      {
+        "name": "Ceres Fauna",
+        "simple_name": "Ceres Fauna",
+        "image": ""
+      },
+      {
+        "name": "Nerissa Ravencroft",
+        "simple_name": "Nerissa Ravencroft",
+        "image": ""
+      },
+      {
+        "name": "Sakura Miko",
+        "simple_name": "Sakura Miko",
+        "image": ""
+      },
+      {
+        "name": "Tokino Sora",
+        "simple_name": "Tokino Sora",
+        "image": ""
+      },
+      {
+        "name": "Watson Amelia (1St Costume)",
+        "simple_name": "Watson Amelia",
+        "image": ""
+      },
+      {
+        "name": "Don-Chan (Usada Pekora)",
+        "simple_name": "Don-Chan",
+        "image": ""
+      },
+      {
+        "name": "Tsukumo Sana",
+        "simple_name": "Tsukumo Sana",
+        "image": ""
+      },
+      {
+        "name": "Shiranui Flare",
+        "simple_name": "Shiranui Flare",
+        "image": ""
+      },
+      {
+        "name": "Nakiri Ayame (1St Costume)",
+        "simple_name": "Nakiri Ayame",
+        "image": ""
+      },
+      {
+        "name": "Inugami Korone",
+        "simple_name": "Inugami Korone",
+        "image": ""
+      },
+      {
+        "name": "Yukihana Lamy",
+        "simple_name": "Yukihana Lamy",
+        "image": ""
+      },
+      {
+        "name": "Mococo Abyssgard (1St Costume)",
+        "simple_name": "Mococo Abyssgard",
+        "image": ""
+      },
+      {
+        "name": "Ouro Kronii (1St Costume)",
+        "simple_name": "Ouro Kronii",
+        "image": ""
+      },
+      {
+        "name": "Fuwawa Abyssgard (1St Costume)",
+        "simple_name": "Fuwawa Abyssgard",
+        "image": ""
+      },
+      {
+        "name": "Nekomata Okayu (Oversized Shirt)",
+        "simple_name": "Nekomata Okayu",
+        "image": ""
+      },
+      {
+        "name": "Shirogane Noel (Casual)",
+        "simple_name": "Shirogane Noel",
+        "image": ""
+      },
+      {
+        "name": "Azki (Hololive)",
+        "simple_name": "Azki",
+        "image": ""
+      },
+      {
+        "name": "Irys (Hololive)",
+        "simple_name": "Irys",
+        "image": ""
+      },
+      {
+        "name": "Shiori Novella (1St Costume)",
+        "simple_name": "Shiori Novella",
+        "image": ""
+      },
+      {
+        "name": "Mori Calliope (Streetwear)",
+        "simple_name": "Mori Calliope",
+        "image": ""
+      },
+      {
+        "name": "Pekomon (Usada Pekora)",
+        "simple_name": "Pekomon",
+        "image": ""
+      },
+      {
+        "name": "Ookami Mio (1St Costume)",
+        "simple_name": "Ookami Mio",
+        "image": ""
+      },
+      {
+        "name": "Hakos Baelz (1St Costume)",
+        "simple_name": "Hakos Baelz",
+        "image": ""
+      },
+      {
+        "name": "Moona Hoshinova",
+        "simple_name": "Moona Hoshinova",
+        "image": ""
+      },
+      {
+        "name": "Murasaki Shion",
+        "simple_name": "Murasaki Shion",
+        "image": ""
+      },
+      {
+        "name": "Tokoyami Towa (1St Costume)",
+        "simple_name": "Tokoyami Towa",
+        "image": ""
+      },
+      {
+        "name": "Tsunomaki Watame",
+        "simple_name": "Tsunomaki Watame",
+        "image": ""
+      },
+      {
+        "name": "Houshou Marine (1St Costume)",
+        "simple_name": "Houshou Marine",
+        "image": ""
+      },
+      {
+        "name": "Pavolia Reine",
+        "simple_name": "Pavolia Reine",
+        "image": ""
+      },
+      {
+        "name": "La+ Darknesss (1St Costume)",
+        "simple_name": "La+ Darknesss",
+        "image": ""
+      },
+      {
+        "name": "Takanashi Kiara (Casual)",
+        "simple_name": "Takanashi Kiara",
+        "image": ""
+      },
+      {
+        "name": "Kureiji Ollie (1St Costume)",
+        "simple_name": "Kureiji Ollie",
+        "image": ""
+      },
+      {
+        "name": "Nerissa Ravencroft (1St Costume)",
+        "simple_name": "Nerissa Ravencroft",
+        "image": ""
+      },
+      {
+        "name": "Kiryu Coco (1St Costume)",
+        "simple_name": "Kiryu Coco",
+        "image": ""
+      },
+      {
+        "name": "Koseki Bijou",
+        "simple_name": "Koseki Bijou",
+        "image": ""
+      },
+      {
+        "name": "Mr. Squeaks (Hakos Baelz)",
+        "simple_name": "Mr. Squeaks",
+        "image": ""
+      },
+      {
+        "name": "Shirakami Fubuki (1St Costume)",
+        "simple_name": "Shirakami Fubuki",
+        "image": ""
+      },
+      {
+        "name": "Nanashi Mumei (Casual)",
+        "simple_name": "Nanashi Mumei",
+        "image": ""
+      },
+      {
+        "name": "Ninomae Ina'Nis (1St Costume)",
+        "simple_name": "Ninomae Ina'Nis",
+        "image": ""
+      },
+      {
+        "name": "Takane Lui",
+        "simple_name": "Takane Lui",
+        "image": ""
+      },
+      {
+        "name": "Natsuiro Matsuri",
+        "simple_name": "Natsuiro Matsuri",
+        "image": ""
+      },
+      {
+        "name": "Takanashi Kiara (1St Costume)",
+        "simple_name": "Takanashi Kiara",
+        "image": ""
+      },
+      {
+        "name": "Kaela Kovalskia",
+        "simple_name": "Kaela Kovalskia",
+        "image": ""
+      },
+      {
+        "name": "Momosuzu Nene",
+        "simple_name": "Momosuzu Nene",
+        "image": ""
+      },
+      {
+        "name": "Yuzuki Choco (1St Costume)",
+        "simple_name": "Yuzuki Choco",
+        "image": ""
+      },
+      {
+        "name": "Friend (Nanashi Mumei)",
+        "simple_name": "Friend",
+        "image": ""
+      },
+      {
+        "name": "Tsukumo Sana (1St Costume)",
+        "simple_name": "Tsukumo Sana",
+        "image": ""
+      },
+      {
+        "name": "Uruha Rushia",
+        "simple_name": "Uruha Rushia",
+        "image": ""
+      },
+      {
+        "name": "Anya Melfissa",
+        "simple_name": "Anya Melfissa",
+        "image": ""
+      },
+      {
+        "name": "Himemori Luna (1St Costume)",
+        "simple_name": "Himemori Luna",
+        "image": ""
+      },
+      {
+        "name": "Tokoyami Towa (Jirai Kei)",
+        "simple_name": "Tokoyami Towa",
+        "image": ""
+      },
+      {
+        "name": "Omaru Polka (1St Costume)",
+        "simple_name": "Omaru Polka",
+        "image": ""
+      },
+      {
+        "name": "Vestia Zeta",
+        "simple_name": "Vestia Zeta",
+        "image": ""
+      },
+      {
+        "name": "Inugami Korone (1St Costume)",
+        "simple_name": "Inugami Korone",
+        "image": ""
+      },
+      {
+        "name": "Kobo Kanaeru",
+        "simple_name": "Kobo Kanaeru",
+        "image": ""
+      },
+      {
+        "name": "Ichijou Ririka",
+        "simple_name": "Ichijou Ririka",
+        "image": ""
+      },
+      {
+        "name": "Sakamata Chloe (1St Costume)",
+        "simple_name": "Sakamata Chloe",
+        "image": ""
+      },
+      {
+        "name": "Koseki Bijou (1St Costume)",
+        "simple_name": "Koseki Bijou",
+        "image": ""
+      },
+      {
+        "name": "Tokino Sora (1St Costume)",
+        "simple_name": "Tokino Sora",
+        "image": ""
+      },
+      {
+        "name": "Kokoro (Hakui Koyori)",
+        "simple_name": "Kokoro",
+        "image": ""
+      },
+      {
+        "name": "Airani Iofifteen",
+        "simple_name": "Airani Iofifteen",
+        "image": ""
+      },
+      {
+        "name": "Ayunda Risu",
+        "simple_name": "Ayunda Risu",
+        "image": ""
+      },
+      {
+        "name": "Yorick (Shiori Novella)",
+        "simple_name": "Yorick",
+        "image": ""
+      },
+      {
+        "name": "Pokobee",
+        "simple_name": "Pokobee",
+        "image": ""
+      },
+      {
+        "name": "Akai Haato (1St Costume)",
+        "simple_name": "Akai Haato",
+        "image": ""
+      },
+      {
+        "name": "Yozora Mel",
+        "simple_name": "Yozora Mel",
+        "image": ""
+      },
+      {
+        "name": "Udin (Kureiji Ollie)",
+        "simple_name": "Udin",
+        "image": ""
+      },
+      {
+        "name": "Bubba (Watson Amelia)",
+        "simple_name": "Bubba",
+        "image": ""
+      },
+      {
+        "name": "Amane Kanata (1St Costume)",
+        "simple_name": "Amane Kanata",
+        "image": ""
+      },
+      {
+        "name": "Crow (La+ Darknesss)",
+        "simple_name": "Crow",
+        "image": ""
+      },
+      {
+        "name": "Yukihana Lamy (1St Costume)",
+        "simple_name": "Yukihana Lamy",
+        "image": ""
+      },
+      {
+        "name": "Azki (4Th Costume) (Hololive)",
+        "simple_name": "Azki",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Pokemon",
+    "key": "worlds.pokemon",
+    "characters": [
+      {
+        "name": "Akari (Pokemon)",
+        "simple_name": "Akari",
+        "image": ""
+      },
+      {
+        "name": "Pikachu",
+        "simple_name": "Pikachu",
+        "image": ""
+      },
+      {
+        "name": "May (Pokemon)",
+        "simple_name": "May",
+        "image": ""
+      },
+      {
+        "name": "Marnie (Pokemon)",
+        "simple_name": "Marnie",
+        "image": ""
+      },
+      {
+        "name": "Rowlet",
+        "simple_name": "Rowlet",
+        "image": ""
+      },
+      {
+        "name": "Lillie (Pokemon)",
+        "simple_name": "Lillie",
+        "image": ""
+      },
+      {
+        "name": "Selene (Pokemon)",
+        "simple_name": "Selene",
+        "image": ""
+      },
+      {
+        "name": "Irida (Pokemon)",
+        "simple_name": "Irida",
+        "image": ""
+      },
+      {
+        "name": "Piers (Pokemon)",
+        "simple_name": "Piers",
+        "image": ""
+      },
+      {
+        "name": "Morpeko",
+        "simple_name": "Morpeko",
+        "image": ""
+      },
+      {
+        "name": "Gloria (Pokemon)",
+        "simple_name": "Gloria",
+        "image": ""
+      },
+      {
+        "name": "Morpeko (Full)",
+        "simple_name": "Morpeko",
+        "image": ""
+      },
+      {
+        "name": "Lopunny",
+        "simple_name": "Lopunny",
+        "image": ""
+      },
+      {
+        "name": "Hilda (Pokemon)",
+        "simple_name": "Hilda",
+        "image": ""
+      },
+      {
+        "name": "Hop (Pokemon)",
+        "simple_name": "Hop",
+        "image": ""
+      },
+      {
+        "name": "Ash Ketchum",
+        "simple_name": "Ash Ketchum",
+        "image": ""
+      },
+      {
+        "name": "Skyla (Pokemon)",
+        "simple_name": "Skyla",
+        "image": ""
+      },
+      {
+        "name": "Dawn (Pokemon)",
+        "simple_name": "Dawn",
+        "image": ""
+      },
+      {
+        "name": "Raihan (Pokemon)",
+        "simple_name": "Raihan",
+        "image": ""
+      },
+      {
+        "name": "Gardevoir",
+        "simple_name": "Gardevoir",
+        "image": ""
+      },
+      {
+        "name": "Kieran (Pokemon)",
+        "simple_name": "Kieran",
+        "image": ""
+      },
+      {
+        "name": "Cynthia (Pokemon)",
+        "simple_name": "Cynthia",
+        "image": ""
+      },
+      {
+        "name": "N (Pokemon)",
+        "simple_name": "N",
+        "image": ""
+      },
+      {
+        "name": "Rotom",
+        "simple_name": "Rotom",
+        "image": ""
+      },
+      {
+        "name": "Cosmog",
+        "simple_name": "Cosmog",
+        "image": ""
+      },
+      {
+        "name": "Bede (Pokemon)",
+        "simple_name": "Bede",
+        "image": ""
+      },
+      {
+        "name": "Gengar",
+        "simple_name": "Gengar",
+        "image": ""
+      },
+      {
+        "name": "Rosa (Pokemon)",
+        "simple_name": "Rosa",
+        "image": ""
+      },
+      {
+        "name": "Mimikyu",
+        "simple_name": "Mimikyu",
+        "image": ""
+      },
+      {
+        "name": "Eevee",
+        "simple_name": "Eevee",
+        "image": ""
+      },
+      {
+        "name": "Allister (Pokemon)",
+        "simple_name": "Allister",
+        "image": ""
+      },
+      {
+        "name": "Volo (Pokemon)",
+        "simple_name": "Volo",
+        "image": ""
+      },
+      {
+        "name": "Iono (Pokemon)",
+        "simple_name": "Iono",
+        "image": ""
+      },
+      {
+        "name": "Adaman (Pokemon)",
+        "simple_name": "Adaman",
+        "image": ""
+      },
+      {
+        "name": "Bea (Pokemon)",
+        "simple_name": "Bea",
+        "image": ""
+      },
+      {
+        "name": "Oshawott",
+        "simple_name": "Oshawott",
+        "image": ""
+      },
+      {
+        "name": "Arezu (Pokemon)",
+        "simple_name": "Arezu",
+        "image": ""
+      },
+      {
+        "name": "Tepig",
+        "simple_name": "Tepig",
+        "image": ""
+      },
+      {
+        "name": "Melony (Pokemon)",
+        "simple_name": "Melony",
+        "image": ""
+      },
+      {
+        "name": "Cyndaquil",
+        "simple_name": "Cyndaquil",
+        "image": ""
+      },
+      {
+        "name": "Mismagius",
+        "simple_name": "Mismagius",
+        "image": ""
+      },
+      {
+        "name": "Rei (Pokemon)",
+        "simple_name": "Rei",
+        "image": ""
+      },
+      {
+        "name": "Nessa (Pokemon)",
+        "simple_name": "Nessa",
+        "image": ""
+      },
+      {
+        "name": "Acerola (Pokemon)",
+        "simple_name": "Acerola",
+        "image": ""
+      },
+      {
+        "name": "Charizard",
+        "simple_name": "Charizard",
+        "image": ""
+      },
+      {
+        "name": "Piplup",
+        "simple_name": "Piplup",
+        "image": ""
+      },
+      {
+        "name": "Leon (Pokemon)",
+        "simple_name": "Leon",
+        "image": ""
+      },
+      {
+        "name": "Carmine (Pokemon)",
+        "simple_name": "Carmine",
+        "image": ""
+      },
+      {
+        "name": "Lucario",
+        "simple_name": "Lucario",
+        "image": ""
+      },
+      {
+        "name": "Florian (Pokemon)",
+        "simple_name": "Florian",
+        "image": ""
+      },
+      {
+        "name": "Serena (Pokemon)",
+        "simple_name": "Serena",
+        "image": ""
+      },
+      {
+        "name": "Primarina",
+        "simple_name": "Primarina",
+        "image": ""
+      },
+      {
+        "name": "Brendan (Pokemon)",
+        "simple_name": "Brendan",
+        "image": ""
+      },
+      {
+        "name": "Jigglypuff",
+        "simple_name": "Jigglypuff",
+        "image": ""
+      },
+      {
+        "name": "Glaceon",
+        "simple_name": "Glaceon",
+        "image": ""
+      },
+      {
+        "name": "Juliana (Pokemon)",
+        "simple_name": "Juliana",
+        "image": ""
+      },
+      {
+        "name": "Rotom Phone",
+        "simple_name": "Rotom Phone",
+        "image": ""
+      },
+      {
+        "name": "Ethan (Pokemon)",
+        "simple_name": "Ethan",
+        "image": ""
+      },
+      {
+        "name": "Hilbert (Pokemon)",
+        "simple_name": "Hilbert",
+        "image": ""
+      },
+      {
+        "name": "Hisuian Zorua",
+        "simple_name": "Hisuian Zorua",
+        "image": ""
+      },
+      {
+        "name": "Riolu",
+        "simple_name": "Riolu",
+        "image": ""
+      },
+      {
+        "name": "Silver (Pokemon)",
+        "simple_name": "Silver",
+        "image": ""
+      },
+      {
+        "name": "Red (Pokemon)",
+        "simple_name": "Red",
+        "image": ""
+      },
+      {
+        "name": "Drifloon",
+        "simple_name": "Drifloon",
+        "image": ""
+      },
+      {
+        "name": "Lusamine (Pokemon)",
+        "simple_name": "Lusamine",
+        "image": ""
+      },
+      {
+        "name": "Sylveon",
+        "simple_name": "Sylveon",
+        "image": ""
+      },
+      {
+        "name": "Steven Stone",
+        "simple_name": "Steven Stone",
+        "image": ""
+      },
+      {
+        "name": "Victor (Pokemon)",
+        "simple_name": "Victor",
+        "image": ""
+      },
+      {
+        "name": "Lisia (Pokemon)",
+        "simple_name": "Lisia",
+        "image": ""
+      },
+      {
+        "name": "Sonia (Pokemon)",
+        "simple_name": "Sonia",
+        "image": ""
+      },
+      {
+        "name": "Cheren (Pokemon)",
+        "simple_name": "Cheren",
+        "image": ""
+      },
+      {
+        "name": "Torchic",
+        "simple_name": "Torchic",
+        "image": ""
+      },
+      {
+        "name": "Squirtle",
+        "simple_name": "Squirtle",
+        "image": ""
+      },
+      {
+        "name": "Altaria",
+        "simple_name": "Altaria",
+        "image": ""
+      },
+      {
+        "name": "Litwick",
+        "simple_name": "Litwick",
+        "image": ""
+      },
+      {
+        "name": "Snivy",
+        "simple_name": "Snivy",
+        "image": ""
+      },
+      {
+        "name": "Hypno",
+        "simple_name": "Hypno",
+        "image": ""
+      },
+      {
+        "name": "Leafeon",
+        "simple_name": "Leafeon",
+        "image": ""
+      },
+      {
+        "name": "Scorbunny",
+        "simple_name": "Scorbunny",
+        "image": ""
+      },
+      {
+        "name": "Mudkip",
+        "simple_name": "Mudkip",
+        "image": ""
+      },
+      {
+        "name": "Misty (Pokemon)",
+        "simple_name": "Misty",
+        "image": ""
+      },
+      {
+        "name": "Sobble",
+        "simple_name": "Sobble",
+        "image": ""
+      },
+      {
+        "name": "Bulbasaur",
+        "simple_name": "Bulbasaur",
+        "image": ""
+      },
+      {
+        "name": "Hex Maniac (Pokemon)",
+        "simple_name": "Hex Maniac",
+        "image": ""
+      },
+      {
+        "name": "Umbreon",
+        "simple_name": "Umbreon",
+        "image": ""
+      },
+      {
+        "name": "Lacey (Pokemon)",
+        "simple_name": "Lacey",
+        "image": ""
+      },
+      {
+        "name": "Wooloo",
+        "simple_name": "Wooloo",
+        "image": ""
+      },
+      {
+        "name": "Rika (Pokemon)",
+        "simple_name": "Rika",
+        "image": ""
+      },
+      {
+        "name": "Inteleon",
+        "simple_name": "Inteleon",
+        "image": ""
+      },
+      {
+        "name": "Nihilego",
+        "simple_name": "Nihilego",
+        "image": ""
+      },
+      {
+        "name": "Popplio",
+        "simple_name": "Popplio",
+        "image": ""
+      },
+      {
+        "name": "Suicune",
+        "simple_name": "Suicune",
+        "image": ""
+      },
+      {
+        "name": "Ampharos",
+        "simple_name": "Ampharos",
+        "image": ""
+      },
+      {
+        "name": "Giratina",
+        "simple_name": "Giratina",
+        "image": ""
+      },
+      {
+        "name": "Hatterene",
+        "simple_name": "Hatterene",
+        "image": ""
+      },
+      {
+        "name": "Gastly",
+        "simple_name": "Gastly",
+        "image": ""
+      },
+      {
+        "name": "Pumpkaboo",
+        "simple_name": "Pumpkaboo",
+        "image": ""
+      },
+      {
+        "name": "Sableye",
+        "simple_name": "Sableye",
+        "image": ""
+      },
+      {
+        "name": "Blastoise",
+        "simple_name": "Blastoise",
+        "image": ""
+      },
+      {
+        "name": "Pichu",
+        "simple_name": "Pichu",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Nijisanji",
+    "key": "worlds.nijisanji",
+    "characters": [
+      {
+        "name": "Elira Pendora",
+        "simple_name": "Elira Pendora",
+        "image": ""
+      },
+      {
+        "name": "Selen Tatsuki",
+        "simple_name": "Selen Tatsuki",
+        "image": ""
+      },
+      {
+        "name": "Shiina Yuika",
+        "simple_name": "Shiina Yuika",
+        "image": ""
+      },
+      {
+        "name": "Pomu Rainpuff",
+        "simple_name": "Pomu Rainpuff",
+        "image": ""
+      },
+      {
+        "name": "Hyakumantenbara Salome",
+        "simple_name": "Hyakumantenbara Salome",
+        "image": ""
+      },
+      {
+        "name": "Enna Alouette",
+        "simple_name": "Enna Alouette",
+        "image": ""
+      },
+      {
+        "name": "Finana Ryugu",
+        "simple_name": "Finana Ryugu",
+        "image": ""
+      },
+      {
+        "name": "Amamiya Kokoro",
+        "simple_name": "Amamiya Kokoro",
+        "image": ""
+      },
+      {
+        "name": "Hyakumantenbara Salome (1St Costume)",
+        "simple_name": "Hyakumantenbara Salome",
+        "image": ""
+      },
+      {
+        "name": "Ike Eveland",
+        "simple_name": "Ike Eveland",
+        "image": ""
+      },
+      {
+        "name": "Nina Kosaka",
+        "simple_name": "Nina Kosaka",
+        "image": ""
+      },
+      {
+        "name": "Vox Akuma",
+        "simple_name": "Vox Akuma",
+        "image": ""
+      },
+      {
+        "name": "Petra Gurin",
+        "simple_name": "Petra Gurin",
+        "image": ""
+      },
+      {
+        "name": "Millie Parfait",
+        "simple_name": "Millie Parfait",
+        "image": ""
+      },
+      {
+        "name": "Luca Kaneshiro",
+        "simple_name": "Luca Kaneshiro",
+        "image": ""
+      },
+      {
+        "name": "Mysta Rias",
+        "simple_name": "Mysta Rias",
+        "image": ""
+      },
+      {
+        "name": "Reimu Endou",
+        "simple_name": "Reimu Endou",
+        "image": ""
+      },
+      {
+        "name": "Shiina Yuika (1St Costume)",
+        "simple_name": "Shiina Yuika",
+        "image": ""
+      },
+      {
+        "name": "Rosemi Lovelock",
+        "simple_name": "Rosemi Lovelock",
+        "image": ""
+      },
+      {
+        "name": "Tsukino Mito",
+        "simple_name": "Tsukino Mito",
+        "image": ""
+      },
+      {
+        "name": "Elira Pendora (1St Costume)",
+        "simple_name": "Elira Pendora",
+        "image": ""
+      },
+      {
+        "name": "Pomu Rainpuff (1St Costume)",
+        "simple_name": "Pomu Rainpuff",
+        "image": ""
+      },
+      {
+        "name": "Lize Helesta",
+        "simple_name": "Lize Helesta",
+        "image": ""
+      },
+      {
+        "name": "Maria Marionette",
+        "simple_name": "Maria Marionette",
+        "image": ""
+      },
+      {
+        "name": "Sasaki Saku",
+        "simple_name": "Sasaki Saku",
+        "image": ""
+      },
+      {
+        "name": "Hoshikawa Sara",
+        "simple_name": "Hoshikawa Sara",
+        "image": ""
+      },
+      {
+        "name": "Ange Katrina",
+        "simple_name": "Ange Katrina",
+        "image": ""
+      },
+      {
+        "name": "Inui Toko",
+        "simple_name": "Inui Toko",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Umamusume",
+    "key": "worlds.umamusume",
+    "characters": [
+      {
+        "name": "Satono Diamond (Umamusume)",
+        "simple_name": "Satono Diamond",
+        "image": ""
+      },
+      {
+        "name": "Kitasan Black (Umamusume)",
+        "simple_name": "Kitasan Black",
+        "image": ""
+      },
+      {
+        "name": "Curren Chan (Umamusume)",
+        "simple_name": "Curren Chan",
+        "image": ""
+      },
+      {
+        "name": "Sirius Symboli (Umamusume)",
+        "simple_name": "Sirius Symboli",
+        "image": ""
+      },
+      {
+        "name": "Daiwa Scarlet (Umamusume)",
+        "simple_name": "Daiwa Scarlet",
+        "image": ""
+      },
+      {
+        "name": "Manhattan Cafe (Umamusume)",
+        "simple_name": "Manhattan Cafe",
+        "image": ""
+      },
+      {
+        "name": "Silence Suzuka (Umamusume)",
+        "simple_name": "Silence Suzuka",
+        "image": ""
+      },
+      {
+        "name": "Grass Wonder (Umamusume)",
+        "simple_name": "Grass Wonder",
+        "image": ""
+      },
+      {
+        "name": "Special Week (Umamusume)",
+        "simple_name": "Special Week",
+        "image": ""
+      },
+      {
+        "name": "Rice Shower (Umamusume)",
+        "simple_name": "Rice Shower",
+        "image": ""
+      },
+      {
+        "name": "Smart Falcon (Umamusume)",
+        "simple_name": "Smart Falcon",
+        "image": ""
+      },
+      {
+        "name": "Agnes Tachyon (Umamusume)",
+        "simple_name": "Agnes Tachyon",
+        "image": ""
+      },
+      {
+        "name": "Gold Ship (Umamusume)",
+        "simple_name": "Gold Ship",
+        "image": ""
+      },
+      {
+        "name": "Tokai Teio (Umamusume)",
+        "simple_name": "Tokai Teio",
+        "image": ""
+      },
+      {
+        "name": "Mejiro Mcqueen (Umamusume)",
+        "simple_name": "Mejiro Mcqueen",
+        "image": ""
+      },
+      {
+        "name": "Fine Motion (Umamusume)",
+        "simple_name": "Fine Motion",
+        "image": ""
+      },
+      {
+        "name": "Nice Nature (Umamusume)",
+        "simple_name": "Nice Nature",
+        "image": ""
+      },
+      {
+        "name": "Twin Turbo (Umamusume)",
+        "simple_name": "Twin Turbo",
+        "image": ""
+      },
+      {
+        "name": "Cheval Grand (Umamusume)",
+        "simple_name": "Cheval Grand",
+        "image": ""
+      },
+      {
+        "name": "Symboli Rudolf (Umamusume)",
+        "simple_name": "Symboli Rudolf",
+        "image": ""
+      },
+      {
+        "name": "Katsuragi Ace (Umamusume)",
+        "simple_name": "Katsuragi Ace",
+        "image": ""
+      },
+      {
+        "name": "Admire Vega (Umamusume)",
+        "simple_name": "Admire Vega",
+        "image": ""
+      },
+      {
+        "name": "Ikuno Dictus (Umamusume)",
+        "simple_name": "Ikuno Dictus",
+        "image": ""
+      },
+      {
+        "name": "Vivlos (Umamusume)",
+        "simple_name": "Vivlos",
+        "image": ""
+      },
+      {
+        "name": "Tanino Gimlet (Umamusume)",
+        "simple_name": "Tanino Gimlet",
+        "image": ""
+      },
+      {
+        "name": "Eishin Flash (Umamusume)",
+        "simple_name": "Eishin Flash",
+        "image": ""
+      },
+      {
+        "name": "Nakayama Festa (Umamusume)",
+        "simple_name": "Nakayama Festa",
+        "image": ""
+      },
+      {
+        "name": "Mayano Top Gun (Umamusume)",
+        "simple_name": "Mayano Top Gun",
+        "image": ""
+      },
+      {
+        "name": "Vodka (Umamusume)",
+        "simple_name": "Vodka",
+        "image": ""
+      },
+      {
+        "name": "Mihono Bourbon (Umamusume)",
+        "simple_name": "Mihono Bourbon",
+        "image": ""
+      },
+      {
+        "name": "Matikane Tannhauser (Umamusume)",
+        "simple_name": "Matikane Tannhauser",
+        "image": ""
+      },
+      {
+        "name": "King Halo (Umamusume)",
+        "simple_name": "King Halo",
+        "image": ""
+      },
+      {
+        "name": "Mr. C.B. (Umamusume)",
+        "simple_name": "Mr. C.B.",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Vocaloid",
+    "key": "worlds.vocaloid",
+    "characters": [
+      {
+        "name": "Hatsune Miku",
+        "simple_name": "Hatsune Miku",
+        "image": ""
+      },
+      {
+        "name": "Kagamine Rin",
+        "simple_name": "Kagamine Rin",
+        "image": ""
+      },
+      {
+        "name": "Yuki Miku",
+        "simple_name": "Yuki Miku",
+        "image": ""
+      },
+      {
+        "name": "Kagamine Len",
+        "simple_name": "Kagamine Len",
+        "image": ""
+      },
+      {
+        "name": "Meiko (Vocaloid)",
+        "simple_name": "Meiko",
+        "image": ""
+      },
+      {
+        "name": "Kaito (Vocaloid)",
+        "simple_name": "Kaito",
+        "image": ""
+      },
+      {
+        "name": "Megurine Luka",
+        "simple_name": "Megurine Luka",
+        "image": ""
+      },
+      {
+        "name": "Gumi",
+        "simple_name": "Gumi",
+        "image": ""
+      },
+      {
+        "name": "Ia (Vocaloid)",
+        "simple_name": "Ia",
+        "image": ""
+      },
+      {
+        "name": "Flower (Vocaloid)",
+        "simple_name": "Flower",
+        "image": ""
+      },
+      {
+        "name": "Otomachi Una",
+        "simple_name": "Otomachi Una",
+        "image": ""
+      },
+      {
+        "name": "Flower (Vocaloid4)",
+        "simple_name": "Flower",
+        "image": ""
+      },
+      {
+        "name": "25-Ji Miku",
+        "simple_name": "25-Ji Miku",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Marvel",
+    "key": "worlds.marvel",
+    "characters": [
+      {
+        "name": "Spider-Gwen",
+        "simple_name": "Spider-Gwen",
+        "image": ""
+      },
+      {
+        "name": "Gwen Stacy",
+        "simple_name": "Gwen Stacy",
+        "image": ""
+      },
+      {
+        "name": "Spider-Man",
+        "simple_name": "Spider-Man",
+        "image": ""
+      },
+      {
+        "name": "Miguel O'Hara",
+        "simple_name": "Miguel O'Hara",
+        "image": ""
+      },
+      {
+        "name": "Spider-Man (2099)",
+        "simple_name": "Spider-Man",
+        "image": ""
+      },
+      {
+        "name": "Peni Parker",
+        "simple_name": "Peni Parker",
+        "image": ""
+      },
+      {
+        "name": "Venom (Marvel)",
+        "simple_name": "Venom",
+        "image": ""
+      },
+      {
+        "name": "Hulkling",
+        "simple_name": "Hulkling",
+        "image": ""
+      },
+      {
+        "name": "Wiccan",
+        "simple_name": "Wiccan",
+        "image": ""
+      },
+      {
+        "name": "Steve Rogers",
+        "simple_name": "Steve Rogers",
+        "image": ""
+      },
+      {
+        "name": "Captain America",
+        "simple_name": "Captain America",
+        "image": ""
+      },
+      {
+        "name": "Tony Stark",
+        "simple_name": "Tony Stark",
+        "image": ""
+      },
+      {
+        "name": "Iron Man",
+        "simple_name": "Iron Man",
+        "image": ""
+      },
+      {
+        "name": "Miles Morales",
+        "simple_name": "Miles Morales",
+        "image": ""
+      },
+      {
+        "name": "James Buchanan Barnes",
+        "simple_name": "James Buchanan Barnes",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Dc Comics",
+    "key": "worlds.dc_comics",
+    "characters": [
+      {
+        "name": "Raven (Dc)",
+        "simple_name": "Raven",
+        "image": ""
+      },
+      {
+        "name": "Harley Quinn",
+        "simple_name": "Harley Quinn",
+        "image": ""
+      },
+      {
+        "name": "Batman",
+        "simple_name": "Batman",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Hunter X Hunter",
+    "key": "worlds.hunter_x_hunter",
+    "characters": [
+      {
+        "name": "Killua Zoldyck",
+        "simple_name": "Killua Zoldyck",
+        "image": ""
+      },
+      {
+        "name": "Kurapika",
+        "simple_name": "Kurapika",
+        "image": ""
+      },
+      {
+        "name": "Gon Freecss",
+        "simple_name": "Gon Freecss",
+        "image": ""
+      },
+      {
+        "name": "Chrollo Lucilfer",
+        "simple_name": "Chrollo Lucilfer",
+        "image": ""
+      },
+      {
+        "name": "Hisoka Morow",
+        "simple_name": "Hisoka Morow",
+        "image": ""
+      },
+      {
+        "name": "Neferpitou",
+        "simple_name": "Neferpitou",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Mahou Shoujo Madoka Magica",
+    "key": "worlds.mahou_shoujo_madoka_magica",
+    "characters": [
+      {
+        "name": "Kaname Madoka",
+        "simple_name": "Kaname Madoka",
+        "image": ""
+      },
+      {
+        "name": "Akemi Homura",
+        "simple_name": "Akemi Homura",
+        "image": ""
+      },
+      {
+        "name": "Miki Sayaka",
+        "simple_name": "Miki Sayaka",
+        "image": ""
+      },
+      {
+        "name": "Tomoe Mami",
+        "simple_name": "Tomoe Mami",
+        "image": ""
+      },
+      {
+        "name": "Ultimate Madoka",
+        "simple_name": "Ultimate Madoka",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Neon Genesis Evangelion",
+    "key": "worlds.neon_genesis_evangelion",
+    "characters": [
+      {
+        "name": "Souryuu Asuka Langley",
+        "simple_name": "Souryuu Asuka Langley",
+        "image": ""
+      },
+      {
+        "name": "Ayanami Rei",
+        "simple_name": "Ayanami Rei",
+        "image": ""
+      },
+      {
+        "name": "Ikari Shinji",
+        "simple_name": "Ikari Shinji",
+        "image": ""
+      },
+      {
+        "name": "Makinami Mari Illustrious",
+        "simple_name": "Makinami Mari Illustrious",
+        "image": ""
+      },
+      {
+        "name": "Katsuragi Misato",
+        "simple_name": "Katsuragi Misato",
+        "image": ""
+      },
+      {
+        "name": "Eva 02",
+        "simple_name": "Eva 02",
+        "image": ""
+      },
+      {
+        "name": "Eva 01",
+        "simple_name": "Eva 01",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Bang Dream!",
+    "key": "worlds.bang_dream",
+    "characters": [
+      {
+        "name": "Tsurumaki Kokoro",
+        "simple_name": "Tsurumaki Kokoro",
+        "image": ""
+      },
+      {
+        "name": "Hikawa Sayo",
+        "simple_name": "Hikawa Sayo",
+        "image": ""
+      },
+      {
+        "name": "Hikawa Hina",
+        "simple_name": "Hikawa Hina",
+        "image": ""
+      },
+      {
+        "name": "Mitake Ran",
+        "simple_name": "Mitake Ran",
+        "image": ""
+      },
+      {
+        "name": "Chihaya Anon",
+        "simple_name": "Chihaya Anon",
+        "image": ""
+      },
+      {
+        "name": "Maruyama Aya",
+        "simple_name": "Maruyama Aya",
+        "image": ""
+      },
+      {
+        "name": "Nagasaki Soyo",
+        "simple_name": "Nagasaki Soyo",
+        "image": ""
+      },
+      {
+        "name": "Matsubara Kanon",
+        "simple_name": "Matsubara Kanon",
+        "image": ""
+      },
+      {
+        "name": "Shirasagi Chisato",
+        "simple_name": "Shirasagi Chisato",
+        "image": ""
+      },
+      {
+        "name": "Okusawa Misaki",
+        "simple_name": "Okusawa Misaki",
+        "image": ""
+      },
+      {
+        "name": "Imai Lisa",
+        "simple_name": "Imai Lisa",
+        "image": ""
+      },
+      {
+        "name": "Aoba Moca",
+        "simple_name": "Aoba Moca",
+        "image": ""
+      },
+      {
+        "name": "Ichigaya Arisa",
+        "simple_name": "Ichigaya Arisa",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Zootopia",
+    "key": "worlds.zootopia",
+    "characters": [
+      {
+        "name": "Judy Hopps",
+        "simple_name": "Judy Hopps",
+        "image": ""
+      },
+      {
+        "name": "Nick Wilde",
+        "simple_name": "Nick Wilde",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Animal Crossing",
+    "key": "worlds.animal_crossing",
+    "characters": [
+      {
+        "name": "Isabelle (Animal Crossing)",
+        "simple_name": "Isabelle",
+        "image": ""
+      },
+      {
+        "name": "Villager (Animal Crossing)",
+        "simple_name": "Villager",
+        "image": ""
+      },
+      {
+        "name": "Ankha (Animal Crossing)",
+        "simple_name": "Ankha",
+        "image": ""
+      },
+      {
+        "name": "Tom Nook (Animal Crossing)",
+        "simple_name": "Tom Nook",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Spongebob Squarepants (Series)",
+    "key": "worlds.spongebob_squarepants_series",
+    "characters": [
+      {
+        "name": "Spongebob Squarepants",
+        "simple_name": "Spongebob Squarepants",
+        "image": ""
+      },
+      {
+        "name": "Patrick Star",
+        "simple_name": "Patrick Star",
+        "image": ""
+      },
+      {
+        "name": "Squidward Tentacles",
+        "simple_name": "Squidward Tentacles",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "world": "Nier (Series)",
+    "key": "worlds.nier_series",
+    "characters": [
+      {
+        "name": "Kaine (Nier)",
+        "simple_name": "Kaine",
+        "image": ""
+      },
+      {
+        "name": "Emil (Nier)",
+        "simple_name": "Emil",
+        "image": ""
+      },
+      {
+        "name": "Nier (Young)",
+        "simple_name": "Nier",
+        "image": ""
+      },
+      {
+        "name": "2B (Nier:Automata)",
+        "simple_name": "2B",
+        "image": ""
+      }
+    ]
+  }
+]

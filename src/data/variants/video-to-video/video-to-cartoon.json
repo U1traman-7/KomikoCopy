@@ -1,0 +1,139 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Video to Cartoon",
+      "description": "Transform your videos with Video to Cartoon technology. Our advanced Video Style Transfer converts any video to cartoon, anime, manga, and manhwa styles while preserving original motion and timing.",
+      "keywords": "Video to Cartoon, Video Style Transfer, cartoon video filter, anime video generator, manga style transfer, manhwa animation, video to anime converter, animation tool, cartoon video maker, anime style video, manga video creator, video stylization, animated video generator, comic video filter, anime transformation, cartoon style transfer"
+    },
+    "hero": {
+      "title": "Video to Cartoon"
+    },
+    "whatIs": {
+      "title": "What is Video to Cartoon?",
+      "description": "Video to Cartoon transforms ordinary videos into cartoon, anime, manga, and manhwa-style animations using advanced Video Style Transfer technology. Our two-step process first applies your chosen style to a reference frame, then uses this styled frame to transform your entire video while preserving original motion and timing. Choose from 100+ styles including Studio Ghibli anime, Korean manhwa, Japanese manga, and popular cartoon aesthetics with our Video Style Transfer."
+    },
+    "examples": {
+      "title": "Video to Cartoon Examples",
+      "description": "See how our Video to Cartoon transforms videos into stunning cartoon, anime, manga, and manhwa styles while maintaining perfect motion consistency with advanced Video Style Transfer."
+    },
+    "howToUse": {
+      "title": "How to Use Video to Cartoon",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Upload any video file (MP4, MOV, AVI) up to 15 seconds and 50MB for Video to Cartoon processing. Videos longer than 15 seconds are automatically trimmed for optimal Video Style Transfer."
+        },
+        {
+          "title": "Video Style Transfer Reference",
+          "content": "We extract the first frame and apply your chosen cartoon, anime, or manga style to create a reference guide for consistent Video Style Transfer transformation."
+        },
+        {
+          "title": "Choose Artistic Style",
+          "content": "Select from over 100 preset styles like Studio Ghibli anime, Korean manhwa, Japanese manga, or create custom styles with text prompts and reference images for Video Style Transfer."
+        },
+        {
+          "title": "Generate Video to Cartoon",
+          "content": "Our Video to Cartoon transforms your complete video using the styled reference frame while preserving all original motion, expressions, and timing through advanced Video Style Transfer."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Video to Cartoon",
+      "description": "Our Video to Cartoon offers the most advanced Video Style Transfer with motion preservation, extensive style options, and transparent pricing.",
+      "features": [
+        {
+          "title": "Perfect Motion Preservation",
+          "content": "Video to Cartoon maintains every detail of original motion, facial expressions, and timing while applying cartoon, anime, or manga styles with frame-perfect Video Style Transfer consistency.",
+          "icon": "🎬"
+        },
+        {
+          "title": "100+ Video Style Transfer Options",
+          "content": "Choose from Studio Ghibli anime, Korean manhwa, Japanese manga, Disney cartoon, Naruto style, and more. Create custom Video Style Transfer with text prompts or reference images using Video to Cartoon.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professional Quality Output",
+          "content": "Generate high-definition anime and cartoon videos with consistent Video Style Transfer application, smooth transitions, and no flickering or artifacts with our Video to Cartoon.",
+          "icon": "✨"
+        },
+        {
+          "title": "Smart Cost System",
+          "content": "Transparent pricing with separate charges for Video Style Transfer and video generation. Experiment with different styles without additional video costs using Video to Cartoon.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Easy Two-Step Process",
+          "content": "Simple Video to Cartoon workflow: upload video, apply Video Style Transfer to reference frame, generate full video. No technical expertise required with real-time progress tracking.",
+          "icon": "👌"
+        },
+        {
+          "title": "Automatic Optimization",
+          "content": "Smart Video to Cartoon processing with automatic trimming, format support (MP4, MOV, AVI), and duration-based cost calculation for optimal Video Style Transfer.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Get answers to common queries about our Video to Cartoon tool.",
+      "q1": "What is Video to Cartoon?",
+      "a1": "Video to Cartoon is an AI tool that transforms ordinary videos into cartoon, anime, manga, and manhwa-style animations while preserving original motion and expressions with advanced Video Style Transfer technology.",
+      "q2": "How to use Video to Cartoon?",
+      "a2": "Using Video to Cartoon is simple! First upload your video, then choose your preferred cartoon style, and finally generate your styled video. The tool supports MP4, MOV, and AVI formats up to 50MB and 15 seconds.",
+      "q3": "How does Video to Cartoon work?",
+      "a3": "Video to Cartoon uses advanced Video Style Transfer technology to transform videos. It works by applying a chosen style to a reference frame and transferring it to the entire video, maintaining motion consistency.",
+      "q4": "What is the best video to video generator?",
+      "a4": "KomikoAI provides the best video to video generator tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Video to Cartoon, you can transform videos into engaging animations, making it perfect for users who seek creative video transformation.",
+      "q5": "Is the KomikoAI Video to Cartoon free online?",
+      "a5": "Yes, you can test out the Video to Cartoon on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Video to Cartoon?",
+      "a6": "You can use Video to Cartoon on KomikoAI to create stunning cartoon animations, convert real-life videos into anime styles, add manga aesthetics to videos, and generate unique content for social media.",
+      "q7": "Can I use Video to Cartoon on my phone?",
+      "a7": "Yes, you can use Video to Cartoon as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Video to Cartoon?",
+      "a8": "Yes, KomikoAI's Video to Cartoon allows you to export your generation in various formats, such as MP4, MOV, and AVI, for easy sharing.",
+      "q9": "Why should I use Video to Cartoon?",
+      "a9": "Using Video to Cartoon can transform your videos into captivating animations. Our tool allows you to choose from 100+ artistic styles, create custom stylizations, and effortlessly generate high-quality video transformations while maintaining original motion and expressions."
+    },
+    "cta": {
+      "title": "Transform Videos for FREE with Our Video to Cartoon Today!",
+      "description": "Create stunning cartoon-style videos with advanced Video Style Transfer technology.",
+      "buttonText": "Try Our Video to Cartoon Free"
+    }
+  },
+  "originalKeyword": "Video to Cartoon",
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon Style",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon Style",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    }
+  ],
+  "config": {
+    "defaultStyle": "cartoon"
+  },
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "faq",
+    "cta",
+    "moreAITools"
+  ]
+}

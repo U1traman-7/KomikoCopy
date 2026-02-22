@@ -1,0 +1,23 @@
+{
+  "pageTitle": "創建世界 | KomikoAI",
+  "createWorld": "創建世界",
+  "coverImage": "封面圖片",
+  "uploadCoverImage": "上傳封面圖片",
+  "worldName": "世界名稱",
+  "introduction": "簡介 ({{length}}/250)",
+  "introductionPlaceholder": "簡要介紹故事。玩家和角色會有哪些冒險？提到角色時請使用 '{character}'。",
+  "storyline": "故事劇情 ({{length}}/5000)",
+  "storylinePlaceholder": "更詳細地描述故事劇情。提到角色時請使用 '{character}'，提到玩家時請使用 'player'。",
+  "winningCondition": "勝利條件 ({{length}}/250)",
+  "winningConditionPlaceholder": "描述遊戲獲勝的條件。",
+  "rules": "規則 ({{length}}/5000)",
+  "rulesPlaceholder": "定義遊戲規則。 例如，'玩家將扮演 {character}'，或'{character}稱呼玩家為「旅人」'，或'來自 {character} 的每一行都以（瘋狂：X）開頭，X 最初設定為 100'。",
+  "createWorldButton": "創建世界",
+  "pleaseNote": "請注意：",
+  "nsfwWarning": "KomikoAI 社群嚴格禁止公開的 NSFW 內容。 任何違規行為將導致立即刪除內容，並可能導致永久禁止使用我們的平台。 讓我們一起努力，為大家維護一個乾淨且安全的空間。🤗",
+  "errorWorldName": "請輸入世界名稱",
+  "errorIntroduction": "請輸入簡介",
+  "errorStoryline": "請輸入故事劇情",
+  "errorCoverImage": "請上傳封面圖片",
+  "errorNSFW": "KomikoAI 社群嚴格禁止 NSFW 內容。 請協助我們為大家維護一個乾淨且安全的空間。"
+}

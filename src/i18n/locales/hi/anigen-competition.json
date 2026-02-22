@@ -1,0 +1,173 @@
+{
+  "hero": {
+    "title": "AniGen",
+    "subtitle": "全球首届 AI 短片动画大赛",
+    "sponsors": "赞助商：",
+    "btnRules": "了解完整规则",
+    "btnSubmit": "提交您的作品"
+  },
+  "about": {
+    "subtitle": "AI 与动画的奇妙碰撞",
+    "title": "关于本次大赛",
+    "description1": "欢迎参加 AniGen，这是由 KomikoAI、Hedra、Hailuo 和 AniShort 联合举办的全球首个竖屏 AI 短片动画大赛。我们将尖端 AI 技术与创意故事巧妙融合，共同开创动画新纪元。",
+    "description2": "AniGen 致力于发掘和推广动画领域冉冉升起的新星。我们诚挚邀请您运用 AI 技术，拓展动画的无限可能。无论您是 AI 内容创作者、勇于探索新技术的传统动画师、才华横溢的编剧，还是充满热情的动画爱好者，这都是一个绝佳的机会，让您尽情展现才华，赢取丰厚奖金、免费 AI 工具订阅，甚至有机会在 AniShort 流媒体平台发布您的作品。"
+  },
+  "prizes": {
+    "title": "奖项设置",
+    "animation": {
+      "title": "动画赛道",
+      "grandPrize": "一等奖 (1 名)",
+      "grandPrizeDetails": [
+        "3,000 美元现金奖励",
+        "Hailuo、Hedra 和 KomikoAI 6 个月免费专业版订阅",
+        "有机会获得资金支持，进一步开发动画作品，并在 AniShort 流媒体平台进行展示"
+      ],
+      "secondPrize": "二等奖 (1 名)",
+      "secondPrizeDetails": "1,500 美元现金奖励 + AI 工具 3 个月专业版订阅",
+      "runnerUp": "优胜奖 (2 名)",
+      "runnerUpDetails": "500 美元现金奖励 + AI 工具 2 个月专业版订阅",
+      "excellence": "卓越奖 (30 名创作者)",
+      "excellenceDetails": "AI 工具 1 个月专业版订阅",
+      "note": "获奖作品将在赞助商的社交媒体渠道上进行推广，并有机会受邀在 AniShort 流媒体平台上发布，甚至可能获得资金或工作室的支持，以进一步开发其动画项目。"
+    },
+    "scriptwriting": {
+      "title": "剧本创作赛道",
+      "grandPrize": "一等奖 (1 名)",
+      "grandPrizeDetails": "1,000 美元现金奖励",
+      "excellence": "卓越奖 (3 名创作者)",
+      "excellenceDetails": "100 美元现金奖励",
+      "note": "精选剧本有机会被改编成动画，并在 AniShort 流媒体平台上发布，并分享收益。"
+    }
+  },
+  "judges": {
+    "label": "认识我们的评委",
+    "title": "大赛评委",
+    "description": "我们荣幸地邀请到以下行业领袖和创意先锋组成本次大赛的评审团：",
+    "judge1": {
+      "name": "Ben Waller",
+      "title": "Story Engine Inc. 首席创意官，编剧，《星际迷航：下层甲板》、《Roborockaylpse》。"
+    },
+    "judge2": {
+      "name": "Michael Lingelbach",
+      "title": "Hedra 创始人兼 CEO"
+    },
+    "judge3": {
+      "name": "Garrett Pollack",
+      "title": "动漫领域知名社交媒体影响者"
+    },
+    "judge4": {
+      "name": "Aiden Guo",
+      "title": "《海贼王》动画师，AI 动画创作者及影响者"
+    },
+    "judge5": {
+      "name": "Leanna Ren",
+      "title": "MiniMax 副总裁"
+    }
+  },
+  "timeline": {
+    "title": "赛事时间表",
+    "launch": {
+      "date": "2025 年 4 月 28 日",
+      "title": "大赛启动"
+    },
+    "submission": {
+      "date": "2025 年 4 月 28 日 - 5 月 20 日",
+      "title": "作品提交截止"
+    },
+    "judging": {
+      "date": "2025 年 5 月 20 日 - 6 月 1 日",
+      "title": "评审阶段"
+    },
+    "announcement": {
+      "date": "2025 年 6 月 1 日",
+      "title": "获奖名单公布"
+    }
+  },
+  "rules": {
+    "title": "参赛要求与规则",
+    "animation": {
+      "title": "动画赛道",
+      "description": "创作一部引人入胜的竖屏短片动画",
+      "format": {
+        "label": "格式：",
+        "value": "9:16 竖屏 (手机优化)，MP4"
+      },
+      "duration": {
+        "label": "时长：",
+        "value": "30 秒至 3 分钟"
+      },
+      "content": {
+        "label": "内容：",
+        "value": "动画应讲述一个完整的故事，或作为更长篇系列故事的开端。我们不接受预告片或音乐视频。"
+      },
+      "requirements": {
+        "label": "主要要求：",
+        "list": [
+          "作品创作中至少 50% 的部分需使用 AI 工具，包括：",
+          "至少一个使用 Hedra 的 Character-3 模型进行人物对话的场景",
+          "至少一个使用 KomikoAI 生成的人物/场景图像",
+          "至少一个通过 Hailuo 生成的动画片段，无论是通过 Hailuo 平台还是通过 Hedra/KomikoAI",
+          "仅限原创作品 - 严禁任何侵权行为",
+          "作品需要配有英语配音或英文字幕",
+          "请在社交媒体上发布您的作品，并标记 #AniGen @hedra_labs @KomikoAI @Hailuo_AI @AniShortApp，以便官方账号转发",
+          "参赛者必须年满 18 岁",
+          "禁止包含 NSFW 内容、仇恨言论、极端暴力或受版权保护的材料"
+        ]
+      }
+    },
+    "scriptwriting": {
+      "title": "剧本创作赛道",
+      "description": "为竖屏短片动画系列创作原创概念",
+      "format": {
+        "label": "格式：",
+        "value": "包含前 5 集剧本的概念包"
+      },
+      "duration": {
+        "label": "时长：",
+        "value": "每集时长应为 1-2 分钟，专为快节奏、引人入胜的故事讲述而设计"
+      },
+      "genre": {
+        "label": "类型：",
+        "value": "欢迎所有类型，如动作、爱情、奇幻、异世界、青春等。"
+      },
+      "requirements": {
+        "label": "要求：",
+        "list": [
+          "请提交包含标题、剧情概要、人物简介以及前 5 集完整剧本的概念包",
+          "语言：英语或附带英语翻译",
+          "仅限原创作品 - 严禁任何侵权行为",
+          "禁止包含 NSFW 内容、仇恨言论、极端暴力或受版权保护的材料"
+        ]
+      }
+    }
+  },
+  "sponsors": {
+    "title": "我们的赞助商及合作伙伴",
+    "hedra": {
+      "name": "Hedra",
+      "description": "AI 头像视频生成模型"
+    },
+    "hailuo": {
+      "name": "Hailuo",
+      "description": "AI 视频生成模型"
+    },
+    "komiko": {
+      "name": "KomikoAI",
+      "description": "AI 动画与漫画创作工具包"
+    },
+    "anishort": {
+      "name": "AniShort",
+      "description": "短动画流媒体平台"
+    }
+  },
+  "submit": {
+    "title": "加入动画的未来",
+    "description": "立即提交您的作品，引领下一波 AI 驱动的动画浪潮。",
+    "btnSubmit": "提交您的作品",
+    "btnRules": "查看参赛规则"
+  },
+  "meta": {
+    "title": "AniGen 大赛 - AI 短片动画大赛 | 赢取 6,000 美元现金及免费 AI 工具订阅",
+    "description": "加入由 KomikoAI、Hedra、Hailuo 和 AniShort 联合举办的全球首届竖屏 AI 短片动画大赛。"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "title": "AIコミックジェネレーター - KomikoAI",
+    "description": "ストーリーのアイデアからコミックを自動生成できるAIコミックジェネレーター。KomikoAIを使って、AIでコミック・マンガ・マンファ作品を簡単に作れます。"
+  },
+  "form": {
+    "title": "AI Comic Generator AIコミックジェネレーター",
+    "subtitle": "アイデアを入力するだけで、コミック・マンガ・マンファがAIでサクッと完成。スタイルを選んで、あとはAIにおまかせ！",
+    "idea_label": "コミックのアイデア",
+    "idea_placeholder": "あなたのコミックアイデアを入力してください…",
+    "style_label": "コミックスタイル",
+    "style_placeholder": "コミックスタイルを選択",
+    "styles": {
+      "anime": "アニメ",
+      "manga": "マンガ",
+      "manhwa": "マンファ",
+      "american": "アメリカン",
+      "cartoon": "カートゥーン",
+      "realistic": "リアル"
+    },
+    "type_label": "コミックタイプ",
+    "type_placeholder": "コミックタイプを選択",
+    "types": {
+      "normal": "ノーマル",
+      "funny": "おもしろ系",
+      "meme": "ミーム"
+    },
+    "layout_label": "コミックレイアウト",
+    "mode_label": "生成モード",
+    "modes": {
+      "gemini": "Gemini",
+      "gemini_cost": "1コマあたり{{cost}}zap",
+      "flux": "Flux",
+      "flux_cost": "1コマあたり{{cost}}zap"
+    },
+    "narration_checkbox": "ナレーションを追加する",
+    "generate_button": "コミックを生成"
+  },
+  "buttons": {
+    "edit": "編集",
+    "download": "ダウンロード",
+    "share": "シェア"
+  },
+  "preview_alt": "コミックプレビュー",
+  "preview_text": "コミックのアイデアを入力して「生成」をクリックするとコミックが作成されます。",
+  "narration": "ナレーション",
+  "idea_input": {
+    "label": "あなたのストーリーのアイデアは？",
+    "custom_placeholder": "ストーリーと希望のアートスタイルを入力してください"
+  },
+  "login_to_generate": "生成",
+  "edit_button": "編集",
+  "comics_generated": "KomikoAIでこれまでに{{count}}件のコミックが生成されました",
+  "comic_type": {
+    "normal": {
+      "label": "🙂 ノーマル",
+      "text": "ノーマル"
+    },
+    "meme": {
+      "label": "🤣 ミーム",
+      "text": "ミーム"
+    }
+  },
+  "comic_style": {
+    "anime": "アニメ",
+    "american": "アメリカン",
+    "manga": "マンガ",
+    "custom": "カスタム",
+    "manhwa": "マンファ"
+  },
+  "seo": {
+    "main_heading": "AIコミックジェネレーターとは？",
+    "main_description": "AIコミックジェネレーターは、アイデアを入力するだけでコミック・マンガ・ミームを簡単に生成できるAIツールです。絵が描けなくても、AIが視覚表現やナレーションを自動で作成。シンプルな発想から、魅力的な作品をすぐに形にできます。KomikoAIなら、Hugging FaceのAI Comic Factoryより高品質な生成が可能です。"
+  },
+  "how_to_use": {
+    "heading": "AIコミックジェネレーターの使い方",
+    "step1": {
+      "title": "ステップ1：アイデアを入力",
+      "content": "コンセプト・ストーリー・ミームのネタなど何でもOK。短い文章でも、詳細な説明でも対応できます。"
+    },
+    "step2": {
+      "title": "ステップ2：スタイルを選ぶ",
+      "content": "マンガ・アニメ・アメリカンコミックなど、好きなアートスタイルを選択してください。"
+    },
+    "step3": {
+      "title": "ステップ3：AIが生成",
+      "content": "「コミックを生成」をクリックすると、AIがコマ割り・絵・セリフ・ナレーションを自動作成します。数秒で完成！"
+    },
+    "step4": {
+      "title": "ステップ4：書き出し & シェア",
+      "content": "高品質なコミックをダウンロードして、SNSに投稿したり個人制作に使えます。"
+    }
+  },
+  "why_use": {
+    "heading": "AIコミックジェネレーターを使うメリット",
+    "description": "KomikoAIのコミックジェネレーターは、初心者からプロまで幅広く使える、自由度とカスタマイズ性の高いコミック制作ツールです。",
+    "features": {
+      "beginner_friendly": {
+        "title": "初心者でも簡単",
+        "content": "絵が描けなくても大丈夫！アイデアを入力するだけでコミックが1クリックで完成します。"
+      },
+      "custom_art": {
+        "title": "カスタムアートスタイル",
+        "content": "アニメ・マンガ・マンファ・アメコミのほか、プロンプトで独自のスタイルも指定できます。"
+      },
+      "amazing_layouts": {
+        "title": "豊富なレイアウト",
+        "content": "よくデザインされたレイアウトから選ぶだけで、作品の完成度がグッと上がります。"
+      },
+      "tell_story": {
+        "title": "セリフとナレーション",
+        "content": "セリフ・吹き出し・ナレーションをKomikoAIが自動追加。キャラクターのセリフを通してエキサイティングなストーリーを作りましょう！"
+      },
+      "ai_efficiency": {
+        "title": "AIによる効率化",
+        "content": "絵・構図・セリフの作成をAIが担当。制作時間を大幅短縮できます。"
+      },
+      "high_quality": {
+        "title": "高品質な出来上がり",
+        "content": "SNS投稿にも印刷にも適した高画質でダウンロード可能。"
+      },
+      "creative_freedom": {
+        "title": "自由にアレンジ可能",
+        "content": "細かい修正やリトライも自由。気に入るまで生成できます。"
+      },
+      "accessible": {
+        "title": "どこでも使える",
+        "content": "AIコミックジェネレーターはクラウドベースなので、デバイスを問わずどこでもコミック作成が可能。"
+      },
+      "share_comics": {
+        "title": "簡単シェア",
+        "content": "Instagram、X(Twitter)、Facebookなどへ簡単に投稿できます。KomikoAIのコミックジェネレーターはミーム作成にも最適！"
+      }
+    }
+  },
+  "faq": {
+    "heading": "AIコミックジェネレーターについてよくある質問",
+    "description": "KomikoAIのAIコミック生成ツールの仕組みや魅力をもっと詳しくチェック！",
+    "edit_after_creation": {
+      "question": "生成後に編集できますか？",
+      "answer": "はい！画像変更・吹き出し編集・レイアウト変更など、右上の「編集」ボタンからAIキャンバスに移動して修正できます。"
+    },
+    "what_is_comic_generator": {
+      "question": "AIコミックジェネレーターとは？",
+      "answer": "AIコミックジェネレイーターは入力したアイデアをもとに、AIが数秒でコミックを自動生成してくれるツールです。絵もセリフもAIが作成するため、冒険ものからギャグ、ヒーローものまで何でも簡単に作れます。"
+    },
+    "what_is_manga_generator": {
+      "question": "AIマンガジェネレーターとは？",
+      "answer": "AIマンガジェネレーターはマンガ専用スタイルで生成するAIツールです。少年漫画・少女漫画・青年漫画・異世界系など、幅広いジャンルを作成できます。"
+    },
+    "what_is_manhwa_generator": {
+      "question": "AIマンファジェネレーターとは？",
+      "answer": "AIマンファジェネレーターは、AIの力で自動的にマンファを生成する革新的なツールです。アイデアを入力し、マンファスタイルを選ぶだけで、AIが数秒でマンファを生成！アイデアに基づいてビジュアルとセリフを自動生成することで、クリエイティブなプロセスを簡略化します。アクション、ロマンス、コメディ、ホラー、異世界など、あらゆるジャンルのマンファが作れます。"
+    },
+    "how_to_make_comics": {
+      "question": "どうやってコミックを作れますか？",
+      "answer": "AIコミックジェネレーターにストーリーを入力するだけ！AIが絵と吹き出しを付けてコミックを自動で完成させます。"
+    },
+    "how_it_works": {
+      "question": "AIコミックジェネレーターはどう動きますか？",
+      "answer": "アイデアやコンセプトを解析し、選んだスタイルに合わせてコマ割り・絵・セリフをAIが生成します。"
+    },
+    "art_styles": {
+      "question": "どんなアートスタイルに対応していますか？",
+      "answer": "KomikoAIはアニメ、マンガ、アメコミ、カスタムアートなど、多くのスタイルに対応しています。"
+    },
+    "what_comics_can_i_generate": {
+      "question": "どんなコミックが作れますか？",
+      "answer": "アニメ風、異世界、回帰系、少年漫画、少女漫画、青年漫画など、あらゆるジャンルのコミックを作成できます。"
+    },
+    "commercial_use": {
+      "question": "生成したコミックを商用利用できますか？",
+      "answer": "はい！KomikoAIで作成した作品は利用規約の範囲で商用利用が可能です。"
+    },
+    "need_drawing_skills": {
+      "question": "絵が描けなくても使えますか？",
+      "answer": "もちろん！初心者でもアイディアさえあればすぐにコミックが作れます。"
+    },
+    "for_memes": {
+      "question": "ミーム作成にも使えますか？",
+      "answer": "はい!ミーム専用モードでSNS向けの面白い画像を簡単に作れます。"
+    },
+    "is_free": {
+      "question": "無料で使えますか？",
+      "answer": "KomikoAIは無料プランがあります（使用回数に制限あり）。もっと使いたい場合は有料プランをご検討ください。"
+    },
+    "share_online": {
+      "question": "SNSでシェアできますか？",
+      "answer": "はい！生成したコミックをダウンロードしてInstagram、X(Twitter)、Facebookなどに投稿できます。KomikoAIなら、SNSでシェアしやすいミームも簡単に作れます。"
+    },
+    "custom_art_styles": {
+      "question": "カスタムアートスタイルは作れますか？",
+      "answer": "はい！カラースタイルや描写方法を自由に指定できます。"
+    },
+    "title": "よくある質問",
+    "what_is_manhwa_generator　AIマンファジェネレーターとは？": {
+      "question": "AIマンファジェネレーターとは？",
+      "answer": "AIマンファジェネレーターはマンファ（韓国風漫画）をAIで生成するツールです。アクション・恋愛・コメディ・ホラー・異世界系など、幅広い作品を作れます。"
+    }
+  },
+  "date": {
+    "today": "本日",
+    "yesterday": "前日"
+  },
+  "examples": {
+    "title": "コミック例"
+  },
+  "auto_post": "自動投稿"
+}

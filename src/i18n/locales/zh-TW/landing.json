@@ -1,0 +1,268 @@
+{
+  "hero": {
+    "title": "實現您的動漫及漫畫創意",
+    "subtitle": "將您的夢想視覺化，讓故事成真——設計角色，生成藝術，並利用AI製作動畫場景",
+    "create_now_button": "立即免費創作",
+    "join_discord_button": "加入我們的 Discord"
+  },
+  "section2": {
+    "tagline": "KomikoAI：生成一致的角色",
+    "title": "一致的角色設計",
+    "description": {
+      "part1": "透過我們廣泛的角色資料庫，確保您的漫畫角色一致性。",
+      "part2": "您也可以",
+      "part3": "並在您的圖像生成和漫畫創作中使用它們，以確保一致的角色外觀。"
+    },
+    "create_character_link": "創建您自己的角色",
+    "create_character_title": "創建角色 | KomikoAI",
+    "create_now_button": "立即免費創作",
+    "create_now_title": "立即創作您的故事 | KomikoAI",
+    "image_alt": "在 KomikoAI 上創建一致的角色設計"
+  },
+  "section3": {
+    "tagline": "KomikoAI：AI 漫畫工作室",
+    "title": "在畫布上自由創作",
+    "description": {
+      "part1": "釋放您的創造力，並在我們由 AI 驅動的畫布上創作漫畫、Manhwa 和漫畫！",
+      "part2": "使用我們的 AI 文字轉圖像生成器生成圖像，在無限畫布上自由佈局您的漫畫分格，並添加對話氣泡和效果來增強您的故事講述。"
+    },
+    "create_comics_title": "在畫布上創作漫畫 | KomikoAI",
+    "create_now_button": "立即免費創作",
+    "create_now_title": "立即創作您的故事 | KomikoAI",
+    "image_alt": "在無限畫布上用 AI 創作漫畫"
+  },
+  "section4": {
+    "tagline": "KomikoAI：適用於插畫家、藝術家和動畫師的 AI 工具",
+    "title": "使用 AI 進行專業藝術創作",
+    "description": {
+      "intro": "KomikoAI 提供了強大的 AI 工具來進行專業藝術創作：",
+      "feature1": "用於即時藝術品創作的文字轉圖像生成",
+      "feature2": "線稿和漫畫著色，可節省數小時的手動工作",
+      "feature3": "用於獲得水晶般清晰效果的高品質圖像放大",
+      "feature4": "背景移除和重新打光，以實現靈活的圖像編輯",
+      "conclusion": "無論您是專業藝術家還是剛入門，我們的 AI 工具都能幫助您比以往更快地創作令人驚嘆的插圖、漫畫和動畫。"
+    },
+    "colorize_title": "用 AI 為線稿著色 | KomikoAI",
+    "create_now_button": "立即免費創作",
+    "create_now_title": "立即創作您的故事 | KomikoAI",
+    "image_alt": "在 KomikoAI 上創建一致的角色設計"
+  },
+  "section5": {
+    "tagline": "KomikoAI：用 AI 製作動畫",
+    "title": "關鍵影格到動畫生成",
+    "description": {
+      "part1": "使用業界領先的 AI 模型（如 Veo、Kling、Hailuo、Pixverse 等）將您的關鍵影格轉換為流暢、高品質的動畫。",
+      "part2": "使用 AI 驅動的中間影格和影片放大工具來加速您的專業動畫工作流程。"
+    },
+    "animation_title": "AI 動畫生成器 | KomikoAI",
+    "create_now_button": "立即免費創作",
+    "create_now_title": "立即創作您的故事 | KomikoAI",
+    "image_alt": "在 KomikoAI 上生成 AI 動畫影片"
+  },
+  "features": {
+    "title": "一站式 AI 創作平台",
+    "subtitle": "探索專業的 AI 工具，以加速您的插圖、漫畫、漫畫和動畫創作"
+  },
+  "testimonials": {
+    "title": "使用者怎麼說",
+    "subtitle": "看看 KomikoAI 如何幫助我們的使用者創作令人驚嘆的漫畫和動畫。",
+    "testimonial1": {
+      "name": "Lina K",
+      "title": "Tarsis Animation, 創意總監",
+      "content": "KomikoAI 徹底改變了我們創作動畫的方式。我們的製作時間縮短了一半，而且我們現在可以將更複雜的場景變為現實，而不會遇到通常的麻煩。這對我們的工作室來說是一個遊戲規則改變者。"
+    },
+    "testimonial2": {
+      "name": "Salmonism",
+      "title": "漫畫家",
+      "content": "著色過去需要我幾個小時，現在只需要幾秒鐘。KomikoAI 的 AI 線稿著色工具讓我專注於故事講述，而不是迷失在乏味的工作中。"
+    },
+    "testimonial3": {
+      "name": "Tristan B",
+      "title": "Nebula Studios 創辦人",
+      "content": "從角色設計到故事版和動畫，KomikoAI 節省了我們的時間，並使我們的工作更具創造力。我們的團隊喜歡它，我無法想像回到過去的方式。"
+    },
+    "testimonial4": {
+      "name": "VentiVenti",
+      "title": "AI 漫畫創作者",
+      "content": "我一直想創作原神粉絲漫畫，但從來沒有時間學習如何繪畫。KomikoAI 的 AI 工具使這成為可能 - 我可以按照我所想像的將我的故事變成現實。"
+    },
+    "testimonial5": {
+      "name": "John D",
+      "title": "獨立動畫師",
+      "content": "KomikoAI 將我的動畫提升到了一個全新的水平。我可以在過去所需時間的一小部分內製作高品質的作品。KomikoAI 將整個動畫團隊打包到一個強大的工具中。"
+    }
+  },
+  "faq": {
+    "title": "常見問題",
+    "what_is_komiko": {
+      "question": "什麼是 KomikoAI？",
+      "answer": "KomikoAI 是一個由 AI 驅動的平台，可讓您在 AI 的幫助下創作漫畫、Manhwa、漫畫和動畫。它提供了一套工具，可幫助您在幾分鐘內（而不是幾天）創建專業品質的漫畫、Manhwa 和動畫。"
+    },
+    "what_tools": {
+      "question": "KomikoAI 提供哪些工具？",
+      "answer": "KomikoAI 提供了廣泛的 AI 工具，可幫助您創建專業品質的漫畫、Manhwa 和動畫。它包括角色創建、無限畫布、AI 漫畫生成器、線稿著色、漫畫著色、中間影格、影片放大、影格插值等。"
+    },
+    "how_comic_creation_works": {
+      "question": "KomikoAI 的 AI 漫畫創作如何運作？",
+      "answer": "KomikoAI 使用先進的 AI 技術來幫助您生成漫畫作品。只需輸入您的故事想法，我們的 AI 就會為您生成具有一致角色、對話氣泡和分格佈局的漫畫。"
+    },
+    "is_free": {
+      "question": "KomikoAI 可以免費使用嗎？",
+      "answer": "是的，KomikoAI 提供免費方案，可讓您試用我們的基本功能。我們還提供具有高級功能、更高解析度輸出和更多世代的進階方案，供專業創作者使用。"
+    },
+    "manga_anime_style": {
+      "question": "我可以使用 KomikoAI 創作漫畫和動畫風格的藝術作品嗎？",
+      "answer": "當然可以！KomikoAI 專門從事漫畫、動畫和 Manhwa 藝術風格。我們的 AI 已經接受過廣泛的動畫、漫畫、Manhwa 和漫畫藝術作品的訓練，以確保正宗的日本和韓國漫畫美學。"
+    },
+    "what_makes_different": {
+      "question": "是什麼讓 KomikoAI 與其他 AI 藝術工具不同？",
+      "answer": "KomikoAI 專為漫畫和動畫創作而設計，提供專業功能，如角色一致性、分格佈局工具、對話氣泡生成和動畫功能。我們的平台為數位漫畫和動畫創作提供端到端解決方案。"
+    },
+    "need_artistic_skills": {
+      "question": "我需要藝術技能才能使用 KomikoAI 嗎？",
+      "answer": "不需要任何藝術經驗！雖然藝術家可以使用我們的工具加快他們的工作流程，但 KomikoAI 旨在幫助任何人創作看起來專業的漫畫和動畫，無論他們的藝術背景如何。"
+    },
+    "commercial_projects": {
+      "question": "我可以使用 KomikoAI 進行商業專案嗎？",
+      "answer": "是的，KomikoAI 的進階方案包括商業使用權。您擁有使用我們的平台創作的藝術作品的所有權利，使其非常適合專業漫畫家和動畫工作室。"
+    },
+    "support": {
+      "question": "KomikoAI 提供哪些類型的支援？",
+      "answer": "我們通過我們的 Discord 社群、文件、影片教學和專門的客戶服務提供全面的支援。加入我們的 Discord 社群，學習技巧、分享您的作品，並在需要時獲得幫助。"
+    }
+  },
+  "cta": {
+    "title": "釋放你的創造力",
+    "subtitle": "立即使用 KomikoAI AI 將您的想法轉化為驚人的漫畫和動畫",
+    "create_now_button": "立即免費創作",
+    "join_discord_button": "加入我們的 Discord"
+  },
+  "create_now": "立即創作",
+  "interactive_menu": {
+    "click_select": "點擊以選擇",
+    "input_placeholder": "在這裡輸入您的靈感...",
+    "input_placeholder_short": "輸入您的想法...",
+    "character_placeholder": "設計您的角色（例如：綠髮精靈耳的魔法少女）",
+    "character_placeholder_short": "角色概念（例如：忍者貓）",
+    "comic_placeholder": "創作您的故事（例如：超級英雄從高樓救出貓咪）",
+    "comic_placeholder_short": "故事概念（例如：星際海盜）",
+    "anime_placeholder": "創作您的動漫藝術作品（例如：持有發光武士刀的賽博朋克武士）",
+    "anime_placeholder_short": "動漫藝術概念（例如：賽博朋克武士）",
+    "animation_placeholder": "創作您的動畫作品（例如：忍者貓和星際海盜搏鬥）",
+    "animation_placeholder_short": "動畫概念（例如：忍者貓 vs 星際海盜）",
+    "title": "點擊切換類別",
+    "character_card": {
+      "alt": "角色設計",
+      "title": "角色"
+    },
+    "comic_card": {
+      "alt": "故事漫畫",
+      "title": "漫畫"
+    },
+    "anime_card": {
+      "alt": "動漫藝術",
+      "title": "動漫藝術"
+    },
+    "animation_card": {
+      "alt": "動畫",
+      "title": "動畫"
+    },
+    "button": {
+      "choose_type": "選擇類別",
+      "create_character": "創建角色",
+      "create_comic": "創建漫畫",
+      "create_animation": "創建動畫",
+      "create_anime": "創建動漫藝術"
+    },
+    "see_more": "免費開始"
+  },
+  "stats": {
+    "active_creators": "100K+ 活躍創作者",
+    "creations_made": "創作總量超過100K件",
+    "trusted_professionals": "受到專業人士的信賴"
+  },
+  "partners": {
+    "title": "我們的合作夥伴",
+    "subtitle": "由全球領先的AI模型驅動，並獲得頂尖投資者支持"
+  },
+  "professional": {
+    "line_art_colorization": {
+      "title": "線稿上色",
+      "short_title": "上色",
+      "description": "將您的線稿轉化為完整著色的插圖，AI精通動漫風格及光影效果。",
+      "detailed_description": "AI線稿上色功能依靠在數百萬張圖片上訓練的先進AI模型，能夠識別線稿中的圖案並應用藝術色彩。您只需上傳草圖並添加色彩提示，AI便能解讀您的藝術意圖，生成著色圖像。",
+      "features": {
+        "upload_line_art": "上傳乾淨的線稿",
+        "reference_guided": "參考引導上色",
+        "specify_colors": "指定您的顏色",
+        "high_quality": "高品質輸出"
+      }
+    },
+    "sketch_simplification": {
+      "title": "草圖簡化",
+      "short_title": "草圖",
+      "description": "將初步草圖轉化為乾淨的線稿，為簡化插圖工作流程量身打造。",
+      "detailed_description": "AI草圖簡化功能使用訓練於數百萬圖片的先進AI模型分析您的草圖結構並進行智能簡化。AI能識別關鍵線條和細節，去除不必要的噪音及過於複雜的筆觸，輸出乾淨且專業的線稿。",
+      "features": {
+        "clean_line_art": "乾淨的線稿輸出",
+        "smart_simplification": "智能簡化",
+        "time_saving": "省時高效",
+        "professional_quality": "專業品質"
+      }
+    },
+    "background_removal": {
+      "title": "背景移除",
+      "short_title": "移除背景",
+      "description": "專為動漫角色優化的精準背景去除功能，細節如髮絲亦能保留。",
+      "detailed_description": "AI背景移除依賴最先進的機器學習模型，專門針對動漫及漫畫藝術作品進行訓練，自動檢測並去除圖像背景。AI逐像素分析以確保精確的邊緣檢測，包括複雜的動漫髮型和精細設計。",
+      "features": {
+        "hair_precision": "髮絲級精準",
+        "anime_optimized": "針對動畫角色優化",
+        "transparent_png": "透明PNG格式輸出",
+        "batch_processing": "批次處理"
+      }
+    },
+    "image_upscaling": {
+      "title": "圖像升級",
+      "short_title": "升級",
+      "description": "在提升解析度的同時保留動漫藝術的風格和細節。",
+      "detailed_description": "AI驅動的升級技術精通於動漫和漫畫藝術風格，解析度可提高至原圖4倍，並保持線條清晰、色彩鮮明的藝術完整性。",
+      "features": {
+        "up_to_4x": "最高至4倍解析度",
+        "style_preservation": "風格保留",
+        "detail_enhancement": "細節增強",
+        "high_quality_export": "高品質輸出"
+      }
+    },
+    "animation_inbetweening": {
+      "title": "動畫補幀",
+      "short_title": "補幀",
+      "description": "在關鍵幀之間生成流暢過渡動畫，大幅縮短製作時間。",
+      "detailed_description": "AI動畫補幀將先進的機器學習技術應用於理解運動，並在關鍵幀之間生成自然過渡。上傳2-5個關鍵幀，添加提示以引導動畫風格，讓AI在此間創建平滑的過渡效果。",
+      "features": {
+        "upload_keyframes": "上傳2-5個關鍵幀",
+        "advanced_ai": "先進AI技術",
+        "rapid_creation": "快速動畫生成",
+        "professional_quality": "專業品質"
+      }
+    },
+    "frame_interpolation": {
+      "title": "幀插補",
+      "short_title": "插補",
+      "description": "通過生成中間幀來提高動畫幀率，創造超流暢的運動效果。",
+      "detailed_description": "AI幀插補利用人工智能在現有幀之間生成附加幀，從而實現更流暢的運動和更高的幀率。AI會分析現有帧之間的運動，並應用先進的機器學習算法來生成新的中間幀。",
+      "features": {
+        "higher_frame_rates": "更高的幀率",
+        "smoother_motion": "更流暢的運動",
+        "video_enhancement": "視頻增強",
+        "professional_quality": "專業品質"
+      }
+    },
+    "section_title": "專業藝術家的利器",
+    "main_title": "助力加速創作的AI工具",
+    "subtitle": "讓AI承擔耗時的工作，讓您專注於創意表達",
+    "cta_button": "開始使用AI創作",
+    "cta_subtitle": "由超過47K名創作者信賴的專業級工具",
+    "learn_more": "了解更多"
+  }
+}

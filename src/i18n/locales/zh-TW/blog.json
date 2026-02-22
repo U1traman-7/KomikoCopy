@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "KomikoAI 部落格 | 用AI創作漫畫、韓漫、日漫和動漫",
+    "description": "用AI創作漫畫、網路漫畫和視覺故事。設計原創角色並與他們一起探索無限的故事世界。",
+    "blog_post": "部落格文章",
+    "keywords": {
+      "general": "AI 漫畫、動漫、角色創建、網絡漫畫、AI 藝術、漫畫生成器、漫畫創作",
+      "base_tags": [
+        "AI",
+        "漫畫",
+        "動漫",
+        "角色創建",
+        "網絡漫畫"
+      ]
+    }
+  },
+  "navigation": {
+    "see_all_posts": "查看所有文章"
+  },
+  "article": {
+    "published_on": "發佈於",
+    "min_read": "分鐘閱讀",
+    "view_article": "查看文章"
+  },
+  "sections": {
+    "latest_post": "最新文章",
+    "all_posts": "所有文章"
+  }
+}

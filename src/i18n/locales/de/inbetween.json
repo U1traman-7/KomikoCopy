@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "KI-gestützte Zwischenphasenanimation – KomikoAI",
+    "description": "Verwandeln Sie statische Bilder in flüssige Animationen mit der KI-Zwischenphasenanimation von KomikoAI. Unsere fortschrittliche Tweening-KI erstellt automatisch Zwischenframes zwischen Keyframes, was die Animationserstellung beschleunigt und effizienter gestaltet. Ideal für Künstler, Animatoren und Content-Ersteller.",
+    "keywords": "KomikoAI AI, KI-Animation, Zwischenphasenanimation, Tweening-KI, Animationsgenerator, KI-Frame-Generator, digitale Animation, Animationssoftware"
+  },
+  "title": "KI-Zwischenphasenanimation",
+  "description": "Verwandeln Sie statische Bilder in flüssige Animationen mit KI-Zwischenphasenanimation. Unsere fortschrittliche Tweening-KI generiert automatisch Zwischenframes zwischen Ihren Keyframes und macht die Animationserstellung so schneller und effizienter. Egal, ob Sie Charakteranimationen, Motion Graphics oder digitale Kunst erstellen, unser KI-Zwischenphasen-Frame-Generator liefert professionelle Ergebnisse. Erleben Sie die Zukunft der Animation mit KomikoAIs hochmodernem Zwischenphasenanimationstool – ideal für Künstler, Animatoren und Content-Ersteller, die ihren Workflow optimieren möchten.",
+  "inputImages": {
+    "title": "Eingabebilder",
+    "imageLabel": "Bild"
+  },
+  "prompt": {
+    "label": "Prompt",
+    "placeholder": "Geben Sie hier Ihren Prompt ein ... eine Aktion, etc."
+  },
+  "button": {
+    "submit": "Zwischenphasenbilder erstellen"
+  },
+  "results": {
+    "title": "Videoergebnisse",
+    "empty": "Die Ergebnisse werden hier angezeigt"
+  },
+  "deleteModal": {
+    "title": "Löschbestätigung",
+    "message": "Möchten Sie dieses Video wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "cancel": "Abbrechen",
+    "delete": "Löschen"
+  },
+  "toasts": {
+    "removeInput": "Eingabe erfolgreich entfernt",
+    "addInput": "Eingabe erfolgreich hinzugefügt",
+    "createSuccess": "Video erfolgreich erstellt",
+    "createFailed": "Video konnte nicht erstellt werden",
+    "deleteSuccess": "Erfolgreich gelöscht",
+    "deleteFailed": "Löschen fehlgeschlagen",
+    "downloadFailed": "Download fehlgeschlagen",
+    "fetchFailed": "Abrufen der Videos fehlgeschlagen",
+    "noZaps": "Bitte kaufen Sie weitere Zaps",
+    "noZapsError": "Keine Zaps verfügbar"
+  },
+  "sections": {
+    "whatIs": {
+      "title": "Was ist Zwischenphasenanimation?",
+      "description": "Zwischenphasenanimation ist eine in der Animation verwendete Technik, um fließende Übergänge zwischen Keyframes zu erzeugen. Sie ist ein entscheidender Aspekt bei der Erstellung flüssiger und realistischer Animationen. KI-Zwischenphasenanimation ist eine hochmoderne Animationstechnologie, die künstliche Intelligenz nutzt, um automatisch fließende Übergänge zwischen Keyframes zu generieren. Diese revolutionäre Technik hilft, flüssige Animationen zu erstellen, indem sie auf intelligente Weise die Zwischenframes zwischen Ihren wichtigsten Posen ausfüllt, wodurch die Erstellung von Animationen schneller und zugänglicher wird als je zuvor."
+    },
+    "howTo": {
+      "title": "So erstellen Sie Animationen mit KI-Zwischenphasenanimation",
+      "description": "Verwandeln Sie Ihre statischen Bilder mit unserer fortschrittlichen KI-Zwischenphasenanimationstechnologie in wenigen Minuten in flüssige Animationen. Befolgen Sie diese einfachen Schritte, um Ihr Kunstwerk zum Leben zu erwecken.",
+      "steps": [
+        {
+          "title": "Schritt 1: Keyframes hochladen",
+          "content": "Laden Sie 2-5 Keyframe-Bilder hoch, die die Hauptposen oder -positionen in Ihrer Animation darstellen."
+        },
+        {
+          "title": "Schritt 2: Prompt eingeben",
+          "content": "Fügen Sie einen optionalen Prompt hinzu, um den Animationsstil und die Bewegung zu steuern."
+        },
+        {
+          "title": "Schritt 3: Animation generieren",
+          "content": "Klicken Sie auf „Zwischenphasenbilder erstellen“, damit die KI fließende Übergänge zwischen Ihren Keyframes erstellt."
+        },
+        {
+          "title": "Schritt 4: Animation herunterladen",
+          "content": "Laden Sie Ihre fertige Animation im MP4-Format herunter und teilen Sie sie!"
+        }
+      ]
+    },
+    "examples": {
+      "title": "KI-Zwischenphasenanimations-Beispiele",
+      "description": "Sehen Sie sich die von KomikoAI-Benutzern generierten KI-Zwischenphasenanimationsergebnisse an",
+      "input1": "Eingabebild 1: Startframe",
+      "input2": "Eingabebild 2: Endframe",
+      "output": "Ausgabe: Verarbeitetes Video"
+    },
+    "whyChoose": {
+      "title": "Warum KomikoAI AI für Zwischenphasenanimation wählen?",
+      "description": "Optimieren Sie Ihren Animations-Workflow mit dem KI-Zwischenphasenanimationstool von KomikoAI. Unsere Tweening-KI erstellt automatisch Frames zwischen zwei Frames und revolutioniert so die Arbeitsweise von Animatoren, indem sie fließende Übergänge zwischen Keyframes erzeugt.",
+      "features": [
+        {
+          "title": "Fortschrittliche KI-Zwischenphasenanimationstechnologie",
+          "content": "Erleben Sie hochmoderne Tweening-KI, die automatisch Frames zwischen zwei Frames erstellt. Unser KI-Zwischenphasen-Frame-Generator sorgt für flüssige, natürliche Übergänge für Ihre Animationen."
+        },
+        {
+          "title": "Schnelle Animationserstellung",
+          "content": "Was traditionell Stunden manueller Zwischenphasenanimation in Anspruch nimmt, kann jetzt in Minuten erledigt werden. Lassen Sie KomikoAI AI die Erstellung von Frames zwischen zwei Frames übernehmen, während Sie sich auf die wichtigsten Posen konzentrieren."
+        },
+        {
+          "title": "Professionelle Animationsqualität",
+          "content": "Erstellen Sie Animationen in Studioqualität mit unserer KI-Zwischenphasenanimationstechnologie. Die Tweening-KI von KomikoAI sorgt für konsistente Bewegungen und fließende Übergänge, die professionellen Animationsstandards entsprechen."
+        },
+        {
+          "title": "Anpassbare Zwischenphasenanimation",
+          "content": "Steuern Sie Ihre KI-Zwischenphasen-Frame-Generierung mit benutzerdefinierten Prompts. Optimieren Sie Bewegungsstile und Charakterausdrücke, um mit unserer Tweening-KI die gewünschten Animationsergebnisse zu erzielen."
+        },
+        {
+          "title": "Zugängliche Animationswerkzeuge",
+          "content": "Egal, ob Sie neu in der Animation sind oder ein erfahrener Profi, KomikoAI AI macht die Zwischenphasenanimation für jeden zugänglich. Unser KI-Zwischenphasen-Frame-Generator vereinfacht den Animationsprozess."
+        },
+        {
+          "title": "Effizienter Animations-Workflow",
+          "content": "Optimieren Sie Ihre Animations-Pipeline mit unseren KI-Zwischenphasenanimationstools. Erstellen Sie schnell Animationsprototypen, testen Sie Bewegungen und erstellen Sie mit der Tweening-KI von KomikoAI fließende Übergänge zwischen Keyframes."
+        }
+      ]
+    },
+    "faqSection": {
+      "title": "Zwischenphasenanimations-FAQ: Alles, was Sie wissen müssen",
+      "description": "Erfahren Sie, wie unser KI-Zwischenphasenanimationstool funktioniert, entdecken Sie Best Practices und finden Sie Antworten auf häufige Fragen zur Erstellung professioneller Animationen mit künstlicher Intelligenz."
+    }
+  },
+  "faq": {
+    "question1": "Wie funktioniert die KI-Zwischenphasenanimation von KomikoAI?",
+    "answer1": {
+      "intro": "Der KI-Zwischenphasen-Frame-Generator von KomikoAI funktioniert in drei einfachen Schritten:",
+      "step1": "Laden Sie 2-5 Keyframe-Bilder hoch, die Ihre Hauptposen darstellen",
+      "step2": "Fügen Sie einen optionalen Prompt hinzu, um den Animationsstil zu steuern",
+      "step3": "Lassen Sie unsere fortschrittliche KI die Keyframes analysieren und automatisch Frames zwischen zwei Frames erstellen",
+      "step4": "Das System verwendet modernste maschinelle Lernverfahren, um Bewegungen zu verstehen und natürliche Übergänge zu erzeugen."
+    },
+    "question2": "Welche Vorteile bietet die Verwendung von KI für die Zwischenphasenanimation?",
+    "answer2": {
+      "intro": "Die Verwendung von KI zum Erstellen von Frames zwischen zwei Frames bietet zahlreiche Vorteile:",
+      "benefit1": "Reduziert die Animationszeit im Vergleich zu traditionellen Frame-by-Frame-Methoden erheblich",
+      "benefit2": "Erstellt automatisch Zwischenphasen-Frames in professioneller Qualität",
+      "benefit3": "Ideal für Anfänger und professionelle Animatoren",
+      "benefit4": "Eliminiert mühsame manuelle Zwischenphasenanimationsarbeiten",
+      "benefit5": "Ermöglicht schnelle Iteration und Experimentierung in der Animation"
+    },
+    "question3": "Welche Dateitypen funktionieren mit dem KI-Zwischenphasenanimationstool von KomikoAI?",
+    "answer3": {
+      "intro": "Unser KI-Zwischenphasen-Frame-Generator unterstützt:",
+      "format1": "Gängige Bildformate: JPG und PNG",
+      "format2": "Optimale Auflösung: 512 x 512 Pixel",
+      "format3": "Maximale Dateigröße: 5 MB pro Bild",
+      "format4": "Keyframe-Bereich: 2-5 Bilder für beste Ergebnisse"
+    },
+    "question4": "Ist das KI-Zwischenphasenanimationstool von KomikoAI kostenlos?",
+    "answer4": "KomikoAI bietet kostenlose Zaps (Credits) an, um unser KI-Animations-Zwischenphasenanimationstool auszuprobieren. Für eine umfangreichere Nutzung und erweiterte Funktionen schauen Sie sich unsere kostenpflichtigen Pläne an, die eine schnellere Verarbeitung und Ausgaben mit höherer Auflösung beinhalten.",
+    "question5": "Wie erziele ich die besten Ergebnisse mit KI-Zwischenphasenanimation?",
+    "answer5": {
+      "intro": "Für eine optimale KI-Zwischenphasen-Frame-Generierung:",
+      "tip1": "Behalten Sie einen konsistenten Kunststil über alle Keyframes hinweg bei",
+      "tip2": "Halten Sie Beleuchtung und Komposition ähnlich",
+      "tip3": "Stellen Sie eine logische Charakterpositionierung zwischen den Frames sicher",
+      "tip4": "Verwenden Sie klare, beschreibende Prompts",
+      "tip5": "Beginnen Sie mit einfachen Bewegungen, bevor Sie komplexe Animationen versuchen"
+    },
+    "question6": "Was sind die aktuellen Einschränkungen der KI-Zwischenphasenanimation?",
+    "answer6": {
+      "intro": "Obwohl unsere Tweening-KI leistungsstark ist, gibt es einige aktuelle Einschränkungen:",
+      "limit1": "Maximal 5 Keyframes pro Animationssequenz",
+      "limit2": "Sehr komplexe oder extreme Bewegungen erfordern möglicherweise eine manuelle Anpassung",
+      "limit3": "Stilkonsistenz zwischen den Frames ist für beste Ergebnisse wichtig",
+      "limit4": "Die Verarbeitungszeit erhöht sich mit mehr Keyframes"
+    },
+    "question7": "Kann ich die von KomikoAI AI generierten Animationen kommerziell nutzen?",
+    "answer7": "Ja, Sie können Animationen, die mit unserem KI-Zwischenphasenanimationstool erstellt wurden, sowohl für persönliche als auch für kommerzielle Projekte verwenden, vorbehaltlich der Nutzungsbedingungen von KomikoAI. Unser Tool ist perfekt für die effiziente Erstellung professioneller Animationen."
+  }
+}

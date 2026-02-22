@@ -1,0 +1,238 @@
+{
+  "moonvalley": {
+    "hero": {
+      "title": "Moonvalley AI Video Generator",
+      "description": "Moonvalley AI Video Generator adalah masa depan dari pembuatan video yang didukung oleh AI. Dikembangkan oleh perusahaan riset imajinasi Moonvalley, generator video AI terobosan ini menghadirkan Marey, model pembuatan video komersial aman pertama di dunia. Ubah gambar statis menjadi video sinematik yang memukau dengan teknologi Generator Video AI Moonvalley tercanggih, yang dirancang khusus untuk pembuat film, konten kreator, dan seniman digital."
+    },
+    "examples": {
+      "title": "Contoh Penggunaan Moonvalley AI Video Generator",
+      "description": "Temukan kekuatan revolusioner dari teknologi Moonvalley AI Video Generator. Lihat bagaimana generator video AI canggih ini menghasilkan video sinematik profesional dengan sinematografi kelas dunia, keamanan komersial penuh, dan kontrol presisi terobosan.",
+      "cameraControl": {
+        "title": "Kontrol Kamera",
+        "description": "Ciptakan gerakan kamera sinematik hanya dengan menggunakan satu gambar. Ubah adegan 2D apa pun menjadi lingkungan 3D yang menakjubkan."
+      },
+      "motionTransfer": {
+        "title": "Transfer Gerakan",
+        "description": "Ambil gerakan dari video referensi apa pun dan terapkan pada subjek baru, dengan tetap menjaga ketepatan waktu dan energi."
+      },
+      "trajectoryControl": {
+        "title": "Kontrol Lintasan",
+        "description": "Gambarkan lintasan untuk elemen apa pun dan saksikan arahan Anda menjadi hidup dengan kelancaran sinematik."
+      },
+      "poseTransfer": {
+        "title": "Transfer Pose",
+        "description": "Gunakan gambar referensi atau input performa untuk memandu penentuan waktu dan maksud dengan hasil yang ekspresif dan akurat."
+      },
+      "naturalPhysics": {
+        "title": "Fisika Alami",
+        "description": "Objek bergerak dengan bobot dan ketepatan waktu yang meyakinkan, mengikuti fisika dunia nyata – terlihat seperti difilmkan, bukan dihasilkan."
+      },
+      "dynamicMotion": {
+        "title": "Gerakan Dinamis",
+        "description": "Terobosan dalam gerakan dengan kelancaran sinematik yang dirancang untuk tampilan yang menuntut."
+      }
+    },
+    "videoFallback": {
+      "cameraControl": "Demo Kontrol Kamera",
+      "motionTransfer": "Demo Transfer Gerakan",
+      "trajectoryControl": "Demo Kontrol Lintasan",
+      "poseTransfer": "Demo Transfer Pose",
+      "naturalPhysics": "Demo Fisika Alami",
+      "dynamicMotion": "Demo Gerakan Dinamis"
+    },
+    "whatIs": {
+      "title": "Apa itu Moonvalley AI Video Generator?",
+      "description": "Moonvalley adalah perusahaan riset imajinasi di garis depan teknologi pembuatan video AI. Didirikan sebagai organisasi berbasis riset, Moonvalley mengembangkan model AI terobosan yang mendorong batasan kemungkinan dalam pembuatan video. Model unggulan mereka, Marey, adalah generator video komersial aman pertama di dunia, yang dilatih secara eksklusif pada rekaman berlisensi untuk memastikan kepatuhan hukum penuh untuk penggunaan profesional. Misi Moonvalley adalah untuk mendemokratisasi pembuatan video sambil mempertahankan standar kualitas dan keamanan komersial tertinggi."
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan Moonvalley AI Video Generator?",
+      "description": "Jelajahi manfaat transformatif dari penggunaan Moonvalley AI Video Generator untuk proyek kreatif Anda. Generator video AI revolusioner ini mendemokratisasi produksi video profesional, membuat kekuatan Moonvalley AI Video Generator dapat diakses oleh konten kreator, pembuat film, dan bisnis di seluruh dunia.",
+      "features": {
+        "aiTechnology": {
+          "title": "Teknologi Video AI Revolusioner",
+          "content": "Manfaatkan kekuatan kecerdasan buatan dan algoritma pembelajaran mesin canggih dari Moonvalley. Generator video AI menganalisis input kreatif Anda dan menghasilkan video berkualitas sinematik dengan presisi dan detail yang belum pernah ada sebelumnya."
+        },
+        "cinematicQuality": {
+          "title": "Kualitas Sinematik Profesional",
+          "content": "Buat video berkualitas siaran dengan efek visual yang memukau dan grafik gerakan yang mulus. Moonvalley AI Video Generator memberikan hasil kelas profesional yang cocok untuk aplikasi komersial dan artistik."
+        },
+        "intuitive": {
+          "title": "Proses Pembuatan Video yang Intuitif",
+          "content": "Tidak diperlukan keahlian teknis! Cukup berikan visi kreatif Anda, dan AI Moonvalley menangani proses pembuatan video yang kompleks secara otomatis, membuat produksi video profesional dapat diakses oleh siapa saja."
+        },
+        "accelerated": {
+          "title": "Linimasa Produksi yang Dipercepat",
+          "content": "Kurangi secara dramatis waktu produksi video dari berminggu-minggu menjadi hitungan menit. Generator video AI Moonvalley menyederhanakan seluruh alur kerja kreatif, memungkinkan iterasi cepat dan hasil instan untuk konten kreator."
+        },
+        "superiorOutput": {
+          "title": "Kualitas Output Video Unggul",
+          "content": "Raih hasil video definisi tinggi yang luar biasa dengan dinamika gerakan realistis dan efek visual sinematik. Teknologi AI memastikan kualitas yang konsisten dan animasi kelas profesional di setiap video yang dihasilkan."
+        },
+        "limitless": {
+          "title": "Kemungkinan Kreatif Tanpa Batas",
+          "content": "Fokus sepenuhnya pada visi artistik Anda sementara AI Moonvalley mengelola kompleksitas teknis produksi video. Buat variasi tak terbatas dan jelajahi berbagai arahan kreatif dengan mudah."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "Cara Menggunakan Moonvalley AI Video Generator",
+      "steps": {
+        "step1": {
+          "title": "Unggah Konten Kreatif Anda",
+          "content": "Mulailah dengan mengunggah gambar, karya seni, atau konsep visual Anda. Baik itu karakter anime, ilustrasi manga, atau panel komik, Moonvalley AI Video Generator dapat mengubahnya menjadi konten video dinamis."
+        },
+        "step2": {
+          "title": "Buat Prompt Video Anda",
+          "content": "Jelaskan hasil video yang Anda inginkan dengan prompt yang detail. Tentukan gerakan, sinematografi, gaya visual, atau elemen naratif yang ingin dibuat oleh generator video AI."
+        },
+        "step3": {
+          "title": "Hasilkan Video AI Anda",
+          "content": "Klik tombol 'Hasilkan Animasi' dan saksikan AI Moonvalley bekerja secara ajaib. Teknologi AI canggih akan memproses input Anda dan membuat video sinematik profesional."
+        },
+        "step4": {
+          "title": "Unduh dan Publikasikan",
+          "content": "Unduh video yang dihasilkan AI Anda dan bagikan di semua platform! Ideal untuk konten media sosial, kampanye pemasaran, proyek kreatif, dan presentasi profesional."
+        }
+      }
+    },
+    "faqSection": {
+      "title": "FAQ Moonvalley AI Video Generator",
+      "description": "Dapatkan jawaban atas pertanyaan umum tentang teknologi aman secara komersial dari Moonvalley AI Video Generator, kemampuan model Marey, dan cara memulai dengan generator video AI revolusioner ini untuk pembuatan video profesional."
+    },
+    "faq": {
+      "question1": "Apa yang membedakan Moonvalley AI Video Generator dari generator video AI lainnya?",
+      "answer1": "Moonvalley AI Video Generator adalah generator video AI aman secara komersial pertama di dunia. Tidak seperti generator video AI lainnya yang dilatih pada konten yang dikumpulkan (scraped), model Marey dari Moonvalley AI Video Generator dilatih secara eksklusif pada rekaman berlisensi resolusi tinggi dalam kemitraan dengan Asteria. Ini berarti tidak ada area abu-abu hukum, tidak ada risiko hak cipta, dan keamanan komersial penuh untuk penggunaan profesional.",
+      "question2": "Apa itu Marey dan bagaimana cara kerjanya?",
+      "answer2": "Marey adalah model AI unggulan Moonvalley yang mendukung teknologi pembuatan video mereka. Ini adalah sistem sadar 3D terobosan yang memahami hubungan spasial, pencahayaan, dan gerakan. Marey dapat menghasilkan konten gambar-ke-video dan teks-ke-video dengan kualitas sinematik, menawarkan kontrol presisi seperti gerakan kamera, transfer gerakan, dan kontrol lintasan.",
+      "question3": "Kontrol spesifik apa yang ditawarkan Moonvalley?",
+      "answer3": "Moonvalley menyediakan kontrol kelas profesional termasuk: Kontrol Kamera (buat gerakan kamera sinematik dari gambar tunggal), Transfer Gerakan (terapkan gerakan dari video referensi ke subjek baru), Kontrol Lintasan (gambarkan jalur untuk gerakan objek), Transfer Pose (pandu penentuan waktu dan maksud dengan input referensi), dan pencahayaan canggih dengan simulasi fisika alami.",
+      "question4": "Dapatkah saya menggunakan Moonvalley untuk proyek komersial?",
+      "answer4": "Ya! Moonvalley dirancang khusus untuk penggunaan komersial. Karena Marey hanya dilatih pada rekaman berlisensi tanpa konten yang dikumpulkan, Anda dapat menggunakan video yang dihasilkan untuk bisnis, pemasaran, produksi film, dan aplikasi komersial apa pun tanpa masalah hak cipta. Ini menjadikannya satu-satunya solusi video AI siap produksi yang sebenarnya untuk penggunaan profesional.",
+      "question5": "Bagaimana cara mengakses Moonvalley AI Video Generator?",
+      "answer5": "Anda dapat mengakses Moonvalley AI Video Generator melalui aplikasi web mereka untuk mencoba kemampuan hebat Marey. Untuk pengembang dan perusahaan, API Moonvalley AI Video Generator sedang dalam pengembangan (saat ini dalam daftar tunggu). Moonvalley AI Video Generator juga menawarkan Realisme Marey secara native di ComfyUI untuk integrasi alur kerja. Kunjungi situs web mereka untuk memulai dengan Moonvalley AI Video Generator atau bergabung dengan komunitas Discord mereka untuk mendapatkan pembaruan.",
+      "question6": "Format dan kualitas apa yang dapat saya harapkan?",
+      "answer6": "Moonvalley menghasilkan video definisi tinggi dengan kualitas kelas studio. Sistem ini dilatih pada rekaman sinematik, sehingga setiap bingkai menangkap tekstur halus, tepi bersih, dan kontras yang kaya tanpa artefak. Video mempertahankan standar profesional yang cocok untuk tampilan yang menuntut dan aplikasi komersial.",
+      "question7": "Apa kemampuan dan batasan saat ini?",
+      "answer7": "Moonvalley unggul dalam menciptakan konten sinematik profesional dengan fisika alami, pencahayaan canggih, dan kontrol gerakan yang presisi. Meskipun menangani adegan kompleks dengan baik, komposisi yang sangat detail mungkin memerlukan waktu pemrosesan tambahan. Keuntungan utamanya adalah tidak ada batasan hukum - tidak seperti generator video AI lainnya, tidak ada risiko hak cipta karena data pelatihan yang bersih."
+    }
+  },
+  "marey": {
+    "hero": {
+      "title": "Marey AI Video Generator",
+      "description": "Marey adalah model AI dasar Moonvalley, generator video komersial aman pertama di dunia yang dibangun untuk memenuhi standar sinematografi kelas dunia. Dirancang khusus untuk pembuat film dan konten kreator, Marey mengubah gambar statis menjadi video sinematik profesional hanya menggunakan rekaman berlisensi resolusi tinggi - tidak ada konten yang dikumpulkan, tidak ada area abu-abu hukum."
+    },
+    "examples": {
+      "title": "Contoh Pembuatan Video AI Marey",
+      "description": "Rasakan kekuatan pembuatan video kelas produksi Marey. Lihat bagaimana model video AI komersial aman pertama di dunia mengubah visi kreatif menjadi realitas sinematik dengan presisi di setiap bingkai.",
+      "cameraControl": {
+        "title": "Kontrol Kamera",
+        "description": "Buat gerakan kamera sinematik hanya dengan menggunakan satu gambar. Marey mengubah adegan 2D apa pun menjadi lingkungan 3D yang hidup."
+      },
+      "motionTransfer": {
+        "title": "Transfer Gerakan",
+        "description": "Ambil gerakan dari video referensi apa pun dan terapkan pada subjek baru sambil menjaga ketepatan waktu dan energi."
+      },
+      "trajectoryControl": {
+        "title": "Kontrol Lintasan",
+        "description": "Gambarkan lintasan untuk elemen apa pun dan saksikan arahan Anda menjadi hidup dengan kelancaran sinematik."
+      },
+      "keyframing": {
+        "title": "Keyframing",
+        "description": "Unggah beberapa gambar referensi dan tempatkan di timeline. Marey menghasilkan transisi yang mulus dan alami."
+      },
+      "referenceControl": {
+        "title": "Kontrol Referensi",
+        "description": "Gunakan gambar referensi terpisah untuk setiap karakter atau objek sambil mempertahankan kedalaman, pencahayaan, dan fisika."
+      },
+      "poseControl": {
+        "title": "Kontrol Pose",
+        "description": "Gunakan gambar atau video referensi untuk memandu penentuan waktu dan maksud dengan hasil yang terasa ekspresif dan akurat."
+      }
+    },
+    "videoFallback": {
+      "cameraControl": "Demo Kontrol Kamera",
+      "motionTransfer": "Demo Transfer Gerakan",
+      "trajectoryControl": "Demo Kontrol Lintasan",
+      "keyframing": "Demo Keyframing",
+      "referenceControl": "Demo Kontrol Referensi",
+      "poseControl": "Demo Kontrol Pose"
+    },
+    "whatIs": {
+      "title": "Apa itu Marey?",
+      "description": "Marey adalah model AI dasar Moonvalley, yang dikembangkan dalam kemitraan dengan Asteria, yang merupakan model pembuatan video komersial aman pertama di dunia. Tidak seperti generator video AI lainnya yang dilatih pada konten yang dikumpulkan, Marey secara eksklusif dilatih pada rekaman berlisensi resolusi tinggi, memastikan keamanan komersial dan kepatuhan hukum yang lengkap. Model inovatif ini menghadirkan sinematografi kelas dunia dengan presisi di setiap bingkai, memberikan pembuat film dan konten kreator alat kelas produksi dan kontrol penyutradaraan yang sebelumnya tidak tersedia dalam pembuatan video AI."
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan Marey AI Video Generator?",
+      "description": "Jelajahi keuntungan menggunakan Marey AI Video Generator untuk membuat video berkualitas sinematik untuk proyek anime, manga, dan komik Anda. Teknologi sadar 3D canggih kami membuat produksi video profesional dapat diakses oleh siapa saja!",
+      "features": {
+        "awareness3D": {
+          "title": "Pembuatan Video Sadar 3D",
+          "content": "Rasakan teknologi sadar 3D mutakhir yang memahami hubungan spasial dan dinamika gerakan. AI Marey menghasilkan video dengan gerakan kamera yang realistis dan kualitas sinematik profesional."
+        },
+        "commercialSafe": {
+          "title": "Produksi Aman Secara Komersial",
+          "content": "Buat video dengan percaya diri menggunakan model AI berlisensi dan terlatih secara etis kami. Semua konten yang dihasilkan aman secara komersial dan sesuai dengan hukum untuk penggunaan profesional."
+        },
+        "motionControl": {
+          "title": "Kontrol Gerakan Profesional",
+          "content": "Tidak diperlukan pengalaman produksi video! Cukup unggah gambar Anda, tentukan visi Anda, dan biarkan AI Marey menangani pembuatan gerakan dan kontrol kamera yang kompleks."
+        },
+        "rapidProduction": {
+          "title": "Alur Kerja Produksi Cepat",
+          "content": "Percepat proses pembuatan video Anda secara dramatis. AI Marey menghasilkan video berkualitas profesional dalam hitungan menit, menghilangkan jam kerja produksi video tradisional."
+        },
+        "studioGrade": {
+          "title": "Kualitas Output Kelas Studio",
+          "content": "Raih hasil standar industri film dengan output definisi tinggi. AI Marey memastikan transisi gerakan yang mulus, fisika realistis, dan efek pencahayaan sinematik."
+        },
+        "creativeFreedom": {
+          "title": "Kebebasan Kreatif Tanpa Batas",
+          "content": "Fokus pada visi artistik Anda sementara AI Marey menangani kompleksitas produksi video teknis. Buat konten sinematik yang menakjubkan dengan kontrol kreatif yang belum pernah ada sebelumnya."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "Cara Menggunakan Marey AI Video Generator",
+      "steps": {
+        "step1": {
+          "title": "Unggah Konten Kreatif Anda",
+          "content": "Unggah gambar yang ingin Anda ubah menjadi video. Baik itu karakter anime, ilustrasi manga, atau karya seni komik, AI Marey dapat menghasilkan gerakan sinematik dengan kualitas profesional."
+        },
+        "step2": {
+          "title": "Tentukan Visi Gerakan Anda",
+          "content": "Berikan prompt mendetail untuk memandu pembuatan video. Jelaskan gerakan kamera, tindakan karakter, atau efek sinematik yang ingin dibuat oleh AI Marey."
+        },
+        "step3": {
+          "title": "Hasilkan Video Sinematik",
+          "content": "Klik tombol 'Hasilkan Animasi' dan saksikan AI Marey bekerja secara ajaib. Alami bagaimana gambar statis Anda berubah menjadi video dinamis yang dikendalikan gerakan."
+        },
+        "step4": {
+          "title": "Unduh dan Distribusikan",
+          "content": "Unduh video yang dihasilkan secara profesional Anda dan bagikan di semua platform! Sempurna untuk proyek komersial, media sosial, dan presentasi profesional."
+        }
+      }
+    },
+    "faqSection": {
+      "title": "FAQ Marey AI Video Generator",
+      "description": "Kuasai semua hal tentang membuat video sinematik profesional dengan Marey AI Video Generator untuk proyek komersial dan kreatif."
+    },
+    "faq": {
+      "question1": "Apa itu Marey AI Video Generator?",
+      "answer1": "Marey adalah model AI dasar Moonvalley dan generator video komersial aman pertama di dunia. Dikembangkan dalam kemitraan dengan Asteria, Marey secara eksklusif dilatih pada rekaman berlisensi resolusi tinggi - tidak ada konten yang dikumpulkan, tidak ada kiriman pengguna, tidak ada area abu-abu hukum. Model inovatif ini dirancang khusus untuk pembuat film dan konten kreator yang membutuhkan pembuatan video kelas komersial dengan standar sinematografi kelas dunia, presisi di setiap bingkai, dan kepatuhan hukum yang lengkap untuk penggunaan profesional.",
+      "question2": "Bagaimana cara kerja pembuatan video aman secara komersial Marey?",
+      "answer2": "Marey memanfaatkan arsitektur AI canggih Moonvalley yang dilatih secara eksklusif pada rekaman berlisensi resolusi tinggi untuk memastikan keamanan komersial yang lengkap. Model ini menganalisis gambar input Anda dan menghasilkan urutan video profesional dengan standar sinematografi kelas dunia, memberikan presisi di setiap bingkai. Tidak seperti generator video AI lainnya yang bergantung pada konten yang dikumpulkan, pelatihan Marey hanya pada data berlisensi menghilangkan risiko hukum sambil memberi pembuat film alat kelas produksi dan kontrol penyutradaraan.",
+      "question3": "Apa manfaat Marey bagi pembuat film profesional?",
+      "answer3": "Marey dirancang khusus untuk pembuat film dan konten kreator yang membutuhkan pembuatan video kelas komersial. Manfaat utama meliputi: model video aman secara komersial pertama di dunia tanpa risiko hukum, dilatih secara eksklusif pada rekaman resolusi tinggi berlisensi, menyediakan alat kelas produksi dan kontrol penyutradaraan, menghadirkan sinematografi kelas dunia dengan presisi di setiap bingkai, menghilangkan ketidakpastian pelatihan konten yang dikumpulkan, dan menawarkan kepatuhan hukum yang lengkap untuk penggunaan profesional dan komersial.",
+      "question4": "Dapatkah saya menggunakan video yang dihasilkan Marey untuk tujuan komersial?",
+      "answer4": "Tentu saja! Marey adalah generator video komersial aman pertama di dunia yang dirancang khusus untuk penggunaan komersial. Dilatih secara eksklusif pada rekaman berlisensi resolusi tinggi tanpa konten yang dikumpulkan, tanpa kiriman pengguna, dan tanpa area abu-abu hukum, Marey menghilangkan risiko hak cipta yang terkait dengan generator video AI lainnya. Ini menjadikannya pilihan ideal untuk pembuat film, studio, dan konten kreator yang membutuhkan kepatuhan hukum yang lengkap untuk proyek profesional dan komersial.",
+      "question5": "Format dan spesifikasi gambar apa yang didukung oleh AI Marey?",
+      "answer5": "AI Marey mendukung format gambar standar termasuk JPG dan PNG. Untuk hasil sinematik yang optimal, gunakan gambar resolusi tinggi dengan definisi subjek yang jelas. AI bekerja paling baik dengan karakter dan karya seni yang terdefinisi dengan baik yang diterjemahkan secara efektif ke gerakan video.",
+      "question6": "Jenis konten apa yang paling cocok dengan pembuatan video Marey?",
+      "answer6": "Marey dirancang untuk pembuat film dan konten kreator profesional yang bekerja dengan beragam konten visual. Model ini unggul dengan gambar berkualitas tinggi, karya seni karakter, seni konsep, papan cerita, dan referensi visual. Karena Marey dilatih pada rekaman berlisensi resolusi tinggi, ia memberikan hasil sinematografi kelas dunia di berbagai jenis konten, mulai dari anime dan manga hingga citra realistis, selalu menjaga keamanan komersial dan kepatuhan hukum.",
+      "question7": "Apakah saya memerlukan keterampilan produksi video untuk menggunakan Marey?",
+      "answer7": "Meskipun Marey dirancang agar dapat diakses, ia secara khusus dibangun untuk pembuat film dan konten kreator yang membutuhkan alat kelas profesional. Model ini menyediakan kontrol penyutradaraan dan kemampuan kelas produksi sambil mempertahankan pengoperasian yang ramah pengguna. Baik Anda seorang pembuat film berpengalaman atau konten kreator, Marey menawarkan presisi dan kontrol yang diperlukan untuk sinematografi kelas dunia tanpa risiko hukum dari generator video AI lainnya.",
+      "question8": "Apa batasan pembuatan video Marey?",
+      "answer8": "Meskipun Marey mewakili terobosan dalam pembuatan video aman secara komersial, ia mempertahankan pertimbangan teknis yang sama dengan model video AI canggih lainnya. Adegan kompleks dengan komposisi yang sangat detail mungkin memerlukan waktu pemrosesan tambahan untuk hasil yang optimal. Namun, tidak seperti generator video AI lainnya, pelatihan Marey pada rekaman berlisensi secara eksklusif memastikan tidak ada batasan hukum atau risiko hak cipta, menjadikannya satu-satunya model video AI siap produksi yang sebenarnya untuk penggunaan komersial."
+    }
+  }
+}

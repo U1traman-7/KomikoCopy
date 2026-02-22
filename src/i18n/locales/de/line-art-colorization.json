@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "title": "KI-Strichzeichnungen Kolorierung - KomikoAI",
+    "description": "Verleihe deinen schwarz-weißen Strichzeichnungen Farbe mit KI. Lade deine Skizze hoch und lass sie von der KI kolorieren."
+  },
+  "common": {
+    "new": "Neu",
+    "cancel": "Abbrechen",
+    "delete": "Löschen"
+  },
+  "hero": {
+    "title": "KI-Strichzeichnungen Kolorierung",
+    "description": "Automatische Farbgebung von Skizzen, Strichzeichnungen oder Manga-Seiten mithilfe von KI. Erlebe die sofortige Kolorierung, die deinen Linien mit nur einem Klick Farben verleiht! Verwandle deine schwarz-weißen Skizzen mit den fortschrittlichen KI-Kolorierungswerkzeugen von Anitoon, optional mit Referenzbildern zur Steuerung des Farbstils. Perfekt für Künstler, Designer und Manga-Begeisterte, die ihre Kreationen mühelos zum Leben erwecken möchten."
+  },
+  "input": {
+    "title": "Eingabe",
+    "tooltip": "Strichzeichnung zum Kolorieren hochladen",
+    "lineArt": {
+      "label": "Strichzeichnung"
+    },
+    "referenceImage": {
+      "label": "Referenzbild (Optional)",
+      "description": "Laden Sie eine vollständig farbige Version des gleichen Objekts hoch, um der KI beim Kolorieren Ihrer Strichzeichnung zu helfen."
+    },
+    "transparentBackground": "Transparenter Hintergrund",
+    "prompt": {
+      "label": "Prompt (Optional)",
+      "placeholder": "Gib deinen Prompt ein, z. B. 1boy, rote Haare, blaue Augen, weißer Hintergrund usw."
+    },
+    "model": {
+      "label": "KI-Modell",
+      "description": "Die erweiterte Modellgenerierung kann gelegentlich aufgrund der Inhaltsrichtlinien unseres Dienstanbieters fehlschlagen. Bitte weiche auf das Basismodell aus, wenn Probleme auftreten.",
+      "placeholder": "Wähle ein Modell",
+      "ariaLabel": "Kolorierungsmodell auswählen",
+      "options": {
+        "basic": "Basis",
+        "advanced": "Erweitert"
+      }
+    }
+  },
+  "output": {
+    "title": "Kolorierungsergebnisse",
+    "empty": {
+      "message": "Deine Kolorierungsergebnisse werden hier angezeigt",
+      "instruction": "Lade ein Bild hoch, um loszulegen"
+    }
+  },
+  "seo": {
+    "whatIs": {
+      "title": "Was ist Strichzeichnungen Kolorierung",
+      "description": "Strichzeichnungen Kolorierung ist der Prozess des Hinzufügens von Farben zu Skizzen oder Strichzeichnungen. Es ist eine beliebte Technik in der Manga- und Comic-Erstellung, da Künstler ihren Zeichnungen Farbe hinzufügen und sie lebendiger und dynamischer gestalten können. KI-Strichzeichnungen Kolorierung ist ein Tool, mit dem du deine Strichzeichnungen sofort mit KI kolorieren kannst."
+    },
+    "howTo": {
+      "title": "So kolorierst du deine Strichzeichnungen mit KI",
+      "description": "Automatische Farbgebung deiner Skizze, schwarz-weißen Strichzeichnung, Zeichnungen, Skizzen oder Manga-Seiten mit dem KI-Kolorierer von KomikoAI in wenigen Schritten."
+    },
+    "steps": {
+      "step1": {
+        "title": "Schritt 1: Strichzeichnungsbild hochladen",
+        "content": "Lade deine schwarz-weiße Strichzeichnung oder Skizze in den KI-Kolorierer hoch. Die Formate JPG und PNG werden unterstützt."
+      },
+      "step2": {
+        "title": "Schritt 2: Referenzbild hinzufügen (Optional)",
+        "content": "Lade ein Referenzbild hoch, um die Farbwahl und den Stil der KI zu steuern. Dies trägt zu präziseren Kolorierungsergebnissen bei."
+      },
+      "step3": {
+        "title": "Schritt 3: Prompt eingeben (Optional)",
+        "content": "Gib einen Prompt ein, um die gewünschte Farbgebung zu beschreiben. Zum Beispiel 'rote Haare, blaue Augen'."
+      },
+      "step4": {
+        "title": "Schritt 4: Kolorieren und Teilen",
+        "content": "Klicke auf 'Bild kolorieren' und warte, bis die KI ihre Magie entfaltet. Lade deine kolorierte Kreation herunter und teile sie!"
+      }
+    }
+  },
+  "examples": {
+    "title": "KI-Strichzeichnungen Kolorierungsbeispiele",
+    "description": "Sieh dir die von Anitoon-Benutzern generierten KI-Kolorierungsergebnisse an",
+    "inputLabel": "Eingegebene Strichzeichnung",
+    "outputLabel": "Koloriertes Ergebnis",
+    "referenceLabel": "Referenzbild",
+    "example1": {
+      "inputAlt": "Eingegebene Strichzeichnung",
+      "outputAlt": "Ausgegebene kolorierte Zeichnung",
+      "prompt": "Prompt: \"süßes Anime-Mädchen in schwarz-weißem Dienstmädchenkleid, weißer Hintergrund\""
+    },
+    "example2": {
+      "inputAlt": "Eingegebene Strichzeichnung",
+      "outputAlt": "Ausgegebene kolorierte Zeichnung",
+      "prompt": "Prompt: \"1 Mädchen, blonde Haare, weißes Hemd, Manga-Panel\""
+    },
+    "example3": {
+      "inputAlt": "Eingegebene Strichzeichnung",
+      "referenceAlt": "Eingegebenes Referenzbild",
+      "outputAlt": "Ausgegebene kolorierte Zeichnung",
+      "prompt": "Prompt: \"Klee (Genshin Impact)\""
+    }
+  },
+  "whyUse": {
+    "title": "Warum du deine Linienarbeit mit KI kolorieren solltest",
+    "description": "Der KI-Strichzeichnungskolorierer von Anitoon vereinfacht die Farbgebung für alle, vom Anfänger bis zum professionellen Illustrator.",
+    "features": {
+      "referenceGuided": {
+        "title": "Referenzgesteuerte Kolorierung",
+        "content": "Lade Referenzbilder hoch, um die Farbwahl und den Stil der KI zu steuern und sicherzustellen, dass deine kolorierte Grafik perfekt zu deiner Vision passt."
+      },
+      "specifyColors": {
+        "title": "Lege deine Farben fest",
+        "content": "Gib die Farben an, die du in deiner Strichzeichnungskolorierung verwenden möchtest, mit Prompts wie 'rote Haare, blaue Augen' oder verwende Referenzbilder für eine präzisere Steuerung."
+      },
+      "customArtStyles": {
+        "title": "Benutzerdefinierte Kunststile",
+        "content": "Gib den gewünschten Kunststil für deine Strichzeichnungskolorierung mit Prompts wie 'Comic', 'Anime', 'Manga', 'Manhwa' oder sogar dem Namen des Künstlers an."
+      },
+      "effortlessFilling": {
+        "title": "Müheloses Ausfüllen",
+        "content": "Spare Zeit und Mühe, indem du die KI den Skizzenkolorierungsprozess übernehmen lässt. Die KI füllt und koloriert deine Strichzeichnungen automatisch. Du musst nicht jedes Detail manuell ausfüllen und kolorieren."
+      },
+      "smartColorization": {
+        "title": "Intelligente Kolorierung",
+        "content": "Durch das Verständnis der Nuancen deines Kunststils analysiert die KI von Anitoon die Komposition, Struktur und Gesamtästhetik deiner Zeichnung. Die KI von Anitoon wendet Farben nicht nur passend, sondern auch zur Verbesserung deiner Illustration an."
+      },
+      "highQualityOutputs": {
+        "title": "Hochwertige Ergebnisse",
+        "content": "Lade Comics in professioneller Qualität herunter, perfekt zum Teilen oder Drucken."
+      },
+      "streamlinedWorkflow": {
+        "title": "Optimierter Workflow",
+        "content": "Die KI-Strichzeichnungskolorierung lässt sich nahtlos in deinen Illustrations-, Comic-, Manhwa- oder Manga-Workflow integrieren. Anitoon befreit dich vom Ausfüllen und Kolorieren, sodass du dich auf den kreativen Kern deiner Kunst konzentrieren kannst."
+      },
+      "mangaPanelConsistency": {
+        "title": "Manga-Panel-Konsistenz",
+        "content": "Sorge für eine konsistente Farbgebung über mehrere Manga-Panels und Seiten hinweg. Perfekt für Manga-Künstler und Comic-Schöpfer, die eine Farbkontinuität in ihren Geschichten und Charakterdesigns gewährleisten müssen."
+      },
+      "instantEnhancement": {
+        "title": "Sofortige Strichzeichnungsverbesserung",
+        "content": "Verwandle schwarz-weiße Skizzen sofort in lebendige Illustrationen. Egal, ob du an Manga, Comics oder Strichzeichnungen arbeitest, unser KI-Kolorierer erweckt deine Kunst zum Leben und bewahrt gleichzeitig die ursprüngliche Qualität der Linienarbeit."
+      }
+    }
+  },
+  "faq": {
+    "title": "Häufige Fragen zur KI-Strichzeichnungskolorierung",
+    "description": "Finde Antworten auf häufig gestellte Fragen zum Kolorieren von Strichzeichnungen und Skizzen mit KI.",
+    "what_is": {
+      "question": "Was ist KI-Strichzeichnungskolorierung?",
+      "answer": "KI-Strichzeichnungskolorierung ist ein Verfahren, das künstliche Intelligenz verwendet, um schwarz-weiße Strichzeichnungen automatisch zu kolorieren. Das KI-Strichzeichnungskolorierer-Tool von KomikoAI verwandelt Skizzen, Mangas oder jede andere Strichzeichnung in lebendige, vollständig kolorierte Bilder, wodurch Künstler und Enthusiasten Zeit sparen."
+    },
+    "how_to_color": {
+      "question": "Wie koloriere ich schwarz-weiße Strichzeichnungen mit KI?",
+      "answer": {
+        "intro": "Du kannst deine Linienarbeit mit KomikoAI KI in vier einfachen Schritten kolorieren:",
+        "step1": "Lade dein Strichzeichnungsbild in den KI-Kolorierer hoch",
+        "step2": "Gib einen Prompt ein, um die gewünschte Farbgebung zu beschreiben",
+        "step3": "Klicke auf die Schaltfläche 'Bild kolorieren', um den Kolorierungsprozess zu starten",
+        "step4": "Lade das kolorierte Bild herunter und teile es mit deinen Freunden!"
+      }
+    },
+    "can_i_use_ai": {
+      "question": "Kann ich KI verwenden, um meine Linienarbeit zu kolorieren und zu schattieren?",
+      "answer": "Ja, du kannst KI verwenden, um deine Linienarbeit zu kolorieren und zu schattieren. Das KI-Strichzeichnungskolorierer-Tool von KomikoAI kann deine schwarz-weiße Strichzeichnung mit lebendigen Farben und Schattierungen kolorieren. Du kannst dein Strichzeichnungsbild hochladen und einen Prompt eingeben, um die gewünschte Farbgebung zu beschreiben. Die KI interpretiert deine künstlerische Absicht und generiert ein koloriertes Bild."
+    },
+    "how_does_it_work": {
+      "question": "Wie funktioniert die KI-Strichzeichnungskolorierung?",
+      "answer": "Die KI-Strichzeichnungskolorierung verwendet fortschrittliche KI-Modelle, die auf Millionen von Bildern trainiert wurden, um Muster in Strichzeichnungen zu erkennen und künstlerische Farben anzuwenden. Du lädst deine Skizze hoch, fügst einen Farbprompt hinzu und die KI interpretiert deine künstlerische Absicht und generiert ein koloriertes Bild."
+    },
+    "benefits": {
+      "question": "Welche Vorteile bietet die KI-Strichzeichnungskolorierung?",
+      "answer": {
+        "intro": "Es gibt verschiedene Vorteile beim Kolorieren von Strichzeichnungen mit KI:",
+        "benefit1": "Spart Zeit im Vergleich zur manuellen Kolorierung.",
+        "benefit2": "Erzeugt hochwertige, professionelle Ergebnisse.",
+        "benefit3": "Zugänglich für Nicht-Künstler und Anfänger.",
+        "benefit4": "Anpassbar mit Prompts, um deiner kreativen Vision zu entsprechen."
+      }
+    },
+    "commercial_use": {
+      "question": "Kann ich KI-kolorierte Bilder für kommerzielle Zwecke verwenden?",
+      "answer": "Ja, du kannst KI-generierte kolorierte Bilder für private und kommerzielle Zwecke verwenden. Stelle jedoch sicher, dass du die Nutzungsbedingungen von KomikoAI einhältst."
+    },
+    "formats": {
+      "question": "Welche Formate und Größen werden unterstützt?",
+      "answer": "Die KI unterstützt Strichzeichnungen in den Formaten JPG und PNG. Ausgabebilder werden in ihrer Originalgröße ausgegeben."
+    },
+    "is_free": {
+      "question": "Ist der KI-Strichzeichnungskolorierer kostenlos?",
+      "answer": "KomikoAI bietet kostenlose Zaps (Credits) an, mit denen du das Tool ausprobieren kannst. Du kannst auch kostenpflichtige Pläne für weitere Zaps erwerben, wenn du mehr Nutzung benötigst, sowie erweiterte Funktionen wie schnellere Verarbeitung und höhere Auflösungen."
+    },
+    "prompts": {
+      "question": "Welche Prompts sollte ich für die besten KI-Kolorierungsergebnisse verwenden?",
+      "answer": "Verwende klare und beschreibende Prompts wie \"rote Haare, blaue Augen, modernes Outfit.\" Vermeide zweideutige Begriffe."
+    },
+    "limitations": {
+      "question": "Welche Einschränkungen hat die KI-Strichzeichnungskolorierung?",
+      "answer": {
+        "intro": "Obwohl die KI-Strichzeichnungskolorierung ein leistungsstarkes Werkzeug ist, hat sie einige Einschränkungen:",
+        "limitation1": "Künstlerischer Stil: Die KI stimmt möglicherweise nicht immer perfekt mit deinem gewünschten künstlerischen Stil überein.",
+        "limitation2": "Komplexe Details: Komplizierte oder sehr detaillierte Strichzeichnungen können unerwartete Ergebnisse liefern.",
+        "limitation3": "Anpassung: Die Kolorierung basiert auf Prompts, und allzu vage oder unklare Prompts können zu unbefriedigenden Ergebnissen führen.",
+        "conclusion": "Trotz dieser Einschränkungen kann die KI-Kolorierung die Arbeitsabläufe erheblich beschleunigen und die Kreativität fördern."
+      }
+    },
+    "need_to_draw": {
+      "question": "Muss ich zeichnen können, um die KI-Strichzeichnungskolorierung zu verwenden?",
+      "answer": {
+        "intro": "Nein, du musst nicht zeichnen können, um die KI-Strichzeichnungskolorierung zu verwenden.",
+        "for_artists": "Für Künstler: Wenn du deine eigenen Skizzen erstellst, kann dieses Tool sie mit lebendigen Farben zum Leben erwecken.",
+        "for_non_artists": "Für Nicht-Künstler: Du kannst mit vorhandenen Strichzeichnungen oder Vorlagen beginnen, diese hochladen und die KI die Kolorierung übernehmen lassen.",
+        "conclusion": "Dieses Tool ist für jeden benutzerfreundlich, egal ob du ein erfahrener Künstler oder ein Anfänger bist, der die Kreativität erkundet."
+      }
+    },
+    "types_of_line_art": {
+      "question": "Welche Arten von Strichzeichnungen kann ich mit KI kolorieren?",
+      "answer": {
+        "intro": "Der KI-Kolorierer funktioniert mit verschiedenen Arten von Strichzeichnungen:",
+        "type1": "Skizzen und Zeichnungen",
+        "type2": "Manga- und Comic-Seiten",
+        "type3": "Charakterdesigns",
+        "type4": "Illustrationen",
+        "type5": "Produktdesigns",
+        "type6": "Architekturzeichnungen",
+        "conclusion": "Für beste Ergebnisse stelle sicher, dass deine Strichzeichnung klare, gut definierte Linien und einen guten Kontrast aufweist."
+      }
+    },
+    "best_results": {
+      "question": "Wie erziele ich die besten Ergebnisse mit der KI-Kolorierung?",
+      "answer": {
+        "intro": "Befolge diese Tipps für eine optimale Kolorierung:",
+        "tip1": "Verwende saubere, kontrastreiche Strichzeichnungen",
+        "tip2": "Schreibe klare, spezifische Prompts, die Farben und Stil beschreiben",
+        "tip3": "Experimentiere mit verschiedenen Prompt-Variationen",
+        "tip4": "Berücksichtige die Gesamtkomposition bei der Beschreibung von Farben",
+        "tip5": "Verwende Referenzbilder, um deine Farbwahl zu steuern"
+      }
+    },
+    "comparison": {
+      "question": "Wie schneidet die KI-Kolorierung im Vergleich zur manuellen Kolorierung ab?",
+      "answer": "Die KI-Kolorierung bietet erhebliche Zeiteinsparungen im Vergleich zur manuellen Kolorierung und reduziert den Arbeitsaufwand von Stunden auf Minuten. Sie kann zwar die traditionelle Kolorierung für komplexe künstlerische Projekte nicht vollständig ersetzen, ist aber ein hervorragendes Werkzeug für schnelles Prototyping, Konzeptvisualisierung und die schnelle Erstellung mehrerer Farbvarianten. Die KI versteht die Farbtheorie und kann harmonische Farbkombinationen vorschlagen, die du möglicherweise nicht in Betracht gezogen hast."
+    },
+    "edit_results": {
+      "question": "Kann ich die KI-kolorierten Ergebnisse bearbeiten?",
+      "answer": "Ja, du kannst die KI-kolorierten Bilder mit deiner bevorzugten digitalen Kunstsoftware weiter bearbeiten und verfeinern. Das KI-generierte Ergebnis dient als hervorragende Basis, die du mit deiner persönlichen künstlerischen Note verbessern kannst."
+    },
+    "creative_uses": {
+      "question": "Welche kreativen Möglichkeiten gibt es, die KI-Strichzeichnungskolorierung zu nutzen?",
+      "answer": {
+        "intro": "Die KI-Strichzeichnungskolorierung kann verwendet werden für:",
+        "use1": "Schnelles Prototyping von Charakterdesigns",
+        "use2": "Erstellen mehrerer Farbvarianten für Kunden",
+        "use3": "Kolorieren von Manga-Seiten",
+        "use4": "Konzeptkunstentwicklung",
+        "use5": "Pädagogische Zwecke im Kunstunterricht",
+        "use6": "Wiederbelebung alter Schwarzweiß-Illustrationen"
+      }
+    },
+    "reference_feature": {
+      "question": "Wie funktioniert die Referenzbildfunktion im Strichzeichnungskolorierer der KomikoAI KI?",
+      "answer": "Der Strichzeichnungskolorierer von KomikoAI KI verfügt über eine leistungsstarke Referenzbildfunktion, mit der du die Farbwahl der KI für deine Mangas, Comics oder Illustrationen steuern kannst. Indem du ein Referenzbild zusammen mit deiner Strichzeichnung hochlädst, analysiert die KI die Farbpalette und den künstlerischen Stil, um gezieltere Kolorierungsergebnisse zu erzielen. Diese Funktion ist besonders wertvoll für Manga-Künstler und Comic-Schöpfer, die eine einheitliche Farbgebung in ihren Kunstwerken beibehalten möchten. Der KI-Kolorierer verwendet fortschrittliches maschinelles Lernen, um Farbschemata aus deinem Referenzbild zu extrahieren und sie auf intelligente Weise auf deine Strichzeichnung anzuwenden, während die ursprüngliche künstlerische Absicht erhalten bleibt."
+    },
+    "good_reference": {
+      "question": "Was macht ein gutes Referenzbild für die KI-Strichzeichnungskolorierung aus?",
+      "answer": {
+        "intro": "Wähle für optimale Ergebnisse mit dem Strichzeichnungskolorierer von KomikoAI KI Referenzbilder aus, die mit deiner künstlerischen Vision für Mangas, Comics oder Illustrationen übereinstimmen. Die besten Referenzbilder sollten:",
+        "quality1": "Klare, gut definierte Farben und eine Beleuchtung aufweisen, die deinem gewünschten Manga- oder Comic-Stil entspricht",
+        "quality2": "Ähnliche Inhalte oder eine ähnliche künstlerische Ausrichtung wie deine Strichzeichnung aufweisen (z. B. Anime-Stil, Comic-Buch-Stil)",
+        "quality3": "Die spezifische Farbpalette aufweisen, die du in deinem Kunstwerk erreichen möchtest",
+        "quality4": "Gut beleuchtet und von hoher Qualität sein, damit die KI die Farben genau analysieren kann",
+        "conclusion": "Du kannst verschiedene Arten von Referenzen verwenden, darunter vorhandene Anime-Charaktere, Anime-Screenshots, Manga-Panels oder digitale Illustrationen. Diese Flexibilität ermöglicht es Künstlern, eine präzise Farbabstimmung zu erreichen und die Konsistenz über ihre Manga-Seiten oder Comic-Panels hinweg zu gewährleisten."
+      }
+    },
+    "items": [
+      {
+        "id": 1,
+        "question": "Was ist AI-Linienkunst-Kolorierung?",
+        "answer": "AI-Linienkunst-Kolorierung ist ein Verfahren, bei dem Künstliche Intelligenz eingesetzt wird, um Schwarz-Weiß-Zeichnungen automatisch zu färben. Mit dem Komiko AI-Linienkunst-Kolorierer-Tool können Skizzen, Manga oder alle Arten von Linienkunst in lebendige, vollfarbige Bilder verwandelt werden, was sowohl Künstlern als auch Enthusiasten Zeit spart."
+      },
+      {
+        "id": 2,
+        "question": "Wie kann man Schwarz-Weiß-Linienkunst mit AI färben?",
+        "answer": "Mit Komiko AI können Sie Ihre Linienkunst in vier einfachen Schritten färben:\n1. Laden Sie Ihr Linienkunstbild in den AI-Kolorierer hoch.\n2. Geben Sie eine Eingabeaufforderung ein, um die gewünschte Färbung zu beschreiben.\n3. Klicken Sie auf die Schaltfläche \"Bild kolorieren\", um den Kolorierungsvorgang zu starten.\n4. Laden Sie das kolorierte Bild herunter und teilen Sie es mit Ihren Freunden!"
+      },
+      {
+        "id": 0,
+        "question": "Kann ich AI verwenden, um meine Linienarbeiten zu färben und zu schattieren?",
+        "answer": "Ja, Sie können AI einsetzen, um Ihre Linienarbeiten zu färben und zu schattieren. Das Komiko AI-Linienkunst-Kolorierer-Tool kann Ihre Schwarz-Weiß-Zeichnungen mit lebendigen Farben und Schattierungen füllen. Sie können einfach Ihr Bild hochladen und eine Eingabeaufforderung zur gewünschten Färbung eingeben, und die AI wird Ihre künstlerische Intention interpretieren und ein koloriertes Bild erstellen."
+      },
+      {
+        "id": 3,
+        "question": "Wie funktioniert die AI-Linienkunst-Kolorierung?",
+        "answer": "Die AI-Linienkunst-Kolorierung verwendet fortschrittliche AI-Modelle, die mit Millionen von Bildern trainiert wurden, um Muster in Linienkunst zu erkennen und passende Farbgebungen anzuwenden. Sie laden Ihre Skizze hoch, geben eine Farbeingabe an, und die AI interpretiert Ihre künstlerische Absicht, um ein koloriertes Bild zu erzeugen."
+      },
+      {
+        "id": 4,
+        "question": "Was sind die Vorteile der AI-Linienkunst-Kolorierung?",
+        "answer": "Es gibt mehrere Vorteile bei der Nutzung von AI für die Färbung von Linienkunst:\n- Zeitersparnis im Vergleich zur manuellen Kolorierung\n- Produktion hochwertiger, professioneller Ergebnisse\n- Zugänglich für Anfänger und Nicht-Künstler\n- Anpas­sungs­fähig mittels Eingabeaufforderungen zur Erfüllung Ihrer kreativen Vision"
+      },
+      {
+        "id": 5,
+        "question": "Kann ich AI-kolorierte Bilder für kommerzielle Zwecke verwenden?",
+        "answer": "Ja, Sie können die von der AI generierten kolorierten Bilder sowohl für persönliche als auch kommerzielle Zwecke verwenden. Beachten Sie dabei jedoch die Nutzungsbedingungen von Komiko."
+      },
+      {
+        "id": 6,
+        "question": "Welche Formate und Größen werden unterstützt?",
+        "answer": "Die AI unterstützt die Bildformate JPG und PNG. Die Ausgabebilder behalten ihre ursprüngliche Größe."
+      },
+      {
+        "id": 7,
+        "question": "Ist der AI-Linienkunst-Kolorierer kostenlos nutzbar?",
+        "answer": "Zur Erprobung bietet Komiko kostenlose Zaps (Credits) an. Außerdem können Sie kostenpflichtige Pläne erwerben, um mehr Zaps zu erhalten, sowie erweiterte Funktionen wie schnellere Verarbeitung und höhere Auflösungen nutzen."
+      },
+      {
+        "id": 8,
+        "question": "Welche Eingabeaufforderungen sollte ich für die besten AI-Kolorierungsergebnisse verwenden?",
+        "answer": "Verwenden Sie klare und präzise Eingaben, zum Beispiel \"rote Haare, blaue Augen, modernes Outfit\". Vermeiden Sie mehrdeutige Begriffe."
+      },
+      {
+        "id": 9,
+        "question": "Was sind die Einschränkungen der AI-Linienkunst-Kolorierung?",
+        "answer": "Trotz ihrer Leistungsfähigkeit weist die AI-Linienkunst-Kolorierung einige Einschränkungen auf:\n- Künstlerischer Stil: Die AI trifft eventuell nicht immer exakt Ihren gewünschten künstlerischen Stil.\n- Komplexe Details: Bei stark detaillierten Arbeiten können unerwartete Ergebnisse auftreten.\n- Anpassung: Unklare oder vage Eingaben können zu unbefriedigenden Resultaten führen.\nTrotz dieser Einschränkungen kann die AI-Kolorierung den Arbeitsablauf erheblich beschleunigen und die Kreativität fördern."
+      },
+      {
+        "id": 10,
+        "question": "Muss ich zeichnen können, um AI-Linienkunst-Kolorierung zu verwenden?",
+        "answer": "Nein, Zeichnen ist nicht erforderlich, um die AI-Linienkunst-Kolorierung zu nutzen. Für Künstler: Ihre eigenen Skizzen können mit lebendigen Farben zum Leben erweckt werden. Für Nicht-Künstler: Beginnen Sie mit vorhandener Linienkunst oder Vorlagen, laden Sie diese hoch, und überlassen Sie der AI die Färbung. Dieses Werkzeug ist nutzerfreundlich und eignet sich sowohl für erfahrene Künstler als auch für Anfänger, die ihre Kreativität erkunden möchten."
+      },
+      {
+        "id": 11,
+        "question": "Welche Arten von Linienkunst kann ich mit AI kolorieren?",
+        "answer": "Der AI-Kolorierer funktioniert mit verschiedenen Arten von Linienkunst: Skizzen und Zeichnungen, Manga- und Comicseiten, Charakterdesigns, Illustrationen, Produktdesigns und architektonische Zeichnungen. Für beste Ergebnisse sollten Ihre Linien klar, gut definiert und kontrastreich sein."
+      },
+      {
+        "id": 12,
+        "question": "Wie kann ich die besten Ergebnisse aus der AI-Kolorierung erzielen?",
+        "answer": "Folgen Sie diesen Tipps für optimale Ergebnisse:\n- Verwenden Sie saubere, kontrastreiche Linienkunst\n- Schreiben Sie klare, spezifische Eingaben zur Beschreibung von Farben und Stil\n- Experimentieren Sie mit verschiedenen Varianten der Eingabeaufforderung\n- Berücksichtigen Sie die Gesamtkomposition\n- Nutzen Sie Referenzbilder, um Ihre Farbwahl zu leiten"
+      },
+      {
+        "id": 13,
+        "question": "Wie vergleicht sich AI-Kolorierung mit manueller Kolorierung?",
+        "answer": "AI-Kolorierung bietet eine erhebliche Zeitersparnis im Vergleich zur manuellen Kolorierung und reduziert Arbeitsstunden auf Minuten. Während sie die traditionelle Kolorierung bei komplexen Projekten eventuell nicht vollständig ersetzen kann, ist sie ein hervorragendes Werkzeug für schnelle Prototypen, Konzeptvisualisierungen und das schnelle Erstellen mehrerer Farbvariationen. Die AI versteht Farbtheorie und kann harmonische Farbkombinationen vorschlagen."
+      },
+      {
+        "id": 14,
+        "question": "Kann ich die AI-kolorierten Ergebnisse bearbeiten?",
+        "answer": "Ja, Sie können die AI-kolorierten Bilder weiter bearbeiten und verfeinern, indem Sie Ihre bevorzugte digitale Kunstsoftware verwenden. Das AI-Ergebnis dient als solide Grundlage, die Sie durch Ihren persönlichen künstlerischen Ausdruck verbessern können."
+      },
+      {
+        "id": 15,
+        "question": "Was sind einige kreative Möglichkeiten, AI-Linienkunst-Kolorierung zu verwenden?",
+        "answer": "AI-Linienkunst-Kolorierung kann in vielerlei Hinsicht genutzt werden:\n- Schnelle Prototypen von Charakterdesigns\n- Erstellen mehrerer Farbvariationen für Kunden\n- Kolorierung von Manga-Seiten\n- Entwicklung von Konzeptkunst\n- Bildungszwecke im Kunstunterricht\n- Wiederbelebung alter Schwarz-Weiß-Illustrationen"
+      },
+      {
+        "id": 16,
+        "question": "Wie funktioniert das Referenzbild-Feature im Linienkunst-Kolorierer von Komiko AI?",
+        "answer": "Das Komiko AI-Tool bietet ein leistungsstarkes Referenzbild-Feature, das die AI bei der Farbwahl für Manga, Comics oder Illustrationen leitet. Wenn Sie ein Referenzbild zusammen mit Ihrer Linienkunst hochladen, analysiert die AI die Farbpalette und den künstlerischen Stil, um gezielte Kolorierungsergebnisse zu erzeugen. Dieses Feature ist besonders für Manga-Künstler und Comic-Ersteller nützlich, um eine konsistente Kolorierung beizubehalten. Der AI-Kolorierer verwendet fortgeschrittenes maschinelles Lernen, um Farbschemata aus Ihrem Referenzbild zu extrahieren und diese intelligent auf Ihre Linienkunst anzuwenden, während die ursprüngliche künstlerische Intention erhalten bleibt."
+      },
+      {
+        "id": 17,
+        "question": "Was macht ein gutes Referenzbild für die AI-Linienkunst-Kolorierung aus?",
+        "answer": "Für optimale Ergebnisse sollten Sie Referenzbilder auswählen, die Ihrer künstlerischen Vision für Manga, Comics oder Illustrationen entsprechen. Die besten Referenzbilder sollten:\n- Klar definierte Farben und Beleuchtung aufweisen, die Ihrem gewünschten Stil entsprechen\n- Ähnlichen Inhalt oder Stil aufzeigen wie Ihre Linienkunst (z. B. Anime-Stil, Comicbuch-Stil)\n- Eine spezifische Farbpalette zeigen, die Sie erreichen möchten\n- Gut beleuchtet und von hoher Qualität sein, um der AI eine genaue Farbanalyse zu ermöglichen. Sie können verschiedene Referenzarten verwenden, darunter bestehende Anime-Charaktere, Anime-Screenshots, Manga-Panels oder digitale Illustrationen, um präzise Farbumsetzungen und Konsistenz über mehrere Werke hinweg zu erzielen."
+      }
+    ]
+  },
+  "deleteModal": {
+    "title": "Löschbestätigung",
+    "message": "Bist du sicher, dass du dieses Video löschen möchtest? Diese Aktion kann nicht rückgängig gemacht werden."
+  },
+  "colorize_image": "Bild kolorieren"
+}

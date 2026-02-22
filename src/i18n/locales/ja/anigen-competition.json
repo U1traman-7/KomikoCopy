@@ -1,0 +1,176 @@
+{
+  "hero": {
+    "title": "AniGen",
+    "subtitle": "世界初、AI短編アニメーションコンテスト",
+    "sponsors": "スポンサー",
+    "btnRules": "応募ルール詳細",
+    "btnSubmit": "作品を応募する"
+  },
+  "about": {
+    "subtitle": "AIとアニメーションの融合が、ここに。",
+    "title": "チャレンジについて",
+    "description1": "世界初の縦型AI短編アニメーションコンテスト、AniGenへようこそ。主催はKomikoAI、Hedra、Hailuo、AniShort。最先端AI技術と創造的なストーリーテリングで、アニメーションの新境地を切り拓きましょう。",
+    "description2": "AniGenは、アニメーション分野における新たな才能の発掘と育成を目指します。AIでアニメーションの可能性を広げてみませんか？AIクリエイター、新しい技術を探求するアニメーター、脚本家、アニメーション愛好家の皆様、才能を披露し、豪華賞品、AIツール無料サブスクリプション、AniShortでの作品公開のチャンスを掴んでください。"
+  },
+  "prizes": {
+    "title": "賞品",
+    "animation": {
+      "title": "アニメーション部門",
+      "grandPrize": "最優秀賞 (1名)",
+      "grandPrizeDetails": [
+        "3,000ドル",
+        "Hailuo、Hedra、KomikoAI プロサブスクリプション6ヶ月無料",
+        "AniShortでの紹介と、資金援助によるアニメーションの更なる発展の機会"
+      ],
+      "secondPrize": "優秀賞 (1名)",
+      "secondPrizeDetails": "1,500ドル + AIツール プロサブスクリプション3ヶ月無料",
+      "runnerUp": "準優秀賞 (2名)",
+      "runnerUpDetails": "500ドル + AIツール プロサブスクリプション2ヶ月無料",
+      "excellence": "優秀賞 (30名)",
+      "excellenceDetails": "AIツール プロサブスクリプション1ヶ月無料",
+      "note": "受賞作品は、スポンサーのソーシャルチャンネルで紹介され、AniShortでの公開、資金援助やスタジオサポートによる更なる発展の機会も検討されます。"
+    },
+    "scriptwriting": {
+      "title": "脚本部門",
+      "grandPrize": "最優秀賞 (1名)",
+      "grandPrizeDetails": "1,000ドル",
+      "excellence": "優秀賞 (3名)",
+      "excellenceDetails": "100ドル",
+      "note": "選ばれた脚本はアニメーション化され、AniShortで収益分配により公開される可能性があります。"
+    }
+  },
+  "judges": {
+    "label": "審査員紹介",
+    "title": "審査員",
+    "description": "業界を牽引するリーダーや、クリエイティブな先駆者たちをご紹介します。",
+    "judge1": {
+      "name": "Ben Waller",
+      "title": "Story Engine Inc. 最高クリエイティブ責任者、脚本家（『スタートレック：ローワーデッキ』、『Roborockaylpse』）"
+    },
+    "judge2": {
+      "name": "Michael Lingelbach",
+      "title": "Hedra 創業者兼CEO"
+    },
+    "judge3": {
+      "name": "Garrett Pollack",
+      "title": "アニメ分野のソーシャルメディアインフルエンサー"
+    },
+    "judge4": {
+      "name": "Aiden Guo",
+      "title": "『ワンピース』アニメーター、AIアニメーションクリエイター兼インフルエンサー"
+    },
+    "judge5": {
+      "name": "Leanna Ren",
+      "title": "MiniMax VP"
+    }
+  },
+  "timeline": {
+    "title": "開催スケジュール",
+    "launch": {
+      "date": "2025年4月28日",
+      "title": "コンテスト開始"
+    },
+    "submission": {
+      "date": "2025年4月28日～5月20日",
+      "title": "応募受付期間"
+    },
+    "judging": {
+      "date": "2025年5月20日～6月1日",
+      "title": "審査期間"
+    },
+    "announcement": {
+      "date": "2025年6月1日",
+      "title": "受賞者発表"
+    }
+  },
+  "rules": {
+    "title": "応募要項",
+    "animation": {
+      "title": "アニメーション部門",
+      "description": "魅力的なストーリーを語る、縦型短編アニメーションを制作してください。",
+      "format": {
+        "label": "形式:",
+        "value": "9:16 縦型 (モバイル向け最適化)、MP4"
+      },
+      "duration": {
+        "label": "長さ:",
+        "value": "30秒～3分"
+      },
+      "content": {
+        "label": "内容:",
+        "value": "完結したストーリー、またはシリーズのオープニングストーリーである必要があります。予告編やミュージックビデオは不可。"
+      },
+      "requirements": {
+        "label": "主な要件:",
+        "list": [
+          "制作にAIツールを50%以上使用。以下を含む:",
+          "HedraのCharacter-3モデルを使用した、キャラクター同士の会話シーン（最低1つ）",
+          "KomikoAIで生成された、キャラクター/シーン画像（最低1つ）",
+          "Hailuo、またはHedra/KomikoAIで生成されたアニメーションクリップ（最低1つ）",
+          "オリジナル作品のみ - 著作権侵害は禁止",
+          "英語のボイスオーバーまたは字幕が必須",
+          "作品をソーシャルメディアに投稿し、#AniGen @hedra_labs @KomikoAI @Hailuo_AI @AniShortApp をタグ付けして、公式アカウントからのリポストを可能にする",
+          "応募資格は18歳以上",
+          "NSFWコンテンツ、ヘイトスピーチ、過度な暴力表現、著作権で保護された素材の使用は禁止"
+        ]
+      }
+    },
+    "scriptwriting": {
+      "title": "脚本部門",
+      "description": "縦型短編アニメーションシリーズのオリジナルコンセプトを制作してください。",
+      "format": {
+        "label": "形式:",
+        "value": "最初の5話分の脚本を含む、コンセプトパッケージ"
+      },
+      "duration": {
+        "label": "長さ:",
+        "value": "各エピソードは1〜2分。テンポが速く、視聴者の興味を引く展開であること"
+      },
+      "genre": {
+        "label": "ジャンル:",
+        "value": "アクション、ロマンス、ファンタジー、異世界、少年など、ジャンルは問いません。"
+      },
+      "requirements": {
+        "label": "要件:",
+        "list": [
+          "タイトル、プロットのあらすじ、キャラクター概要、最初の5話分の完全な脚本",
+          "言語: 英語または英語翻訳付き",
+          "オリジナル作品のみ - 著作権侵害は禁止",
+          "NSFWコンテンツ、ヘイトスピーチ、過度な暴力表現、著作権で保護された素材の使用は禁止"
+        ]
+      }
+    },
+    "participation": {
+      "note": "* 参加者は、興味やスキルに応じて、どちらか一方、または両方のトラックにご参加いただけます。"
+    }
+  },
+  "sponsors": {
+    "title": "スポンサー＆パートナー",
+    "hedra": {
+      "name": "Hedra",
+      "description": "AIアバター動画生成モデル"
+    },
+    "hailuo": {
+      "name": "Hailuo",
+      "description": "AI動画生成モデル"
+    },
+    "komiko": {
+      "name": "KomikoAI",
+      "description": "AIアニメーション＆コミック制作ツールキット"
+    },
+    "anishort": {
+      "name": "AniShort",
+      "description": "短編アニメーションストリーミングプラットフォーム"
+    }
+  },
+  "submit": {
+    "title": "アニメーションの未来を、共に創ろう。",
+    "description": "今すぐ応募して、AIアニメーションの新たな波を切り開きませんか。",
+    "btnSubmit": "作品を応募する",
+    "btnRules": "応募ルールを確認する"
+  },
+  "meta": {
+    "title": "AniGenコンテスト - AI短編アニメーションコンテスト | 総額6,000ドル相当とAIツール無料サブスクリプションが当たる",
+    "description": "KomikoAI、Hedra、Hailuo、AniShort主催。世界初の縦型AI短編アニメーションコンテストに参加しよう。"
+  }
+}

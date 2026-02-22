@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI黏土滤镜",
+      "description": "立即使用AI将您的照片转换为具有艺术感的黏土风格作品！轻松创作独一无二的数字艺术作品。免费试用！",
+      "keywords": "AI黏土滤镜, AI照片转换, 数字黏土艺术, AI艺术效果, AI创作的黏土图像"
+    },
+    "hero": {
+      "title": "AI黏土滤镜"
+    },
+    "whatIs": {
+      "title": "什么是AI黏土滤镜？",
+      "description": "AI黏土滤镜是一款先进的人工智能工具，能够将您的照片转换为具有独特纹理的黏土风格艺术作品。它利用在各种艺术风格上训练的尖端神经网络，让用户可以将视觉创意转化为栩栩如生的黏土雕塑，同时保留手工艺术的细腻质感。无论您是经验丰富的艺术家，还是充满好奇心的创作者，AI黏土滤镜都能为您提供一种简单便捷的方式来进行实验和创新。"
+    },
+    "examples": {
+      "title": "AI黏土滤镜示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用AI黏土滤镜",
+      "steps": [
+        {
+          "title": "步骤 1：上传您的照片",
+          "content": "首先，请上传一张您想要转换的清晰、高分辨率图像。更高质量的输入图像将生成更令人印象深刻的黏土风格艺术作品。"
+        },
+        {
+          "title": "步骤 2：选择黏土动画模板",
+          "content": "选择合适的黏土动画模板，将您的照片转换成独特的黏土动画风格。"
+        },
+        {
+          "title": "步骤 3：转换为黏土动画",
+          "content": "点击“转换”按钮，让AI来完成剩下的工作！稍等片刻，您的照片将被渲染成一件精美的黏土艺术作品，供您使用。"
+        },
+        {
+          "title": "步骤 4：下载和分享",
+          "content": "如果您对作品感到满意，即可下载并在社交媒体上分享，或将其融入您的项目中。尽情展示您的AI黏土滤镜创作吧！"
+        }
+      ],
+      "subtitle": "按照以下简单步骤，轻松创作您独一无二的黏土风格艺术作品。"
+    },
+    "benefits": {
+      "title": "为什么要使用AI黏土滤镜？",
+      "description": "了解我们AI驱动的黏土转换工具所具备的优势。",
+      "features": [
+        {
+          "title": "🎨 独特的黏土艺术风格",
+          "content": "轻松创作出具有丰富纹理和维度的独特黏土风格艺术作品。"
+        },
+        {
+          "title": "⚡ 快速且用户友好",
+          "content": "在几秒钟内完成图像转换，操作简单便捷，非常适合追求快速成效的创意人士。"
+        },
+        {
+          "title": "🖼️ 多种用途",
+          "content": "适用于需要新鲜灵感的艺术家、希望创建引人注目的内容的营销人员，以及渴望尝试新事物的爱好者。"
+        },
+        {
+          "title": "💽 高质量输出",
+          "content": "享受适用于打印和数字分享的高分辨率输出，无需牺牲图像质量。"
+        },
+        {
+          "title": "🛠️ 可定制的功能",
+          "content": "调整设置以实现个性化转换，确保最终效果与您的创意愿景相符。"
+        },
+        {
+          "title": "🌐 加入创意社区",
+          "content": "与其他艺术家交流并分享您的作品，寻找灵感，并获得关于您作品的反馈。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI黏土滤镜 FAQ",
+      "description": "",
+      "q1": "什么是AI黏土滤镜，它是如何工作的？",
+      "a1": "AI黏土滤镜利用先进的机器学习算法，将您的图像转换成具有黏土质感的风格化艺术作品。",
+      "q2": "如何才能从AI黏土滤镜获得最佳效果？",
+      "a2": "选择清晰的图像，并尝试不同的可用风格，以获得理想的黏土效果。",
+      "q3": "AI黏土滤镜可以免费使用吗？",
+      "a3": "是的，AI黏土滤镜的基本功能可以免费使用。我们同时提供高级功能，以满足更高阶的需求。",
+      "q4": "与其他同类生成器相比，AI黏土滤镜的独特之处是什么？",
+      "a4": "它专注于纹理的质量，使每件艺术品都呈现出独特的手工感，从而提供一种独特的有机外观。",
+      "q5": "我是否可以将我的作品用于商业用途？",
+      "a5": "当然！您可以将您的黏土风格艺术作品用于商业用途，前提是您遵守我们的使用条款。"
+    },
+    "cta": {
+      "title": "立即开始创作您的黏土艺术",
+      "description": "释放您的创造力，见证您的照片转变为令人惊叹的黏土艺术杰作。立即体验AI黏土滤镜的强大功能！",
+      "buttonText": "免费转换为AI黏土滤镜"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into AI Clay Filter style",
+  "originalKeyword": "AI Clay Filter",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "image": "/images/examples/playground/ai-clay-filter/example_1.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_2.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_3.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_4.webp",
+      "prompt": "Style: Clay Filter"
+    }
+  ]
+}

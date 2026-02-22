@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Clay Filter",
+      "description": "Elevate your photos to artistic clay-inspired works instantly with AI! Create unique digital art effortlessly. Try it free!",
+      "keywords": "AI Clay Filter, AI photo transformation, digital clay art, AI artistic effects, AI-created clay images"
+    },
+    "hero": {
+      "title": "AI Clay Filter"
+    },
+    "whatIs": {
+      "title": "What is AI Clay Filter?",
+      "description": "The AI Clay Filter is an advanced AI tool that converts your photos into textured clay-style artworks. Utilizing cutting-edge neural networks trained on varied artistic styles, this generator allows users to realize their visual ideas as vivid clay sculptures, maintaining the intricate feel of handcrafted art. Whether you're a seasoned artist or a curious creator, the AI Clay Filter offers an easy way to experiment and innovate."
+    },
+    "examples": {
+      "title": "AI Clay Filter Examples",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "How to Use AI Clay Filter",
+      "steps": [
+        {
+          "title": "Step 1: Upload Your Photo",
+          "content": "Start by uploading a clear, high-resolution image you’d like to transform. Higher-quality input images yield more impressive clay-style art."
+        },
+        {
+          "title": "Step 2: Select the Claymation Template",
+          "content": "Select the Claymation template to transform your photo with the claymation style."
+        },
+        {
+          "title": "Step 3: Convert to Claymation",
+          "content": "Hit the ‘Transform’ button and let our AI do the work! In moments, your photo will be rendered as a brilliant clay art piece, ready for you to use."
+        },
+        {
+          "title": "Step 4: Download and Share",
+          "content": "Once you're satisfied, download your artwork and share it on social media or incorporate it into your projects. Showcase your AI Clay Filter creation!"
+        }
+      ],
+      "subtitle": "Use these simple steps to create your unique clay-style art effortlessly."
+    },
+    "benefits": {
+      "title": "Why Use AI Clay Filter?",
+      "description": "Discover the advantages of our AI-driven clay transformation tool.",
+      "features": [
+        {
+          "title": "🎨 Unique Clay Art Styles",
+          "content": "Easily create distinct clay-style artworks that stand out with rich textures and dimensions."
+        },
+        {
+          "title": "⚡ Fast and User-Friendly",
+          "content": "Transform images in seconds with minimal efforts—ideal for creatives seeking instant results."
+        },
+        {
+          "title": "🖼️ Versatile Uses",
+          "content": "Perfect for artists needing fresh inspiration, marketers wanting to create attention-grabbing content, or hobbyists eager to experiment."
+        },
+        {
+          "title": "💽 High-Quality Outputs",
+          "content": "Enjoy high-resolution outputs that are suitable for print and digital sharing without sacrificing quality."
+        },
+        {
+          "title": "🛠️ Customizable Features",
+          "content": "Adjust settings for tailored transformations that align with your vision."
+        },
+        {
+          "title": "🌐 Join a Creative Community",
+          "content": "Connect with fellow artists and share your creations, find inspiration, and receive feedback on your work."
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI Clay Filter FAQ",
+      "description": "",
+      "q1": "What is AI Clay Filter and how does it work?",
+      "a1": "AI Clay Filter uses advanced machine learning algorithms to transform your images into styled artworks as if made from clay.",
+      "q2": "How can I get the best results from AI Clay Filter?",
+      "a2": "Select clear images and experiment with different available styles for the best clay effects.",
+      "q3": "Is AI Clay Filter free to use?",
+      "a3": "Yes, basic features of the AI Clay Filter are free to use, with premium options available for advanced functionalities.",
+      "q4": "What makes AI Clay Filter unique compared to other generators?",
+      "a4": "Its focus on textural quality makes each artwork appear uniquely handcrafted, offering a distinctly organic look.",
+      "q5": "Can I use my creations commercially?",
+      "a5": "Absolutely! You can leverage your clay-style artworks for commercial uses, as long as you comply with our usage policies."
+    },
+    "cta": {
+      "title": "Start Creating Your Clay Art Today",
+      "description": "Embrace your creativity and watch your photos transform into stunning clay masterpieces. Don't wait—experience the power of AI Clay Filter!",
+      "buttonText": "Transform to AI Clay Filter Free"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into AI Clay Filter style",
+  "originalKeyword": "AI Clay Filter",
+  "defaultStyle": "clay",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "image": "/images/examples/playground/ai-clay-filter/example_1.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_2.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_3.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_4.webp",
+      "prompt": "Style: Clay Filter"
+    }
+  ]
+}

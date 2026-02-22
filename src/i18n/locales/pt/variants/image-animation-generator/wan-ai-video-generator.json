@@ -1,0 +1,130 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Gerador de Vídeo Wan AI - KomikoAI",
+      "description": "Crie vídeos dinâmicos e de alta qualidade a partir de texto e imagens com o Gerador de Vídeo Wan AI. Experimente movimento de nível profissional, simulação de física e produção de vídeo eficiente.",
+      "keywords": "Gerador de Vídeo Wan AI, criação de vídeo com IA, texto para vídeo, imagem para vídeo, animação com IA, ferramenta de geração de vídeo, edição de vídeo com IA, simulação de movimento, plataforma de vídeo com IA"
+    },
+    "hero": {
+      "title": "Gerador de Vídeo Wan AI",
+      "description": "Aproveite a tecnologia de IA de ponta para transformar as suas ideias em vídeos cativantes. Gere vídeos ricos em movimento, fisicamente precisos e altamente personalizáveis sem esforço."
+    },
+    "whatIs": {
+      "title": "O que é o Gerador de Vídeo Wan AI?",
+      "description": "O Gerador de Vídeo Wan AI transforma as suas ideias em vídeos impressionantes utilizando tecnologia de IA de ponta. Desenvolvido pelo Wan2, o mais recente avanço do Tongyi Lab do Alibaba Group, esta ferramenta combina Autoencoders Variacionais 3D avançados e Transformers de Difusão de vídeo para fornecer resultados excecionais. Quer trabalhe com *prompts* de texto ou imagens estáticas, o Wan2 cria vídeos com impressionante precisão física e movimento natural. O modelo de código aberto lida com tudo, desde rotações complexas até transições dinâmicas de cena, produzindo filmagens nítidas em HD que parecem feitas profissionalmente. Perfeito para criadores de conteúdo, profissionais de *marketing*, educadores e animadores que desejam dar vida às suas visões sem os custos tradicionais e a complexidade da produção de vídeo."
+    },
+    "examples": {
+      "title": "Exemplos do Gerador de Vídeo Wan AI",
+      "description": "Explore exemplos impressionantes de vídeos criados com o Gerador de Vídeo Wan AI. Desde conteúdo animado para redes sociais a apresentações cinematográficas de produtos, veja como esta ferramenta dá vida a imagens estáticas e *prompts* de texto com movimento vívido, física realista e ricos efeitos visuais."
+    },
+    "howToUse": {
+      "title": "Como Usar o Gerador de Vídeo Wan AI",
+      "steps": [
+        {
+          "title": "Faça o *Upload* da Sua Imagem",
+          "content": "Faça o *upload* da imagem que deseja animar. O Gerador de Vídeo Wan AI suporta vários formatos de imagem, incluindo obras de arte, fotografias, imagens de produtos ou *storyboards* para criar conteúdo de vídeo dinâmico."
+        },
+        {
+          "title": "Insira seu prompt",
+          "content": "Forneça *prompts* detalhados ou selecione configurações para especificar tipos de movimento, ângulos de câmara, iluminação e efeitos. A IA interpreta estas instruções para criar conteúdo de vídeo dinâmico alinhado com a sua visão."
+        },
+        {
+          "title": "Gere o Seu Vídeo",
+          "content": "Clique no botão 'Gerar Animação' para iniciar o processo de geração e observe como a IA sintetiza sequências de vídeo de alta resolução, aplicando física de movimento realista e transições perfeitas automaticamente."
+        },
+        {
+          "title": "Faça o Download e Partilhe",
+          "content": "Depois que o vídeo for renderizado, faça o *download* no formato e resolução da sua preferência. Partilhe o seu vídeo envolvente gerado por IA nas redes sociais, campanhas de *marketing* ou plataformas educacionais."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Por que Usar o Gerador de Vídeo Wan AI?",
+      "description": "Descubra as poderosas vantagens do Gerador de Vídeo Wan AI que otimiza a produção de vídeo e aprimora as possibilidades criativas para estúdios, educadores, profissionais de *marketing* e criadores.",
+      "features": [
+        {
+          "title": "Simulação Avançada de Movimento e Física",
+          "content": "Gere vídeos com 92,7% de precisão física, suportando movimentos corporais complexos, rotações e interações realistas de objetos.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Suporte Versátil de Entrada",
+          "content": "Crie vídeos a partir de *prompts* de texto, imagens estáticas ou entradas multimédia combinadas, permitindo amplas aplicações criativas.",
+          "icon": "🖼️"
+        },
+        {
+          "title": "Saída de Vídeo de Alta Qualidade",
+          "content": "Produza vídeos HD perfeitos em 1080p com texturas cinematográficas, transições dinâmicas de cena e ricos efeitos estilizados.",
+          "icon": "✨"
+        },
+        {
+          "title": "Económico e Acessível",
+          "content": "A estrutura de código aberto com baixos requisitos de *hardware* torna a geração de vídeo profissional acessível a todos os criadores.",
+          "icon": "💸"
+        },
+        {
+          "title": "Suporte para Múltiplos Cenários",
+          "content": "Adequado para conteúdo de *media* sociais, materiais educacionais, demonstrações de produtos e fluxos de trabalho de animação em todos os setores.",
+          "icon": "🌐"
+        },
+        {
+          "title": "Ecossistema Amigável ao Desenvolvedor",
+          "content": "Oferece APIs, opções de implantação local e compatibilidade com as principais estruturas de *deep learning* para integração perfeita.",
+          "icon": "⚙️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes do Gerador de Vídeo Wan AI",
+      "description": "Respostas a perguntas comuns sobre o uso do Gerador de Vídeo Wan AI para criar vídeos profissionais e envolventes com IA.",
+      "q1": "O que é o Gerador de Vídeo Wan AI?",
+      "a1": "O Gerador de Vídeo Wan AI é uma ferramenta avançada de inteligência artificial que transforma texto e imagens em vídeos de alta qualidade e ricos em movimento, aproveitando modelos de *deep learning*, como VAEs 3D e Transformers de Difusão de vídeo. Ele permite que os criadores produzam animações cinematográficas e fisicamente precisas com facilidade.",
+      "q2": "Como o Gerador de Vídeo Wan AI cria vídeos a partir de imagens?",
+      "a2": "A ferramenta usa redes neurais sofisticadas para analisar imagens estáticas e, em seguida, sintetiza novos *frames* de vídeo que introduzem movimento, rotações e transições de cena realistas, animando efetivamente o conteúdo original, mantendo a coerência visual.",
+      "q3": "Que tipos de vídeos posso criar com o Wan AI?",
+      "a3": "Pode criar uma ampla variedade de vídeos, incluindo clipes animados para *media* sociais, visualizações educacionais, demonstrações de produtos, vídeos de *marketing* e *storyboards* dinâmicos, todos personalizáveis por meio de *prompts* de texto e entradas de imagem.",
+      "q4": "O Gerador de Vídeo Wan AI é adequado para uso comercial?",
+      "a4": "Sim, o Gerador de Vídeo Wan AI produz vídeos de nível profissional adequados para projetos pessoais e comerciais. Os utilizadores devem rever os termos de licenciamento relevantes para quaisquer restrições relacionadas com os direitos de uso.",
+      "q5": "Qual o tempo máximo dos vídeos gerados?",
+      "a5": "A plataforma suporta vídeos de duração ilimitada em resolução 1080p por meio de tecnologias eficientes de codificação e descodificação de vídeo, permitindo a criação de conteúdo estendido sem perda de qualidade.",
+      "q6": "Preciso de habilidades técnicas para usar o Gerador de Vídeo Wan AI?",
+      "a6": "Não são necessárias habilidades especializadas. A plataforma oferece interfaces amigáveis e fluxos de trabalho diretos, tornando a geração avançada de vídeo com IA acessível até mesmo para iniciantes."
+    }
+  },
+  "originalKeyword": "Wan AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modelo: Wan",
+      "description": "Prompt: A purely visual and atmospheric video piece focusing on the interplay of light and shadow, with a corn train as the central motif. Imagine a stage bathed in dramatic, warm spotlights, where a corn train, rendered as a stark silhouette, moves slowly across the space. The video explores the dynamic interplay of light and shadow cast by the train, creating abstract patterns, shapes, and illusions that dance across the stage. The soundtrack should be ambient and minimalist, enhancing the atmospheric and abstract nature of the piece.",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_2.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Modelo: Wan",
+      "description": "Prompt: Watercolor style, the wet suminagashi inks slowly spread into the shape of an island on the paper, with the edges continuously blending into delicate textural variations. A tiny paper boat floats in the direction of the water flow towards the still-wet areas, creating subtle ripples around it. Centered composition with soft natural light pouring in from the side, revealing subtle color gradations and a sense of movement. .",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/prompt_3.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Modelo: Wan",
+      "description": "Prompt: A man on the run, darting through the rain-soaked back alleys of a neon-lit city night, steam rising from the wet pavement. He's clad in a drenched trench coat, his face etched with panic as he sprints down the alley, constantly looking over his shoulder. A chase sequence shot from behind, immersing the viewer deeply, as if the pursuers are right behind the camera lens..",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_4.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Modelo: Wan",
+      "description": "Prompt: Sidelit, soft light, high contrast, medium shot, centered composition, clean single subject frame, warm tones. A young man stands in a forest, his head gently lifted, with clear eyes. Sunlight filters through leaves, creating a golden halo around his hair. Dressed in a light-colored shirt, a breeze plays with his hair and collar as the light dances across his face with each movement. Background blurred, featuring distant dappled light and soft tree silhouettes..",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_1.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "WAN_PRO"
+}

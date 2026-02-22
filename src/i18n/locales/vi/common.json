@@ -1,0 +1,1638 @@
+{
+  "copyright": "Bản quyền © {{currentYear}} Caffelabs. Mọi quyền được bảo lưu.",
+  "dashboard": {
+    "main_nav_documentation": "Tài liệu",
+    "main_nav_support": "Hỗ trợ",
+    "sidebar_nav_clusters": "Cụm",
+    "sidebar_nav_billing": "Thanh toán",
+    "sidebar_nav_settings": "Cài đặt",
+    "title_text": "Tạo và quản lý các cụm máy chủ."
+  },
+  "marketing": {
+    "introducing": "Giới thiệu Saasfly",
+    "get_started": "Bắt đầu",
+    "price_features": "Giá cả phải chăng cho môi trường sản xuất.",
+    "main_nav_features": "Tính năng",
+    "main_nav_pricing": "Giá",
+    "main_nav_create_comics": "Sân chơi",
+    "main_nav_products": "Sản phẩm",
+    "main_nav_blog": "Blog",
+    "main_nav_partners": "Đối tác",
+    "main_nav_documentation": "Tài liệu",
+    "login": "Đăng nhập",
+    "signup": "Đăng ký"
+  },
+  "price": {
+    "title": "Giá cả hợp lý, minh bạch!",
+    "pricing": "Giá",
+    "slogan": "Khởi đầu với tốc độ tối đa!",
+    "monthly_bill": "Thanh toán hàng tháng",
+    "annual_bill": "Thanh toán hàng năm",
+    "annual_info": "sẽ được tính phí khi thanh toán hàng năm",
+    "monthly_info": "khi thanh toán hàng tháng",
+    "mo": "/tháng",
+    "contact": "để liên hệ với bộ phận hỗ trợ của chúng tôi.",
+    "contact_2": "Bạn có thể dùng thử các gói đăng ký mà không bị tính phí.",
+    "faq": "Câu hỏi thường gặp",
+    "faq_detail": "Khám phá danh sách Câu hỏi thường gặp toàn diện của chúng tôi để tìm câu trả lời nhanh chóng. Nếu bạn cần hỗ trợ thêm, vui lòng liên hệ với chúng tôi để được trợ giúp cá nhân.",
+    "signup": "Đăng ký",
+    "upgrade": "Nâng cấp",
+    "manage_subscription": "Quản lý đăng ký",
+    "go_to_dashboard": "Đi đến trang quản lý"
+  },
+  "nav": {
+    "features": "Tính năng",
+    "ai_comic_generator": "Công cụ tạo truyện tranh AI",
+    "pricing": "Giá",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "partners": "Đối tác",
+    "menu": "Menu",
+    "ai_anime_generator": "Trình Tạo Anime AI",
+    "anigen_competition": "Cuộc Thi AniGen",
+    "video_to_video": "Chuyển đổi Video sang Video bằng AI",
+    "layer_splitter": "Chia Lớp",
+    "ai-talking-head": "AI Gương Mặt Nói",
+    "professional_artists": "Dành cho Nghệ sĩ Chuyên Nghiệp",
+    "oc_maker": "Nhà Tạo OC",
+    "playground": "Sân chơi hình ảnh",
+    "ai_expression_changer": "Trình thay đổi biểu cảm AI"
+  },
+  "footer": {
+    "pricing": "Giá",
+    "ai_comic_generator": "Công cụ tạo truyện tranh AI",
+    "logo_alt": "Logo KomikoAI AI",
+    "twitter_aria": "Twitter",
+    "twitter_alt": "Twitter",
+    "tiktok_aria": "TikTok",
+    "tiktok_alt": "TikTok",
+    "ai_tools": "Công cụ AI",
+    "description": "Tạo nhân vật của bạn, thắp sáng sự yêu thích của bạn — tất cả trên KomikoAI.",
+    "ai_models": "Mô hình AI",
+    "all_tools": "Tất cả Công cụ",
+    "comic_tools": "Công cụ Truyện tranh",
+    "illustration_tools": "Công cụ Minh họa",
+    "animation_tools": "Công cụ Hoạt hình",
+    "learn_more": "Tìm hiểu thêm",
+    "terms": "Điều khoản sử dụng",
+    "privacy": "Chính sách quyền riêng tư",
+    "languages": "Ngôn ngữ",
+    "carbon_removal": "Loại bỏ Carbon",
+    "blog": "Blog",
+    "partners": "Đối tác",
+    "claim_site": "KomikoAI là một sản phẩm độc lập của Story Engine Inc. Đây không phải là sản phẩm liên quan đến NHN comico Corp. hay NHN comico KOREA Corp."
+  },
+  "layer_options": {
+    "send_to_back": "Đưa ra sau cùng",
+    "send_backward": "Đưa ra sau",
+    "send_forward": "Đưa lên trước",
+    "send_to_front": "Đưa lên trước nhất",
+    "ai_tools": "Công cụ AI"
+  },
+  "ai_tools": {
+    "comic_generation": {
+      "title": "Tạo truyện tranh, manga và manhwa",
+      "create_character": {
+        "title": "Tạo nhân vật OC",
+        "content": "Tạo nhân vật độc đáo cho câu chuyện của bạn."
+      },
+      "create_on_canvas": {
+        "title": "Khung Vẽ Truyện Tranh",
+        "content": "Làm truyện tranh từ đầu trên khung vẽ trống."
+      },
+      "ai_comic_generator": {
+        "title": "Công Cụ Tạo Truyện Tranh AI",
+        "content": "Nhập ý tưởng của bạn và tạo truyện tranh chỉ trong vài giây."
+      },
+      "ai_comic_factory": {
+        "title": "Nhà Máy Truyện Tranh AI"
+      },
+      "ai_manga_maker": {
+        "title": "Công Cụ Tạo Manga AI"
+      },
+      "ai_manhwa_generator": {
+        "title": "Công Cụ Tạo Manhwa AI"
+      },
+      "ai_manga_generator": {
+        "title": "Công Cụ Tạo Manga AI"
+      },
+      "ai_comic_strip_generator": {
+        "title": "Công Cụ Tạo Truyện Tranh Ngắn AI"
+      },
+      "ai_comic_book_generator": {
+        "title": "Công Cụ Tạo Sách Truyện Tranh AI"
+      },
+      "ai_comic_maker": {
+        "title": "Công Cụ Tạo Truyện Tranh AI"
+      },
+      "ai_storyboard_generator": {
+        "title": "Công Cụ Tạo Bảng Phân Cảnh AI"
+      },
+      "free_ai_comic_strip_maker": {
+        "title": "Công Cụ Tạo Truyện Tranh Ngắn AI Miễn Phí"
+      },
+      "nsfw_ai_comic_generator": {
+        "title": "Công Cụ Tạo Truyện Tranh AI NSFW"
+      },
+      "ai_marvel_comic_generator": {
+        "title": "Công Cụ Tạo Truyện Tranh Marvel AI"
+      },
+      "batman_comic_ai_generator": {
+        "title": "Công Cụ Tạo Truyện Tranh Batman AI"
+      },
+      "dc_comic_ai_generator": {
+        "title": "Công Cụ Tạo Truyện Tranh DC AI"
+      },
+      "ai_porn_comic_generator": {
+        "title": "Công Cụ Tạo Truyện Tranh Khiêu Dâm AI"
+      },
+      "ai_erotic_comic_generator": {
+        "title": "Công Cụ Tạo Truyện Tranh Lãng Mạn AI"
+      },
+      "boomer_comic_ai_generator": {
+        "title": "Công Cụ Tạo Truyện Tranh Boomer AI"
+      },
+      "anime_manga_ai_generator": {
+        "title": "Công Cụ Tạo Anime Manga AI"
+      },
+      "ai_webtoon_generator": {
+        "title": "Công Cụ Tạo Webtoon AI"
+      }
+    },
+    "illustration": {
+      "title": "Hỗ trợ vẽ, minh họa và phân cảnh",
+      "line_art_colorization": {
+        "title": "Tô Màu cho Đường Nét",
+        "content": "Thêm màu cho bản vẽ và phác thảo của bạn."
+      },
+      "background_removal": {
+        "title": "Xóa Nền",
+        "content": "Loại bỏ nền khỏi ảnh bằng AI."
+      },
+      "image_upscaling": {
+        "title": "Nâng Cấp Chất Lượng Ảnh",
+        "content": "Nâng cấp chất lượng ảnh bằng AI."
+      },
+      "image_relighting": {
+        "title": "Điều Chỉnh Ánh Sáng Ảnh",
+        "content": "Điều chỉnh ánh sáng của ảnh bằng AI."
+      },
+      "photo_to_anime": {
+        "title": "Chuyển Ảnh Thành Anime",
+        "content": "Chuyển đổi ảnh của bạn sang phong cách anime và nhiều phong cách khác."
+      },
+      "ai_playground": {
+        "title": "Sân chơi cho hình ảnh",
+        "content": "Chuyển đổi ảnh thành anime, manga, hoạt hình và hơn 30 phong cách nghệ thuật khác."
+      },
+      "frame_pack_ai_video_generator": {
+        "title": "Trình Tạo Video FramePack AI"
+      },
+      "vidu_ai_video_generator": {
+        "title": "Trình Tạo Video Vidu Q1"
+      },
+      "magi_1_video_generator": {
+        "title": "Trình Tạo Video Magi-1"
+      },
+      "ai-anime-generator": {
+        "title": "Trình tạo Anime AI"
+      },
+      "ai_anime_generator": {
+        "title": "Trình tạo Nghệ thuật AI",
+        "content": "Tạo hình ảnh phong cách anime với các nhân vật."
+      },
+      "sketch_simplification": {
+        "content": "Chuyển phác thảo thô thành tranh vẽ sạch sẽ hơn.",
+        "title": "Đơn giản hóa Phác thảo"
+      },
+      "veo3_video_generator": {
+        "title": "Trình Tạo Video AI Veo3"
+      },
+      "ai_waifu_generator": {
+        "title": "Trình Tạo Waifu AI"
+      },
+      "ai_naruto_generator": {
+        "title": "Trình Tạo Naruto AI"
+      },
+      "random_genshin_character_generator": {
+        "title": "Trình Tạo Nhân Vật Genshin Ngẫu Nhiên"
+      },
+      "dragon_ball_ai_generator": {
+        "title": "Trình Tạo Dragon Ball AI"
+      },
+      "pokemon_ai_generator": {
+        "title": "Trình Tạo Pokemon AI"
+      },
+      "ai_genshin_impact_generator": {
+        "title": "Trình Tạo Genshin Impact AI"
+      },
+      "one_piece_ai_generator": {
+        "title": "Trình Tạo One Piece AI"
+      },
+      "demon_slayer_ai_generator": {
+        "title": "Trình Tạo Demon Slayer AI"
+      },
+      "attack_on_titan_ai_generator": {
+        "title": "Trình Tạo Attack on Titan AI"
+      },
+      "jujutsu_kaisen_ai_generator": {
+        "title": "Trình Tạo Jujutsu Kaisen AI"
+      },
+      "my_hero_academia_ai_generator": {
+        "title": "Trình Tạo My Hero Academia AI"
+      },
+      "spy_x_family_ai_generator": {
+        "title": "Trình Tạo Spy x Family AI"
+      },
+      "league_of_legends_ai_generator": {
+        "title": "Trình Tạo League of Legends AI"
+      },
+      "ai_disney_pixar_generator": {
+        "title": "Trình Tạo Disney Pixar AI"
+      },
+      "marvel_ai_generator": {
+        "title": "Trình Tạo Marvel AI"
+      },
+      "sonic_ai_generator": {
+        "title": "Trình Tạo Sonic AI"
+      },
+      "ai_spiderman_generator": {
+        "title": "Trình Tạo Spiderman AI"
+      },
+      "anime_ai_generator": {
+        "title": "Trình Tạo Anime AI"
+      },
+      "anime_art_ai_generator": {
+        "title": "Trình Tạo Nghệ Thuật Anime AI"
+      },
+      "studio_ghibli_style_ai_image_generator": {
+        "title": "Trình Tạo Hình Ảnh AI Phong Cách Studio Ghibli"
+      },
+      "female_character_generator": {
+        "title": "Trình Tạo Nhân Vật Nữ"
+      },
+      "superhero_ai_generator": {
+        "title": "Trình Tạo Siêu Anh Hùng AI"
+      },
+      "villain_maker": {
+        "title": "Trình Tạo Nhân Vật Phản Diện"
+      },
+      "villain_generator": {
+        "title": "Trình Tạo Phản Diện"
+      },
+      "fantasy_character_ai_generator": {
+        "title": "Trình Tạo Nhân Vật Giả Tưởng AI"
+      },
+      "tim_burton_character_maker": {
+        "title": "Trình Tạo Nhân Vật Tim Burton"
+      },
+      "dbz_ai_generator": {
+        "title": "Trình Tạo DBZ AI"
+      },
+      "ai_elf_generator": {
+        "title": "Trình Tạo Yêu Tinh AI"
+      },
+      "ai_princess_generator": {
+        "title": "Trình Tạo Công Chúa AI"
+      },
+      "ai_vampire_generator": {
+        "title": "Trình Tạo Ma Cà Rồng AI"
+      },
+      "ai_pirate_generator": {
+        "title": "Trình Tạo Cướp Biển AI"
+      },
+      "ai_couple_generator": {
+        "title": "Trình Tạo Cặp Đôi AI"
+      },
+      "chibi_creator": {
+        "title": "Trình Tạo Chibi"
+      },
+      "chibi_ai_generator": {
+        "title": "Trình Tạo Chibi AI"
+      },
+      "ai_character_generator_from_text": {
+        "title": "Trình Tạo Nhân Vật AI Từ Văn Bản"
+      },
+      "video_game_character_generator": {
+        "title": "Trình Tạo Nhân Vật Trò Chơi Điện Tử"
+      },
+      "ai_fantasy_art_generator": {
+        "title": "Trình Tạo Nghệ Thuật Giả Tưởng AI"
+      },
+      "ai_world_generator": {
+        "title": "Trình Tạo Thế Giới AI"
+      },
+      "ai_landscape_generator": {
+        "title": "Trình Tạo Cảnh Quan AI"
+      },
+      "ai_map_generator": {
+        "title": "Trình Tạo Bản Đồ AI"
+      },
+      "ai_village_generator": {
+        "title": "Trình Tạo Làng AI"
+      },
+      "ai_mansion_builder": {
+        "title": "Trình Xây Dựng Biệt Thự AI"
+      },
+      "ai_castle_generator": {
+        "title": "Trình Tạo Lâu Đài AI"
+      },
+      "fantasy_island_generator": {
+        "title": "Trình Tạo Đảo Giả Tưởng"
+      },
+      "city_map_maker": {
+        "title": "Trình Tạo Bản Đồ Thành Phố"
+      },
+      "ai_skybox_generator": {
+        "title": "Trình Tạo Skybox AI"
+      },
+      "pop_art_creator": {
+        "title": "Trình Tạo Nghệ Thuật Pop"
+      },
+      "pop_art_generator": {
+        "title": "Trình Tạo Nghệ Thuật Pop"
+      },
+      "ai_watercolor_generator": {
+        "title": "Trình Tạo Sơn Màu Nước AI"
+      },
+      "abstract_ai_art_generator": {
+        "title": "Trình Tạo Nghệ Thuật Trừu Tượng AI"
+      },
+      "ai_renaissance_painting_generator": {
+        "title": "Trình Tạo Bức Tranh Phục Hưng AI"
+      },
+      "ai_oil_painter": {
+        "title": "Họa Sĩ Sơn Dầu AI"
+      },
+      "ai_dark_art_generator": {
+        "title": "Trình Tạo Nghệ Thuật Tối AI"
+      },
+      "ai_cartoon_generator_from_text_free": {
+        "title": "Trình Tạo Phim Hoạt Hình AI Từ Văn Bản Miễn Phí"
+      },
+      "ai_pencil_drawing_generator": {
+        "title": "Trình Tạo Vẽ Bút Chì AI"
+      },
+      "ai_generated_coloring_pages": {
+        "title": "Trang Tô Màu AI Tạo Ra"
+      },
+      "ai_generated_collager": {
+        "title": "Trình Tạo Collage AI"
+      },
+      "ai_mural_generator": {
+        "title": "Trình Tạo Bích Họa AI"
+      },
+      "glitch_art_generator": {
+        "title": "Trình Tạo Nghệ Thuật Lỗi"
+      },
+      "ai_vaporwave_generator": {
+        "title": "Trình Tạo Vaporwave AI"
+      },
+      "ai_funko_pops_creator": {
+        "title": "Trình Tạo Funko Pops AI"
+      },
+      "ai_weapon_generator": {
+        "title": "Trình Tạo Vũ Khí AI"
+      },
+      "sword_generator": {
+        "title": "Trình Tạo Kiếm"
+      },
+      "ai_monster_generator": {
+        "title": "Trình Tạo Quái Vật AI"
+      },
+      "bratz_ai_generator": {
+        "title": "Trình Tạo Bratz AI"
+      },
+      "ai_creature_generator": {
+        "title": "Trình Tạo Sinh Vật AI"
+      },
+      "ai_muppet_generator": {
+        "title": "Trình Tạo Muppet AI"
+      },
+      "ai_clothing_generator": {
+        "title": "Trình Tạo Quần Áo AI"
+      },
+      "ai_jersey_generator": {
+        "title": "Trình Tạo Áo Đấu AI"
+      },
+      "ai_t_shirt_designer": {
+        "title": "Nhà Thiết Kế Áo Phông AI"
+      },
+      "midjourney_video_generator": {
+        "title": "Công Cụ Tạo Video AI Midjourney"
+      },
+      "anime_character_generator": {
+        "title": "Trình Tạo Nhân Vật Anime"
+      },
+      "vampire_oc_maker": {
+        "title": "Trình Tạo OC Ma Cà Rồng"
+      },
+      "anime_oc_maker": {
+        "title": "Trình Tạo Anime OC"
+      },
+      "perchance_ai_character_generator": {
+        "title": "Trình Tạo Nhân Vật AI Perchance"
+      },
+      "genshin_oc_maker": {
+        "title": "Trình Tạo Genshin OC"
+      },
+      "genshin_oc_generator": {
+        "title": "Trình Tạo Genshin OC"
+      },
+      "naruto_oc_maker": {
+        "title": "Trình Tạo Naruto OC"
+      },
+      "demon_slayer_oc_maker": {
+        "title": "Trình Tạo Demon Slayer OC"
+      },
+      "pokemon_oc_maker": {
+        "title": "Trình Tạo Pokemon OC"
+      },
+      "jjk_oc_maker": {
+        "title": "Trình Tạo JJK OC"
+      },
+      "jujutsu_kaisen_oc_maker": {
+        "title": "Trình Tạo Jujutsu Kaisen OC"
+      },
+      "one_piece_oc_maker": {
+        "title": "Trình Tạo One Piece OC"
+      },
+      "one_piece_characters_generator": {
+        "title": "Trình Tạo Nhân Vật One Piece"
+      },
+      "dragon_ball_oc_maker": {
+        "title": "Trình Tạo Dragon Ball OC"
+      },
+      "attack_on_titan_oc_maker": {
+        "title": "Trình Tạo Attack on Titan OC"
+      },
+      "aot_oc_maker": {
+        "title": "Trình Tạo AOT OC"
+      },
+      "my_hero_academia_oc_maker": {
+        "title": "Trình Tạo My Hero Academia OC"
+      },
+      "spy_x_family_oc_maker": {
+        "title": "Trình Tạo Spy x Family OC"
+      },
+      "sonic_oc_maker": {
+        "title": "Trình Tạo Sonic OC"
+      },
+      "league_of_legends_oc_maker": {
+        "title": "Trình Tạo League of Legends OC"
+      },
+      "nsfw_oc_maker": {
+        "title": "Trình Tạo NSFW OC"
+      },
+      "nsfw_character_creator": {
+        "title": "Trình Tạo Nhân Vật NSFW"
+      },
+      "disney_oc_maker": {
+        "title": "Trình Tạo Disney OC"
+      },
+      "marvel_oc_maker": {
+        "title": "Trình Tạo Marvel OC"
+      },
+      "ai_marvel_character_generator": {
+        "title": "Trình Tạo Nhân Vật Marvel AI"
+      },
+      "ai_action_figure_generator": {
+        "title": "Công cụ Tạo Hình Hành Động AI"
+      },
+      "ai_character_sheet_generator": {
+        "title": "Công cụ Tạo Bảng Nhân Vật AI"
+      },
+      "ai_doll_generator": {
+        "title": "Công cụ Tạo Búp Bê AI"
+      },
+      "anime_ai_filter": {
+        "title": "Bộ Lọc Anime AI"
+      },
+      "studio_ghibli_ai_generator": {
+        "title": "Công cụ Tạo Studio Ghibli AI"
+      },
+      "studio_ghibli_filter": {
+        "title": "Bộ Lọc Studio Ghibli"
+      },
+      "anisora_video_generator": {
+        "title": "Công cụ Tạo Video Ai AniSora"
+      },
+      "ai_anime_porn_generator": {
+        "title": "Công cụ Tạo Anime Người Lớn AI"
+      },
+      "furry_ai_generator": {
+        "title": "Công cụ Tạo Furry AI"
+      },
+      "ai_art_generator_nsfw": {
+        "title": "Công cụ Tạo Nghệ Thuật AI NSFW"
+      },
+      "ai_image_generator_to_create_a_webtoon_story": {
+        "title": "Công cụ Tạo Hình Ảnh AI Cho Câu Chuyện Webtoon"
+      },
+      "anime_ai_generator_nsfw": {
+        "title": "Công cụ Tạo Anime AI NSFW"
+      },
+      "nsfw_anime_ai_generator": {
+        "title": "Công cụ Tạo Anime AI NSFW"
+      },
+      "nsfw_ai_art_generator": {
+        "title": "Công cụ Tạo Nghệ Thuật AI NSFW"
+      },
+      "mlp_ai_generator": {
+        "title": "Công cụ Tạo MLP AI"
+      },
+      "my_little_pony_ai_generator": {
+        "title": "Công cụ Tạo My Little Pony AI"
+      },
+      "anime_pfp_maker": {
+        "title": "Công cụ Tạo Ảnh Hồ Sơ Anime"
+      },
+      "ai_game_asset_generator": {
+        "title": "Công cụ Tạo Tài Sản Trò Chơi AI"
+      },
+      "mlp_oc_maker": {
+        "title": "Công cụ Tạo MLP OC"
+      },
+      "my_little_pony_oc_maker": {
+        "title": "Công cụ Tạo My Little Pony OC"
+      },
+      "visual_novel_character_generator": {
+        "title": "Trình Tạo Nhân Vật Tiểu Thuyết Hình Ảnh"
+      },
+      "random_video_game_character_generator": {
+        "title": "Trình Tạo Nhân Vật Game Ngẫu Nhiên"
+      },
+      "moonvalley_ai_video_generator": {
+        "title": "Công cụ tạo video AI Moonvalley"
+      },
+      "marey_ai_video_generator": {
+        "title": "Công cụ tạo video AI Marey"
+      },
+      "lego_ai_filter": {
+        "title": "Bộ lọc AI Lego"
+      },
+      "photo_to_line_art": {
+        "title": "Chuyển Ảnh Thành Vẽ Nét"
+      },
+      "photo_to_simpsons": {
+        "title": "Chuyển Ảnh Thành Simpson"
+      },
+      "naruto_ai_filter": {
+        "title": "Bộ lọc AI Naruto"
+      },
+      "watercolor_ai_filter": {
+        "title": "Bộ lọc AI Màu Nước"
+      },
+      "cyberpunk_filter": {
+        "title": "Bộ lọc Cyberpunk"
+      },
+      "emote_maker": {
+        "title": "Trình tạo Biểu Tượng Cảm Xúc"
+      },
+      "ai_sprite_sheet_generator": {
+        "title": "Trình tạo Spritesheet AI"
+      },
+      "ai_emoji_generator": {
+        "title": "Trình tạo Emoji AI"
+      },
+      "ai_emoticon_generator": {
+        "title": "Trình tạo Emoticon AI"
+      },
+      "anime_sticker_maker": {
+        "title": "Trình tạo Nhãn Anime"
+      },
+      "ai_sticker_generator": {
+        "title": "Trình tạo Nhãn Dán AI"
+      },
+      "ai_sprite_generator": {
+        "title": "Trình tạo Sprite AI"
+      },
+      "ai_plush_generator": {
+        "title": "Trình tạo Đồ Chơi Bông AI"
+      },
+      "ai_badge_generator": {
+        "title": "Trình tạo Huy Hiệu AI"
+      },
+      "ai_clay_filter": {
+        "title": "Bộ lọc Đất Sét AI"
+      },
+      "photo_to_minecraft": {
+        "title": "Chuyển Ảnh Thành Minecraft"
+      },
+      "ai_style_transfer": {
+        "title": "Chuyển Giao Phong Cách AI"
+      },
+      "photo_to_pixel_art": {
+        "title": "Chuyển Ảnh Thành Nghệ Thuật Pixel"
+      },
+      "ai_cosplay_generator": {
+        "title": "Trình tạo Cosplay AI"
+      },
+      "video_style_transfer": {
+        "title": "Chuyển Đổi Phong Cách Video"
+      },
+      "video_to_anime_ai": {
+        "title": "AI Biến Video Thành Anime"
+      },
+      "ai_video_to_animation": {
+        "title": "AI Biến Video Thành Hoạt Hình"
+      },
+      "convert_video_to_cartoon": {
+        "title": "Chuyển Video Thành Hoạt Hình"
+      },
+      "convert_video_to_sketch": {
+        "title": "Chuyển Video Thành Phác Thảo"
+      },
+      "claymation_ai_generator": {
+        "title": "Trình Tạo AI Claymation"
+      },
+      "ai_video_restyle": {
+        "title": "AI Đổi Phong Cách Video"
+      },
+      "change_video_style_ai": {
+        "title": "AI Thay Đổi Phong Cách Video"
+      },
+      "modify_video": {
+        "title": "Chỉnh Sửa Video"
+      },
+      "modify_with_instructions": {
+        "title": "Chỉnh Sửa Theo Chỉ Dẫn"
+      },
+      "cartoonize_video": {
+        "title": "Biến Video Thành Hoạt Hình"
+      },
+      "wan_video2video": {
+        "title": "Wan Video2Video"
+      },
+      "domoai": {
+        "title": "DomoAI"
+      },
+      "ai_anime_video_generator": {
+        "title": "Công Cụ Tạo Video Anime AI"
+      },
+      "ai_cartoon_video_generator": {
+        "title": "Công Cụ Tạo Video Hoạt Hình AI"
+      },
+      "character_animation": {
+        "title": "Hoạt Hình Nhân Vật"
+      },
+      "ai_video_generator": {
+        "title": "Công Cụ Tạo Video AI"
+      },
+      "ai_image_to_video_generator": {
+        "title": "Công Cụ Tạo Video Từ Hình Ảnh AI"
+      },
+      "image_to_video_generator": {
+        "title": "Công Cụ Tạo Video Từ Hình Ảnh"
+      },
+      "all_in_one_ai_video_generator": {
+        "title": "Công Cụ Tạo Video AI Tất Cả Trong Một"
+      },
+      "ai_stick_figure_animation": {
+        "title": "Hoạt Hình Hình Que AI"
+      },
+      "hailuo_ai_video_generator": {
+        "title": "Công Cụ Tạo Video AI Hailuo"
+      },
+      "hailuo_image_to_video": {
+        "title": "Hailuo Hình Ảnh Thành Video"
+      },
+      "minimax_ai_video_generator": {
+        "title": "Công Cụ Tạo Video MiniMax AI"
+      },
+      "vidu_image_to_video": {
+        "title": "Vidu Hình Ảnh Thành Video"
+      },
+      "pixverse_ai_video_generator": {
+        "title": "Công Cụ Tạo Video AI Pixverse"
+      },
+      "pixverse_image_to_video": {
+        "title": "Pixverse Hình Ảnh Thành Video"
+      },
+      "kling_ai_video_generator": {
+        "title": "Công Cụ Tạo Video AI Kling"
+      },
+      "kling_image_to_video": {
+        "title": "Kling Hình Ảnh Thành Video"
+      },
+      "veo2_video_generator": {
+        "title": "Công Cụ Tạo Video Veo2"
+      },
+      "veo2_image_to_video": {
+        "title": "Veo2 Hình Ảnh Thành Video"
+      },
+      "ray2_video_generator": {
+        "title": "Công Cụ Tạo Video Ray2"
+      },
+      "ray2_image_to_video": {
+        "title": "Ray2 Hình Ảnh Thành Video"
+      },
+      "luma_video_generator": {
+        "title": "Công Cụ Tạo Video Luma"
+      },
+      "luma_image_to_video": {
+        "title": "Luma Hình Ảnh Thành Video"
+      },
+      "dream_machine_video_generator": {
+        "title": "Công Cụ Tạo Video Dream Machine"
+      },
+      "wan_ai_video_generator": {
+        "title": "Công Cụ Tạo Video Wan AI"
+      },
+      "perchance_ai_video_generator": {
+        "title": "Công Cụ Tạo Video Perchance AI"
+      },
+      "seedance_ai_video_generator": {
+        "title": "Công Cụ Tạo Video Seedance AI 1.0"
+      },
+      "seedance_pro_ai_video_generator": {
+        "title": "Công Cụ Tạo Video Seedance Pro AI"
+      },
+      "ai_video_generator_nsfw": {
+        "title": "Công Cụ Tạo Video AI NSFW"
+      },
+      "nsfw_ai_video_generator": {
+        "title": "Công Cụ Tạo Video NSFW AI"
+      },
+      "qwen_image_edit": {
+        "title": "Chỉnh sửa hình ảnh Qwen"
+      },
+      "waver_ai_video_generator": {
+        "title": "Trình Tạo Video AI Waver"
+      },
+      "replace_object_in_video": {
+        "title": "Thay thế vật thể trong video"
+      },
+      "replace_person_in_video_with_ai": {
+        "title": "Thay người trong video bằng AI"
+      },
+      "video_restyle": {
+        "title": "Thay đổi phong cách video"
+      },
+      "ai_video_filter": {
+        "title": "Bộ lọc video AI"
+      },
+      "ai_fairy_filter": {
+        "title": "Bộ lọc thần tiên AI"
+      },
+      "ai_fairy_video_generator": {
+        "title": "Trình tạo video thần tiên AI"
+      },
+      "cartoonify_video": {
+        "title": "Biến video thành hoạt hình"
+      },
+      "video_to_anime_converter": {
+        "title": "Chuyển video thành anime"
+      },
+      "video_to_anime": {
+        "title": "Video thành anime"
+      },
+      "video_to_anime_style_app": {
+        "title": "Ứng dụng chuyển video thành phong cách anime"
+      },
+      "convert_video_to_animation_ai": {
+        "title": "Chuyển video thành hoạt hình AI"
+      },
+      "convert_video_to_anime_style_ai": {
+        "title": "Chuyển video thành phong cách anime AI"
+      },
+      "anime_style_transfer": {
+        "title": "Chuyển đổi phong cách anime"
+      },
+      "video_to_cartoon": {
+        "title": "Video thành hoạt hình"
+      },
+      "video_cartoonizer": {
+        "title": "Chuyển video thành hoạt hình"
+      },
+      "vid2vid": {
+        "title": "Vid2Vid"
+      },
+      "video2video": {
+        "title": "Video2Video"
+      },
+      "stylize_video_ai": {
+        "title": "Tạo phong cách video AI"
+      },
+      "ai_style_transfer_video": {
+        "title": "Chuyển phong cách video bằng AI"
+      },
+      "video_style_changer_ai": {
+        "title": "Thay đổi phong cách video bằng AI"
+      },
+      "convert_skeleton_ai": {
+        "title": "Chuyển đổi khung xương AI"
+      },
+      "ghibli_style_video_converter": {
+        "title": "Chuyển đổi video phong cách Ghibli"
+      },
+      "domoia": {
+        "title": "Domoia"
+      },
+      "wan_animate": {
+        "title": "Wan Hoạt hình"
+      },
+      "vidu_q2": {
+        "title": "Ví dụ Q2"
+      },
+      "wan_25": {
+        "title": "Hoàn 2.5"
+      },
+      "ai_expression_changer": {
+        "title": "Trình Đổi Biểu Cảm AI",
+        "content": "Dễ dàng thay đổi nét mặt của nhân vật với các cài đặt sẵn của chúng tôi."
+      },
+      "ai_adult_video": {
+        "title": "Video 18+ Tạo Bởi AI"
+      },
+      "ai_kissing_video_generator": {
+        "title": "Trình Tạo Video Hôn Bằng AI"
+      },
+      "ai_moving_image_generator": {
+        "title": "Trình Tạo Hình Ảnh Chuyển Động Bằng AI"
+      },
+      "make_image_move": {
+        "title": "Làm Cho Hình Ảnh Chuyển Động"
+      },
+      "animation_ai": {
+        "title": "Hoạt Họa Bằng AI"
+      },
+      "image_animator": {
+        "title": "Trình Hoạt Họa Hình Ảnh"
+      },
+      "image_to_motion_ai": {
+        "title": "AI Biến Hình Ảnh Thành Chuyển Động"
+      },
+      "animated_image_generator": {
+        "title": "Trình Tạo Hình Ảnh Hoạt Họa"
+      },
+      "animate_a_picture": {
+        "title": "Làm Hoạt Họa Hình Ảnh"
+      },
+      "animate_a_photo": {
+        "title": "Làm Hoạt Họa Ảnh"
+      },
+      "ai_transition_between_images": {
+        "title": "AI Tạo Chuyển Cảnh Giữa Các Hình Ảnh"
+      },
+      "picture_to_video_ai": {
+        "title": "AI Biến Hình Ảnh Thành Video"
+      },
+      "sexy_animation": {
+        "title": "Hoạt Họa Quyến Rũ"
+      },
+      "ai_cartoon_porn": {
+        "title": "Phim Hoạt Hình Khiêu Dâm Bằng AI"
+      },
+      "animated_wallpaper_generator": {
+        "title": "Trình Tạo Hình Nền Hoạt Động"
+      },
+      "pixel_art_animation": {
+        "title": "Hoạt Hình Nghệ Thuật Pixel"
+      },
+      "hug_ai_video_generator": {
+        "title": "Công Cụ Tạo Video Hug AI"
+      },
+      "animate_sketch": {
+        "title": "Vẽ Phác Thảo Hoạt Hình"
+      },
+      "veo_3_1": {
+        "title": "Veo 3.1"
+      },
+      "sora_2_video_generator": {
+        "title": "Trình Tạo Video Sora 2"
+      },
+      "ai_anime_filter": {
+        "title": "Bộ lọc AI Anime"
+      },
+      "ai_aging_filter": {
+        "title": "Bộ lọc AI Lão hóa"
+      },
+      "ai_caricature_maker": {
+        "title": "Công cụ AI Tạo Biếm họa"
+      },
+      "ai_bald_filter": {
+        "title": "Bộ lọc AI Hói"
+      },
+      "ai_beard_filter": {
+        "title": "Bộ lọc AI Râu"
+      },
+      "ai_bikini": {
+        "title": "AI Bikini"
+      },
+      "ai_blonde_hair_filter": {
+        "title": "Bộ lọc AI Tóc Vàng"
+      },
+      "ai_cartoon_generator": {
+        "title": "Công cụ AI Tạo Hoạt hình"
+      },
+      "ai_comic_book_filter": {
+        "title": "Bộ lọc AI Truyện Tranh"
+      },
+      "ai_fat_filter": {
+        "title": "Bộ lọc AI Béo"
+      },
+      "ai_lego_filter": {
+        "title": "Bộ lọc AI Lego"
+      },
+      "ai_magazine_cover_maker": {
+        "title": "Công cụ AI Tạo Bìa Tạp chí"
+      },
+      "ai_manga_filter": {
+        "title": "Bộ lọc AI Manga"
+      },
+      "ai_minecraft_generator": {
+        "title": "Công cụ AI Tạo Minecraft"
+      },
+      "ai_pop_art_filter": {
+        "title": "Bộ lọc AI Nghệ thuật Pop"
+      },
+      "ai_silhouette_maker": {
+        "title": "Công cụ AI Tạo Hình Bóng"
+      },
+      "ai_skinny_filter": {
+        "title": "Bộ lọc AI Gầy"
+      },
+      "ai_simpsons_generator": {
+        "title": "Công cụ AI Tạo Simpsons"
+      },
+      "baby_filter": {
+        "title": "Bộ lọc Em Bé"
+      },
+      "image_to_image_ai_generator": {
+        "title": "Công cụ AI Tạo Hình ảnh Từ Hình ảnh"
+      },
+      "magazine_ai_generator": {
+        "title": "Công cụ AI Tạo Tạp chí"
+      },
+      "mugshot_generator": {
+        "title": "Công cụ Tạo Ảnh Chân Dung"
+      },
+      "photo_to_sketch": {
+        "title": "Chuyển Ảnh Thành Phác Thảo"
+      },
+      "pixar_ai_generator": {
+        "title": "Công cụ AI Tạo Pixar"
+      },
+      "ps2_ai_filter": {
+        "title": "Bộ lọc AI PS2"
+      },
+      "ai_video_effects": {
+        "title": "Hiệu ứng Video AI"
+      },
+      "ai_dance_video_generator": {
+        "title": "Trình tạo Video Nhảy AI"
+      },
+      "text_to_video": {
+        "title": "Từ Văn bản đến Video"
+      },
+      "dance_video_generator": {
+        "title": "Công Cụ Tạo Video Nhảy"
+      },
+      "seedance": {
+        "title": "Hạt Múa"
+      },
+      "nano_banana_2": {
+        "title": "Chuối Nano 2"
+      },
+      "wan_26": {
+        "title": "Wan 2.6"
+      }
+    },
+    "animation": {
+      "title": "Tạo video hoạt hình",
+      "image_to_animation": {
+        "title": "Biến Ảnh Thành Hoạt Hình",
+        "content": "Tạo video hoạt hình mượt từ hình ảnh."
+      },
+      "inbetweening": {
+        "title": "Tạo Khung Hình Trung Gian",
+        "content": "Tạo khung hình hoạt hình giữa các khung hình chính."
+      },
+      "video_upscaling": {
+        "title": "Nâng Cấp Chất Lượng Video",
+        "content": "Nâng cao độ phân giải cho video của bạn."
+      },
+      "video_interpolation": {
+        "title": "Nội Suy Khung Hình",
+        "content": "Làm cho video mượt mà hơn bằng cách chèn thêm khung hình."
+      },
+      "layer_splitter": {
+        "content": "Tách hình ảnh nhân vật thành các phần riêng biệt.",
+        "title": "Công cụ Tách Lớp"
+      },
+      "ai_talking_head": {
+        "title": "Người nói chuyện AI",
+        "content": "Tạo nhân vật hoạt hình biết nói từ hình ảnh tĩnh."
+      },
+      "video_to_video": {
+        "title": "Chuyển Video sang Video",
+        "content": "Biến đổi video của bạn thành nhiều phong cách khác nhau nhờ AI."
+      },
+      "text_to_video": {
+        "title": "Chuyển Văn Bản thành Video",
+        "content": "Tạo video từ đoạn văn bản đã cho."
+      },
+      "dance_video_generator": {
+        "title": "Công Cụ Tạo Video Nhảy",
+        "content": "Tạo video nhảy sử dụng công nghệ AI."
+      },
+      "animation_generator": {
+        "title": "Công cụ tạo hoạt hình AI",
+        "content": "Tạo video hoạt hình mượt mà từ hình ảnh hoặc văn bản."
+      }
+    },
+    "more": {
+      "title": "VÀ CÒN NHIỀU HƠN NỮA",
+      "content": "Khám phá bộ công cụ AI hoàn chỉnh của chúng tôi cho Truyện tranh, Minh họa và Hoạt hình."
+    }
+  },
+  "gridIndex": "Lưới {{index}}",
+  "popularity": "{{count}} độ phổ biến",
+  "roleplay": "Nhập vai",
+  "likes": "{{count}} lượt thích",
+  "following": "Đang theo dõi",
+  "follow": "Theo dõi",
+  "post_card": {
+    "following": "Đang theo dõi",
+    "follow": "Theo dõi",
+    "the_end": "—— Hết ——",
+    "discover": "Khám phá",
+    "more_stories": "Xem thêm truyện",
+    "or_start": "hoặc bắt đầu",
+    "creating_your_own": "tự tạo truyện của bạn",
+    "comments": "Bình luận",
+    "the_end_dash": "- Hết -",
+    "prompts": "Gợi ý",
+    "prompt_copied": "Đã sao chép gợi ý vào clipboard",
+    "copy_prompt": "Sao chép gợi ý",
+    "generate_more": "Tạo thêm",
+    "no_prompts": "Không có gợi ý nào 😢",
+    "join_discussion": "Tham gia thảo luận!",
+    "sharing_link_copied": "Đã sao chép liên kết chia sẻ! Chia sẻ ngay với bạn bè!",
+    "image_downloaded": "Tải ảnh thành công!",
+    "download_failed": "Tải xuống thất bại, vui lòng thử lại sau.",
+    "download_image": "Tải ảnh xuống",
+    "copy_link": "Sao chép liên kết",
+    "more": "Thêm",
+    "share_text": "Vừa tìm thấy truyện tranh tuyệt vời \"{{title}}\"! Bạn nên xem!",
+    "delete": "Xoá",
+    "confirm_delete": "Xác nhận xoá",
+    "confirm_delete_message": "Bạn có chắc chắn muốn xoá bài viết này không?",
+    "cancel": "Huỷ",
+    "delete_success": "Xoá bài viết thành công",
+    "delete_failed": "Xoá bài viết không thành công",
+    "create_yours": "Tạo của bạn",
+    "try_the_tool": "Dùng thử Công Cụ",
+    "prompt_hidden": "Đề xuất bị ẩn",
+    "turn_into": "Chuyển thành ",
+    "video_to": "Video chuyển thành ",
+    "expression": "Biểu thức",
+    "effect": "Hiệu ứng",
+    "dance_video_generator": "Trình tạo Video Nhảy",
+    "video_downloaded": "Video đã được tải xuống thành công!",
+    "download": "Tải xuống",
+    "share": {
+      "twitter": "Hãy xem \"{{title}}\" do {{username}}, tạo bởi @KomikoAI!\n\n{{content}}\n\n#AIart #AiAnime\n{{link}}",
+      "facebook": "Hãy xem \"{{title}}\" do {{username}}, tạo bởi KomikoAI!\n\n{{content}}",
+      "reddit": "\"{{title}}\" do {{username}}, tạo bởi KomikoAI",
+      "pinterest": "\"{{title}}\" do {{username}}, tạo bởi KomikoAI",
+      "whatsapp": "Hãy xem \"{{title}}\" do {{username}}, tạo bởi KomikoAI!\n{{link}}",
+      "telegram": "Hãy xem \"{{title}}\" do {{username}}, tạo bởi KomikoAI!"
+    },
+    "menu": {
+      "tag_moderator": "Gắn thẻ Người điều hành",
+      "admin": "Quản trị viên",
+      "pin": "Ghim",
+      "unpin": "Gỡ ghim",
+      "pin_global": "Ghim toàn cầu",
+      "unpin_global": "Gỡ ghim toàn cầu",
+      "feature": "Nổi bật",
+      "unfeature": "Bỏ nổi bật",
+      "feature_global": "Nổi bật toàn cầu",
+      "unfeature_global": "Bỏ nổi bật toàn cầu",
+      "translate": "Dịch",
+      "hide": "Ẩn",
+      "unhide": "Bỏ ẩn",
+      "report": "Báo cáo",
+      "block_user": "Chặn @{{name}}",
+      "unblock_user": "Bỏ chặn @{{name}}"
+    },
+    "loading": "Đang tải dữ liệu...",
+    "reply1": "1 câu trả lời",
+    "remix_count": "{{count}} Bản phối lại",
+    "remix_count_one": "{{count}} Phiên bản làm lại",
+    "remix_count_other": "{{count}} Phiên bản làm lại",
+    "remix": "Chỉnh sửa"
+  },
+  "uploadFile": {
+    "tapToUpload": "Nhấn để tải lên hoặc kéo ảnh của bạn vào đây",
+    "errors": {
+      "invalidExtension": "Vui lòng chọn tệp có phần mở rộng: {{accept}}",
+      "selectImage": "Vui lòng chọn ảnh",
+      "selectVideo": "Vui lòng chọn video",
+      "fileSize": "Kích thước tệp không được vượt quá {{limit}}MB",
+      "maxDuration": "Thời lượng tối đa cho phép: {{duration}} phút",
+      "safariVideoTooLong": "Để có trải nghiệm tốt nhất trên Safari, vui lòng sử dụng video dài tối đa 15 giây hoặc thử sử dụng Chrome cho video dài hơn!",
+      "selectAudio": "Vui lòng chọn một tệp âm thanh",
+      "audioSize": "Kích thước tệp âm thanh phải nhỏ hơn {{limit}}MB"
+    },
+    "dragAudio": "Kéo tệp âm thanh vào đây hoặc nhấn để tải lên",
+    "supportedAudio": "Hỗ trợ MP3, WAV",
+    "warnings": {
+      "imageWillCompress": "Hình ảnh vượt quá {{limit}}MB và sẽ được nén tự động",
+      "audioTooLarge": "Tệp âm thanh vượt quá {{limit}}MB - có thể ảnh hưởng đến chất lượng xử lý"
+    },
+    "clickToUpload": "Nhấn để tải lên hoặc kéo hình ảnh của bạn vào đây"
+  },
+  "home": {
+    "create_story": {
+      "title": "Truyện Tranh Mới",
+      "subtitle": "Tạo hình ảnh và kể chuyện",
+      "generate": {
+        "title": "Tạo",
+        "description": "Tạo truyện tranh từ một dòng gợi ý trong vài giây"
+      },
+      "from_scratch": {
+        "title": "Từ Đầu",
+        "description": "Bắt đầu với canvas trắng và thỏa sức sáng tạo"
+      }
+    },
+    "create_character": {
+      "title": "Nhân Vật Mới",
+      "subtitle": "Tạo nhân vật cho câu chuyện của bạn"
+    },
+    "create_animation": {
+      "title": "Nhập vai Mới"
+    }
+  },
+  "result_card": {
+    "generating": "Đang tạo...",
+    "video_not_supported": "Trình duyệt của bạn không hỗ trợ video.",
+    "more_ai_tools": {
+      "title": "Công Cụ AI Khác",
+      "description": "Khám phá thêm nhiều công cụ AI để mở rộng khả năng sáng tạo của bạn.",
+      "view_more": "Xem Thêm Công Cụ AI"
+    },
+    "generated_by": "Được tạo bởi",
+    "tools": {
+      "remove_bg": "Xóa nền",
+      "upscale": "Nâng cấp",
+      "anime_style": "Phong cách Anime",
+      "animate": "Hiệu ứng động",
+      "video_upscale": "Nâng cấp video",
+      "video_interpolate": "Nội suy video",
+      "character_sheet": "Bảng nhân vật",
+      "oc-maker": "Tạo nhân vật gốc",
+      "line_art_colorization": "Tô màu cho tranh phác thảo",
+      "title": "Công cụ",
+      "character": "Nhân vật",
+      "restyle": "Thay đổi kiểu dáng",
+      "add_text": "Thêm văn bản",
+      "playground": "Sân chơi cho hình ảnh",
+      "create_animation": "Tạo hiệu ứng động của bạn"
+    },
+    "generation_failed": "Tạo không thành công",
+    "generation_failed_desc": "Đã có lỗi xảy ra trong quá trình tạo. Vui lòng thử lại."
+  },
+  "logout": "Thoát",
+  "create_character": "Tạo Nhân Vật",
+  "generate_image": "Tạo Ảnh",
+  "generate": "Sinh",
+  "create_comic": "Tạo Truyện",
+  "generate_animation": "Tạo Hoạt Họa",
+  "actions": {
+    "download": "Tải xuống",
+    "delete": "Xóa",
+    "publish": "Xuất bản",
+    "cancel": "Hủy bỏ",
+    "confirm": "Xác nhận",
+    "post": "Đăng bài",
+    "share": "Chia sẻ",
+    "apply": "Áp dụng",
+    "applying": "Đang áp dụng...",
+    "generate": "Tạo",
+    "generating": "Đang tạo...",
+    "upload": "Tải lên",
+    "uploading": "Đang tải lên...",
+    "extract": "Trích xuất",
+    "extracting": "Đang trích xuất...",
+    "download_layers": "Tải Lớp",
+    "confirm_delete": "Xác nhận xóa",
+    "delete_warning": "Bạn có chắc chắn muốn xóa hình ảnh này không?",
+    "show_more": "Xem Thêm",
+    "show_less": "Xem Ít Hơn"
+  },
+  "tools": {
+    "image-animation-generator": "Trình tạo hoạt hình từ hình ảnh",
+    "video-upscaling": "Nâng cấp video",
+    "video_upscaling": "Nâng cấp video",
+    "photo-to-anime": "Chuyển ảnh sang Anime",
+    "background-removal": "Xóa phông nền",
+    "image-upscaling": "Nâng cấp hình ảnh",
+    "video-interpolation": "Nội suy video",
+    "video_interpolation": "Nội suy video",
+    "ai-character-sheet-generator": "Trình tạo bảng nhân vật AI",
+    "oc-maker": "Tạo nhân vật gốc",
+    "oc_maker": "Tạo nhân vật gốc",
+    "line_art_colorization": "Tô màu cho tranh phác thảo",
+    "character": "Nhân vật",
+    "restyle": "Thay đổi kiểu dáng",
+    "layer_splitter": "Chia Lớp",
+    "video_to_video": "AI Chuyển Đổi Video",
+    "ai-talking-head": "AI Gương Mặt Nói",
+    "video-to-video": "AI Chuyển Đổi Video"
+  },
+  "toasts": {
+    "fetchFailed": "Không thể lấy dữ liệu",
+    "deleteSuccess": "Xóa thành công",
+    "deleteFailed": "Xóa không thành công",
+    "downloadFailed": "Tải xuống không thành công",
+    "processingSuccess": "Xử lý thành công",
+    "processingFailed": "Xử lý không thành công",
+    "uploadFailed": "Tải lên không thành công",
+    "noVideoUrl": "Không có URL video",
+    "noZaps": "Vui lòng mua thêm zaps",
+    "mediaReceived": "Đã nhận phương tiện từ công cụ khác",
+    "extractFailed": "Trích xuất khung hình thất bại. Vui lòng thử lại.",
+    "invalidResponse": "Phản hồi không hợp lệ từ API.",
+    "timeout": "Hoạt động bị quá thời gian.",
+    "missingData": "Thiếu dữ liệu cần thiết.",
+    "unexpectedFormat": "Định dạng dữ liệu không như mong muốn.",
+    "maxImagesReached": "Đã đạt số lượng hình ảnh tối đa",
+    "loginRequired": "Vui lòng đăng nhập trước",
+    "cannotBlockSelf": "Bạn không thể tự chặn mình",
+    "userBlocked": "Người dùng đã bị chặn thành công",
+    "userBlockedName": "Đã chặn @{{name}}",
+    "userUnblocked": "Người dùng đã được bỏ chặn thành công",
+    "userUnblockedName": "Đã bỏ chặn @{{name}}",
+    "blockFailed": "Không thể chặn người dùng",
+    "unblockFailed": "Không thể bỏ chặn người dùng",
+    "alreadyReported": "Bạn đã báo cáo bài viết này",
+    "postReported": "Báo cáo bài viết thành công",
+    "reportFailed": "Không thể báo cáo bài viết"
+  },
+  "from_other_tools": "{{input_type}} nhận từ {{tools}}",
+  "input_types": {
+    "image": "Hình ảnh",
+    "character": "Nhân vật",
+    "video": "Video"
+  },
+  "alt": {
+    "generated_image": "Hình ảnh đã được tạo"
+  },
+  "success": {
+    "copy": "Đã sao chép vào bảng nhớ tạm"
+  },
+  "unknown": "Không rõ",
+  "error": {
+    "code": "Mã lỗi: {{code}}",
+    "requestId": "ID yêu cầu: {{id}}",
+    "downloadFailed": "Tải xuống không thành công. Vui lòng thử lại."
+  },
+  "video_tabs": {
+    "image_to_animation": "Tạo Hoạt hình từ Hình ảnh",
+    "video_to_video": "Chuyển Video thành Video",
+    "talking_head": "Nói chuyện trực diện",
+    "image_to_video_sub": "Chuyển Hình ảnh thành Video",
+    "character_to_video_sub": "Chuyển Nhân vật thành Video",
+    "text_to_animation": "Văn bản thành Video",
+    "image_or_text_to_video": "Hình ảnh hoặc Văn bản thành Video",
+    "Dance": "Điệu Nhảy",
+    "Template": "Mẫu",
+    "dance": "Nhảy",
+    "templates": "Mẫu",
+    "animation_generator": "Công cụ tạo hoạt hình AI"
+  },
+  "audioRecorder": {
+    "duration": "Thời lượng",
+    "recording": "Đang ghi âm",
+    "preparing": "Đang chuẩn bị...",
+    "instructions": "Nhấn vào nút dưới đây để bắt đầu ghi âm",
+    "stop": "Dừng Ghi âm",
+    "start": "Bắt đầu Ghi âm",
+    "record_new": "Ghi âm mới"
+  },
+  "sampleImage": "Hình ảnh Mẫu",
+  "sampleVideo": "Video Mẫu",
+  "exampleResult": "Kết Quả Mẫu",
+  "loading": "Đang tải lên...",
+  "create_character_short": "Nhân vật",
+  "generate_image_short": "Hình ảnh từ AI",
+  "ai_comic": "Truyện tranh AI",
+  "generate_comic": "Tạo truyện tranh",
+  "generate_animation_short": "Video từ AI",
+  "magic_prompt": "Gợi ý Ảo diệu",
+  "results_card": {
+    "tools": {
+      "new_character": "Nhân Vật Mới"
+    }
+  },
+  "nsfw": {
+    "title": "⚠️ Xác Minh Tuổi",
+    "message": "Phần này có nội dung người lớn (18+). Bạn phải từ 18 tuổi trở lên (hoặc đạt độ tuổi trưởng thành ở nơi bạn sống) để tiếp tục. Bằng cách nhấn \"Có,\" bạn khẳng định rằng bạn ít nhất 18 tuổi và được phép theo luật địa phương để xem nội dung NSFW. KomikoAI dựa vào sự tự xác nhận của bạn và có quyền yêu cầu xác minh thêm (như ID do chính phủ cấp) bất kỳ lúc nào. Nếu bạn cung cấp thông tin sai lệch, bạn hoàn toàn chịu trách nhiệm cho mọi vấn đề pháp lý phát sinh.",
+    "yes": "Có",
+    "no": "Không"
+  },
+  "network": {
+    "offline": "Ngoại tuyến",
+    "online": "Trực tuyến"
+  },
+  "max": "Cao nhất",
+  "min": "Thấp nhất",
+  "faq": "Câu Hỏi Thường Gặp",
+  "publicVisibility": {
+    "label": "Hiển thị công khai",
+    "tooltip": "Hiển thị nội dung này cho tất cả người dùng",
+    "popoverTitle": "Hiển thị",
+    "public": "Công khai",
+    "publicDescription": "Bất kỳ ai cũng có thể xem và sử dụng",
+    "private": "Riêng tư",
+    "privateDescription": "Chỉ mình bạn có thể xem và sử dụng",
+    "plusBadge": "PLUS"
+  },
+  "examples": {
+    "inputLabel": "Đầu vào",
+    "outputLabel": "Đầu ra",
+    "styleLabel": "Kiểu dáng",
+    "promptLabel": "Đề xuất"
+  },
+  "referenceImages": {
+    "modal": {
+      "title": "Hình ảnh tham khảo",
+      "description": "Bạn có thể sử dụng tên để tham khảo hình ảnh trong lời nhắc. Nhấp vào nút → để chèn tên ngay lập tức.",
+      "imageName": {
+        "label": "Tên",
+        "placeholder": "Tên tham khảo"
+      },
+      "remove": "Xóa",
+      "close": "Đóng",
+      "addNew": {
+        "title": "Thêm hình ảnh mới",
+        "subtitle": "Nhấp hoặc kéo & thả"
+      },
+      "premiumFeature": {
+        "title": "Tính năng cao cấp",
+        "message": "Việc sử dụng nhiều hình ảnh tham khảo là một tính năng cao cấp. Hãy nâng cấp ngay để mở rộng khả năng sáng tạo của bạn."
+      },
+      "removeAll": "Xóa tất cả",
+      "confirmRemoveAll": "Bạn có chắc chắn muốn xóa tất cả hình ảnh tham khảo không?",
+      "insertSuccess": "Đã chèn {{name}} vào lời nhắc thành công",
+      "insertTooltip": "Chèn vào lời nhắc",
+      "selectAll": "Chọn tất cả",
+      "deleteAll": "Xóa tất cả",
+      "deleteSelected": "Xóa đã chọn",
+      "deselectAll": "Bỏ chọn tất cả",
+      "bulkInsert": "Chèn hàng loạt",
+      "insertSelected": "Chèn đã chọn",
+      "bulkInsertSuccess": "Tên nhân vật đã được chèn thành công!",
+      "noSelection": "Vui lòng chọn ít nhất một tham khảo",
+      "noValidNames": "Không có tên hợp lệ để chèn",
+      "deleted": "Đã xóa {{count}} tham khảo",
+      "allDeleted": "Đã xóa tất cả tham khảo",
+      "selected": "đã chọn",
+      "maxImagesReached": "Tối đa {{max}} hình ảnh được phép",
+      "fileTooLarge": "Kích thước tệp vượt quá giới hạn {{max}}",
+      "someFilesTooLarge": "Một số tệp vượt quá giới hạn kích thước {{max}}",
+      "totalSizeTooLarge": "Tổng kích thước vượt quá giới hạn {{max}}",
+      "unsupportedFormat": "Chỉ hỗ trợ các định dạng JPEG, PNG và WebP",
+      "limits": "Giới hạn: {{current}}/{{maxImages}} hình ảnh • Tối đa {{maxSingleSize}}/file • Tối đa {{maxTotalSize}} tổng cộng • Định dạng: {{formats}}",
+      "dropHere": "Thả ảnh vào đây"
+    }
+  },
+  "characterAppearance": {
+    "referenceImage": {
+      "title": "Hình ảnh Tham khảo",
+      "description": "Tải lên các hình ảnh tham khảo để định hướng cho việc tạo nhân vật",
+      "empty": "Chưa có hình ảnh tham khảo nào",
+      "add": "Thêm Hình ảnh",
+      "images": "hình ảnh",
+      "upgrade": "Nâng cấp",
+      "premiumInfo": "Bạn có thể thêm số lượng hình ảnh tham khảo không giới hạn",
+      "freeLimit": "Người dùng miễn phí có thể thêm tối đa {{limit}} hình ảnh tham khảo"
+    }
+  },
+  "referenceImage": {
+    "title": "Hình ảnh Tham khảo",
+    "description": "Tải hình ảnh tham khảo lên để hỗ trợ trong việc tạo nhân vật",
+    "empty": "Chưa có hình ảnh tham khảo",
+    "add": "Thêm Hình Ảnh",
+    "images": "hình ảnh",
+    "upgrade": "Nâng Cấp",
+    "freeLimit": "Người dùng miễn phí có thể thêm tối đa {{limit}} hình ảnh tham khảo",
+    "info": "{{count}}/9 hình ảnh • Tối đa 25MB cho mỗi tệp • 50MB tổng",
+    "clearAll": "Xóa Tất Cả",
+    "imageName": "Tên Hình Ảnh",
+    "placeholder": "Nhập tên vào",
+    "insert": "Chèn",
+    "maxImagesReached": "Tối đa {{max}} hình ảnh được phép",
+    "dropHere": "Thả ảnh vào đây"
+  },
+  "daily_check_in": {
+    "title": "Phần thưởng mỗi ngày",
+    "claim_button": "Nhận {{amount}} zaps mỗi ngày",
+    "upgrade_button": "Nâng cấp để nhận tối đa {{amount}} zaps miễn phí!",
+    "extra_rewards_tip": "Nhấn \"Phần thưởng\" trên trang cá nhân của bạn để kiếm thêm phần thưởng!",
+    "christmas_banner_tip": "🎄 Tạo Nghệ Thuật, Nhận $150!",
+    "christmas_banner_tip_description": "Sử dụng các Zaps hôm nay để tạo tác phẩm Giáng Sinh của bạn và có cơ hội nhận giải thưởng lên đến $150 từ Komiko!",
+    "christmas_reward_tip": "Giáng Sinh An Lành, Nhân Đôi Niềm Vui! Cảm Xúc Trọn Vẹn, Ưu Đãi Nhân Đôi!",
+    "christmas_reward_btn_text": "Giáng Sinh Vui Vẻ! Nhận ngay 200 Zaps!",
+    "off50_yearly_deal": "Giảm 50% khi đăng ký gói hàng năm!",
+    "join_now": "Tham gia KomikoAI để hòa mình vào không khí Năm Mới và những điều bất ngờ trong lễ hội! Khuyến mãi kết thúc vào ngày 6 tháng 1!"
+  },
+  "hide_my_prompt": "Ẩn Nhắc Nhở Của Tôi",
+  "hide_my_prompt_tooltip": "Nhắc nhở này sẽ không hiển thị với người khác. Nâng cấp để mở khóa quyền truy cập.",
+  "magic_prompt_on": "Kích hoạt",
+  "magic_prompt_off": "Tắt",
+  "magic_prompt_description": "Nâng cao lời nhắc ban đầu của bạn để nâng cao sự đa dạng và phong phú của hình ảnh. Nó cũng có thể dịch sang tiếng Anh.",
+  "collections": "Bộ sưu tập",
+  "explore_characters": "Khám phá các nhân vật",
+  "audio": "Âm thanh",
+  "endFrame": "Khung hình kết thúc",
+  "multipleReferences": "Nhiều",
+  "NSFW": "Không an toàn cho công việc (NSFW)",
+  "share_title": "Chia sẻ bài đăng này với bạn bè của bạn — khi họ tham gia, cả hai bạn sẽ nhận được {{count}} Zaps!",
+  "settings": {
+    "title": "Cài đặt",
+    "privacy": "Cài đặt Quyền riêng tư",
+    "language": "Tùy chọn Ngôn ngữ",
+    "subscription": {
+      "title": "Quản lý Gói Đăng ký",
+      "manage": "Quản lý Gói Đăng ký",
+      "upgrade": "Nâng cấp Gói",
+      "currentPlan": "Gói hiện tại: {{plan}}",
+      "noSubscription": "Chưa có gói đăng ký nào đang hoạt động"
+    },
+    "nsfw": {
+      "enable": "Bật NSFW",
+      "description": "Khi bật NSFW, bạn cam kết rằng bạn đã trên 18 tuổi. Nội dung NSFW có thể có khỏa thân, bạo lực hoặc nội dung không phù hợp để xem ở nơi làm việc.",
+      "confirmTitle": "Xác nhận Độ Tuổi",
+      "iConfirm": "Tôi Xác nhận",
+      "nevermind": "Thôi không cần"
+    },
+    "danger": {
+      "title": "Khu Vực Nguy Hiểm",
+      "description": "Xóa vĩnh viễn tài khoản Komiko của bạn và toàn bộ dữ liệu liên quan. Hành động này không thể hoàn tác.",
+      "delete": "Xóa Tài Khoản"
+    },
+    "blockedUsers": "Người dùng bị chặn",
+    "blockedUsersPage": {
+      "title": "Người dùng bị chặn",
+      "empty": "Không có người dùng bị chặn",
+      "emptyDescription": "Người dùng bạn chặn sẽ xuất hiện ở đây.",
+      "blockedOn": "Đã chặn vào {{date}}",
+      "buttonUnblock": "Bỏ chặn",
+      "unblockConfirmTitle": "Bỏ chặn @{{name}}?",
+      "unblockConfirmDescription": "Họ sẽ lại có thể thấy bài viết và bình luận của bạn.",
+      "buttonCancel": "Hủy"
+    }
+  },
+  "preset_tags": {
+    "all_posts": "Tất cả bài viết",
+    "featured": "Nổi bật",
+    "templates": "Mẫu",
+    "animation": "Hoạt hình",
+    "oc": "Nhân vật gốc",
+    "anime": "Anime",
+    "manga": "Manga",
+    "game": "Trò chơi",
+    "movie": "Phim",
+    "ship": "Cặp đôi",
+    "furry": "Thú nhân",
+    "kawaii": "Dễ thương",
+    "nsfw": "NSFW",
+    "genshin_impact": "Genshin Impact",
+    "demon_slayer": "Kẻ diệt quỷ",
+    "spy_x_family": "Spy x Family",
+    "my_hero_academia": "Học viện anh hùng",
+    "pokemon": "Pokemon",
+    "hatsune_miku": "Hatsune Miku",
+    "jujutsu_kaisen": "Jujutsu Kaisen",
+    "frieren": "Frieren",
+    "naruto": "Naruto",
+    "one_piece": "One Piece",
+    "hazbin_hotel": "Khách sạn Hazbin",
+    "kpop_demon_hunters": "Thợ săn quỷ K-Pop",
+    "marvel": "Marvel",
+    "chainsaw_man": "Chainsaw Man",
+    "re_zero": "Re:Zero",
+    "ai_apps": "Ứng dụng AI",
+    "gay": "Đồng tính nam",
+    "harbin_hotel": "Khách sạn Cáp Nhĩ Tân",
+    "husbando": "Người chồng lý tưởng",
+    "lesbian": "Đồng tính nữ",
+    "waifu": "Người vợ ảo",
+    "gundam": "Gundam",
+    "cthulhu": "Cthulhu",
+    "komikoChristmas": "Giáng sinh Komiko",
+    "harry_potter": "Harry Potter",
+    "zootopia": "Zootopia",
+    "scenery": "Phong cảnh",
+    "scifi": "Khoa học viễn tưởng",
+    "bankai": "Bankai",
+    "dragon_ball": "Bảy Viên Ngọc Rồng",
+    "umamusume": "Uma Musume",
+    "street_fighter": "Chiến Binh Đường Phố",
+    "my_little_pony": "Chú Ngựa Nhỏ Của Tôi",
+    "zenless_zone_zero": "Zenless Zone Zero"
+  },
+  "change": "Thay đổi",
+  "describe_video_effect": "Mô tả video bạn muốn tạo. Nhấn @ để nhắc đến các nhân vật.",
+  "mention_characters": "Mô tả nội dung bạn muốn tạo. Gõ @ để nhắc đến nhân vật.",
+  "bgmAvailableFor4SecondVideosOnly": "Chỉ cung cấp BGM cho video dài 4 giây",
+  "weekend_flash_promotion": {
+    "weekend_flash_title": "KHUYẾN MÃI CUỐI TUẦN: GIẢM 30% khi mua gói hàng năm!"
+  },
+  "set_tag": "Cài đặt thẻ",
+  "templates": "Mẫu",
+  "videoReference": {
+    "description": "Tải ảnh mẫu lên để tạo video. Bạn có thể tải một ảnh, nhiều ảnh hoặc một khung đầu cùng với khung kết thúc.",
+    "limits": "Tối đa {{maxImages}} ảnh • Tối đa 25MB mỗi tệp • Định dạng: JPEG, PNG, WebP",
+    "firstFrame": "Khung đầu tiên",
+    "addEndFrame": "Thêm khung kết thúc",
+    "endFrameHint": "Dành cho hoạt ảnh khung đầu/cuối",
+    "endFrameInfo": "Mẹo: Bạn có thể thêm khung kết thúc để tạo hoạt ảnh từ khung đầu đến khung cuối. Các mô hình hỗ trợ tính năng này sẽ được chọn tự động.",
+    "done": "Hoàn tất"
+  },
+  "home_ai_video": {
+    "video_prompt_placeholder": "Mô tả hiệu ứng video (Tùy chọn). Gõ @ để nhắc đến nhân vật.",
+    "reference": "Tham khảo"
+  },
+  "multiImage": {
+    "maxReached": "Tối đa cho phép {{max}} hình ảnh",
+    "uploadPrompt": "Vui lòng tải lên từ {{min}} đến {{max}} hình ảnh",
+    "dragDropHint": "Nhấn hoặc kéo thả hình ảnh vào đây.",
+    "addMore": "Thêm hình ảnh",
+    "imagesUploaded": "hình ảnh đã tải lên",
+    "minRequired": "yêu cầu tối thiểu {{min}} hình ảnh"
+  },
+  "effects": "Hiệu ứng",
+  "block": {
+    "confirmBlockTitle": "Chặn @{{name}}?",
+    "confirmUnblockTitle": "Bỏ chặn @{{name}}?",
+    "unblockDescription": "Họ sẽ lại có thể thấy bài viết và bình luận của bạn.",
+    "blockDescription1": "Bạn và người đó sẽ không thấy bài viết của nhau trong nguồn cấp dữ liệu.",
+    "blockDescription2": "Bạn sẽ không thấy bình luận của nhau.",
+    "blockDescription3": "Hành động này có thể được đảo ngược.",
+    "buttonBlock": "Chặn",
+    "buttonUnblock": "Bỏ chặn",
+    "buttonCancel": "Hủy"
+  },
+  "report": {
+    "confirmTitle": "Báo cáo bài viết này?",
+    "selectReason": "Vui lòng chọn một lý do:",
+    "description": "Bài viết này sẽ bị ẩn khỏi nguồn cấp dữ liệu của bạn và được báo cáo cho quản trị viên để xem xét.",
+    "warning": "Việc lạm dụng tính năng báo cáo có thể dẫn đến hạn chế tài khoản.",
+    "buttonReport": "Báo cáo",
+    "buttonCancel": "Hủy",
+    "reasons": {
+      "inappropriate": {
+        "label": "Nội dung không phù hợp",
+        "description": "Nội dung khiêu dâm, bạo lực hoặc gây khó chịu"
+      },
+      "spam": {
+        "label": "Thư rác",
+        "description": "Nội dung lặp đi lặp lại hoặc không mong muốn"
+      },
+      "hate_speech": {
+        "label": "Ngôn từ căm thù",
+        "description": "Khuyến khích sự thù ghét hoặc bạo lực đối với các nhóm"
+      },
+      "violence": {
+        "label": "Bạo lực",
+        "description": "Bạo lực đồ họa hoặc lời đe dọa"
+      },
+      "copyright": {
+        "label": "Vi phạm bản quyền",
+        "description": "Sử dụng trái phép tài liệu có bản quyền"
+      },
+      "other": {
+        "label": "Khác",
+        "description": "Các vi phạm khác của quy tắc cộng đồng"
+      }
+    }
+  },
+  "time": {
+    "just_now": "Vừa mới",
+    "minutes_ago": "{{count}} phút trước",
+    "hours_ago": "{{count}} giờ trước",
+    "days_ago": "{{count}} ngày trước"
+  },
+  "ad_consent": {
+    "title": "Quảng cáo & Quyền riêng tư",
+    "description": "Chúng tôi sử dụng quảng cáo để hỗ trợ dịch vụ miễn phí. Để cung cấp nội dung quảng cáo phù hợp, các đối tác quảng cáo của chúng tôi có thể thu thập dữ liệu sau:",
+    "banner_text": "Chúng tôi sử dụng cookie và quảng cáo để duy trì dịch vụ miễn phí. Bằng cách chấp nhận, bạn cho phép chúng tôi thu thập dữ liệu cho quảng cáo được cá nhân hóa.",
+    "learn_more": "Tìm hiểu thêm",
+    "data": {
+      "browsing": "Thói quen duyệt web và lịch sử tìm kiếm",
+      "preferences": "Sở thích người dùng và tương tác nội dung",
+      "profile": "Hồ sơ người dùng (loại gói)"
+    },
+    "note_title": "Xin lưu ý:",
+    "note_content": "Bạn có thể thay đổi lựa chọn của mình bất kỳ lúc nào trong Cài đặt. Việc từ chối sẽ không ảnh hưởng đến các tính năng chính của trang web, nhưng quảng cáo có thể trở nên ít phù hợp hơn.",
+    "privacy_policy": "Để biết thêm thông tin, vui lòng xem",
+    "privacy_link": "Chính sách quyền riêng tư",
+    "reject": "Từ chối",
+    "accept": "Chấp nhận"
+  }
+}

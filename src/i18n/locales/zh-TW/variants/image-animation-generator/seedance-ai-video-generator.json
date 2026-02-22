@@ -1,0 +1,134 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Seedance 1.0 AI 影片產生器 - KomikoAI",
+      "description": "探索字節跳動 (ByteDance) 的 Seedance 1.0 AI 影片產生器，提供高畫質文字轉影片和圖片轉影片生成功能，具備多鏡頭敘事、流暢運動和專業級電影品質。",
+      "keywords": "Seedance 1.0, AI 影片產生器, 文字轉影片 AI, 圖片轉影片 AI, 電影 AI 影片, 多鏡頭影片生成, AI 動畫, 字節跳動 AI 影片, HD AI 影片"
+    },
+    "hero": {
+      "title": "Seedance 1.0 AI 影片產生器",
+      "description": "運用 Seedance 1.0 將您的構想轉化為生動的電影影片。透過先進的 AI 技術，輕鬆地從文字或圖片創建多鏡頭、高畫質影片。"
+    },
+    "whatIs": {
+      "title": "什麼是 Seedance 1.0 AI 影片產生器？",
+      "description": "Seedance 1.0 是由字節跳動 (ByteDance) SEED 團隊開發的先進 AI 影片生成模型。它能夠創建具有原生多鏡頭敘事、流暢運動和專業電影視覺效果的高品質敘事影片。Seedance 支援文字轉影片和圖片轉影片模式，擅長生成 5 到 10 秒的 HD (1080p) 影片片段，幀率為 24fps，具有平滑的過渡和一致的視覺風格。Seedance 利用最先進的擴散模型、時空一致性演算法和精確的 prompt，旨在徹底改變創作者、電影製作人、行銷人員和品牌的內容創作方式。"
+    },
+    "examples": {
+      "title": "Seedance 1.0 影片範例",
+      "description": "探索令人驚豔的 AI 生成電影影片，展示 Seedance 1.0 的多鏡頭敘事、平滑過渡，以及從照片寫實主義到動漫和賽博龐克等多樣化的視覺風格。"
+    },
+    "howToUse": {
+      "title": "如何使用 Seedance 1.0 AI 影片產生器",
+      "steps": [
+        {
+          "title": "上傳您的圖片",
+          "content": "首先上傳參考圖片以進行動畫處理，或輸入詳細的文字描述，以使用 Seedance 的 AI 功能從頭開始生成影片。"
+        },
+        {
+          "title": "輸入您的 prompt",
+          "content": "輸入您想要創建的影片的詳細文字 prompt 或描述。"
+        },
+        {
+          "title": "生成您的影片",
+          "content": "點擊「生成」按鈕，讓 Seedance 經過最佳化的 AI 架構處理您的輸入，以產生高品質的電影影片。"
+        },
+        {
+          "title": "預覽和下載",
+          "content": "檢閱生成的影片的品質和敘事流程，然後以 1080p HD 格式下載，以便分享或整合到您的專案中。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼要使用 Seedance 1.0 AI 影片產生器？",
+      "description": "善用 Seedance 1.0 的強大功能，製作具有專業級品質和敘事效率的視覺豐富、無縫的 AI 影片。",
+      "features": [
+        {
+          "title": "原生多鏡頭敘事",
+          "content": "創建具有多個連貫鏡頭和平滑過渡的影片，在單個 AI 生成的片段中實現複雜的敘事和電影序列。",
+          "icon": "🎥"
+        },
+        {
+          "title": "雙模式影片生成",
+          "content": "可從自然語言文字 prompt 生成影片，或透過動畫靜態圖片生成影片，提供最大的創作靈活性。",
+          "icon": "🔄"
+        },
+        {
+          "title": "高畫質 1080p 輸出",
+          "content": "以 1080p 解析度和 24fps 的幀率製作專業品質的影片，適用於商業用途、社群媒體和專業簡報。",
+          "icon": "📺"
+        },
+        {
+          "title": "自然流暢的運動",
+          "content": "享受平滑逼真的人物動作、空間連貫性，以及動態相機控制，包括平移、縮放和追蹤鏡頭。",
+          "icon": "🌊"
+        },
+        {
+          "title": "廣泛的視覺風格",
+          "content": "應用從照片寫實主義、動漫、插畫、賽博龐克到水彩等多種風格，無需複雜的調整。",
+          "icon": "🎨"
+        },
+        {
+          "title": "快速高效的生成",
+          "content": "透過優化的模型加速體驗快速的影片創建，在大約 41 秒內產生 5 秒的影片，從而加快您的創作工作流程。",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Seedance 1.0 AI 影片產生器常見問題",
+      "description": "您掌握 Seedance 1.0 AI 影片產生器以創建電影和專業 AI 影片的指南。",
+      "q1": "什麼是 Seedance 1.0 AI 影片產生器？",
+      "a1": "Seedance 1.0 是字節跳動 (ByteDance) 的 AI 驅動影片生成模型，可使用文字或圖片作為輸入來創建高品質的敘事影片。它支援具有平滑運動和專業視覺風格的多鏡頭敘事。",
+      "q2": "Seedance 1.0 如何生成影片？",
+      "a2": "它使用先進的擴散建模，結合時空一致性演算法和精確的 prompt 解釋，以生成 5 到 10 秒的影片，在 1080p 解析度下具有平滑的過渡和穩定的人物一致性。",
+      "q3": "Seedance 1.0 的主要使用案例是什麼？",
+      "a3": "Seedance 1.0 非常適合社群內容創作者、行銷人員、電影製作人、時尚影片、情緒版循環、教育影片，以及任何需要來自文字或圖片的動態、電影影片內容的專案。",
+      "q4": "我可以自訂影片風格和長度嗎？",
+      "a4": "是的，Seedance 允許選擇不同的藝術風格，包括照片寫實主義、動漫、賽博龐克等。您也可以設定影片的長度，通常在 5 到 10 秒之間。",
+      "q5": "Seedance 1.0 支援什麼影片品質？",
+      "a5": "Seedance 以 1080p HD 生成影片，具有流暢的 24fps 幀率，使其適合跨平台的專業用途。",
+      "q6": "Seedance 1.0 對於初學者來說容易使用嗎？",
+      "a6": "絕對容易。憑藉支援文字或圖片輸入的直觀 UI/UX 介面，從初學者到專業人士的任何人都可快速創建令人驚豔的 AI 影片。",
+      "q7": "哪些類型的 prompt 最適合 Seedance？",
+      "a7": "描述場景、動作和情感的詳細自然語言 prompt 會產生最佳結果。 也支援創造性和實驗性 prompt。",
+      "q8": "Seedance 1.0 有什麼限制嗎？",
+      "a8": "雖然功能強大，但在複雜的多角色或高解析度場景中可能需要更多處理。 此外，在長片段中保持完美的藝術風格一致性仍然具有挑戰性。"
+    }
+  },
+  "originalKeyword": "Seedance 1.0 AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：Seedance 1.0",
+      "description": "Prompt: The man on the left presses his lips tightly together, his face etched with fury and resolve. Every line of his expression radiates both profound frustration and unshakable conviction. Meanwhile, the other man's jaw hangs open—poised as if to erupt into a shout or impassioned declaration.",
+      "videoUrl": "https://fluximageai.net/generated-models/4e3363f0-35d4-4af0-a0fb-0a61fcd72239.mp4"
+    },
+    {
+      "id": 2,
+      "title": "模型：Seedance 1.0",
+      "description": "Prompt: A cartoon minion Jedi in dark robes, crouching low on a tree branch above a misty swamp. He has two small daggers and glowing yellow eyes under his hood. Silent and mysterious, with soft cinematic lighting and glowing mushrooms nearby.",
+      "videoUrl": "https://fluximageai.net/generated-models/5e666711-bbb7-4f99-b96b-48f271496894.mp4"
+    },
+    {
+      "id": 3,
+      "title": "模型：Seedance 1.0",
+      "description": "Prompt: A cat is playing piano.",
+      "videoUrl": "https://fluximageai.net/generated-models/d4a77f87-afe1-44fa-8d50-4d12656fa4aa.mp4"
+    },
+    {
+      "id": 4,
+      "title": "模型：Seedance 1.0",
+      "description": "Prompt: preocupado por las deudas.",
+      "videoUrl": "https://fluximageai.net/generated-models/acd61a30-7ad9-4d78-a458-52e510735e52.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "SEEDANCE"
+}

@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Animador de Imágenes",
+      "description": "Descubre la innovación de la IA y transforma tus imágenes estáticas en animaciones cautivadoras con nuestro Animador de Imágenes. Ideal para cómics, manga, anime y expresiones artísticas.",
+      "keywords": "Animador de Imágenes, animación de imágenes, animación de anime, animación de cómics, herramientas de arte con IA, imagen a animación, creador de animaciones, generador de animación con IA"
+    },
+    "hero": {
+      "title": "Animador de Imágenes",
+      "description": "Descubre la innovación de la IA y transforma tus imágenes estáticas en animaciones cautivadoras con nuestro Animador de Imágenes. Ideal para cómics, manga, anime y expresiones artísticas."
+    },
+    "whatIs": {
+      "title": "¿Qué es el Animador de Imágenes?",
+      "description": "El Animador de Imágenes es una herramienta revolucionaria que utiliza IA avanzada para crear animaciones dinámicas a partir de imágenes estáticas. Perfecto para creadores y artistas de anime, manga y cómic."
+    },
+    "examples": {
+      "title": "Ejemplos de Animación de Anime y Cómics",
+      "description": "Explora ejemplos de contenido animado creado con nuestro Animador de Imágenes. Observa cómo las imágenes estáticas se transforman en animaciones vibrantes.",
+      "inputAlt": "Imagen de Entrada de Ejemplo",
+      "inputLabel": "Imagen de Entrada",
+      "outputLabel": "Resultado de la Animación"
+    },
+    "howToUse": {
+      "title": "Cómo Animar con el Animador de Imágenes",
+      "steps": [
+        {
+          "title": "Sube Tu Imagen",
+          "content": "Selecciona la imagen que deseas animar. Ya sea un personaje, una escena de anime o una ilustración, nuestra IA le dará vida."
+        },
+        {
+          "title": "Introduce un Prompt",
+          "content": "Introduce un prompt descriptivo para dirigir la animación de tu imagen. Especifica movimientos, expresiones o acciones."
+        },
+        {
+          "title": "Genera la Animación",
+          "content": "Haz clic en el botón 'Generar Animación' y observa cómo nuestra IA transforma tu imagen en un vídeo de animación realista."
+        },
+        {
+          "title": "Descarga y Comparte",
+          "content": "Descarga tu animación y compártela. Ideal para redes sociales, portafolios y presentaciones digitales."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "¿Por qué Elegir el Animador de Imágenes?",
+      "description": "Descubre el poder de la IA en la animación para tus proyectos creativos. El Animador de Imágenes facilita a los artistas la creación de contenido atractivo.",
+      "features": [
+        {
+          "title": "Animación Impulsada por IA",
+          "content": "Utiliza IA de vanguardia para crear animaciones. Nuestra tecnología procesa imágenes de forma inteligente para producir animaciones fluidas y naturales.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Interactúa Con Contenido Dinámico",
+          "content": "Convierte imágenes fijas en animaciones atractivas que mejoran tu presencia en redes sociales y presentaciones.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Fácil de Usar",
+          "content": "No necesitas experiencia avanzada en animación. Simplemente sube una imagen e introduce un prompt para que nuestra IA se encargue del resto.",
+          "icon": "👌"
+        },
+        {
+          "title": "Ahorra Tiempo de Producción",
+          "content": "Agiliza el proceso de creación de animación. Genera animaciones rápidamente, reduciendo significativamente el trabajo manual.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Resultados Profesionales",
+          "content": "Obtén una calidad de animación superior. Nuestra IA garantiza secuencias fluidas y movimientos naturales.",
+          "icon": "✨"
+        },
+        {
+          "title": "Impulsa Tu Creatividad",
+          "content": "Concéntrate en tu visión artística mientras nuestra IA gestiona los detalles técnicos de la animación, permitiendo una creación de contenido sin esfuerzo.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Encuentra respuestas a preguntas comunes sobre la creación con el Animador de Imágenes.",
+      "q1": "¿Qué es el Animador de Imágenes?",
+      "a1": "El Animador de Imágenes es una herramienta de IA que transforma imágenes estáticas en contenido animado. Utiliza tecnología de IA para generar animaciones realistas a partir de fotos, obras de arte e ilustraciones, lo que lo hace perfecto para creadores de cómics, manga y anime.",
+      "q2": "¿Cómo usar el Animador de Imágenes?",
+      "a2": "¡Usar el Animador de Imágenes es muy sencillo! Primero sube tu imagen, luego introduce un prompt descriptivo y, finalmente, haz clic en 'Generar Animación'. Disfruta de la transformación impulsada por la IA. También puedes descargar y compartir el vídeo de animación resultante.",
+      "q3": "¿Cómo funciona el Animador de Imágenes?",
+      "a3": "El Animador de Imágenes utiliza algoritmos de aprendizaje automático y redes neuronales para animar imágenes estáticas. Identifica características clave y crea fotogramas que simulan el movimiento. Desde obras de arte hasta fotos, nuestra IA mejora dinámicamente el contenido a través de la animación.",
+      "q4": "¿Cuál es la mejor herramienta de imagen a animación?",
+      "a4": "KomikoAI ofrece la mejor herramienta de imagen a animación. Nuestro objetivo es ser la plataforma de creación de IA líder al ofrecer resultados de calidad profesional, una personalización potente y divertida, y un flujo de trabajo intuitivo, completamente gratis para probar. Con el Animador de Imágenes de KomikoAI, puedes animar diversos estilos, perfecto para creadores y entusiastas.",
+      "q5": "¿El Animador de Imágenes de KomikoAI es gratis en línea?",
+      "a5": "Sí, puedes probar el Animador de Imágenes en KomikoAI de forma gratuita, sin necesidad de registrarte ni suscribirte. ¡Prueba nuestra herramienta hoy mismo!",
+      "q6": "¿Qué puedo hacer con el Animador de Imágenes?",
+      "a6": "Puedes usar el Animador de Imágenes en KomikoAI para crear animaciones atractivas a partir de imágenes e ilustraciones, ya sea para crear escenas de anime, retratos dinámicos o cómics vibrantes: transforma imágenes estáticas en animaciones emocionantes fácilmente.",
+      "q7": "¿Puedo usar el Animador de Imágenes en mi teléfono?",
+      "a7": "Sí, puedes usar el Animador de Imágenes como una aplicación web en diferentes dispositivos, incluidos teléfonos inteligentes y ordenadores, lo que lo hace conveniente para todos.",
+      "q8": "¿Puedo descargar mi generación del Animador de Imágenes?",
+      "a8": "Sí, el Animador de Imágenes de KomikoAI te permite exportar tu generación en varios formatos, como MP4, GIF, WebM, para compartir fácilmente.",
+      "q9": "¿Por qué debería usar el Animador de Imágenes?",
+      "a9": "Usar el Animador de Imágenes puede dar vida a tu visión creativa. Nuestra herramienta te permite animar imágenes sin esfuerzo, emplear mejoras impulsadas por la IA y personalizar la salida, perfecto para artistas, influencers y creadores de contenido."
+    },
+    "cta": {
+      "title": "¡Transforma Tus Imágenes GRATIS con Nuestro Animador de Imágenes Hoy!",
+      "description": "Experimenta el futuro de la animación con nuestra intuitiva herramienta de IA.",
+      "buttonText": "Prueba Nuestro Animador de Imágenes Gratis"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modelo: Midjourney",
+      "description": "Prompt: Chica maid de anime con uniforme negro y blanco con volantes caminando hacia la cámara llevando una bandeja de té, iluminación cálida de cafetería, fondo suave con clientes, luz dorada del sol a través de las ventanas, movimiento de acercamiento suave",
+      "videoUrl": "/images/pages/midjourney/example3.webm"
+    },
+    {
+      "id": 2,
+      "title": "Modelo: Veo 3",
+      "description": "Prompt: La niña está bailando y cantando",
+      "videoUrl": "/images/examples/image-animation-generator/output2.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Modelo: Vidu Q1",
+      "description": "Prompt: Un hada se sienta en la flor mientras los pétalos se abren",
+      "videoUrl": "/images/pages/vidu/flower.webm"
+    },
+    {
+      "id": 4,
+      "title": "Modelo: Anime Pro",
+      "description": "Prompt: Chica anime patinando rápido por un callejón iluminado con neón por la noche, haciendo giros bruscos, con el viento en el pelo, seguida desde atrás. Los letreros brillantes se reflejan en el pavimento mojado mientras pasa a toda velocidad por callejones estrechos.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+    }
+  ],
+  "originalKeyword": "Image Animator",
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "moreAITools",
+    "whyUse",
+    "faq",
+    "cta"
+  ],
+  "placeholderText": "Generate Image Animator style artwork"
+}

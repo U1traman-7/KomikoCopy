@@ -1,0 +1,73 @@
+{
+  "tags": {
+    "trending": "Sedang Tren",
+    "newest": "Terbaru",
+    "most_likes": "Paling Disukai",
+    "following": "Diikuti",
+    "ranking": "Peringkat",
+    "leaderboard": "Papan Skor"
+  },
+  "loadMore": "Muat Lebih Banyak",
+  "noMorePosts": "Tidak ada postingan lain yang bisa dimuat",
+  "tryAgain": "Coba Lagi",
+  "noPostsFound": "Tidak ada pos ditemukan",
+  "actions": {
+    "loadMore": "Muat Lebih Banyak",
+    "tryAgain": "Coba Lagi",
+    "refresh": "Segarkan",
+    "retry": "Ulangi",
+    "linkCopied": "Tautan berbagi sudah disalin!"
+  },
+  "states": {
+    "noMorePosts": "Tidak ada postingan lain untuk dimuat",
+    "noPostsFound": "Tidak ada postingan ditemukan"
+  },
+  "errors": {
+    "noResponse": "Gagal mengambil data: Tidak ada respons",
+    "unknownError": "Kesalahan tidak diketahui",
+    "serverError": "Kesalahan server {{status}}: {{statusText}}",
+    "loadFailed": "Gagal memuat konten",
+    "timeout": "Waktu permintaan habis. Silakan coba lagi.",
+    "serverSlow": "Respon server lambat, silakan coba lagi nanti. Jika masalah berlanjut, segarkan halaman."
+  },
+  "labels": {
+    "sortBy": "Urutkan berdasarkan:",
+    "filterBy": "Saring berdasarkan:"
+  },
+  "noRelatedPostDesc": "Jadilah yang pertama untuk membuat konten dengan karakter ini!",
+  "ranking": {
+    "postRanking": "Peringkat Karya",
+    "creatorRanking": "Peringkat Kreator",
+    "characterRanking": "Peringkat Karakter",
+    "daily": "Harian",
+    "weekly": "Mingguan",
+    "monthly": "Bulanan",
+    "loading": "Memuat...",
+    "noData": "Tidak ada data yang tersedia",
+    "noPreview": "Tidak ada pratinjau",
+    "fans": "Penggemar",
+    "posts": "Postingan",
+    "follow": "Ikuti",
+    "following": "Mengikuti",
+    "followSuccess": "Berhasil mengikuti",
+    "followFailed": "Gagal mengikuti",
+    "weeklyRules": "Aturan Peringkat Mingguan",
+    "weeklyRulesContent": "Peringkat didasarkan pada total suka selama minggu sebelumnya. Papan peringkat akan terkunci pada pukul 12:00 AM PST setiap hari Senin, dengan lencana dan hadiah Zaps akan dibagikan pada pukul 5:00 AM.\nJuara 1: 500 Zaps | Juara 2: 300 Zaps | Juara 3: 100 Zaps\nMemenuhi syarat untuk hadiah mingguan dan bulanan.",
+    "monthlyRules": "Aturan Peringkat Bulanan",
+    "monthlyRulesContent": "Peringkat didasarkan pada total suka selama bulan sebelumnya. Papan peringkat akan terkunci pada pukul 12:00 AM PST setiap tanggal 1, dengan lencana dan hadiah Zaps akan dibagikan pada pukul 5:00 AM.\nJuara 1: 1,000 Zaps | Juara 2: 800 Zaps | Juara 3: 500 Zaps\nMemenuhi syarat untuk hadiah mingguan dan bulanan."
+  },
+  "tagOrder": {
+    "title": "Mengelola Tag",
+    "description": "Seret dan lepaskan untuk mengatur ulang tag yang Anda ikuti",
+    "position": "Posisi {{position}}",
+    "noFollowedTags": "Belum ada tag yang Anda ikuti. Ikuti beberapa tag untuk menyesuaikan urutannya!",
+    "saved": "Urutan tag berhasil disimpan",
+    "subscribedTags": "Tag yang Anda ikuti",
+    "dragToReorder": "(seret untuk mengurutkan ulang)",
+    "presetTags": "Tag yang Direkomendasikan",
+    "otherTags": "Tag Lainnya",
+    "noTags": "Tidak ada tag yang tersedia",
+    "saveFailed": "Gagal menyimpan perubahan"
+  },
+  "search_tags_placeholder": "Cari tag populer..."
+}

@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 圖片轉動畫影片 - KomikoAI",
+      "description": "透過 AI 技術將您的靜態圖片轉換為令人驚豔的動畫影片。在數秒內，即可從照片、美術作品及插圖創建栩栩如生的動畫。",
+      "keywords": "圖片轉動畫, AI 動畫產生器, 照片動畫, 圖片轉影片, AI 影片創建器"
+    },
+    "hero": {
+      "title": "AI 圖片動畫產生器",
+      "subtitle": "透過 AI 驅動技術，將靜態圖片轉換為動態動畫影片"
+    },
+    "whatIs": {
+      "title": "何謂圖片動畫？",
+      "description": "圖片動畫是一種由 AI 驅動的技術，能將靜態圖片轉換為動態、栩栩如生的影片。我們先進的 AI 會分析您的照片、美術作品和插圖，以創建自然的動作、呼吸效果及細微的動畫，透過引人入勝的動態效果，讓您的圖片活靈活現。"
+    },
+    "howToUse": {
+      "title": "如何創建圖片動畫",
+      "steps": [
+        {
+          "title": "上傳您的圖片",
+          "content": "選擇並上傳您想要製作動畫的照片、美術作品或插圖。"
+        },
+        {
+          "title": "描述動畫",
+          "content": "撰寫提示 (prompt)，描述您希望在圖片中呈現的動作類型。"
+        },
+        {
+          "title": "選擇設定",
+          "content": "為您的影片選擇動畫持續時間、風格和品質等偏好設定。"
+        },
+        {
+          "title": "產生並下載",
+          "content": "讓 AI 創建您的動畫影片，並以高品質下載成果。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為何要使用我們的圖片動畫產生器？",
+      "description": "從靜態圖片創建專業級動畫內容，無需複雜的軟體或動畫技能。",
+      "features": [
+        {
+          "title": "AI 驅動動畫",
+          "content": "先進的 AI 技術可從任何靜態圖片創建自然、栩栩如生的動作。",
+          "icon": "🤖"
+        },
+        {
+          "title": "多種圖片類型",
+          "content": "適用於照片、數位藝術、插圖、肖像和各種圖片格式。",
+          "icon": "🖼️"
+        },
+        {
+          "title": "自然動作",
+          "content": "產生逼真的呼吸、眨眼、頭髮移動和細微的面部動畫。",
+          "icon": "💫"
+        },
+        {
+          "title": "高品質輸出",
+          "content": "創建流暢、專業品質的動畫影片，最高可達 1080p 解析度。",
+          "icon": "⭐"
+        },
+        {
+          "title": "易於使用",
+          "content": "簡單的上傳和產生流程 - 無需動畫經驗。",
+          "icon": "✨"
+        },
+        {
+          "title": "快速處理",
+          "content": "在數分鐘內將您的圖片轉換為動畫，而非數小時。",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "圖片動畫產生器常見問題",
+      "description": "關於從靜態圖片創建動畫的常見問題。",
+      "q1": "哪些類型的圖片最適合製作動畫？",
+      "a1": "具有清晰主體的高品質圖片效果最佳。照片、數位藝術、肖像和插圖在具有良好的解析度和鮮明特徵時，都能產生出色的效果。",
+      "q2": "動畫影片可以有多長？",
+      "a2": "您可以創建長度從 5 到 10 秒不等的動畫，非常適合社群媒體內容、簡報和引人入勝的視覺展示。",
+      "q3": "我可以創建哪些動畫效果？",
+      "a3": "我們的 AI 可以產生各種效果，包括呼吸動畫、眨眼、頭髮移動、面部表情和環境效果，例如流動的水或移動的雲。",
+      "q4": "支援哪些圖片格式？",
+      "a4": "我們支援常見的圖片格式，包括 JPG、PNG 和 WEBP 檔案，最大尺寸為 10MB，以實現最佳的處理和動畫品質。",
+      "q5": "動畫看起來有多逼真？",
+      "a5": "我們的 AI 創建看起來自然的動畫，可以增強您的圖片，而不會使其看起來不自然。這些動作既細微又栩栩如生。",
+      "q6": "我可以控制動畫風格嗎？",
+      "a6": "是的，您可以透過詳細的提示 (prompt) 指定您想要的動畫類型，從逼真的動作、藝術效果或風格化的動畫中進行選擇。"
+    }
+  },
+  "content": {
+    "header": {
+      "title": "AI 圖片動畫產生器",
+      "subtitle": "透過 AI 技術將您的靜態圖片轉換為引人入勝的動畫影片"
+    },
+    "examples": [
+      {
+        "id": 1,
+        "title": "模型：Veo 3",
+        "description": "Prompt: A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+        "videoUrl": "/images/pages/veo3/example7.webm"
+      },
+      {
+        "id": 2,
+        "title": "模型：AniSora",
+        "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+        "videoUrl": "/images/pages/anisora/example3.webm"
+      },
+      {
+        "id": 3,
+        "title": "模型：Anime Pro",
+        "description": "Prompt: Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+      },
+      {
+        "id": 4,
+        "title": "模型：Marey",
+        "description": "Prompt: Motion Transfer - Advanced motion capture and animation techniques",
+        "videoUrl": "https://framerusercontent.com/assets/G6g5UNTx9dlKbMGdS8Iag4Xas.mp4"
+      },
+      {
+        "id": 5,
+        "title": "模型：Marey",
+        "description": "Prompt: Dynamic Motion - Fluid and dynamic character animation",
+        "videoUrl": "https://framerusercontent.com/assets/vgdQZ2zcFZsxMSqZv8s2kwwKJ8.mp4"
+      },
+      {
+        "id": 6,
+        "title": "模型：Anime Pro",
+        "description": "Prompt: The boy slowly lean in, gently holds the girl’s face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+      }
+    ]
+  },
+  "originalKeyword": "Image Animation Generator",
+  "placeholderText": "A beautiful portrait with gentle breathing animation, subtle eye movement, and natural facial expressions"
+}

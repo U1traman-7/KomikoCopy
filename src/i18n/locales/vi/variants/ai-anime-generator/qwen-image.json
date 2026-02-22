@@ -1,0 +1,389 @@
+{
+  "seo": {
+    "title": "Qwen Image | Công Cụ Tạo Ảnh Qwen Trực Tuyến Miễn Phí",
+    "description": "Tạo ra những hình ảnh ấn tượng ngay lập tức với công cụ tạo ảnh Qwen Image miễn phí. Chuyển đổi các prompt văn bản thành hình ảnh chất lượng cao, hiển thị văn bản chính xác và chỉnh sửa liền mạch.",
+    "keywords": "Qwen Image, Tạo Ảnh Qwen Miễn Phí, Công Cụ Tạo Ảnh Qwen AI, Công cụ Qwen Image trực tuyến, Qwen chuyển đổi văn bản thành ảnh, Trình chỉnh sửa Qwen Image, Tạo ảnh AI, Qwen-Image miễn phí, Hiển thị văn bản Qwen, Chỉnh sửa chính xác Qwen, Tạo ảnh bằng Qwen, Nền tảng Qwen Image, Qwen-Image demo, Hình ảnh Qwen"
+  },
+  "content": {
+    "header": {
+      "title": "Qwen Image",
+      "subtitle": "Công Cụ Tạo Ảnh Qwen Trực Tuyến Miễn Phí — Tạo ảnh tức thì bằng AI"
+    },
+    "sections": {
+      "examples": {
+        "title": "Các Ví Dụ Về Qwen Image",
+        "description": "Tham khảo các mẫu hình ảnh đa dạng do AI tạo ra bằng Qwen Image. Từ các cảnh chân thực như ảnh chụp và nghệ thuật anime đến thiết kế poster với bố cục văn bản phức tạp, hãy khám phá toàn bộ tiềm năng của công cụ tạo ảnh Qwen."
+      },
+      "whatIs": {
+        "title": "Qwen Image Là Gì?",
+        "description": "Qwen Image là một mô hình nền tảng hình ảnh MMDiT 20B mang tính cách mạng, đạt được những tiến bộ đáng kể trong việc hiển thị văn bản phức tạp và chỉnh sửa hình ảnh chính xác. Được xây dựng trên kiến trúc transformer khuếch tán đa phương thức tiên tiến, Qwen Image thể hiện một bước đột phá trong việc tạo nội dung trực quan được hỗ trợ bởi AI.",
+        "keyFeatures": [
+          {
+            "title": "🎯 Khả Năng Hiển Thị Văn Bản Vượt Trội",
+            "description": "Vượt trội trong việc hiển thị văn bản phức tạp với bố cục nhiều dòng, ngữ nghĩa cấp đoạn văn và các chi tiết tỉ mỉ. Hỗ trợ cả ngôn ngữ chữ cái (tiếng Anh) và ngôn ngữ biểu ý (tiếng Trung) với độ trung thực đặc biệt và tối ưu hóa bố cục tự động."
+          },
+          {
+            "title": "✏️ Chỉnh Sửa Ảnh Nhất Quán",
+            "description": "Thông qua mô hình đào tạo đa nhiệm nâng cao, Qwen Image đạt được hiệu suất vượt trội trong việc bảo toàn cả ý nghĩa ngữ nghĩa và tính chân thực trực quan trong các thao tác chỉnh sửa bao gồm chuyển đổi kiểu, thêm/xóa đối tượng và sửa đổi văn bản."
+          },
+          {
+            "title": "🏆 Hiệu Suất Vượt Trội",
+            "description": "Liên tục vượt trội so với các mô hình hiện có trên các benchmark đa dạng bao gồm GenEval, DPG, OneIG-Bench để tạo ảnh và GEdit, ImgEdit, GSO để chỉnh sửa ảnh. Đặc biệt vượt trội trong các benchmark hiển thị văn bản như LongText-Bench, ChineseWord và TextCraft."
+          },
+          {
+            "title": "🌐 Khả Năng Đa Ngôn Ngữ",
+            "description": "Hỗ trợ gốc cho việc hiển thị văn bản tiếng Trung phức tạp cùng với tiếng Anh, với khả năng tạo văn bản song ngữ liền mạch. Hoàn hảo để tạo nội dung quốc tế, tài liệu giáo dục và giao tiếp trực quan đa văn hóa."
+          }
+        ],
+        "technicalHighlights": {
+          "title": "Ưu Điểm Kỹ Thuật",
+          "points": [
+            "Kiến trúc MMDiT (Multimodal Diffusion Transformer) với 20 tỷ tham số",
+            "Căn chỉnh văn bản-hình ảnh nâng cao cho kiểu chữ hoàn hảo đến từng pixel",
+            "Mô hình đào tạo đa nhiệm để thống nhất việc tạo và chỉnh sửa ảnh",
+            "Hiệu suất hàng đầu trên nhiều benchmark trong cả tác vụ tạo và chỉnh sửa ảnh",
+            "Hiển thị văn bản tiếng Trung và tiếng Anh gốc với bố cục tự động"
+          ]
+        }
+      },
+      "howToUse": {
+        "title": "Cách Sử Dụng Qwen Image với KomikoAI",
+        "subtitle": "Thực hiện theo các bước đơn giản sau để tạo và chỉnh sửa hình ảnh bằng Qwen Image.",
+        "steps": [
+          {
+            "title": "Bước 1: Nhập Prompt",
+            "content": "Nhập mô tả chi tiết về hình ảnh bạn mong muốn: bao gồm các yếu tố cảnh, nhân vật, màu sắc, bố cục và bất kỳ văn bản hoặc kiểu chữ nào bạn cần hiển thị."
+          },
+          {
+            "title": "Bước 2: Chọn Kiểu & Tùy Chọn Văn Bản",
+            "content": "Chọn từ các kiểu cài sẵn—chân thực như ảnh chụp, anime, minh họa, poster—và định cấu hình cài đặt hiển thị văn bản cho bố cục đa ngôn ngữ, phông chữ và vị trí văn bản chính xác."
+          },
+          {
+            "title": "Bước 3: Tạo Hình Ảnh Của Bạn",
+            "content": "Nhấp vào nút “Tạo” và xem Qwen Image chuyển đổi prompt của bạn thành một hình ảnh chất lượng cao với tích hợp văn bản hoàn hảo và chi tiết nghệ thuật chỉ trong vài giây."
+          },
+          {
+            "title": "Bước 4: Tải Xuống & Tinh Chỉnh",
+            "content": "Lưu tác phẩm của bạn ở độ phân giải mong muốn. Sử dụng các công cụ chỉnh sửa tích hợp để điều chỉnh màu sắc, thay thế đối tượng hoặc tinh chỉnh văn bản trước khi tải xuống phiên bản cuối cùng."
+          }
+        ]
+      },
+      "whyUse": {
+        "title": "Tại Sao Nên Sử Dụng Qwen Image?",
+        "subtitle": "Khám phá những lợi thế của việc tạo ảnh bằng Qwen Image trực tuyến miễn phí.",
+        "features": [
+          {
+            "title": "🆓 Dùng Thử Miễn Phí & Không Giới Hạn",
+            "content": "Trải nghiệm đầy đủ các tính năng tạo ảnh và chỉnh sửa nhận biết văn bản của Qwen Image mà không tốn bất kỳ chi phí nào. Không cần đăng ký để bắt đầu sáng tạo."
+          },
+          {
+            "title": "📝 Khả Năng Hiển Thị Văn Bản Vượt Trội",
+            "content": "Hiển thị văn bản phức tạp, nhiều dòng bằng tiếng Anh, tiếng Trung, tiếng Nhật, v.v. với độ chính xác cao. Hoàn hảo cho poster, slide và bản dựng UI."
+          },
+          {
+            "title": "⚡ Kết Quả Tức Thì",
+            "content": "Tạo ra những hình ảnh ấn tượng chỉ trong vòng chưa đầy 10 giây — không phải chờ đợi lâu hoặc vẽ thủ công."
+          },
+          {
+            "title": "🎨 Tùy Chọn Phong Cách Linh Hoạt",
+            "content": "Chuyển đổi giữa các phong cách chân thực như ảnh chụp, anime, minh họa hoặc tùy chỉnh để phù hợp với bất kỳ dự án nào."
+          },
+          {
+            "title": "✨ Chỉnh Sửa Tích Hợp",
+            "content": "Điều chỉnh đối tượng, hoán đổi hình nền, tinh chỉnh chi tiết và cập nhật văn bản liền mạch bằng các công cụ chỉnh sửa dựa trên AI."
+          },
+          {
+            "title": "💼 Sử Dụng Cho Mục Đích Thương Mại",
+            "content": "Tất cả hình ảnh được tạo bằng Qwen Image đều được phép sử dụng cho mục đích cá nhân và thương mại — hoàn hảo cho tiếp thị, xây dựng thương hiệu và hàng hóa."
+          }
+        ]
+      },
+      "applications": {
+        "title": "Các Ứng Dụng Thực Tế Cho Qwen Image",
+        "subtitle": "Từ poster phim đến slide giáo dục, hãy xem Qwen Image thay đổi quy trình làm việc sáng tạo như thế nào",
+        "items": [
+          {
+            "title": "🎬 Poster Phim & Giải Trí",
+            "content": "Tạo poster phim chuyên nghiệp với bố cục văn bản phức tạp, thông tin dàn diễn viên và hình ảnh điện ảnh. Hoàn hảo cho quảng bá phim, trưng bày rạp chiếu phim và tiếp thị giải trí với khả năng hiển thị văn bản nhiều lớp.",
+            "example": "Tạo poster với các tiêu đề như 'Imagination Unleashed' có thông tin chi tiết về dàn diễn viên, đạo diễn và thông tin phát hành với kiểu chữ hoàn hảo."
+          },
+          {
+            "title": "📊 Bản Trình Bày Doanh Nghiệp & PPT",
+            "content": "Thiết kế slide trình bày cấp doanh nghiệp với xây dựng thương hiệu công ty, sơ đồ kỹ thuật và nội dung đa ngôn ngữ. Lý tưởng cho các cuộc họp kinh doanh, hội nghị và hội thảo giáo dục.",
+            "example": "Tạo slide có logo công ty, thông số kỹ thuật và nội dung song ngữ cho các bản trình bày kinh doanh quốc tế."
+          },
+          {
+            "title": "🏪 Bán Lẻ & Trưng Bày Tại Cửa Hàng",
+            "content": "Tạo ra các cảnh cửa hàng thực tế với biển hiệu cửa hàng, trưng bày sản phẩm và tài liệu quảng cáo. Hoàn hảo cho bản dựng thương mại điện tử, lập kế hoạch bán lẻ và hình ảnh hóa tiếp thị.",
+            "example": "Thiết kế trưng bày hiệu sách với biển hiệu 'New Arrivals This Week' và bìa sách chi tiết với tiêu đề và tên tác giả chính xác."
+          },
+          {
+            "title": "🎨 Nội Dung Văn Hóa & Nghệ Thuật",
+            "content": "Tạo nghệ thuật truyền thống Trung Quốc với thư pháp, câu đối và các yếu tố văn hóa. Tuyệt vời cho giáo dục văn hóa, dự án nghệ thuật và bảo tồn di sản.",
+            "example": "Tạo các câu đối Trung Quốc trang nhã với thư pháp truyền thống, bối cảnh phòng cổ điển và các hiện vật văn hóa như đồ sứ xanh trắng."
+          },
+          {
+            "title": "📚 Tài Liệu Giáo Dục & Đồ Họa Thông Tin",
+            "content": "Thiết kế nội dung giáo dục toàn diện với văn bản, sơ đồ chi tiết và giải thích đa ngôn ngữ. Hoàn hảo cho các khóa học trực tuyến, tài liệu đào tạo và tài nguyên học thuật.",
+            "example": "Tạo đồ họa thông tin về sức khỏe tinh thần với sáu phần chi tiết, mỗi phần có biểu tượng, tiêu đề và văn bản mô tả trong bố cục trang nhã."
+          },
+          {
+            "title": "🌐 Tạo Nội Dung Đa Ngôn Ngữ",
+            "content": "Tạo ra nội dung song ngữ liền mạch kết hợp văn bản tiếng Trung và tiếng Anh với khả năng hiển thị hoàn hảo. Lý tưởng cho các doanh nghiệp quốc tế, học ngôn ngữ và giao tiếp đa văn hóa.",
+            "example": "Tạo bản trình bày với cả 'Meet Qwen-Image – a powerful image foundation model' và '欢迎了解Qwen-Image, 一款强大的图像基础模型' trong cùng một hình ảnh."
+          }
+        ]
+      },
+      "technicalFeatures": {
+        "title": "🔬 Ưu Điểm Kỹ Thuật",
+        "subtitle": "Được hỗ trợ bởi nghiên cứu AI tiên tiến và mô hình nền tảng với 20 tỷ tham số",
+        "features": [
+          {
+            "title": "🧠 Mô Hình Với 20 Tỷ Tham Số",
+            "content": "Được xây dựng trên kiến trúc MMDiT với 20 tỷ tham số, đảm bảo khả năng hiểu biết vượt trội về các mối quan hệ trực quan và văn bản phức tạp."
+          },
+          {
+            "title": "🌐 Kiểu Chữ Đa Ngôn Ngữ",
+            "content": "Hỗ trợ gốc cho tiếng Trung, tiếng Anh, tiếng Nhật và các ngôn ngữ khác với khả năng hiển thị văn bản hoàn hảo đến từng pixel và tối ưu hóa bố cục tự động."
+          },
+          {
+            "title": "🎯 Hiệu Suất SOTA",
+            "content": "Đạt được kết quả hiện đại trên GenEval, DPG, OneIG-Bench cho tác vụ tạo ảnh và GEdit, ImgEdit, GSO cho các tác vụ chỉnh sửa ảnh."
+          },
+          {
+            "title": "🔄 Kiến Trúc Thống Nhất",
+            "content": "Mô hình duy nhất xử lý cả tác vụ tạo và chỉnh sửa hình ảnh với chất lượng nhất quán và khả năng bảo toàn phong cách."
+          }
+        ]
+      },
+      "benchmarks": {
+        "title": "📊 Các Benchmark Hiệu Suất",
+        "subtitle": "Dẫn đầu ngành về chất lượng hiển thị văn bản và tạo ảnh",
+        "items": [
+          {
+            "title": "Hiệu Suất Hiển Thị Văn Bản Vượt Trội",
+            "content": "Vượt trội so với các mô hình hiện có trên các benchmark LongText-Bench, ChineseWord và TextCraft, đặc biệt vượt trội trong việc hiển thị văn bản tiếng Trung với những cải tiến đáng kể so với các mô hình SOTA hiện tại."
+          },
+          {
+            "title": "Tạo Ảnh Phổ Quát",
+            "content": "Đạt được hiệu suất hàng đầu trên GenEval, DPG và OneIG-Bench cho các tác vụ tạo ảnh chung, thể hiện tính linh hoạt trên các phong cách hình ảnh và loại nội dung khác nhau."
+          },
+          {
+            "title": "Chỉnh Sửa Ảnh Chính Xác",
+            "content": "Dẫn đầu trong các benchmark GEdit, ImgEdit và GSO về khả năng chỉnh sửa ảnh, duy trì tính nhất quán đồng thời cho phép các sửa đổi phức tạp và chuyển đổi phong cách."
+          }
+        ]
+      },
+      "useCases": {
+        "title": "🎯 Các Ứng Dụng Thực Tế",
+        "subtitle": "Khám phá cách Qwen Image chuyển đổi quy trình làm việc sáng tạo trong nhiều ngành công nghiệp",
+        "cases": [
+          {
+            "title": "📚 Nội Dung Giáo Dục",
+            "content": "Tạo tài liệu hướng dẫn, đồ họa thông tin và bản trình bày với hỗ trợ văn bản đa ngôn ngữ. Hoàn hảo cho tài liệu học ngôn ngữ, tài liệu kỹ thuật và bản trình bày học thuật.",
+            "icon": "📚"
+          },
+          {
+            "title": "🎬 Tiếp Thị & Quảng Cáo",
+            "content": "Thiết kế poster bắt mắt, đồ họa truyền thông xã hội và tài liệu quảng cáo với vị trí văn bản chính xác. Lý tưởng cho các chiến dịch song ngữ và tiếp thị quốc tế.",
+            "icon": "🎬"
+          },
+          {
+            "title": "📱 Thiết Kế UI/UX",
+            "content": "Tạo bản dựng và nguyên mẫu với bố cục văn bản thực tế. Kiểm tra các ngôn ngữ và kiểu chữ khác nhau cho giao diện ứng dụng toàn cầu.",
+            "icon": "📱"
+          },
+          {
+            "title": "🎨 Dự Án Sáng Tạo",
+            "content": "Biến những tầm nhìn nghệ thuật thành hiện thực với tích hợp văn bản phức tạp. Hoàn hảo cho bìa sách, bìa album và kể chuyện sáng tạo với các yếu tố đa ngôn ngữ.",
+            "icon": "🎨"
+          }
+        ]
+      },
+      "comparison": {
+        "title": "🆚 So Sánh Qwen Image với Các Công Cụ Tạo AI Khác",
+        "subtitle": "Xem tại sao Qwen Image dẫn đầu về hiển thị văn bản và hỗ trợ đa ngôn ngữ",
+        "features": [
+          {
+            "feature": "Chất Lượng Hiển Thị Văn Bản",
+            "qwen": "Hoàn hảo đến từng pixel, hỗ trợ bố cục phức tạp",
+            "others": "Văn bản cơ bản, thường bị mờ hoặc không chính xác",
+            "advantage": "✅ Vượt Trội"
+          },
+          {
+            "feature": "Hỗ Trợ Đa Ngôn Ngữ",
+            "qwen": "Hỗ trợ gốc tiếng Trung, tiếng Anh, tiếng Nhật",
+            "others": "Giới hạn ở tiếng Anh, hỗ trợ kém với các script không phải Latinh",
+            "advantage": "✅ Toàn Diện"
+          },
+          {
+            "feature": "Kiểm Soát Bố Cục Văn Bản",
+            "qwen": "Tối ưu hóa bố cục tự động",
+            "others": "Yêu cầu định vị thủ công",
+            "advantage": "✅ Thông Minh"
+          },
+          {
+            "feature": "Khả Năng Chỉnh Sửa",
+            "qwen": "Mô hình tạo và chỉnh sửa thống nhất",
+            "others": "Các công cụ riêng biệt để chỉnh sửa",
+            "advantage": "✅ Tích Hợp"
+          }
+        ]
+      },
+      "tips": {
+        "title": "Mẹo Chuyên Nghiệp cho Qwen Image",
+        "items": [
+          "Cung cấp các tham chiếu kiểu và bảng màu rõ ràng để hướng dẫn đầu ra sáng tạo của Qwen.",
+          "Chỉ định nội dung văn bản và vị trí trong prompt để đảm bảo kiểu chữ chính xác.",
+          "Thử nghiệm với các prompt đa ngôn ngữ để tận dụng khả năng hiển thị văn bản nâng cao của Qwen Image.",
+          "Sử dụng mô tả phông chữ có độ tương phản cao (ví dụ: “serif đậm”) để có văn bản sắc nét hơn trong thiết kế của bạn."
+        ]
+      },
+      "howItWorks": {
+        "title": "🔧 Cách Qwen Image Hoạt Động",
+        "subtitle": "Tìm hiểu công nghệ tiên tiến đằng sau khả năng hiển thị văn bản vượt trội",
+        "steps": [
+          {
+            "step": "1",
+            "title": "🧠 Hiểu Biết Nâng Cao",
+            "content": "Kiến trúc MMDiT với 20 tỷ tham số của Qwen Image phân tích prompt của bạn để hiểu đồng thời cả yếu tố trực quan và yêu cầu văn bản."
+          },
+          {
+            "step": "2",
+            "title": "📝 Lập Kế Hoạch Bố Cục Văn Bản",
+            "content": "Mô hình tự động xác định vị trí văn bản, kích thước phông chữ và bố cục tối ưu dựa trên mô tả và bối cảnh trực quan của bạn."
+          },
+          {
+            "step": "3",
+            "title": "🎨 Tạo Thống Nhất",
+            "content": "Không giống như các mô hình khác thêm văn bản làm lớp phủ, Qwen Image tạo ra hình ảnh và văn bản như một tổng thể gắn kết, đảm bảo tích hợp hoàn hảo."
+          },
+          {
+            "step": "4",
+            "title": "✨ Tinh Chỉnh Chất Lượng",
+            "content": "Quá trình xử lý hậu kỳ nâng cao đảm bảo hiển thị văn bản hoàn hảo đến từng pixel với khả năng khử răng cưa thích hợp và sự hài hòa trực quan với hình ảnh xung quanh."
+          }
+        ]
+      },
+      "bestPractices": {
+        "title": "💡 Các Phương Pháp Hay Nhất Để Có Kết Quả Tối Ưu",
+        "subtitle": "Các mẹo chuyên nghiệp để tối đa hóa khả năng hiển thị văn bản của Qwen Image",
+        "practices": [
+          {
+            "category": "📝 Đặc Tả Văn Bản",
+            "tips": [
+              "Luôn chỉ định nội dung văn bản chính xác trong dấu ngoặc kép trong prompt của bạn",
+              "Mô tả tùy chọn kiểu phông chữ (serif, sans-serif, viết tay, v.v.)",
+              "Đề cập đến kích thước văn bản so với hình ảnh (tiêu đề lớn, chú thích nhỏ, v.v.)",
+              "Chỉ định màu sắc văn bản và yêu cầu độ tương phản để dễ đọc"
+            ]
+          },
+          {
+            "category": "🌐 Nội Dung Đa Ngôn Ngữ",
+            "tips": [
+              "Kết hợp ngôn ngữ một cách tự nhiên trong prompt của bạn để có thiết kế song ngữ",
+              "Chỉ định loại script để hiển thị tốt hơn (Latinh, ký tự Trung Quốc, v.v.)",
+              "Sử dụng bối cảnh văn hóa để hướng dẫn lựa chọn kiểu chữ phù hợp",
+              "Kiểm tra các tổ hợp ngôn ngữ khác nhau cho các dự án quốc tế"
+            ]
+          },
+          {
+            "category": "🎨 Tích Hợp Thiết Kế",
+            "tips": [
+              "Mô tả cách văn bản nên tương tác với các yếu tố trực quan",
+              "Chỉ định cách xử lý nền (trong suốt, đặc, chuyển màu)",
+              "Đề cập đến căn chỉnh văn bản và tùy chọn vị trí",
+              "Bao gồm tham chiếu kiểu để xây dựng thương hiệu nhất quán"
+            ]
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Qwen Image là gì và nó khác biệt như thế nào so với các công cụ tạo AI khác?",
+        "answer": "Qwen Image tận dụng mô hình nền tảng với 20 tỷ tham số được thiết kế để tạo ảnh và hiển thị văn bản chính xác. Không giống như các công cụ đa năng, Qwen Image vượt trội về kiểu chữ đa ngôn ngữ và độ chính xác bố cục phức tạp."
+      },
+      {
+        "question": "Tôi có cần tài khoản để sử dụng công cụ tạo Qwen Image miễn phí không?",
+        "answer": "Không cần tài khoản để dùng thử Qwen Image trực tuyến. Chỉ cần truy cập trang công cụ, nhập prompt của bạn và tạo hình ảnh ngay lập tức — miễn phí và không giới hạn trong thời gian dùng thử."
+      },
+      {
+        "question": "Tôi có thể tạo hình ảnh với văn bản và phông chữ tùy chỉnh không?",
+        "answer": "Có. Qwen Image hỗ trợ các prompt văn bản chi tiết chỉ định cách diễn đạt, kiểu phông chữ, kích thước và vị trí chính xác để có kết quả kiểu chữ có độ trung thực cao."
+      },
+      {
+        "question": "Các tác phẩm được tạo bởi Qwen Image có được phép sử dụng cho mục đích thương mại không?",
+        "answer": "Chắc chắn rồi. Tất cả hình ảnh được tạo bằng Qwen Image đều có thể được sử dụng cho các dự án cá nhân hoặc thương mại theo điều khoản dịch vụ của chúng tôi."
+      },
+      {
+        "question": "Làm cách nào để có được kết quả tốt nhất từ các prompt Qwen Image?",
+        "answer": "Bao gồm các yếu tố mô tả như ánh sáng, bố cục, phong cách và bất kỳ chi tiết văn bản nào. Tham khảo các phong cách thiết kế hoặc nghệ sĩ đã biết để tinh chỉnh đầu ra hình ảnh."
+      }
+    ],
+    "cta": {
+      "title": "Bắt Đầu Tạo Ảnh Qwen Miễn Phí Ngay Bây Giờ",
+      "description": "Giải phóng sức mạnh của việc tạo hình ảnh và văn bản được hỗ trợ bởi AI. Tạo Qwen Image đầu tiên của bạn chỉ trong vài giây — không cần đăng ký!",
+      "buttonText": "Tạo Qwen Image"
+    },
+    "examples": [
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/aliyun.png",
+        "alt": "AI generated Qwen Image - Miyazaki anime style street scene with Chinese text",
+        "prompt": "Miyazaki anime style. Eye-level shot of a bustling ancient street under sunlight. A disciple in green robes stands in the center, holding a card with 'Alibaba Cloud' written on it. Two children look at him in surprise. On the left is a shop with a 'Cloud Storage' sign, displaying glowing server cases with two guards at the entrance. On the right are two shops: one with a 'Cloud Computing' sign where a beautiful woman in qipao looks at glowing computer screens, and another with a 'Cloud Model' sign featuring a large wine jar labeled 'Qwen' with a shopkeeper pouring glowing code solution into it."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/tongyi.png",
+        "alt": "AI generated Qwen Image - Traditional Chinese room with calligraphy couplets",
+        "prompt": "An elegant and dignified couplet hanging in a hall, with a quiet classical Chinese-style room setup. Blue and white porcelain is placed on the table. The couplet reads on the left 'Righteousness born from knowledge, humans and machines share the path of good thinking and innovation', on the right 'Connecting clouds to wisdom, heaven and earth inspire numbers with high aspirations', with the horizontal inscription 'Wisdom Enlightens Tongyi'. The calligraphy is flowing and elegant, with a Chinese-style painting of Yueyang Tower hanging in the center."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/book.png",
+        "alt": "AI generated Qwen Image - Bookstore window display with English text",
+        "prompt": "Bookstore window display. A sign displays \"New Arrivals This Week\". Below, a shelf tag with the text \"Best-Selling Novels Here\". To the side, a colorful poster advertises \"Author Meet And Greet on Saturday\" with a central portrait of the author. There are four books on the bookshelf, namely \"The light between worlds\" \"When stars are scattered\" \"The silent patient\" \"The night circus\""
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/six.png",
+        "alt": "AI generated Qwen Image - Infographic slide about emotional wellbeing habits",
+        "prompt": "A slide featuring artistic, decorative shapes framing neatly arranged textual information styled as an elegant infographic. At the very center, the title \"Habits for Emotional Wellbeing\" appears clearly, surrounded by a symmetrical floral pattern. On the left upper section, \"Practice Mindfulness\" appears next to a minimalist lotus flower icon, with the short sentence, \"Be present, observe without judging, accept without resisting\". Next, moving downward, \"Cultivate Gratitude\" is written near an open hand illustration, along with the line, \"Appreciate simple joys and acknowledge positivity daily\". Further down, towards bottom-left, \"Stay Connected\" accompanied by a minimalistic chat bubble icon reads \"Build and maintain meaningful relationships to sustain emotional energy\". At bottom right corner, \"Prioritize Sleep\" is depicted next to a crescent moon illustration, accompanied by the text \"Quality sleep benefits both body and mind\". Moving upward along the right side, \"Regular Physical Activity\" is near a jogging runner icon, stating: \"Exercise boosts mood and relieves anxiety\". Finally, at the top right side, appears \"Continuous Learning\" paired with a book icon, stating \"Engage in new skill and knowledge for growth\". The slide layout beautifully balances clarity and artistry, guiding the viewers naturally along each text segment."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/poster.png",
+        "alt": "AI generated Qwen Image - Movie poster with detailed text layout",
+        "prompt": "A movie poster. The first row is the movie title, which reads \"Imagination Unleashed\". The second row is the movie subtitle, which reads \"Enter a world beyond your imagination\". The third row reads \"Cast: Qwen-Image\". The fourth row reads \"Director: The Collective Imagination of Humanity\". The central visual features a sleek, futuristic computer from which radiant colors, whimsical creatures, and dynamic, swirling patterns explosively emerge, filling the composition with energy, motion, and surreal creativity. The background transitions from dark, cosmic tones into a luminous, dreamlike expanse, evoking a digital fantasy realm. At the bottom edge, the text \"Launching in the Cloud, August 2025\" appears in bold, modern sans-serif font with a glowing, slightly transparent effect, evoking a high-tech, cinematic aesthetic. The overall style blends sci-fi surrealism with graphic design flair—sharp contrasts, vivid color grading, and layered visual depth—reminiscent of visionary concept art and digital matte painting, 32K resolution, ultra-detailed."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/small.png",
+        "alt": "AI generated Qwen Image - Man with handwritten poetry on paper",
+        "prompt": "A man in a suit is standing in front of the window, looking at the bright moon outside the window. The man is holding a yellowed paper with handwritten words on it: \"A lantern moon climbs through the silver night, Unfurling quiet dreams across the sky, Each star a whispered promise wrapped in light, That dawn will bloom, though darkness wanders by.\" There is a cute cat on the windowsill."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/bi.png",
+        "alt": "AI generated Qwen Image - Bilingual Chinese-English presentation slide",
+        "prompt": "A Chinese woman wearing a \"QWEN\" logo T-shirt is holding a black marker and smiling at the camera. Behind her, handwritten text on a glass board reads: \"Meet Qwen-Image – a powerful image foundation model capable of complex text rendering and precise image editing. 欢迎了解Qwen-Image, 一款强大的图像基础模型，擅长复杂文本渲染与精准图像编辑\""
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/long.png",
+        "alt": "AI generated Qwen Image - Chinese woman with extensive handwritten text on glass board",
+        "prompt": "A Chinese woman wearing a \"QWEN\" logo T-shirt is holding a black marker and smiling at the camera. Behind her, the glass board contains extensive handwritten Chinese text: \"一、Qwen-Image的技术路线：探索视觉生成基础模型的极限，开创理解与生成一体化的未来。二、Qwen-Image的模型特色：1、复杂文字渲染。支持中英渲染、自动布局；2、精准图像编辑。支持文字编辑、物体增减、风格变换。三、Qwen-Image的未来愿景：赋能专业内容创作、助力生成式AI发展。\""
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/ppt.png",
+        "alt": "AI generated Qwen Image - Professional PPT slide with Chinese elements",
+        "prompt": "A high-quality enterprise PPT slide with a tech-inspired starry blue theme, featuring flowing luminous tech lines and particle effects. The Alibaba logo appears in orange at the top left. The main title in the center reads \"通义千问视觉基础模型\" in large bold white/light blue font. Below it, elegant Chinese calligraphy states \"原生中文·复杂场景·自动布局\". Four images are displayed horizontally showing traditional Chinese elements: plum blossoms labeled \"梅傲\", orchids labeled \"兰幽\", bamboo labeled \"竹清\", and chrysanthemums labeled \"菊淡\". At the bottom, small text reads \"2025年8月，敬请期待\"."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/s2.jpg",
+        "alt": "AI generated Qwen Image - Artistic styles showcase from photorealistic to anime",
+        "prompt": "A collection showcasing various artistic styles generated by Qwen Image, ranging from photorealistic scenes to impressionist paintings, anime-style illustrations, and minimalist designs. Each example demonstrates the model's versatility in responding to different creative prompts and artistic directions."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/s3.jpg",
+        "alt": "AI generated Qwen Image - Image editing capabilities demonstration",
+        "prompt": "A demonstration of Qwen Image's editing capabilities including style transfer, object addition and removal, detail enhancement, text editing, and character pose adjustments. The examples show before and after comparisons highlighting the model's precision in image modification tasks."
+      }
+    ]
+  },
+  "originalKeyword": "AI Anime Art Generator",
+  "placeholderText": "Describe your ideal image with details like objects, style, text layout, and mood to generate a unique visual with Qwen Image"
+}

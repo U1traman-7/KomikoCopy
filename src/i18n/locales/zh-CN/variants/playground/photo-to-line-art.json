@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "照片转线稿",
+      "description": "使用 AI 技术将您的照片转换成精美的线稿作品。立即创作独具特色的艺术作品，并轻松分享。免费开始体验！",
+      "keywords": "照片转线稿, AI 线稿生成器, 艺术线稿转换, AI 素描转换器, 独特线稿创作"
+    },
+    "hero": {
+      "title": "照片转线稿"
+    },
+    "whatIs": {
+      "title": "什么是照片转线稿？",
+      "description": "我们的照片转线稿 AI 生成器是一款专业工具，可以将您的照片转换为引人入胜的线稿插图。它运用先进的 AI 技术，将图像转化为能够体现主题精髓的轮廓草图。对于艺术家和创作者而言，它能够简化艺术创作流程，让所有技能水平的用户都能轻松上手。"
+    },
+    "examples": {
+      "title": "照片转线稿示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用照片转线稿",
+      "steps": [
+        {
+          "title": "步骤 1：上传您的照片",
+          "content": "上传清晰、高质量的照片，以获得最佳效果。只需将您的图像拖放到我们简洁的界面中即可。"
+        },
+        {
+          "title": "步骤 2：选择线稿模板",
+          "content": "选择您喜欢的线稿模板，以您选择的风格转换照片。"
+        },
+        {
+          "title": "步骤 3：转换为线稿",
+          "content": "点击“转换为线稿”按钮，启动 AI 转换。只需几秒钟，即可见证您的图像转变为令人惊艳的线稿杰作！"
+        },
+        {
+          "title": "步骤 4：下载并分享您的杰作",
+          "content": "生成线稿后，您可以立即下载，在社交媒体上展示，或将其无缝集成到您的设计项目中。"
+        }
+      ],
+      "subtitle": "通过以下简单步骤，释放您的艺术灵感！"
+    },
+    "benefits": {
+      "title": "为什么选择照片转线稿？",
+      "description": "了解我们 AI 驱动工具的独特优势。",
+      "features": [
+        {
+          "title": "🎨 轻松创作艺术作品",
+          "content": "无需太多努力，即可将您的照片转换为精美的线稿。无需专业的艺术技巧，我们强大的 AI 将为您处理一切！"
+        },
+        {
+          "title": "⚡ 快速高效",
+          "content": "体验快速的处理速度，在几秒钟内生成高质量的线稿，非常适合快节奏的创作者。"
+        },
+        {
+          "title": "🖼️ 多种用途",
+          "content": "无论是数字艺术、营销、个性化礼物等，此生成器都能满足您的各种创意需求。"
+        },
+        {
+          "title": "💻 直观的 UI/UX 体验",
+          "content": "我们用户友好的界面设计旨在方便您的艺术创作之旅，让您轻松上手。"
+        },
+        {
+          "title": "🎯 高分辨率输出",
+          "content": "获得清晰、细致的线稿，适用于打印或数字用途，确保每一条线条都清晰可见。"
+        },
+        {
+          "title": "🚀 立即分享您的艺术作品",
+          "content": "下载您令人惊艳的创作，并在社交媒体上分享，或者轻松地将它们添加到您的项目中。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "照片转线稿 FAQ",
+      "description": "",
+      "q1": "什么是照片转线稿，它是如何工作的？",
+      "a1": "照片转线稿采用智能 AI 算法来分析并将您的图像转换为轮廓草图，从而突出轮廓，以获得艺术美感。",
+      "q2": "如何通过照片转线稿获得最佳效果？",
+      "a2": "选择光线充足、清晰的图像，以确保 AI 可以准确地识别轮廓和细节，从而在您的线稿中获得卓越的质量。",
+      "q3": "照片转线稿生成器可以免费使用吗？",
+      "a3": "是的！您可以试用我们的免费版本，体验生成器的基本功能。某些高级功能可能需要付费。",
+      "q4": "照片转线稿与其他滤镜有何区别？",
+      "a4": "照片转线稿专注于创建描绘效果，提供与典型的柔和滤镜截然不同的全新艺术视角。",
+      "q5": "我可以将生成的线稿用于商业用途吗？",
+      "a5": "当然可以！您拥有作品的所有权，可以将其用于个人或商业项目。请查阅我们的使用条款，以了解详细的使用权限。"
+    },
+    "cta": {
+      "title": "使用照片转线稿，开启您的艺术之旅",
+      "description": "不要错过！立即将您喜爱的照片转换为精美的线稿。享受免费试用，让您的艺术灵感变为现实！",
+      "buttonText": "免费将我的照片转换为线稿"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a captivating line art style",
+  "originalKeyword": "Photo to Line Art",
+  "examples": [
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Line Art"
+    }
+  ]
+}

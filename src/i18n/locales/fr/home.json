@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "KomikoAI - Générateur d'anime IA et Créateur de Personnages Originaux",
+    "og_title": "KomikoAI - Générateur d'anime IA et Créateur de Personnages Originaux",
+    "twitter_title": "KomikoAI - Générateur d'anime IA et Créateur de Personnages Originaux",
+    "description": "Créez des personnages originaux, des animes et des bandes dessinées avec KomikoAI. Découvrez plus de 100 outils IA et modèles créatifs conçus pour les passionnés.",
+    "keywords": "Komiko, KomikoAI, Komiko AI, application Komiko, komiko.ai, komiko.app, générateur d'anime IA, créateur de personnages originaux, générateur de personnages originaux, anime IA, générateur d'art IA, générateur de bandes dessinées IA, générateur d'animation IA, effets vidéo IA, créateur de personnages d'anime"
+  },
+  "hero": {
+    "title": "Qu'avez-vous envie de créer ?",
+    "community": "Créations de la communauté"
+  },
+  "tabs": {
+    "for_you": "Pour vous",
+    "comic": "BD",
+    "illustration": "Illustration",
+    "animation": "Animation",
+    "all": "Tout"
+  },
+  "sections": {
+    "for_you": "Suggestions pour vous"
+  },
+  "create_section": {
+    "ai_art": "Art IA",
+    "storytelling": "Conte",
+    "create": "Créez votre récit"
+  },
+  "carousel": {
+    "slide1_title": "Concours AniGen",
+    "slide1_desc": "Créez une animation courte avec l'IA, gagnez plus de 3 000 $ et un abonnement pro !",
+    "check_it_out": "Découvrez-le",
+    "slide2_title": "Vidéo en Vidéo IA",
+    "slide2_desc": "Transformez n'importe quelle vidéo aux styles anime, dessin animé, manga et manhwa tout en conservant le mouvement original.",
+    "check_it_out2": "Essayez-le"
+  },
+  "banner": {
+    "merch_title": "Transformez vos personnages en produits dérivés",
+    "merch_description": "Créez des peluches, des badges, des présentoirs et bien plus encore à partir de vos personnages d'anime.",
+    "try_now": "Essayez-le maintenant"
+  },
+  "activity_posts": {
+    "video_to_video": {
+      "title": "Intelligence Artificielle de Vidéo à Vidéo",
+      "description": "Transformez vos vidéos grâce à notre technologie IA de Vidéo à Vidéo. Convertissez n'importe quelle vidéo en styles anime, cartoon, manga ou manhwa.",
+      "button": "Essayer maintenant"
+    },
+    "character_merch": {
+      "title": "Transformez vos Personnages en Produits Dérivés",
+      "description": "Créez des produits dérivés époustouflants de vos personnages préférés, tels que des badges, des oreillers, des peluches et des figurines.",
+      "button": "Essayer maintenant"
+    },
+    "ambassador": {
+      "title": "Devenez Ambassadeur KomikoAI et Gagnez des Revenus💰",
+      "description": "Devenez Ambassadeur KomikoAI et obtenez des revenus grâce aux parrainages. Rejoignez notre programme d'affiliation dès aujourd'hui !",
+      "button": "Rejoignez Maintenant"
+    },
+    "promoted": "Mis en avant",
+    "anishort": {
+      "title": "Découvrez des animes en format court, ou publiez votre propre série !",
+      "button": "Commencez à explorer"
+    },
+    "ad": "Publicité",
+    "new-playground": {
+      "title": "✨ Découvrez plus de 100 modèles amusants",
+      "description": "Transformez vos photos et personnages avec des modèles viraux — des émoticônes chibi et fiches de personnages aux produits réalistes, effets Bankai, et bien plus encore !",
+      "button": "Essayer maintenant"
+    },
+    "sora-2": {
+      "title": "Sora 2 est maintenant sur KomikoAI ! Participez au #SoraAnimeChallenge et tentez de gagner une part du prix de 1000 $ !",
+      "button": "Rejoindre maintenant"
+    }
+  },
+  "ai_apps_banner": {
+    "eyebrow": "AI Apps Hub",
+    "title": "Vos outils sont maintenant disponibles sur la page des applications AI",
+    "description": "Favorisez vos outils préférés et explorez le catalogue complet des applications AI pour l'illustration, l'animation, la bande dessinée et bien plus encore.",
+    "cta": "Ouvrir les applications AI"
+  },
+  "generateArt": "Générer de l'Art",
+  "generateTagArt": "Générer de l'Art {{tag}}"
+}

@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Pembuat Emote",
+      "description": "Hasilkan emote yang unik dan menarik dengan AI menggunakan Pembuat Emote kami. Ciptakan beragam variasi artistik dari foto Anda secara gratis dan ekspresikan diri Anda sekarang!",
+      "keywords": "Pembuat Emote, Hasilkan Emote dengan AI, pembuat emote AI, transformasi seni bertenaga AI, generator emote unik, emote artistik, generator avatar digital"
+    },
+    "hero": {
+      "title": "Pembuat Emote"
+    },
+    "whatIs": {
+      "title": "Apa itu Pembuat Emote?",
+      "description": "Pembuat Emote adalah alat khusus yang dirancang untuk mengubah foto Anda menjadi emote yang menarik dan artistik. Dengan menggunakan algoritma AI canggih, alat ini menganalisis dan menyempurnakan gambar Anda, menerapkan filter yang mewujudkan emosi yang menyenangkan dan dinamis. Ideal untuk membuat avatar, stiker digital, atau grafis ekspresif, Pembuat Emote menyederhanakan proses artistik hanya dengan beberapa klik."
+    },
+    "examples": {
+      "title": "Contoh Pembuat Emote",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Pembuat Emote",
+      "steps": [
+        {
+          "title": "Langkah 1: Unggah Foto Anda",
+          "content": "Pilih dan unggah foto dalam format JPG atau PNG yang ingin Anda ubah menjadi emote."
+        },
+        {
+          "title": "Langkah 2: Pilih Template Stiker Chibi",
+          "content": "Pilih template Stiker Chibi untuk mengubah foto Anda menjadi gaya stiker chibi."
+        },
+        {
+          "title": "Langkah 3: Konversi ke Stiker Chibi",
+          "content": "Tekan tombol 'Konversi ke Emote' dan saksikan saat AI menghidupkan foto Anda dalam gaya yang Anda pilih dalam sekejap."
+        },
+        {
+          "title": "Langkah 4: Unduh dan Bagikan Kreasi Anda",
+          "content": "Setelah Anda puas, unduh emote Anda dan bagikan di media sosial atau gunakan dalam proyek digital Anda."
+        }
+      ],
+      "subtitle": "Ikuti langkah-langkah berikut untuk mulai membuat emote khusus Anda."
+    },
+    "benefits": {
+      "title": "Mengapa Memilih Generator AI Pembuat Emote?",
+      "description": "Jelajahi berbagai manfaat yang disesuaikan untuk kebutuhan kreatif Anda.",
+      "features": [
+        {
+          "title": "🎉 Pembuatan yang Cepat dan Menyenangkan",
+          "content": "Buat emote khas yang akan meningkatkan proyek kreatif Anda dalam hitungan menit."
+        },
+        {
+          "title": "✨ Gaya Emote yang Unik",
+          "content": "Akses berbagai ekspresi dan tema, dan pastikan emote Anda seunik diri Anda."
+        },
+        {
+          "title": "📷 Hasil Berkualitas Tinggi",
+          "content": "Dapatkan emote beresolusi tinggi yang sempurna untuk platform apa pun, dan jaga kualitasnya di seluruh hasil cetak dan desain digital."
+        },
+        {
+          "title": "🔄 Aplikasi yang Luas",
+          "content": "Dari stiker digital hingga avatar gim, Pembuat Emote memenuhi beragam kebutuhan artistik."
+        },
+        {
+          "title": "🤖 Didukung oleh AI Tingkat Lanjut",
+          "content": "Rasakan transformasi foto yang mulus melalui teknologi AI kami yang canggih, dan hasilkan emote berkualitas profesional."
+        },
+        {
+          "title": "🌟 Bergabung dengan Komunitas Kreatif",
+          "content": "Terhubung dengan sesama kreator, bagikan emote Anda, dan temukan inspirasi di dalam komunitas Pembuat Emote."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pembuat Emote FAQ",
+      "description": "",
+      "q1": "Apa yang dimaksud dengan transformasi gaya Pembuat Emote?",
+      "a1": "Transformasi gaya Pembuat Emote menggunakan AI untuk mengubah foto Anda menjadi grafik emotif yang menyoroti ekspresi wajah dan nuansa artistik.",
+      "q2": "Bagaimana cara mendapatkan hasil terbaik dari Pembuat Emote?",
+      "a2": "Untuk mengoptimalkan hasil Anda, pastikan gambar Anda jelas dan coba berbagai gaya untuk mengungkap opsi emote yang paling menarik.",
+      "q3": "Apakah menggunakan Pembuat Emote gratis?",
+      "a3": "Ya, Pembuat Emote kami gratis untuk digunakan! Jelajahi opsi premium untuk gaya yang lebih canggih.",
+      "q4": "Apa perbedaan Pembuat Emote dengan filter grafis lainnya?",
+      "a4": "Keunikan Pembuat Emote terletak pada fokusnya untuk menciptakan transformasi emotif yang mencerminkan gaya artistik dan sentimen pribadi.",
+      "q5": "Bisakah saya menggunakan kreasi Pembuat Emote saya secara komersial?",
+      "a5": "Anda dapat menggunakan emote Anda secara komersial, tetapi pastikan untuk memverifikasi ketentuan penggunaan berdasarkan tingkat langganan Anda."
+    },
+    "cta": {
+      "title": "Hasilkan Emote dengan AI dan Ciptakan Karya Agung Anda Hari Ini",
+      "description": "Bergabunglah dalam kesenangan ini dan bebaskan potensi artistik Anda dengan Pembuat Emote. Ubah gambar Anda menjadi emote unik dan dinamis, serta ekspresikan gaya Anda dengan mudah. Mulai sekarang—cepat, mudah, dan gratis!",
+      "buttonText": "Hasilkan Emote dengan AI Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Generate emotes with AI from your photo",
+  "originalKeyword": "Emote Maker",
+  "examples": [
+    {
+      "image": "/images/examples/playground/emote-maker/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Chibi"
+    }
+  ]
+}

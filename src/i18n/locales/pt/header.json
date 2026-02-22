@@ -1,0 +1,26 @@
+{
+  "logo_alt": "Logótipo da komiko",
+  "login_button": "Iniciar Sessão",
+  "join_discord": "Junte-se ao nosso Discord",
+  "modal": {
+    "create_account_or_signin": "Criar conta ou iniciar sessão",
+    "sign_in": "Iniciar Sessão",
+    "trouble_signing_in": "Teve problemas ao iniciar sessão?"
+  },
+  "promotion_offer": "OFERTA LIMITADA | Poupe 50% no Plano Anual! O desconto termina em <time>{{deadline}}</time>",
+  "promotion_offer_mobile": "Poupe 50%! O desconto termina em <time>{{deadline}}</time>",
+  "promotion_offer_mobile_days": "Economize 50%! O desconto termina em <time>{{days}} dia(s)</time>",
+  "promotion_offer_days": "OFERTA LIMITADA | Economize 50% no Plano Anual! O desconto termina em <time>{{days}} dia(s)</time>",
+  "new_user_promotion": {
+    "title": "EXCLUSIVO PARA NOVOS USUÁRIOS | 40% DE DESCONTO no Plano Anual! Oferta válida até <time>{{deadline}}</time>",
+    "mobile_title": "40% DE DESCONTO no Plano Anual! Oferta válida até <time>{{deadline}}</time>",
+    "mobile_days_title": "40% DE DESCONTO no Plano Anual! Oferta válida até <time>{{days}} Dia(s)</time>",
+    "days_title": "EXCLUSIVO PARA NOVOS USUÁRIOS | 40% DE DESCONTO no Plano Anual! Oferta válida até <time>{{days}} Dia(s)</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "PROMOÇÃO RELÂMPAGO DE FIM DE SEMANA: 30% DE DESCONTO no Plano Anual! Termina em <time>{{deadline}}</time>",
+    "mobile_title": "30% DE DESCONTO no Plano Anual! Termina em <time>{{deadline}}</time>",
+    "mobile_days_title": "30% DE DESCONTO no Plano Anual! Termina em <time>{{days}} Dia(s)</time>",
+    "days_title": "PROMOÇÃO RELÂMPAGO DE FIM DE SEMANA: 30% DE DESCONTO no Plano Anual! Termina em <time>{{days}} Dia(s)</time>"
+  }
+}

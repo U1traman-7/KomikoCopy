@@ -1,0 +1,258 @@
+{
+  "title": "Pembuat Seni Anime AI | Generator Anime AI Terbaik (Gratis, Tanpa Batas)",
+  "meta": {
+    "description": "Ciptakan seni anime yang menakjubkan dalam beberapa detik dengan Generator AI Anime kami yang gratis. Desain karakter anime unik, adegan, dan hasilkan seni AI dalam berbagai gaya dengan generator seni AI anime kami. Sempurna untuk seniman, pembuat konten, dan penggemar anime. Tidak memerlukan keterampilan menggambar!",
+    "keywords": "AI Anime Art Generator, Anime AI Art Generator, AI Anime Generator, Anime AI Generator, generator karakter anime, pembuat anime AI, seni anime kustom, seni AI anime, generator gaya anime, generator seni manga, ilustrasi anime AI, generator karakter AI anime, generator anime Jepang"
+  },
+  "header": {
+    "title": "Pembuat Seni AI",
+    "subtitle": "Ubah ide Anda menjadi seni anime menakjubkan dengan AI. Mulailah dengan <Link>Panduan Cara Memakai</Link> kami untuk menggali potensinya secara penuh."
+  },
+  "emptyState": {
+    "title": "Belum ada gambar — temukan inspirasi di bawah!",
+    "description": "Klik gambar untuk menerapkan prompt-nya.",
+    "examples": "Galeri Inspirasi"
+  },
+  "loading": {
+    "moreImages": "Memuat lebih banyak gambar..."
+  },
+  "modal": {
+    "model": "Model",
+    "prompt": "Perintah",
+    "download": "Unduh"
+  },
+  "date": {
+    "today": "Hari ini",
+    "yesterday": "Kemarin"
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "items": [
+      {
+        "question": "Apa itu Generator Seni Anime AI?",
+        "answer": "Generator Seni Anime AI adalah alat canggih yang menggunakan AI untuk menciptakan seni anime berdasarkan deskripsi teks. Ini menggunakan algoritma pembelajaran mendalam yang dilatih pada jutaan gambar anime untuk menghasilkan ilustrasi unik dalam berbagai gaya anime seperti klasik, manga, dan modern."
+      },
+      {
+        "question": "Bagaimana cara kerja Generator Seni Anime AI?",
+        "answer": "Generator ini mengubah teks prompt Anda menjadi seni visual menggunakan model AI yang dilatih pada karya seni anime. Cukup masukkan deskripsi detail tentang apa yang ingin Anda lihat, pilih gaya yang diinginkan, dan AI akan membuat ilustrasi anime yang unik sesuai dengan deskripsi Anda. Semakin detail prompt Anda, semakin baik hasilnya."
+      },
+      {
+        "question": "Jenis seni anime apa yang dapat saya buat?",
+        "answer": "Anda dapat membuat berbagai seni bergaya anime termasuk potret karakter, adegan aksi, latar belakang fantasi, konsep fiksi ilmiah, panel manga, dan lainnya. Generator ini mendukung subgenre anime seperti shōnen, shōjo, seinen, moe, chibi, dan banyak lagi."
+      },
+      {
+        "question": "Apakah saya membutuhkan keterampilan artistik untuk menggunakan Generator Seni Anime AI?",
+        "answer": "Tidak diperlukan keterampilan artistik sama sekali! Inilah kelebihan dari Generator Seni Anime AI - membuat penciptaan seni anime dapat diakses oleh siapa saja. Baik Anda seorang seniman profesional yang mencari inspirasi atau pemula, Anda dapat membuat seni anime menakjubkan hanya dengan mendeskripsikan keinginan Anda."
+      },
+      {
+        "question": "Bagaimana saya dapat meningkatkan kualitas seni anime yang dihasilkan?",
+        "answer": "Untuk hasil yang lebih baik, gunakan prompt yang detail yang mencakup ciri karakter, detail pakaian, pose, ekspresi, latar belakang, pencahayaan, dan referensi gaya seni. Cobalah menyertakan seniman atau gaya anime tertentu dalam prompt Anda seperti 'dalam gaya Studio Ghibli' atau 'seperti seni Makoto Shinkai'. Eksplorasi dengan berbagai prompt untuk menemukan yang terbaik sesuai visi Anda."
+      },
+      {
+        "question": "Dapatkah saya menggunakan seni anime yang dihasilkan secara komersial?",
+        "answer": "Ya, semua karya seni yang dibuat dengan Generator Seni Anime AI kami dapat digunakan untuk proyek pribadi dan komersial sesuai dengan ketentuan layanan kami. Ini sangat cocok untuk pembuat konten, pengembang game, seniman webcomic, dan bisnis yang mencari visual anime yang unik."
+      },
+      {
+        "question": "Berapa banyak gambar yang dapat saya hasilkan?",
+        "answer": "Jumlah gambar yang dapat Anda buat tergantung pada paket langganan Anda. Pengguna gratis mendapatkan jumlah terbatas per hari, sementara pelanggan premium memiliki batas lebih tinggi atau tidak terbatas dengan akses ke fitur tambahan dan keluaran resolusi lebih tinggi."
+      },
+      {
+        "question": "Dapatkah saya membuat karakter anime berdasarkan orang nyata?",
+        "answer": "Ya, Anda dapat membuat versi anime dari orang nyata dengan mendeskripsikan fitur mereka dalam prompt Anda. Untuk hasil terbaik, sertakan detail spesifik tentang penampilan dan gaya anime yang diinginkan. Fitur ini bagus untuk membuat avatar anime personal atau potret karakter."
+      },
+      {
+        "question": "Apa perbedaan antara generasi gaya manga dan anime?",
+        "answer": "Gaya manga biasanya memiliki estetika seni garis hitam-putih dengan kontras kuat dan tata letak panel yang khas, mirip dengan komik Jepang. Gaya anime menampilkan warna penuh, bayangan lembut, dan tampilan lebih seperti acara animasi. Anda bisa menentukannya dalam prompt untuk mendapatkan gaya yang tepat sesuai keinginan."
+      },
+      {
+        "question": "Dapatkah saya mengedit gambar anime yang dihasilkan?",
+        "answer": "Ya! Setelah dihasilkan, Anda dapat mengunduh seni anime Anda dan mengeditnya menggunakan perangkat lunak pengeditan gambar pilihan Anda. Bagi pengguna tingkat lanjut, gambar ini menjadi titik awal untuk pemurnian lebih lanjut, pewarnaan, atau integrasi dalam karya atau proyek lain."
+      }
+    ]
+  },
+  "headings": {
+    "whatIs": "Apa itu Generator Seni Anime AI?",
+    "howToUse": "Cara Menggunakan Generator Seni Anime AI",
+    "whyUse": "Mengapa Menggunakan Generator Seni Anime AI",
+    "createStyles": "Ciptakan Seni Anime yang Menakjubkan dengan Gaya Ini",
+    "applications": "Aplikasi Generator Seni Anime AI",
+    "tips": "Tips untuk Membuat Seni Anime yang Lebih Baik dengan AI",
+    "startCreating": "Mulai Ciptakan Seni Anime yang Menakjubkan Hari Ini",
+    "moreTools": "Lebih Banyak Alat AI"
+  },
+  "intro": {
+    "description1": "Generator Seni Anime AI adalah alat mutakhir yang menggunakan kecerdasan buatan untuk menciptakan karya seni bergaya anime berdasarkan deskripsi teks. Alat canggih ini menggunakan model pembelajaran mesin yang dilatih pada jutaan gambar anime untuk menghasilkan seni anime berkualitas tinggi dan kustom hanya dalam hitungan detik.",
+    "description2": "Apakah Anda ingin membuat karakter anime asli, merancang panel manga, memvisualisasikan fiksi penggemar, atau menghasilkan ilustrasi bergaya anime untuk proyek, AI Anime Art Generator membuat prosesnya menjadi sederhana dan dapat diakses oleh semua orang. Tidak diperlukan keterampilan artistik atau pengetahuan teknis - cukup deskripsikan apa yang ingin Anda lihat, dan AI akan mewujudkan imajinasi Anda dalam gaya anime yang otentik.",
+    "description3": "Dari estetika anime klasik hingga gaya modern seperti yang terlihat dalam manga dan manhwa populer, AI Anime Art Generator mendukung berbagai ekspresi artistik, menjadikannya alat yang sempurna untuk seniman, pembuat konten, pengembang game, dan penggemar anime."
+  },
+  "howToUse": {
+    "subtitle": "Ikuti langkah-langkah sederhana ini untuk membuat karya seni anime menakjubkan dengan generator AI kami",
+    "steps": [
+      {
+        "title": "Masukkan Prompt Anda",
+        "content": "Mulailah dengan mengetik deskripsi rinci tentang seni anime yang ingin Anda buat. Sertakan detail karakter, elemen adegan, gaya seni, dan suasana untuk hasil terbaik."
+      },
+      {
+        "title": "Pilih Gaya Anda",
+        "content": "Pilih dari gaya anime yang sudah ada atau tentukan estetika Anda sendiri seperti manga, anime, manhwa, atau pengaruh seniman tertentu."
+      },
+      {
+        "title": "Hasilkan Seni Anime Anda",
+        "content": "Klik tombol generate dan saksikan AI menghidupkan konsep Anda menjadi karya seni anime unik dalam hitungan detik."
+      },
+      {
+        "title": "Unduh & Bagikan",
+        "content": "Simpan kreasi favorit Anda dalam resolusi tinggi, siap digunakan dalam proyek atau dibagikan dengan teman dan di media sosial."
+      }
+    ]
+  },
+  "whyUse": {
+    "subtitle": "Temukan mengapa ribuan pembuat memilih Generator Seni Anime AI untuk kebutuhan seni anime mereka.",
+    "features": [
+      {
+        "title": "Tidak Perlu Keterampilan Menggambar",
+        "content": "Ciptakan seni anime berkualitas profesional hanya dengan teks prompt - tanpa perlu keterampilan artistik atau bertahun-tahun pelatihan."
+      },
+      {
+        "title": "Hasil Instan",
+        "content": "Hasilkan ilustrasi anime menakjubkan dalam hitungan detik, bukan berjam-jam atau berhari-hari menggambar dan mewarnai secara manual."
+      },
+      {
+        "title": "Beragam Gaya Tanpa Batas",
+        "content": "Jelajahi berbagai estetika anime dari anime klasik hingga manga modern, manhwa, dan gaya spesifik seperti chibi atau moe."
+      },
+      {
+        "title": "Pembuatan Karakter Menjadi Mudah",
+        "content": "Desain karakter anime unik dengan fitur, pakaian, pose, dan ekspresi tertentu hanya dengan mendeskripsikannya."
+      },
+      {
+        "title": "Sempurna untuk Pembuat Konten",
+        "content": "Ciptakan karya seni kustom untuk webkomik, media sosial, aset game, thumbnail YouTube, dan lebih banyak lagi."
+      },
+      {
+        "title": "Seni Karakter yang Konsisten",
+        "content": "Pertahankan desain karakter yang konsisten di berbagai ilustrasi untuk seri, komik, atau cerita."
+      },
+      {
+        "title": "Bebaskan Imajinasi Anda",
+        "content": "Visualisasikan hampir semua konsep anime, dari dunia fantasi hingga pengaturan fiksi ilmiah dan lainnya."
+      },
+      {
+        "title": "Inspirasi Seniman",
+        "content": "Gunakan gambar yang dihasilkan sebagai referensi atau titik awal untuk karya seni dan proyek anime Anda."
+      },
+      {
+        "title": "Hak Penggunaan Komersial",
+        "content": "Gunakan kreasi Anda dalam proyek komersial, materi pemasaran, merchandise, dan banyak lagi."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "title": "Gaya Anime Klasik",
+      "content": "Tampilan abadi dari animasi Jepang tradisional dengan garis tebal, warna cerah, dan fitur ekspresif."
+    },
+    {
+      "title": "Gaya Manga",
+      "content": "Seni komik hitam-putih dengan paneling khas, bayangan dramatis, dan desain karakter ekspresif."
+    },
+    {
+      "title": "Gaya Manhwa",
+      "content": "Estetika komik Korea dengan garis yang mengalir, pewarnaan yang mendetail, dan komposisi yang ramah untuk scrolling vertikal."
+    },
+    {
+      "title": "Terinspirasi Studio Ghibli",
+      "content": "Ilustrasi ajaib dan penuh imajinasi yang mengingatkan pada klasik seperti Spirited Away dan My Neighbor Totoro."
+    },
+    {
+      "title": "Anime Modern",
+      "content": "Estetika anime kontemporer dengan detail yang halus, bayangan kompleks, dan komposisi sinematik."
+    },
+    {
+      "title": "Gaya Chibi",
+      "content": "Versi mini karakter yang menggemaskan dengan fitur berlebihan dan desain lucu yang sederhana."
+    },
+    {
+      "title": "Anime Fantasi",
+      "content": "Dunia ajaib dengan makhluk mitos, kostum rumit, dan lingkungan ethereal."
+    },
+    {
+      "title": "Anime Fiksi Ilmiah",
+      "content": "Setting futuristik dengan teknologi canggih, desain mecha, dan dunia dystopian atau utopian."
+    },
+    {
+      "title": "Shōnen & Shōjo",
+      "content": "Gaya khas yang memenuhi selera audiens pria dan wanita dengan penceritaan visual yang sesuai."
+    }
+  ],
+  "applications": [
+    {
+      "title": "Pembuatan Konten",
+      "content": "Buat seni anime kustom untuk sosial media, blog, thumbnail YouTube, dan konten digital lainnya. Tampil beda dengan visual unik yang menarik perhatian."
+    },
+    {
+      "title": "Desain Karakter",
+      "content": "Buat karakter anime asli untuk cerita, game, kampanye role-playing, atau proyek pribadi. Visualisasikan karakter dari deskripsi tertulis dengan cepat."
+    },
+    {
+      "title": "Pembuatan Manga & Komik",
+      "content": "Rancang panel dan ilustrasi untuk manga, webtoon, komik, dan novel grafis dengan gaya seni yang konsisten dan desain karakter."
+    },
+    {
+      "title": "Pengembangan Game",
+      "content": "Buat seni konsep, potret karakter, latar belakang, dan aset untuk game bertema anime, novel visual, dan pengalaman interaktif."
+    },
+    {
+      "title": "Seni Penggemar",
+      "content": "Ciptakan interpretasi unik dari karakter anime favorit, adegan alternatif, atau crossover antara universes anime yang berbeda."
+    },
+    {
+      "title": "Desain Merchandise",
+      "content": "Desain karya seni kustom untuk kaos, poster, stiker, dan merchandise lainnya dengan ilustrasi anime asli."
+    }
+  ],
+  "tips": {
+    "title": "Tips untuk Membuat Seni Anime yang Lebih Baik dengan AI",
+    "items": [
+      "<span class=\"font-semibold\">Spesifik:</span> Sertakan detail tentang fitur karakter, pakaian, pose, ekspresi, dan latar belakang dalam prompt Anda.",
+      "<span class=\"font-semibold\">Gaya Referensi:</span> Sebutkan anime atau manga untuk menjadi inspirasi gaya (misal, \"dalam gaya Studio Ghibli\" atau \"seperti seni Demon Slayer\").",
+      "<span class=\"font-semibold\">Spesifik Komposisi:</span> Minta sudut kamera, jenis pengambilan gambar (close-up, seluruh tubuh), atau komposisi adegan tertentu untuk hasil yang lebih baik.",
+      "<span class=\"font-semibold\">Deskripsikan Emosi:</span> Sertakan suasana hati dan ekspresi untuk membuat karakter lebih dinamis dan menarik.",
+      "<span class=\"font-semibold\">Tambahkan Detail Pencahayaan:</span> Sebutkan kondisi pencahayaan (seperti senja, cahaya bulan, bayangan dramatis) untuk meningkatkan atmosfer seni anime Anda.",
+      "<span class=\"font-semibold\">Bereksperimen:</span> Cobalah variasi prompt berbeda untuk menyempurnakan hasil hingga sesuai bayangan Anda."
+    ]
+  },
+  "closing": {
+    "description": "Apakah Anda seorang seniman yang mencari inspirasi, pembuat konten yang butuh visual anime kustom, atau penggemar anime yang ingin mewujudkan ide, Generator Seni Anime AI menjadikan kreasi seni anime aksesibel untuk semua orang. Tidak perlu keterampilan artistik - cukup imajinasi Anda dan beberapa kata deskriptif!",
+    "buttonText": "Coba AI Anime Generator Sekarang"
+  },
+  "prompt_presets": {
+    "title": "Preset Prompt",
+    "reference": "Referensi"
+  },
+  "results": {
+    "title": "Hasil yang Dihasilkan",
+    "viewAll": "Lihat Semua",
+    "empty": "Mulailah dengan membuat gambar menggunakan prompt dan klik tombol Generate."
+  },
+  "character_presets": {
+    "title": "Preset Karakter",
+    "viewAll": "Lihat Semua"
+  },
+  "generating": {
+    "title": "Sedang Menciptakan...",
+    "proTip": "Tips Profesional"
+  },
+  "proTips": {
+    "title": "Tips Pro",
+    "items": [
+      "Tambahkan lebih banyak detail pada prompt Anda untuk hasil yang lebih baik! Sertakan karakter, pakaian, pose, gaya, adegan, dan lainnya.",
+      "Unggah gambar referensi dan gunakan prompt Anda untuk memodifikasinya!",
+      "Tentukan komposisi gambar — coba \"close-up,\" \"seluruh tubuh,\" \"bagian atas tubuh,\" atau \"melihat ke arah penonton.\"",
+      "Unggah gambar referensi dan sebutkan dalam prompt Anda sebagai \"gambar referensi\" untuk memandu hasil keluaran.",
+      "Gunakan gambar referensi untuk menyertakan karakter atau objek tertentu dalam generasi Anda.",
+      "Gunakan gambar referensi untuk memandu gaya, komposisi, atau pose.",
+      "Anda dapat menyertakan hingga 7 karakter dalam prompt Anda — jaga konsistensinya saat bekerja dengan model GPT."
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Dream Machine 视频生成器 - KomikoAI",
+      "description": "使用 Dream Machine 视频生成器，即刻创作令人惊叹的高质量 AI 生成视频。体验从文本或图像生成快速、逼真的电影级视频。",
+      "keywords": "Dream Machine 视频生成器, AI 视频创作, 文本转视频 AI, 图像转视频 AI, 电影级 AI 视频, AI 视频制作, AI 视频生成器功能, 逼真 AI 视频"
+    },
+    "hero": {
+      "title": "Dream Machine 视频生成器",
+      "description": "利用先进的 AI 技术，将您的创意转化为令人叹为观止的电影级视频。只需几分钟，即可从文本提示或图像生成逼真、高质量的视频，无需任何专业技术。"
+    },
+    "whatIs": {
+      "title": "什么是 Dream Machine 视频生成器？",
+      "description": "Dream Machine 视频生成器是由 Luma Labs 开发的一款先进的 AI 驱动工具，用于从文本描述或静态图像创建高度逼真的视频。 它采用先进的时空深度学习模型，模拟自然的运动物理效果，并在整个视频序列中保持角色细节的一致性。 该工具提供可定制的视频时长、高达 4K Ultra HD 的分辨率以及灵活的宽高比，非常适合希望快速制作专业质量片段，而无需复杂编辑软件的创作者。"
+    },
+    "examples": {
+      "title": "Dream Machine 视频生成器示例",
+      "description": "探索由 AI 生成的各种视频片段，从电影级的野生动物场景到城市生活和奇幻故事。 见证简单的文本提示或图像如何转化为流畅、动态的视频，非常适合社交媒体、演示文稿或个人叙事。"
+    },
+    "howToUse": {
+      "title": "如何使用 Dream Machine 视频生成器",
+      "steps": [
+        {
+          "title": "上传您的图像",
+          "content": "首先上传您想要动画化的静态图像。该图像将作为 AI 生成视频的基础。"
+        },
+        {
+          "title": "输入您的提示",
+          "content": "输入您希望视频呈现的场景、动作或风格的详细文本描述。 AI 能够理解自然语言，并将使用您的提示来指导动画生成。"
+        },
+        {
+          "title": "生成您的视频",
+          "content": "点击“生成动画”按钮以启动视频创建过程。 AI 将分析您的输入，应用逼真的运动物理效果，并在几分钟内生成流畅的视频序列。"
+        },
+        {
+          "title": "下载并分享",
+          "content": "完成后，您可以多种格式下载您的高质量视频，或者直接在社交媒体和其他平台上分享，以展示您的创意。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "为什么要使用 Dream Machine 视频生成器？",
+      "description": "了解 Dream Machine 视频生成器如何通过 AI 驱动的速度、质量和创造力来提升您的视频创作流程。",
+      "features": [
+        {
+          "title": "AI 驱动的逼真视频生成",
+          "content": "利用尖端的时空建模技术，模拟自然的运动和逼真的物理效果，从而确保高保真度和流畅的视频输出。",
+          "icon": "🤖"
+        },
+        {
+          "title": "图像转视频生成",
+          "content": "通过上传静态图像来创建视频。 AI 将您的图像转化为电影级视频，无需文本提示。",
+          "icon": "🖼️"
+        },
+        {
+          "title": "可定制的视频规格",
+          "content": "您可以控制视频时长、高达 4K 的分辨率、宽高比和摄像机角度，从而为各种平台和专业需求定制输出。",
+          "icon": "⚙️"
+        },
+        {
+          "title": "快速视频制作",
+          "content": "只需大约 2 分钟即可生成多达 120 帧的视频，与传统的动画制作方法相比，大大缩短了制作时间。",
+          "icon": "⚡"
+        },
+        {
+          "title": "保持角色和场景一致性",
+          "content": "在整个视频中保持面部特征、服装细节和整体场景的连贯性，以确保专业效果。",
+          "icon": "🎥"
+        },
+        {
+          "title": "全球可访问的平台",
+          "content": "在全球范围内提供多语言支持，使世界各地的创作者能够轻松高效地制作内容。",
+          "icon": "🌍"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Dream Machine 视频生成器专家指南",
+      "description": "关于使用 Dream Machine 进行 AI 视频创作的常见问题解答。",
+      "q1": "什么是 Dream Machine 视频生成器？",
+      "a1": "Dream Machine 视频生成器是一款强大的 AI 工具，能够从文本描述或静态图像创建短小精悍的高质量视频。它采用先进的深度学习模型，实现逼真的运动和一致的场景渲染。",
+      "q2": "Dream Machine 如何处理文本提示和图像？",
+      "a2": "AI 会解析自然语言提示并处理上传的图像，通过模拟真实世界的物理效果、保持角色完整性并生成流畅的电影效果来创建视频。",
+      "q3": "Dream Machine 视频有哪些限制？",
+      "a3": "视频时长限制在 10 秒左右，分辨率最高可达 4K。 该工具目前不支持长篇视频创作或视频剪辑编辑，而是专注于短格式内容。",
+      "q4": "Dream Machine 视频可以用于商业用途吗？",
+      "a4": "是的，生成的视频可以用于个人和商业目的。 用户应查阅平台的条款和条件，以获取具体的许可信息。",
+      "q5": "支持哪些输入格式？",
+      "a5": "Dream Machine 接受 JPG 和 PNG 等常用图像格式用于图像转视频生成，并支持文本转视频创建的详细文本输入。",
+      "q6": "使用该工具需要技术专长吗？",
+      "a6": "无需任何专业技术。 直观的界面让任何人都可以通过简单地提供图像或描述性提示来创建专业视频。",
+      "q7": "生成视频的速度有多快？",
+      "a7": "通常，生成多达 120 帧的视频需要不到 2 到 3 分钟，从而为创意项目提供快速的周转时间。",
+      "q8": "Dream Machine 与其他 AI 视频生成器有何区别？",
+      "a8": "它在保持角色一致性、实现逼真的运动物理效果、提供可定制的电影级摄像机运作以及支持 4K 视频输出方面的能力，使其成为领先的 AI 视频工具。"
+    }
+  },
+  "originalKeyword": "Dream Machine Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Ray2",
+      "description": "Prompt: Camera turn with beautiful lighting.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_08.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Model: Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Model: Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 6,
+      "title": "Model: Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

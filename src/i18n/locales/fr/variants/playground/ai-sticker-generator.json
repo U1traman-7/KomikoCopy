@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Générateur d'Autocollants IA",
+      "description": "Créez de superbes autocollants à partir de vos photos grâce à notre générateur d'autocollants basé sur l'IA. Profitez de styles uniques et de résultats rapides – essayez-le gratuitement dès maintenant !",
+      "keywords": "Générateur d'autocollants IA, création d'autocollants d'images par IA, transformer une photo en autocollant, outil de création d'autocollants, autocollants IA personnalisés"
+    },
+    "hero": {
+      "title": "Générateur d'Autocollants IA"
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que le Générateur d'Autocollants IA ?",
+      "description": "Le Générateur d'Autocollants IA est une plateforme innovante qui convertit vos photos en superbes images de type autocollant. Idéal pour les graphistes et les utilisateurs occasionnels, il offre une interface simple pour explorer une gamme de styles artistiques conçus pour sublimer vos images. Découvrez la puissance transformatrice de notre IA, qui transforme des photos ordinaires en créations artistiques exceptionnelles de type autocollant, adaptées aux plateformes numériques et à l'impression."
+    },
+    "examples": {
+      "title": "Exemples inspirants du Générateur d'Autocollants IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Comment utiliser le Générateur d'Autocollants IA",
+      "steps": [
+        {
+          "title": "Étape 1 : Téléchargez votre photo",
+          "content": "Téléchargez simplement votre photo dans un format clair (JPG, PNG, WEBP) pour obtenir les meilleurs résultats de transformation."
+        },
+        {
+          "title": "Étape 2 : Sélectionnez le modèle d'autocollant",
+          "content": "Sélectionnez le modèle d'autocollant pour transformer votre photo avec le style souhaité."
+        },
+        {
+          "title": "Étape 3 : Convertir en autocollant",
+          "content": "Cliquez sur « Convertir en autocollant » pour laisser notre IA créer une superbe version autocollant de votre image en quelques instants."
+        },
+        {
+          "title": "Étape 4 : Télécharger ou partager",
+          "content": "Téléchargez votre nouvel autocollant ou partagez-le directement sur les réseaux sociaux : l'art accessible en toute simplicité !"
+        }
+      ],
+      "subtitle": "Suivez ces étapes pour transformer vos photos en superbes autocollants."
+    },
+    "benefits": {
+      "title": "Pourquoi choisir le Générateur d'Autocollants IA ?",
+      "description": "Découvrez les fonctionnalités qui distinguent notre outil, conçu pour les artistes et les créateurs.",
+      "features": [
+        {
+          "title": "🎨 Styles d'autocollants personnalisés",
+          "content": "Profitez d'une variété de styles artistiques qui donnent vie à vos photos, répondant à tous les goûts créatifs, du plus fantaisiste au plus sophistiqué."
+        },
+        {
+          "title": "⚡ Génération d'art rapide",
+          "content": "Notre IA produit des résultats impressionnants en temps réel, ce qui la rend idéale pour les conceptions et itérations rapides."
+        },
+        {
+          "title": "🖼️ Navigation intuitive",
+          "content": "Naviguez facilement dans le générateur, conçu pour que les utilisateurs de tous niveaux puissent créer de magnifiques autocollants."
+        },
+        {
+          "title": "💫 Une qualité irréprochable",
+          "content": "Attendez-vous à des autocollants haute résolution, prêts pour une utilisation en ligne et à l'impression, garantissant ainsi la qualité de toutes vos créations."
+        },
+        {
+          "title": "🎯 Créations polyvalentes",
+          "content": "Idéal pour les projets personnels, la création de supports marketing ou de cadeaux uniques, le générateur d'autocollants IA s'adapte à tous vos besoins !"
+        },
+        {
+          "title": "🚀 Options de partage simplifiées",
+          "content": "Téléchargez dans les formats souhaités, permettant un partage ou une intégration facile dans vos projets, sans aucune complication."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Générateur d'Autocollants IA FAQ",
+      "description": "",
+      "q1": "Qu'est-ce que le Générateur d'Autocollants IA et comment fonctionne-t-il ?",
+      "a1": "Le Générateur d'Autocollants IA utilise des algorithmes avancés pour analyser votre image et appliquer des styles artistiques uniques, en la reconstruisant sous une forme d'autocollant exceptionnelle qui conserve ses caractéristiques essentielles.",
+      "q2": "Comment puis-je obtenir les meilleurs résultats avec le Générateur d'Autocollants IA ?",
+      "a2": "Pour des transformations optimales, utilisez des images claires à contraste élevé et explorez nos divers styles d'autocollants, chacun offrant des effets distincts.",
+      "q3": "Le Générateur d'Autocollants IA est-il gratuit ?",
+      "a3": "Oui ! Commencez avec un essai gratuit pour explorer toutes les fonctionnalités et créer vos premières transformations d'autocollants.",
+      "q4": "La sortie du Générateur d'Autocollants IA est-elle différente des filtres typiques ?",
+      "a4": "Absolument ! Notre IA reconstruit entièrement votre image dans le style sélectionné, produisant ainsi un autocollant unique qui conserve l'essence de votre photo originale.",
+      "q5": "Puis-je utiliser les autocollants générés à des fins commerciales ?",
+      "a5": "Oui, vous pouvez utiliser vos créations à des fins commerciales, conformément à nos conditions de licence : créez et monétisez votre art !"
+    },
+    "cta": {
+      "title": "Commencez à créer avec le Générateur d'Autocollants IA dès maintenant",
+      "description": "N'attendez plus : libérez votre potentiel artistique dès aujourd'hui avec le Générateur d'Autocollants IA ! Transformez vos photos en autocollants uniques et plongez dans un monde de créativité illimitée.",
+      "buttonText": "Créer des Autocollants IA Gratuitement"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform a photo into unique sticker art",
+  "originalKeyword": "AI Sticker Generator",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "image": "/images/examples/playground/ai-sticker-generator/example_1.webp",
+      "prompt": "ai-sticker-generator style transformation example 1 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_2.webp",
+      "prompt": "ai-sticker-generator style transformation example 2 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_3.webp",
+      "prompt": "ai-sticker-generator style transformation example 3 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_4.webp",
+      "prompt": "ai-sticker-generator style transformation example 4 (chibi style)"
+    }
+  ]
+}

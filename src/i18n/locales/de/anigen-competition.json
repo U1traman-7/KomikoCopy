@@ -1,0 +1,173 @@
+{
+  "hero": {
+    "title": "AniGen",
+    "subtitle": "DER ERSTE GLOBALE KI-ANIMATIONSWETTBEWERB FÜR KURZFORMATE",
+    "sponsors": "Sponsoren:",
+    "btnRules": "ALLE TEILNAHMEBEDINGUNGEN",
+    "btnSubmit": "ANIMATION EINREICHEN"
+  },
+  "about": {
+    "subtitle": "Wenn KI auf Animation trifft",
+    "title": "ÜBER DIE CHALLENGE",
+    "description1": "Willkommen bei AniGen, dem weltweit ersten Wettbewerb für vertikale KI-Kurzanimationen, präsentiert von KomikoAI, Hedra, Hailuo und AniShort. Wir vereinen modernste KI-Technologie mit kreativem Storytelling, um ein neues Genre der Animation zu erschaffen.",
+    "description2": "AniGen hat sich zum Ziel gesetzt, aufstrebende Talente im Bereich der Animation zu entdecken und zu fördern. Wir laden Sie ein, die Grenzen des mit KI in der Animation Machbaren zu erweitern. Egal, ob Sie ein KI-Künstler, ein traditioneller Animator, der neue Technologien erkundet, ein Drehbuchautor oder ein Animationsenthusiast sind – dies ist Ihre Chance, Ihr Talent zu zeigen und außergewöhnliche Preise, kostenlose Abonnements für KI-Tools und sogar die Möglichkeit zu gewinnen, Ihre Shows auf der AniShort-Streaming-App zu veröffentlichen."
+  },
+  "prizes": {
+    "title": "PREISE",
+    "animation": {
+      "title": "Animations-Track",
+      "grandPrize": "Hauptpreis (1 Gewinner)",
+      "grandPrizeDetails": [
+        "3.000 USD",
+        "6 Monate kostenlose Pro-Abonnements für Hailuo, Hedra und KomikoAI",
+        "Möglichkeit zur Weiterentwicklung der Animation mit Finanzierung und zur Präsentation in der AniShort-Streaming-App"
+      ],
+      "secondPrize": "Zweiter Preis (1 Gewinner)",
+      "secondPrizeDetails": "1.500 USD + 3 Monate Pro-Abonnements für KI-Tools",
+      "runnerUp": "Anerkennungspreis (2 Gewinner)",
+      "runnerUpDetails": "500 USD + 2 Monate Pro-Abonnements für KI-Tools",
+      "excellence": "Auszeichnung für Exzellenz (30 Urheber)",
+      "excellenceDetails": "1 Monat Pro-Abonnements für KI-Tools",
+      "note": "Gewinnende Beiträge werden über die Social-Media-Kanäle der Sponsoren beworben, zur Veröffentlichung auf der AniShort-Streaming-Plattform eingeladen und haben möglicherweise sogar die Chance, ihre Animation mit Finanzierung oder Studio-Unterstützung weiterzuentwickeln."
+    },
+    "scriptwriting": {
+      "title": "Drehbuch-Track",
+      "grandPrize": "Hauptpreis (1 Gewinner)",
+      "grandPrizeDetails": "1.000 USD",
+      "excellence": "Auszeichnung für Exzellenz (3 Urheber)",
+      "excellenceDetails": "100 USD",
+      "note": "Ausgewählte Drehbücher können zu Animationen verarbeitet und mit einer Umsatzbeteiligung auf der AniShort-Streaming-Plattform veröffentlicht werden."
+    }
+  },
+  "judges": {
+    "label": "Lernen Sie unsere Jury kennen",
+    "title": "DIE JURY",
+    "description": "Unsere hochkarätige Jury besteht aus Branchenführern und kreativen Köpfen:",
+    "judge1": {
+      "name": "Ben Waller",
+      "title": "Chief Creative Officer bei Story Engine Inc., Drehbuchautor, Star Trek: Lower Decks, Roborockaylpse."
+    },
+    "judge2": {
+      "name": "Michael Lingelbach",
+      "title": "Gründer & CEO von Hedra"
+    },
+    "judge3": {
+      "name": "Garrett Pollack",
+      "title": "Social-Media-Influencer im Anime-Bereich"
+    },
+    "judge4": {
+      "name": "Aiden Guo",
+      "title": "Animator von One Piece, KI-Animationsersteller & Influencer"
+    },
+    "judge5": {
+      "name": "Leanna Ren",
+      "title": "VP @ MiniMax"
+    }
+  },
+  "timeline": {
+    "title": "ZEITPLAN",
+    "launch": {
+      "date": "28. April 2025",
+      "title": "Wettbewerbsstart"
+    },
+    "submission": {
+      "date": "28. April - 20. Mai 2025",
+      "title": "Einreichungszeitraum"
+    },
+    "judging": {
+      "date": "20. Mai - 1. Juni 2025",
+      "title": "Bewertungszeitraum"
+    },
+    "announcement": {
+      "date": "1. Juni 2025",
+      "title": "Bekanntgabe der Gewinner"
+    }
+  },
+  "rules": {
+    "title": "TEILNAHMEBEDINGUNGEN & REGELN",
+    "animation": {
+      "title": "ANIMATIONS-TRACK",
+      "description": "Erstelle eine fesselnde vertikale Kurzanimation, die eine Geschichte erzählt",
+      "format": {
+        "label": "Format:",
+        "value": "9:16 vertikal (für Mobilgeräte optimiert), MP4"
+      },
+      "duration": {
+        "label": "Dauer:",
+        "value": "30 Sekunden bis 3 Minuten"
+      },
+      "content": {
+        "label": "Inhalt:",
+        "value": "Die Animation sollte eine vollständige Geschichte erzählen oder der Beginn einer längeren Serie sein. Wir akzeptieren KEINE Trailer oder Musikvideos."
+      },
+      "requirements": {
+        "label": "Wichtigste Anforderungen:",
+        "list": [
+          "Verwenden Sie KI-Tools für mindestens 50 % der Erstellung, einschließlich:",
+          "Mindestens eine Charakterszene mit Sprechen unter Verwendung des Character-3-Modells von Hedra",
+          "Mindestens ein Charakter-/Szenenbild, das mit KomikoAI generiert wurde",
+          "Mindestens ein Animationsclip, der mit Hailuo generiert wurde, entweder über die Hailuo-Plattform oder über Hedra/KomikoAI",
+          "Ausschließlich Originalarbeiten – keine Urheberrechtsverletzung",
+          "Englische Sprachausgabe oder Untertitel erforderlich",
+          "Posten Sie Ihre Arbeit in den sozialen Medien und taggen Sie #AniGen @hedra_labs @KomikoAI @Hailuo_AI @AniShortApp, damit offizielle Konten sie erneut posten können",
+          "Sie müssen mindestens 18 Jahre alt sein, um teilzunehmen",
+          "Keine Inhalte mit NSFW, Hassreden, extremer Gewalt oder urheberrechtlich geschütztem Material"
+        ]
+      }
+    },
+    "scriptwriting": {
+      "title": "DREHBUCH-TRACK",
+      "description": "Entwerfen Sie ein originelles Konzept für eine vertikale Kurzanimationsserie",
+      "format": {
+        "label": "Format:",
+        "value": "Konzeptpaket mit Skripten für die ersten 5 Folgen"
+      },
+      "duration": {
+        "label": "Dauer:",
+        "value": "Jede Folge sollte 1-2 Minuten dauern, ausgelegt auf rasantes, aufmerksamkeitsstarkes Storytelling"
+      },
+      "genre": {
+        "label": "Genre:",
+        "value": "Alle Genres sind willkommen, z. B. Action, Romantik, Fantasy, Isekai, Shounen usw."
+      },
+      "requirements": {
+        "label": "Anforderungen:",
+        "list": [
+          "Titel, Inhaltsangabe, Charakterübersicht und vollständige Drehbücher der ersten 5 Folgen",
+          "Sprache: Englisch oder mit englischen Übersetzungen",
+          "Ausschließlich Originalarbeiten – keine Urheberrechtsverletzung",
+          "Keine Inhalte mit NSFW, Hassreden, extremer Gewalt oder urheberrechtlich geschütztem Material"
+        ]
+      }
+    }
+  },
+  "sponsors": {
+    "title": "UNSERE SPONSOREN & PARTNER",
+    "hedra": {
+      "name": "Hedra",
+      "description": "KI-Avatar-Video-Generierungsmodell"
+    },
+    "hailuo": {
+      "name": "Hailuo",
+      "description": "KI-Video-Generierungsmodell"
+    },
+    "komiko": {
+      "name": "KomikoAI",
+      "description": "KI-Toolkit für Animationen & Comics"
+    },
+    "anishort": {
+      "name": "AniShort",
+      "description": "Streaming-Plattform für kurze Animationen"
+    }
+  },
+  "submit": {
+    "title": "WERDEN SIE TEIL DER ZUKUNFT DER ANIMATION",
+    "description": "Reichen Sie noch heute Ihren Beitrag ein und gestalten Sie die nächste Welle der KI-gestützten Animation mit.",
+    "btnSubmit": "ANIMATION EINREICHEN",
+    "btnRules": "TEILNAHMEBEDINGUNGEN LESEN"
+  },
+  "meta": {
+    "title": "AniGen-Wettbewerb – KI-Animationswettbewerb für Kurzfilme | Gewinnen Sie 6.000 $ und kostenlose Abonnements für KI-Tools",
+    "description": "Nehmen Sie am weltweit ersten Wettbewerb für vertikale KI-Kurzanimationen teil, der von KomikoAI, Hedra, Hailuo und AniShort veranstaltet wird."
+  }
+}

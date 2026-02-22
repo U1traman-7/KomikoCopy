@@ -1,0 +1,130 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Generador de Video con IA Wan - KomikoAI",
+      "description": "Cree videos dinámicos y de alta calidad a partir de texto e imágenes con el Generador de Video con IA Wan. Experimente movimientos de calidad profesional, simulación de física y producción de video eficiente.",
+      "keywords": "Generador de Video con IA Wan, creación de video con IA, texto a video, imagen a video, animación con IA, herramienta de generación de video, edición de video con IA, simulación de movimiento, plataforma de video con IA"
+    },
+    "hero": {
+      "title": "Generador de Video con IA Wan",
+      "description": "Aproveche la tecnología de IA de vanguardia para transformar sus ideas en videos cautivadores. Genere videos ricos en movimiento, físicamente precisos y altamente personalizables sin esfuerzo."
+    },
+    "whatIs": {
+      "title": "¿Qué es el Generador de Video con IA Wan?",
+      "description": "El Generador de Video con IA Wan transforma sus ideas en videos impresionantes utilizando tecnología de IA de última generación. Impulsado por Wan2, el último avance del Laboratorio Tongyi en Alibaba Group, esta herramienta combina Autoencoders Variacionales 3D avanzados y Transformadores de Difusión de video para ofrecer resultados excepcionales. Ya sea que esté trabajando con *prompts* de texto o imágenes estáticas, Wan2 crea videos con una precisión física impresionante y un movimiento natural. El modelo de código abierto se encarga de todo, desde rotaciones complejas hasta transiciones de escena dinámicas, produciendo material HD nítido que parece creado profesionalmente. Es perfecto para creadores de contenido, profesionales del marketing, educadores y animadores que desean dar vida a sus visiones sin los costes y la complejidad tradicionales de la producción de video."
+    },
+    "examples": {
+      "title": "Ejemplos del Generador de Video con IA Wan",
+      "description": "Explore ejemplos impresionantes de videos creados con el Generador de Video con IA Wan. Desde contenido animado para redes sociales hasta presentaciones de productos cinematográficas, observe cómo esta herramienta da vida a imágenes estáticas y *prompts* de texto con movimiento vívido, física realista y efectos visuales enriquecidos."
+    },
+    "howToUse": {
+      "title": "Cómo usar el Generador de Video con IA Wan",
+      "steps": [
+        {
+          "title": "Cargue su imagen",
+          "content": "Cargue la imagen que desea animar. El Generador de Video con IA Wan admite varios formatos de imagen, incluyendo ilustraciones, fotos, imágenes de productos o *storyboards* para crear contenido de video dinámico."
+        },
+        {
+          "title": "Introduzca su *prompt*",
+          "content": "Proporcione *prompts* detallados o seleccione la configuración para especificar los tipos de movimiento, los ángulos de cámara, la iluminación y los efectos. La IA interpreta estas instrucciones para crear contenido de video dinámico alineado con su visión."
+        },
+        {
+          "title": "Genere su video",
+          "content": "Haga clic en el botón 'Generar animación' para iniciar el proceso de generación y observe cómo la IA sintetiza secuencias de video de alta resolución, aplicando física de movimiento realista y transiciones perfectas automáticamente."
+        },
+        {
+          "title": "Descargue y comparta",
+          "content": "Una vez que se renderiza el video, descárguelo en su formato y resolución preferidos. Comparta su atractivo video generado por IA en las redes sociales, campañas de *marketing* o plataformas educativas."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "¿Por qué usar el Generador de Video con IA Wan?",
+      "description": "Descubra las poderosas ventajas del Generador de Video con IA Wan que agilizan la producción de video y mejoran las posibilidades creativas para estudios, educadores, profesionales del *marketing* y creadores.",
+      "features": [
+        {
+          "title": "Simulación Avanzada de Movimiento y Física",
+          "content": "Genere videos con un 92,7 % de precisión física, admitiendo movimientos corporales complejos, rotaciones e interacciones de objetos realistas.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Soporte de entrada versátil",
+          "content": "Cree videos a partir de *prompts* de texto, imágenes estáticas o entradas multimedia combinadas, lo que permite amplias aplicaciones creativas.",
+          "icon": "🖼️"
+        },
+        {
+          "title": "Salida de video de alta calidad",
+          "content": "Produzca videos HD de 1080p perfectos con texturas cinematográficas, transiciones de escena dinámicas y ricos efectos estilizados.",
+          "icon": "✨"
+        },
+        {
+          "title": "Rentable y accesible",
+          "content": "El *framework* de código abierto con bajos requisitos de *hardware* hace que la generación de video profesional sea asequible y accesible para todos los creadores.",
+          "icon": "💸"
+        },
+        {
+          "title": "Soporte para múltiples escenarios",
+          "content": "Adecuado para contenido de redes sociales, materiales educativos, demostraciones de productos y flujos de trabajo de animación en todas las industrias.",
+          "icon": "🌐"
+        },
+        {
+          "title": "Ecosistema amigable para desarrolladores",
+          "content": "Ofrece API, opciones de implementación local y compatibilidad con los principales *frameworks* de *deep learning* para una integración perfecta.",
+          "icon": "⚙️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre el Generador de Video con IA Wan",
+      "description": "Respuestas a preguntas comunes sobre el uso del Generador de Video con IA Wan para crear videos profesionales y atractivos con IA.",
+      "q1": "¿Qué es el Generador de Video con IA Wan?",
+      "a1": "El Generador de Video con IA Wan es una herramienta de inteligencia artificial avanzada que transforma texto e imágenes en videos de alta calidad y ricos en movimiento mediante el uso de modelos de *deep learning* como los VAE 3D y los Transformadores de Difusión de video. Permite a los creadores producir animaciones cinematográficas y físicamente precisas con facilidad.",
+      "q2": "¿Cómo crea el Generador de Video con IA Wan videos a partir de imágenes?",
+      "a2": "La herramienta utiliza redes neuronales sofisticadas para analizar imágenes estáticas; luego, sintetiza nuevos fotogramas de video que introducen movimiento realista, rotaciones y transiciones de escena, animando eficazmente el contenido original a la vez que mantiene la coherencia visual.",
+      "q3": "¿Qué tipos de videos puedo crear con Wan AI?",
+      "a3": "Puede crear una amplia gama de videos, incluyendo clips animados para redes sociales, visualizaciones educativas, demostraciones de productos, videos de *marketing* y *storyboards* dinámicos, todos personalizables a través de *prompts* de texto e imágenes de entrada.",
+      "q4": "¿Es el Generador de Video con IA Wan adecuado para uso comercial?",
+      "a4": "Sí, el Generador de Video con IA Wan produce videos de calidad profesional adecuados para proyectos tanto personales como comerciales. Los usuarios deben revisar los términos de licencia relevantes para cualquier restricción relacionada con los derechos de uso.",
+      "q5": "¿Cuánto pueden durar los videos generados?",
+      "a5": "La plataforma admite videos de longitud ilimitada en resolución de 1080p a través de tecnologías eficientes de codificación y decodificación de video, lo que permite la creación de contenido extendido sin pérdida de calidad.",
+      "q6": "¿Necesito habilidades técnicas para usar el Generador de Video con IA Wan?",
+      "a6": "No se requieren habilidades especializadas. La plataforma ofrece interfaces fáciles de usar y flujos de trabajo sencillos, lo que hace que la generación avanzada de video con IA sea accesible incluso para principiantes."
+    }
+  },
+  "originalKeyword": "Wan AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modelo: Wan",
+      "description": "Prompt: A purely visual and atmospheric video piece focusing on the interplay of light and shadow, with a corn train as the central motif. Imagine a stage bathed in dramatic, warm spotlights, where a corn train, rendered as a stark silhouette, moves slowly across the space. The video explores the dynamic interplay of light and shadow cast by the train, creating abstract patterns, shapes, and illusions that dance across the stage. The soundtrack should be ambient and minimalist, enhancing the atmospheric and abstract nature of the piece.",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_2.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Modelo: Wan",
+      "description": "Prompt: Watercolor style, the wet suminagashi inks slowly spread into the shape of an island on the paper, with the edges continuously blending into delicate textural variations. A tiny paper boat floats in the direction of the water flow towards the still-wet areas, creating subtle ripples around it. Centered composition with soft natural light pouring in from the side, revealing subtle color gradations and a sense of movement. .",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/prompt_3.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Modelo: Wan",
+      "description": "Prompt: A man on the run, darting through the rain-soaked back alleys of a neon-lit city night, steam rising from the wet pavement. He's clad in a drenched trench coat, his face etched with panic as he sprints down the alley, constantly looking over his shoulder. A chase sequence shot from behind, immersing the viewer deeply, as if the pursuers are right behind the camera lens..",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_4.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Modelo: Wan",
+      "description": "Prompt: Sidelit, soft light, high contrast, medium shot, centered composition, clean single subject frame, warm tones. A young man stands in a forest, his head gently lifted, with clear eyes. Sunlight filters through leaves, creating a golden halo around his hair. Dressed in a light-colored shirt, a breeze plays with his hair and collar as the light dances across his face with each movement. Background blurred, featuring distant dappled light and soft tree silhouettes..",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_1.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "WAN_PRO"
+}

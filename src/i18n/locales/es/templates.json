@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Plantillas | Komiko AI",
+    "description": "Explora plantillas seleccionadas y optimizadas para anime en Playground, efectos de video, video a video y herramientas de baile. Elige una plantilla para empezar con la configuración perfecta preconfigurada.",
+    "keywords": "galería de plantillas de anime, ajustes preestablecidos de Komiko, plantillas de efectos de video, plantillas de cosplay"
+  },
+  "hero": {
+    "eyebrow": "Plantillas",
+    "title": "Plantillas Seleccionadas Ideales para Creadores de Anime",
+    "description": "Encuentra la plantilla perfecta para ti y comienza a crear al instante."
+  },
+  "buttons": {
+    "useTemplate": "Usar Plantilla",
+    "preview": "Vista Previa",
+    "close": "Cerrar",
+    "seeAll": "Ver Todo"
+  },
+  "categories": {
+    "featured": {
+      "title": "Destacadas"
+    },
+    "art": {
+      "title": "Ajustes de Personajes",
+      "description": "Transforma retratos en diseños profesionales de personajes: arte lineal, chibi, sprites, hojas de expresiones, giros y más."
+    },
+    "style": {
+      "title": "Transferencia de Estilo",
+      "description": "Ajustes preestablecidos versátiles para Playground que transforman retratos en renders de anime, acuarela o cyberpunk con un acabado profesional."
+    },
+    "imageRestyle": {
+      "title": "Restilización de Imágenes",
+      "description": "Convierte imágenes a estilos de anime, Pixar, manga, acuarela, neón y más de 15 estilos artísticos diferentes."
+    },
+    "videoRestyle": {
+      "title": "Restilización de Videos",
+      "description": "Transforma videos en estilos de anime, caricaturas, bocetos, emojis y otros estilos animados. Cambia videos reales a contenido estilizado."
+    },
+    "merch": {
+      "title": "Estudio de Merchandising",
+      "description": "Genera imágenes de figuras, peluches y diseños de personajes listos para galerías, optimizados para coleccionistas."
+    },
+    "game": {
+      "title": "Juegos",
+      "description": "Crea videos y escenas con estilo de videojuego, incluyendo tráilers de Genshin Impact, juegos de píxeles retro, evoluciones de Pokémon, simuladores de citas y más estéticas de juegos."
+    },
+    "movie": {
+      "title": "Películas",
+      "description": "Recrea retratos en estilos de arte de cine y televisión: desde programas animados hasta películas de fantasía y mucho más."
+    },
+    "cosplay": {
+      "title": "Cosplay y Atuendos",
+      "description": "Ajustes preestablecidos que recrean promociones, tráilers y escenas de cosplay. También incluye atuendos para personajes."
+    },
+    "effects": {
+      "title": "Efectos de Video y Animaciones",
+      "description": "Aplica efectos dinámicos incluyendo animaciones de brisa Live2D, vistas de personajes en 360°, transformaciones de chicas mágicas, potenciaciones de Super Saiyan y videos musicales con estilo de anime/manga."
+    },
+    "dance": {
+      "title": "Danza",
+      "description": "Movimientos de video de baile con IA optimizados para K-pop, tendencias virales de TikTok y rutinas de robots estilizadas."
+    },
+    "christmas": {
+      "title": "Navidad",
+      "description": "Crea escenas navideñas encantadoras con ajustes preestablecidos mágicos para personajes festivos y entornos de vacaciones."
+    }
+  }
+}

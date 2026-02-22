@@ -1,0 +1,151 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Domoia",
+      "description": "Searching for the top Domoia alternative? Convert your videos into anime, manga, and cartoon looks using our advanced video-to-video AI style transfer solution.",
+      "keywords": "Domoia alternative, video to anime converter, video style transfer, anime video generator, manga style transfer, cartoon video filter"
+    },
+    "hero": {
+      "title": "Domoia"
+    },
+    "examples": {
+      "title": "Video to Video Examples compare to Domoia",
+      "description": "Try high-quality video-to-video transformations that beat Domoia with quicker processing, improved motion consistency, and a broader selection of styles including anime, manga, manhwa, and cartoon looks."
+    },
+    "whatIs": {
+      "title": "What is Domoia?",
+      "description": "Domoia refers to a recognized AI service that transforms footage into anime and other artistic looks through sophisticated video style transfer methods. It lets creators turn ordinary clips into eye-catching animations inspired by anime, manga, and cartoons. Want a Domoia alternative? Our AI platform provides a robust video-to-video style transfer that frequently matches or surpasses Domoia’s performance. With 20+ artistic presets—such as Studio Ghibli anime, Korean manhwa, and Japanese manga—our platform keeps original motion and timing intact, delivering studio-grade animated videos effortlessly."
+    },
+    "howToUse": {
+      "title": "How to Use Our Domoia",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Upload any supported video file (MP4, MOV, AVI) up to 15 seconds and 50MB. Files longer than 15 seconds will be trimmed automatically to optimize style transfer results."
+        },
+        {
+          "title": "Pick an Artistic Style",
+          "content": "In Style Selection, pick from 20+ built-in styles including anime, cartoon, manga, and Korean manhwa, or craft custom styles with text prompts and reference images for your video style transfer."
+        },
+        {
+          "title": "Preview Using a Reference Frame",
+          "content": "We extract the first frame and apply your chosen style to generate a styled reference. This preview demonstrates how the selected style will be applied across the full video."
+        },
+        {
+          "title": "Generate the Styled Video",
+          "content": "Our AI applies the styled reference to the entire clip, preserving original motion, facial expressions, and timing to produce a smooth, high-quality anime or cartoon result."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Choose Our Domoia",
+      "description": "As a leading Domoia alternative, our platform delivers superior motion fidelity, extensive artistic choices, and professional-quality outputs—backed by transparent pricing and a straightforward workflow.",
+      "features": [
+        {
+          "title": "Accurate Motion Fidelity",
+          "content": "Preserve fine motion details, facial expressions, and timing while transforming footage into anime, manga, or cartoon styles with consistent frame-to-frame stability.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Wide Style Library",
+          "content": "Choose from over 20 presets including Studio Ghibli, Korean manhwa, and Japanese manga, and fine-tune looks using text prompts or reference images to create unique video transformations.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Studio-Grade Output",
+          "content": "Produce high-definition videos with seamless transitions, minimal flicker, and uniform style application for a polished animation-quality finish.",
+          "icon": "⭐"
+        },
+        {
+          "title": "Clear, Fair Pricing",
+          "content": "Benefit from straightforward pricing that separates style transfer and video rendering fees so you can experiment without unexpected charges.",
+          "icon": "🌟"
+        },
+        {
+          "title": "Automatic Video Optimization",
+          "content": "Built-in optimization handles format conversion, duration adjustments, and quality improvements to ensure the best results for anime and cartoon conversions.",
+          "icon": "🛠️"
+        },
+        {
+          "title": "Cross-Category Style Support",
+          "content": "As a powerful Domoia alternative, access styles across categories: Style Transfer (anime, cartoon), Change Material (clay, skeleton), Change Environment (cyberpunk, underwater), and Cosplay transformations.",
+          "icon": "🎭"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Explore common queries about our video style transfer tool, its features, and usage.",
+      "q1": "What is Domoia?",
+      "a1": "Domoia is an AI tool that transforms videos into various artistic styles using advanced video style transfer technology, ensuring high-quality and consistent results.",
+      "q2": "How to create videos with Domoia?",
+      "a2": "Using Domoia is simple! First, upload your video, then select a style, and finally, apply the transformation. The process is user-friendly and efficient, providing high-quality outputs in minutes.",
+      "q3": "How does Domoia work?",
+      "a3": "Domoia uses AI-driven video style transfer technology to apply artistic styles to videos. It works by analyzing video frames and applying the chosen style consistently across the entire video.",
+      "q4": "What is the best video style transfer tool?",
+      "a4": "KomikoAI provides the best video style transfer tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Domoia, you can transform videos into stunning artistic pieces, making it perfect for creators and enthusiasts.",
+      "q5": "Is the KomikoAI Domoia free online?",
+      "a5": "Yes, you can test out the Domoia on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Domoia?",
+      "a6": "You can use Domoia on KomikoAI to create videos with unique artistic styles, such as anime, cartoon, and more. The tool allows for creative expression and customization, making it ideal for various projects.",
+      "q7": "Can I use Domoia on my phone?",
+      "a7": "Yes, you can use Domoia as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Domoia?",
+      "a8": "Yes, KomikoAI's Domoia allows you to export your generation in various formats, such as MP4 and MOV, for easy sharing.",
+      "q9": "Why should I use Domoia?",
+      "a9": "Using Domoia can enhance your video projects with artistic flair. Our tool allows you to transform videos into unique styles, offering creative freedom and high-quality results."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/fire-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Fire",
+      "description": "Change Material | Convert the character into a fire-themed effect"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/korean-manhwa-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Korean Manhwa",
+      "description": "Style Transfer | Render the source video in a Korean manhwa aesthetic"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/snow-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Snowy",
+      "description": "Change Environment | Alter the scene to a snowy backdrop"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cowboy-skiing.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cosplay",
+      "description": "Cosplay | Replace the character's outfit with a cowboy costume"
+    }
+  ],
+  "originalKeyword": "Domoia",
+  "pageStructure": [
+    "examples",
+    "benefits",
+    "whatIs",
+    "howToUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

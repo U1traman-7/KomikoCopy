@@ -1,0 +1,103 @@
+{
+  "title": "Runway Aleph",
+  "description": "Runway Aleph 是革命性的影片編輯 AI 技術。它採用先進的上下文影片模型，能編輯、轉換和生成具備多任務視覺生成能力的專業影片內容。",
+  "meta": {
+    "title": "Runway Aleph",
+    "description": "Runway Aleph 是革命性的影片編輯 AI 技術。它採用先進的上下文影片模型，能編輯、轉換和生成具備多任務視覺生成能力的專業影片內容。",
+    "fullDescription": "體驗 Runway Aleph 的尖端能力。這是一種革命性的上下文影片模型，重新定義了影片編輯 AI。我們先進的多任務視覺生成平台能實現無縫的影片轉換、智慧物件操作、動態攝影機控制和流暢的編輯功能。對於尋求最先進的 AI 影片編輯工具的電影製作人、內容創作者和影片專業人士而言，它能以對話般的簡潔性提供專業品質的成果。",
+    "keywords": "Runway Aleph, 上下文影片模型, 影片編輯 AI, 編輯轉換生成影片, 多任務視覺生成, AI 影片編輯器, 影片轉換工具, 對話式 AI 編輯, 流暢編輯, 影片操作, AI 物件移除, 攝影機控制 AI, 影片風格修改, 專業影片編輯, AI 影片生成, 影片後期製作 AI, 創意影片合作夥伴, 智慧影片編輯"
+  },
+  "whatIs": {
+    "title": "什麼是 Runway Aleph？",
+    "description": "Runway Aleph 代表了影片編輯 AI 的下一個進化階段 – 一種革命性的上下文影片模型，它將多任務視覺生成與對話式智慧相結合。這種先進的 AI 影片編輯器透過智慧物件操作、動態攝影機控制和無縫風格修改來轉換普通素材。與傳統影片工具不同，Runway Aleph 作為創意合作夥伴運作，了解視覺上下文，以提供流暢的編輯體驗，輕鬆編輯、轉換和生成專業影片內容。"
+  },
+  "examples": {
+    "title": "Runway Aleph 範例",
+    "description": "了解 Runway Aleph 如何透過智慧上下文編輯和多任務視覺生成能力，徹底改變影片創作。",
+    "originalVideo": "原始影片",
+    "generatedOutput": "生成輸出",
+    "generateCameraAngles": "攝影機角度生成 – 使用專業電影攝影技術，從您的原始素材生成新的攝影機視角和鏡頭",
+    "generateNextShot": "下一個鏡頭生成 – 建立無縫的後續鏡頭，透過智慧場景理解來延續您的敘述",
+    "styleTransfer": "風格轉換 – 在保持原始運動和內容完整性的同時，轉換影片的視覺風格",
+    "changeEnvironment": "環境變更 – 新增雨、雪或環境修改等大氣元素，以增強您的場景",
+    "addThings": "新增物件 – 將煙火、道具或環境特徵等新元素無縫整合到現有素材中",
+    "removeThings": "移除物件 – 消除煙霧、反射或分散注意力的物件等不需要的元素，同時保持場景的連續性",
+    "generateStyleTransfer": "風格轉換 – 使用您想要的風格轉換任何影片。使用 Runway Aleph，只需提出要求，即可輕鬆將任何風格應用於您的素材。",
+    "generateChangeObject": "更改物件 - Runway Aleph讓您輕鬆地從現有影片中重新設置材質或完全替換物件、主體等。您可以使用文字提示或希望替換進影片中的參考圖像進行操作。",
+    "promptStyleTransfer": "提示：轉換影片的風格",
+    "promptChangeObject": "提示：將球的材質更改為熔岩",
+    "promptAddRain": "提示：新增雨",
+    "promptAddFireworks": "提示：新增煙火",
+    "promptCameraAngle": "提示：生成主體的全身中景鏡頭",
+    "promptRemoveSmoke": "提示：移除煙霧"
+  },
+  "howTo": {
+    "title": "如何使用 Runway Aleph"
+  },
+  "steps": {
+    "step1": {
+      "title": "上傳您的素材",
+      "content": "匯入任何影片檔案（MP4、MOV、AVI），最大 15 秒和 50MB，以進行 Runway Aleph 處理。超過 15 秒的影片會自動最佳化，以實現高效的上下文影片模型分析。"
+    },
+    "step2": {
+      "title": "上下文分析",
+      "content": "Runway Aleph 使用先進的多任務視覺生成演算法分析您的素材，提取第一幀以建立視覺上下文，以便在整個影片中進行一致的 AI 編輯。"
+    },
+    "step3": {
+      "title": "選擇增強模式",
+      "content": "從 20 多個智慧轉換選項中進行選擇，包括物件操作、攝影機控制、風格修改，或使用帶有參考圖像的對話提示進行自訂 Runway Aleph 編輯。"
+    },
+    "step4": {
+      "title": "生成增強影片",
+      "content": "Runway Aleph 使用上下文影片模型智慧轉換您的完整素材，同時透過精密的流暢編輯技術，保留原始運動、表情和時間。"
+    }
+  },
+  "benefits": {
+    "title": "為什麼選擇 Runway Aleph",
+    "description": "Runway Aleph 提供最先進的上下文影片模型技術，具有智慧多任務視覺生成、對話式 AI 編輯和專業級成果。"
+  },
+  "features": {
+    "feature1": {
+      "title": "智慧運動保留",
+      "content": "Runway Aleph 在應用轉換時，透過先進的上下文影片模型分析和完美幀的流暢編輯精度，保持完美的運動連續性、面部表情和時間一致性。"
+    },
+    "feature2": {
+      "title": "20 多種多任務視覺風格",
+      "content": "存取多樣化的轉換選項，包括電影增強、藝術風格、物件操作和環境變更。使用 Runway Aleph，透過對話提示或參考圖像建立自訂編輯。"
+    },
+    "feature3": {
+      "title": "專業級輸出品質",
+      "content": "透過 Runway Aleph 精密的上下文影片模型處理，生成具有一致多任務視覺生成、無縫過渡和無偽影結果的電影品質影片。"
+    },
+    "feature4": {
+      "title": "透明工作流程系統",
+      "content": "清晰的定價結構，分析和生成階段分別收費。使用 Runway Aleph 的靈活系統，嘗試不同的增強選項，而無需額外處理成本。"
+    },
+    "feature5": {
+      "title": "對話式 AI 介面",
+      "content": "直觀的 Runway Aleph 工作流程：上傳素材、應用上下文分析、生成增強影片。透過即時進度監控和對話式 AI 編輯指導，無需技術專業知識。"
+    },
+    "feature6": {
+      "title": "智慧自動最佳化",
+      "content": "智慧 Runway Aleph 處理，具有自動格式最佳化、基於持續時間的計算和智慧檔案處理，可在所有支援的格式中實現無縫多任務視覺生成。"
+    }
+  },
+  "faq": {
+    "title": "Runway Aleph 常見問題",
+    "description": "有關 Runway Aleph 的上下文影片模型技術、多任務視覺生成能力和對話式 AI 編輯過程的基本資訊。",
+    "q1": "Runway Aleph 如何運作？",
+    "a1": "Runway Aleph 透過智慧雙階段處理，利用先進的上下文影片模型技術：1) 使用多任務視覺生成評估，對您的素材進行上下文分析；2) 在保留運動和時間的同時，進行流暢的編輯轉換。這確保了所有幀上的一致對話式 AI 編輯。",
+    "q2": "Runway Aleph 支援哪些影片格式？",
+    "a2": "Runway Aleph 支援 MP4、MOV 和 AVI 格式，最大檔案大小為 50MB，用於上下文影片模型處理。影片限制為 15 秒，並自動最佳化，以實現高效的多任務視覺生成和成本效益。",
+    "q3": "Runway Aleph 處理需要多長時間？",
+    "a3": "完整的 Runway Aleph 轉換需要 5-10 分鐘：上下文分析（1-3 分鐘）和多任務視覺生成（3-7 分鐘）。透過我們的智慧介面，即時監控對話式 AI 編輯進度。",
+    "q4": "Runway Aleph 的定價詳情是什麼？",
+    "a4": "基於持續時間，分別收取上下文分析和影片生成的費用。Runway Aleph 成本在處理前透明顯示，並且僅在成功完成多任務視覺生成後才會扣除積分。",
+    "q5": "我可以使用 Runway Aleph 建立自訂轉換嗎？",
+    "a5": "當然！從 20 多個預設範本中進行選擇、編寫對話提示或上傳參考圖像，以使用 Runway Aleph 的上下文影片模型技術進行獨特的多任務視覺生成。",
+    "q6": "什麼可以創造 Runway Aleph 的最佳效果？",
+    "a6": "最佳的多任務視覺生成具有清晰的主體、足夠的光線、穩定的運動和明確的特徵。避免快速運動或黑暗素材，以實現最佳的 Runway Aleph 上下文影片模型處理。具有明顯主體的 5 秒以下素材效果特別好。"
+  },
+  "metaTitle": "Runway Aleph",
+  "keywords": "Runway Aleph, aleph 影片模型, 上下文影片模型, runway aleph AI, 多任務視覺生成, 最先進的影片編輯, runway aleph 聊天模式, 影片操作 AI, AI 影片生成, 影片到影片編輯, AI 影片效果, 影片轉換工具, AI 影片處理"
+}

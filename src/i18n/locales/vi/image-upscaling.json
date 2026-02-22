@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "Nâng Cấp Ảnh AI - KomikoAI",
+    "description": "Chuyển đổi hình ảnh của bạn với công cụ Nâng Cấp Ảnh tiên tiến của KomikoAI AI. Công nghệ Cải Thiện Ảnh bằng AI sử dụng Siêu Phân Giải để nâng cấp và cải thiện ảnh một cách thông minh, mang lại kết quả chuyên nghiệp với độ rõ nét và chi tiết vượt trội.",
+    "fullDescription": "Chuyển đổi hình ảnh của bạn với công cụ Nâng Cấp Ảnh tiên tiến của KomikoAI AI. Công nghệ Cải Thiện Ảnh bằng AI sử dụng Siêu Phân Giải để nâng cấp và cải thiện ảnh của bạn một cách thông minh. Cho dù bạn cần nâng cấp hình ảnh lên 4K, giảm nhiễu hay cải thiện chất lượng hình ảnh, công cụ Cải Thiện Ảnh bằng AI của chúng tôi mang lại kết quả chuyên nghiệp với độ rõ nét và chi tiết vượt trội.",
+    "keywords": "AI Nâng Cấp Ảnh, Cải Thiện Ảnh, Siêu Phân Giải, AI Cải Thiện Ảnh, nâng cấp ảnh 4K, cải thiện chất lượng ảnh, giảm nhiễu, phục hồi ảnh, cải thiện ảnh chuyên nghiệp, nâng cấp bằng máy học"
+  },
+  "title": "Nâng Cấp Ảnh AI",
+  "description": "Chuyển đổi hình ảnh của bạn với công cụ Nâng Cấp Ảnh tiên tiến của KomikoAI AI. Công nghệ Cải Thiện Ảnh bằng AI sử dụng Siêu Phân Giải để nâng cấp và cải thiện ảnh, ảnh anime và nội dung manga của bạn một cách thông minh. Cho dù bạn cần nâng cấp hình ảnh lên 4K, cải thiện các khung hình manhwa, tạo hình nền anime chất lượng cao hay cải thiện chất lượng ảnh nói chung, công cụ Cải Thiện Ảnh bằng AI của chúng tôi mang lại kết quả chuyên nghiệp với độ rõ nét và chi tiết vượt trội.",
+  "inputImage": "Ảnh Đầu Vào",
+  "scaleFactor": "Hệ Số Tỷ Lệ",
+  "imageResults": "Kết Quả Ảnh",
+  "resultsPlaceholder": "Kết quả sẽ được hiển thị ở đây",
+  "whatIsSection": {
+    "title": "Nâng Cấp Ảnh Là Gì",
+    "description": "Nâng Cấp Ảnh là quá trình tăng độ phân giải của một ảnh. Nó cho phép các nghệ sĩ tạo ra những hình ảnh chất lượng cao với nhiều chi tiết và độ rõ nét hơn. AI Nâng Cấp Ảnh là một công cụ cho phép bạn nâng cấp ảnh của mình ngay lập tức bằng AI."
+  },
+  "howToSection": {
+    "title": "Cách Nâng Cấp Ảnh bằng AI Nâng Cấp Ảnh",
+    "description": "Khám phá cách công cụ Nâng Cấp Ảnh của KomikoAI AI sử dụng máy học tiên tiến để cải thiện ảnh của bạn. Công cụ Cải Thiện Ảnh bằng AI của chúng tôi giúp mọi người có thể nâng cấp ảnh chất lượng chuyên nghiệp."
+  },
+  "steps": {
+    "step1": {
+      "title": "Bước 1: Tải Ảnh Lên",
+      "content": "Tải lên bất kỳ ảnh nào bạn muốn cải thiện bằng công cụ AI Nâng Cấp Ảnh của chúng tôi. Chúng tôi hỗ trợ các định dạng JPG, PNG và WebP."
+    },
+    "step2": {
+      "title": "Bước 2: Chọn Hệ Số Tỷ Lệ",
+      "content": "Lựa chọn hệ số nâng cấp mà bạn mong muốn - nâng cao độ phân giải hình ảnh lên đến 10 lần bằng công nghệ Super Resolution."
+    },
+    "step3": {
+      "title": "Bước 3: Xử Lý Ảnh",
+      "content": "Nhấp vào 'Nâng Cấp Ảnh' để bắt đầu quá trình Cải Thiện Ảnh bằng AI."
+    },
+    "step4": {
+      "title": "Bước 4: Tải Kết Quả Xuống",
+      "content": "Tải xuống ảnh đã cải thiện của bạn với chất lượng và độ phân giải được cải thiện!"
+    }
+  },
+  "examples": {
+    "title": "Ví Dụ về AI Nâng Cấp Ảnh",
+    "description": "Xem kết quả Cải Thiện Ảnh bằng AI thực tế do người dùng KomikoAI tạo ra",
+    "inputAlt1": "Ví Dụ Ảnh Đầu Vào",
+    "inputCaption1": "Ví Dụ Ảnh Đầu Vào 1",
+    "outputAlt1": "Ví Dụ Ảnh Đầu Ra",
+    "outputCaption1": "Ảnh Đầu Ra Đã Nâng Cấp 4x 1",
+    "inputAlt2": "Ví Dụ Ảnh Đầu Vào",
+    "inputCaption2": "Ví Dụ Ảnh Đầu Vào 2",
+    "outputAlt2": "Ví Dụ Ảnh Đầu Ra",
+    "outputCaption2": "Ảnh Đầu Ra Đã Nâng Cấp 4x 2",
+    "inputAlt3": "Ví Dụ Ảnh Đầu Vào",
+    "inputCaption3": "Ví Dụ Ảnh Đầu Vào 3",
+    "outputAlt3": "Ví Dụ Ảnh Đầu Ra",
+    "outputCaption3": "Ảnh Đầu Ra Đã Nâng Cấp 4x 3"
+  },
+  "whyChoose": {
+    "title": "Tại Sao Chọn AI Nâng Cấp Ảnh Của Chúng Tôi",
+    "description": "AI Nâng Cấp Ảnh của KomikoAI biến những bức ảnh có độ phân giải thấp của bạn thành những hình ảnh chất lượng cao tuyệt đẹp, hoàn hảo cho cả mục đích sử dụng cá nhân và chuyên nghiệp."
+  },
+  "features": {
+    "feature1": {
+      "title": "Cải Thiện Ảnh bằng AI Nâng Cao",
+      "content": "Công nghệ Cải Thiện Chất Lượng Ảnh của chúng tôi mang lại kết quả vượt trội bằng cách phân tích và cải thiện một cách thông minh mọi chi tiết của ảnh và ảnh anime của bạn."
+    },
+    "feature2": {
+      "title": "Nâng Cấp Anime Chuyên Dụng",
+      "content": "Hoàn hảo để tạo hình nền anime chất lượng cao và nâng cấp các nhân vật anime trong khi vẫn giữ được phong cách nghệ thuật và chi tiết."
+    },
+    "feature3": {
+      "title": "Cải Thiện Manga",
+      "content": "Cải thiện các khung hình manhwa và manga bằng công nghệ Phục Hồi Ảnh AI chuyên dụng của chúng tôi, duy trì các đường nét sắc nét và văn bản rõ ràng."
+    },
+    "feature4": {
+      "title": "Mở Rộng Độ Phân Giải Vượt Trội",
+      "content": "Biến đổi hình ảnh có độ phân giải thấp thành ảnh rõ nét như pha lê với công cụ Phóng To Ảnh AI của chúng tôi, hỗ trợ nâng cấp lên đến 10 lần."
+    },
+    "feature5": {
+      "title": "Giảm Nhiễu Thông Minh",
+      "content": "Công nghệ Phục Hồi Ảnh AI của chúng tôi tự động loại bỏ nhiễu và các tạo tác đồng thời bảo toàn các chi tiết quan trọng."
+    },
+    "feature6": {
+      "title": "Nâng Cấp Ảnh 4K",
+      "content": "Nâng Cấp Ảnh lên chất lượng 4K với các thuật toán Siêu Phân Giải tiên tiến của chúng tôi để có kết quả cấp độ chuyên nghiệp."
+    }
+  },
+  "guide": {
+    "title": "Hướng Dẫn Đầy Đủ về AI Nâng Cấp Ảnh",
+    "description": "Tìm hiểu mọi thứ về cải thiện chất lượng ảnh với công cụ Nâng Cấp Ảnh của KomikoAI AI. Nhận câu trả lời của chuyên gia về công nghệ cải thiện ảnh dựa trên máy học của chúng tôi và cách nó có thể biến đổi ảnh của bạn."
+  },
+  "faq": {
+    "question1": "AI Nâng Cấp Ảnh của KomikoAI là gì?",
+    "answer1": "AI Nâng Cấp Ảnh của KomikoAI là một công cụ Cải Thiện Ảnh tiên tiến sử dụng công nghệ AI tiên tiến để tăng độ phân giải và chất lượng ảnh. Công cụ Cải Thiện Ảnh bằng AI của chúng tôi tự động biến đổi ảnh chất lượng thấp thành ảnh độ phân giải cao, rõ nét như pha lê đồng thời bảo tồn các chi tiết tự nhiên và độ trung thực hình ảnh. Nó đặc biệt hiệu quả để nâng cấp ảnh anime, khung hình manga và tác phẩm nghệ thuật kỹ thuật số.",
+    "question2": "Cải Thiện Ảnh AI của chúng tôi hoạt động như thế nào?",
+    "answer2": "Công cụ Phóng To Ảnh AI của chúng tôi sử dụng các mô hình máy học tiên tiến được đào tạo trên hàng triệu hình ảnh chất lượng cao, bao gồm cả nội dung anime và manga. AI phân tích từng pixel để cải thiện chất lượng ảnh, tăng độ phân giải và cải thiện độ rõ nét tổng thể. Công nghệ Siêu Phân Giải này mang lại kết quả vượt trội so với các phương pháp nâng cấp truyền thống.",
+    "question3": "Những lợi ích của AI Nâng Cấp Ảnh là gì?",
+    "answer3": {
+      "point1": "Biến đổi ảnh có độ phân giải thấp thành hình ảnh 4K rõ nét như pha lê",
+      "point2": "Cải thiện chất lượng ảnh đồng thời duy trì các chi tiết tự nhiên",
+      "point3": "Loại bỏ nhiễu ảnh và các tạo tác nén",
+      "point4": "Nâng cấp ảnh lên đến 10 lần kích thước ban đầu của chúng bằng AI",
+      "point5": "Hoàn hảo để nâng cấp hình nền anime và khung hình manga"
+    },
+    "question4": "Những định dạng hình ảnh nào được hỗ trợ?",
+    "answer4": "AI Nâng Cấp Ảnh của chúng tôi hoạt động với hình ảnh JPG, PNG và WebP. Bạn có thể cải thiện ảnh của mình thành bất kỳ kích thước nào trong khi vẫn duy trì chất lượng bằng công nghệ Cải Thiện Chất Lượng Ảnh của chúng tôi.",
+    "question5": "AI Nâng Cấp Ảnh có được sử dụng miễn phí không?",
+    "answer5": "Bắt đầu cải thiện ảnh của bạn miễn phí với các zaps (tín dụng) miễn phí của KomikoAI. Đối với nhu cầu Cải Thiện Chất Lượng Ảnh chuyên nghiệp, các gói trả phí của chúng tôi cung cấp thêm zaps và quyền truy cập vào đầu ra độ phân giải cao hơn.",
+    "question6": "Tôi nên chọn hệ số nâng cấp nào?",
+    "answer6": "Chọn 2x để cải thiện chất lượng tốt, 4x để có chất lượng cao hoặc các hệ số cao hơn để có độ phân giải tối đa. Công nghệ Phục Hồi Ảnh AI của chúng tôi đảm bảo kết quả tối ưu ở bất kỳ hệ số tỷ lệ nào.",
+    "question7": "Nó hiệu quả như thế nào đối với việc nâng cấp nội dung anime và manga?",
+    "answer7": "AI Nâng Cấp Ảnh của chúng tôi được tối ưu hóa đặc biệt cho việc nâng cấp ảnh anime và cải thiện manga. Cho dù bạn muốn nâng cấp các nhân vật anime, tạo hình nền anime độ phân giải cao hay cải thiện các khung hình manhwa, công nghệ của chúng tôi vẫn giữ được phong cách nghệ thuật độc đáo đồng thời cải thiện chất lượng.",
+    "question8": "Tôi có thể sử dụng nó cho cả ảnh và nội dung anime/manga không?",
+    "answer8": "Có! Công cụ Cải Thiện Ảnh bằng AI của chúng tôi đủ linh hoạt để xử lý cả ảnh thật và nội dung minh họa. Nó có hiệu quả như nhau trong việc nâng cấp ảnh chụp, hình ảnh anime, khung hình manga và nghệ thuật kỹ thuật số đồng thời duy trì các đặc điểm riêng biệt của từng phương tiện.",
+    "question9": "Điều gì làm cho KomikoAI AI khác biệt so với các công cụ nâng cấp khác?",
+    "answer9": "KomikoAI AI kết hợp công nghệ Siêu Phân Giải tiên tiến với quá trình đào tạo chuyên biệt trên cả nội dung nhiếp ảnh và minh họa. Điều này làm cho nó đặc biệt hiệu quả trong việc nâng cấp ảnh anime và manga đồng thời vẫn mang lại kết quả tuyệt vời cho ảnh thông thường.",
+    "question10": "Làm thế nào tôi có thể có được kết quả tốt nhất khi nâng cấp hình ảnh manga hoặc anime?",
+    "answer10": "Để có kết quả tốt nhất khi sử dụng Công cụ Nâng Cấp Ảnh của chúng tôi trên nội dung manga hoặc anime, chúng tôi khuyên bạn nên bắt đầu với hình ảnh nguồn sạch và sử dụng nâng cấp 2x hoặc 4x để bảo toàn chi tiết tối ưu. Công nghệ Phục Hồi Ảnh AI của chúng tôi đặc biệt hiệu quả trong việc duy trì độ rõ nét của đường nét và độ chính xác của màu sắc trong nội dung minh họa."
+  },
+  "deleteModal": {
+    "title": "Xác Nhận Xóa",
+    "message": "Bạn có chắc chắn muốn xóa ảnh này không? Hành động này không thể hoàn tác.",
+    "cancel": "Hủy",
+    "delete": "Xóa"
+  },
+  "toasts": {
+    "deleteSuccess": "Xóa thành công",
+    "deleteFailed": "Xóa thất bại",
+    "downloadFailed": "Tải xuống thất bại",
+    "upscaleSuccess": "Nâng cấp ảnh thành công",
+    "upscaleFailed": "Nâng cấp ảnh thất bại",
+    "noZaps": "Vui lòng mua thêm zaps",
+    "mediaReceived": "Đã nhận phương tiện thành công",
+    "purchaseMoreZaps": "Không đủ zaps, vui lòng mua thêm",
+    "imageTooLarge": "Rất tiếc! Độ phân giải của hình ảnh quá lớn để AI có thể xử lý. Vui lòng thử tải lên một hình ảnh có kích thước nhỏ hơn."
+  },
+  "upscaleImage": "Nâng Cấp Ảnh"
+}

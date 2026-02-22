@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "KomikoAI 블로그 | AI로 만화, 웹툰, 일본 만화, 애니메이션 생성",
+    "description": "AI로 만화, 웹툰, 비주얼 스토리를 생성하세요. 오리지널 캐릭터를 디자인하고 그들과 함께 무한한 스토리 세계를 탐험하세요.",
+    "blog_post": "블로그 글",
+    "keywords": {
+      "general": "AI 만화, 만화책, 애니메이션, 캐릭터 생성, 웹툰, AI 아트, 만화 만들기, 만화책 창작",
+      "base_tags": [
+        "AI",
+        "만화",
+        "만화책",
+        "애니메이션",
+        "캐릭터 생성",
+        "웹툰"
+      ]
+    }
+  },
+  "navigation": {
+    "see_all_posts": "모든 게시물 보기"
+  },
+  "article": {
+    "published_on": "게시일",
+    "min_read": "분 읽기",
+    "view_article": "글 보기"
+  },
+  "sections": {
+    "latest_post": "최신 게시물",
+    "all_posts": "모든 게시물"
+  }
+}

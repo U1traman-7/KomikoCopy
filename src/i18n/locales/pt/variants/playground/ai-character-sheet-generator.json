@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Gerador de Fichas de Personagens com IA",
+      "description": "Crie fichas de personagens únicas a partir das suas fotos, instantaneamente, com o nosso Gerador de Fichas de Personagens com IA! Experimente gratuitamente e liberte a sua criatividade hoje mesmo!",
+      "keywords": "Gerador de Fichas de Personagens com IA, criador de personagens com IA, design de personagens com IA, gerador de anime com IA, gerador de arte digital"
+    },
+    "hero": {
+      "title": "Gerador de Fichas de Personagens com IA"
+    },
+    "whatIs": {
+      "title": "O que é o Gerador de Fichas de Personagens com IA?",
+      "description": "O Gerador de Fichas de Personagens com IA é uma ferramenta avançada que transforma as suas fotos em fichas de personagens imaginativas. Ao aplicar estilos artísticos únicos e utilizar algoritmos sofisticados, realça as características do seu personagem, auxiliando na criação de histórias, jogos e artes visuais."
+    },
+    "examples": {
+      "title": "Exemplos do Gerador de Fichas de Personagens com IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como Usar o Gerador de Ficha de Personagem com IA",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a Sua Foto",
+          "content": "Envie uma foto de alta qualidade que pretende transformar. Utilize a nossa funcionalidade simples de arrastar e soltar ou clique no botão de envio."
+        },
+        {
+          "title": "Passo 2: Selecione o Modelo de Ficha de Personagem",
+          "content": "Selecione o modelo de Ficha de Personagem para transformar a sua foto com o estilo pretendido."
+        },
+        {
+          "title": "Passo 3: Converter para Ficha de Personagem",
+          "content": "Clique em 'Converter para Ficha de Personagem'. A nossa IA processa a sua imagem e aplica o estilo selecionado, aprimorando as características principais para um resultado impressionante."
+        },
+        {
+          "title": "Passo 4: Descarregue e Partilhe a Sua Criação",
+          "content": "Após a geração, descarregue a sua ficha de personagem e partilhe-a da forma que desejar: nas redes sociais, em mostras de arte ou em projetos pessoais!"
+        }
+      ],
+      "subtitle": "Crie fichas de personagens impressionantes em pouco tempo com os nossos passos simples."
+    },
+    "benefits": {
+      "title": "Por que Usar o Gerador de Ficha de Personagem com IA?",
+      "description": "Descubra as funcionalidades que destacam o nosso gerador para criadores.",
+      "features": [
+        {
+          "title": "🌟 Criações de Personagens Únicas",
+          "content": "Transforme as suas fotos em fichas de personagens extraordinárias e únicas, ideais para histórias, jogos ou como arte independente."
+        },
+        {
+          "title": "⚡ Rápido e Simples",
+          "content": "Gere as suas fichas de personagens em instantes — a velocidade da nossa IA permite iterações de design rápidas."
+        },
+        {
+          "title": "🖥️ Experiência de Utilizador Intuitiva",
+          "content": "Criado para criadores de todos os níveis de habilidade, a nossa interface direta permite que se concentre nos seus designs sem complicações."
+        },
+        {
+          "title": "📊 Escolhas de Estilo Versáteis",
+          "content": "Explore os nossos diversos modelos que atendem a vários géneros artísticos, garantindo que as suas criações correspondam à sua visão."
+        },
+        {
+          "title": "💬 Interaja com uma Comunidade Criativa",
+          "content": "Junte-se a uma comunidade vibrante de criadores. Partilhe as suas fichas de personagens, inspire-se e impulsione a sua jornada artística."
+        },
+        {
+          "title": "🚀 Perfeito para Cada Projeto",
+          "content": "Ideal para projetos profissionais, pessoais ou de fantasia, o Gerador de Fichas de Personagens com IA apoia cada empreendimento criativo."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Gerador de Fichas de Personagens com IA FAQ",
+      "description": "",
+      "q1": "Como funciona o Gerador de Fichas de Personagens com IA?",
+      "a1": "A nossa tecnologia de IA utiliza algoritmos sofisticados para converter fotos em fichas de personagens complexas, aprimorando as características e mantendo a essência do personagem.",
+      "q2": "Como posso obter os melhores resultados com o Gerador de Fichas de Personagens com IA?",
+      "a2": "Utilize imagens de alta resolução e escolha estilos que correspondam ao conceito do seu personagem. Não hesite em experimentar para obter designs ideais.",
+      "q3": "O Gerador de Fichas de Personagens com IA é gratuito?",
+      "a3": "Sim! As funcionalidades básicas estão disponíveis gratuitamente, com estilos e funcionalidades premium opcionais para utilizadores avançados.",
+      "q4": "O que distingue o Gerador de Fichas de Personagens com IA de outras ferramentas?",
+      "a4": "O nosso foco na criação de fichas de personagens únicas, juntamente com uma experiência de utilizador intuitiva e estilos variados, destaca-nos no mundo da arte digital.",
+      "q5": "Posso utilizar fichas de personagens geradas comercialmente?",
+      "a5": "Absolutamente! Pode utilizar as suas fichas de personagens geradas por IA para projetos comerciais, desde que os termos de utilização sejam revistos."
+    },
+    "cta": {
+      "title": "Comece a Criar Arte de Personagens com o Gerador de Fichas de Personagens com IA Hoje!",
+      "description": "Mergulhe no processo criativo e crie personagens notáveis com o nosso Gerador de Fichas de Personagens com IA. A sua aventura começa aqui!",
+      "buttonText": "Transforme para Ficha de Personagem com IA Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into an AI Character Sheet",
+  "originalKeyword": "AI Character Sheet Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style:   Character Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Character Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Character Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Character Sheet"
+    }
+  ]
+}

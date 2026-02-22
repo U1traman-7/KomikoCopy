@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 風格轉換",
+      "description": "立即使用我們的 AI 風格轉換工具，將您的圖像轉變為獨一無二的藝術作品。今天就開始創造令人驚豔的藝術！免費試用。",
+      "keywords": "AI 風格轉換, AI 藝術生成器, 照片轉藝術, 藝術照片轉換, AI 圖像增強"
+    },
+    "hero": {
+      "title": "AI 風格轉換"
+    },
+    "whatIs": {
+      "title": "什麼是 AI 風格轉換？",
+      "description": "AI 風格轉換運用先進的機器學習技術，分析您的照片並應用各種藝術風格。無論是經典油畫或充滿活力的數位藝術，都能讓您的圖像轉變為引人入勝的藝術演繹，並可根據您的願景和品味進行客製化調整。"
+    },
+    "examples": {
+      "title": "AI 風格轉換範例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用 AI 風格轉換",
+      "steps": [
+        {
+          "title": "步驟 1：上傳您的照片",
+          "content": "選擇您欲轉換的高解析度照片。點擊上傳按鈕，從您的裝置中選擇圖像。"
+        },
+        {
+          "title": "步驟 2：選擇一種藝術風格",
+          "content": "瀏覽由 AI 生成、豐富多樣的藝術風格圖庫，從印象派到現代向量風格應有盡有。選擇與您的藝術願景產生共鳴的風格。"
+        },
+        {
+          "title": "步驟 3：生成您的藝術作品",
+          "content": "點擊「轉換」按鈕，即可即時觀看您的照片在短時間內完成轉換！"
+        },
+        {
+          "title": "步驟 4：下載並分享",
+          "content": "在網路上發布您嶄新的藝術作品、與親友分享，或運用於您的專案中。只需輕輕一點，即可下載您的傑作。"
+        }
+      ],
+      "subtitle": "一份將圖像無縫轉換的簡易指南。"
+    },
+    "benefits": {
+      "title": "為何使用 AI 風格轉換？",
+      "description": "探索藝術轉換的獨特優勢。",
+      "features": [
+        {
+          "title": "🎨 多樣化的藝術風格",
+          "content": "從精選的藝術風格中進行選擇，確保每次轉換都具有獨特的個人風格。"
+        },
+        {
+          "title": "⚡ 快速且容易上手",
+          "content": "透過專為各種技能程度的使用者設計的介面，體驗快速轉換的便利性。"
+        },
+        {
+          "title": "🖼️ 高解析度輸出",
+          "content": "維持原始檔案的品質，並提供適合列印的高品質輸出。"
+        },
+        {
+          "title": "💫 釋放您的創造力",
+          "content": "鼓勵藝術探索，並拓展您攝影作品的無限可能。"
+        },
+        {
+          "title": "🎯 無縫可及性",
+          "content": "隨時隨地創作藝術作品，不受地點限制，非常適合隨心所欲地揮灑創意。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 風格轉換 FAQ",
+      "description": "",
+      "q1": "什麼是 AI 風格轉換，其運作原理為何？",
+      "a1": "AI 風格轉換採用複雜的演算法來分析您的照片並應用藝術特徵，將兩者融合以創建與所選風格產生共鳴的全新藝術作品。",
+      "q2": "如何使用 AI 風格轉換獲得最佳效果？",
+      "a2": "為了獲得最佳效果，請使用焦點清晰的圖像，並嘗試不同的風格以找到您理想的美學風格。",
+      "q3": "使用 AI 風格轉換是否免費？",
+      "a3": "是的，我們的基本功能是免費的！探索高級選項以取得更進階的風格。",
+      "q4": "AI 風格轉換與一般濾鏡有何不同？",
+      "a4": "AI 風格轉換利用深度學習來重新創建細緻的藝術風格，提供獨特性和深度，而不僅僅是簡單的顏色濾鏡。",
+      "q5": "我可以將我的 AI 風格轉換作品用於商業用途嗎？",
+      "a5": "是的，轉換後的圖像可供商業使用，但我們建議您詳閱我們關於衍生作品的條款。"
+    },
+    "cta": {
+      "title": "立即創作您的 AI 風格轉換藝術作品",
+      "description": "沉浸於充滿創造力的世界，並使用我們的 AI 風格轉換工具將您的照片轉變為令人驚豔的藝術作品。立即展開您的藝術之旅！",
+      "buttonText": "免費試用 AI 風格轉換"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique AI artwork",
+  "originalKeyword": "AI Style Transfer",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Korean Manhwa"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Cyberpunk"
+    }
+  ]
+}

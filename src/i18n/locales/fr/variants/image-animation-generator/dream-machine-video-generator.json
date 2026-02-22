@@ -1,0 +1,134 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Générateur Vidéo Dream Machine - KomikoAI",
+      "description": "Créez instantanément des vidéos de haute qualité impressionnantes, générées par l'IA, grâce à Dream Machine Video Generator. Découvrez une production vidéo rapide et réaliste à partir de texte ou d'images, avec une qualité cinématographique.",
+      "keywords": "Générateur vidéo Dream Machine, création vidéo IA, IA texte-vers-vidéo, IA image-vers-vidéo, vidéo IA cinématographique, production vidéo IA, fonctionnalités du générateur vidéo IA, vidéos IA réalistes"
+    },
+    "hero": {
+      "title": "Générateur Vidéo Dream Machine",
+      "description": "Transformez vos idées en vidéos cinématographiques époustouflantes grâce à une technologie d'IA avancée. Générez des vidéos réalistes et de haute qualité à partir d'invites textuelles ou d'images en quelques minutes, sans compétences techniques."
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que Dream Machine Video Generator ?",
+      "description": "Dream Machine Video Generator est un outil de pointe alimenté par l'IA, développé par Luma Labs, conçu pour créer des vidéos ultra-réalistes à partir de descriptions textuelles ou d'images statiques. S'appuyant sur des modèles d'apprentissage profond spatio-temporels avancés, il simule la physique du mouvement naturel et maintient la cohérence des détails des personnages tout au long des séquences vidéo. Cet outil offre des durées de vidéo personnalisables, des résolutions allant jusqu'à la 4K Ultra HD et des proportions flexibles, ce qui le rend idéal pour les créateurs souhaitant produire rapidement des clips de qualité professionnelle sans logiciel de montage complexe."
+    },
+    "examples": {
+      "title": "Exemples d'utilisation de Dream Machine Video Generator",
+      "description": "Explorez divers clips vidéo générés par l'IA, allant de scènes de faune cinématographiques à la vie urbaine et aux récits fantastiques. Découvrez comment de simples invites textuelles ou images sont transformées en vidéos fluides et dynamiques, parfaites pour les médias sociaux, les présentations ou la narration personnelle."
+    },
+    "howToUse": {
+      "title": "Comment utiliser Dream Machine Video Generator",
+      "steps": [
+        {
+          "title": "Téléchargez votre image",
+          "content": "Commencez par télécharger une image statique que vous souhaitez animer. Cette image servira de base à votre vidéo générée par l'IA."
+        },
+        {
+          "title": "Saisissez votre invite",
+          "content": "Tapez une description textuelle détaillée de la scène, du mouvement ou du style que vous souhaitez voir représentés dans la vidéo. L'IA comprend le langage naturel et utilisera votre invite pour guider l'animation."
+        },
+        {
+          "title": "Générez votre vidéo",
+          "content": "Cliquez sur le bouton \"Générer l'animation\" pour lancer le processus de création vidéo. L'IA analysera votre entrée, appliquera une physique de mouvement réaliste et produira une séquence vidéo fluide en quelques minutes."
+        },
+        {
+          "title": "Téléchargez et partagez",
+          "content": "Une fois terminée, téléchargez votre vidéo de haute qualité dans plusieurs formats ou partagez-la directement sur les médias sociaux et d'autres plateformes pour présenter votre vision créative."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi utiliser Dream Machine Video Generator ?",
+      "description": "Découvrez comment Dream Machine Video Generator peut améliorer votre flux de travail de création vidéo grâce à la vitesse, la qualité et la créativité basées sur l'IA.",
+      "features": [
+        {
+          "title": "Génération vidéo réaliste basée sur l'IA",
+          "content": "Utilise une modélisation spatio-temporelle de pointe pour simuler un mouvement naturel et une physique réaliste, garantissant une haute fidélité et une sortie vidéo fluide.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Génération image-vers-vidéo",
+          "content": "Créez des vidéos en téléchargeant des images statiques. L'IA anime votre image en une vidéo cinématographique - aucune invite textuelle n'est requise.",
+          "icon": "🖼️"
+        },
+        {
+          "title": "Spécifications vidéo personnalisables",
+          "content": "Contrôlez la durée de la vidéo, la résolution jusqu'à la 4K, les proportions et les angles de caméra afin d'adapter les sorties à diverses plateformes et besoins professionnels.",
+          "icon": "⚙️"
+        },
+        {
+          "title": "Production vidéo rapide",
+          "content": "Génère jusqu'à 120 images en environ 2 minutes, ce qui réduit considérablement le temps de production par rapport aux méthodes d'animation traditionnelles.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Maintien de la cohérence du personnage et de la scène",
+          "content": "Préserve les traits du visage, les détails des vêtements et la continuité globale de la scène tout au long de la vidéo, afin de garantir des résultats professionnels.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Plateforme mondiale accessible",
+          "content": "Disponible dans le monde entier avec une assistance multilingue, permettant aux créateurs du monde entier de produire du contenu facilement et efficacement.",
+          "icon": "🌍"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Guide d'expert du Dream Machine Video Generator",
+      "description": "Réponses aux questions courantes concernant la création vidéo IA avec Dream Machine.",
+      "q1": "Qu'est-ce que Dream Machine Video Generator ?",
+      "a1": "Dream Machine Video Generator est un outil d'IA sophistiqué qui crée de courtes vidéos de haute qualité à partir de descriptions textuelles ou d'images statiques. Il utilise des modèles d'apprentissage profond avancés pour un mouvement réaliste et un rendu de scène cohérent.",
+      "q2": "Comment Dream Machine gère-t-il les invites textuelles et les images ?",
+      "a2": "L'IA interprète les invites en langage naturel et traite les images téléchargées afin de générer des vidéos en simulant la physique du monde réel, en maintenant l'intégrité des personnages et en produisant des effets cinématographiques fluides.",
+      "q3": "Quelles sont les limitations des vidéos Dream Machine ?",
+      "a3": "Les vidéos sont limitées à environ 10 secondes et à une résolution maximale de 4K. L'outil ne prend actuellement pas en charge la création de vidéos de longue durée ou le montage de clips vidéo, se concentrant sur le contenu de courte durée.",
+      "q4": "Les vidéos Dream Machine peuvent-elles être utilisées à des fins commerciales ?",
+      "a4": "Oui, les vidéos générées peuvent être utilisées à des fins personnelles et commerciales. Les utilisateurs doivent consulter les conditions d'utilisation de la plateforme pour connaître les détails spécifiques de la licence.",
+      "q5": "Quels formats d'entrée sont pris en charge ?",
+      "a5": "Dream Machine accepte les formats d'image courants tels que JPG et PNG pour la génération image-vers-vidéo et prend en charge la saisie de texte détaillée pour la création texte-vers-vidéo.",
+      "q6": "Une expertise technique est-elle requise pour utiliser l'outil ?",
+      "a6": "Aucune compétence technique n'est requise. L'interface intuitive permet à quiconque de créer des vidéos professionnelles en fournissant simplement des images ou des invites descriptives.",
+      "q7": "À quelle vitesse les vidéos peuvent-elles être générées ?",
+      "a7": "En règle générale, les vidéos sont générées en moins de 2 à 3 minutes pour un maximum de 120 images, ce qui permet une exécution rapide des projets créatifs.",
+      "q8": "Qu'est-ce qui différencie Dream Machine des autres générateurs vidéo IA ?",
+      "a8": "Sa capacité à maintenir la cohérence des personnages, une physique de mouvement réaliste, un travail de caméra cinématographique personnalisable et une sortie vidéo 4K le distinguent comme un outil vidéo IA de pointe."
+    }
+  },
+  "originalKeyword": "Dream Machine Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modèle : Ray2",
+      "description": "Prompt: Camera turn with beautiful lighting.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_08.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Modèle : Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Modèle : Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 6,
+      "title": "Modèle : Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

@@ -1,0 +1,489 @@
+{
+  "ui": {
+    "title": "AIアニメーションジェネレーター",
+    "tooltip": "静止画像をAIの力で魅力的なアニメーションに変換できます",
+    "input": {
+      "title": "入力",
+      "tooltip": "アニメーションにしたい画像をアップロードしてください",
+      "prompt": {
+        "label": "プロンプト",
+        "placeholder": "どのような動きのアニメーションにしたいか説明してください…"
+      },
+      "model": {
+        "label": "AIモデル",
+        "placeholder": "モデルを選択",
+        "ariaLabel": "アニメーションモデルを選択"
+      },
+      "aspectRatio": {
+        "label": "アスペクト比",
+        "placeholder": "アスペクト比を選択"
+      },
+      "ratio": "比率",
+      "duration": {
+        "label": "再生時間",
+        "placeholder": "再生時間を選択",
+        "sections": "{{sections}}秒"
+      },
+      "style": {
+        "label": "スタイル",
+        "placeholder": "スタイルを選択",
+        "anime": "アニメ",
+        "default": "デフォルト"
+      },
+      "resolution": {
+        "label": "解像度",
+        "placeholder": "解像度を選択"
+      },
+      "addEndFrame": "エンドフレームを追加",
+      "startFrame": "スタートフレーム",
+      "endFrame": "エンドフレーム",
+      "image": {
+        "title": "画像",
+        "description": "最大10MBまでの JPG / PNG / WEBP 画像に対応（最小サイズ 300px × 300px）。",
+        "label": {
+          "required": "参考画像を追加（必須）",
+          "optional": "参考画像を追加（任意）",
+          "image": "画像をアップロード（任意）",
+          "imageRequired": "画像をアップロードしてください",
+          "more": "参考画像を追加（任意）",
+          "endFrame": "エンドフレームを追加（任意）",
+          "firstFrame": "ファーストフレーム"
+        }
+      },
+      "config": "追加情報",
+      "addOC": "キャラクターを追加",
+      "singleOCOnly": "1つのキャラクターのみ使用できます。複数キャラの場合は Vidu Q1 をご利用ください。",
+      "maxOCsReached": "最大 {{max}} キャラクターまで使用できます。複数キャラ対応は Vidu Q1 のみサポートされています。"
+    },
+    "output": {
+      "title": "アニメーション結果",
+      "empty": {
+        "line1": "ここにアニメーション結果が表示されます",
+        "line2": "画像をアップロードして、プロンプトを入力してみましょう"
+      }
+    },
+    "deleteModal": {
+      "title": "削除の確認",
+      "message": "このアニメーションを本当に削除しますか？ この操作は取り消せません。",
+      "cancelButton": "キャンセル",
+      "deleteButton": "削除"
+    },
+    "toasts": {
+      "deleteSuccess": "削除に成功しました",
+      "deleteFailed": "削除に失敗しました",
+      "generateSuccess": "アニメーションの生成に成功しました",
+      "generateFailed": "アニメーションの生成に失敗しました",
+      "downloadFailed": "ダウンロードに失敗しました",
+      "fetchFailed": "動画の取得に失敗しました",
+      "noZaps": "Zaps を追加購入してください",
+      "generatingSticker": "ステッカーを生成中…",
+      "stickerGenerated": "ステッカーを生成しました",
+      "stickerGeneratedFailed": "ステッカーの生成に失敗しました",
+      "generatingStickerFailed": "ステッカー生成中にエラーが発生しました",
+      "imageTooSmall": "画像が小さすぎます。最低サイズは240x240ピクセルです。"
+    },
+    "modelOptions": {
+      "wan_pro": {
+        "name": "Wan Pro",
+        "description": "非常に高い画質と豊富なモーションバリエーション",
+        "timeCost": "約5分",
+        "fps": "30fps"
+      },
+      "ray_flash_v2": {
+        "name": "Luma Ray Flash 2",
+        "description": "リアルなビジュアル向けの大規模モデル",
+        "timeCost": "約30秒",
+        "fps": "24fps"
+      },
+      "kling": {
+        "name": "Kling 1.6",
+        "description": "より自然でリアルな動き",
+        "timeCost": "約2分",
+        "fps": "30fps"
+      },
+      "minimax": {
+        "name": "Hailuo 02",
+        "description": "高精細で情報量の多い映像を出力",
+        "timeCost": "約3分",
+        "fps": "25fps"
+      },
+      "ray": {
+        "name": "Luma Ray 2",
+        "description": "リアル志向の大規模ビジュアルモデル",
+        "timeCost": "約2分",
+        "fps": "24fps"
+      },
+      "pixverse": {
+        "name": "PixVerse v3.5",
+        "description": "モーションと一貫性がさらに向上",
+        "timeCost": "約2分",
+        "fps": "30fps"
+      },
+      "veo": {
+        "name": "Veo3 (Google)",
+        "description": "最高レベルの動画クオリティ",
+        "timeCost": "約1分",
+        "fps": "24fps"
+      },
+      "wan": {
+        "name": "Wan 2.6",
+        "description": "高品質なビデオと多様な動きを実現",
+        "timeCost": "1分",
+        "fps": "24fps"
+      },
+      "kling_v2": {
+        "name": "Kling 2.1",
+        "description": "よりリアルな動きと超高画質",
+        "timeCost": "約2分",
+        "fps": "30fps"
+      },
+      "frame_pack": {
+        "name": "FramePack",
+        "description": "自己回帰的に動画を生成",
+        "timeCost": "約1分",
+        "fps": "30fps"
+      },
+      "anisora": {
+        "name": "AniSora",
+        "description": "オープンソースのアニメ動画生成モデル",
+        "timeCost": "約1分",
+        "fps": "30fps"
+      },
+      "vidu": {
+        "name": "Vidu Q1",
+        "description": "一貫性の高いスムーズな2Dアニメ表現",
+        "timeCost": "約1分",
+        "fps": "24fps"
+      },
+      "magi_1": {
+        "name": "Magi-1",
+        "description": "物理的な動きとシネマティックな構図の理解に優れたモデル",
+        "timeCost": "約2分",
+        "fps": "24 fps"
+      },
+      "vidu_base": {
+        "name": "Komiko Anime",
+        "description": "コスパに優れたアニメーション生成モデル",
+        "timeCost": "約1分",
+        "fps": "24fps"
+      },
+      "mj_video": {
+        "name": "Anime Pro",
+        "description": "アニメ・アニメーション生成に最適なモデル",
+        "timeCost": "約1分",
+        "fps": "24fps"
+      },
+      "seedance": {
+        "name": "Seedance 1.5 Pro",
+        "description": "世界初のマルチショット動画生成モデル",
+        "timeCost": "約1分",
+        "fps": "24fps"
+      },
+      "sora": {
+        "name": "Sora 2",
+        "description": "音声付きのマルチショット動画生成に対応したモデル",
+        "timeCost": "約1分",
+        "fps": "30fps"
+      },
+      "sora_pro": {
+        "name": "Sora 2 Pro",
+        "description": "音声付きの高品質マルチショット動画生成モデル",
+        "timeCost": "約1分",
+        "fps": "30fps"
+      },
+      "sora_stable": {
+        "name": "Sora 2 Stable",
+        "description": "安定した音声付きのマルチショット動画を生成します。",
+        "timeCost": "1分",
+        "fps": "30fps"
+      },
+      "sora_pro_stable": {
+        "name": "Sora 2 Pro Stable",
+        "description": "安定した高品質の音声付き動画を生成します。",
+        "timeCost": "1分",
+        "fps": "30fps"
+      },
+      "vidu_q2": {
+        "name": "Vidu Q2",
+        "description": "超高速で非常に安定した、画像からビデオへのアニメーション",
+        "timeCost": "約1分",
+        "fps": "24fps"
+      },
+      "vidu_q2_pro": {
+        "name": "Vidu Q2 Pro",
+        "description": "詳細が強化され、より高度な動きを可能にするプロフェッショナル版",
+        "timeCost": "約1分",
+        "fps": "24fps"
+      },
+      "wan_22_turbo": {
+        "name": "Wan 2.2 ターボ",
+        "description": "高品質と優れたコストパフォーマンス",
+        "timeCost": "1分",
+        "fps": "24fps"
+      }
+    },
+    "buttons": {
+      "generateAnimation": "アニメーションを生成",
+      "seconds5": "5秒",
+      "seconds8": "8秒",
+      "seconds10": "10秒",
+      "default": "デフォルト",
+      "anime": "アニメ",
+      "square": "1:1（正方形）",
+      "landscape": "16:9（横長）",
+      "portrait": "9:16（縦長）"
+    },
+    "resolutions": {
+      "360p": "360p",
+      "540p": "540p",
+      "720p": "720p",
+      "1080p": "1080p"
+    },
+    "styleModes": {
+      "effect": "エフェクト",
+      "prompt": "プロンプト",
+      "motion": "モーション",
+      "dance": "ダンス",
+      "templates": "テンプレート"
+    },
+    "characterName": "キャラクター名",
+    "characterNamePlaceholder": "キャラクター名を入力…",
+    "importFromCharacter": "キャラクターをインポート",
+    "audio": {
+      "label": "音声（任意：MP3/WAV・3〜30秒・15MB以下）",
+      "upload": "アップロード",
+      "record": "録音",
+      "invalidFormat": "対応していない音声形式です。MP3 または WAV を使用してください。",
+      "missing": "MP3 または WAV 形式の音声ファイルをアップロードしてください。",
+      "durationRange": "音声の長さは3〜30秒の範囲である必要があります。",
+      "processFailed": "音声ファイルの処理に失敗しました。"
+    },
+    "characterProfileOptional": "キャラクタープロフィール（任意）",
+    "characterProfilePlaceholder": "キャラクター名、性格、テーマ、その他詳しい情報を入力してください",
+    "bankaiEffectTitle": "望む卍解の効果",
+    "bankaiEffectPlaceholder": "卍解の変身に関する効果や能力、視覚的変化を説明してください。",
+    "sec": "秒",
+    "multiShots": {
+      "label": "マルチショット",
+      "tooltip": "有効にすると、より良いストーリーテリングのためにビデオを複数のショットに賢く分割します。"
+    },
+    "cameraFixed": {
+      "label": "固定カメラ",
+      "tooltip": "動画中にカメラの位置を固定します"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "AIアニメーションジェネレーター - KomikoAI",
+      "description": "静止画像を魅力的なアニメーション動画に変換できるAIアニメーションジェネレーター。アニメ・マンガ・コミック風の動画を手軽に生成。高度なAIアニメーション技術で、あなたのイラストに数分で動きを追加できます。",
+      "keywords": "AIアニメーションジェネレーター, AIアニメジェネレーター, AI動画アニメーション, 画像からアニメーション, アニメーション生成, マンガアニメーション, コミックアニメーション, AIアニメツール, 画像から動画生成, AI動画ジェネレーター, アニメーション動画メーカー"
+    },
+    "hero": {
+      "title": "AIアニメーションジェネレーター",
+      "description": "静止画像を、パワフルなAIアニメーションジェネレーターで魅力的なアニメーションに変換しよう。アニメ・マンガ・コミック風の動画を、難しい設定なしで簡単生成。高度なAIアニメーション技術がイラストを解析し、数分でプロ級のダイナミックな動画に仕上げます。"
+    },
+    "whatIs": {
+      "title": "AIアニメーションジェネレーターとは？",
+      "description": "AIアニメーションジェネレーターは、静止画から自動でアニメーションを作成するスマートツールです。高度なディープラーニングを使ってアニメ・マンガ・コミックイラストを解析し、キャラクターやシーンに自然な動きを加えてくれます。専門的なスキルやアニメーション経験がなくても、誰でもプロ品質のアニメーションを作成できます。"
+    },
+    "examples": {
+      "title": "AIアニメーションジェネレーターの作例",
+      "description": "AIアニメーションジェネレーターのパワーを、実際のサンプル動画でチェックしてみましょう。静止画がどのようにダイナミックで魅力的なアニメーション動画に生まれ変わるかを見ることができます。",
+      "inputAlt": "入力画像の例",
+      "inputLabel": "入力画像",
+      "outputLabel": "アニメーション結果",
+      "videoNotSupported": "お使いのブラウザは video タグに対応していません。",
+      "example1": {
+        "details": "モデル：Veo｜プロンプト：『少女が踊りながら歌っている』"
+      },
+      "example2": {
+        "details": "モデル：Minimax｜プロンプト：『男性が怒った様子で話している』"
+      },
+      "example3": {
+        "details": "モデル：Ray｜プロンプト：『少女が悲しそうに話している』"
+      },
+      "example4": {
+        "details": "モデル：Kling｜プロンプト：『少女が穏やかな表情でひとりごとを話している』"
+      },
+      "example5": {
+        "details": "モデル：Anime Pro｜プロンプト：『アニメ風のバトルシーン。光る剣を持つ若い戦士が、光る目と鋭い牙を持つ巨大な悪魔のようなモンスターと激突する。スピード感のある剣戟、飛び散る火花、迫力のあるクローズアップ。最後は主人公がモンスターを一撃で倒すドラマチックなフィニッシュ。暗い背景、シネマティックなライティング、舞い散る光の粒子。』"
+      },
+      "example6": {
+        "details": "モデル：Anime Pro｜プロンプト：『アニメの少年が突然銃を抜き、閃光とともに発砲する。険しい表情、ドラマチックなカメラアングル。その直後に振り返って通りを駆け抜けていく。』"
+      },
+      "example7": {
+        "details": "モデル：Anime Pro｜プロンプト：『夜のネオンに照らされた路地を、アニメの少女がスケートで高速で駆け抜ける。鋭く曲がるターン、風でなびく髪、背後からのカメラ追従。濡れた路面に光る看板が反射し、細い路地を次々と通り過ぎていく。』"
+      },
+      "example8": {
+        "details": "モデル：Anime Pro｜プロンプト：『アニメスタイルのバトルシーン。光る剣を持った若い戦士が、光る目と鋭い牙を持つ巨大な悪魔モンスターと戦う。スピード感のある剣戟、飛び散る火花、激しいクローズアップ。ラストは主人公がモンスターを一撃で倒すクライマックス。暗い背景、シネマティックな照明、輝くパーティクル。』"
+      }
+    },
+    "howToUse": {
+      "title": "AIアニメーションジェネレーターの使い方",
+      "steps": [
+        {
+          "title": "画像をアップロード",
+          "content": "まず、アニメーションにしたい画像をアップロードします。アニメキャラ、マンガのコマ、コミックイラストなど、どんな静止画でもOKです。"
+        },
+        {
+          "title": "プロンプトを入力",
+          "content": "どんな動きにしたいかをプロンプトで指定します。キャラクターの動き、表情、カメラワークなど、AIにやってほしいことを詳しく書きましょう。"
+        },
+        {
+          "title": "アニメーションを生成",
+          "content": "「アニメーションを生成」ボタンをクリックすると、AIが自動で処理を開始します。静止画があっという間に動きのある動画に変わっていきます。"
+        },
+        {
+          "title": "ダウンロード＆シェア",
+          "content": "生成されたAIアニメーションをダウンロードして、SNSやYouTube、個人プロジェクトなどでシェアしましょう。作品づくりの幅が一気に広がります。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "AIアニメーションジェネレーターを使う理由",
+      "description": "なぜ KomikoAI のAIアニメーションジェネレーターが、アニメ・マンガ・コミック制作にぴったりなのか。その魅力とメリットをチェックしてみましょう。",
+      "features": [
+        {
+          "title": "高度なAIアニメーション技術",
+          "content": "最先端のディープラーニングモデルを使用し、プロレベルのアニメーションを自動生成。画像を解析して、滑らかで自然な動きをつくり出します。",
+          "icon": "🤖"
+        },
+        {
+          "title": "プロ品質のアニメーションを即座に作成",
+          "content": "静止画から、SNS・YouTube・プレゼン・創作プロジェクトに使える本格的なアニメーション動画を一気に生成。スタジオクオリティの仕上がりを目指せます。",
+          "icon": "🎬"
+        },
+        {
+          "title": "誰でも使える簡単操作",
+          "content": "アニメーション制作の経験がなくても大丈夫。画像をアップロードして、プロンプトを書いて、ボタンを押すだけ。あとはAIがいい感じに動かしてくれます。",
+          "icon": "👌"
+        },
+        {
+          "title": "制作時間を大幅短縮",
+          "content": "従来は何時間もかかったアニメーション制作が、AIなら数分で完了。手作業と比べて、最大90％の制作時間を短縮できます。",
+          "icon": "⚡"
+        },
+        {
+          "title": "プロユースにも耐えるクオリティ",
+          "content": "滑らかな動き、自然なモーション、一貫したフレームレートで、クオリティの高いアニメーションを出力。商用案件やプロジェクトでも活用できます。",
+          "icon": "✨"
+        },
+        {
+          "title": "表現の可能性が無限に広がる",
+          "content": "激しいバトルシーンからしっとりした感情表現まで、あなたのイメージをAIがしっかりサポート。技術的な部分はAIに任せて、クリエイティブに集中できます。",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AIアニメーションジェネレーターFAQ - よくある質問",
+      "description": "AIアニメーションジェネレーターの使い方や、どんなことができるのかをQ&A形式でわかりやすく解説します。",
+      "q1": "AIアニメーションジェネレーターとは何ですか？",
+      "a1": "AIアニメーションジェネレーターは、静止画像をダイナミックなアニメーション動画に変換するAIツールです。高度なディープラーニング技術により、イラストを解析し、自然な動きや表情を自動で生成します。アニメ・マンガ・コミック向けのコンテンツ制作に最適です。",
+      "q2": "AIアニメーションジェネレーターの使い方を教えてください。",
+      "a2": "使い方はとてもシンプルです。まず、アニメーションにしたい静止画（アニメイラストやマンガのコマなど）をアップロードします。次に、どのような動き・表情・アクションにしたいか、プロンプトで具体的に指示します。その後「アニメーションを生成」ボタンを押すと、AIが自動で動画を作成します。最後に、生成された動画をダウンロードして、SNSやYouTubeなどにシェアできます。",
+      "q3": "AIアニメーションジェネレーターはどのように動作しますか？",
+      "a3": "AIアニメーションジェネレーターは、画像内のキャラクターや構図を解析し、ディープラーニングモデルを使って中間フレームを自動生成します。プロンプトに書かれた内容（動き・表情・カメラアングルなど）を考慮しながら、静止画から滑らかなモーションを生み出し、まるで最初から動画だったかのようなアニメーションを作成します。",
+      "q4": "一番おすすめのAIアニメーションジェネレーターはどれですか？",
+      "a4": "KomikoAIは、クリエイター向けに最適化されたAIアニメーションジェネレーターを提供しています。プロ品質の結果、直感的で楽しいカスタマイズ機能、そして使いやすいワークフローを目指して設計されており、無料で試すことができます。アニメ・マンガ・コミック画像をリアルな動きのある動画に変換し、SNSやYouTube向けのコンテンツも簡単に制作できます。複数の高度なAIモデルを使い分けられるため、専門的なスキルや高価なソフトなしで、本格アニメーション制作を体験できます。",
+      "q5": "KomikoAIのAIアニメーションジェネレーターは無料で使えますか？",
+      "a5": "はい、KomikoAIではAIアニメーションジェネレーターを無料でお試しいただけます。サブスクリプションに登録しなくても、まずはツールの使い心地を体験できます。",
+      "q6": "AIアニメーションジェネレーターで何ができますか？",
+      "a6": "KomikoAIのAIアニメーションジェネレーターを使うと、動きのあるアニメキャラ動画の作成、マンガのコマをつなげたストーリーアニメーション、コミックイラストにアクションや感情表現を追加、SNS向けの目を引くショート動画制作、YouTube用の映像やプロモーション動画、ゲームや物語用のキャラアニメーション、プレゼン資料用の動くビジュアルなど、さまざまな用途に活用できます。",
+      "q7": "スマホからもAIアニメーションジェネレーターを使えますか？",
+      "a7": "はい、AIアニメーションジェネレーターはWebアプリとして提供されているため、スマートフォンやタブレット、PCなど、さまざまなデバイスから利用できます。場所を選ばず気軽にアニメーション制作が可能です。",
+      "q8": "生成したアニメーションはダウンロードできますか？",
+      "a8": "はい、KomikoAIのAIアニメーションジェネレーターで作成したアニメーションは、MP4などの動画形式でエクスポートできます。ダウンロード後は、SNSや動画サイトへの投稿、ポートフォリオ、プレゼンなど自由に活用できます。",
+      "q9": "なぜAIアニメーションジェネレーターを使うべきですか？",
+      "a9": "AIアニメーションジェネレーターを使えば、アニメーション制作時間を大幅に短縮でき、専門知識がなくてもプロ並みの動画を作成できます。静止画に命を吹き込むような動きを加え、SNSやYouTube向けの魅力的なコンテンツを簡単に量産可能です。複数のAIモデルを使い分けることで、さまざまな表現スタイルにも対応でき、しかも無料で試せるのが大きなメリットです。"
+    },
+    "cta": {
+      "title": "AIアニメーションジェネレーターで、今すぐ無料で驚きのアニメーションを作ろう！",
+      "description": "静止画から、数分で魅力的なアニメーション動画を生成。今すぐクリエイティブを形にしよう。",
+      "buttonText": "AIアニメーションジェネレーターを無料で試す"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example1-input.jpg",
+      "output": "/images/examples/image_to_animation/example1-output.webm",
+      "inputLabel": "入力画像",
+      "outputLabel": "アニメーション結果",
+      "description": "モデル：Veo｜プロンプト：『少女が踊りながら歌っている』"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example2-input.jpg",
+      "output": "/images/examples/image_to_animation/example2-output.webm",
+      "inputLabel": "入力画像",
+      "outputLabel": "アニメーション結果",
+      "description": "モデル：Minimax｜プロンプト：『男性が怒った様子で話している』"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example3-input.jpg",
+      "output": "/images/examples/image_to_animation/example3-output.webm",
+      "inputLabel": "入力画像",
+      "outputLabel": "アニメーション結果",
+      "description": "モデル：Ray｜プロンプト：『少女が悲しそうに話している』"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example4-input.jpg",
+      "output": "/images/examples/image_to_animation/example4-output.webm",
+      "inputLabel": "入力画像",
+      "outputLabel": "アニメーション結果",
+      "description": "モデル：Kling｜プロンプト：『少女が穏やかにひとりごとを話している』"
+    },
+    {
+      "id": 5,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example5-input.jpg",
+      "output": "/images/examples/image_to_animation/example5-output.webm",
+      "inputLabel": "入力画像",
+      "outputLabel": "アニメーション結果",
+      "description": "モデル：Anime Pro｜プロンプト：『アニメ風のバトルシーン。光る剣を持つ若い戦士が、光る目と鋭い牙を持つ巨大な悪魔のようなモンスターと激突する。スピード感のある剣戟、飛び散る火花、迫力のあるクローズアップ。最後は主人公がモンスターを一撃で倒すドラマチックなフィニッシュ。暗い背景、シネマティックなライティング、舞い散る光の粒子。』",
+      "isSpecial": true
+    },
+    {
+      "id": 6,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example6-input.jpg",
+      "output": "/images/examples/image_to_animation/example6-output.webm",
+      "inputLabel": "入力画像",
+      "outputLabel": "アニメーション結果",
+      "description": "モデル：Anime Pro｜プロンプト：『アニメの少年が突然銃を抜き、閃光とともに発砲する。険しい表情、ドラマチックなカメラアングル。その直後に振り返って通りを駆け抜けていく。』"
+    },
+    {
+      "id": 7,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example7-input.jpg",
+      "output": "/images/examples/image_to_animation/example7-output.webm",
+      "inputLabel": "入力画像",
+      "outputLabel": "アニメーション結果",
+      "description": "モデル：Anime Pro｜プロンプト：『夜のネオンに照らされた路地を、アニメの少女がスケートで高速で駆け抜ける。鋭く曲がるターン、風でなびく髪、背後からのカメラ追従。濡れた路面に光る看板が反射し、細い路地を次々と通り過ぎていく。』"
+    },
+    {
+      "id": 8,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example8-input.jpg",
+      "output": "/images/examples/image_to_animation/example8-output.webm",
+      "inputLabel": "入力画像",
+      "outputLabel": "アニメーション結果",
+      "description": "モデル：Anime Pro｜プロンプト：『アニメスタイルのバトルシーン。光る剣を持った若い戦士が、光る目と鋭い牙を持つ巨大な悪魔モンスターと戦う。スピード感のある剣戟、飛び散る火花、激しいクローズアップ。ラストは主人公がモンスターを一撃で倒すクライマックス。暗い背景、シネマティックな照明、輝くパーティクル。』"
+    }
+  ]
+}

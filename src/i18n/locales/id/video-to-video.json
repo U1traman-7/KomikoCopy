@@ -1,0 +1,503 @@
+{
+  "title": "Video ke Video AI",
+  "description": "Ubah video Anda dengan teknologi Video ke Video AI. Transfer Gaya Video canggih kami mengubah video apa pun menjadi gaya anime, kartun, manga, dan manhwa sambil mempertahankan gerakan dan tempo aslinya.",
+  "meta": {
+    "title": "Video ke Video AI | Transfer Gaya Video Terbaik",
+    "description": "Ubah video Anda dengan teknologi Video ke Video AI. Transfer Gaya Video canggih kami mengubah video apa pun menjadi gaya anime, kartun, manga, dan manhwa sambil mempertahankan gerakan dan tempo aslinya.",
+    "fullDescription": "Alat Video ke Video AI revolusioner yang mengubah video biasa menjadi mahakarya anime, animasi kartun, visual ala manga, dan estetika manhwa. Teknologi Transfer Gaya Video canggih kami menjaga konsistensi gerakan sambil menerapkan transformasi artistik termasuk anime Studio Ghibli, manhwa Korea, manga Jepang, animasi cat air, dan gaya kartun. Sempurna untuk pembuat konten, animator, dan seniman yang mencari Transfer Gaya Video berkualitas profesional.",
+    "keywords": "Video ke Video AI, Transfer Gaya Video, generator video anime, filter video kartun, transfer gaya manga, animasi manhwa, konverter video ke anime, alat animasi, pembuat video kartun, video gaya anime, pembuat video manga, penataan video, generator video animasi, filter video komik, transformasi anime, transfer gaya kartun"
+  },
+  "ui": {
+    "title": "Video ke Video AI",
+    "tooltip": "Ubah video Anda dengan teknologi Video ke Video AI dan Transfer Gaya Video",
+    "generatedVideos": "Video Bergaya yang Dihasilkan",
+    "emptyState": "Video dengan gaya anime dan kartun Anda akan muncul di sini",
+    "steps": {
+      "uploadVideo": "1. Unggah Video",
+      "styleSelection": "Pemilihan Gaya",
+      "generateVideo": "3. Hasilkan Video"
+    },
+    "upload": {
+      "dragText": "Ketuk untuk mengunggah atau seret video Anda ke sini",
+      "formatInfo": "Mendukung MP4, MOV, AVI • Maksimal 15 detik • Maksimal 50MB",
+      "extractFrameManually": "Ekstrak Bingkai Pertama Secara Manual",
+      "bestResultsTip": "Untuk hasil terbaik, gunakan video satu adegan—idealnya difilmkan dalam satu pengambilan berkelanjutan.",
+      "safariFormatInfo": "Mendukung MP4, MOV, AVI • Maksimal 15 detik • Maksimal 50MB",
+      "safariNotice": "Perhatian Untuk Pengguna Safari",
+      "safariLimitWarning": "Durasi video dibatasi hingga 15 detik atau kurang. Untuk video yang lebih panjang atau kontrol durasi kustom, silakan gunakan peramban Chrome.",
+      "bestResultsTip1": "Untuk hasil terbaik, gunakan video yang direkam dalam satu kali pengambilan tanpa putus.",
+      "bestResultsTip2": "Jika ada pemeran manusia, frame pertama harus menunjukkan tampilan wajah dari depan. Idealnya, fokuskan video pada satu aktor utama dan pastikan setidaknya memperlihatkan bagian tubuh atas secara lengkap."
+    },
+    "duration": {
+      "title": "Durasi",
+      "description": "Pilih durasi untuk pembuatan video. Durasi yang lebih lama membutuhkan lebih banyak zaps.",
+      "originalDuration": "Asli: {{duration}}d",
+      "tooLong": "Terlalu Panjang",
+      "willBeTrimmed": "Akan dipangkas dari {{original}}d menjadi {{target}}d",
+      "originalLength": "Durasi Asli",
+      "safariNote": "Safari terdeteksi: Menggunakan durasi video asli untuk kompatibilitas terbaik",
+      "chromeAdvice": "Untuk kontrol durasi kustom, silakan gunakan browser Chrome",
+      "safariUseOriginal": "Pengguna Safari: Video akan menggunakan durasi aslinya untuk kompatibilitas optimal"
+    },
+    "videoMode": {
+      "title": "Mode Pembuatan",
+      "human": "Mode Video Manusia",
+      "humanDescription": "Dioptimalkan untuk subjek manusia dan video potret",
+      "general": "Mode Umum",
+      "generalDescription": "Bekerja dengan subjek dan jenis adegan apa pun"
+    },
+    "videoPrompt": {
+      "title": "Petunjuk",
+      "placeholder": "Misalnya, gadis anime menari",
+      "description": "Tambahkan detail tambahan untuk memandu proses pembuatan video",
+      "optional": "(Opsional)"
+    },
+    "framePreview": {
+      "original": "Asli",
+      "styled": "Bergaya",
+      "applyingStyle": "Menerapkan Gaya...",
+      "awaitingStyle": "Menunggu Gaya",
+      "selectStyleBelow": "Pilih gaya di bawah ini",
+      "beforeAfterComparison": "Perbandingan sebelum dan sesudah transfer gaya",
+      "applyingStyleToFrame": "Menerapkan gaya yang Anda pilih ke bingkai...",
+      "frameReferenceText": "Bingkai ini akan digunakan sebagai referensi untuk Transfer Gaya Video",
+      "styleTooltip": "Bingkai bergaya ini akan memandu seluruh transformasi video."
+    },
+    "styleModes": {
+      "templates": "Templat",
+      "prompt": "Prompt",
+      "reference": "Referensi"
+    },
+    "styleTemplates": {
+      "anime": "Anime",
+      "ghibliAnime": "Anime Ghibli",
+      "koreanManhwa": "Manhwa Korea",
+      "cartoon": "Kartun",
+      "manga": "Manga",
+      "inkWash": "Cuci Tinta",
+      "watercolor": "Cat Air",
+      "lineArt": "Seni Garis",
+      "lowPoly": "Poli Rendah",
+      "clay": "Claymation",
+      "pixelArt": "Seni Piksel",
+      "origami": "Kertas Origami",
+      "lego": "Lego",
+      "vaporwave": "Vaporwave",
+      "rickAndMorty": "Rick and Morty",
+      "southPark": "South Park",
+      "simpsons": "Simpsons",
+      "naruto": "Naruto",
+      "onePiece": "One Piece",
+      "myLittlePony": "My Little Pony",
+      "comic": "Komik",
+      "miku": "Miku",
+      "barbie": "Barbie",
+      "goku": "Goku",
+      "trump": "Donald Trump",
+      "princess": "Putri/Pangeran",
+      "kimono": "Kimono/Yukata",
+      "superhero": "Pahlawan Super",
+      "magicalGirl": "Gadis Ajaib",
+      "hogwarts": "Hogwarts",
+      "cowboy": "Koboi",
+      "sailorUniform": "Seragam Pelaut",
+      "pixar": "Pixar",
+      "apocalypse": "Kiamat",
+      "magicalWorld": "Dunia Ajaib",
+      "dreamland": "Tanah Impian",
+      "cyberpunk": "Cyberpunk",
+      "kpopIdol": "Idola Kpop",
+      "cloud": "Awan",
+      "mars": "Mars",
+      "outerSpace": "Luar Angkasa",
+      "sailorMoon": "Sailor Moon",
+      "pencilSketch": "Sketsa dengan Pensil",
+      "retroGame": "Permainan Retro",
+      "mobileGame": "Permainan Ponsel",
+      "psGame": "Permainan PS",
+      "underwater": "Bawah Laut",
+      "snow": "Salju",
+      "toyBricks": "Balok Mainan",
+      "skeleton": "Kerangka",
+      "fire": "Api",
+      "muscle": "Otot",
+      "metal": "Logam",
+      "crystal": "Kristal",
+      "westernAnimation": "Animasi Barat",
+      "vanGogh": "Van Gogh",
+      "oilPainting": "Lukisan Minyak",
+      "ice": "Es",
+      "mikuCosplay": "Cosplay Miku",
+      "gokuCosplay": "Cosplay Goku",
+      "narutoCosplay": "Cosplay Naruto",
+      "sailorMoonCosplay": "Cosplay Sailor Moon",
+      "digitalIllustration": "Ilustrasi Digital",
+      "xRay": "Sinar-X",
+      "neonSign": "Tanda Neon",
+      "gta": "GTA",
+      "callOfDuty": "Call of Duty",
+      "minecraft": "Minecraft",
+      "theLegendOfZelda": "The Legend of Zelda",
+      "harryPotter": "Harry Potter",
+      "starWars": "Star Wars",
+      "avatar": "Avatar",
+      "dune": "Dune",
+      "theLordOfTheRings": "The Lord of the Rings",
+      "frozen": "Frozen",
+      "catGirlorBoy": "Gadis/Kucing",
+      "maiden": "Gadis",
+      "bunnyGirlorBoy": "Gadis/Kelinci",
+      "samurai": "Samurai",
+      "ninja": "Ninja",
+      "foxGirlorBoy": "Gadis/Rubah",
+      "elf": "Peri",
+      "idol": "Idola",
+      "mechaPilot": "Pilot Mecha",
+      "playdoh": "Play-Doh",
+      "yarn": "Benang",
+      "marble": "Marmer",
+      "christmas": "Natal",
+      "wizardingWorld": "Dunia Sihir",
+      "heaven": "Surga",
+      "hell": "Neraka",
+      "captainAmerican": "Kapten Amerika",
+      "maleficent": "Maleficent",
+      "tinkerbell": "Tinker Bell",
+      "robot": "Robot",
+      "angel": "Malaikat",
+      "zombie": "Zombie",
+      "pirate": "Bajak Laut",
+      "medieval": "Abad Pertengahan",
+      "knight": "Kesatria",
+      "goblin": "Goblin",
+      "monkeyDLuffy": "Monkey D. Luffy",
+      "gojoSatoru": "Gojo Satoru",
+      "wolfGirlorBoy": "Anak Serigala/Anak Laki-laki",
+      "vampire": "Vampir",
+      "werewolf": "Manusia Serigala",
+      "iosEmoji": "Emoji iOS",
+      "theSimpsons": "The Simpsons",
+      "animeCharacter": "Karakter Anime",
+      "cyborg": "Sibernetik",
+      "beagle": "Beagle",
+      "poodle": "Pudel",
+      "orangeCat": "Kucing Oranye",
+      "sphynxCat": "Kucing Sphynx"
+    },
+    "prompt": {
+      "placeholder": "Jelaskan transformasi gaya yang Anda inginkan...",
+      "example": "Contoh: \"Ganti pria itu dengan Naruto\", \"Ubah ini menjadi gaya anime klasik 90-an\", \"Kenakan gaun bermotif bunga pada gadis itu\""
+    },
+    "reference": {
+      "uploadText": "Unggah bingkai pra-gaya Anda sebagai referensi",
+      "formatInfo": "Mendukung JPG, PNG, JPEG, WEBP • Maks. 10MB",
+      "compositionWarning": "Pastikan gambar referensi cocok dengan komposisi persis bingkai pertama video asli."
+    },
+    "buttons": {
+      "applying": "Menerapkan...",
+      "useNewReference": "Gunakan Referensi Baru",
+      "applyNewStyle": "Terapkan Gaya Baru",
+      "useReference": "Gunakan Referensi",
+      "applyStyle": "Terapkan Gaya",
+      "generateVideo": "Hasilkan Video",
+      "generatingVideo": "Menghasilkan Video...",
+      "generateMore": "Hasilkan Lebih Banyak Video",
+      "createAnother": "Buat Video Lain",
+      "applyStyleWithName": "Terapkan Gaya {{style}}",
+      "applyNewStyleWithName": "Terapkan Gaya Baru {{style}}"
+    },
+    "separators": {
+      "readyToGenerate": "Siap menghasilkan video"
+    },
+    "styleCategories": {
+      "tStyleTransfer": "Pindah Gaya",
+      "changeMaterial": "Ubah Bahan",
+      "changeEnvironment": "Ubah Lingkungan",
+      "cosplay": "Cosplay",
+      "gameRender": "Render Game",
+      "switchScene": "Ganti Adegan",
+      "replaceCharacter": "Ganti Karakter",
+      "movieWorld": "Dunia Film",
+      "animeWorld": "Dunia Anime",
+      "game": "Permainan",
+      "movie": "Film/Acara TV",
+      "anime": "Anime",
+      "animal": "Hewan"
+    },
+    "styleTemplatesTitle": "Templat Gaya",
+    "viewAll": "Lihat Semua",
+    "selectAStyle": "Pilih Sebuah Gaya",
+    "selected": "Dipilih",
+    "all": "Semua",
+    "trending": "Sedang Tren",
+    "model": {
+      "label": "Model",
+      "placeholder": "Pilih Model",
+      "ariaLabel": "Pilih Model",
+      "options": {
+        "rayFlash": "V2V Umum",
+        "actTwo": "V2V Video Manusia (Wajah harus terlihat jelas)",
+        "aleph": "V2V Pro",
+        "v2vHuman": "V2V Human Video (Wajah harus terlihat jelas)",
+        "v2vGeneral": "V2V Umum",
+        "v2vPro": "V2V Pro",
+        "wanAnimate": "Wan Animate (Terbaik untuk Animasi Karakter)"
+      },
+      "descriptions": {
+        "rayFlash": "Transfer gaya kilat untuk video apa pun (manusia atau bukan). Bekerja terbaik dengan satu bidikan berkelanjutan.",
+        "actTwo": "Untuk video manusia dengan latar belakang statis. Meniru ekspresi dan gerakan tubuh.",
+        "aleph": "Transformasi video-ke-video berkualitas tinggi dan serbaguna.",
+        "v2vHuman": "Untuk video dengan manusia dalam latar belakang yang statis. Menggandakan ekspresi wajah dan gerakan tubuh.",
+        "v2vGeneral": "Transfer gaya cepat untuk semua jenis video (baik manusia maupun non-manusia). Paling efektif dengan satu pengambilan secara berkesinambungan.",
+        "v2vPro": "Transformasi video-ke-video yang berkualitas tinggi dan serbaguna.",
+        "wanAnimate": "Untuk video karakter dengan latar belakang yang statis. Meniru ekspresi dan gerakan tubuh. Paling baik untuk animasi 3D."
+      },
+      "zapsPerSecond": "zaps/detik"
+    },
+    "ratioSelector": {
+      "label": "Rasio Aspek Keluaran",
+      "ariaLabel": "Pilih Rasio Aspek"
+    },
+    "actTwo": {
+      "bodyControl": "Kontrol Tubuh",
+      "bodyControlDesc": "Saat diaktifkan, gerakan dan gestur non-wajah akan diterapkan ke karakter selain ekspresi wajah.",
+      "expressionIntensity": "Intensitas Ekspresi",
+      "expressionIntensityDesc": "Nilai yang lebih besar meningkatkan intensitas ekspresi karakter.",
+      "ratioDesc": "Resolusi video keluaran.",
+      "actTwoVideoTooShort": "Untuk Act Two, video referensi harus minimal {{min}} detik.",
+      "videoTooShort": "Untuk Video V2V Human, video referensi harus memiliki durasi setidaknya {{min}} detik."
+    },
+    "uploadTips": {
+      "title": "Untuk hasil terbaik (kualitas mungkin bervariasi jika tidak)",
+      "tip1": "1. Gunakan satu kali pengambilan video secara terus menerus (pisahkan video dengan beberapa pengambilan dan konversi secara terpisah).",
+      "tip2": "2. Hanya sertakan satu orang, pastikan orang tersebut terlihat cukup besar dalam bingkai."
+    }
+  },
+  "whatIs": {
+    "title": "Apa itu Video ke Video AI?",
+    "description": "Video ke Video AI mengubah video biasa menjadi animasi bergaya anime, kartun, manga, dan manhwa menggunakan teknologi Transfer Gaya Video canggih. Proses dua langkah kami pertama-tama menerapkan gaya pilihan Anda ke bingkai referensi, kemudian menggunakan bingkai bergaya ini untuk mengubah seluruh video Anda sambil mempertahankan gerakan dan tempo aslinya. Pilih dari 20+ gaya termasuk anime Studio Ghibli, manhwa Korea, manga Jepang, dan estetika kartun populer dengan Transfer Gaya Video kami."
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/dancing-input.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/fox-boy.webm",
+      "inputLabel": "Video Asli",
+      "outputLabel": "Hasil Transfer",
+      "description": "Anime | Gaya: Gadis/Rubah Laki-Laki"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/drum-set.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/the-simpsons.webm",
+      "inputLabel": "Video Asli",
+      "outputLabel": "Hasil Transfer",
+      "description": "Film/Acara | Gaya: The Simpsons"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/skateboard.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/minfecraft.webm",
+      "inputLabel": "Video Asli",
+      "outputLabel": "Hasil Transfer",
+      "description": "Game | Gaya: Minecraft"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "Video Asli",
+      "outputLabel": "Gaya Komik",
+      "description": "Transfer Gaya | Gaya: Komik",
+      "isSpecial": true
+    },
+    {
+      "id": 5,
+      "layout": "single",
+      "type": "video",
+      "output": "/images/examples/video-to-video/dog.webm",
+      "label": "Transformasi Anime",
+      "description": "Transformasi anjing nyata menjadi gaya anime yang menampilkan hewan peliharaan realistis diubah menjadi karakter animasi"
+    }
+  ],
+  "howTo": {
+    "title": "Cara Menggunakan Video ke Video AI"
+  },
+  "steps": {
+    "step1": {
+      "title": "Unggah Video Anda",
+      "content": "Unggah file video apapun (MP4, MOV, AVI) dengan durasi hingga 15 detik dan maksimal ukuran 50MB untuk pemrosesan AI Video ke Video. Video yang lebih panjang dari 15 detik akan dipotong secara otomatis untuk Transfer Gaya Video yang optimal."
+    },
+    "step2": {
+      "title": "Referensi Transfer Gaya Video",
+      "content": "Kami mengekstrak bingkai pertama dan menerapkan gaya anime, kartun, atau manga pilihan Anda untuk membuat panduan referensi untuk transformasi Transfer Gaya Video yang konsisten."
+    },
+    "step3": {
+      "title": "Pilih Gaya Artistik",
+      "content": "Pilih dari 20+ gaya preset seperti anime Studio Ghibli, manhwa Korea, manga Jepang, atau buat gaya khusus dengan prompt teks dan gambar referensi untuk Transfer Gaya Video."
+    },
+    "step4": {
+      "title": "Hasilkan Video ke Video AI",
+      "content": "Video ke Video AI kami mengubah seluruh video Anda menggunakan bingkai referensi bergaya sambil mempertahankan semua gerakan, ekspresi, dan tempo aslinya melalui Transfer Gaya Video canggih."
+    }
+  },
+  "benefits": {
+    "title": "Mengapa Menggunakan Video ke Video AI",
+    "description": "Video ke Video AI kami menawarkan Transfer Gaya Video paling canggih dengan pelestarian gerakan, opsi gaya yang luas, dan harga yang transparan."
+  },
+  "features": {
+    "feature1": {
+      "title": "Pelestarian Gerakan Sempurna",
+      "content": "Video ke Video AI mempertahankan setiap detail gerakan asli, ekspresi wajah, dan tempo sambil menerapkan gaya anime, kartun, atau manga dengan konsistensi Transfer Gaya Video yang sempurna."
+    },
+    "feature2": {
+      "title": "20+ Opsi Transfer Gaya Video",
+      "content": "Pilih dari anime Studio Ghibli, manhwa Korea, manga Jepang, kartun Disney, gaya Naruto, dan lainnya. Buat Transfer Gaya Video khusus dengan prompt teks atau gambar referensi menggunakan Video ke Video AI."
+    },
+    "feature3": {
+      "title": "Output Kualitas Profesional",
+      "content": "Hasilkan video anime dan kartun definisi tinggi dengan penerapan Transfer Gaya Video yang konsisten, transisi yang mulus, dan tanpa kedipan atau artefak dengan Video ke Video AI kami."
+    },
+    "feature4": {
+      "title": "Sistem Biaya Cerdas",
+      "content": "Harga transparan dengan biaya terpisah untuk Transfer Gaya Video dan pembuatan video. Bereksperimen dengan gaya yang berbeda tanpa biaya video tambahan menggunakan Video ke Video AI."
+    },
+    "feature5": {
+      "title": "Proses Dua Langkah yang Mudah",
+      "content": "Alur kerja Video ke Video AI sederhana: unggah video, terapkan Transfer Gaya Video ke bingkai referensi, hasilkan video lengkap. Tidak diperlukan keahlian teknis dengan pelacakan kemajuan waktu nyata."
+    },
+    "feature6": {
+      "title": "Optimalisasi Otomatis",
+      "content": "Pemrosesan Video ke Video AI cerdas dengan pemangkasan otomatis, dukungan format (MP4, MOV, AVI), dan perhitungan biaya berbasis durasi untuk Transfer Gaya Video yang optimal."
+    }
+  },
+  "faq": {
+    "title": "FAQ Video ke Video AI",
+    "description": "Pertanyaan umum tentang alat, proses, biaya, dan praktik terbaik Video ke Video AI dan Transfer Gaya Video kami.",
+    "q1": "Bagaimana cara kerja Video ke Video AI?",
+    "a1": "Video ke Video AI kami menggunakan proses Transfer Gaya Video dua langkah: 1) Ekstrak bingkai referensi dan terapkan gaya anime/kartun pilihan Anda, 2) Ubah seluruh video menggunakan bingkai bergaya ini sambil mempertahankan gerakan dan tempo asli. Ini memastikan penerapan Transfer Gaya Video yang konsisten di semua bingkai.",
+    "q2": "Apa persyaratan format video untuk Video ke Video AI?",
+    "a2": "Kami mendukung format MP4, MOV, dan AVI dengan ukuran file maksimum 50MB untuk pemrosesan AI Video ke Video. Video dibatasi hingga 15 detik dan akan dipotong secara otomatis jika lebih panjang, guna memastikan pemrosesan Transfer Gaya Video yang optimal dan efisiensi biaya.",
+    "q3": "Berapa lama waktu yang dibutuhkan Transfer Gaya Video?",
+    "a3": "Total pemrosesan Video ke Video AI membutuhkan waktu 5-10 menit: Transfer Gaya Video (1-3 menit) dan pembuatan video (3-7 menit). Anda dapat memantau kemajuan Transfer Gaya Video secara waktu nyata.",
+    "q4": "Berapa biaya untuk Video ke Video AI?",
+    "a4": "Biaya terpisah untuk Transfer Gaya Video dan pembuatan video berdasarkan durasi. Biaya Video ke Video AI ditampilkan secara waktu nyata sebelum pemrosesan, dan kredit hanya dikurangi setelah penyelesaian Transfer Gaya Video yang berhasil.",
+    "q5": "Dapatkah saya membuat gaya Transfer Gaya Video khusus?",
+    "a5": "Ya! Pilih dari 20+ templat preset (Studio Ghibli, manhwa Korea, manga Jepang, dll.), tulis prompt teks khusus, atau unggah gambar referensi untuk transformasi Transfer Gaya Video yang unik dengan Video ke Video AI kami.",
+    "q6": "Video input apa yang bagus untuk Video ke Video AI?",
+    "a6": "Hasil Transfer Gaya Video terbaik dengan subjek yang jelas, pencahayaan yang baik, gerakan yang stabil, dan fitur yang terdefinisi dengan baik. Hindari gerakan cepat, rekaman gelap atau buram untuk pemrosesan Video ke Video AI yang optimal. Video di bawah 5 detik dengan orang atau objek yang jelas bekerja paling baik untuk Transfer Gaya Video."
+  },
+  "seo": {
+    "meta": {
+      "title": "Video ke Video AI | Transfer Gaya Video Terbaik",
+      "description": "Transformasikan video Anda dengan teknologi Video ke Video AI. Video Style Transfer canggih kami mengubah video menjadi gaya anime, kartun, manga, dan manhwa sambil mempertahankan gerakan dan timing asli.",
+      "fullDescription": "Alat revolusioner Video ke Video AI yang mengubah video biasa menjadi mahakarya anime, animasi kartun, visual gaya manga, dan estetika manhwa. Teknologi Video Style Transfer kami menjaga konsistensi gerakan sambil menerapkan transformasi artistik termasuk gaya anime Studio Ghibli, manhwa Korea, manga Jepang, animasi cat air, dan kartun. Sempurna untuk pembuat konten, animator, dan seniman yang mencari Video Style Transfer berkualitas profesional.",
+      "keywords": "Video ke Video AI, Transfer Gaya Video, pembuat video anime, filter video kartun, transfer gaya manga, animasi manhwa, konverter video ke anime, alat animasi, pembuat video kartun, gaya video anime, pembuat video manga, stylisasi video, generator video animasi, filter video komik, transformasi anime, transfer gaya kartun"
+    },
+    "hero": {
+      "title": "Video ke Video AI"
+    },
+    "whatIs": {
+      "title": "Apa itu Video ke Video AI?",
+      "description": "Video ke Video AI mengubah video biasa menjadi animasi bergaya anime, kartun, manga, dan manhwa menggunakan teknologi Video Style Transfer yang canggih. Proses dua langkah kami pertama-tama menerapkan gaya pilihan Anda pada frame referensi, kemudian menggunakan frame yang telah digayakan ini untuk mengubah seluruh video Anda sambil mempertahankan gerakan dan timing asli. Pilih dari lebih dari 20 gaya termasuk anime Studio Ghibli, manhwa Korea, manga Jepang, dan estetika kartun populer dengan Video Style Transfer kami."
+    },
+    "examples": {
+      "title": "Contoh Video ke Video AI",
+      "description": "Lihat bagaimana Video ke Video AI kami mengubah video menjadi gaya anime, kartun, manga, dan manhwa yang menakjubkan sambil mempertahankan konsistensi gerakan sempurna dengan Video Style Transfer yang canggih.",
+      "style": "Gaya yang Diterapkan"
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Video ke Video AI",
+      "steps": [
+        {
+          "title": "Unggah Video Anda",
+          "content": "Unggah file video dengan format MP4, MOV, atau AVI dengan durasi hingga 15 detik dan ukuran maksimal 50MB untuk pemrosesan Video ke Video AI. Video yang lebih dari 15 detik akan dipotong otomatis untuk hasil Transfer Gaya Video yang optimal."
+        },
+        {
+          "title": "Referensi Transfer Gaya Video",
+          "content": "Kami mengekstrak frame pertama dan menerapkan gaya anime, kartun, atau manga pilihan Anda untuk membuat panduan referensi transformasi Transfer Gaya Video yang konsisten."
+        },
+        {
+          "title": "Pilih Gaya Artistik",
+          "content": "Pilih dari 20+ gaya preset seperti anime Studio Ghibli, manhwa Korea, manga Jepang, atau buat gaya kustom dengan petunjuk teks dan gambar referensi sesuai keinginan Anda."
+        },
+        {
+          "title": "Hasilkan Video AI",
+          "content": "AI Video ke Video kami mengubah video lengkap Anda menggunakan frame referensi bergaya sambil mempertahankan semua gerakan, ekspresi, dan timing asli melalui Transfer Gaya Video yang canggih."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan Video ke Video AI",
+      "description": "Video ke Video AI kami menawarkan Transfer Gaya Video yang paling canggih dengan pelestarian gerakan, opsi gaya yang luas, dan harga yang transparan.",
+      "features": [
+        {
+          "title": "Pelestarian Gerakan Sempurna",
+          "content": "AI Video ke Video mempertahankan setiap detail gerakan asli, ekspresi wajah, dan timing sambil menerapkan gaya anime, kartun, atau manga dengan konsistensi Transfer Gaya Video yang sempurna.",
+          "icon": "🎬"
+        },
+        {
+          "title": "20+ Opsi Transfer Gaya Video",
+          "content": "Pilih dari anime Studio Ghibli, manhwa Korea, manga Jepang, kartun Disney, gaya Naruto, dan lainnya. Buat Transfer Gaya Video kustom dengan petunjuk teks atau gambar referensi menggunakan AI Video ke Video.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Keluaran Kualitas Profesional",
+          "content": "Hasilkan video anime dan kartun berdefinisi tinggi dengan aplikasi Transfer Gaya Video yang konsisten, transisi yang mulus, dan tanpa flicker atau artefak dengan AI Video ke Video kami.",
+          "icon": "✨"
+        },
+        {
+          "title": "Sistem Biaya Cerdas",
+          "content": "Harga transparan dengan biaya terpisah untuk Transfer Gaya Video dan pembuatan video. Bereksperimen dengan berbagai gaya tanpa biaya tambahan menggunakan AI Video ke Video.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Proses Dua Langkah Mudah",
+          "content": "Alur kerja AI Video ke Video sederhana: unggah video, terapkan Transfer Gaya Video ke frame referensi, hasilkan video penuh. Tidak diperlukan keahlian teknis dengan pemantauan kemajuan secara real-time.",
+          "icon": "👌"
+        },
+        {
+          "title": "Optimisasi Otomatis",
+          "content": "Pemrosesan AI Video ke Video cerdas dengan pemangkasan otomatis, dukungan format (MP4, MOV, AVI), dan perhitungan biaya berdasarkan durasi untuk Transfer Gaya Video yang optimal.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Video ke Video AI",
+      "description": "Pertanyaan umum tentang alat Video ke Video AI dan Transfer Gaya Video kami, proses, biaya, dan praktik terbaik.",
+      "q1": "Bagaimana cara kerja Video ke Video AI?",
+      "a1": "Video ke Video AI kami menggunakan proses Transfer Gaya Video dua langkah: 1) Ekstrak frame referensi dan terapkan gaya anime/kartun pilihan Anda, 2) Ubah seluruh video menggunakan frame yang telah digayakan ini sambil mempertahankan gerakan dan timing asli. Ini memastikan penerapan Transfer Gaya Video yang konsisten di semua frame.",
+      "q2": "Apa persyaratan format video untuk Video ke Video AI?",
+      "a2": "Kami mendukung format MP4, MOV, dan AVI dengan ukuran file maksimum 50MB untuk pemrosesan Video ke Video AI. Video dibatasi hingga 15 detik dan secara otomatis dipotong jika lebih lama untuk pemrosesan dan efisiensi biaya Transfer Gaya Video yang optimal.",
+      "q3": "Berapa lama Transfer Gaya Video berlangsung?",
+      "a3": "Total pemrosesan Video ke Video AI memakan waktu 5-10 menit: Transfer Gaya Video (1-3 menit) dan pembuatan video (3-7 menit). Anda dapat memonitor kemajuan Transfer Gaya Video secara waktu nyata.",
+      "q4": "Berapa biaya untuk Video ke Video AI?",
+      "a4": "Biaya terpisah untuk Transfer Gaya Video dan pembuatan video berdasarkan durasi. Biaya Video ke Video AI ditampilkan secara waktu nyata sebelum pemrosesan, dan kredit hanya dikurangi setelah Transfer Gaya Video selesai berhasil.",
+      "q5": "Bisakah saya membuat gaya Transfer Gaya Video kustom?",
+      "a5": "Ya! Pilih dari 20+ templat preset (Studio Ghibli, manhwa Korea, manga Jepang, dll.), tulis teks prompt kustom, atau unggah gambar referensi untuk transformasi Transfer Gaya Video yang unik dengan Video ke Video AI kami.",
+      "q6": "Apa yang membuat video input bagus untuk Video ke Video AI?",
+      "a6": "Hasil Transfer Gaya Video terbaik dengan subjek yang jelas, pencahayaan yang baik, gerakan stabil, dan fitur yang terdefinisi dengan baik. Hindari gerakan cepat, rekaman gelap atau buram untuk pemrosesan Video ke Video AI yang optimal. Video di bawah 5 detik dengan orang atau objek yang jelas bekerja paling baik untuk Transfer Gaya Video."
+    },
+    "cta": {
+      "title": "Ubah Video Secara GRATIS dengan Video ke Video AI Kami Hari Ini!",
+      "description": "Ciptakan video menakjubkan dengan gaya anime dan kartun menggunakan teknologi transfer gaya video yang canggih.",
+      "buttonText": "Coba Video ke Video AI Kami Gratis"
+    }
+  },
+  "toast": {
+    "video": {
+      "styleTransfer": {
+        "actTwoVideoTooShort": "Untuk Act Two, video referensi harus setidaknya {{min}} detik."
+      }
+    }
+  }
+}

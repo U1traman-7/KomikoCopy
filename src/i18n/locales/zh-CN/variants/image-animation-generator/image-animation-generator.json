@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 图像转动画视频 - KomikoAI",
+      "description": "使用 AI 技术将您的静态图像转化为令人惊艳的动画视频。只需几秒钟，即可从照片、艺术作品和插图中创建栩栩如生的动画。",
+      "keywords": "图像转动画, AI 动画生成器, 照片动画, 图像转视频, AI 视频创建器"
+    },
+    "hero": {
+      "title": "AI 图像动画生成器",
+      "subtitle": "利用人工智能驱动的技术，将静态图像转换为生动的动画视频"
+    },
+    "whatIs": {
+      "title": "什么是图像动画？",
+      "description": "图像动画是一项由 AI 驱动的技术，可以将静态图像转换为动态且逼真的视频。我们先进的 AI 系统会分析您的照片、艺术作品和插图，从而创建自然的动作、呼吸效果以及细微的动画，通过引人入胜的动态效果，让您的图像栩栩如生。"
+    },
+    "howToUse": {
+      "title": "如何创建图像动画",
+      "steps": [
+        {
+          "title": "上传您的图像",
+          "content": "选择并上传您希望制作成动画的照片、艺术作品或插图。"
+        },
+        {
+          "title": "描述动画效果",
+          "content": "编写一段提示词 (prompt)，描述您希望在图像中呈现的动画效果。"
+        },
+        {
+          "title": "选择设置",
+          "content": "为您的视频选择动画持续时间、风格和质量偏好。"
+        },
+        {
+          "title": "生成并下载",
+          "content": "让 AI 创建您的动画视频，并以高质量下载生成的结果。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "为什么要使用我们的图像动画生成器？",
+      "description": "无需复杂的软件或动画技能，即可从静态图像创建专业的动画内容。",
+      "features": [
+        {
+          "title": "AI 驱动的动画",
+          "content": "先进的 AI 技术能够从任何静态图像创建自然逼真的运动效果。",
+          "icon": "🤖"
+        },
+        {
+          "title": "支持多种图像类型",
+          "content": "适用于照片、数字艺术、插图、人像以及各种常见的图像格式。",
+          "icon": "🖼️"
+        },
+        {
+          "title": "自然的运动效果",
+          "content": "生成逼真的呼吸、眨眼、头发运动以及微妙的面部动画。",
+          "icon": "💫"
+        },
+        {
+          "title": "高质量输出",
+          "content": "创建流畅且具有专业质量的动画视频，最高可达 1080p 分辨率。",
+          "icon": "⭐"
+        },
+        {
+          "title": "易于使用",
+          "content": "简单的上传和生成流程 - 无需任何动画制作经验。",
+          "icon": "✨"
+        },
+        {
+          "title": "快速处理",
+          "content": "在几分钟内（而非几小时），将您的图像转换为动画。",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "图像动画生成器常见问题",
+      "description": "关于从静态图像创建动画的常见问题解答",
+      "q1": "哪些类型的图像最适合制作动画？",
+      "a1": "具有清晰主体的优质图像效果最佳。照片、数字艺术、人像和插图，如果具有良好的分辨率和鲜明特征，通常都能产生出色的动画效果。",
+      "q2": "动画视频可以有多长？",
+      "a2": "您可以创建 5 到 10 秒的动画，这非常适合用于社交媒体内容、演示文稿以及引人入胜的视觉展示。",
+      "q3": "我可以创建哪些动画效果？",
+      "a3": "我们的 AI 可以生成各种效果，包括呼吸动画、眨眼、头发运动、面部表情以及环境效果，例如流水或移动的云彩。",
+      "q4": "支持哪些图像格式？",
+      "a4": "我们支持常见的图像格式，包括 JPG、PNG 和 WEBP 文件，最大 10MB，以获得最佳的处理和动画质量。",
+      "q5": "动画看起来有多逼真？",
+      "a5": "我们的 AI 创建的动画效果自然，可以增强您的图像，而不会显得虚假。这些动作是细微且逼真的。",
+      "q6": "我可以控制动画风格吗？",
+      "a6": "是的，您可以通过详细的提示词 (prompt) 指定您想要的动画类型，从逼真的运动、艺术效果或风格化的动画中进行选择。"
+    }
+  },
+  "content": {
+    "header": {
+      "title": "AI 图像动画生成器",
+      "subtitle": "利用 AI 将您的静态图像转化为引人入胜的动画视频"
+    },
+    "examples": [
+      {
+        "id": 1,
+        "title": "模型: Veo 3",
+        "description": "Prompt: A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+        "videoUrl": "/images/pages/veo3/example7.webm"
+      },
+      {
+        "id": 2,
+        "title": "模型: AniSora",
+        "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+        "videoUrl": "/images/pages/anisora/example3.webm"
+      },
+      {
+        "id": 3,
+        "title": "模型: Anime Pro",
+        "description": "Prompt: Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+      },
+      {
+        "id": 4,
+        "title": "模型: Marey",
+        "description": "Prompt: Motion Transfer - Advanced motion capture and animation techniques",
+        "videoUrl": "https://framerusercontent.com/assets/G6g5UNTx9dlKbMGdS8Iag4Xas.mp4"
+      },
+      {
+        "id": 5,
+        "title": "模型: Marey",
+        "description": "Prompt: Dynamic Motion - Fluid and dynamic character animation",
+        "videoUrl": "https://framerusercontent.com/assets/vgdQZ2zcFZsxMSqZv8s2kwwKJ8.mp4"
+      },
+      {
+        "id": 6,
+        "title": "模型: Anime Pro",
+        "description": "Prompt: The boy slowly lean in, gently holds the girl’s face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+      }
+    ]
+  },
+  "originalKeyword": "Image Animation Generator",
+  "placeholderText": "A beautiful portrait with gentle breathing animation, subtle eye movement, and natural facial expressions"
+}

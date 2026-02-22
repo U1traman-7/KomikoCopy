@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Templates | Komiko AI",
+    "description": "Browse curated anime-friendly presets for Playground, Video Effects, Video-to-Video, and Dance tools. Tap a template to jump in with the perfect settings preloaded.",
+    "keywords": "anime template gallery, komiko presets, video effect templates, cosplay templates"
+  },
+  "hero": {
+    "eyebrow": "Templates",
+    "title": "Handpicked Templates Loved by Anime Creators",
+    "description": "Find the template you love and jump straight into creating."
+  },
+  "buttons": {
+    "useTemplate": "Use Template",
+    "preview": "Preview",
+    "close": "Close",
+    "seeAll": "See All"
+  },
+  "categories": {
+    "featured": {
+      "title": "Featured"
+    },
+    "art": {
+      "title": "Character Presets",
+      "description": "Transform portraits into professional character designs - line art, chibi, sprites, expression sheets, turnarounds, and more."
+    },
+    "imageRestyle": {
+      "title": "Image Restyle",
+      "description": "Convert images into anime, Pixar, manga, watercolor, neon, and 15+ artistic styles."
+    },
+    "videoRestyle": {
+      "title": "Video Restyle",
+      "description": "Convert video footage into anime, cartoon, sketch, emoji, and other animated styles. Turn real-world videos into stylized content."
+    },
+    "merch": {
+      "title": "Merch Studio",
+      "description": "Generate figure shots, plushies, and gallery-ready character sheets tuned for collectors."
+    },
+    "game": {
+      "title": "Game",
+      "description": "Create game-style videos and scenes including Genshin Impact trailers, retro pixel games, Pokemon evolutions, dating sims, and more gaming aesthetics."
+    },
+    "movie": {
+      "title": "Movie",
+      "description": "Recreate portraits in movie and TV art styles - from animated shows to fantasy films and beyond."
+    },
+    "cosplay": {
+      "title": "Cosplay and outfits",
+      "description": "Presets that recreate cosplay promos, cosplay trailers, and cosplay scenes. Also includes outfits for characters."
+    },
+    "effects": {
+      "title": "Video Effects & Animations",
+      "description": "Apply dynamic effects including Live2D breeze animations, 360° character views, magical girl transformations, Super Saiyan power-ups, and anime/manga style music videos.."
+    },
+    "dance": {
+      "title": "Dance",
+      "description": "AI Dance Video motions optimized for K-pop, viral TikTok trends, and stylized robot routines."
+    },
+    "christmas": {
+      "title": "Christmas",
+      "description": "Create enchanting Christmas scenes with magical presets for festive characters and holiday environments."
+    }
+  }
+}

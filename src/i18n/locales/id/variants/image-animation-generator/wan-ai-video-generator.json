@@ -1,0 +1,130 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan AI Video Generator - KomikoAI",
+      "description": "Hasilkan video dinamis berkualitas tinggi dari teks dan gambar dengan Wan AI Video Generator. Nikmati gerakan profesional, simulasi fisika, dan produksi video yang efisien.",
+      "keywords": "Wan AI Video Generator, pembuatan video AI, text-to-video, image-to-video, animasi AI, alat pembuatan video, pengeditan video AI, simulasi gerakan, platform video AI"
+    },
+    "hero": {
+      "title": "Wan AI Video Generator",
+      "description": "Manfaatkan teknologi AI termutakhir untuk mengubah ide Anda menjadi video yang memukau. Hasilkan video yang kaya akan gerakan, akurat secara fisik, dan sangat mudah disesuaikan."
+    },
+    "whatIs": {
+      "title": "Apa Itu Wan AI Video Generator?",
+      "description": "Wan AI Video Generator mengubah ide Anda menjadi video yang menakjubkan menggunakan teknologi AI termutakhir. Ditenagai oleh Wan2, terobosan terbaru dari Tongyi Lab di Alibaba Group, alat ini menggabungkan 3D Variational Autoencoder canggih dan video Diffusion Transformer untuk memberikan hasil yang luar biasa. Baik Anda menggunakan *prompt* teks maupun gambar statis, Wan2 menciptakan video dengan akurasi fisik yang mengesankan dan gerakan alami. Model *open-source* ini menangani semuanya, mulai dari rotasi kompleks hingga transisi adegan dinamis, menghasilkan rekaman HD yang jernih dan tampak profesional. Sempurna untuk pembuat konten, pemasar, pendidik, dan animator yang ingin menghidupkan visi mereka tanpa biaya dan kerumitan produksi video tradisional."
+    },
+    "examples": {
+      "title": "Contoh Penggunaan Wan AI Video Generator",
+      "description": "Jelajahi contoh video menakjubkan yang dibuat dengan Wan AI Video Generator. Dari konten media sosial animasi hingga *showcase* produk sinematik, lihat bagaimana alat ini menghidupkan gambar statis dan *prompt* teks dengan gerakan yang hidup, fisika realistis, dan efek visual yang kaya."
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Wan AI Video Generator",
+      "steps": [
+        {
+          "title": "Unggah Gambar Anda",
+          "content": "Unggah gambar yang ingin Anda animasikan. Wan AI Video Generator mendukung berbagai format gambar, termasuk karya seni, foto, gambar produk, atau *storyboard* untuk membuat konten video yang dinamis."
+        },
+        {
+          "title": "Masukkan *prompt* Anda",
+          "content": "Berikan *prompt* terperinci atau pilih pengaturan untuk menentukan jenis gerakan, sudut kamera, pencahayaan, dan efek. AI akan menafsirkan instruksi ini untuk membuat konten video dinamis yang selaras dengan visi Anda."
+        },
+        {
+          "title": "Hasilkan Video Anda",
+          "content": "Klik tombol 'Hasilkan Animasi' untuk memulai proses pembuatan dan saksikan saat AI mensintesis urutan video beresolusi tinggi, menerapkan fisika gerakan realistis dan transisi mulus secara otomatis."
+        },
+        {
+          "title": "Unduh dan Bagikan",
+          "content": "Setelah video dirender, unduh dalam format dan resolusi pilihan Anda. Bagikan video hasil AI yang menarik ini di media sosial, kampanye pemasaran, atau platform pendidikan."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Keunggulan Menggunakan Wan AI Video Generator",
+      "description": "Temukan keuntungan besar dari Wan AI Video Generator yang menyederhanakan produksi video dan meningkatkan kemungkinan kreatif bagi studio, pendidik, pemasar, dan kreator.",
+      "features": [
+        {
+          "title": "Simulasi Gerakan dan Fisika Tingkat Lanjut",
+          "content": "Hasilkan video dengan akurasi fisik 92,7%, mendukung gerakan tubuh yang kompleks, rotasi, dan interaksi objek yang realistis.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Dukungan Input yang Serbaguna",
+          "content": "Buat video dari *prompt* teks, gambar statis, atau kombinasi input multimedia, memungkinkan aplikasi kreatif yang luas.",
+          "icon": "🖼️"
+        },
+        {
+          "title": "Output Video Berkualitas Tinggi",
+          "content": "Hasilkan video HD 1080p yang mulus dengan tekstur sinematik, transisi adegan dinamis, dan efek bergaya yang kaya.",
+          "icon": "✨"
+        },
+        {
+          "title": "Hemat Biaya dan Mudah Diakses",
+          "content": "*Framework open-source* dengan persyaratan *hardware* rendah membuat pembuatan video profesional terjangkau dan mudah diakses oleh semua kreator.",
+          "icon": "💸"
+        },
+        {
+          "title": "Dukungan Multi-Skenario",
+          "content": "Cocok untuk konten media sosial, materi pendidikan, demo produk, dan alur kerja animasi di berbagai industri.",
+          "icon": "🌐"
+        },
+        {
+          "title": "Ekosistem yang Ramah Pengembang",
+          "content": "Menawarkan API, opsi penerapan lokal, dan kompatibilitas dengan *framework deep learning* utama untuk integrasi yang mulus.",
+          "icon": "⚙️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Wan AI Video Generator",
+      "description": "Jawaban untuk pertanyaan umum tentang penggunaan Wan AI Video Generator untuk membuat video profesional dan menarik dengan AI.",
+      "q1": "Apa itu Wan AI Video Generator?",
+      "a1": "Wan AI Video Generator adalah alat kecerdasan buatan canggih yang mengubah teks dan gambar menjadi video berkualitas tinggi dan kaya gerakan dengan memanfaatkan model *deep learning* seperti 3D VAE dan video Diffusion Transformer. Hal ini memungkinkan kreator untuk menghasilkan animasi sinematik dan akurat secara fisik dengan mudah.",
+      "q2": "Bagaimana Wan AI Video Generator membuat video dari gambar?",
+      "a2": "Alat ini menggunakan jaringan saraf yang canggih untuk menganalisis gambar statis, kemudian mensintesis *frame* video baru yang memperkenalkan gerakan, rotasi, dan transisi adegan yang realistis, secara efektif menganimasikan konten asli sambil mempertahankan koherensi visual.",
+      "q3": "Jenis video apa yang dapat saya buat dengan Wan AI?",
+      "a3": "Anda dapat membuat berbagai macam video, termasuk klip media sosial animasi, visualisasi pendidikan, demonstrasi produk, video pemasaran, dan *storyboard* dinamis, semuanya dapat disesuaikan melalui *prompt* teks dan input gambar.",
+      "q4": "Apakah Wan AI Video Generator cocok untuk penggunaan komersial?",
+      "a4": "Ya, Wan AI Video Generator menghasilkan video dengan kualitas profesional yang cocok untuk proyek pribadi dan komersial. Pengguna harus meninjau persyaratan lisensi yang relevan untuk setiap batasan yang terkait dengan hak penggunaan.",
+      "q5": "Berapa lama durasi video yang dihasilkan?",
+      "a5": "Platform ini mendukung video dengan panjang tak terbatas dalam resolusi 1080p melalui teknologi *encoding* dan *decoding* video yang efisien, memungkinkan pembuatan konten yang diperluas tanpa kehilangan kualitas.",
+      "q6": "Apakah saya memerlukan keterampilan teknis untuk menggunakan Wan AI Video Generator?",
+      "a6": "Tidak diperlukan keterampilan khusus. Platform ini menawarkan antarmuka yang mudah digunakan dan alur kerja yang sederhana, membuat pembuatan video AI tingkat lanjut dapat diakses bahkan oleh pemula."
+    }
+  },
+  "originalKeyword": "Wan AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Wan",
+      "description": "Prompt: A purely visual and atmospheric video piece focusing on the interplay of light and shadow, with a corn train as the central motif. Imagine a stage bathed in dramatic, warm spotlights, where a corn train, rendered as a stark silhouette, moves slowly across the space. The video explores the dynamic interplay of light and shadow cast by the train, creating abstract patterns, shapes, and illusions that dance across the stage. The soundtrack should be ambient and minimalist, enhancing the atmospheric and abstract nature of the piece.",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_2.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Model: Wan",
+      "description": "Prompt: Watercolor style, the wet suminagashi inks slowly spread into the shape of an island on the paper, with the edges continuously blending into delicate textural variations. A tiny paper boat floats in the direction of the water flow towards the still-wet areas, creating subtle ripples around it. Centered composition with soft natural light pouring in from the side, revealing subtle color gradations and a sense of movement. .",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/prompt_3.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Model: Wan",
+      "description": "Prompt: A man on the run, darting through the rain-soaked back alleys of a neon-lit city night, steam rising from the wet pavement. He's clad in a drenched trench coat, his face etched with panic as he sprints down the alley, constantly looking over his shoulder. A chase sequence shot from behind, immersing the viewer deeply, as if the pursuers are right behind the camera lens..",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_4.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Wan",
+      "description": "Prompt: Sidelit, soft light, high contrast, medium shot, centered composition, clean single subject frame, warm tones. A young man stands in a forest, his head gently lifted, with clear eyes. Sunlight filters through leaves, creating a golden halo around his hair. Dressed in a light-colored shirt, a breeze plays with his hair and collar as the light dances across his face with each movement. Background blurred, featuring distant dappled light and soft tree silhouettes..",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_1.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "WAN_PRO"
+}

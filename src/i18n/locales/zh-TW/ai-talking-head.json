@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "title": "AI 語音頭像 - KomikoAI",
+    "description": "從圖片與音訊建立栩栩如生的口語頭像影片",
+    "fullDescription": "使用 AI 技術從靜態圖片建立逼真的口語頭像影片。上傳照片並新增音訊，即可產生栩栩如生的口語影片。",
+    "keywords": "AI 口語頭像、影片產生、圖片轉影片、音訊轉影片、AI 動畫、口語人像"
+  },
+  "title": "AI 語音頭像",
+  "description": "從圖片建立栩栩如生的口語頭像影片。上傳照片並提供音訊，讓人物開口說話。",
+  "cost": "費用",
+  "upload": {
+    "image": "上傳圖片",
+    "title": "上傳圖片",
+    "click": "點擊以上傳圖片",
+    "supports": "支援 JPEG、PNG、WebP 格式",
+    "dropHere": "將圖片拖曳至此",
+    "orClick": "或點擊以上傳",
+    "fileSize": "檔案大小上限：10MB",
+    "tooltip": "上傳人像圖片與音訊",
+    "imageSizeInfo": "最大尺寸：{{maxSize}}MB。較大的圖片將自動壓縮。",
+    "audioSizeInfo": "音頻最大大小：{{maxSize}}MB。最大長度：2分鐘。"
+  },
+  "model": {
+    "select": "選擇模型",
+    "placeholder": "請選擇模型",
+    "loading": "載入模型中...",
+    "credits": "點數",
+    "default": "預設模型",
+    "description": "不同的模型提供不同的風格與品質等級",
+    "aspectRatio": "長寬比",
+    "resolution": "解析度",
+    "duration": "持續時間",
+    "zaps": "zaps",
+    "textToSpeech": "文字轉語音",
+    "supportsTTS": "支援文字轉語音",
+    "noTTS": "需要上傳音訊"
+  },
+  "textToSpeech": {
+    "title": "文字轉語音",
+    "description": "部分模型支援從文字產生語音。對於不支援文字轉語音的模型，需要上傳音訊。",
+    "input": "輸入文字以產生語音",
+    "placeholder": "輸入您希望角色說出的文字",
+    "language": "語音語言",
+    "voiceType": "語音類型",
+    "speed": "語音速度",
+    "note": "注意：文字轉語音的品質會因模型與語言而異",
+    "estimatedDuration": "預計 {{duration}} 秒音訊：{{zaps}} Zaps",
+    "defaultDuration": "Zaps 根據文字長度計算（預設：10 秒）"
+  },
+  "style": {
+    "prompt": "提示（可選）",
+    "placeholder": "描述角色的情感和姿態",
+    "examples": "範例：",
+    "example1": "專業的企業發言人",
+    "example2": "熱情且充滿活力",
+    "example3": "冷靜且令人安心"
+  },
+  "quality": {
+    "title": "高畫質",
+    "standard": "標準",
+    "high": "高",
+    "standardDesc": "適用於一般用途的良好品質",
+    "highDesc": "更佳的口型同步與面部表情",
+    "costs": {
+      "standard": "標準：{{cost}} 點數",
+      "high": "高：{{cost}} 點數"
+    }
+  },
+  "audioInput": {
+    "label": "音頻輸入",
+    "click": "點擊以上傳音訊",
+    "supports": "支援 MP3、WAV 格式",
+    "fileSize": "檔案大小上限：10MB",
+    "duration": "最長持續時間：60 秒",
+    "tips": "獲得最佳效果的提示：",
+    "tip1": "使用清晰且背景噪音極低的音訊",
+    "tip2": "為了獲得最佳品質，請將音訊長度保持在 60 秒以下",
+    "tip3": "單人聲音錄音效果最佳",
+    "orUseText": "或使用文字轉語音（如果所選模型支援）",
+    "detectedDuration": "偵測到 {{duration}} 秒音訊：{{zaps}} Zaps",
+    "defaultDuration": "Zaps 根據音訊長度計算（預設：10 秒）",
+    "uploadTab": "上傳",
+    "recordTab": "錄製"
+  },
+  "buttons": {
+    "generate": "產生口語頭像",
+    "generating": "產生中...",
+    "reset": "重設",
+    "download": "下載影片",
+    "share": "分享",
+    "tryAgain": "再試一次",
+    "saveToGallery": "儲存至相簿"
+  },
+  "result": {
+    "title": "產生的口語頭像",
+    "processing": "正在處理您的影片...",
+    "videoReady": "您的影片結果將會顯示在此處",
+    "shareText": "分享此口語頭像影片",
+    "downloadTip": "下載以儲存至您的裝置",
+    "videoStats": "{{duration}} 秒，{{resolution}} 解析度"
+  },
+  "loading": {
+    "preparing": "準備資源中...",
+    "processing": "處理您的請求中...",
+    "analyzing": "分析圖片中...",
+    "generating": "產生影片中...",
+    "finalizing": "完成您的影片中..."
+  },
+  "toasts": {
+    "login": "請登入以使用此功能",
+    "imageRequired": "請選擇一張圖片",
+    "audioRequired": "請選擇一個音訊檔案",
+    "invalidImage": "請選擇有效的圖片檔案 (JPEG、PNG、WebP)",
+    "invalidAudio": "請選擇有效的音訊檔案 (MP3、WAV)",
+    "audioSelected": "已選擇音訊檔案",
+    "success": "口語頭像影片產生成功",
+    "failure": "產生影片失敗",
+    "downloadFailed": "下載影片失敗",
+    "noCredit": "點數不足",
+    "imageTooLarge": "圖片大小超過 10MB 的限制",
+    "audioTooLarge": "音訊大小超過 10MB 的限制",
+    "processingQueued": "您的請求已加入佇列。準備就緒時，我們會通知您。",
+    "savedToGallery": "影片已儲存至您的相簿",
+    "modelRequired": "請選擇一個模型",
+    "modelsFetchFailed": "取得模型失敗",
+    "usingFallbackModel": "使用預設模型 - 無法從伺服器取得模型",
+    "fetchFailed": "取得影片失敗",
+    "deleteFailed": "刪除影片失敗",
+    "deleteSuccess": "影片已成功刪除",
+    "textRequired": "請輸入文字以產生語音"
+  },
+  "credit": {
+    "remaining": "剩餘 {{amount}} 點數",
+    "required": "需要 {{amount}} 點數",
+    "insufficientCredits": "您還需要 {{required}} 點數",
+    "getPremium": "取得 Premium 以獲得更多點數"
+  },
+  "errors": {
+    "imageProcessing": "處理圖片時發生錯誤",
+    "audioProcessing": "處理音訊時發生錯誤",
+    "serverError": "伺服器錯誤，請稍後再試",
+    "networkError": "網路錯誤，請檢查您的連線",
+    "invalidRequest": "無效的請求參數",
+    "timeout": "請求逾時，請再試一次"
+  },
+  "modal": {
+    "deleteTitle": "確認刪除",
+    "deleteMessage": "您確定要刪除此影片嗎？此動作無法復原。",
+    "cancel": "取消",
+    "delete": "刪除"
+  },
+  "examples": {
+    "title": "AI 語音頭像範例",
+    "description": "透過以下範例觀察 AI 語音頭像的實際效果，展示如何將靜態影像轉化為生動的語音視頻。",
+    "inputCaption": "輸入圖片",
+    "outputCaption1": "AI 產生的口語頭像影片，具有日語同步語音",
+    "outputCaption2": "AI 產生的口語頭像影片，具有日語同步語音",
+    "outputCaption3": "AI 產生的口語頭像影片，具有西班牙語同步語音",
+    "outputCaption4": "AI 產生的口語頭像影片，具有英語同步語音",
+    "model": "模型",
+    "transcript": "文字稿",
+    "inputAlt": "範例輸入人像圖片"
+  },
+  "faq": {
+    "title": "常見問題",
+    "description": "了解關於我們 AI 語音頭像的常見問題，涵蓋其特點、功能以及如何革新您的視頻創作流程。",
+    "q1": "如何直接在瀏覽器中錄製音頻？",
+    "a1": "只需點擊音頻輸入區域的‘錄製’選項卡，然後按下麥克風按鈕開始錄音。您將看到計時器顯示錄音的時長。完成後點擊停止按鈕，您可以在使用音頻製作語音頭像視頻之前預覽錄音。",
+    "q2": "哪些類型的圖片效果最佳？",
+    "a2": "清晰的正面人像效果最佳。臉部應光線充足、沒有遮擋，並且直視相機。中性的表情通常會產生最佳效果。",
+    "q3": "我的音訊可以有多長？",
+    "a3": "為了獲得最佳效果，請將您的音訊長度保持在 60 秒以下。較長的內容可能會導致較低的品質或同步問題。",
+    "q4": "標準和高畫質之間有什麼區別？",
+    "a4": "高畫質處理使用更進階的 AI 模型來建立更逼真的面部動作和更好的口型同步。它需要花費更多點數，但會產生更自然的效果。",
+    "q5": "我可以將產生的影片用於商業用途嗎？",
+    "a5": "您有責任確保您擁有使用輸入圖片和產生的影片的適當許可。在建立或分享口語頭像影片之前，務必取得圖片中人物的適當同意。",
+    "q6": "生成視頻後，我可以進行編輯嗎？",
+    "a6": "您可以下載生成的視頻，然後使用您選擇的任何視頻編輯軟體來進行編輯。",
+    "q7": "你們會保存我的圖片或音頻嗎？",
+    "a7": "我們僅於暫時處理您的媒體以生成會說話的頭像影片，不會永久保存您的原始圖像或音頻文件。",
+    "q8": "支持哪些音頻格式？",
+    "a8": "目前，我們支持 MP3 和 WAV 音頻格式。",
+    "q9": "為什麼我生成的影片看起來不太自然？",
+    "a9": "影片質量取決於輸入圖像的質量、光線、角度、面部表情和音頻質量。嘗試使用清晰的肖像照片、良好的光線和中性表情，以獲得最佳效果。",
+    "q10": "為什麼我產生的影片看起來不自然？",
+    "a10": "品質取決於輸入圖片品質、光線、角度、面部表情和音訊品質。嘗試使用更清晰的人像照片，並具有良好的光線和中性的表情，以獲得最佳效果。"
+  },
+  "tips": {
+    "title": "獲得最佳效果的提示",
+    "imageQuality": "使用具有良好光線的高品質人像照片",
+    "facialExpression": "選擇具有中性面部表情的圖片",
+    "framing": "確保臉部居中且在畫面中完全可見",
+    "audioQuality": "使用清晰且背景噪音極小的音訊",
+    "audioLength": "為了更好的同步效果，請將音訊長度保持在 60 秒以下",
+    "resolution": "較高解析度的圖片會產生更好的效果"
+  },
+  "whatIsSection": {
+    "title": "什麼是 AI 語音頭像？",
+    "description": "AI Talking Head 能夠從靜態圖片中創建逼真的對話視頻。它利用先進的 AI 技術來同步面部特徵與語音模式。只需上傳一張肖像照片，再錄製或上傳音頻文件，即可讓圖像栩栩如生地呈現出來！",
+    "recordingCaption": "直接在瀏覽器中錄製音頻"
+  },
+  "whyChoose": {
+    "title": "為什麼選擇我們的 AI 語音頭像",
+    "description": "我們的 AI 語音頭像提供多種優勢，是從靜態圖像創建逼真語音視頻的首選。"
+  },
+  "howToSection": {
+    "title": "如何使用 AI 語音頭像"
+  },
+  "steps": {
+    "step1": {
+      "title": "上傳圖片",
+      "content": "上傳一張清晰的人像照片，具有良好的光線和中性的表情。"
+    },
+    "step2": {
+      "title": "添加聲音",
+      "content": "直接在瀏覽器中錄製音頻或上傳音頻文件，讓您的圖像開口說話。"
+    },
+    "step3": {
+      "title": "自訂選項",
+      "content": "添加可選的提示，選擇您想要的長寬比和分辨率。"
+    },
+    "step4": {
+      "title": "產生並下載",
+      "content": "點擊產生，等待處理，然後下載您的口語頭像影片。"
+    }
+  },
+  "features": {
+    "feature1": {
+      "title": "逼真的口型同步",
+      "content": "進階 AI 確保口型動作和語音之間精確同步，以獲得自然的效果。"
+    },
+    "feature2": {
+      "title": "實時錄製音頻",
+      "content": "直接在瀏覽器中錄製您的聲音或上傳預錄音頻，提供最大的靈活性。"
+    },
+    "feature3": {
+      "title": "高畫質選項",
+      "content": "根據您的需求和偏好，在標準和高畫質渲染之間進行選擇。"
+    },
+    "feature4": {
+      "title": "快速處理",
+      "content": "我們經過最佳化的 AI 可以快速產生口語頭像影片，而不會影響品質。"
+    },
+    "feature5": {
+      "title": "易於使用",
+      "content": "簡單的介面使任何人都可以輕鬆建立看起來專業的口語頭像影片，而無需具備技術專業知識。"
+    },
+    "feature6": {
+      "title": "風格自訂",
+      "content": "添加提示以指導 AI 創建具有特定情緒或演示風格的視頻。"
+    }
+  },
+  "aspectRatio": {
+    "label": "長寬比",
+    "landscape": "橫向",
+    "portrait": "直向",
+    "square": "正方形"
+  },
+  "resolution": {
+    "label": "解析度"
+  },
+  "zapReminder": "閃電的計算基於音頻長度（默認為10秒）"
+}

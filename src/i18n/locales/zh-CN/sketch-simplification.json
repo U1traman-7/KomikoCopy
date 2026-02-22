@@ -1,0 +1,231 @@
+{
+  "ui": {
+    "title": "AI 草图简化",
+    "description": "使用 AI 将您的粗略草图转换为干净、简化的线条画。体验即时草图优化，只需一键即可优化您的绘图！非常适合希望简化创作流程的艺术家、设计师和漫画爱好者。",
+    "input": {
+      "title": "输入",
+      "tooltip": "上传草图以进行简化",
+      "sketchImage": "草图图像",
+      "aiModel": "AI 模型",
+      "models": {
+        "basic": "基础版",
+        "advanced": "高级版"
+      },
+      "selectModel": "选择模型"
+    },
+    "buttons": {
+      "simplifyImage": "简化图像"
+    },
+    "output": {
+      "title": "简化结果",
+      "emptyState": "您的简化结果将显示在此处",
+      "uploadPrompt": "上传图像以开始"
+    },
+    "toast": {
+      "fetchImagesFailed": "获取图像失败",
+      "deleteSuccess": "删除成功",
+      "deleteFailed": "删除失败",
+      "downloadFailed": "下载失败",
+      "simplifySuccess": "图像简化成功",
+      "simplifyFailed": "图像简化失败",
+      "createImageFailed": "创建图像失败"
+    },
+    "examples": {
+      "inputSketch": "输入草图",
+      "simplifiedResult": "简化结果",
+      "example1": "粗略草图转换为清晰的线条画",
+      "example2": "粗略草图优化为精美的线条画"
+    },
+    "modal": {
+      "deleteTitle": "删除确认",
+      "deleteMessage": "您确定要删除此图像吗？此操作不可撤销。",
+      "cancel": "取消",
+      "delete": "删除"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "AI 草图简化 - KomikoAI",
+      "description": "使用 AI 将复杂的草图转换为清晰、简化的线条画。上传您的草图，让 AI 为您优化。",
+      "keywords": "AI 草图简化, 草图转线条画, AI 线条画, 草图优化, 漫画草图, 动漫草图, AI 绘图工具, 草图清理, 线条画生成器"
+    },
+    "hero": {
+      "title": "AI 草图简化"
+    },
+    "howToUse": {
+      "title": "如何使用 AI 简化您的草图",
+      "description": "通过 Komiko 的 AI 草图简化功能，只需几个步骤即可将您的粗略草图转换为清晰、简化的线条画。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "步骤 1：上传草图图像",
+          "content": "将您的草图或粗略绘图上传到 AI 简化功能。支持 JPG 和 PNG 格式。"
+        },
+        {
+          "step": 2,
+          "title": "步骤 2：简化并分享",
+          "content": "点击“简化图像”并等待 AI 大显身手。下载并分享您简化的作品！"
+        }
+      ]
+    },
+    "examples": {
+      "title": "AI 草图简化示例",
+      "description": "查看由 Anitoon 用户生成的草图简化结果"
+    },
+    "cta": {
+      "title": "立即使用 AI 转换您的草图！",
+      "description": "立即使用我们先进的 AI 技术开始简化您的草图。",
+      "buttonText": "免费试用草图简化"
+    },
+    "benefits": {
+      "title": "为什么您应该使用 AI 简化您的草图",
+      "description": "Anitoon 的 AI 草图简化帮助艺术家将粗略草图转换为清晰、精美的线条画，从而提高您的创作效率。",
+      "features": [
+        {
+          "title": "清晰的线条画",
+          "content": "将杂乱的草图转换为清晰、专业的线条画，具有一致的笔触粗细和更高的清晰度。",
+          "icon": "🎨"
+        },
+        {
+          "title": "风格一致性",
+          "content": "通过 AI 驱动的简化功能，在您的绘图中保持一致的线条画风格。",
+          "icon": "🖌️"
+        },
+        {
+          "title": "节省时间",
+          "content": "通过让 AI 处理简化过程，节省手动优化线条画的时间。",
+          "icon": "💎"
+        },
+        {
+          "title": "增强清晰度",
+          "content": "通过消除不必要的细节和噪点，提高草图的清晰度和可读性。",
+          "icon": "💪"
+        },
+        {
+          "title": "智能简化",
+          "content": "AI 分析您的草图结构并智能地进行简化，同时保留重要的细节。",
+          "icon": "🧠"
+        },
+        {
+          "title": "专业品质",
+          "content": "获得可用于墨线或数字着色的专业级线条画。",
+          "icon": "🎨"
+        },
+        {
+          "title": "优化工作流程",
+          "content": "通过自动化草图优化阶段来简化您的创作过程。",
+          "icon": "💫"
+        },
+        {
+          "title": "模型选择",
+          "content": "在基础版和高级版 AI 模型之间进行选择，以满足您的特定需求。",
+          "icon": "📚"
+        },
+        {
+          "title": "即时优化",
+          "content": "立即将粗略草图转换为精美的线条画，非常适合漫画、动漫和插图。",
+          "icon": "⚡️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "关于 AI 草图简化的常见问题",
+      "description": "查找有关使用 AI 简化草图的常见问题的解答。",
+      "questions": [
+        {
+          "id": 1,
+          "question": "什么是 AI 草图简化？",
+          "answer": "AI 草图简化是一个使用人工智能将粗略草图转换为清晰、精美的线条画的过程。 Komiko 的 AI 草图简化工具通过自动优化和简化绘图，同时保持基本细节，帮助艺术家简化其创作过程。"
+        },
+        {
+          "id": 2,
+          "question": "如何使用 AI 简化草图？",
+          "answer": "您可以通过 Komiko AI 在两个简单的步骤中简化您的草图：\n1. 将您的草图图像上传到 AI 简化功能\n2. 点击“简化图像”并等待 AI 优化您的绘图"
+        },
+        {
+          "id": 3,
+          "question": "AI 草图简化如何工作？",
+          "answer": "AI 草图简化使用在数百万张图像上训练的先进 AI 模型来分析您的草图结构并智能地进行简化。 AI 识别重要的线条和细节，同时消除不必要的噪点和复杂性，从而生成清晰、专业的线条画。"
+        },
+        {
+          "id": 4,
+          "question": "AI 草图简化的好处是什么？",
+          "answer": "使用 AI 简化草图有多种好处：\n• 与手动优化线条画相比，节省时间\n• 生成一致的、专业品质的线条画\n• 在消除噪点的同时，保持重要的细节\n• 非常适合漫画、动漫和插图"
+        },
+        {
+          "id": 5,
+          "question": "我可以将 AI 简化的草图用于商业目的吗？",
+          "answer": "可以，您可以将 AI 生成的简化草图用于个人和商业目的。 但是，请确保您遵守 Komiko 的服务条款。"
+        },
+        {
+          "id": 6,
+          "question": "支持哪些格式和尺寸？",
+          "answer": "AI 支持 JPG 和 PNG 格式的草图。 输出图像将在简化的同时保持其原始大小。"
+        },
+        {
+          "id": 7,
+          "question": "AI 草图简化可以免费使用吗？",
+          "answer": "Komiko 提供免费 zaps（积分）供您试用该工具。 如果您需要更多使用量以及更高级的功能（如更快的处理速度和更高的分辨率），您也可以购买付费计划以获得更多 zaps。"
+        },
+        {
+          "id": 8,
+          "question": "我可以使用 AI 简化哪些类型的草图？",
+          "answer": "AI 简化功能适用于各种类型的草图：\n• 粗略草图和涂鸦\n• 角色设计\n• 漫画和动漫页面\n• 产品设计\n• 建筑图纸\n• 概念艺术\n为了获得最佳效果，请确保您的草图具有清晰、明确的线条和良好的对比度。"
+        },
+        {
+          "id": 9,
+          "question": "AI 草图简化的局限性是什么？",
+          "answer": "虽然 AI 草图简化是一个强大的工具，但它有一些局限性：\n• 复杂细节：非常复杂或高度详细的草图可能会丢失一些精细细节\n• 风格一致性：AI 可能无法完全匹配您期望的艺术风格\n• 质量：简化质量取决于输入草图质量\n尽管存在这些局限性，但 AI 简化可以显著加快您的工作流程并增强您的创作过程。"
+        },
+        {
+          "id": 10,
+          "question": "我需要会绘画才能使用 AI 草图简化吗？",
+          "answer": "不，您不需要成为绘画专家才能使用 AI 草图简化。\n• 对于艺术家：如果您创建自己的草图，此工具可以帮助优化和清理您的作品\n• 对于非艺术家：您可以从现有的草图或模板开始，然后让 AI 处理简化\n此工具设计为对每个人都用户友好，无论您是经验丰富的艺术家还是探索创造力的初学者。"
+        },
+        {
+          "id": 11,
+          "question": "如何从 AI 草图简化中获得最佳效果？",
+          "answer": "请按照以下提示进行优化简化：\n• 使用清晰、明确的草图并具有良好的对比度\n• 确保您的草图具有清晰的线条和形状\n• 根据您的需要选择合适的 AI 模型\n• 考虑在需要时使用透明背景选项"
+        },
+        {
+          "id": 12,
+          "question": "AI 简化与手动优化相比如何？",
+          "answer": "与手动优化相比，AI 草图简化可显著节省时间，从而将数小时的工作缩短到几分钟。 虽然它可能无法完全取代粗略艺术项目的传统优化，但它是快速原型设计、概念可视化和快速创建多个变体的绝佳工具。 AI 了解线条画原理，并可以提出您可能没有考虑到的改进建议。"
+        },
+        {
+          "id": 13,
+          "question": "我可以编辑 AI 简化结果吗？",
+          "answer": "可以，您可以使用您喜欢的数字艺术软件进一步编辑和优化 AI 简化的草图。 AI 生成的结果是一个很好的基础，您可以利用您的个人艺术风格来增强它。"
+        },
+        {
+          "id": 14,
+          "question": "使用 AI 草图简化有哪些创造性的方法？",
+          "answer": "AI 草图简化可用于：\n• 快速原型设计角色设计\n• 为漫画和动漫创建清晰的线条画\n• 将粗略草图优化为精美的插图\n• 开发概念艺术\n• 在艺术课程中进行教育目的\n• 将粗略图纸转换为简单的线条画"
+        }
+      ]
+    }
+  },
+  "examples": [
+    {
+      "input": "/images/examples/sketch_simplifier/input2.webp",
+      "output": "/images/examples/sketch_simplifier/output2.webp",
+      "inputLabel": "输入草图",
+      "outputLabel": "简化结果",
+      "prompt": "粗略草图转换为清晰的线条画"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input1.webp",
+      "output": "/images/examples/sketch_simplifier/output1.webp",
+      "inputLabel": "输入草图",
+      "outputLabel": "简化结果",
+      "prompt": "粗略草图优化为精美的线条画"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input3.webp",
+      "output": "/images/examples/sketch_simplifier/output3.webp",
+      "inputLabel": "输入草图",
+      "outputLabel": "简化结果",
+      "prompt": "粗略草图优化为精美的线条画"
+    }
+  ]
+}

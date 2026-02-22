@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "이미지-비디오 생성기 - KomikoAI",
+      "description": "AI의 강력한 기능을 활용하여 정지 이미지를 매력적인 비디오로 변환하십시오. KomikoAI의 이미지-비디오 생성기를 사용하여 예술 작품, 사진, 일러스트레이션 등을 역동적인 애니메이션으로 바꿔보세요.",
+      "fullDescription": "정지 이미지를 매혹적인 비디오로 바꿔주는 혁신적인 이미지-비디오 생성기를 소개합니다. 애니메이션, 만화, 코믹, 또는 수준 높은 예술 작품 제작 시, 이미지에 생동감을 불어넣어 시각적 효과를 극대화할 수 있습니다. 창의적인 이미지-비디오 솔루션을 찾는 콘텐츠 제작자, 아티스트 및 애니메이터에게 이상적인 도구입니다.",
+      "keywords": "AI 이미지-비디오, 이미지-비디오 생성기, 이미지 애니메이션, 애니메이션 비디오 생성기, 만화 비디오 도구, 코믹 비디오 도구, 이미지-애니메이션, 이미지에서 비디오 제작, 이미지에서 애니메이션 제작"
+    },
+    "hero": {
+      "title": "이미지-비디오 생성기",
+      "description": "KomikoAI의 이미지-비디오 생성기로 정지 이미지를 멋진 비디오로 변환하십시오. 고급 AI 기술을 기반으로 하는 역동적인 애니메이션으로 그림, 만화, 또는 모든 예술 작품에 생명을 불어넣으세요."
+    },
+    "whatIs": {
+      "title": "이미지-비디오 생성기란 무엇인가요?",
+      "description": "이미지-비디오 생성기는 인공지능을 사용하여 정지 이미지에서 매혹적인 비디오를 만들 수 있는 최첨단 도구입니다. 이 혁신적인 도구는 애니메이션, 만화 및 코믹 창작물에 생기를 불어넣는 데 적합합니다."
+    },
+    "examples": {
+      "title": "이미지-비디오 예시",
+      "description": "KomikoAI의 이미지-비디오 생성기를 사용하여 생성된 놀라운 비디오들을 확인해 보세요. 정지 이미지를 얼마나 쉽고 역동적인 비디오 콘텐츠로 애니메이션화할 수 있는지 직접 확인하실 수 있습니다!"
+    },
+    "howToUse": {
+      "title": "이미지-비디오 생성기 사용 방법",
+      "steps": [
+        {
+          "title": "이미지 업로드",
+          "content": "비디오로 변환하려는 이미지를 선택하십시오. 예술 작품, 캐릭터 일러스트레이션 또는 사진 등, 이미지-비디오 생성기는 모든 이미지를 애니메이션화할 수 있습니다."
+        },
+        {
+          "title": "프롬프트 입력",
+          "content": "애니메이션 과정에 대한 정보를 제공하기 위해 자세한 프롬프트를 입력하십시오. AI가 생성하기를 원하는 동작, 표정 및 움직임을 구체적으로 설명하십시오. (Prompt)"
+        },
+        {
+          "title": "비디오 생성",
+          "content": "'애니메이션 생성' 버튼을 클릭하고 이미지-비디오 생성기가 정지 이미지에 생생한 애니메이션을 불어넣는 과정을 지켜보십시오."
+        },
+        {
+          "title": "다운로드 및 공유",
+          "content": "비디오가 생성되면 다운로드하여 원하시는 플랫폼에서 공유하십시오. 소셜 미디어, 개인 프로젝트 및 창의적인 결과물 발표에 적합합니다."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "이미지-비디오 생성기를 사용해야 하는 이유",
+      "description": "AI 기술을 활용하여 이미지에서 멋진 비디오를 생성하는 데 따르는 엄청난 이점을 경험하십시오. 이미지-비디오 생성기는 누구나 쉽게 애니메이션 예술을 접할 수 있도록 만들어 줍니다!",
+      "features": [
+        {
+          "title": "효율적인 AI 기반 애니메이션",
+          "content": "지능형 AI 알고리즘을 활용하여 이미지를 분석하고 역동적인 비디오를 손쉽게 제작하십시오.",
+          "icon": "🤖"
+        },
+        {
+          "title": "역동적이고 매력적인 콘텐츠",
+          "content": "정지 이미지를 소셜 미디어 및 매력적인 프레젠테이션에 적합한 흥미로운 비디오로 변환하십시오.",
+          "icon": "🎬"
+        },
+        {
+          "title": "사용자 친화적인 인터페이스",
+          "content": "사전 애니메이션 기술은 필요하지 않습니다! 이미지를 업로드하고 프롬프트를 추가하기만 하면 AI가 모든 작업을 처리합니다.",
+          "icon": "👌"
+        },
+        {
+          "title": "시간 절약 솔루션",
+          "content": "애니메이션 제작 시간을 획기적으로 단축하십시오. 이미지-비디오 생성기는 빠른 결과를 제공하여 사용자가 창의적인 작업에 더욱 집중할 수 있도록 지원합니다.",
+          "icon": "⚡"
+        },
+        {
+          "title": "고품질 결과물",
+          "content": "저희 AI가 생성한 부드러운 전환과 사실적인 움직임으로 전문가 수준의 애니메이션을 구현하십시오.",
+          "icon": "✨"
+        },
+        {
+          "title": "창의력 육성",
+          "content": "AI가 애니메이션의 기술적인 세부 사항을 처리하여 제작 과정을 간소화하므로, 사용자는 예술적 비전에 더욱 집중할 수 있습니다.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "이미지-비디오 생성기 전문가 가이드",
+      "description": "매혹적인 애니메이션 비디오를 만들기 위해 이미지-비디오 생성기를 활용하는 방법에 대한 유용한 정보를 얻으십시오.",
+      "q1": "이미지-비디오 생성기란 무엇인가요?",
+      "a1": "이미지-비디오 생성기는 인공 지능을 사용하여 정지 이미지를 생생한 애니메이션 비디오로 변환하는 혁신적인 기술입니다. 고급 알고리즘을 활용하여 움직임과 감정을 포착하며, 애니메이션, 만화 및 다양한 예술 형태에 적합합니다.",
+      "q2": "이미지-비디오 생성기는 어떻게 작동하나요?",
+      "a2": "이 도구는 정교한 AI 모델을 사용하여 이미지와 컨텍스트를 분석합니다. 이미지 내의 핵심 요소를 지능적으로 식별하여 움직임과 표정을 시뮬레이션하는 프레임을 생성하여 예술에 생명을 불어넣습니다.",
+      "q3": "이미지-비디오 생성기는 어떤 이점을 제공하나요?",
+      "a3": "이미지-비디오 생성기는 다음과 같은 다양한 이점을 제공합니다. 전문적인 예술 기술 없이도 빠른 비디오 제작이 가능하며, 정지된 시각적 요소를 매력적인 애니메이션으로 변환하고, 개인 및 상업 프로젝트 모두에 적합합니다.",
+      "q4": "이미지-비디오 생성기로 제작된 비디오를 상업적으로 사용할 수 있나요?",
+      "a4": "예, 생성된 비디오는 개인 및 상업적 용도로 모두 사용하실 수 있습니다. 사용 권한에 대한 자세한 내용은 서비스 약관을 참조해 주십시오.",
+      "q5": "어떤 이미지 파일 형식이 호환되나요?",
+      "a5": "KomikoAI AI는 JPG 및 PNG와 같은 일반적인 이미지 형식을 지원합니다. 최상의 결과를 얻으려면 원하시는 결과물을 효과적으로 나타내는 고해상도 이미지를 사용하십시오.",
+      "q6": "어떤 유형의 콘텐츠가 가장 효과적으로 애니메이션화될 수 있나요?",
+      "a6": "이미지-비디오 생성기는 애니메이션, 만화, 코믹 및 스타일화된 예술 작품과 같은 콘텐츠에 특히 뛰어난 성능을 발휘합니다. 명확하게 디자인된 이미지는 애니메이션 비디오의 품질을 향상시킵니다.",
+      "q7": "이 도구를 사용하려면 그림 실력이 있어야 하나요?",
+      "a7": "예술적인 기술은 필수가 아닙니다! 이미지-비디오 생성기가 기존 이미지를 애니메이션화하여 멋진 비디오를 쉽게 만들 수 있습니다.",
+      "q8": "이미지-비디오 생성기와 관련하여 어떤 제한 사항을 알고 있어야 하나요?",
+      "a8": "이미지-비디오 생성기는 매우 효과적이지만 몇 가지 제한 사항이 존재합니다. 매우 상세한 이미지는 처리 시간이 더 오래 걸릴 수 있으며, 일관된 예술 스타일을 유지하는 것이 어려울 수 있습니다. 또한 매우 고해상도 이미지는 더 많은 컴퓨팅 리소스를 필요로 할 수 있습니다."
+    }
+  },
+  "originalKeyword": "Image to Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "모델: Anime Pro",
+      "description": "Prompt: Anime boy suddenly draws a gun and fires with a flash of light, intense expression, dramatic camera angle. He immediately turns and runs down the street.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/man.webm"
+    },
+    {
+      "id": 2,
+      "title": "모델: Veo 3",
+      "description": "Prompt: A close up in a smooth, slow pan focuses intently on diced onions hitting a scorching hot pan, instantly creating a dramatic sizzle. Audio: distinct sizzle.",
+      "videoUrl": "/images/pages/veo3/example5.webm"
+    },
+    {
+      "id": 3,
+      "title": "모델: Midjourney",
+      "description": "Prompt: Anime maid girl in frilly black and white uniform walking toward camera carrying tea tray, warm cafe lighting, soft focus background with customers, golden hour sunlight through windows, gentle approach movement",
+      "videoUrl": "/images/pages/midjourney/example3.webm"
+    },
+    {
+      "id": 4,
+      "title": "모델: AniSora",
+      "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+      "videoUrl": "/images/pages/anisora/example3.webm"
+    },
+    {
+      "id": 5,
+      "title": "모델: Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 6,
+      "title": "모델: FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said \"cute\" using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    }
+  ],
+  "pageStructure": [
+    "examples",
+    "whatIs",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ]
+}

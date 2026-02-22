@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 影片產生器 - KomikoAI",
+      "description": "透過我們的 AI 影片產生器，釋放 AI 的無限潛力，將靜態圖像轉化為引人入勝的動態影片。運用先進技術，輕鬆將您的藝術作品、漫畫、動畫或插圖轉化為生動的動畫。",
+      "fullDescription": "體驗創新的 AI 影片產生器，它採用尖端 AI 技術，將靜態圖像轉換為生動逼真的動態影片。此工具非常適合藝術家、內容創作者和動畫愛好者，能輕鬆將您的插圖和藝術作品轉化為栩栩如生的影像。",
+      "keywords": "AI 影片產生器, 影片產生器, 靜態圖像轉影片, 動畫產生器, AI 驅動影片工具, 動態影片創建, 從圖像創建影片, 動漫影片產生器, 漫畫影片產生器"
+    },
+    "hero": {
+      "title": "AI 影片產生器",
+      "description": "透過我們的 AI 影片產生器，釋放 AI 的無限潛力，將靜態圖像轉化為引人入勝的動態影片。運用先進技術，輕鬆將您的藝術作品、漫畫、動畫或插圖轉化為生動的動畫。"
+    },
+    "whatIs": {
+      "title": "什麼是 AI 影片產生器？",
+      "description": "AI 影片產生器是一個功能強大的工具，讓您可以使用先進的 AI 技術，從靜態圖像創建令人驚豔的影片。它專為希望輕鬆地將其藝術作品、角色和場景製作成動畫的藝術家和創作者所設計。"
+    },
+    "examples": {
+      "title": "AI 影片範例",
+      "description": "探索由我們的 AI 影片產生器所創建的影片範例。親眼見證靜態圖像轉變為生動、引人入勝的動畫的奇妙過程！"
+    },
+    "howToUse": {
+      "title": "如何使用 AI 影片產生器",
+      "steps": [
+        {
+          "title": "上傳您的圖像",
+          "content": "首先，上傳您想要轉換為影片的圖像。無論是插圖、動漫角色還是漫畫，我們的 AI 影片產生器都將使您的創作栩栩如生。"
+        },
+        {
+          "title": "輸入提示詞",
+          "content": "提供一個描述性的 prompt 來引導動畫。詳細說明您希望圖像呈現的動作、表情或行為。"
+        },
+        {
+          "title": "產生您的影片",
+          "content": "按下「產生動畫」按鈕，觀看我們的 AI 影片產生器即時從您的靜態圖像創建引人入勝的動畫。"
+        },
+        {
+          "title": "下載並分享",
+          "content": "影片準備就緒後，即可輕鬆下載並在社群媒體平台上或與您的受眾分享。非常適合展示您的創意作品！"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼要使用 AI 影片產生器？",
+      "description": "探索使用 AI 影片產生器從您的藝術作品、漫畫和插圖創建令人驚豔的影片所帶來的優勢。這種先進的工具讓所有創作者都能輕鬆進行動畫製作！",
+      "features": [
+        {
+          "title": "AI 驅動的動畫",
+          "content": "利用 AI 在影片生成方面的強大功能。我們的智慧演算法會無縫地分析您的圖像並製作動態影片。",
+          "icon": "🤖"
+        },
+        {
+          "title": "創建引人入勝的內容",
+          "content": "將靜態圖像轉換為引人入勝的影片，非常適合社群媒體、作品展示和個人專案。",
+          "icon": "🎬"
+        },
+        {
+          "title": "使用者友善的介面",
+          "content": "無需動畫背景！只需上傳您的圖像，提供 prompt，然後讓我們的 AI 產生影片。",
+          "icon": "👌"
+        },
+        {
+          "title": "節省時間",
+          "content": "大幅縮短動畫製作時間。AI 影片產生器可在短時間內產生令人驚豔的影片，從而節省您數小時的手動工作。",
+          "icon": "⚡"
+        },
+        {
+          "title": "高品質輸出",
+          "content": "創建專業級影片。我們的 AI 可確保流暢的動作和逼真的動畫，非常適合任何受眾。",
+          "icon": "✨"
+        },
+        {
+          "title": "自由創作",
+          "content": "專注於您的創意，而我們的 AI 影片產生器會負責技術動畫過程，讓您充分釋放您的創意潛能。",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 影片產生器專家指南",
+      "description": "取得使用我們的 AI 影片產生器創建專業影片所需的所有深入見解。",
+      "q1": "什麼是 AI 影片產生器？",
+      "a1": "AI 影片產生器是一種利用人工智慧來動畫化靜態圖像的精密工具。它採用先進的演算法來創建沉浸式影片，非常適合藝術家和數位創作者。",
+      "q2": "AI 影片產生器如何運作？",
+      "a2": "我們的 AI 技術利用深度學習模型來解讀您的圖像和 prompt。AI 會產生新的影格，產生流暢的動畫、表情和動態視覺效果，從而提升您的內容。",
+      "q3": "使用 AI 影片產生器進行動畫製作有什麼好處？",
+      "a3": "AI 影片產生器具有許多優點：它可以加快影片製作速度，無需廣泛的技能即可實現高品質的影片創建，可以輕鬆地透過動畫內容吸引觀眾，並且非常適合新手和經驗豐富的創作者。",
+      "q4": "我可以使用 AI 影片產生器產生的影片進行商業用途嗎？",
+      "a4": "是的，您可以將 AI 生成的影片用於個人和商業專案。請務必查閱我們的服務條款以獲取詳細資訊。",
+      "q5": "AI 影片產生器支援哪些圖像格式？",
+      "a5": "我們的 AI 影片產生器支援常見的圖像格式，例如 JPG 和 PNG。為了獲得最佳效果，請使用高解析度圖像來清楚地呈現您想要的動畫效果。",
+      "q6": "哪些類型的內容最適合 AI 影片產生器？",
+      "a6": "AI 影片產生器擅長處理插圖、動漫、漫畫和風格化的藝術作品。明確定義的角色設計可提高動畫品質。",
+      "q7": "我需要具備藝術技能才能使用 AI 影片產生器嗎？",
+      "a7": "無需任何藝術技能！我們的 AI 影片產生器會動畫化您現有的圖像，無論背景如何，每個人都可以使用它。",
+      "q8": "AI 影片產生器有任何限制嗎？",
+      "a8": "雖然我們的 AI 影片產生器功能強大，但它也存在一些限制：複雜的動畫可能需要額外的處理時間，在某些情況下，保持一致的藝術風格可能具有挑戰性，並且高解析度圖像可能需要更多的計算資源。"
+    }
+  },
+  "originalKeyword": "AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 2,
+      "title": "模型：Veo 3",
+      "description": "Prompt: A medium shot, historical adventure setting: Warm lamplight illuminates a cartographer in a cluttered study, poring over an ancient, sprawling map spread across a large table. Cartographer: \"According to this old sea chart, the lost island isn't myth! We must prepare an expedition immediately!\"",
+      "videoUrl": "/images/pages/veo3/example8.webm"
+    },
+    {
+      "id": 3,
+      "title": "模型：Marey",
+      "description": "Prompt: Keyframing - Advanced keyframe animation and temporal control",
+      "videoUrl": "https://framerusercontent.com/assets/n2GMFj97mJ15e8X2Qulx9RRQNbs.mp4"
+    },
+    {
+      "id": 4,
+      "title": "模型：AniSora",
+      "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+      "videoUrl": "/images/pages/anisora/example3.webm"
+    },
+    {
+      "id": 5,
+      "title": "模型：Midjourney",
+      "description": "Prompt: Anime maid girl in frilly black and white uniform walking toward camera carrying tea tray, warm cafe lighting, soft focus background with customers, golden hour sunlight through windows, gentle approach movement",
+      "videoUrl": "/images/pages/midjourney/example3.webm"
+    },
+    {
+      "id": 6,
+      "title": "模型：Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output4.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ]
+}

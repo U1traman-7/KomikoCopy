@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "title": "Colorisasi Line Art AI - KomikoAI",
+    "description": "Warnai gambar garis hitam putih Anda dengan AI. Unggah sketsa Anda dan biarkan AI yang mewarnainya."
+  },
+  "common": {
+    "new": "Baru",
+    "cancel": "Batal",
+    "delete": "Hapus"
+  },
+  "hero": {
+    "title": "Colorisasi Line Art AI",
+    "description": "Otomatis warnai sketsa, gambar garis (line art), atau halaman manga Anda dengan AI. Nikmati colorisasi instan yang menambahkan warna pada karya seni garis Anda hanya dengan sekali klik! Ubah sketsa hitam putih Anda menggunakan alat colorisasi AI canggih dari KomikoAI, dengan opsi gambar referensi untuk memandu gaya warna. Sempurna untuk seniman, desainer, dan penggemar manga yang ingin menghidupkan kreasi mereka dengan mudah."
+  },
+  "input": {
+    "title": "Input",
+    "tooltip": "Unggah gambar garis untuk diwarnai",
+    "lineArt": {
+      "label": "Gambar Garis"
+    },
+    "referenceImage": {
+      "label": "Gambar Referensi (Opsional)",
+      "description": "Unggah versi berwarna penuh dari objek yang sama untuk membantu AI dalam mewarnai gambar garis Anda."
+    },
+    "transparentBackground": "Latar Belakang Transparan",
+    "prompt": {
+      "label": "Prompt (Opsional)",
+      "placeholder": "Masukkan prompt Anda, contoh: 1boy, rambut merah, mata biru, latar belakang putih, dll."
+    },
+    "model": {
+      "label": "Model AI",
+      "description": "Model tingkat lanjut terkadang gagal karena kebijakan moderasi konten dari penyedia layanan kami. Silakan gunakan model dasar jika Anda mengalami masalah.",
+      "placeholder": "Pilih model",
+      "ariaLabel": "Pilih model colorisasi",
+      "options": {
+        "basic": "Dasar",
+        "advanced": "Lanjutan"
+      }
+    }
+  },
+  "output": {
+    "title": "Hasil Colorisasi",
+    "empty": {
+      "message": "Hasil colorisasi Anda akan muncul di sini",
+      "instruction": "Unggah gambar untuk memulai"
+    }
+  },
+  "seo": {
+    "whatIs": {
+      "title": "Apa itu Colorisasi Line Art?",
+      "description": "Colorisasi Line Art adalah proses menambahkan warna pada sketsa atau gambar garis Anda. Teknik ini populer dalam pembuatan manga dan komik, karena memungkinkan seniman untuk menambahkan warna dan membuat gambar lebih hidup dan dinamis. Colorisasi Line Art AI adalah alat yang memungkinkan Anda mewarnai gambar garis Anda secara instan dengan bantuan AI."
+    },
+    "howTo": {
+      "title": "Cara Mewarnai Gambar Garis Anda dengan AI",
+      "description": "Otomatis warnai sketsa, gambar garis hitam putih, atau halaman manga Anda dengan colorizer line art AI KomikoAI dalam beberapa langkah mudah."
+    },
+    "steps": {
+      "step1": {
+        "title": "Langkah 1: Unggah Gambar Garis",
+        "content": "Unggah gambar garis hitam putih atau sketsa Anda ke colorizer AI. Format JPG dan PNG didukung."
+      },
+      "step2": {
+        "title": "Langkah 2: Tambahkan Gambar Referensi (Opsional)",
+        "content": "Unggah gambar referensi untuk memandu pilihan warna dan gaya AI. Ini membantu mencapai hasil colorisasi yang lebih akurat."
+      },
+      "step3": {
+        "title": "Langkah 3: Masukkan Prompt (Opsional)",
+        "content": "Masukkan prompt untuk menggambarkan colorisasi yang Anda inginkan. Contoh: 'rambut merah, mata biru'."
+      },
+      "step4": {
+        "title": "Langkah 4: Warnai dan Bagikan",
+        "content": "Klik 'Warnai Gambar' dan tunggu AI melakukan keajaibannya. Unduh dan bagikan kreasi berwarna Anda!"
+      }
+    }
+  },
+  "examples": {
+    "title": "Contoh Colorisasi Line Art AI",
+    "description": "Lihat hasil colorisasi AI yang dihasilkan oleh pengguna KomikoAI",
+    "inputLabel": "Input Gambar Garis",
+    "outputLabel": "Hasil Berwarna",
+    "referenceLabel": "Gambar Referensi",
+    "example1": {
+      "inputAlt": "Gambar input gambar garis",
+      "outputAlt": "Gambar output berwarna",
+      "prompt": "Prompt: \"gadis anime lucu memakai gaun pelayan hitam putih, latar belakang putih\""
+    },
+    "example2": {
+      "inputAlt": "Gambar input gambar garis",
+      "outputAlt": "Gambar output berwarna",
+      "prompt": "Prompt: \"1girl, rambut pirang, kemeja putih, panel manga\""
+    },
+    "example3": {
+      "inputAlt": "Gambar input gambar garis",
+      "referenceAlt": "Gambar referensi input",
+      "outputAlt": "Gambar output berwarna",
+      "prompt": "Prompt: \"Klee (Genshin Impact)\""
+    }
+  },
+  "whyUse": {
+    "title": "Mengapa Anda Harus Menambahkan Warna ke Karya Garis Anda dengan AI?",
+    "description": "Colorizer Line Art AI KomikoAI menyederhanakan colorisasi gambar garis untuk semua orang, dari pemula hingga ilustrator profesional.",
+    "features": {
+      "referenceGuided": {
+        "title": "Pewarnaan dengan Panduan Referensi",
+        "content": "Unggah gambar referensi untuk memandu pilihan warna dan gaya AI, memastikan karya seni berwarna Anda sesuai dengan visi Anda."
+      },
+      "specifyColors": {
+        "title": "Tentukan Warna yang Anda Inginkan",
+        "content": "Tentukan warna yang Anda inginkan dalam colorisasi gambar garis Anda dengan prompt seperti 'rambut merah, mata biru' atau gunakan gambar referensi untuk kontrol yang lebih presisi."
+      },
+      "customArtStyles": {
+        "title": "Gaya Seni Kustom",
+        "content": "Tentukan gaya seni yang Anda inginkan dalam colorisasi gambar garis Anda dengan prompt seperti 'komik', 'anime', 'manga', 'manhwa', atau bahkan nama seorang seniman."
+      },
+      "effortlessFilling": {
+        "title": "Pengisian Otomatis",
+        "content": "Hemat waktu dan tenaga dengan membiarkan AI menangani proses pewarnaan sketsa. AI akan secara otomatis mengisi dan mewarnai gambar garis Anda. Anda tidak perlu mengisi dan mewarnai setiap detail gambar Anda secara manual."
+      },
+      "smartColorization": {
+        "title": "Colorisasi Cerdas",
+        "content": "Dengan memahami nuansa gaya artistik Anda, AI KomikoAI menganalisis komposisi, struktur, dan estetika keseluruhan gambar Anda. AI KomikoAI menerapkan warna tidak hanya untuk menyesuaikan, tetapi juga untuk meningkatkan ilustrasi Anda."
+      },
+      "highQualityOutputs": {
+        "title": "Output Berkualitas Tinggi",
+        "content": "Unduh komik dengan kualitas profesional, sempurna untuk dibagikan atau dicetak."
+      },
+      "streamlinedWorkflow": {
+        "title": "Alur Kerja yang Efisien",
+        "content": "Colorisasi gambar garis AI terintegrasi dengan mulus ke dalam ilustrasi, komik, manhwa, atau alur kerja manga Anda. KomikoAI membebaskan Anda dari pengisian dan colorisasi, sehingga Anda dapat fokus pada inti kreatif karya seni Anda."
+      },
+      "mangaPanelConsistency": {
+        "title": "Konsistensi Panel Manga",
+        "content": "Pertahankan pewarnaan yang konsisten di beberapa panel dan halaman manga. Sempurna untuk seniman manga dan pembuat komik yang perlu memastikan kesinambungan warna di seluruh cerita dan desain karakter mereka."
+      },
+      "instantEnhancement": {
+        "title": "Peningkatan Instan",
+        "content": "Ubah sketsa hitam putih menjadi ilustrasi yang hidup secara instan. Apakah Anda sedang mengerjakan manga, komik, atau gambar garis, colorizer AI kami menghidupkan karya seni Anda sambil mempertahankan kualitas gambar garis asli."
+      }
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan Umum Tentang Colorisasi Line Art AI",
+    "description": "Temukan jawaban untuk pertanyaan yang sering diajukan tentang mewarnai gambar garis dan sketsa dengan AI.",
+    "what_is": {
+      "question": "Apa itu colorisasi line art AI?",
+      "answer": "Colorisasi line art AI adalah proses yang menggunakan kecerdasan buatan untuk secara otomatis mewarnai gambar garis hitam putih. Alat colorizer line art AI KomikoAI mengubah sketsa, manga, atau gambar garis apa pun menjadi gambar berwarna penuh yang hidup, menghemat waktu bagi seniman dan penggemar."
+    },
+    "how_to_color": {
+      "question": "Bagaimana cara mewarnai gambar garis hitam putih dengan AI?",
+      "answer": {
+        "intro": "Anda dapat mewarnai gambar garis Anda dengan KomikoAI AI dalam empat langkah mudah:",
+        "step1": "Unggah gambar garis Anda ke colorizer AI",
+        "step2": "Masukkan prompt untuk menggambarkan colorisasi yang Anda inginkan",
+        "step3": "Klik tombol 'Warnai Gambar' untuk memulai proses colorisasi",
+        "step4": "Unduh gambar berwarna dan bagikan dengan teman-teman Anda!"
+      }
+    },
+    "can_i_use_ai": {
+      "question": "Bisakah saya menggunakan AI untuk mewarnai dan membayangi karya garis saya?",
+      "answer": "Ya, Anda dapat menggunakan AI untuk mewarnai dan membayangi karya garis Anda. Alat colorizer line art AI KomikoAI dapat mewarnai gambar garis hitam putih Anda dengan warna dan bayangan yang hidup. Anda dapat mengunggah gambar garis Anda dan memasukkan prompt untuk menggambarkan colorisasi yang Anda inginkan. AI akan menafsirkan maksud artistik Anda dan menghasilkan gambar berwarna."
+    },
+    "how_does_it_work": {
+      "question": "Bagaimana cara kerja colorisasi line art AI?",
+      "answer": "Colorisasi line art AI menggunakan model AI canggih yang dilatih pada jutaan gambar untuk mengenali pola dalam gambar garis dan menerapkan warna artistik. Anda mengunggah sketsa Anda, menambahkan prompt warna, dan AI akan menafsirkan maksud artistik Anda dan menghasilkan gambar berwarna."
+    },
+    "benefits": {
+      "question": "Apa manfaat dari colorisasi line art AI?",
+      "answer": {
+        "intro": "Ada berbagai manfaat mewarnai gambar garis dengan AI:",
+        "benefit1": "Menghemat waktu dibandingkan dengan pewarnaan manual.",
+        "benefit2": "Menghasilkan hasil berkualitas tinggi setara profesional.",
+        "benefit3": "Dapat diakses oleh non-seniman dan pemula.",
+        "benefit4": "Dapat disesuaikan dengan prompt untuk menyesuaikan visi kreatif Anda."
+      }
+    },
+    "commercial_use": {
+      "question": "Bisakah saya menggunakan gambar berwarna yang dihasilkan AI untuk tujuan komersial?",
+      "answer": "Ya, Anda dapat menggunakan gambar berwarna yang dihasilkan AI untuk tujuan pribadi dan komersial. Namun, pastikan Anda mematuhi persyaratan layanan KomikoAI."
+    },
+    "formats": {
+      "question": "Format dan ukuran apa yang didukung?",
+      "answer": "AI mendukung gambar garis dalam format JPG dan PNG. Gambar output akan memiliki ukuran yang sama dengan aslinya."
+    },
+    "is_free": {
+      "question": "Apakah colorizer line art AI gratis untuk digunakan?",
+      "answer": "KomikoAI menawarkan zaps (kredit) gratis untuk Anda mencoba alat ini. Anda juga dapat membeli paket berbayar untuk mendapatkan lebih banyak zaps jika Anda membutuhkan lebih banyak penggunaan, serta fitur-fitur canggih seperti pemrosesan yang lebih cepat dan resolusi yang lebih tinggi."
+    },
+    "prompts": {
+      "question": "Prompt apa yang harus saya gunakan untuk hasil colorisasi AI terbaik?",
+      "answer": "Gunakan prompt yang jelas dan deskriptif seperti \"rambut merah, mata biru, pakaian modern.\" Hindari istilah yang ambigu."
+    },
+    "limitations": {
+      "question": "Apa batasan dari colorisasi line art AI?",
+      "answer": {
+        "intro": "Meskipun colorisasi line art AI adalah alat yang ampuh, ia memiliki beberapa batasan:",
+        "limitation1": "Gaya Artistik: AI mungkin tidak selalu cocok dengan gaya artistik yang Anda inginkan.",
+        "limitation2": "Detail Kompleks: Gambar garis yang rumit atau sangat detail dapat menghasilkan hasil yang tidak terduga.",
+        "limitation3": "Kustomisasi: Colorisasi didasarkan pada prompt, dan prompt yang terlalu samar atau tidak jelas dapat menghasilkan hasil yang tidak memuaskan.",
+        "conclusion": "Terlepas dari batasan ini, colorisasi AI dapat secara signifikan mempercepat alur kerja dan meningkatkan kreativitas."
+      }
+    },
+    "need_to_draw": {
+      "question": "Apakah saya perlu tahu cara menggambar untuk menggunakan colorisasi line art AI?",
+      "answer": {
+        "intro": "Tidak, Anda tidak perlu tahu cara menggambar untuk menggunakan colorisasi line art AI.",
+        "for_artists": "Untuk Seniman: Jika Anda membuat sketsa sendiri, alat ini dapat menghidupkannya dengan warna-warna cerah.",
+        "for_non_artists": "Untuk Non-Seniman: Anda dapat mulai dengan gambar garis atau templat yang ada, mengunggahnya, dan membiarkan AI menangani colorisasi.",
+        "conclusion": "Alat ini dirancang agar mudah digunakan untuk semua orang, baik Anda seorang seniman berpengalaman atau pemula yang menjelajahi kreativitas."
+      }
+    },
+    "types_of_line_art": {
+      "question": "Jenis gambar garis apa yang dapat saya warnai dengan AI?",
+      "answer": {
+        "intro": "Colorizer AI berfungsi dengan berbagai jenis gambar garis:",
+        "type1": "Sketsa dan gambar",
+        "type2": "Halaman manga dan komik",
+        "type3": "Desain karakter",
+        "type4": "Ilustrasi",
+        "type5": "Desain produk",
+        "type6": "Gambar arsitektur",
+        "conclusion": "Untuk hasil terbaik, pastikan gambar garis Anda memiliki garis yang jelas dan terdefinisi dengan baik serta kontras yang baik."
+      }
+    },
+    "best_results": {
+      "question": "Bagaimana saya bisa mendapatkan hasil terbaik dari colorisasi AI?",
+      "answer": {
+        "intro": "Ikuti tips ini untuk colorisasi optimal:",
+        "tip1": "Gunakan gambar garis yang bersih dan berkontras tinggi",
+        "tip2": "Tulis prompt yang jelas dan spesifik yang menggambarkan warna dan gaya",
+        "tip3": "Bereksperimen dengan variasi prompt yang berbeda",
+        "tip4": "Pertimbangkan komposisi keseluruhan saat menggambarkan warna",
+        "tip5": "Gunakan gambar referensi untuk memandu pilihan warna Anda"
+      }
+    },
+    "comparison": {
+      "question": "Bagaimana perbandingan colorisasi AI dengan pewarnaan manual?",
+      "answer": "Colorisasi AI menawarkan penghematan waktu yang signifikan dibandingkan dengan pewarnaan manual, mengurangi jam kerja menjadi menit. Meskipun mungkin tidak sepenuhnya menggantikan pewarnaan tradisional untuk proyek seni yang kompleks, ini adalah alat yang sangat baik untuk pembuatan prototipe cepat, visualisasi konsep, dan pembuatan beberapa variasi warna dengan cepat. AI memahami teori warna dan dapat menyarankan kombinasi warna harmonis yang mungkin belum Anda pertimbangkan."
+    },
+    "edit_results": {
+      "question": "Bisakah saya mengedit hasil yang diwarnai AI?",
+      "answer": "Ya, Anda dapat mengedit dan menyempurnakan gambar yang diwarnai AI menggunakan perangkat lunak seni digital pilihan Anda. Hasil yang dihasilkan AI berfungsi sebagai dasar yang sangat baik yang dapat Anda tingkatkan dengan sentuhan artistik pribadi Anda."
+    },
+    "creative_uses": {
+      "question": "Apa saja cara kreatif untuk menggunakan colorisasi line art AI?",
+      "answer": {
+        "intro": "Colorisasi line art AI dapat digunakan untuk:",
+        "use1": "Pembuatan prototipe cepat desain karakter",
+        "use2": "Membuat beberapa variasi warna untuk klien",
+        "use3": "Mewarnai halaman manga",
+        "use4": "Pengembangan seni konsep",
+        "use5": "Tujuan pendidikan di kelas seni",
+        "use6": "Merevitalisasi ilustrasi hitam putih lama"
+      }
+    },
+    "reference_feature": {
+      "question": "Bagaimana cara kerja fitur gambar referensi di colorizer line art AI KomikoAI?",
+      "answer": "Colorizer line art AI KomikoAI menyertakan fitur gambar referensi yang ampuh yang memungkinkan Anda memandu pilihan warna AI untuk manga, komik, atau ilustrasi Anda. Dengan mengunggah gambar referensi di samping gambar garis Anda, AI menganalisis palet warna dan gaya artistik untuk membuat hasil colorisasi yang lebih terarah. Fitur ini sangat berharga bagi seniman manga dan pembuat komik yang ingin mempertahankan pewarnaan yang konsisten di seluruh karya seni mereka. Colorizer AI menggunakan pembelajaran mesin tingkat lanjut untuk mengekstrak skema warna dari gambar referensi Anda dan secara cerdas menerapkannya ke gambar garis Anda sambil mempertahankan maksud artistik asli."
+    },
+    "good_reference": {
+      "question": "Apa yang membuat gambar referensi yang baik untuk colorisasi line art AI?",
+      "answer": {
+        "intro": "Untuk hasil optimal dengan colorizer line art AI KomikoAI, pilih gambar referensi yang selaras dengan visi artistik Anda untuk manga, komik, atau ilustrasi. Gambar referensi terbaik harus:",
+        "quality1": "Memiliki warna dan pencahayaan yang jelas dan terdefinisi dengan baik yang sesuai dengan gaya manga atau komik yang Anda inginkan",
+        "quality2": "Berbagi konten atau arahan artistik yang serupa dengan gambar garis Anda (mis., Gaya anime, gaya buku komik)",
+        "quality3": "Menampilkan palet warna spesifik yang ingin Anda capai dalam karya seni Anda",
+        "quality4": "Diterangi dengan baik dan berkualitas tinggi untuk membantu AI menganalisis warna secara akurat",
+        "conclusion": "Anda dapat menggunakan berbagai jenis referensi termasuk karakter anime yang sudah ada, tangkapan layar anime, panel manga, atau ilustrasi digital. Fleksibilitas ini memungkinkan seniman untuk mencapai pencocokan warna yang tepat dan mempertahankan konsistensi di seluruh halaman manga atau panel komik mereka."
+      }
+    },
+    "items": [
+      {
+        "id": 1,
+        "question": "Apa itu pewarnaan seni garis menggunakan AI?",
+        "answer": "Pewarnaan seni garis dengan AI adalah proses yang menggunakan kecerdasan buatan untuk secara otomatis mewarnai seni garis hitam-putih. Alat pewarnaan AI dari Komiko mengubah sketsa, manga, atau seni garis lainnya menjadi gambar berwarna yang cerah, sehingga menghemat waktu bagi seniman dan penggemar."
+      },
+      {
+        "id": 2,
+        "question": "Bagaimana cara mewarnai seni garis hitam-putih dengan AI?",
+        "answer": "Anda dapat mewarnai seni garis Anda dengan Komiko AI dalam empat langkah mudah: 1. Unggah gambar seni garis Anda ke pewarna AI. 2. Masukkan deskripsi untuk menggambarkan pewarnaan yang Anda inginkan. 3. Klik tombol 'Colorize Image' untuk memulai proses pewarnaan. 4. Unduh gambar berwarna dan bagikan dengan teman-teman Anda!"
+      },
+      {
+        "id": 0,
+        "question": "Bisakah saya menggunakan AI untuk mewarnai dan memberi bayangan pada karya seni garis saya?",
+        "answer": "Ya, Anda dapat menggunakan AI untuk mewarnai dan memberi bayangan pada karya seni garis Anda. Alat pewarnaan seni garis AI dari Komiko dapat memberikan warna dan bayangan yang cerah pada seni garis hitam-putih Anda. Anda hanya perlu mengunggah gambar seni garis dan memasukkan deskripsi pewarnaan yang Anda inginkan. AI akan menafsirkan maksud artistik Anda dan menghasilkan gambar berwarna."
+      },
+      {
+        "id": 3,
+        "question": "Bagaimana AI bekerja dalam pewarnaan seni garis?",
+        "answer": "Pewarnaan seni garis dengan AI memanfaatkan model AI canggih yang dilatih pada jutaan gambar untuk mengenali pola dalam seni garis dan menerapkan warna artistik. Anda hanya perlu mengunggah sketsa Anda, menambahkan deskripsi warna, dan AI akan menafsirkan maksud artistik Anda serta menghasilkan gambar berwarna."
+      },
+      {
+        "id": 4,
+        "question": "Apa manfaat dari pewarnaan seni garis dengan AI?",
+        "answer": "Ada berbagai manfaat mewarnai seni garis menggunakan AI: menghemat waktu dibandingkan pewarnaan manual, menghasilkan hasil dengan kualitas tinggi sesuai standar profesional, dapat digunakan oleh orang yang bukan seniman dan pemula, serta dapat disesuaikan dengan deskripsi untuk mencocokkan visi kreatif Anda."
+      },
+      {
+        "id": 5,
+        "question": "Dapatkah saya menggunakan gambar berwarna AI untuk kepentingan komersial?",
+        "answer": "Ya, Anda dapat menggunakan gambar berwarna hasil AI untuk kepentingan pribadi dan komersial. Namun, pastikan Anda mematuhi ketentuan layanan dari Komiko."
+      },
+      {
+        "id": 6,
+        "question": "Format dan ukuran apa yang didukung?",
+        "answer": "AI mendukung seni garis dalam format JPG dan PNG. Gambar keluaran akan dipertahankan dalam ukuran aslinya."
+      },
+      {
+        "id": 7,
+        "question": "Apakah pewarna seni garis AI gratis digunakan?",
+        "answer": "Komiko menawarkan zaps gratis (kredit) untuk mencoba alat ini. Anda juga dapat membeli paket berbayar untuk mendapatkan lebih banyak zaps jika memerlukan penggunaan lebih lanjut, serta fitur lanjutan seperti pemrosesan lebih cepat dan resolusi lebih tinggi."
+      },
+      {
+        "id": 8,
+        "question": "Deskripsi macam apa yang diperlukan untuk hasil pewarnaan AI terbaik?",
+        "answer": "Gunakan deskripsi yang jelas dan detail seperti \"rambut merah, mata biru, pakaian modern.\" Hindari penggunaan istilah yang ambigu."
+      },
+      {
+        "id": 9,
+        "question": "Apa batasan dari pewarnaan seni garis dengan AI?",
+        "answer": "Meskipun pewarnaan seni garis dengan AI adalah alat yang kuat, terdapat beberapa batasan: Gaya Artistik: AI mungkin tidak selalu cocok dengan gaya artistik yang Anda inginkan. Detail yang Kompleks: Seni garis yang sangat rumit atau detail dapat menghasilkan hasil yang tidak terduga. Kustomisasi: Pewarnaan didasarkan pada deskripsi, dan deskripsi yang ambigu atau kurang spesifik dapat menghasilkan hasil yang tidak memuaskan. Meskipun ada batasan ini, pewarnaan AI dapat mempercepat alur kerja dan meningkatkan kreativitas Anda."
+      },
+      {
+        "id": 10,
+        "question": "Apakah saya perlu tahu cara menggambar untuk menggunakan pewarnaan seni garis AI?",
+        "answer": "Tidak, Anda tidak perlu tahu cara menggambar untuk menggunakan pewarnaan seni garis AI. Bagi Seniman: Jika Anda membuat sketsa sendiri, alat ini dapat memberikan warna-warna cerah padanya. Bagi Non-Seniman: Anda dapat memulai dengan seni garis atau templat yang ada, mengunggahnya, dan biarkan AI menangani pewarnaan. Alat ini dirancang agar mudah digunakan oleh semua orang, apakah Anda seorang seniman berpengalaman atau pemula yang menjelajah kreativitas."
+      },
+      {
+        "id": 11,
+        "question": "Jenis seni garis apa yang dapat saya warnai dengan AI?",
+        "answer": "Pewarna AI dapat bekerja dengan berbagai jenis seni garis: sketsa, manga, halaman komik, desain karakter, ilustrasi, desain produk, hingga gambar arsitektur. Untuk hasil terbaik, pastikan seni garis Anda memiliki garis jelas dan terdefinisi dengan baik serta kontras yang baik."
+      },
+      {
+        "id": 12,
+        "question": "Bagaimana saya bisa mendapatkan hasil terbaik dari pewarnaan AI?",
+        "answer": "Ikuti tips berikut untuk pewarnaan optimal: Gunakan seni garis yang bersih dan berkontras tinggi, tulis deskripsi yang jelas dan spesifik untuk menggambarkan warna dan gaya, bereksperimenlah dengan variasi deskripsi yang berbeda, pertimbangkan komposisi keseluruhan saat mendeskripsikan warna, dan gunakan gambar referensi untuk memandu pilihan warna Anda."
+      },
+      {
+        "id": 13,
+        "question": "Bagaimana pewarnaan AI dibandingkan dengan pewarnaan manual?",
+        "answer": "Pewarnaan AI menawarkan penghematan waktu signifikan dibandingkan dengan pewarnaan manual, mengurangi waktu kerja dari jam menjadi menit. Meskipun mungkin tidak sepenuhnya menggantikan pewarnaan tradisional untuk proyek artistik yang kompleks, ini adalah alat yang sangat baik untuk pembuatan prototipe cepat, visualisasi konsep, dan menciptakan variasi warna yang berbeda dengan cepat. AI memahami teori warna dan dapat menyarankan kombinasi warna yang harmonis yang mungkin tidak Anda pertimbangkan."
+      },
+      {
+        "id": 14,
+        "question": "Dapatkah saya mengedit hasil pewarnaan AI?",
+        "answer": "Ya, Anda bisa mengedit dan memperindah gambar yang diwarnai AI dengan perangkat lunak seni digital pilihan Anda. Hasil yang dihasilkan AI berfungsi sebagai dasar yang sangat baik yang dapat Anda tingkatkan dengan sentuhan artistik pribadi Anda."
+      },
+      {
+        "id": 15,
+        "question": "Apa cara kreatif menggunakan pewarnaan seni garis AI?",
+        "answer": "Pewarnaan seni garis AI dapat digunakan untuk: Pembuatan prototipe desain karakter secara cepat, menciptakan variasi warna untuk klien, mewarnai halaman manga, pengembangan seni konsep, tujuan pendidikan dalam kelas seni, dan menghidupkan kembali ilustrasi hitam-putih lama."
+      },
+      {
+        "id": 16,
+        "question": "Bagaimana fitur gambar referensi bekerja dalam pewarna seni garis Komiko AI?",
+        "answer": "Pewarna seni garis Komiko AI mencakup fitur gambar referensi yang memungkinkan Anda memandu pilihan warna AI untuk manga, komik, atau ilustrasi Anda. Dengan mengunggah gambar referensi bersama seni garis Anda, AI menganalisis palet warna dan gaya artistik untuk menciptakan hasil pewarnaan yang lebih sesuai. Fitur ini berharga bagi seniman manga dan pembuat komik yang ingin mempertahankan konsistensi pewarnaan di seluruh karya seni mereka. Pewarna AI menggunakan pembelajaran mesin canggih untuk mengekstrak skema warna dari gambar referensi Anda dan dengan cerdas menerapkannya ke seni garis Anda sambil mempertahankan maksud artistik aslinya."
+      },
+      {
+        "id": 17,
+        "question": "Apa yang membuat gambar referensi bagus untuk pewarnaan seni garis AI?",
+        "answer": "Untuk mendapatkan hasil optimal dengan pewarna seni garis Komiko AI, pilih gambar referensi yang sejalan dengan visi artistik Anda untuk manga, komik, atau ilustrasi. Gambar referensi terbaik harus: memiliki warna dan pencahayaan yang jelas serta terdefinisi dengan baik yang sesuai dengan gaya manga atau komik yang Anda inginkan, memiliki konten atau arah artistik yang serupa dengan seni garis Anda (misal: gaya anime, gaya komik), menampilkan palet warna spesifik yang ingin Anda capai dalam karya seni Anda, serta berpencahayaan baik dan berkualitas tinggi untuk membantu AI menganalisis warna dengan akurat. Anda dapat menggunakan berbagai jenis referensi termasuk karakter anime yang sudah ada, tangkapan layar anime, panel manga, atau ilustrasi digital. Fleksibilitas ini memungkinkan seniman mencapai pencocokan warna yang tepat dan mempertahankan konsistensi di seluruh halaman manga atau panel komik mereka."
+      }
+    ]
+  },
+  "deleteModal": {
+    "title": "Konfirmasi Penghapusan",
+    "message": "Apakah Anda yakin ingin menghapus video ini? Tindakan ini tidak dapat dibatalkan."
+  },
+  "colorize_image": "Warnai Gambar"
+}

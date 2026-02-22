@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 风格迁移",
+      "description": "使用我们的 AI 风格迁移工具，即刻将您的图像转化为独具特色的艺术作品。立即开始创作令人惊艳的艺术！免费试用。",
+      "keywords": "AI 风格迁移, AI 艺术生成器, 照片转艺术, 艺术照片转换, AI 图像增强"
+    },
+    "hero": {
+      "title": "AI 风格迁移"
+    },
+    "whatIs": {
+      "title": "什么是 AI 风格迁移？",
+      "description": "AI 风格迁移利用先进的机器学习技术来分析您的照片，并应用各种艺术风格。从经典的油画到充满活力的数字艺术，观看您的图像演变成引人注目的艺术演绎，并根据您的愿景和品味进行定制。"
+    },
+    "examples": {
+      "title": "AI 风格迁移示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用 AI 风格迁移",
+      "steps": [
+        {
+          "title": "步骤 1：上传您的照片",
+          "content": "选择一张您想要转换的高分辨率照片。点击上传按钮，从您的设备中选择图像。"
+        },
+        {
+          "title": "步骤 2：选择一种艺术风格",
+          "content": "浏览由 AI 生成的各种艺术风格，从印象派到现代矢量风格应有尽有。选择一种与您的艺术愿景产生共鸣的风格。"
+        },
+        {
+          "title": "步骤 3：生成您的作品",
+          "content": "点击“转换”按钮，观看您的照片在瞬间实时转换！"
+        },
+        {
+          "title": "步骤 4：下载并分享",
+          "content": "在线发布您新生成的艺术作品，与亲朋好友分享，或在您的项目中使用。只需点击一下，即可下载您的杰作。"
+        }
+      ],
+      "subtitle": "一个将您的图像无缝转换的简单指南。"
+    },
+    "benefits": {
+      "title": "为什么要使用 AI 风格迁移？",
+      "description": "探索艺术转换的独特优势。",
+      "features": [
+        {
+          "title": "🎨 多样的艺术风格",
+          "content": "从精选的艺术风格中进行选择，确保每次转换都具有个性化的艺术表达。"
+        },
+        {
+          "title": "⚡ 快速且用户友好",
+          "content": "通过专为各种技能水平用户设计的界面，体验快速转换。"
+        },
+        {
+          "title": "🖼️ 高分辨率输出",
+          "content": "通过非常适合打印的优质输出，保持原始图像的质量。"
+        },
+        {
+          "title": "💫 释放您的创造力",
+          "content": "鼓励艺术探索，并突破摄影的界限。"
+        },
+        {
+          "title": "🎯 无缝可访问性",
+          "content": "随时随地创作艺术作品，只需连接互联网 - 非常适合随时迸发的创作灵感。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 风格迁移 FAQ",
+      "description": "",
+      "q1": "什么是 AI 风格迁移，它是如何运作的？",
+      "a1": "AI 风格迁移采用复杂的算法来分析您的照片并应用艺术特征，将两者融合在一起，从而创建一种与所选风格相呼应的全新艺术作品。",
+      "q2": "如何使用 AI 风格迁移获得最佳效果？",
+      "a2": "为了获得最佳效果，请使用具有清晰焦点的图像，并尝试不同的风格，以找到您理想的艺术效果。",
+      "q3": "使用 AI 风格迁移是免费的吗？",
+      "a3": "是的，我们的基本功能是免费的！您也可以探索高级选项，以获得更多高级风格。",
+      "q4": "是什么让 AI 风格迁移从普通滤镜中脱颖而出？",
+      "a4": "AI 风格迁移利用深度学习来重现细致的艺术风格，提供超越传统色彩滤镜的独特性和深度。",
+      "q5": "我可以将我的 AI 风格迁移作品商业化吗？",
+      "a5": "是的，转换后的图像可以用于商业用途，但我们建议您查阅我们关于衍生作品的条款。"
+    },
+    "cta": {
+      "title": "立即创作您的 AI 风格迁移艺术作品",
+      "description": "潜入充满创造力的世界，并使用我们的 AI 风格迁移工具将您的照片转换为令人惊艳的艺术作品。立即开始您的艺术之旅！",
+      "buttonText": "免费试用 AI 风格迁移"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique AI artwork",
+  "originalKeyword": "AI Style Transfer",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Korean Manhwa"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Cyberpunk"
+    }
+  ]
+}

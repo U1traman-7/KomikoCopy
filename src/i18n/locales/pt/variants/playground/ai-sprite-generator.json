@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Gerador de Sprite com IA",
+      "description": "Crie arte sprite impressionante instantaneamente! Transforme as suas fotos com o nosso Gerador de Sprite com IA e partilhe visuais únicos que cativem e inspirem.",
+      "keywords": "Gerador de Sprite com IA, criador de pixel art com IA, gerador de personagens com IA, gerador de arte sprite, transformação de arte digital"
+    },
+    "hero": {
+      "title": "Gerador de Sprite com IA"
+    },
+    "whatIs": {
+      "title": "O que é o Gerador de Sprite com IA?",
+      "description": "O Gerador de Sprite com IA é uma ferramenta especializada para artistas e entusiastas converterem imagens comuns em arte sprite singular. Utilizando algoritmos avançados de IA, os utilizadores carregam as suas fotos para aplicar diversos filtros de estilo sprite, resultando em obras de arte visualmente marcantes que evocam a estética clássica dos jogos. Experimente uma interface intuitiva, concebida para todos os utilizadores, oferecendo resultados de alta qualidade sem esforço."
+    },
+    "examples": {
+      "title": "Exemplos do Gerador de Sprite com IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como Usar o Gerador de Sprite com IA",
+      "steps": [
+        {
+          "title": "Passo 1: Carregue a Sua Foto",
+          "content": "Escolha uma foto nítida e de alta resolução do seu dispositivo. A IA funciona melhor com imagens que tenham bom contraste e contornos distintos para resultados ideais."
+        },
+        {
+          "title": "Passo 2: Selecione o Template de Sprite Sheet",
+          "content": "Selecione o 'template' de Sprite Sheet para transformar a sua foto com o estilo 'sprite sheet'."
+        },
+        {
+          "title": "Passo 3: Converter para Sprite Sheet",
+          "content": "Clique em 'Converter para Sprite Art' e deixe a IA transformar a sua imagem em arte sprite vibrante, pronta para a sua revisão e ajustes."
+        },
+        {
+          "title": "Passo 4: Descarregue e Partilhe",
+          "content": "Quando estiver satisfeito com o resultado, descarregue a sua arte sprite facilmente! Partilhe a sua criação nas redes sociais para se conectar com outros criadores."
+        }
+      ],
+      "subtitle": "Transforme as suas fotos em arte sprite fantástica em apenas alguns passos simples."
+    },
+    "benefits": {
+      "title": "Por que Usar o Gerador de Sprite com IA?",
+      "description": "Experimente recursos incomparáveis concebidos para criadores de todos os níveis.",
+      "features": [
+        {
+          "title": "🎨 Estilos de Arte Únicos",
+          "content": "Com uma variedade de estilos de arte sprite disponíveis, personalize as suas criações para corresponder a qualquer visão artística ou necessidade de projeto."
+        },
+        {
+          "title": "⚡ Rápido e Eficaz",
+          "content": "Transforme as suas imagens rapidamente. O nosso Gerador de Sprite com IA garante tempos de processamento rápidos sem comprometer a qualidade."
+        },
+        {
+          "title": "🖼️ Simples de Usar",
+          "content": "Desfrute de uma interface fácil de navegar, perfeita tanto para iniciantes quanto para artistas digitais experientes que procuram soluções criativas rápidas."
+        },
+        {
+          "title": "💫 Resultados de Alta Qualidade",
+          "content": "Gere imagens de alta resolução prontas para impressão, partilha 'online' ou qualquer projeto artístico que tenha em mente."
+        },
+        {
+          "title": "🎯 Comunidade Criativa",
+          "content": "Junte-se a uma comunidade animada de entusiastas da arte sprite, onde pode partilhar o seu trabalho, encontrar inspiração e interagir com outros."
+        },
+        {
+          "title": "🚀 Atualizações Regulares",
+          "content": "Aproveite as melhorias contínuas com novos estilos e recursos continuamente lançados para a sua exploração criativa."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Gerador de Sprite com IA FAQ",
+      "description": "",
+      "q1": "Quais formatos de imagem o Gerador de Sprite com IA suporta?",
+      "a1": "Suporta formatos JPG, PNG e WEBP; os utilizadores podem facilmente carregar e descarregar resultados de alta resolução.",
+      "q2": "Como o Gerador de Sprite com IA cria arte sprite?",
+      "a2": "Ao utilizar algoritmos avançados de 'machine learning' aprimorados em diversos estilos de arte, a IA produz transformações de 'sprite' autênticas.",
+      "q3": "Existe um limite para o número de imagens que posso transformar?",
+      "a3": "Sem limites! Pode transformar quantas imagens quiser – explore a criatividade sem restrições.",
+      "q4": "Posso usar a arte sprite gerada comercialmente?",
+      "a4": "Absolutamente! A arte sprite que cria pode ser usada para empreendimentos comerciais, aprimorando os seus projetos.",
+      "q5": "O uso do Gerador de Sprite com IA é gratuito?",
+      "a5": "Sim, o nosso Gerador de Sprite com IA é gratuito! Explore opções 'premium' para estilos avançados."
+    },
+    "cta": {
+      "title": "Comece a Criar com o Gerador de Sprite com IA Hoje Mesmo!",
+      "description": "Abrace o mundo da 'pixel art' com o nosso Gerador de Sprite com IA. Transforme as suas fotos em arte 'sprite' única e mostre a sua criatividade – comece a sua jornada artística agora!",
+      "buttonText": "Experimente o Gerador de Sprite com IA Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into stunning sprite art",
+  "originalKeyword": "AI Sprite Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/boy-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/4_portrait-2-3_9129.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/girl-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/3_portrait-2-3_274.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/girl2-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/1_portrait-2-3_9842.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/ganyu-output.webp",
+      "input": "/images/examples/playground/ai-sprite-generator/ganyu-input.webp",
+      "prompt": "Style: Sprite Sheet"
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>KomikoAI Privacy Policy</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.collection-content td {
+	white-space: pre-wrap;
+	word-break: break-word;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+	margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+blockquote.quote-large {
+	font-size: 1.25em;
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(44, 44, 43, 1);
+}
+.highlight-gray {
+	color: rgba(128, 125, 120, 1);
+	fill: rgba(128, 125, 120, 1);
+}
+.highlight-brown {
+	color: rgba(159, 118, 90, 1);
+	fill: rgba(159, 118, 90, 1);
+}
+.highlight-orange {
+	color: rgba(204, 121, 47, 1);
+	fill: rgba(204, 121, 47, 1);
+}
+.highlight-yellow {
+	color: rgba(195, 148, 67, 1);
+	fill: rgba(195, 148, 67, 1);
+}
+.highlight-teal {
+	color: rgba(80, 148, 110, 1);
+	fill: rgba(80, 148, 110, 1);
+}
+.highlight-blue {
+	color: rgba(63, 126, 190, 1);
+	fill: rgba(63, 126, 190, 1);
+}
+.highlight-purple {
+	color: rgba(154, 107, 180, 1);
+	fill: rgba(154, 107, 180, 1);
+}
+.highlight-pink {
+	color: rgba(179, 84, 136, 1);
+	fill: rgba(179, 84, 136, 1);
+}
+.highlight-red {
+	color: rgba(201, 85, 73, 1);
+	fill: rgba(201, 85, 73, 1);
+}
+.highlight-default_background {
+	color: rgba(44, 44, 43, 1);
+}
+.highlight-gray_background {
+	background: rgba(42, 28, 0, 0.07);
+}
+.highlight-brown_background {
+	background: rgba(139, 46, 0, 0.086);
+}
+.highlight-orange_background {
+	background: rgba(224, 101, 1, 0.129);
+}
+.highlight-yellow_background {
+	background: rgba(211, 168, 0, 0.137);
+}
+.highlight-teal_background {
+	background: rgba(0, 100, 45, 0.09);
+}
+.highlight-blue_background {
+	background: rgba(0, 111, 200, 0.09);
+}
+.highlight-purple_background {
+	background: rgba(102, 0, 178, 0.078);
+}
+.highlight-pink_background {
+	background: rgba(197, 0, 93, 0.086);
+}
+.highlight-red_background {
+	background: rgba(223, 22, 0, 0.094);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(128, 125, 120, 1);
+	fill: rgba(128, 125, 120, 1);
+}
+.block-color-brown {
+	color: rgba(159, 118, 90, 1);
+	fill: rgba(159, 118, 90, 1);
+}
+.block-color-orange {
+	color: rgba(204, 121, 47, 1);
+	fill: rgba(204, 121, 47, 1);
+}
+.block-color-yellow {
+	color: rgba(195, 148, 67, 1);
+	fill: rgba(195, 148, 67, 1);
+}
+.block-color-teal {
+	color: rgba(80, 148, 110, 1);
+	fill: rgba(80, 148, 110, 1);
+}
+.block-color-blue {
+	color: rgba(63, 126, 190, 1);
+	fill: rgba(63, 126, 190, 1);
+}
+.block-color-purple {
+	color: rgba(154, 107, 180, 1);
+	fill: rgba(154, 107, 180, 1);
+}
+.block-color-pink {
+	color: rgba(179, 84, 136, 1);
+	fill: rgba(179, 84, 136, 1);
+}
+.block-color-red {
+	color: rgba(201, 85, 73, 1);
+	fill: rgba(201, 85, 73, 1);
+}
+.block-color-default_background {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray_background {
+	background: rgba(240, 239, 237, 1);
+}
+.block-color-brown_background {
+	background: rgba(245, 237, 233, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 235, 222, 1);
+}
+.block-color-yellow_background {
+	background: rgba(249, 243, 220, 1);
+}
+.block-color-teal_background {
+	background: rgba(232, 241, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(232, 242, 250, 1);
+}
+.block-color-purple_background {
+	background: rgba(243, 235, 249, 1);
+}
+.block-color-pink_background {
+	background: rgba(250, 233, 241, 1);
+}
+.block-color-red_background {
+	background: rgba(252, 233, 231, 1);
+}
+.select-value-color-default { background-color: rgba(42, 28, 0, 0.07); }
+.select-value-color-gray { background-color: rgba(28, 19, 1, 0.11); }
+.select-value-color-brown { background-color: rgba(127, 51, 0, 0.156); }
+.select-value-color-orange { background-color: rgba(196, 88, 0, 0.203); }
+.select-value-color-yellow { background-color: rgba(209, 156, 0, 0.282); }
+.select-value-color-green { background-color: rgba(0, 96, 38, 0.156); }
+.select-value-color-blue { background-color: rgba(0, 99, 174, 0.172); }
+.select-value-color-purple { background-color: rgba(92, 0, 163, 0.141); }
+.select-value-color-pink { background-color: rgba(183, 0, 78, 0.152); }
+.select-value-color-red { background-color: rgba(206, 24, 0, 0.164); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+</style></head><body><article id="273ecbf4-9fb7-80c5-af60-e41c39ab6b5c" class="page sans"><header><h1 class="page-title">KomikoAI Privacy Policy</h1><p class="page-description"></p></header><div class="page-body"><p id="276ecbf4-9fb7-8057-9263-f113c945d9bd" class="">Last updated Jan 22, 2026</p><p id="273ecbf4-9fb7-80fd-afed-eadd024a3814" class="">This privacy notice for KomikoAI (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;), operated by Caffelabs Inc., describes how and why we might collect, store, use, and/or share (&quot;process&quot;) your information when you use our services (&quot;Services&quot;), such as when you:</p><ul id="273ecbf4-9fb7-80a0-971e-e7b9c3b91d1d" class="bulleted-list"><li style="list-style-type:disc">Visit our website at KomikoAI, or any website of ours that links to this privacy notice.</li></ul><ul id="273ecbf4-9fb7-805f-bc7d-e390adb23df0" class="bulleted-list"><li style="list-style-type:disc">Engage with us in other related ways, including any sales, marketing, or events.</li></ul><p id="273ecbf4-9fb7-80c1-86fc-d8647e64ff77" class=""><strong>Questions or concerns?</strong> Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you have any questions or concerns, please contact us at <a href="mailto:contact@komiko.app">contact@komiko.app</a>.</p><h2 id="273ecbf4-9fb7-80ca-81fa-d31fdba52e24" class="">Personal Data We Collect</h2><h3 id="273ecbf4-9fb7-807d-b3be-cbca679131c0" class="">Personal Information You Disclose to Us</h3><p id="273ecbf4-9fb7-80a4-9b40-f9539d2e19ed" class="">We collect information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, participate in activities on the Services, or otherwise contact us.</p><p id="273ecbf4-9fb7-8079-8338-e5c1317690fc" class="">The personal information we collect may include the following:</p><ul id="273ecbf4-9fb7-80a0-852e-f5c1375b87d2" class="bulleted-list"><li style="list-style-type:disc">Email addresses</li></ul><ul id="273ecbf4-9fb7-80c7-820d-df6b23baabc6" class="bulleted-list"><li style="list-style-type:disc">Usernames</li></ul><ul id="273ecbf4-9fb7-8064-a0a9-e2b6ca0bb64c" class="bulleted-list"><li style="list-style-type:disc">Passwords</li></ul><p id="273ecbf4-9fb7-8035-b046-f057f0ed0b18" class="">We do not knowingly collect or process sensitive categories of personal data (such as health, biometric, or financial account numbers) unless strictly necessary and with your explicit consent.</p><h3 id="273ecbf4-9fb7-8064-9263-e42983760923" class="">Personal Data We Obtain From Third Parties</h3><p id="273ecbf4-9fb7-80d5-a864-eca9836f6b7e" class=""><strong>Single Sign-On (SSO):</strong> If you sign up to our website KomikoAI through third-party services such as Google, you authorize us to collect authentication information, such as your username and encrypted access credentials, and other personal data available through the third-party application account, including the following:</p><ul id="273ecbf4-9fb7-80c4-9219-eb4e9eb92e17" class="bulleted-list"><li style="list-style-type:disc"><strong>Google:</strong> You can sign up and log in to KomikoAI using your Google account. When you sign up using Google, Google will request your permission to share certain information from your Google account with KomikoAI. This includes your Google email address and avatar (optional). This information is collected by Google and provided to us under the terms of Google’s privacy policy. You can control the information we receive from Google using your Google activity controls. If you signed up using Google by mistake, you can delete your account from the Account page within your Settings at any time, or you can contact us by emailing <a href="mailto:contact@komiko.app">contact@komiko.app</a>.</li></ul><h2 id="273ecbf4-9fb7-8072-b4cf-c1f5e4fd8560" class="">How We Use Your Personal Data</h2><p id="276ecbf4-9fb7-802b-9332-e5d0b64c138e" class="">Our legal bases for processing your personal data include your consent, the performance of a contract (providing our Services), compliance with legal obligations, and our legitimate interests in operating, improving, and securing the Services.</p><p id="273ecbf4-9fb7-804e-b79d-d64001ecfbd5" class="">We use your personal data to:</p><ul id="273ecbf4-9fb7-8030-8ddd-d50a49e665cc" class="bulleted-list"><li style="list-style-type:disc"><strong>Provide, Improve, and Develop the Platform:</strong> We process your personal data primarily to ensure the adequate performance of our website and Services. We may also process your personal data to pursue our legitimate interest in improving the KomikoAI platform and providing our users with the best experience. This includes<ul id="273ecbf4-9fb7-80fd-b1ee-c299029c6f72" class="bulleted-list"><li style="list-style-type:circle">Operating and maintaining your KomikoAI account, including managing your zaps balance, and providing access to and use of the platform.</li></ul><ul id="273ecbf4-9fb7-807e-af16-e69eb648159d" class="bulleted-list"><li style="list-style-type:circle">Identifying you as the creator of content you upload, comments you post, and/or other contributions you make to the website.</li></ul><ul id="273ecbf4-9fb7-80a6-89a0-e4141de88ba6" class="bulleted-list"><li style="list-style-type:circle">Responding to any comments or inquiries you submit.</li></ul></li></ul><ul id="273ecbf4-9fb7-8085-a2d9-ca016144681a" class="bulleted-list"><li style="list-style-type:disc"><strong>Maintain a Safe and Secure Environment:</strong> We process your personal data to enhance the security of the platform (including the security of your personal data) to provide our users with the best experience.</li></ul><h2 id="273ecbf4-9fb7-80ef-bb31-f8cf5126faa1" class="">How We Share Your Personal Data</h2><p id="273ecbf4-9fb7-8077-81c8-d6290ab30fcf" class="">We do not sell your personal data to external parties.</p><ul id="273ecbf4-9fb7-8018-bb4f-d81c1106cecd" class="bulleted-list"><li style="list-style-type:disc"><strong>Through Your Profile:</strong> Any personal data you choose to disclose in your public profile on KomikoAI will be accessible to other users of the website, who may view your profile information, view, and comment on any of your public content.</li></ul><ul id="273ecbf4-9fb7-809c-ba6d-e669c085b1d8" class="bulleted-list"><li style="list-style-type:disc"><strong>Third-Party Applications:</strong> If you choose to connect your KomikoAI account to other apps or social networks, such as Google, Discord, or Twitter, you may share certain personal data with these apps or networks. Content shared with social media networks might appear on your timeline (or similar functions) and in feeds that may be viewed by the public or specific followers, subject to the terms and conditions of those social media networks.</li></ul><ul id="276ecbf4-9fb7-80ed-bcf9-d84ef560c3de" class="bulleted-list"><li style="list-style-type:disc"><strong>Service Providers:</strong> We may share your personal data with trusted third-party service providers who perform services on our behalf. These include providers of cloud hosting (e.g., Vercel, AWS), data storage (e.g., Supabase, AWS), AI model services (e.g., OpenAI, Google Gemini), analytics services (e.g., Google Analytics), customer support tools, and payment processors (e.g., Stripe).</li></ul><ul id="273ecbf4-9fb7-8006-8546-d2b68a5e62fb" class="bulleted-list"><li style="list-style-type:disc"><strong>Compliance with Laws:</strong> We may disclose your personal data to courts, law enforcement agencies, or governmental authorities to:<ul id="273ecbf4-9fb7-8035-b80e-edd03e1b0232" class="bulleted-list"><li style="list-style-type:circle">Comply with our legal obligations.</li></ul><ul id="273ecbf4-9fb7-80db-ad45-e4967a631d5d" class="bulleted-list"><li style="list-style-type:circle">Respond to legal processes or claims asserted against KomikoAI.</li></ul><ul id="273ecbf4-9fb7-80bb-84b7-cb9ec4f72507" class="bulleted-list"><li style="list-style-type:circle">Address verified requests related to criminal investigations or alleged illegal activities that may expose us, you, or other users to legal liability.</li></ul><ul id="273ecbf4-9fb7-80b3-9c40-c76a95b26633" class="bulleted-list"><li style="list-style-type:circle">Enforce and administer our Terms of Use and other agreements with users.</li></ul><ul id="273ecbf4-9fb7-80b6-bafc-e2ee0106cd40" class="bulleted-list"><li style="list-style-type:circle">Protect the rights, property, or personal safety of KomikoAI, its employees, and members of the public.</li></ul></li></ul><h2>Advertising and Monetization</h2><p>KomikoAI may display advertising or sponsored content within the Services. In connection with these activities, we may process or allow our advertising partners to process limited information to serve, deliver, and measure ads.</p><ul class="bulleted-list"><li style="list-style-type:disc"><b>Data Used for Advertising: </b>This may include device and browser information, approximate location (e.g., country or city), session metadata, content context, engagement signals (such as ad impressions or clicks), and pseudonymized identifiers (such as hashed IDs or cookies).</li><li style="list-style-type:disc"><b>Types of Advertising:</b><ul class="bulleted-list"><li style="list-style-type:circle">Contextual Ads: Based on the content you are currently viewing, with no cross-site tracking.</li><li style="list-style-type:circle">Personalized (Targeted) Ads: Where you have given consent or where permitted by law, we may use signals to display ads relevant to your interests.</li></ul></li><li style="list-style-type:disc"><b>Sharing vs. Selling: </b>While we do not sell your personal data for monetary value, the disclosure of certain technical identifiers to advertising partners for personalized advertising may be defined as "sharing" or "targeted advertising" under certain US privacy laws (California, Colorado, Connecticut, etc.).</li><li style="list-style-type:disc"><b>Your Controls: </b>Users have the right to opt out of personalized advertising via our "Cookie Preferences" manager, Global Privacy Control (GPC) signals, or device settings. We do not knowingly serve interest-based advertising to individuals under 18.</li></ul><h2 id="ed8a77b3-c10c-4f31-b44a-c85e423dc72b" class="">Data Retention</h2><p id="1a083dfe-e2fa-48dc-b956-0d1ac364c63c" class="">We retain your personal data only for as long as necessary to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law (for example, for tax, accounting, or legal obligations). When we no longer have a legitimate need to process your personal data, we will either delete or anonymize it.</p><h2 id="273ecbf4-9fb7-8028-b5bf-c250aa538f74" class="">Information Security</h2><p id="273ecbf4-9fb7-8033-99b8-f2ba8bea47ac" class="">KomikoAI maintains appropriate technical, administrative, and physical safeguards designed to prevent unauthorized access, use, or disclosure of personal data we collect or store and to ensure a level of security appropriate to the risks associated with our processing operations. We regularly monitor our systems for vulnerabilities and attacks. However, we cannot guarantee the security of personal data transmitted over the Internet. You use the website and provide us with personal data at your own discretion and risk. You are responsible for maintaining the confidentiality of your login credentials and for all activities under your account. Please notify us immediately of any unauthorized access or use of your account.</p><h2 id="dbc5644d-ecda-44ca-a158-24f4be0b8f9a" class="">Cookies and Tracking Technologies</h2><p id="8039d0bf-795a-498f-8e86-415fc8efb8c2" class="">We use cookies and similar tracking technologies to operate and improve our Services, analyze usage, and personalize your experience. You can control cookies through your browser settings, but disabling cookies may affect certain features of the Services.</p><p id="276ecbf4-9fb7-806d-816c-ebb546e44cf6" class="">We use cookies for authentication, security, analytics (such as Google Analytics), and personalization. Some cookies are essential for the operation of the Services, while others are optional and help us improve user experience.</p><p id="276ecbf4-9fb7-8044-9b00-ea8eba9c3b27" class="">Our Services do not respond to browser “Do Not Track” signals. However, we honor Global Privacy Control (GPC) signals as required by applicable law.</p><h2 id="846c8118-7ed8-4f96-b5ce-ecc9ebe9dfdd" class="">International Data Transfers</h2><p id="3e8ba189-7d44-4af9-b216-aaa419c9c85e" class="">Your personal data may be transferred to and processed in countries other than your country of residence, including the United States, where data protection laws may differ. We will take appropriate measures to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it.</p><h2 id="703b449a-da6a-4c0f-a576-d8907216db3f" class="">Your Privacy Rights</h2><p id="1e5e9714-e723-453c-88af-7a54b82e0e13" class="">Depending on your location, you may have the following rights regarding your personal data:</p><ul id="84daf1dd-1bec-4e3a-9654-3ef0a8854d4e" class="bulleted-list"><li style="list-style-type:disc"><strong>Access and Portability:</strong> You can request a copy of the personal data we hold about you.</li></ul><ul id="6f21921f-9e02-4d78-a9b7-e348f2177ea5" class="bulleted-list"><li style="list-style-type:disc"><strong>Correction:</strong> You can request that we correct inaccurate or incomplete personal data.</li></ul><ul id="2859df7b-1e1b-480a-9c00-f3ca25543ecd" class="bulleted-list"><li style="list-style-type:disc"><strong>Deletion:</strong> You can request that we delete your personal data, subject to certain exceptions.</li></ul><ul id="0a207e4d-8510-405a-add3-5559c637d65a" class="bulleted-list"><li style="list-style-type:disc"><strong>Restriction/Objection:</strong> You can object to or restrict certain processing of your personal data.</li></ul><ul id="2f85d83a-4ec4-43b4-8dfb-11678a9032f6" class="bulleted-list"><li style="list-style-type:disc"><strong>Opt-Out of Sale/Sharing:</strong> We do not sell your personal data. If we ever change this practice, you will have the right to opt out.</li></ul><p id="f6eb47ec-a877-4ff9-b198-a46b0c1ceb27" class="">To exercise these rights, please contact us at <a href="mailto:contact@komiko.app">contact@komiko.app</a>. We may verify your identity before responding to your request.</p><p id="276ecbf4-9fb7-80e6-96b4-cd6f20ae11ab" class="">If you are located in the European Economic Area (EEA) or United Kingdom (UK), you also have the right to lodge a complaint with your local data protection supervisory authority.</p><h2 id="8c3d2c4a-4209-4f85-9b95-558e8258dc0e" class="">Children’s Privacy</h2><p id="d4b788e1-d6ba-4219-a575-9a232cd9cb40" class="">Our Services are not directed to or intended for children under 18 years of age. We do not knowingly collect personal data from anyone under 18. If we become aware that a child under 18 has provided us with personal data, we will take steps to delete such information promptly.</p><h2 id="c49d3433-0e0c-4c6a-aa35-f0cf14e3ed3d" class="">Changes to This Privacy Policy</h2><p id="62137fad-009d-4eaa-b134-46b031cee9ec" class="">We may update this Privacy Policy from time to time. The updated version will be indicated by a “Last Updated” date, and the updated version will be effective as soon as it is accessible. If we make material changes, we may notify you by email or by posting a notice on our website.</p><h2 id="273ecbf4-9fb7-8003-9e7e-ce452fccf3c6" class="">Contact Information</h2><p id="273ecbf4-9fb7-80dd-80fd-d064ebc89342" class="">If you have questions or complaints about this Privacy Policy or our practices, please contact us via email at <a href="mailto:contact@komiko.app">contact@komiko.app</a>.</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>

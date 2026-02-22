@@ -1,0 +1,26 @@
+{
+  "logo_alt": "KomikoAI 로고",
+  "login_button": "로그인",
+  "join_discord": "Discord 참여하기",
+  "modal": {
+    "create_account_or_signin": "계정 생성 또는 로그인",
+    "sign_in": "로그인",
+    "trouble_signing_in": "로그인에 문제가 있나요?"
+  },
+  "promotion_offer": "특별 할인 | 연간 플랜 50% 할인! 이 할인은 <time>{{deadline}}</time>에 종료됩니다",
+  "promotion_offer_mobile": "50% 할인! 이 할인은 <time>{{deadline}}</time>에 종료됩니다",
+  "promotion_offer_mobile_days": "할인 -50%! 할인은 <time>{{days}}일</time> 후 만료됩니다",
+  "promotion_offer_days": "한정 제안 | 연간 계획에서 50% 절약하세요! 할인은 <time>{{days}}일</time> 후 만료됩니다",
+  "new_user_promotion": {
+    "title": "신규 사용자 전용 | 연간 플랜 40% 할인! 종료까지 <time>{{deadline}}</time>",
+    "mobile_title": "연간 플랜 40% 할인! 종료까지 <time>{{deadline}}</time>",
+    "mobile_days_title": "연간 플랜 40% 할인! 종료까지 <time>{{days}}일</time>",
+    "days_title": "신규 사용자 전용 | 연간 플랜 40% 할인! 종료까지 <time>{{days}}일</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "주말 번개 세일: 연간 플랜 30% 할인! 종료까지 <time>{{deadline}}</time>",
+    "mobile_title": "연간 플랜 30% 할인! 종료까지 <time>{{deadline}}</time>",
+    "mobile_days_title": "연간 플랜 30% 할인! 종료까지 <time>{{days}}일</time>",
+    "days_title": "주말 번개 세일: 연간 플랜 30% 할인! 종료까지 <time>{{days}}일</time>"
+  }
+}

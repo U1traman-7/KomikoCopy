@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "KomikoAI - KI Anime Generator & OC Creator",
+    "og_title": "KomikoAI - KI Anime Generator & OC Creator",
+    "twitter_title": "KomikoAI - KI Anime Generator & OC Creator",
+    "description": "Erstellen Sie Originalcharaktere, Anime und Comics mit KomikoAI. Entdecken Sie über 100 KI-Tools und kreative Vorlagen, die für Fandoms entwickelt wurden.",
+    "keywords": "Komiko, KomikoAI, Komiko AI, Komiko App, komiko.ai, komiko.app, KI Anime Generator, OC Creator, OC Generator, Anime KI, KI Kunstgenerator, KI Comic Generator, KI Animation Generator, KI Videoeffekte, Anime Charakterersteller"
+  },
+  "hero": {
+    "title": "Was wirst du als Nächstes erschaffen?",
+    "community": "Community-Kreationen"
+  },
+  "tabs": {
+    "for_you": "Empfehlungen",
+    "comic": "Comic",
+    "illustration": "Illustration",
+    "animation": "Animation",
+    "all": "Alle"
+  },
+  "sections": {
+    "for_you": "Empfehlungen für dich"
+  },
+  "create_section": {
+    "ai_art": "KI-Kunst",
+    "storytelling": "Geschichten erzählen",
+    "create": "Erstellen Sie Ihre eigene Geschichte"
+  },
+  "carousel": {
+    "slide1_title": "AniGen-Wettbewerb",
+    "slide1_desc": "Erstelle kurze KI-Animationen, gewinne über 3.000 $ und ein professionelles Abonnement!",
+    "check_it_out": "Jetzt ansehen",
+    "slide2_title": "Video zur Video-KI",
+    "slide2_desc": "Verwandle jedes Video in Anime-, Cartoon-, Manga- und Manhwa-Stile, wobei die originalen Bewegungen erhalten bleiben.",
+    "check_it_out2": "Jetzt ausprobieren"
+  },
+  "banner": {
+    "merch_title": "Verwandeln Sie Ihre Charaktere in Merch",
+    "merch_description": "Gestalten Sie Plüschtiere, Abzeichen, Aufsteller und mehr von Ihren Anime-Charakteren.",
+    "try_now": "Jetzt ausprobieren"
+  },
+  "activity_posts": {
+    "video_to_video": {
+      "title": "AI-Video-zu-Video",
+      "description": "Verwandle deine Videos mit der AI-Video-zu-Video-Technologie. Konvertiere Videos in Anime-, Cartoon-, Manga- und Manhwa-Stile.",
+      "button": "Jetzt ausprobieren"
+    },
+    "character_merch": {
+      "title": "Verwandle deine Charaktere in Merchandise",
+      "description": "Erstelle fantastisches Merchandise aus deinen Lieblingscharakteren, einschließlich Abzeichen, Körperkissen, Plüschtiere und Ständer.",
+      "button": "Jetzt ausprobieren"
+    },
+    "ambassador": {
+      "title": "Werde KomikoAI-Botschafter und verdiene Umsatzbeteiligung💰",
+      "description": "Werde ein KomikoAI-Botschafter und verdiene Umsatzbeteiligung durch Empfehlungen. Tritt unserem Affiliate-Programm noch heute bei!",
+      "button": "Jetzt beitreten"
+    },
+    "promoted": "Gesponsert",
+    "anishort": {
+      "title": "Entdecke Anime in Kurzform oder veröffentliche deine eigene Serie!",
+      "button": "Erkunden beginnen"
+    },
+    "ad": "Werbung",
+    "new-playground": {
+      "title": "✨ Entdecke über 100 lustige Vorlagen",
+      "description": "Verwandle deine Fotos und Charaktere mit viralen Vorlagen – von Chibi-Emotes und Charakterblättern bis zu realistischem Merch, Bankai-Effekten und mehr!",
+      "button": "Jetzt ausprobieren"
+    },
+    "sora-2": {
+      "title": "Sora 2 jetzt auf KomikoAI! Nimm an der #SoraAnimeChallenge teil und gewinne aus einem Preispool von $1000!",
+      "button": "Jetzt teilnehmen"
+    }
+  },
+  "ai_apps_banner": {
+    "eyebrow": "KI-Apps-Hub",
+    "title": "Ihre Werkzeuge sind jetzt auf der KI-Apps-Seite verfügbar",
+    "description": "Markieren Sie Ihre bevorzugten Werkzeuge als Favoriten und durchsuchen Sie den gesamten Katalog von KI-Anwendungen für Illustration, Animation, Comics und mehr.",
+    "cta": "KI-Apps öffnen"
+  },
+  "generateArt": "Kunst generieren",
+  "generateTagArt": "{{tag}}-Kunst generieren"
+}

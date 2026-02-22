@@ -1,0 +1,14 @@
+{
+  "examples": [
+    {
+      "input": "https://d31cygw67xifd4.cloudfront.net/examples/playground/input/man-photo.webp",
+      "output": "https://d31cygw67xifd4.cloudfront.net/examples/playground/output/magazine/man-magazine.webp",
+      "style": "雜誌"
+    },
+    {
+      "input": "https://d31cygw67xifd4.cloudfront.net/examples/playground/input/woman-photo.webp",
+      "output": "https://d31cygw67xifd4.cloudfront.net/examples/playground/output/magazine/woman-magazine.webp",
+      "style": "雜誌"
+    }
+  ]
+}

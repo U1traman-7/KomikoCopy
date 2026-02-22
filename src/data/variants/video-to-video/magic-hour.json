@@ -1,0 +1,144 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Magic Hour AI",
+      "description": "Looking for the best Magic Hour alternative? Transform your videos with our AI tool offering superior video-to-video style transfer and anime, manga, manhwa effects.",
+      "keywords": "Magic Hour alternative, video to video AI, video style transfer, anime video converter, manga style video, manhwa animation, cartoon video filter"
+    },
+    "hero": {
+      "title": "Magic Hour AI"
+    },
+    "whatIs": {
+      "title": "What is Magic Hour AI?",
+      "description": "Magic Hour AI is a popular AI-powered video-to-video style transfer tool known for transforming ordinary videos into stunning anime, manga, and cartoon styles while preserving motion and timing. It’s widely used by creators seeking to add artistic flair to their videos with ease. Looking for a Magic Hour alternative? Our AI tool offers a powerful and flexible solution that matches and often surpasses Magic Hour’s capabilities. With over 20 unique styles including Studio Ghibli anime, Korean manhwa, and Japanese manga, plus custom style creation, this AI tool ensures professional-quality video transformations with perfect motion preservation and smooth transitions."
+    },
+    "examples": {
+      "title": "Video to Video Examples",
+      "description": "Experience superior video-to-video transformation that outperforms Magic Hour with faster processing, better motion consistency, and more diverse style options including anime, manga, manhwa, and cartoon styles."
+    },
+    "howToUse": {
+      "title": "How to Use Our Magic Hour AI Alternative",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Start by uploading any video file (MP4, MOV, AVI) up to 15 seconds and 50MB in size. Videos longer than 15 seconds are automatically trimmed to optimize style transfer performance."
+        },
+        {
+          "title": "Select Your Artistic Style",
+          "content": "Choose from over 20 preset styles including Studio Ghibli anime, Korean manhwa, Japanese manga, and popular cartoon aesthetics. You can also craft custom styles using text prompts or reference images."
+        },
+        {
+          "title": "Style Preview & Reference",
+          "content": "Our AI extracts the first frame of your video and applies your chosen anime, manga, or cartoon style to create a styled reference. This preview shows how your selected style will transform the entire video."
+        },
+        {
+          "title": "Generate Your Styled Video",
+          "content": "Watch as our AI transforms your full video using the styled reference frame, preserving all original motion, expressions, and timing for a flawless video-to-video style transfer experience."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Our Magic Hour AI Alternative?",
+      "description": "Our AI tool delivers the most advanced video-to-video style transfer with unmatched motion preservation, extensive style options, and transparent pricing—making it the best choice for creators seeking Magic Hour-style results.",
+      "features": [
+        {
+          "title": "Flawless Motion Preservation",
+          "content": "Maintain every nuance of original motion, facial expressions, and timing while applying anime, manga, or cartoon styles with frame-perfect consistency.",
+          "icon": "🎨"
+        },
+        {
+          "title": "20+ Unique Style Options",
+          "content": "Access a wide range of presets from Studio Ghibli anime to Korean manhwa and Japanese manga, plus create custom styles with text prompts or reference images.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Professional-Grade Output",
+          "content": "Generate high-definition videos with smooth transitions, no flickering, and consistent style application for a polished, professional look.",
+          "icon": "⭐"
+        },
+        {
+          "title": "Transparent and Smart Pricing",
+          "content": "Enjoy clear pricing with separate charges for style transfer and video generation, allowing you to experiment freely without unexpected costs.",
+          "icon": "🌟"
+        },
+        {
+          "title": "Easy-to-Use Interface",
+          "content": "Experience a user-friendly interface designed for creators of all skill levels. No technical knowledge required - just upload, style, and generate your transformed video in minutes.",
+          "icon": "👌"
+        },
+        {
+          "title": "Optimized Processing",
+          "content": "Advanced AI optimization automatically handles video trimming and format conversion for maximum compatibility and efficient processing across all supported file types.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Magic Hour AI Alternative FAQ",
+      "description": "Answers to common questions about our video-to-video AI tool and how it compares to Magic Hour.",
+      "q1": "How does this Magic Hour AI alternative work?",
+      "a1": "Our AI uses a two-step video style transfer process: first, it applies your chosen style to a reference frame, then transforms the entire video while preserving original motion and timing for consistent results.",
+      "q2": "What video formats and sizes are supported?",
+      "a2": "We support MP4, MOV, and AVI files up to 50MB and 15 seconds in length. Longer videos are automatically trimmed for optimal processing.",
+      "q3": "How long does the video style transfer take?",
+      "a3": "Processing typically takes 5-10 minutes, including 1-3 minutes for style transfer and 3-7 minutes for video generation, with real-time progress updates.",
+      "q4": "What are the costs involved?",
+      "a4": "Pricing is transparent with separate fees for style transfer and video generation based on video duration. Costs are displayed before processing, and credits are only deducted after successful style transfer.",
+      "q5": "Can I create custom styles?",
+      "a5": "Yes, you can choose from 20+ presets or create unique styles using text prompts and reference images for personalized video transformations.",
+      "q6": "What makes a good input video for best results?",
+      "a6": "Videos with clear subjects, good lighting, stable motion, and well-defined features yield the best style transfer results. Avoid fast movements, dark, or blurry footage for optimal quality."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-skiing.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Claymation Style",
+      "description": "Change Material | Transform original video into clay style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Sketch Style",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon Style",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Sketch Style",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    }
+  ],
+  "pageStructure": [
+    "benefits",
+    "examples",
+    "howToUse",
+    "whatIs",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

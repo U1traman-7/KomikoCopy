@@ -1,0 +1,231 @@
+{
+  "ui": {
+    "title": "Simplificação de Esboços com IA",
+    "description": "Transforme os seus esboços brutos em arte de linha limpa e simplificada com IA. Experimente a simplificação instantânea de esboços que refina os seus desenhos com apenas um clique! Perfeito para artistas, designers e entusiastas de mangá que desejam otimizar o seu processo criativo.",
+    "input": {
+      "title": "Entrada",
+      "tooltip": "Carregue o esboço para simplificar",
+      "sketchImage": "Imagem do Esboço",
+      "aiModel": "Modelo de IA",
+      "models": {
+        "basic": "Básico",
+        "advanced": "Avançado"
+      },
+      "selectModel": "Selecione um modelo"
+    },
+    "buttons": {
+      "simplifyImage": "Simplificar Imagem"
+    },
+    "output": {
+      "title": "Resultados da Simplificação",
+      "emptyState": "Os seus resultados de simplificação aparecerão aqui",
+      "uploadPrompt": "Carregue uma imagem para começar"
+    },
+    "toast": {
+      "fetchImagesFailed": "Falha ao buscar imagens",
+      "deleteSuccess": "Exclusão bem-sucedida",
+      "deleteFailed": "Falha ao excluir",
+      "downloadFailed": "Falha ao baixar",
+      "simplifySuccess": "Imagem simplificada com sucesso",
+      "simplifyFailed": "Falha ao simplificar imagem",
+      "createImageFailed": "Falha ao criar imagem"
+    },
+    "examples": {
+      "inputSketch": "Esboço de Entrada",
+      "simplifiedResult": "Resultado Simplificado",
+      "example1": "Esboço bruto transformado em arte de linha limpa",
+      "example2": "Esboço bruto refinado em arte de linha polida"
+    },
+    "modal": {
+      "deleteTitle": "Confirmação de Exclusão",
+      "deleteMessage": "Tem certeza de que deseja excluir esta imagem? Esta ação não pode ser desfeita.",
+      "cancel": "Cancelar",
+      "delete": "Excluir"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Simplificação de Esboços com IA - KomikoAI",
+      "description": "Transforme esboços complexos em arte de linha limpa e simplificada com IA. Carregue o seu esboço e deixe a IA refiná-lo para si.",
+      "keywords": "Simplificação de esboços com IA, esboço para arte de linha, arte de linha com IA, refinamento de esboços, esboço de mangá, esboço de quadrinhos, ferramenta de desenho com IA, limpeza de esboços, gerador de arte de linha"
+    },
+    "hero": {
+      "title": "Simplificação de Esboços com IA"
+    },
+    "howToUse": {
+      "title": "Como simplificar os seus esboços com IA",
+      "description": "Transforme os seus esboços brutos em arte de linha limpa e simplificada com a Simplificação de Esboços com IA da Komiko em alguns passos.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Passo 1: Carregar Imagem do Esboço",
+          "content": "Carregue o seu esboço ou desenho bruto para a Simplificação de IA. Os formatos JPG e PNG são suportados."
+        },
+        {
+          "step": 2,
+          "title": "Passo 2: Simplifique e Partilhe",
+          "content": "Clique em 'Simplificar Imagem' e espere que a IA faça a sua magia. Descarregue e partilhe a sua criação simplificada!"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Exemplos de Simplificação de Esboços com IA",
+      "description": "Veja os resultados da simplificação de esboços gerados pelos utilizadores do Anitoon"
+    },
+    "cta": {
+      "title": "Transforme Os Seus Esboços com IA Hoje!",
+      "description": "Comece a simplificar os seus esboços com a nossa tecnologia avançada de IA.",
+      "buttonText": "Experimente a Simplificação de Esboços Grátis"
+    },
+    "benefits": {
+      "title": "Por que deve simplificar os seus esboços com IA",
+      "description": "A Simplificação de Esboços com IA da Anitoon ajuda os artistas a transformar esboços brutos em arte de linha limpa e refinada, tornando o seu processo criativo mais eficiente.",
+      "features": [
+        {
+          "title": "Arte de Linha Limpa",
+          "content": "Transforme esboços desordenados em arte de linha limpa e profissional com espessura de traço consistente e clareza aprimorada.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Consistência de Estilo",
+          "content": "Mantenha um estilo de arte de linha consistente nos seus desenhos com a simplificação baseada em IA.",
+          "icon": "🖌️"
+        },
+        {
+          "title": "Economia de Tempo",
+          "content": "Economize horas de refinamento manual de arte de linha, deixando que a IA cuide do processo de simplificação.",
+          "icon": "💎"
+        },
+        {
+          "title": "Clareza Aprimorada",
+          "content": "Melhore a clareza e a legibilidade dos seus esboços removendo detalhes e ruídos desnecessários.",
+          "icon": "💪"
+        },
+        {
+          "title": "Simplificação Inteligente",
+          "content": "A IA analisa a estrutura do seu esboço e simplifica de forma inteligente, preservando detalhes importantes.",
+          "icon": "🧠"
+        },
+        {
+          "title": "Qualidade Profissional",
+          "content": "Obtenha arte de linha de nível profissional, pronta para tinta ou coloração digital.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Otimização do Fluxo de Trabalho",
+          "content": "Otimize o seu processo criativo automatizando a fase de refinamento do esboço.",
+          "icon": "💫"
+        },
+        {
+          "title": "Seleção de Modelo",
+          "content": "Escolha entre os modelos de IA Básico e Avançado para atender às suas necessidades específicas.",
+          "icon": "📚"
+        },
+        {
+          "title": "Refinamento Instantâneo",
+          "content": "Transforme esboços brutos em arte de linha polida instantaneamente, perfeito para mangá, quadrinhos e ilustrações.",
+          "icon": "⚡️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Comuns Sobre a Simplificação de Esboços com IA",
+      "description": "Encontre respostas para perguntas frequentes sobre a simplificação de esboços com IA.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "O que é a Simplificação de Esboços com IA?",
+          "answer": "A Simplificação de Esboços com IA é um processo que usa inteligência artificial para transformar esboços brutos em arte de linha limpa e refinada. A ferramenta de Simplificação de Esboços com IA da KomikoAI ajuda os artistas a otimizar o seu processo criativo, refinando e simplificando automaticamente os seus desenhos, mantendo os detalhes essenciais."
+        },
+        {
+          "id": 2,
+          "question": "Como simplificar esboços com IA?",
+          "answer": "Pode simplificar os seus esboços com a IA da Komiko em dois passos fáceis:\n1. Carregue a imagem do seu esboço para a Simplificação de IA\n2. Clique em 'Simplificar Imagem' e espere que a IA refine o seu desenho"
+        },
+        {
+          "id": 3,
+          "question": "Como funciona a Simplificação de Esboços com IA?",
+          "answer": "A Simplificação de Esboços com IA usa modelos avançados de IA treinados em milhões de imagens para analisar a estrutura do seu esboço e simplificá-lo de forma inteligente. A IA identifica linhas e detalhes importantes, removendo ruídos e complexidades desnecessárias, resultando em arte de linha limpa e profissional."
+        },
+        {
+          "id": 4,
+          "question": "Quais são os benefícios da Simplificação de Esboços com IA?",
+          "answer": "Existem vários benefícios em simplificar esboços com IA:\n• Economiza tempo em comparação com o refinamento manual da arte de linha\n• Produz arte de linha consistente e de qualidade profissional\n• Mantém detalhes importantes enquanto remove ruídos\n• Perfeito para mangá, quadrinhos e ilustrações"
+        },
+        {
+          "id": 5,
+          "question": "Posso usar esboços simplificados por IA para fins comerciais?",
+          "answer": "Sim, pode usar esboços simplificados gerados por IA para fins pessoais e comerciais. No entanto, certifique-se de cumprir os termos de serviço da KomikoAI."
+        },
+        {
+          "id": 6,
+          "question": "Quais formatos e tamanhos são suportados?",
+          "answer": "A IA suporta esboços nos formatos JPG e PNG. As imagens de saída manterão o seu tamanho original enquanto são simplificadas."
+        },
+        {
+          "id": 7,
+          "question": "A Simplificação de Esboços com IA é gratuita?",
+          "answer": "A KomikoAI oferece zaps (créditos) gratuitos para experimentar a ferramenta. Também pode adquirir planos pagos para obter mais zaps, caso precise de mais uso, bem como recursos avançados, como processamento mais rápido e resoluções mais altas."
+        },
+        {
+          "id": 8,
+          "question": "Quais tipos de esboços posso simplificar com IA?",
+          "answer": "A Simplificação de IA funciona com vários tipos de esboços:\n• Esboços e rabiscos brutos\n• Designs de personagens\n• Páginas de mangá e quadrinhos\n• Designs de produtos\n• Desenhos arquitetónicos\n• Arte conceitual\nPara obter melhores resultados, certifique-se de que os seus esboços tenham linhas claras e bem definidas e bom contraste."
+        },
+        {
+          "id": 9,
+          "question": "Quais são as limitações da Simplificação de Esboços com IA?",
+          "answer": "Embora a Simplificação de Esboços com IA seja uma ferramenta poderosa, ela tem algumas limitações:\n• Detalhes Complexos: Esboços muito complexos ou altamente detalhados podem perder alguns detalhes finos\n• Consistência de Estilo: A IA pode não corresponder perfeitamente ao seu estilo artístico desejado\n• Qualidade: A qualidade da simplificação depende da qualidade do esboço de entrada\nApesar dessas limitações, a simplificação com IA pode acelerar significativamente o seu fluxo de trabalho e aprimorar o seu processo criativo."
+        },
+        {
+          "id": 10,
+          "question": "Preciso saber desenhar para usar a Simplificação de Esboços com IA?",
+          "answer": "Não, não precisa ser um artista especialista para usar a Simplificação de Esboços com IA.\n• Para Artistas: Se cria os seus próprios esboços, esta ferramenta pode ajudar a refinar e limpar o seu trabalho\n• Para Não-Artistas: Pode começar com esboços ou modelos existentes e deixar que a IA cuide da simplificação\nEsta ferramenta foi projetada para ser fácil de usar para todos, seja um artista experiente ou um iniciante explorando a criatividade."
+        },
+        {
+          "id": 11,
+          "question": "Como posso obter os melhores resultados com a Simplificação de Esboços com IA?",
+          "answer": "Siga estas dicas para uma simplificação ideal:\n• Use esboços claros e bem definidos com bom contraste\n• Certifique-se de que o seu esboço tenha linhas e formas distintas\n• Escolha o modelo de IA apropriado para as suas necessidades\n• Considere usar a opção de fundo transparente quando necessário"
+        },
+        {
+          "id": 12,
+          "question": "Como a Simplificação com IA se compara ao refinamento manual?",
+          "answer": "A Simplificação de Esboços com IA oferece uma economia de tempo significativa em comparação com o refinamento manual, reduzindo horas de trabalho para minutos. Embora possa não substituir totalmente o refinamento tradicional para projetos artísticos brutos, é uma excelente ferramenta para prototipagem rápida, visualização de conceitos e criação rápida de várias variações. A IA entende os princípios da arte de linha e pode sugerir melhorias que pode não ter considerado."
+        },
+        {
+          "id": 13,
+          "question": "Posso editar os resultados simplificados por IA?",
+          "answer": "Sim, pode editar e refinar ainda mais os esboços simplificados por IA usando o seu software de arte digital preferido. O resultado gerado por IA serve como uma excelente base que pode aprimorar com o seu toque artístico pessoal."
+        },
+        {
+          "id": 14,
+          "question": "Quais são algumas maneiras criativas de usar a Simplificação de Esboços com IA?",
+          "answer": "A Simplificação de Esboços com IA pode ser usada para:\n• Prototipagem rápida de designs de personagens\n• Criação de arte de linha limpa para quadrinhos e mangá\n• Refinamento de esboços brutos em ilustrações polidas\n• Desenvolvimento de arte conceitual\n• Fins educacionais em aulas de arte\n• Conversão de desenhos brutos em arte de linha simples"
+        }
+      ]
+    }
+  },
+  "examples": [
+    {
+      "input": "/images/examples/sketch_simplifier/input2.webp",
+      "output": "/images/examples/sketch_simplifier/output2.webp",
+      "inputLabel": "Esboço de Entrada",
+      "outputLabel": "Resultado Simplificado",
+      "prompt": "Esboço bruto transformado em arte de linha limpa"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input1.webp",
+      "output": "/images/examples/sketch_simplifier/output1.webp",
+      "inputLabel": "Esboço de Entrada",
+      "outputLabel": "Resultado Simplificado",
+      "prompt": "Esboço bruto refinado em arte de linha polida"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input3.webp",
+      "output": "/images/examples/sketch_simplifier/output3.webp",
+      "inputLabel": "Esboço de Entrada",
+      "outputLabel": "Resultado Simplificado",
+      "prompt": "Esboço bruto refinado em arte de linha polida"
+    }
+  ]
+}

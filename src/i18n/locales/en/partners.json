@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Partners | KomikoAI",
+    "description": "Join forces with KomikoAI and grow together."
+  },
+  "hero": {
+    "title": "Our Partners",
+    "description": "As the leading AI comic & animation platform, we collaborate with top AI innovators to revolutionize creative content production in design and entertainment."
+  },
+  "technologyPartners": {
+    "title": "Technology Partners",
+    "description": "Working with industry leaders to push the boundaries of AI creativity",
+    "partners": {
+      "mathosAI": {
+        "name": "Mathos AI",
+        "description": "Mathos AI is a powerful AI-powered math solver that can help you solve complex math problems."
+      },
+      "collovAI": {
+        "name": "Collov AI",
+        "description": "Collov AI offers cutting-edge AI virtual staging to transform property listings with stunning, photorealistic designs. Elevate real estate marketing with fast, cost-effective staging."
+      },
+      "altpageAI": {
+        "name": "altpage.ai",
+        "description": "altpage.ai is an AI Agent that creates SEO-optimized comparison pages that capture competitor brand traffic. It analyzes data, highlights your advantages, and deploys pages to rank high—no technical skills needed."
+      },
+      "easysiteAI": {
+        "name": "EasySite",
+        "description": "Build database-driven websites & apps with AI in seconds. Features built-in database, mobile conversion, chat widgets, analytics. WordPress/Netlify ready."
+      },
+      "newoaksAI": {
+        "name": "AI Chatbot Builder; AI Agent Builder",
+        "description": "NewOaks AI handles customer conversations across all your channels and fills your calendar with meetings. Focus on closing deals instead of chasing leads!"
+      },
+      "komiko": {
+        "name": "KomikoAI",
+        "description": "KomikoAI: All-in-one AI Platform for Art, Anime, and Comics KomikoAI's powerful AI tools make it easy for artists and storytellers to bring their ideas to life. From line art colorization to AI anime generator and AI comic generator, we have you covered. Create illustrations, comics, manga, and animations in minutes, not days."
+      },
+      "kuaAI": {
+        "name": "kua.ai",
+        "description": "AI Agent for E-Commerce"
+      },
+      "vidAU": {
+        "name": "VidAU",
+        "description": "VidAU AI empowers you to create eye-catching videos in just minutes. Simply provide a product link or a brief description, and our platform will generate high-quality videos featuring lifelike AI avatars that speak in multiple languages and accents. Whether you're making content for TikTok, YouTube, marketing campaigns, or training sessions, VidAU AI has you covered. From engaging short-form videos to professional explainers, our all-in-one, easy-to-use AI video creation platform helps you produce compelling content quickly—enhancing your brand presence and telling your story with impact."
+      },
+      "bikaAI": {
+        "name": "Bika.AI",
+        "description": "Bika.ai, all-in-one AI workspace for creating business AI agents, combines AI chatbot, automation, databases, dashboards and wikis, manage and automate endless business processes. There's no need for constant chatting with AI. Bika.ai automates repetitive tasks and seamlessly executes across functions for your marketing, sales, and projects allowing you to focus on strategic work."
+      }
+    }
+  },
+  "partnershipCTA": {
+    "title": "Grow Your Business With Us",
+    "description": "Partner with KomikoAI to expand your market reach. We're excited to collaborate with companies in related creative industries.",
+    "button": "Contact Our Team"
+  },
+  "productLines": {
+    "title": "Product Lines",
+    "description": "Explore our innovative solutions reshaping the future of creative AI tools",
+    "aiComicGeneration": {
+      "title": "AI Comic Generation",
+      "description": "Create stunning comics instantly with our advanced AI technology",
+      "items": [
+        "Character Design",
+        "Comic Scene Generation",
+        "Multi-panel Storytelling",
+        "Custom Style Control"
+      ]
+    },
+    "imageProcessing": {
+      "title": "Image Processing",
+      "description": "Professional AI image tools to streamline your creative workflow",
+      "items": [
+        "Background Removal",
+        "Image Colorization",
+        "Image Super-resolution",
+        "Line Art Coloring"
+      ]
+    },
+    "videoEnhancement": {
+      "title": "Video Enhancement",
+      "description": "Powerful video tools to bring your creations to life",
+      "items": [
+        "Video Frame Interpolation",
+        "Video Super-resolution",
+        "AI Video Animation",
+        "Character Motion Generation"
+      ]
+    }
+  },
+  "solutions": {
+    "title": "Solutions",
+    "description": "Tailored approaches for diverse market segments",
+    "professionals": {
+      "title": "Professionals",
+      "description": "Streamlined tools for creative professionals",
+      "items": [
+        "Comic Artists",
+        "Content Creators",
+        "Game Designers",
+        "Illustrators"
+      ]
+    },
+    "enterprises": {
+      "title": "Enterprises",
+      "description": "Scalable AI solutions for businesses",
+      "items": [
+        "Educational Institutions",
+        "Entertainment Industry",
+        "Publishing Houses",
+        "Advertising Agencies"
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 玩偶生成器",
+      "description": "立即将您喜爱的照片转化为独一无二的玩偶艺术作品。体验我们 AI 驱动工具带来的转变。立即创作您的专属作品！",
+      "keywords": "AI 玩偶生成器, AI 动漫生成器, AI 角色创建器, 玩偶艺术生成器, 定制玩偶"
+    },
+    "hero": {
+      "title": "AI 玩偶生成器"
+    },
+    "whatIs": {
+      "title": "什么是 AI 玩偶生成器？",
+      "description": "AI 玩偶生成器是一个先进的平台，它利用人工智能技术将普通图像转化为栩栩如生的玩偶风格作品。从怀旧设计到现代美学，该工具提供了多种选项，可在每个作品中实现独特的艺术表达。"
+    },
+    "examples": {
+      "title": "来自 AI 玩偶生成器的精美示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用 AI 玩偶生成器",
+      "steps": [
+        {
+          "title": "第一步：上传您的照片",
+          "content": "选择清晰且高分辨率的照片，以获得最佳转换效果。只需将文件拖放到上传区域，或从您的设备中选择。"
+        },
+        {
+          "title": "第二步：选择玩偶模板",
+          "content": "选择您喜欢的玩偶模板，将您的照片转化为相应的玩偶风格。"
+        },
+        {
+          "title": "第三步：转换为玩偶",
+          "content": "点击“转换为玩偶”按钮，让我们的 AI 施展魔法！它将分析您的照片并应用所选样式，实时创建令人惊艳的玩偶艺术作品。"
+        },
+        {
+          "title": "第四步：下载并分享您的作品",
+          "content": "玩偶艺术作品生成后，您可以以高分辨率格式下载。在社交平台上分享您的作品，或打印出来进行展示。"
+        }
+      ],
+      "subtitle": "通过四个简单的步骤，轻松将您的图像转化为玩偶！"
+    },
+    "benefits": {
+      "title": "为什么要使用 AI 玩偶生成器？",
+      "description": "探索将您的照片转化为引人入胜的玩偶艺术作品的独特优势。",
+      "features": [
+        {
+          "title": "🎨 独特的风格选项",
+          "content": "访问各种独家玩偶风格，这些风格经过精心设计，旨在反映您的个人品味。了解每种独特的设计如何提升您的个人项目。"
+        },
+        {
+          "title": "⚡ 快速高效的创作",
+          "content": "体验快速转换，使您能够快速制作艺术作品。轻松创建多个高质量的作品，而不会损失艺术价值。"
+        },
+        {
+          "title": "🖼️ 高分辨率输出",
+          "content": "生成非常适合数字用途、社交媒体或打印的高分辨率图像，确保您的艺术作品保持最佳的视觉效果。"
+        },
+        {
+          "title": "💻 易于使用的界面",
+          "content": "在我们用户友好的平台上轻松导航，无需任何技术障碍，让您的创造力自由流动，不受干扰。"
+        },
+        {
+          "title": "🎯 适合所有创意人员",
+          "content": "无论您是经验丰富的艺术家还是新手，AI 玩偶生成器都为您提供了探索和表达创造力的工具。"
+        },
+        {
+          "title": "🚀 与世界分享您的艺术作品",
+          "content": "轻松地在各种平台上导出和分享您的作品，与志同道合的艺术家建立联系，并展示您的才华。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 玩偶生成器 FAQ",
+      "description": "",
+      "q1": "什么是 AI 玩偶艺术转换？",
+      "a1": "我们的 AI 玩偶生成器采用先进的算法，能够无缝分析您的照片并将其转换为自定义玩偶风格，使其对所有用户都简单易用。",
+      "q2": "如何使用我的图像获得最佳效果？",
+      "a2": "选择清晰、光线充足的图像，并探索不同的玩偶样式，以找到最符合您愿景的效果。",
+      "q3": "使用 AI 玩偶生成器是否需要付费？",
+      "a3": "是的，您可以免费开始使用 AI 玩偶生成器！我们为寻求更多选项的用户提供了高级功能。",
+      "q4": "AI 玩偶生成器与其他艺术工具的区别是什么？",
+      "a4": "我们的生成器专注于玩偶风格，提供了一种独特的艺术转换方法，提供了专为此风格量身定制的专用框架。",
+      "q5": "我可以将创作的艺术品用于商业用途吗？",
+      "a5": "当然！只要您遵守我们的条款和条件，您就可以将生成的玩偶艺术作品用于商业用途。"
+    },
+    "cta": {
+      "title": "立即开始制作您的 AI 玩偶艺术作品",
+      "description": "加入数字艺术的革命！轻松将您的图像转化为引人入胜的玩偶杰作。重新发现您的创造力，并与他人分享您的独特作品。",
+      "buttonText": "免费将您的图像转换为玩偶"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into stunning action figure art!",
+  "originalKeyword": "AI Action Figure Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Action Figure"
+    },
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_2.webp",
+      "input": "/images/examples/playground/ai-action-figure-generator/input2.webp",
+      "prompt": "Style: Action Figure"
+    },
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Action Figure"
+    },
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Action Figure"
+    }
+  ]
+}

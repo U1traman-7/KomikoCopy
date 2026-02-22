@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "KI-Ebenen-Splitter – KomikoAI",
+    "og": {
+      "title": "KI-Ebenen-Splitter – KomikoAI",
+      "description": "Teile deine Bild-Assets mit KI auf. Lade dein Bild hoch und lass die KI automatisch verschiedene Komponenten für Animation und Spieleentwicklung separieren.",
+      "url": "https://komiko.app/layer_splitter"
+    },
+    "twitter": {
+      "title": "KI-Ebenen-Splitter – KomikoAI",
+      "description": "Teile deine Bild-Assets mit KI auf. Lade dein Bild hoch und lass die KI automatisch verschiedene Komponenten für Animation und Spieleentwicklung separieren."
+    },
+    "description": "Teile deine Bild-Assets mit KI auf. Lade dein Bild hoch und lass die KI automatisch verschiedene Komponenten für Animation und Spieleentwicklung separieren."
+  },
+  "hero": {
+    "title": "KI-Ebenen-Splitter",
+    "description": "Teile deine Bilder mit KI in einzelne Ebenen auf. Lade einfach ein Bild hoch und erhalte sofort separate Komponentenebenen! Unsere leistungsstarke KI analysiert dein Artwork und trennt Elemente wie Charaktere, Hintergründe, Objekte und mehr in einzelne Ebenen. Ideal für Künstler, Animatoren und Spieleentwickler, die animationsfertige Ebenen benötigen."
+  },
+  "input": {
+    "title": "Eingabe",
+    "upload": {
+      "label": "Bild hochladen",
+      "tooltip": "Lade ein Bild für den Ebenen-Splitter hoch"
+    }
+  },
+  "output": {
+    "title": "Aufgeteilte Ergebnisse",
+    "empty": {
+      "title": "Hier erscheinen deine aufgeteilten Ergebnisse",
+      "subtitle": "Lade ein Bild hoch, um zu starten"
+    }
+  },
+  "tutorial": {
+    "title": "So teilst du dein Bild mit KI auf",
+    "description": "Trenne deine Bilder mit dem KI-Ebenen-Splitter von KomikoAI in wenigen Schritten automatisch in einzelne Ebenen.",
+    "steps": {
+      "1": {
+        "title": "Schritt 1: Bild hochladen",
+        "content": "Lade dein Bild in den KI-Ebenen-Splitter hoch. JPG- und PNG-Formate werden unterstützt."
+      },
+      "2": {
+        "title": "Schritt 2: Aufteilen und Herunterladen",
+        "content": "Klicke auf 'Bild aufteilen' und warte, bis die KI dein Bild aufgeteilt hat. Lade die einzelnen Ebenen für dein Projekt herunter!"
+      }
+    }
+  },
+  "examples": {
+    "title": "Beispiele für die KI-Ebenenaufteilung",
+    "description": "Sieh dir die Ergebnisse der KI-Ebenenaufteilung an, die von KomikoAI-Nutzern generiert wurden",
+    "labels": {
+      "original": "Originalbild",
+      "split": "Aufgeteilte Ebene"
+    },
+    "captions": {
+      "1": "Hintergrundebene vom Charakter getrennt",
+      "2": "Charakterebene aus dem Originalbild extrahiert",
+      "3": "Mehrere Ebenen aus einem einzelnen Bild getrennt"
+    }
+  },
+  "features": {
+    "title": "Warum du deine Bilder mit KI aufteilen solltest",
+    "description": "Der KI-Ebenen-Splitter von KomikoAI macht das Separieren von Bildkomponenten für jeden einfach, von Anfängern bis hin zu professionellen Künstlern und Spieleentwicklern.",
+    "items": {
+      "precise": {
+        "title": "Präzise Trennung",
+        "content": "Unsere KI erkennt und trennt verschiedene Elemente in deinem Bild präzise und erstellt saubere, individuelle Ebenen für jede Komponente."
+      },
+      "timeSaving": {
+        "title": "Zeitsparend",
+        "content": "Überspringe den mühsamen, manuellen Auswahl- und Maskierungsprozess. Erhalte separate Ebenen in Sekunden statt stundenlanger, mühsamer Arbeit."
+      },
+      "flexible": {
+        "title": "Flexible Bearbeitung",
+        "content": "Bearbeite einzelne Komponenten separat und kombiniere sie für ultimative kreative Kontrolle über deine Bilder."
+      },
+      "gameAssets": {
+        "title": "Erstellung von Game-Assets",
+        "content": "Erstelle auf einfache Weise separate Sprites und Game-Assets aus komplexen Bildern. Perfekt für Spieleentwickler, die Charaktere und Objekte isolieren müssen."
+      },
+      "animation": {
+        "title": "Animationsfertig",
+        "content": "Erhalte animationsfertige Ebenen, die sofort in deine bevorzugte Animationssoftware importiert werden können."
+      },
+      "quality": {
+        "title": "Hochwertige Ergebnisse",
+        "content": "Lade aufgeteilte Ebenen in professioneller Qualität herunter, perfekt für kommerzielle Projekte."
+      },
+      "workflow": {
+        "title": "Optimierter Workflow",
+        "content": "Integriere die KI-Ebenenaufteilung nahtlos in deinen Design-, Illustrations- oder Spieleentwicklungs-Workflow, um Zeit und Ressourcen zu sparen."
+      },
+      "background": {
+        "title": "Hintergrundentfernung",
+        "content": "Trenne Vordergrundmotive einfach von Hintergründen, ohne komplexe Maskierungstechniken oder Greenscreens."
+      },
+      "creative": {
+        "title": "Kreative Freiheit",
+        "content": "Kombiniere Elemente aus verschiedenen Bildern, indem du sie zuerst in Komponentenebenen aufteilst. Erstelle mit Leichtigkeit neue Kompositionen."
+      }
+    }
+  },
+  "faq": {
+    "title": "Häufige Fragen zur KI-Ebenenaufteilung",
+    "description": "Finde Antworten auf häufig gestellte Fragen zum Aufteilen von Bildern in Ebenen mit KI.",
+    "questions": {
+      "1": {
+        "question": "Was ist KI-Ebenenaufteilung?",
+        "answer": "KI-Ebenenaufteilung ist ein Prozess, der künstliche Intelligenz verwendet, um ein Bild automatisch in einzelne Komponentenebenen aufzuteilen. Das KI-Ebenen-Splitter-Tool von KomikoAI analysiert dein Artwork und identifiziert verschiedene Elemente wie Charaktere, Hintergründe und Objekte, wodurch separate Ebenen erstellt werden, die unabhängig voneinander bearbeitet werden können."
+      },
+      "2": {
+        "question": "Wie teilt man Bilder mit KI in Ebenen auf?",
+        "answer": "Du kannst deine Bilder mit KomikoAI KI in zwei einfachen Schritten aufteilen:\n1. Lade dein Bild in den KI-Ebenen-Splitter hoch\n2. Klicke auf die Schaltfläche 'Bild aufteilen', um den Aufteilungsprozess zu starten"
+      },
+      "3": {
+        "question": "Kann ich KI verwenden, um Elemente in meinen Bildern zu trennen?",
+        "answer": "Ja, du kannst KI verwenden, um Elemente in deinen Bildern zu trennen. Das KI-Ebenen-Splitter-Tool von KomikoAI kann deine Bilder analysieren und verschiedene Komponenten identifizieren, wodurch individuelle Ebenen für jedes Element erstellt werden. Dies erleichtert das Bearbeiten bestimmter Teile deines Bildes, ohne die gesamte Komposition zu beeinträchtigen."
+      },
+      "4": {
+        "question": "Wie funktioniert die KI-Ebenenaufteilung?",
+        "answer": "Die KI-Ebenenaufteilung verwendet fortschrittliche Deep-Learning-Modelle, die auf Millionen von Bildern trainiert wurden, um verschiedene Elemente in einem Bild zu erkennen. Die KI analysiert Muster, Kanten, Farben und Kontext, um zu bestimmen, welche Pixel zu welchen Objekten gehören, und erstellt dann separate Ebenen für jede identifizierte Komponente."
+      },
+      "5": {
+        "question": "Was sind die Vorteile der KI-Ebenenaufteilung?",
+        "answer": "Es gibt verschiedene Vorteile der Aufteilung von Bildern mit KI:\n- Spart Zeit im Vergleich zu manueller Maskierung und Auswahl\n- Produziert saubere, hochwertige Ebenen mit präziser Kantenerkennung\n- Ermöglicht die einfache Bearbeitung einzelner Komponenten\n- Perfekt für die Erstellung von Game-Assets und Animationselementen"
+      },
+      "6": {
+        "question": "Kann ich KI-aufgeteilte Ebenen für kommerzielle Zwecke verwenden?",
+        "answer": "Ja, du kannst KI-generierte, aufgeteilte Ebenen für private und kommerzielle Zwecke verwenden. Dies macht es ideal für Spieleentwicklung, Designprojekte und professionelle Artworks. Stelle jedoch sicher, dass du die Nutzungsbedingungen von KomikoAI einhältst."
+      },
+      "7": {
+        "question": "Welche Formate und Größen werden unterstützt?",
+        "answer": "Die KI unterstützt Bilder in JPG- und PNG-Formaten. Die Ausgabebenen behalten die ursprüngliche Auflösung des Bildes bei, um maximale Qualität zu gewährleisten."
+      },
+      "8": {
+        "question": "Ist der KI-Ebenen-Splitter kostenlos nutzbar?",
+        "answer": "KomikoAI bietet kostenlose Zaps (Guthaben) an, mit denen du das Tool ausprobieren kannst. Du kannst auch kostenpflichtige Pläne für mehr Zaps erwerben, wenn du mehr Nutzung benötigst, sowie erweiterte Funktionen wie schnellere Verarbeitung und höhere Auflösungen."
+      },
+      "9": {
+        "question": "Muss ich Prompts für die Ebenenaufteilung hinzufügen?",
+        "answer": "Im Gegensatz zu einigen KI-Tools benötigt unser Ebenen-Splitter keine detaillierten Prompts. Die KI ist darauf trainiert, Bildkomponenten intelligent zu identifizieren und automatisch zu trennen. Lade einfach dein Bild hoch und lass die KI die Arbeit erledigen."
+      },
+      "10": {
+        "question": "Was sind die Einschränkungen der KI-Ebenenaufteilung?",
+        "answer": "Obwohl die KI-Ebenenaufteilung ein leistungsstarkes Tool ist, hat sie einige Einschränkungen:\n- Komplexe Szenen: Sehr belebte oder komplexe Bilder können dazu führen, dass einige Elemente zusammen gruppiert werden\n- Transparenz: Einige feine Details wie Haare oder Fell können schwer perfekt zu trennen sein\n- Überlappende Objekte: Elemente, die sich erheblich überlappen, können schwierig vollständig zu trennen sein\nTrotz dieser Einschränkungen kann die KI-Ebenenaufteilung die Arbeitsabläufe für Künstler, Designer und Entwickler erheblich beschleunigen."
+      },
+      "11": {
+        "question": "Benötige ich Designkenntnisse, um die KI-Ebenenaufteilung zu verwenden?",
+        "answer": "Nein, du benötigst keine fortgeschrittenen Designkenntnisse, um die KI-Ebenenaufteilung zu verwenden.\n- Für Designer: Wenn du ein Profi bist, kann dieses Tool deinen Workflow dramatisch beschleunigen\n- Für Anfänger: Du kannst Bildelemente einfach trennen, ohne komplexe Auswahltechniken beherrschen zu müssen\nDieses Tool ist so konzipiert, dass es für jeden benutzerfreundlich ist, egal ob du ein erfahrener Designer oder gerade erst am Anfang bist."
+      },
+      "12": {
+        "question": "Welche Arten von Bildern eignen sich am besten für die KI-Ebenenaufteilung?",
+        "answer": "Der KI-Ebenen-Splitter funktioniert gut mit verschiedenen Arten von Bildern:\n- Game-Assets und Charakterdesigns\n- Illustrationen und Artworks\n- Fotos mit deutlichen Vordergrund- und Hintergrundelementen\n- Produktbilder\n- Cartoon- und Anime-Stilbilder\n- Digitale Artworks mit klaren Komponenten\nVerwende für beste Ergebnisse Bilder mit gutem Kontrast zwischen verschiedenen Elementen."
+      },
+      "13": {
+        "question": "Wie kann ich die besten Ergebnisse mit der KI-Ebenenaufteilung erzielen?",
+        "answer": "Befolge diese Tipps für eine optimale Ebenentrennung:\n- Verwende Bilder mit gutem Kontrast zwischen Elementen\n- Stelle sicher, dass dein Bild eine ausreichende Auflösung hat\n- Bilder mit klaren Grenzen zwischen Elementen funktionieren am besten\n- Vermeide nach Möglichkeit extrem überladene oder komplexe Szenen\n- Verwende das PNG-Format für beste Qualitätsergebnisse"
+      },
+      "14": {
+        "question": "Wie schneidet die KI-Ebenenaufteilung im Vergleich zur manuellen Trennung ab?",
+        "answer": "Die KI-Ebenenaufteilung bietet erhebliche Zeitersparnisse im Vergleich zur manuellen Maskierung und Auswahl, wodurch sich die Arbeitszeit von Stunden auf Minuten reduziert. Obwohl sie professionelle Techniken für die komplexesten Projekte möglicherweise nicht vollständig ersetzt, ist sie ein hervorragendes Tool für die schnelle Erstellung von Assets, die Spieleentwicklung und Design-Workflows. Die KI versteht Objektgrenzen und kann saubere Trennungen erstellen, deren manuelle Erstellung viel Zeit und Geschick erfordern würde."
+      },
+      "15": {
+        "question": "Kann ich die KI-aufgeteilten Ebenen bearbeiten?",
+        "answer": "Ja, du kannst die KI-generierten Ebenen mit deiner bevorzugten Designsoftware weiter bearbeiten und verfeinern. Die KI-generierten Ebenen dienen als ein ausgezeichneter Ausgangspunkt, den du nach Bedarf mit zusätzlichen Details oder Korrekturen verbessern kannst."
+      },
+      "16": {
+        "question": "Was sind einige kreative Möglichkeiten, die KI-Ebenenaufteilung zu nutzen?",
+        "answer": "Die KI-Ebenenaufteilung kann verwendet werden für:\n- Spieleentwicklung - Erstellung separater Charakter-Sprites und Hintergründe\n- Animation - Vorbereitung von Elementen für Motion Graphics\n- Grafikdesign - Isolieren von Komponenten für kreative Komposition\n- Fotobearbeitung - Trennen von Motiven von Hintergründen\n- UI/UX-Design - Erstellung von geschichteten Oberflächenelementen\n- Digitale Kunst - Vorbereitung von Artworks für dynamische Effekte"
+      },
+      "17": {
+        "question": "Wie genau ist die KI-Ebenenaufteilungstechnologie?",
+        "answer": "Der KI-Ebenen-Splitter von KomikoAI verwendet modernste Computer-Vision-Technologie, um Bildkomponenten genau zu identifizieren und zu trennen. Die Technologie ist besonders effektiv bei Bildern mit deutlichen Elementen und gutem Kontrast. Obwohl kein KI-System perfekt ist, liefert unsere Technologie professionelle Ergebnisse für die meisten gängigen Anwendungsfälle und spart im Vergleich zu manuellen Prozessen erheblich Zeit."
+      },
+      "18": {
+        "question": "Kann ich die KI-Ebenenaufteilung für Animationsprojekte verwenden?",
+        "answer": "Ja, die KI-Ebenenaufteilung ist perfekt für Animationsprojekte:\n- Trenne Charaktere einfach von Hintergründen für unabhängige Animationen\n- Erstelle bewegliche Teile wie Gliedmaßen, Gesichtszüge oder Objekte\n- Bereite vorhandene Artworks für Animationen vor, ohne von Grund auf neu zu beginnen\n- Generiere geschichtete Dateien, die zum Import in Animationssoftware bereit sind\nDiese Fähigkeit ist besonders wertvoll für Animatoren, die statische Artworks zum Leben erwecken oder ihre Produktionspipeline optimieren möchten."
+      }
+    }
+  },
+  "delete": {
+    "title": "Löschbestätigung",
+    "message": "Bist du sicher, dass du dieses Video löschen möchtest? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "cancel": "Abbrechen",
+    "confirm": "Löschen"
+  },
+  "buttons": {
+    "split": "Bild aufteilen"
+  },
+  "errors": {
+    "noZaps": "Bitte kaufe mehr Zaps",
+    "splitFailed": "Bildaufteilung fehlgeschlagen",
+    "splitSuccess": "Bildaufteilung erfolgreich",
+    "deleteSuccess": "Löschen erfolgreich",
+    "deleteFailed": "Löschen fehlgeschlagen",
+    "downloadFailed": "Download fehlgeschlagen"
+  }
+}

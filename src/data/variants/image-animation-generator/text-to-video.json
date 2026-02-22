@@ -1,0 +1,153 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Text to Video",
+      "description": "Transform text into stunning videos effortlessly with advanced AI text to video technology. Create dynamic, high-quality videos from text prompts using cutting-edge AI video generation.",
+      "fullDescription": "Explore the future of video creation with AI-powered text to video generators designed for creators across various styles and industries. Convert your descriptive text into vibrant, high-definition videos with AI models that interpret narrative elements and produce cinematic sequences. Harness AI text to video tools to accelerate production, enhance creativity, and generate engaging video content ideal for social media, marketing, storytelling, and professional projects. This AI technology empowers users to create visually rich videos quickly without the need for advanced video editing skills.",
+      "keywords": "text to video, AI text to video, AI video generator, AI animation, text to animated video, video creation AI, text based video generation, AI video production, AI video maker, text generated video, video from text, AI content creation, AI video software, automated video generation, AI video technology"
+    },
+    "hero": {
+      "title": "Text to Video",
+      "description": "Turn your texts into captivating, professional-quality videos effortlessly. Utilize AI text to video technology for fast, expressive, and visually stunning animated video creation from textual descriptions."
+    },
+    "whatIs": {
+      "title": "What is Text to Video?",
+      "description": "Text to video technology uses deep learning and natural language processing to convert detailed text prompts into fully videos. This advanced AI video technology understands narrative descriptions and automatically produces smooth, engaging video content that brings stories and ideas to life."
+    },
+    "examples": {
+      "title": "Text to Video Examples",
+      "description": "Browse a diverse set of AI-generated videos created from text prompts. See how AI interprets your writing and transforms it into sequences with dynamic motion, realistic effects, and cinematic storytelling.",
+      "inputAlt": "Example Text Input for AI Video",
+      "inputLabel": "Text Prompt",
+      "outputLabel": "Generated Video",
+      "videoNotSupported": "Your browser does not support video playback.",
+      "example1": {
+        "details": "Prompt: 'A futuristic city skyline at dusk with flying cars and neon lights, cinematic camera pans and smooth transitions.'"
+      },
+      "example2": {
+        "details": "Prompt: 'A serene forest scene with animated wildlife, gentle sunlight filtering through the trees and natural ambient sounds.'"
+      },
+      "example3": {
+        "details": "Prompt: 'Epic battle scene between knights and dragons, detailed armor reflections and dramatic slow motion effects.'"
+      },
+      "example4": {
+        "details": "Prompt: 'Romantic scene by the ocean at sunset with waves softly crashing and glowing lanterns floating in the sky.'"
+      }
+    },
+    "howToUse": {
+      "title": "How to Use Text to Video",
+      "steps": [
+        {
+          "title": "Write a Detailed Text Description",
+          "content": "Compose a vivid text prompt describing the scene, characters, actions, and emotions you want to visually capture in your video."
+        },
+        {
+          "title": "Choose an AI Video Generation Model",
+          "content": "Select the AI model best suited for your desired video style and quality to generate your video."
+        },
+        {
+          "title": "Generate the Video",
+          "content": "Initiate the AI process to convert your text into a smooth, captivating animated video."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Export your generated video in popular formats such as MP4 and share it across platforms, including social media, presentations, and marketing campaigns."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Text to Video?",
+      "description": "Unlock powerful advantages with AI text to video technology for creating engaging video content quickly and efficiently. Perfect for creators, marketers, and storytellers aiming to enhance visual media production.",
+      "features": [
+        {
+          "title": "Cutting-Edge AI Video Generation",
+          "content": "Leverage state-of-the-art deep learning technology to generate videos with cinematic quality, smooth motion, and detailed visual effects.",
+          "icon": "🤖"
+        },
+        {
+          "title": "No Technical Video Skills Needed",
+          "content": "Create professional videos simply by providing text inputs. AI handles complex video editing and animation automatically.",
+          "icon": "👌"
+        },
+        {
+          "title": "Accelerated Production Time",
+          "content": "Reduce video creation time significantly, enabling faster content turnaround and keeping up with fast-paced content demands.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Boost Audience Engagement",
+          "content": "Produce captivating video content optimized for social media, advertising, digital marketing, and storytelling to attract and retain viewers.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Expand Creative Possibilities",
+          "content": "Focus on narrative and creativity while AI transforms ideas into high-quality videos, supporting innovation and experimentation.",
+          "icon": "✨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Text to Video FAQ",
+      "description": "Answers to commonly asked questions about AI text to video technology, helping creators understand and get the most from this powerful tool.",
+      "q1": "What is text to video?",
+      "a1": "Text to video is an innovative technology that transforms descriptive text into animated video content using artificial intelligence and machine learning algorithms.",
+      "q2": "How do I create videos using text to video?",
+      "a2": "Simply provide detailed textual descriptions of your scenes, select an AI video generation model, and let the AI create the video for you.",
+      "q3": "What kinds of videos can text to video create?",
+      "a3": "AI can generate a wide range of videos, from cinematic animations to social media clips, storyboards, explainer videos, and more, all based on your text prompts.",
+      "q4": "Do I need video editing skills to use text to video?",
+      "a4": "No prior video editing experience is needed, as the AI handles all animation and production aspects based on your text input.",
+      "q5": "Is text to video technology fast?",
+      "a5": "Yes, AI tools can produce high-quality videos in minutes, greatly accelerating video production workflows.",
+      "q6": "Can I download and share AI-generated videos?",
+      "a6": "Yes, videos can be exported in common formats like MP4 for easy sharing across social channels, presentations, and marketing platforms.",
+      "q7": "Can I use text to video on mobile devices?",
+      "a7": "Many AI text to video platforms support web or app access on smartphones and tablets for convenient use anywhere.",
+      "q8": "What should I include in my text prompts?",
+      "a8": "Include vivid descriptions of characters, settings, actions, emotions, and visual styles to guide the AI in creating detailed and engaging videos.",
+      "q9": "Why is text to video beneficial?",
+      "a9": "It enables faster, cost-efficient, and accessible video creation, empowering creators to produce professional visuals without complex software or skills."
+    },
+    "placeholder": "Please describe the video or animation you’d like to generate."
+  },
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Seedance Pro",
+      "description": "Prompt: pov cockpit shot of a fast flying plane\n[cut] side close up shot of a pilots face\n [cut] over the shoulder shot - in front of the pilot - plane cockpit",
+      "videoUrl": "/images/pages/text-to-video/pilot.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Seedance Pro",
+      "description": "Prompt: Baby flamingoes learning how to walk.",
+      "videoUrl": "/images/pages/text-to-video/bird.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A girl walks through a neon-lit Tokyo street at night, rain falling, cinematic lighting, anime style",
+      "videoUrl": "/images/pages/text-to-video/walking.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: elegant young Indonesian woman with a sleek black long ponytail and dangling earrings",
+      "videoUrl": "/images/pages/text-to-video/girl.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: Hailuo 02",
+      "description": "Prompt: Anime-style shot: two warriors collide in the center of the arena — fists fly, kicks land, the ground cracks beneath them. The camera shakes with every impact as the fight explodes in a blur of motion. Shockwaves ripple through the air, debris scatters, and the arena trembles under the force of their blows. No pauses, no words — just relentless, high-speed combat from every angle.",
+      "videoUrl": "/images/pages/text-to-video/solider.webm"
+    },
+    {
+      "id": 6,
+      "title": "Model: Hailuo 02",
+      "description": "Prompt: A businesswoman walks into an elevator, presses a button, and as the doors close, the space inside begins to rotate and unfold like origami, revealing a free-fall descent through layers of symbolic environments—office, jungle, temple—each shifting rapidly, filmed with a single-shot simulation-style camera motion and quick parallax transitions, under flashing abstract lighting and surreal sound design, establishing a high-concept, subconscious dreamscape mood.",
+      "videoUrl": "/images/pages/text-to-video/woman.webm"
+    }
+  ],
+  "originalKeyword": "Text to Video",
+  "pageStructure": ["whatIs", "examples", "howToUse","whyUse", "moreAITools",  "faq", "cta"]
+}

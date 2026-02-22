@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Picture to Video AI",
+      "description": "Discover the versatility of AI in transforming your static images into dynamic videos with our Picture to Video AI tool. Convert your photos, illustrations, comic panels, and more into engaging video content effortlessly.",
+      "keywords": "Picture to Video AI, AI video creation, image to video, AI video generator, photo to video AI, illustration to video, animation creation AI"
+    },
+    "hero": {
+      "title": "Picture to Video AI",
+      "description": "Unleash the creative power of AI to transform your static images into dynamic and captivating video content. Leverage our Picture to Video AI to turn your photos, anime, comics, and artwork into stunning videos."
+    },
+    "whatIs": {
+      "title": "What is Picture to Video AI?",
+      "description": "Picture to Video AI is an advanced tool that enables you to create amazing videos from static images using AI technology. It is perfect for producing captivating video content for anime, comics, and artworks."
+    },
+    "examples": {
+      "title": "Picture to Video AI Examples",
+      "description": "Explore examples of videos generated using our Picture to Video AI. See how you can transform your static images into dynamic video content!",
+      "inputAlt": "Example Input Image",
+      "inputLabel": "Input Image",
+      "outputLabel": "Video Result"
+    },
+    "howToUse": {
+      "title": "How to use Picture to Video AI",
+      "steps": [
+        {
+          "title": "Upload Your Photo",
+          "content": "Upload the image you want to transform into a video. Whether it's a comic illustration, manga page, or anime character, our AI can bring it to life as a video."
+        },
+        {
+          "title": "Enter a Prompt",
+          "content": "Provide a prompt to guide the video creation. Specify the actions, movements, or scenes you want the AI to produce."
+        },
+        {
+          "title": "Generate Video",
+          "content": "Click the 'Generate Video' button and watch as our AI creates a dynamic video from your image."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Download your AI-generated video and share it across platforms! Ideal for social media, projects, and more."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Picture to Video AI?",
+      "description": "Explore the benefits of using AI to transform your images into stunning video content. Our Picture to Video AI tool makes video creation accessible for everyone, offering creative freedom and high-quality results.",
+      "features": [
+        {
+          "title": "AI-Powered Video Creation",
+          "content": "Experience the power of AI in video creation. Our intelligent algorithms assess your images and produce dynamic videos efficiently.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Dynamic Content Creation",
+          "content": "Turn static images into engaging video content suitable for social media, presentations, and personal projects.",
+          "icon": "🎬"
+        },
+        {
+          "title": "User-Friendly",
+          "content": "No prior video editing experience needed! Just upload your image, input a prompt, and let our AI handle the video generation.",
+          "icon": "👌"
+        },
+        {
+          "title": "Time and Effort Saver",
+          "content": "Significantly reduce time spent on video production. Our AI quickly generates videos, cutting down hours of traditional editing work.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Quality Output",
+          "content": "Achieve professional-quality video results with smooth transitions and realistic movements.",
+          "icon": "✨"
+        },
+        {
+          "title": "Creative Expression",
+          "content": "Focus on your creative ideas while our AI takes care of the technical aspects of video creation.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Get answers to common queries about the Picture to Video AI tool and how it works.",
+      "q1": "What is Picture to Video AI?",
+      "a1": "Picture to Video AI is an AI tool that transforms your static images into dynamic video content. Utilizing advanced AI algorithms, it helps users convert photos, illustrations, and artwork into engaging video clips while maintaining high quality.",
+      "q2": "How to create videos with Picture to Video AI?",
+      "a2": "Using Picture to Video AI is simple! First upload your image, then enter a descriptive prompt, and finally, click 'Generate Video'. Our AI will produce a captivating video based on your input. This tool is perfect for creating content quickly and efficiently.",
+      "q3": "How does Picture to Video AI work?",
+      "a3": "Picture to Video AI uses cutting-edge deep learning technology to analyze your images. It generates videos by simulating movement, expressions, and dynamic scenes, allowing you to create professional-level video content effortlessly.",
+      "q4": "What is the best image to video generator?",
+      "a4": "KomikoAI provides the best image to video generator tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Picture to Video AI, you can create stunning video content, making it perfect for users who are digital creators and enthusiasts.",
+      "q5": "Is the KomikoAI Picture to Video AI free online?",
+      "a5": "Yes, you can test out the Picture to Video AI on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Picture to Video AI?",
+      "a6": "You can use Picture to Video AI on KomikoAI to create engaging video content from static images. Some possibilities include animating illustrations, creating videos from comic panels, and producing dynamic content for social platforms efficiently.",
+      "q7": "Can I use Picture to Video AI on my phone?",
+      "a7": "Yes, you can use Picture to Video AI as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Picture to Video AI?",
+      "a8": "Yes, KomikoAI's Picture to Video AI allows you to export your generation in various formats, such as MP4, GIF, WebM, for easy sharing.",
+      "q9": "Why should I use Picture to Video AI?",
+      "a9": "Using Picture to Video AI can help create dynamic video content efficiently. Our tool allows you to transform images into seamless videos with professional quality. Enjoy creative freedom while our AI manages the technicalities, perfect for content creators looking to innovate."
+    },
+    "cta": {
+      "title": "Transform Your Images for FREE with Our Picture to Video AI Today!",
+      "description": "Experience creativity and innovation with our advanced video creation tool.",
+      "buttonText": "Try Our Picture to Video AI Free"
+    }
+  },
+  "placeholderText": "Generate Picture to Video AI style artwork",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output6.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Model: Marey",
+      "description": "Prompt: Dynamic Motion - Fluid and dynamic character animation",
+      "videoUrl": "https://framerusercontent.com/assets/vgdQZ2zcFZsxMSqZv8s2kwwKJ8.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Marey",
+      "description": "Prompt: Camera Control - Professional cinematic camera movements and angles",
+      "videoUrl": "https://framerusercontent.com/assets/qNhzpeN3vAxl04mGH91EPsPbKow.mp4"
+    }
+  ],
+  "originalKeyword": "Picture to Video AI",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

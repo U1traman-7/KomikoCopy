@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Lego AI Filter",
+      "description": "Experience the magic of your images transformed into vibrant Lego art with our powerful AI generator. Start creating unique Lego art for free now!",
+      "keywords": "Lego AI Filter, Lego art generator, AI photo transformation, Lego style generator, AI-created Lego art, playful digital art"
+    },
+    "hero": {
+      "title": "Lego AI Filter"
+    },
+    "whatIs": {
+      "title": "What is Lego AI Filter?",
+      "description": "The Lego AI Filter is an innovative AI-driven tool that transforms any photo into cheerful Lego-themed artwork. Through advanced algorithms, it captures and recreates your image in a playful, blocky aesthetic reminiscent of Lego designs."
+    },
+    "examples": {
+      "title": "Lego AI Filter Examples",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "How to Use Lego AI Filter",
+      "steps": [
+        {
+          "title": "Step 1: Upload Your Photo",
+          "content": "Start by uploading a clear, vibrant image you’d like to turn into Lego art. You can easily drag and drop or click to select your image."
+        },
+        {
+          "title": "Step 2: Select the Lego Template",
+          "content": "Select the Lego template to transform your photo with the lego style."
+        },
+        {
+          "title": "Step 3: Convert to Lego",
+          "content": "Click the ‘Transform to Lego Style’ button. The AI will work swiftly to produce a fun Lego-inspired rendition of your image."
+        },
+        {
+          "title": "Step 4: Download and Share",
+          "content": "Once complete, download your vibrant Lego creation. Share with friends or on social media to showcase your imaginative Lego art!"
+        }
+      ],
+      "subtitle": "Creating delightful Lego-style art is simple!"
+    },
+    "benefits": {
+      "title": "Why Choose Lego AI Filter?",
+      "description": "Bring imagination to life with unique Lego artwork.",
+      "features": [
+        {
+          "title": "🎨 Simple Photo Transformations",
+          "content": "Transform ordinary images into eye-catching Lego art effortlessly, thanks to our intuitive platform."
+        },
+        {
+          "title": "🌈 Fun and Colorful Artwork",
+          "content": "Enjoy the playful interaction of colors and shapes that only Lego can deliver, making it appealing for all ages."
+        },
+        {
+          "title": "⚡ Quick and Efficient",
+          "content": "Experience rapid processing with our advanced AI, yielding your Lego art in seconds—perfect for immediate creative projects."
+        },
+        {
+          "title": "💎 High-Resolution Downloads",
+          "content": "Obtain your transformed images in high quality. Whether for social media or prints, your artworks retain clarity and vibrancy."
+        },
+        {
+          "title": "🎈 Ideal for Creative Ventures",
+          "content": "Perfect for artists, designers, and everyone who wishes to add a fun touch to their artwork."
+        },
+        {
+          "title": "🗣️ Engage and Inspire",
+          "content": "Share your Lego artwork and connect with a community that celebrates creativity and art!"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Lego AI Filter FAQ",
+      "description": "",
+      "q1": "What is the Lego AI Filter transformation process?",
+      "a1": "The Lego AI Filter employs advanced AI algorithms to analyze and convert your photo into a Lego-themed artwork, enhancing its features with playful blocky textures and bright colors.",
+      "q2": "What are the best practices for maximizing Lego AI Filter results?",
+      "a2": "Select clear images with defined subjects and vibrant colors to get optimal Lego art effects.",
+      "q3": "Is the Lego AI Filter free to use?",
+      "a3": "Yes! You can enjoy the Lego AI Filter service for free and unleash your creativity without any costs.",
+      "q4": "How does the Lego AI Filter stand out from other filters?",
+      "a4": "The Lego AI Filter uniquely captures the essence of Lego playfulness, transforming your images into humorous and engaging art unlike standard filters.",
+      "q5": "Can I use my Lego AI Filter creations commercially?",
+      "a5": "Absolutely! Your Lego AI Filter creations can be used for both personal and commercial purposes, as long as you own the rights to the original images."
+    },
+    "cta": {
+      "title": "Begin Your Lego AI Filter Journey Today",
+      "description": "Dive into the world of creativity! Start transforming your photos into delightful Lego masterpieces now and experience the magic of AI art.",
+      "buttonText": "Transform to Lego AI Filter Free"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into Lego AI Filter style",
+  "originalKeyword": "Lego AI Filter",
+  "defaultStyle": "lego",
+  "examples": [
+    {
+      "image": "/images/examples/playground/lego-ai-filter/example_1.webp ",
+      "prompt": "Style: Lego",
+      "input": "/images/examples/photo-to-anime/input2.jpg"
+    },
+    {
+      "image": "/images/examples/playground/lego-ai-filter/example_2.webp",
+      "prompt": "Style: Lego",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/lego-ai-filter/example_3.webp",
+      "prompt": "Style: Lego",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/lego-ai-filter/example_4.webp",
+      "prompt": "Style: Lego",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp"
+    }
+  ]
+}

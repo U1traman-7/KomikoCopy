@@ -1,0 +1,156 @@
+{
+  "seo": {
+    "meta": {
+      "title": "视频重塑",
+      "description": "通过视频重塑，焕新你的视频。我们的AI视频重塑技术可以将视频片段转换成动漫、卡通、漫画和韩漫等多种风格，同时保留原始动作。",
+      "keywords": "视频重塑, AI视频重塑, 动漫风格转换工具, 卡通视频风格转换, 漫画风格转换, 韩漫动画风格转换, 视频转动漫风格转换, 视频转换工具, 动漫风格视频, 漫画视频, 视频风格化, 动画视频, 漫画视频, 动漫重塑, 卡通风格"
+    },
+    "hero": {
+      "title": "视频重塑"
+    },
+    "whatIs": {
+      "title": "什么是视频重塑？",
+      "description": "视频重塑是一款AI工具，它采用先进的视频重塑技术，将您的视频转换成动漫、卡通、漫画和韩漫风格的动画。我们独特的方法首先将您选择的风格应用于参考帧，然后利用这个风格化的帧来转换整个视频片段，同时保留原始动作和时间线。从100多种风格中选择，包括吉卜力工作室、韩国网络漫画、日本漫画等。"
+    },
+    "examples": {
+      "title": "视频重塑示例",
+      "description": "亲眼见证视频重塑的强大效果，它可以将视频转换成引人入胜的动漫、卡通、漫画和韩漫风格，并通过先进的视频重塑技术保持流畅的运动。"
+    },
+    "howToUse": {
+      "title": "如何使用视频重塑",
+      "steps": [
+        {
+          "title": "上传您的视频",
+          "content": "上传任何视频文件（MP4、MOV、AVI），最长15秒，最大50MB，进行视频重塑处理。超过15秒的视频将被截断，以优化我们的视频重塑系统的处理性能。"
+        },
+        {
+          "title": "视频重塑参考帧",
+          "content": "我们将选择初始帧，并应用您选择的动漫、卡通或漫画风格，为后续一致的视频重塑转换创建一个蓝本。"
+        },
+        {
+          "title": "选择艺术风格",
+          "content": "从100多种预设风格中选择，如吉卜力工作室、韩国网络漫画、日本漫画，或者使用文本提示和参考图像，通过我们的视频重塑工具自定义风格。"
+        },
+        {
+          "title": "生成视频重塑",
+          "content": "我们的视频重塑工具将利用风格化的参考帧来改造您的整个视频，同时通过尖端的视频重塑技术保留所有原始动作、表情和时间信息。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "为什么要使用视频重塑",
+      "description": "视频重塑提供领先的视频重塑技术，具有卓越的动作保留能力和丰富的风格选择，并且定价透明。",
+      "features": [
+        {
+          "title": "卓越的动作保留",
+          "content": "视频重塑能够保留原始动作、面部表情和时间的每一个细微之处，以完美的视频重塑一致性应用动漫、卡通或漫画风格。",
+          "icon": "🎬"
+        },
+        {
+          "title": "100多种视频重塑选项",
+          "content": "尽情探索吉卜力工作室动漫、韩国网络漫画、日本漫画、迪士尼卡通等多种风格。使用我们的工具，通过文本提示或参考图像创建自定义视频重塑转换。",
+          "icon": "🎨"
+        },
+        {
+          "title": "专业级输出质量",
+          "content": "使用我们的视频重塑工具，制作具有强大视频重塑效果、平滑过渡以及无闪烁或伪影的高清动漫和卡通视频。",
+          "icon": "✨"
+        },
+        {
+          "title": "透明的定价体系",
+          "content": "可预测的定价，视频重塑处理和视频生成费用清晰明了。使用视频重塑，您可以尝试各种风格，无需支付额外的视频费用。",
+          "icon": "⚡"
+        },
+        {
+          "title": "简单的两步流程",
+          "content": "轻松的视频重塑过程：上传您的视频，将视频重塑应用于参考帧，然后生成完整的视频。无需专业技术知识，并提供实时进度跟踪。",
+          "icon": "👌"
+        },
+        {
+          "title": "自动优化",
+          "content": "智能视频重塑处理，具有自动修剪、格式支持（MP4、MOV、AVI）以及基于视频时长的成本计算，以实现最佳的视频重塑效果。",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "常见问题",
+      "description": "解答关于我们的视频重塑和视频重塑技术的常见问题。",
+      "q1": "什么是视频重塑？",
+      "a1": "视频重塑是一款AI工具，可以将您的视频转换为包括动漫、卡通、漫画和韩漫在内的各种风格，同时利用先进技术保持运动的完整性。",
+      "q2": "如何使用视频重塑？",
+      "a2": "使用视频重塑非常简单！首先上传您的视频，然后选择您想要的艺术风格，接着就可以观看您的视频被转换了。通过易于上手且可自定义的选项，享受快速而富有创意的过程。",
+      "q3": "视频重塑如何工作？",
+      "a3": "视频重塑采用先进的视频风格迁移技术，将艺术风格应用于视频。它首先处理参考帧，然后将其应用于所有帧，从而保留视觉准确性和运动感。",
+      "q4": "哪个是最好的视频转换工具？",
+      "a4": "KomikoAI提供最好的视频转换工具。我们的目标是成为领先的AI创作平台，提供专业质量的结果、强大而有趣的自定义功能以及直观的工作流程——并且提供完全免费的试用。借助KomikoAI的视频重塑，您可以探索各种风格，非常适合寻求创新创意方法的用户。",
+      "q5": "KomikoAI的视频重塑是免费的吗？",
+      "a5": "是的，您可以在KomikoAI上免费测试视频重塑，无需注册任何订阅。立即试用我们的工具！",
+      "q6": "我可以用视频重塑做什么？",
+      "a6": "您可以使用KomikoAI上的视频重塑来创建充满活力的动漫、引人注目的卡通风格、优雅的漫画转换以及具有出色运动保真度的独特韩漫改编。",
+      "q7": "我可以在手机上使用视频重塑吗？",
+      "a7": "是的，您可以在各种设备上使用视频重塑，它是一个Web应用程序，包括智能手机和计算机，方便所有人使用。",
+      "q8": "我可以从视频重塑下载我的生成内容吗？",
+      "a8": "是的，KomikoAI的视频重塑允许您以各种格式（例如MP4、MOV、AVI）导出您的生成内容，方便您分享。",
+      "q9": "我为什么要使用视频重塑？",
+      "a9": "使用视频重塑可以提升您的创意项目。我们的工具使您能够探索新的艺术表达形式，保持技术质量，并有效地个性化您的视频风格选择。"
+    },
+    "cta": {
+      "title": "立即使用我们的视频重塑免费转换您的视频！",
+      "description": "使用AI视频重塑工具探索创意视频转换。",
+      "buttonText": "免费试用视频重塑"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-girl.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "卡通风格",
+      "description": "风格迁移 | 将原始视频迁移到卡通风格"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-dj.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "素描风格",
+      "description": "风格迁移 | 将原始视频迁移到素描风格"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/drum-set.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/the-simpsons.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "迁移结果",
+      "description": "电影/节目 | 风格：辛普森一家"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/skateboard.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/minfecraft.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "迁移结果",
+      "description": "游戏 | 风格：我的世界"
+    }
+  ],
+  "originalKeyword": "Video Restyle",
+  "pageStructure": [
+    "为什么使用",
+    "示例",
+    "什么是",
+    "如何使用",
+    "更多AI工具",
+    "常见问题解答",
+    "行动号召"
+  ]
+}

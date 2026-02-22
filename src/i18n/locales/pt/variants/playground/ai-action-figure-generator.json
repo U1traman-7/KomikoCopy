@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Gerador de Action Figures com IA",
+      "description": "Transforme as suas fotos favoritas em arte de action figures exclusivas num instante. Experimente a transformação com a nossa ferramenta alimentada por IA. Crie a sua hoje mesmo!",
+      "keywords": "Gerador de Action Figures com IA, gerador de anime com IA, criador de personagens com IA, gerador de arte de action figures, action figures personalizadas"
+    },
+    "hero": {
+      "title": "Gerador de Action Figures com IA"
+    },
+    "whatIs": {
+      "title": "O que é o Gerador de Action Figures com IA?",
+      "description": "O Gerador de Action Figures com IA é uma plataforma inovadora que utiliza tecnologia de IA para transformar imagens comuns em estilos de action figures vibrantes. De designs nostálgicos a estéticas contemporâneas, esta ferramenta oferece diversas opções, permitindo uma expressão artística única em cada criação."
+    },
+    "examples": {
+      "title": "Exemplos Inspiradores do Gerador de Action Figures com IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como usar o Gerador de Action Figures com IA",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a sua Foto",
+          "content": "Escolha uma foto nítida e de alta resolução para obter os melhores resultados de transformação. Arraste o seu arquivo para a área de upload ou selecione-o a partir do seu dispositivo."
+        },
+        {
+          "title": "Passo 2: Selecione o Modelo de Action Figure",
+          "content": "Selecione o modelo de Action Figure para transformar a sua foto com o estilo de action figure desejado."
+        },
+        {
+          "title": "Passo 3: Converter para Action Figure",
+          "content": "Pressione 'Converter para Action Figure' e deixe a nossa IA fazer a magia! Ela analisará a sua foto e aplicará o estilo escolhido para criar uma impressionante obra de arte de action figure em tempo real."
+        },
+        {
+          "title": "Passo 4: Descarregue e Partilhe a Sua Criação",
+          "content": "Assim que a sua arte de action figure estiver pronta, descarregue-a em formatos de alta resolução. Partilhe as suas criações em plataformas sociais ou imprima-as para exibição."
+        }
+      ],
+      "subtitle": "Transforme as suas imagens em action figures sem esforço em quatro passos simples!"
+    },
+    "benefits": {
+      "title": "Por que usar o Gerador de Action Figures com IA?",
+      "description": "Explore os benefícios únicos de transformar as suas fotos em arte de action figures cativante.",
+      "features": [
+        {
+          "title": "🎨 Opções de Estilo Distintas",
+          "content": "Aceda a uma variedade de estilos de action figures exclusivos, feitos à medida para refletir os seus gostos individuais. Descubra como cada design único pode elevar os seus projetos pessoais."
+        },
+        {
+          "title": "⚡ Criação Rápida e Eficiente",
+          "content": "Experimente transformações rápidas que permitem produzir arte rapidamente, facilitando a criação de várias peças de alta qualidade sem comprometer o valor artístico."
+        },
+        {
+          "title": "🖼️ Saída de Alta Resolução",
+          "content": "Gere imagens de alta resolução que se destacam para uso digital, redes sociais ou impressão, garantindo que a sua arte mantenha o máximo impacto visual."
+        },
+        {
+          "title": "💻 Interface Fácil de Usar",
+          "content": "Navegue na nossa plataforma intuitiva sem obstáculos técnicos, permitindo que a sua criatividade flua livremente, sem distrações."
+        },
+        {
+          "title": "🎯 Adequado para Todos os Criativos",
+          "content": "Ideal tanto para artistas experientes quanto para iniciantes, o Gerador de Action Figures com IA equipa todos com as ferramentas para explorar e expressar a sua criatividade."
+        },
+        {
+          "title": "🚀 Partilhe a Sua Arte com o Mundo",
+          "content": "Exporte e partilhe facilmente as suas criações em várias plataformas, tornando simples a conexão com artistas que pensam como você e a exibição do seu trabalho."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Gerador de Action Figures com IA FAQ",
+      "description": "",
+      "q1": "O que é a transformação de arte de Action Figure com IA?",
+      "a1": "O nosso Gerador de Action Figures com IA emprega algoritmos avançados para analisar e converter perfeitamente as suas fotos em estilos de action figures personalizados, tornando-o acessível a todos.",
+      "q2": "Como obtenho os melhores resultados com as minhas imagens?",
+      "a2": "Selecione imagens nítidas e bem iluminadas e explore diferentes estilos de action figures para encontrar o visual que melhor se adapta à sua visão.",
+      "q3": "Existem custos associados ao uso do Gerador de Action Figures com IA?",
+      "a3": "Sim, pode começar a usar o Gerador de Action Figures com IA gratuitamente! Recursos premium estão disponíveis para aqueles que procuram mais opções.",
+      "q4": "O que diferencia o Gerador de Action Figures com IA de outras ferramentas de arte?",
+      "a4": "Focando-se unicamente em estilos de action figures, o nosso gerador oferece uma abordagem única para a transformação de arte, fornecendo estruturas especializadas adaptadas para este estilo.",
+      "q5": "Posso usar a arte criada comercialmente?",
+      "a5": "Absolutamente! Tem permissão para usar as suas action figures geradas comercialmente, desde que cumpra os nossos termos e condições."
+    },
+    "cta": {
+      "title": "Comece a Criar a sua Arte de Action Figure com IA Hoje",
+      "description": "Junte-se à revolução da arte digital! Transforme as suas imagens em obras-primas de action figures cativantes com facilidade. Redescubra a sua criatividade e partilhe as suas criações exclusivas com outras pessoas.",
+      "buttonText": "Transforme a Sua Imagem em Action Figure Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into stunning action figure art!",
+  "originalKeyword": "AI Action Figure Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Action Figure"
+    },
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_2.webp",
+      "input": "/images/examples/playground/ai-action-figure-generator/input2.webp",
+      "prompt": "Style: Action Figure"
+    },
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Action Figure"
+    },
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Action Figure"
+    }
+  ]
+}

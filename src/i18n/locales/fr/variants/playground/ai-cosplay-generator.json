@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Générateur de Cosplay IA",
+      "description": "Transformez vos photos en œuvres d'art cosplay uniques grâce à l'IA ! Découvrez une créativité artistique époustouflante, adaptée à votre imagination. Créez gratuitement dès maintenant !",
+      "keywords": "Générateur de Cosplay IA, générateur d'anime IA, créateur de personnages IA, générateur d'art cosplay, transformation de style cosplay, filtre cosplay artistique"
+    },
+    "hero": {
+      "title": "Générateur de Cosplay IA"
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que le Générateur de Cosplay IA ?",
+      "description": "Le Générateur de Cosplay IA est un outil de pointe qui analyse vos photographies et les transforme en œuvres d'art cosplay saisissantes. Utilisant des algorithmes d'IA de dernière génération, le générateur crée des versions uniques et vibrantes de vos images, caractérisées par des couleurs exceptionnelles et des motifs complexes inspirés de vos personnages favoris. Parfait pour les artistes, les passionnés et les esprits créatifs, cet outil ouvre un monde de possibilités imaginatives !"
+    },
+    "examples": {
+      "title": "Exemples de Générateur de Cosplay IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Comment utiliser le Générateur de Cosplay IA",
+      "steps": [
+        {
+          "title": "Étape 1 : Téléversez votre photo",
+          "content": "Commencez par téléverser une image de haute qualité. Une photo claire et bien éclairée donnera les meilleurs résultats."
+        },
+        {
+          "title": "Étape 2 : Sélectionnez le modèle Cosplay",
+          "content": "Sélectionnez le modèle Cosplay pour transformer votre photo dans le style souhaité."
+        },
+        {
+          "title": "Étape 3 : Convertissez votre image en Cosplay",
+          "content": "Cliquez sur le bouton 'Générer' pour laisser le Générateur de Cosplay IA opérer sa magie et transformer votre photo en un chef-d'œuvre artistique."
+        },
+        {
+          "title": "Étape 4 : Téléchargez et partagez",
+          "content": "Une fois la transformation terminée, téléchargez l'œuvre d'art en haute résolution et partagez-la avec vos amis et la communauté cosplay !"
+        }
+      ],
+      "subtitle": "Créez facilement votre chef-d'œuvre cosplay unique en suivant ces étapes simples."
+    },
+    "benefits": {
+      "title": "Pourquoi utiliser le Générateur de Cosplay IA ?",
+      "description": "Explorez les avantages uniques de notre outil de génération d'art cosplay.",
+      "features": [
+        {
+          "title": "🎨 Créativité inégalée",
+          "content": "Générez des interprétations cosplay originales à partir de vos photos, permettant une créativité illimitée adaptée à votre vision artistique."
+        },
+        {
+          "title": "⚡ Rapide et facile à utiliser",
+          "content": "Profitez de transformations rapides et intuitives. Notre interface conviviale le rend accessible à tous, que vous soyez un artiste chevronné ou un débutant curieux."
+        },
+        {
+          "title": "🖼️ Œuvres d'art de haute qualité",
+          "content": "Créez des images en haute résolution, parfaites pour l'affichage numérique ou l'impression, garantissant que votre art cosplay soit aussi spectaculaire que votre vision."
+        },
+        {
+          "title": "💫 Vaste bibliothèque de styles",
+          "content": "Accédez à un large éventail de modèles cosplay, parfaits pour votre projet. Mélangez et assortissez les styles pour donner vie à votre imagination !"
+        },
+        {
+          "title": "🚀 Engagement communautaire",
+          "content": "Partagez vos créations avec la communauté mondiale du cosplay et laissez votre art inspirer les autres. Connectez-vous avec d'autres artistes et partagez votre travail sans effort."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Générateur de Cosplay IA FAQ",
+      "description": "",
+      "q1": "Qu'est-ce que le Générateur de Cosplay IA et comment fonctionne-t-il ?",
+      "a1": "Le Générateur de Cosplay IA utilise une technologie d'IA avancée pour analyser et transformer vos images en œuvres d'art cosplay captivantes, en appliquant des filtres esthétiques distinctifs pour des transformations harmonieuses.",
+      "q2": "Comment puis-je obtenir les meilleurs résultats avec le Générateur de Cosplay IA ?",
+      "a2": "Téléversez des images haute résolution avec des sujets clairement définis. Explorez différents styles et combinaisons pour obtenir des effets uniques qui rendent votre œuvre d'art véritablement remarquable.",
+      "q3": "Le Générateur de Cosplay IA est-il gratuit ?",
+      "a3": "Oui ! Vous pouvez accéder gratuitement aux puissantes fonctionnalités du Générateur de Cosplay IA, ce qui vous permet de créer des œuvres d'art cosplay uniques sans frais.",
+      "q4": "Qu'est-ce qui distingue le Générateur de Cosplay IA des autres filtres ?",
+      "a4": "Contrairement aux filtres génériques, les algorithmes personnalisés du Générateur de Cosplay IA se concentrent spécifiquement sur l'art du cosplay, offrant des transformations originales qui capturent l'essence de divers personnages.",
+      "q5": "Puis-je utiliser mes créations issues du Générateur de Cosplay IA à des fins commerciales ?",
+      "a5": "Absolument ! Vos créations peuvent être utilisées pour des projets personnels ou commerciaux, mais assurez-vous de respecter les réglementations en matière de droits d'auteur liées aux images originales que vous utilisez."
+    },
+    "cta": {
+      "title": "Commencez à créer votre œuvre d'art cosplay unique dès aujourd'hui",
+      "description": "N'hésitez plus ! Plongez dans le processus créatif et transformez vos photos avec notre Générateur de Cosplay IA. C'est amusant, rapide et totalement gratuit !",
+      "buttonText": "Transformez vos photos gratuitement"
+    }
+  },
+  "config": {},
+  "placeholderText": "Upload a photo to create your unique cosplay art",
+  "originalKeyword": "AI Cosplay Generator",
+  "examples": [
+    {
+      "input": "/images/examples/playground/ai-cosplay-generator/genshin-input.webp",
+      "image": "/images/examples/playground/ai-cosplay-generator/genshin-output.webp",
+      "prompt": "Style: Cosplay"
+    },
+    {
+      "input": "/images/examples/playground/ai-cosplay-generator/doma-input.webp",
+      "image": "/images/examples/playground/ai-cosplay-generator/doma-output.webp",
+      "prompt": "Style: Cosplay"
+    },
+    {
+      "input": "/images/examples/playground/ai-cosplay-generator/naruto-input.webp",
+      "image": "/images/examples/playground/ai-cosplay-generator/naruto-output.webp",
+      "prompt": "Style: Cosplay"
+    },
+    {
+      "input": "/images/examples/playground/ai-cosplay-generator/jjk-input.webp",
+      "image": "/images/examples/playground/ai-cosplay-generator/jjk-output.webp",
+      "prompt": "Style: Cosplay"
+    }
+  ]
+}

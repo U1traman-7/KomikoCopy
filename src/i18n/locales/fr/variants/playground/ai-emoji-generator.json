@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Générateur d'Emojis IA",
+      "description": "Créez des emojis et des stickers gratuitement avec notre générateur d'emojis IA. Transformez vos photos en emojis personnalisés et créez des œuvres d'art emoji uniques dès aujourd'hui !",
+      "keywords": "Générateur d'emojis IA, création d'emojis gratuite, transformer une photo en emoji, emojis générés par l'IA, art emoji unique"
+    },
+    "hero": {
+      "title": "Générateur d'Emojis IA"
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que le Générateur d'Emojis IA ?",
+      "description": "Le générateur d'emojis IA est une application unique qui utilise des algorithmes d'IA avancés pour créer gratuitement des emojis et des stickers, transformant vos photos en designs emoji amusants et expressifs. Contrairement aux filtres standard, notre technologie conserve l'essence de votre photo tout en créant une interprétation emoji originale et ludique. Que ce soit pour un usage personnel ou simplement pour le plaisir, explorer le monde de l'art emoji n'a jamais été aussi simple !"
+    },
+    "examples": {
+      "title": "Exemples de Générateur d'Emojis IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Comment Utiliser le Générateur d'Emojis IA",
+      "steps": [
+        {
+          "title": "Étape 1 : Téléversez votre photo",
+          "content": "Commencez par sélectionner et téléverser l'image de votre choix. Notre outil prend en charge divers formats d'image, tels que JPG et PNG, pour une expérience utilisateur optimale."
+        },
+        {
+          "title": "Étape 2 : Sélectionnez le modèle Chibi Stickers",
+          "content": "Sélectionnez le modèle Chibi Stickers pour transformer votre photo selon le style chibi stickers."
+        },
+        {
+          "title": "Étape 3 : Convertissez en Chibi Stickers",
+          "content": "Cliquez sur le bouton 'Convertir en Emoji' et admirez la transformation tandis que notre IA crée une œuvre unique de style emoji à partir de votre photo !"
+        },
+        {
+          "title": "Étape 4 : Téléchargez et Partagez",
+          "content": "Une fois votre œuvre prête, téléchargez-la facilement et partagez vos créations sur les réseaux sociaux pour impressionner vos amis et vos abonnés !"
+        }
+      ],
+      "subtitle": "Transformer vos images ne prend que quelques étapes simples !"
+    },
+    "benefits": {
+      "title": "Pourquoi Utiliser le Générateur d'Emojis IA ?",
+      "description": "Découvrez le plaisir de transformer vos photos en œuvres d'art emoji uniques !",
+      "features": [
+        {
+          "title": "🎨 Styles Artistiques Infinis",
+          "content": "Explorez un large éventail de styles de transformation d'emojis, garantissant que chaque création est complètement unique et fidèle à votre vision."
+        },
+        {
+          "title": "⚡ Transformations Rapides",
+          "content": "Notre IA efficace traite les images rapidement, vous permettant de créer des œuvres d'art emoji accrocheuses en quelques secondes !"
+        },
+        {
+          "title": "💻 Expérience Utilisateur Intuitive",
+          "content": "La création d'art emoji unique est conviviale et s'adresse à tous, des novices aux créateurs chevronnés."
+        },
+        {
+          "title": "📱 Parfait pour le Partage",
+          "content": "Améliorez votre image en ligne avec des designs emoji uniques qui attirent l'attention et engagent votre public."
+        },
+        {
+          "title": "✨ Résultats Créatifs Instantanés",
+          "content": "Pas de longues attentes ! Bénéficiez de transformations de conception immédiates en quelques actions simples."
+        },
+        {
+          "title": "🤖 Propulsé par une Technologie d'IA Avancée",
+          "content": "Notre configuration utilise des algorithmes d'IA de pointe pour garantir des œuvres d'art emoji originales et de haute qualité à chaque fois."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Générateur d'Emojis IA FAQ",
+      "description": "",
+      "q1": "Comment puis-je créer des emojis et des stickers gratuitement à l'aide du générateur d'emojis IA ?",
+      "a1": "Le générateur d'emojis IA utilise des algorithmes avancés pour analyser votre photo et la réinterpréter en une œuvre d'art unique de style emoji, alliant innovation et créativité.",
+      "q2": "Comment optimiser les résultats lors de l'utilisation du générateur d'emojis IA ?",
+      "a2": "Pour obtenir les meilleurs résultats, commencez avec des images claires et de haute qualité et explorez différents styles d'emojis qui correspondent à votre vision.",
+      "q3": "L'utilisation du générateur d'emojis IA est-elle gratuite ?",
+      "a3": "Oui, notre générateur d'emojis IA est gratuit ! Explorez les options premium pour des styles avancés.",
+      "q4": "Qu'est-ce qui distingue le générateur d'emojis IA des autres outils ?",
+      "a4": "Contrairement aux filtres photo de base, notre générateur exploite une IA de pointe pour créer des effets emoji personnalisés adaptés à vos besoins spécifiques, garantissant un art unique.",
+      "q5": "Puis-je utiliser l'œuvre créée par le générateur d'emojis IA à des fins commerciales ?",
+      "a5": "Absolument ! Vous disposez de tous les droits pour utiliser vos créations d'art emoji à des fins personnelles, éducatives et commerciales."
+    },
+    "cta": {
+      "title": "Créez des Emojis et des Stickers Gratuitement Dès Aujourd'hui",
+      "description": "Plongez dans le monde de la création d'emojis avec notre générateur d'emojis IA. Créez des emojis et des stickers gratuitement et libérez votre imagination. Commencez dès maintenant !",
+      "buttonText": "Créez des Emojis et des Stickers Gratuitement"
+    }
+  },
+  "config": {},
+  "placeholderText": "Generate emojis and stickers for free from your photo",
+  "originalKeyword": "AI Emoji Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Chibi"
+    }
+  ]
+}

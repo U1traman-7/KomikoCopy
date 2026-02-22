@@ -1,0 +1,134 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Seedance 1.0 AI 비디오 생성기 - KomikoAI",
+      "description": "ByteDance의 Seedance 1.0 AI 비디오 생성기를 만나보십시오. 멀티샷 스토리텔링, 부드러운 움직임, 전문가 수준의 영화 품질을 제공하며, 고화질 텍스트-비디오 및 이미지-비디오 생성을 지원합니다.",
+      "keywords": "Seedance 1.0, AI 비디오 생성기, 텍스트-비디오 AI, 이미지-비디오 AI, 영화 같은 AI 비디오, 멀티샷 비디오 생성, AI 애니메이션, Bytedance AI 비디오, HD AI 비디오"
+    },
+    "hero": {
+      "title": "Seedance 1.0 AI 비디오 생성기",
+      "description": "Seedance 1.0을 사용하여 아이디어를 역동적인 영화 같은 비디오로 바꿔보십시오. 첨단 AI 기술을 통해 텍스트 또는 이미지에서 멀티샷, 고화질 비디오를 손쉽게 제작할 수 있습니다."
+    },
+    "whatIs": {
+      "title": "Seedance 1.0 AI 비디오 생성기란 무엇입니까?",
+      "description": "Seedance 1.0은 ByteDance의 SEED 팀에서 개발한 첨단 AI 기반 비디오 생성 모델입니다. 뛰어난 멀티샷 스토리텔링, 자연스러운 움직임, 전문적인 영화 비주얼을 통해 고품질의 서사 중심 비디오를 제작할 수 있습니다. 텍스트-비디오 및 이미지-비디오 모드를 모두 지원하는 Seedance는 부드러운 전환과 일관된 시각적 스타일로 24fps에서 5~10초 분량의 HD(1080p) 클립을 생성하는 데 탁월합니다. 최첨단 diffusion 모델, 시공간적 일관성 알고리즘, 정확한 프롬프트 해석을 활용하여 크리에이터, 영화 제작자, 마케터 및 브랜드의 콘텐츠 제작 방식을 혁신하도록 설계되었습니다."
+    },
+    "examples": {
+      "title": "Seedance 1.0 비디오 예시",
+      "description": "Seedance 1.0의 멀티샷 스토리텔링, 부드러운 전환, 그리고 포토리얼리즘부터 애니메이션 및 사이버펑크에 이르는 다양한 시각적 스타일을 보여주는 놀라운 AI 생성 영화 비디오를 살펴보십시오."
+    },
+    "howToUse": {
+      "title": "Seedance 1.0 AI 비디오 생성기 사용 방법",
+      "steps": [
+        {
+          "title": "이미지 업로드",
+          "content": "애니메이션으로 만들 참조 이미지를 업로드하거나 Seedance의 AI 기능을 사용하여 처음부터 비디오를 생성할 수 있도록 자세한 텍스트 설명을 입력하여 시작하십시오."
+        },
+        {
+          "title": "프롬프트 입력",
+          "content": "만들고자 하는 비디오에 대한 자세한 텍스트 프롬프트 또는 설명을 입력하십시오."
+        },
+        {
+          "title": "비디오 생성",
+          "content": "'생성' 버튼을 클릭하고 Seedance의 최적화된 AI 아키텍처가 입력을 처리하여 고품질의 영화 같은 비디오를 생성하도록 하십시오."
+        },
+        {
+          "title": "미리보기 및 다운로드",
+          "content": "생성된 비디오의 품질과 서사 흐름을 검토한 다음 1080p HD 형식으로 다운로드하여 공유하거나 프로젝트에 통합하십시오."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Seedance 1.0 AI 비디오 생성기를 사용하는 이유",
+      "description": "Seedance 1.0의 강력한 기능을 활용하여 전문가 수준의 품질과 효율적인 스토리텔링을 갖춘 시각적으로 풍부하고 매끄러운 AI 비디오를 제작하십시오.",
+      "features": [
+        {
+          "title": "네이티브 멀티샷 스토리텔링",
+          "content": "여러 개의 일관된 샷과 부드러운 전환이 있는 비디오를 만들어 단일 AI 생성 클립 내에서 복잡한 내러티브와 영화적 시퀀스를 구현할 수 있습니다.",
+          "icon": "🎥"
+        },
+        {
+          "title": "듀얼 모드 비디오 생성",
+          "content": "자연어 텍스트 프롬프트에서 또는 정적 이미지를 애니메이션화하여 비디오를 생성하여 최대한의 창의적 유연성을 제공합니다.",
+          "icon": "🔄"
+        },
+        {
+          "title": "고화질 1080p 출력",
+          "content": "상업, 소셜 미디어 및 전문 프레젠테이션에 적합한 1080p 해상도 및 24fps로 전문가 수준의 비디오를 제작합니다.",
+          "icon": "📺"
+        },
+        {
+          "title": "자연스럽고 유려한 움직임",
+          "content": "부드럽고 사실적인 캐릭터 움직임, 공간적 일관성 및 팬, 줌, 추적 샷을 포함한 동적 카메라 제어를 경험하십시오.",
+          "icon": "🌊"
+        },
+        {
+          "title": "다양한 시각적 스타일",
+          "content": "복잡한 조정 없이 포토리얼리즘, 애니메이션, 일러스트레이션, 사이버펑크, 수채화 등 다양한 스타일을 적용할 수 있습니다.",
+          "icon": "🎨"
+        },
+        {
+          "title": "빠르고 효율적인 생성",
+          "content": "최적화된 모델 가속으로 빠른 비디오 제작을 경험하고 약 41초 만에 5초 비디오를 제작하여 창의적인 워크플로 속도를 향상시킵니다.",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Seedance 1.0 AI 비디오 생성기 FAQ",
+      "description": "영화 및 전문적인 AI 비디오 제작을 위한 Seedance 1.0 AI 비디오 생성기 마스터 가이드입니다.",
+      "q1": "Seedance 1.0 AI 비디오 생성기란 무엇입니까?",
+      "a1": "Seedance 1.0은 텍스트 또는 이미지를 입력으로 사용하여 고품질 내러티브 비디오를 생성하는 ByteDance의 AI 기반 비디오 생성 모델입니다. 자연스러운 움직임과 전문적인 시각적 스타일로 멀티샷 스토리텔링을 지원합니다.",
+      "q2": "Seedance 1.0은 어떻게 비디오를 생성합니까?",
+      "a2": "첨단 diffusion 모델링, 시공간적 일관성 알고리즘, 정확한 프롬프트 해석을 사용하여 부드러운 전환과 안정적인 캐릭터 일관성을 갖춘 5~10초 비디오를 1080p 해상도로 생성합니다.",
+      "q3": "Seedance 1.0의 주요 사용 사례는 무엇입니까?",
+      "a3": "Seedance 1.0은 소셜 콘텐츠 제작자, 마케터, 영화 제작자, 패션 릴, 무드보드 루프, 교육 비디오, 그리고 텍스트 또는 이미지에서 역동적이고 영화 같은 비디오 콘텐츠가 필요한 모든 프로젝트에 이상적입니다.",
+      "q4": "비디오 스타일과 길이를 사용자 정의할 수 있습니까?",
+      "a4": "예, Seedance를 사용하면 포토리얼리즘, 애니메이션, 사이버펑크 등 다양한 예술적 스타일을 선택할 수 있습니다. 또한 비디오 지속 시간을 일반적으로 5~10초 사이로 설정할 수 있습니다.",
+      "q5": "Seedance 1.0은 어떤 비디오 품질을 지원합니까?",
+      "a5": "Seedance는 부드러운 24fps 프레임 속도로 1080p HD 비디오를 생성하므로 다양한 플랫폼에서 전문적으로 사용하기에 적합합니다.",
+      "q6": "Seedance 1.0은 초보자가 사용하기에 쉬운가요?",
+      "a6": "물론입니다. 텍스트 또는 이미지 입력을 지원하는 직관적인 인터페이스를 통해 초보자부터 전문가까지 누구나 빠르게 멋진 AI 비디오를 만들 수 있습니다.",
+      "q7": "어떤 종류의 프롬프트가 Seedance에서 가장 효과적입니까?",
+      "a7": "장면, 동작 및 감정을 설명하는 자세한 자연어 프롬프트가 가장 좋은 결과를 생성합니다. 창의적이고 실험적인 프롬프트 또한 잘 지원됩니다.",
+      "q8": "Seedance 1.0에는 어떤 제한 사항이 있습니까?",
+      "a8": "강력한 기능에도 불구하고 복잡한 다중 캐릭터 또는 고해상도 시나리오의 경우 더 많은 처리가 필요할 수 있습니다. 또한 긴 클립에서 완벽한 예술적 스타일 일관성을 유지하는 것은 여전히 어려운 과제입니다."
+    }
+  },
+  "originalKeyword": "Seedance 1.0 AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "모델: Seedance 1.0",
+      "description": "Prompt: The man on the left presses his lips tightly together, his face etched with fury and resolve. Every line of his expression radiates both profound frustration and unshakable conviction. Meanwhile, the other man's jaw hangs open—poised as if to erupt into a shout or impassioned declaration.",
+      "videoUrl": "https://fluximageai.net/generated-models/4e3363f0-35d4-4af0-a0fb-0a61fcd72239.mp4"
+    },
+    {
+      "id": 2,
+      "title": "모델: Seedance 1.0",
+      "description": "Prompt: A cartoon minion Jedi in dark robes, crouching low on a tree branch above a misty swamp. He has two small daggers and glowing yellow eyes under his hood. Silent and mysterious, with soft cinematic lighting and glowing mushrooms nearby.",
+      "videoUrl": "https://fluximageai.net/generated-models/5e666711-bbb7-4f99-b96b-48f271496894.mp4"
+    },
+    {
+      "id": 3,
+      "title": "모델: Seedance 1.0",
+      "description": "Prompt: A cat is playing piano.",
+      "videoUrl": "https://fluximageai.net/generated-models/d4a77f87-afe1-44fa-8d50-4d12656fa4aa.mp4"
+    },
+    {
+      "id": 4,
+      "title": "모델: Seedance 1.0",
+      "description": "Prompt: preocupado por las deudas.",
+      "videoUrl": "https://fluximageai.net/generated-models/acd61a30-7ad9-4d78-a458-52e510735e52.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "SEEDANCE"
+}

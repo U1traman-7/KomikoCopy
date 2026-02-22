@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 貼圖產生器",
+      "description": "使用我們的 AI 貼圖產生器，將您的照片轉化為令人驚艷的貼圖藝術。獨特的風格與快速的成果，立即免費體驗！",
+      "keywords": "AI 貼圖產生器, AI 圖像貼圖創建, 照片轉貼圖, 貼圖藝術工具, 自定義 AI 貼圖"
+    },
+    "hero": {
+      "title": "AI 貼圖產生器"
+    },
+    "whatIs": {
+      "title": "什麼是 AI 貼圖產生器？",
+      "description": "AI 貼圖產生器是一個創新的平台，能將您的照片轉化為獨具風格的貼圖圖像。此工具非常適合平面設計師及一般使用者，提供簡單易用的介面，讓您探索各式藝術風格，進而強化您的圖像。體驗我們 AI 的強大轉化能力，將普通照片轉變為非凡的貼圖藝術，適用於數位平台與印刷品。"
+    },
+    "examples": {
+      "title": "來自 AI 貼圖產生器的靈感範例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用 AI 貼圖產生器",
+      "steps": [
+        {
+          "title": "步驟 1：上傳您的照片",
+          "content": "請上傳清晰的 JPG、PNG 或 WEBP 格式照片，以達到最佳轉換效果。"
+        },
+        {
+          "title": "步驟 2：選擇貼圖模板",
+          "content": "選擇您喜歡的貼圖模板，以該風格轉換您的照片。"
+        },
+        {
+          "title": "步驟 3：轉換為貼圖",
+          "content": "點擊「轉換為貼圖」，讓我們的 AI 在短時間內為您創建精美的貼圖版本。"
+        },
+        {
+          "title": "步驟 4：下載或分享",
+          "content": "下載您新創作的貼圖，或直接分享至社群媒體，輕鬆取得您的藝術創作！"
+        }
+      ],
+      "subtitle": "依照以下步驟，將您的照片轉化為令人驚豔的貼圖藝術。"
+    },
+    "benefits": {
+      "title": "為何選擇 AI 貼圖產生器？",
+      "description": "探索我們的工具在藝術家與創作者之間廣受歡迎的原因。",
+      "features": [
+        {
+          "title": "🎨 自定義貼圖風格",
+          "content": "享受各式各樣的藝術風格，為您的照片注入活力，滿足您從奇幻到精緻的各種創意需求。"
+        },
+        {
+          "title": "⚡ 快速產生藝術作品",
+          "content": "我們的 AI 能夠即時產生令人驚豔的成果，是快速設計與迭代的理想選擇。"
+        },
+        {
+          "title": "🖼️ 輕鬆導航",
+          "content": "產生器介面易於瀏覽，專為所有技能水平的使用者設計，輕鬆製作精美貼圖藝術。"
+        },
+        {
+          "title": "💫 品質值得信賴",
+          "content": "產出適用於線上使用與印刷的高解析度貼圖藝術，確保您的作品脫穎而出。"
+        },
+        {
+          "title": "🎯 多功能創作",
+          "content": "無論是個人專案、行銷素材製作或獨特禮品，AI 貼圖產生器都能滿足您的需求！"
+        },
+        {
+          "title": "🚀 輕鬆分享選項",
+          "content": "以下載所需格式，輕鬆分享或整合至您的專案中，省去繁瑣步驟。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 貼圖產生器 FAQ",
+      "description": "",
+      "q1": "什麼是 AI 貼圖產生器，其運作原理為何？",
+      "a1": "AI 貼圖產生器採用先進的演算法分析您的圖像，並應用獨特的藝術風格，將其重建為令人驚豔的貼圖形式，同時保留基本特徵。",
+      "q2": "如何使用 AI 貼圖產生器獲得最佳效果？",
+      "a2": "為了獲得最佳轉換效果，請使用高對比度、清晰的圖像，並探索我們多樣化的貼圖樣式，每種樣式都具有獨特效果。",
+      "q3": "AI 貼圖產生器可以免費使用嗎？",
+      "a3": "是的！歡迎從免費試用開始，探索其強大功能並創作您的初始貼圖轉換作品。",
+      "q4": "AI 貼圖產生器的輸出與典型的濾鏡有何不同？",
+      "a4": "當然不同！我們的 AI 會以選定的風格完全重建您的圖像，產生獨特的貼圖藝術，同時保留原始照片的本質。",
+      "q5": "我可以使用透過此工具生成的貼圖作為商業用途嗎？",
+      "a5": "是的，您可以依照我們的許可指南，將您的作品用於商業活動，盡情創作並創造收益！"
+    },
+    "cta": {
+      "title": "立即開始使用 AI 貼圖產生器進行創作",
+      "description": "別再猶豫，立即使用 AI 貼圖產生器釋放您的藝術潛力！將您的照片轉化為獨特的貼圖藝術，盡情揮灑無限創意。",
+      "buttonText": "免費創建 AI 貼圖藝術"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform a photo into unique sticker art",
+  "originalKeyword": "AI Sticker Generator",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "image": "/images/examples/playground/ai-sticker-generator/example_1.webp",
+      "prompt": "ai-sticker-generator style transformation example 1 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_2.webp",
+      "prompt": "ai-sticker-generator style transformation example 2 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_3.webp",
+      "prompt": "ai-sticker-generator style transformation example 3 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_4.webp",
+      "prompt": "ai-sticker-generator style transformation example 4 (chibi style)"
+    }
+  ]
+}

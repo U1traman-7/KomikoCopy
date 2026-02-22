@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "output": "/images/examples/photo-to-anime/girl_anime.webp",
+      "inputLabel": "Foto Asli",
+      "outputLabel": "Gaya Anime",
+      "prompt": "Transform photo to anime style"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "output": "/images/examples/photo-to-anime/boy_anime.webp",
+      "inputLabel": "Foto Asli",
+      "outputLabel": "Gaya Anime",
+      "prompt": "Convert portrait to anime character"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "output": "/images/examples/photo-to-anime/cat_anime.webp",
+      "inputLabel": "Foto Asli",
+      "outputLabel": "Gaya Anime",
+      "prompt": "Turn cat photo into anime art"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "output": "/images/styles/anime.webp",
+      "inputLabel": "Foto Asli",
+      "outputLabel": "Gaya Anime",
+      "prompt": "Transform pet photo to anime style"
+    }
+  ]
+}

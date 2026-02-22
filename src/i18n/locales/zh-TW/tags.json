@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "title": "{{tag}} AI",
+    "description": "探索令人驚豔的 {{tag}} 藝術作品，使用 KomikoAI 將您的想法轉換為 {{tag}} 同人畫作。免費創作令人驚嘆的 {{tag}} 同人作品、{{tag}} 原創角色和動畫。",
+    "keywords": "{{tag}} AI, {{tag}} ai, {{tag}} 藝術, {{tag}} 同人藝術, {{tag}} {{tag}}, {{tag}} AI 藝術, {{tag}} AI 藝術生成器, AI {{tag}}, AI {{tag}} 生成器, {{tag}} 生成器, {{tag}} AI 生成器, {{tag}} 動漫藝術, {{tag}} {{tag}} 製造者, {{tag}} {{tag}} 生成器, {{tag}} AI 動漫, {{tag}} 動漫 AI 藝術",
+    "titleWithDescription": "{{tag}} 同人創作",
+    "descriptionWithTagDescription": "{{tagDescription}}，探索令人驚艷的{{tag}}藝術，並透過KomikoAI將您的創意轉化為{{tag}}同人作品。免費創作精彩的{{tag}}同人作品、{{tag}}原創角色和動畫。"
+  },
+  "title": "{{tag}} AI",
+  "headings": {
+    "whatIs": "利用{{tag}} AI 創建您專屬的 {{tag}} 藝術",
+    "howToUse": "如何使用{{tag}} AI生成器",
+    "whyUse": "為什麼要使用{{tag}} AI生成器",
+    "applications": "{{tag}} AI生成器的應用範圍",
+    "whatIsWithDescription": "使用 KomikoAI 創建您的 {{tag}} 同人作品",
+    "mainTitle": "{{tag}} AI",
+    "mainTitleWithDescription": "{{tag}} AI 藝術"
+  },
+  "whatIsDescription": "探索最佳的 {{tag}} AI 藝術，並使用{{tag}} AI 將您的創意化為精美的 {{tag}} 藝術及{{tag}} 原創角色。{{tag}} AI 生成器經過數百萬幅{{tag}}藝術作品的訓練，讓您只需片刻即能創作出高品質的 {{tag}} 藝術！",
+  "howToUseDescription": "按照這些簡單的步驟，使用我們的AI {{tag}}生成器創作驚人的{{tag}}藝術作品。",
+  "whyUseDescription": "來看看為什麼成千上萬的創作者選擇AI {{tag}}藝術生成器來滿足他們的動漫藝術需求。",
+  "howToUseSteps": [
+    {
+      "title": "輸入您的提示",
+      "content": "首先輸入您想創作的{{tag}}藝術的詳細描述。包括角色細節、場景元素、藝術風格和情感以獲得最佳成效。"
+    },
+    {
+      "title": "選擇您的風格",
+      "content": "從預設的動漫風格中選擇，或指定您自己的美學偏好，如漫畫、動畫或特定藝術家的風格。"
+    },
+    {
+      "title": "生成您的{{tag}}藝術",
+      "content": "使用我們的AI工具，根據提示生成您的專屬{{tag}}藝術。"
+    },
+    {
+      "title": "下載及分享",
+      "content": "下載您創作的藝術品，並與朋友或社群分享您的創意。"
+    }
+  ],
+  "cta": {
+    "title": "體驗{{tag}} AI生成器",
+    "description": "{{tag}} AI生成器以數百萬精美的{{tag}}作品為訓練數據，讓您輕鬆創作個性化的{{tag}} AI藝術。無需藝術天賦——只需發揮您的想像力，加上一些描述性文字即可！",
+    "button": "立即體驗 {{tag}} AI"
+  },
+  "faq": {
+    "title": "常見問題",
+    "items": [
+      {
+        "question": "什麼是AI {{tag}}藝術生成器？",
+        "answer": "AI {{tag}}藝術生成器是一個先進的AI工具，根據文字描述創造客製化的動漫風格藝術作品。它運用深度學習算法，經過數百萬動漫圖像訓練，能夠在多種動漫風格中生成獨特的插圖作品。"
+      },
+      {
+        "question": "AI {{tag}} 藝術生成器如何運作？",
+        "answer": "AI {{tag}} 藝術生成器利用專門的AI模型，將您的文字提示轉換成視覺藝術。這些模型經動漫藝術作品訓練，只需輸入詳細的描述及選擇風格偏好，即可創造出符合您描述的獨特動漫插圖。描述越詳細，效果越佳。"
+      },
+      {
+        "question": "我可以創造什麼類型的動漫藝術？",
+        "answer": "您幾乎可以創造任何風格的動漫藝術，包括角色肖像、動作場景、幻想背景、科幻概念等。生成器支持多種動漫類型，如少年、少女、青年、萌系、Q版等。"
+      },
+      {
+        "question": "使用AI {{tag}}藝術生成器需要藝術技能嗎？",
+        "answer": "不需要藝術技能！這就是AI {{tag}}藝術生成器的魅力所在 - 它讓動漫藝術創作變得平易近人。無論是專業藝術家還是僅有創意的人，只需描述您想要的內容，便可創作出驚人的動漫作品。"
+      },
+      {
+        "question": "如何提高生成的動漫藝術品質？",
+        "answer": "為了獲得最佳結果，請提供詳細的提示，包括角色特徵、服裝細節、姿勢、表情、背景、光線及藝術風格參考。您可以嘗試參考特定的動漫藝術家風格，如“宮崎駿風格”或“新海誠風格”。實驗不同的描述，找出最能實現您想像的提示。"
+      },
+      {
+        "question": "我能否將生成的動漫藝術用於商業用途？",
+        "answer": "可以，使用我們的AI {{tag}}藝術生成器創作的藝術作品可用於個人及商業專案，但需遵守我們的服務條款。這使其非常適合內容創作者、遊戲開發者、網絡漫畫家等需要獨特動漫風格視覺效果的商業應用。"
+      },
+      {
+        "question": "我可以生成多少圖像？",
+        "answer": "您可以生成的圖像數量取決於您的訂閱計畫。免費用戶每日有生成次數限制，而高級訂閱者可享有更多或無限制的生成次數，並能存取額外功能及更高解析度的輸出。"
+      },
+      {
+        "question": "我可以根據真實人物生成動漫角色嗎？",
+        "answer": "可以，您可以在提示中描述真實人物的特徵，創造出他們的動漫風格版本。為取得最佳效果，請包括具體的外貌細節及喜愛的動漫風格。此功能適合創造個性化的動漫頭像或角色肖像。"
+      },
+      {
+        "question": "漫畫風格和動漫風格的生成有何不同？",
+        "answer": "漫畫風格生成通常以黑白線條藝術為主，具有強烈對比和類似日本漫畫的面板設計。動漫風格生成則以全彩色、柔和的陰影和更接近動畫節目效果的美學為特點。您可以在提示中指定這兩種風格，以獲得理想的視覺效果。"
+      },
+      {
+        "question": "我可以編輯生成的動漫圖像嗎？",
+        "answer": "可以！生成後，您可以下載動漫藝術，並使用喜愛的圖像編輯軟件進行編輯。對於進階用戶，這些圖像是進一步改進、著色或融入更大藝術作品的絕佳起點。"
+      }
+    ]
+  },
+  "titleWithDescription": "{{tag}} 同人創作",
+  "pageDescription": "探索令人驚豔的 {{tag}} 藝術作品，使用 KomikoAI 將您的想法轉換為 {{tag}} 同人畫作。免費創作令人驚嘆的 {{tag}} 同人作品、{{tag}} 原創角色和動畫。",
+  "whatIsDescriptionWithDescription": "探索頂尖的 {{tag}} AI 藝術，使用 AI 將您的想法轉化為 {{tag}} 同人作品和 {{tag}} 原創角色。KomikoAI 的 {{tag}} 生成器對於 {{tag}} 世界無比了解，讓您能夠在瞬間創作出高品質的 {{tag}} 藝術！",
+  "followers": "追蹤者",
+  "trending": "熱門趨勢",
+  "newest": "最新發表",
+  "applyModerator": "申請成為版主",
+  "becomeMod": "成為版主",
+  "showMore": "顯示更多",
+  "showLess": "顯示更少",
+  "host": "主辦單位",
+  "moderators": "版主",
+  "mods": "版主",
+  "people": "",
+  "cancel": "取消",
+  "save": "保存",
+  "owner": "擁有者",
+  "moderator": "版主",
+  "postsLabel": "帖子",
+  "followersLabel": "追蹤者",
+  "viewAll": "查看全部",
+  "characterAdded": "角色已新增",
+  "characterRemoved": "角色已移除",
+  "cannotRemoveOfficial": "無法移除官方角色",
+  "addCharacterToTag": "添加角色至標籤",
+  "searchCharacters": "按名字搜尋角色...",
+  "noCharactersFound": "未找到角色",
+  "typeMoreToSearch": "請輸入至少兩個字符進行搜尋",
+  "searchCharacterHint": "搜尋要添加至此標籤的角色",
+  "noCharactersYet": "尚無角色",
+  "noCharactersDesc": "與此標籤相關的角色將出現在此",
+  "addCharacter": "新增角色",
+  "relatedCharacters": "相關角色",
+  "removeCharacter": "從標籤中移除",
+  "noModerators": "尚無版主",
+  "hiddenPosts": {
+    "title": "隱藏帖子",
+    "empty": "無隱藏帖子",
+    "hiddenAt": "已隱藏於",
+    "unhide": "取消隱藏",
+    "unhideSuccess": "帖子已取消隱藏"
+  },
+  "settings": {
+    "title": "設定",
+    "basicSettings": "基本設定",
+    "remove": "移除",
+    "removeHeader": "移除首部",
+    "logo": "標誌",
+    "uploadLogo": "上傳標誌",
+    "headerImage": "首部圖片",
+    "clickToUpload": "按此上傳",
+    "description": "描述",
+    "descriptionPlaceholder": "描述此標籤...",
+    "invalidImage": "請選擇圖片檔案",
+    "success": "保存成功！",
+    "error": "保存失敗",
+    "moderators": "版主管理",
+    "noModerators": "尚無版主",
+    "ownerBadge": "擁有者標誌",
+    "removeMod": "移除此版主",
+    "confirmDeleteMod": "您確定要移除版主 {{name}} 嗎？",
+    "deleteModSuccess": "版主已成功移除",
+    "deleteModFailed": "移除版主失敗",
+    "isNsfw": "這是一個成人內容標籤",
+    "isNsfwDescription": "啟用此選項將允許顯示該標籤中的成熟或成人內容",
+    "ctaLink": "CTA 按鈕連結",
+    "ctaLinkError": "僅允許內部連結（相對路徑或 komiko.app/komikoai.com）",
+    "ctaLinkHint": "僅允許內部連結。如不設定則使用預設值。",
+    "ctaLinkHintWithDefault": "自動偵測: {{defaultLink}}",
+    "characterCategory": "角色分類",
+    "characterCategoryPlaceholder": "搜尋或選擇一個分類",
+    "characterCategoryHint": "將此標籤連結到一個官方的角色分類。",
+    "logoHint": "建議使用正方形圖像，非正方形圖像將會被裁剪居中。",
+    "headerHint": "建議尺寸：1200x400像素，過大的圖像將會自動調整尺寸。",
+    "imageProcessError": "圖像處理失敗",
+    "allowedMediaTypes": "允許的媒體類型",
+    "mediaTypeAll": "所有媒體（圖片和視頻）",
+    "mediaTypeImage": "僅圖片",
+    "mediaTypeVideo": "僅視頻"
+  },
+  "addMod": {
+    "title": "添加版主",
+    "emailLabel": "用戶電郵",
+    "emailPlaceholder": "輸入用戶的註冊電郵",
+    "roleLabel": "角色",
+    "roleModerator": "版主",
+    "roleOwner": "擁有者",
+    "confirm": "添加版主",
+    "emailRequired": "請輸入電郵地址",
+    "failed": "添加版主失敗",
+    "success": "版主已成功添加！",
+    "networkError": "網絡錯誤，請重試"
+  },
+  "moderatorApplication": {
+    "title": "申請成為 Komiko 版主！",
+    "status": "申請狀態",
+    "pending": "待審核",
+    "approved": "已批准",
+    "rejected": "已拒絕",
+    "pendingMessage": "您的申請正在審核中，審核結果稍後將通過郵件通知您。",
+    "approvedMessage": "恭喜！您的申請已獲批准，您現在是此標籤的版主。",
+    "rejectedMessage": "抱歉，此次申請未獲批准，您可以稍後再次申請。",
+    "submitted": "您的申請已成功提交！",
+    "introTitle": "幫助塑造社區並享有作為版主的獨家特權！",
+    "benefitsTitle": "好處：",
+    "benefit1": "管理內容的權利：置頂帖子、編輯標籤詳情、強調/隱藏內容。",
+    "benefit2": "獨有培訓：獲得標籤管理和社區討論的官方工作坊訪問權限。",
+    "process": "審核將由Komiko的團隊直接完成。如果被選中，結果將在5個工作日內通知。",
+    "preferredName": "我們應該如何稱呼您？",
+    "preferredNamePlaceholder": "如 您的暱稱或喜好名稱",
+    "tagsQuestion": "您有興趣管理哪些標籤？",
+    "contact": "您的 Discord 名稱或電郵地址是？",
+    "contactPlaceholder": "如 yourname#1234 或 you@example.com",
+    "reason": "為什麼選擇您？",
+    "reasonPlaceholder": "告訴我們關於您的經驗、動機，以及您如何能夠幫助該社區...",
+    "note": "您的申請將由我們的團隊審核。審核結果將及時通知您。",
+    "submitApplication": "提交申請",
+    "close": "關閉",
+    "preferredNameRequired": "請輸入您的首選姓名",
+    "preferredNameTooLong": "名字長度不能超過 50 個字符",
+    "contactInfoRequired": "請輸入您的聯絡資訊",
+    "invalidContactInfo": "請輸入有效的電郵或 Discord 用戶名",
+    "reasonRequired": "請告訴我們為什麼選擇您",
+    "reasonTooShort": "請至少書寫 50 個字符",
+    "reasonTooLong": "請保持在 1000 個字符以內",
+    "reasonMinLength": "至少 50 個字符",
+    "applicationValidationFailed": "請修正表單中的錯誤"
+  },
+  "tagOrder": {
+    "title": "自定義標籤排序",
+    "description": "拖放以重新排序您關注的標籤",
+    "position": "位置：{{position}}",
+    "noFollowedTags": "尚未關注標籤。請關注一些標籤以進行自定義排序！"
+  },
+  "follow": "追蹤",
+  "unfollow": "取消追蹤",
+  "generateArt": "生成{{tag}}藝術",
+  "variants": {
+    "fanart": {
+      "title": "{{name}} 同人藝術",
+      "description": "在KomikoAI上探索最佳的{{name}}同人藝術，為您創作{{name}}同人藝術激發靈感。",
+      "keywords": "{{name}} 同人藝術, {{name}} fan art, {{name}} 藝術, {{name}} 動漫藝術, {{name}} AI 藝術, {{name}} OC, {{name}}",
+      "h1": "{{name}} 同人藝術",
+      "h1Description": "在KomikoAI上探索最佳的{{name}}同人藝術，為您創作{{name}}同人藝術激發靈感。",
+      "createTitle": "創建您的{{name}}同人藝術",
+      "createDescription": "發掘令人驚嘆的{{name}}同人藝術，並從其他{{name}}同人藝術作品中獲得靈感。\n\n用您的風格重新詮釋{{name}}。利用KomikoAI的先進動畫模型在幾秒內生成優美的{{name}}同人藝術。",
+      "buttonText": "立即生成{{name}}同人藝術！"
+    },
+    "oc": {
+      "title": "{{name}} 原創角色",
+      "description": "探索由社區創建的{{name}}原創角色，並使用KomikoAI設計您自己的{{name}}啟發的原創角色。",
+      "keywords": "{{name}} oc, {{name}} 原創角色, {{name}} oc 創作者, {{name}} ai oc, {{name}} 角色生成器, {{name}} 角色設計",
+      "h1": "{{name}} 原創角色",
+      "h1Description": "探索由{{name}}粉絲創建的原創角色。自訂外觀、服裝和背景故事，打造您專屬的{{name}}原創角色版本。",
+      "createTitle": "設計您的{{name}}原創角色",
+      "createDescription": "是否想過您自己的{{name}}版本？利用KomikoAI強大的OC創造器，將您的{{name}}原創角色想法化為現實。\n\n混合特徵、風格和個性，構建您的{{name}}原創角色——從魔法再造到賽博朋克的另類自我。",
+      "buttonText": "立即生成{{name}}原創角色！"
+    },
+    "pfp": {
+      "title": "{{name}} 頭像",
+      "description": "發現最佳的{{name}}頭像，或使用AI生成您自己的{{name}}頭像。",
+      "keywords": "{{name}} pfp, {{name}} 頭像, {{name}} 個人圖片, {{name}} AI 藝術, {{name}} 藝術",
+      "h1": "{{name}} 頭像",
+      "h1Description": "探索KomikoAI社區創建的可愛而時尚的{{name}}個人圖片，或生成您自己的{{name}}頭像。",
+      "createTitle": "創建您的{{name}}頭像",
+      "createDescription": "探索由KomikoAI社區製作的時尚且富有表現力的{{name}}個人圖片。\n\n將您的想法轉化為令您滿意的出色{{name}}頭像。自訂背景顏色、光源和氛圍——KomikoAI的模型負責藝術細節。適用於Discord、TikTok、YouTube或任何您喜愛的地方的頭像。",
+      "buttonText": "立即生成{{name}}頭像！"
+    },
+    "wallpaper": {
+      "title": "{{name}} 壁紙",
+      "description": "下載或創建令人驚嘆的{{name}}壁紙。選擇您最喜愛的場景和解析度製作適合手機、平板或桌面的{{name}}壁紙。",
+      "keywords": "{{name}} 壁紙, {{name}} 背景, {{name}} 動漫壁紙, {{name}} ai 壁紙, {{name}} 高清壁紙, {{name}} 藝術",
+      "h1": "{{name}} 壁紙",
+      "h1Description": "探索精選的{{name}}壁紙畫廊。每張{{name}}壁紙皆由KomikoAI社區生成或啟發。",
+      "createTitle": "創建自定義{{name}}壁紙",
+      "createDescription": "利用KomikoAI強大的AI模型設計您自己的{{name}}壁紙。\n\n選擇氛圍、光源和場景——海洋日落、霓虹城市、幻想廢墟——由AI生成完美適用於您的手機或桌面的{{name}}壁紙。",
+      "buttonText": "立即生成{{name}}壁紙！"
+    },
+    "pictures": {
+      "title": "{{name}} 圖片",
+      "description": "瀏覽由KomikoAI創建的{{name}}圖片畫廊——包括肖像、場景、草圖和電影框架。",
+      "keywords": "{{name}} 圖片, {{name}} 藝術, {{name}} 動漫圖片, {{name}} ai 圖片, {{name}} 畫廊, {{name}} ai 藝術",
+      "h1": "{{name}} 圖片",
+      "h1Description": "歡迎來到{{name}}圖片畫廊。從肖像到動作場景，每幅圖片提供了關於{{name}}的不同視角。",
+      "createTitle": "生成您的{{name}}圖片",
+      "createDescription": "探索由KomikoAI社區創建的時尚、富有表現力的{{name}}圖片，將您的想法轉化為視覺效果。\n\nKomikoAI讓您在瞬間創建高品質的{{name}}圖片，無論是漫畫、動漫、電影風格、繪畫風格或寫實主義。加入成千上萬的創作者生成{{name}}圖片。",
+      "buttonText": "立即生成{{name}}圖片！"
+    }
+  },
+  "allPosts": "所有帖子",
+  "featured": "精選",
+  "characters": "人物",
+  "search_tags_placeholder": "搜尋熱門標籤..."
+}

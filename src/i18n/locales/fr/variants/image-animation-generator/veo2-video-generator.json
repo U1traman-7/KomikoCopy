@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Générateur de vidéos Veo2 - KomikoAI",
+      "description": "Créez des vidéos impressionnantes générées par l'IA à partir de texte et d'images grâce au générateur de vidéos Veo 2. Bénéficiez de clips cinématiques de haute qualité, jusqu'à une résolution 4K, à partir d'invites naturelles.",
+      "fullDescription": "Le générateur de vidéos Veo2 de Google est un outil d'IA de pointe qui transforme des invites textuelles et des images en clips vidéo dynamiques et réalistes d'une durée maximale de 8 secondes. Reposant sur des modèles d'apprentissage automatique avancés, notamment la technologie Imagen Video, le générateur de vidéos Veo2 produit des vidéos cinématiques haute résolution avec un contrôle précis des angles de caméra, de l'éclairage et des effets. Idéal pour le marketing, la création de contenu, l'animation et les médias sociaux, le générateur de vidéos Veo2 offre une génération de vidéos rapide, une qualité professionnelle et des cas d'utilisation polyvalents.",
+      "keywords": "Générateur de vidéos Veo 2, création de vidéos par IA, IA texte-vidéo, IA image-vidéo, Google Veo 2, vidéos IA de haute qualité, vidéo IA cinématique, outil vidéo IA"
+    },
+    "hero": {
+      "title": "Générateur de vidéos Veo2",
+      "description": "Transformez vos invites textuelles et vos images en vidéos IA cinématiques de haute qualité grâce à Veo 2 de Google. Générez instantanément des clips dynamiques avec des détails professionnels."
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que le générateur de vidéos Veo2 ?",
+      "description": "Veo 2 est un outil avancé de génération de vidéos, alimenté par l'IA et développé par Google, conçu pour créer de courtes vidéos de haute qualité à partir d'invites textuelles en langage naturel et d'images statiques. S'appuyant sur des modèles d'apprentissage automatique de pointe tels qu'Imagen Video, Veo 2 produit des vidéos fluides et photoréalistes d'une durée maximale de 8 secondes, dans des résolutions allant jusqu'à la 4K. Il intègre une compréhension sophistiquée de la physique du monde réel, des techniques de cinématographie et des mouvements humains pour fournir un contenu visuellement captivant. Cet outil convient aux créateurs, aux spécialistes du marketing et aux développeurs qui souhaitent générer rapidement du contenu vidéo de qualité professionnelle, sans tournage ni montage traditionnels."
+    },
+    "examples": {
+      "title": "Exemples de vidéos générées par Veo",
+      "description": "Explorez des exemples de vidéos créées avec Veo. Découvrez comment des invites textuelles et des images se transforment en contenu vidéo dynamique et de haute qualité, parfait pour les médias sociaux et les projets professionnels."
+    },
+    "howToUse": {
+      "title": "Comment utiliser le générateur de vidéos Veo2",
+      "steps": [
+        {
+          "title": "Téléversez votre image",
+          "content": "Commencez par téléverser l'image que vous souhaitez animer. Qu'il s'agisse d'un personnage d'anime, d'une case de manga ou d'un dessin de bande dessinée, notre IA donnera vie à votre œuvre grâce à la vidéo."
+        },
+        {
+          "title": "Fournissez une invite",
+          "content": "Saisissez une invite descriptive pour guider la création de la vidéo. Partagez des détails sur le mouvement, l'expression ou l'action que vous souhaitez que l'IA représente."
+        },
+        {
+          "title": "Créez la vidéo",
+          "content": "Cliquez simplement sur le bouton « Générer la vidéo » et regardez l'IA transformer votre image statique en une vidéo animée et vivante."
+        },
+        {
+          "title": "Téléchargez et personnalisez",
+          "content": "Prévisualisez les vidéos générées, téléchargez votre version préférée et améliorez-la éventuellement en ajoutant de la musique de fond ou des effets sonores, parfaits pour le partage sur les médias sociaux ou les campagnes de marketing."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi choisir le générateur de vidéos Veo2 ?",
+      "description": "Découvrez comment le générateur de vidéos Veo2 rationalise la production vidéo grâce à des fonctionnalités basées sur l'IA, qui offrent une qualité professionnelle, une rapidité et une flexibilité créative.",
+      "features": [
+        {
+          "title": "Sortie vidéo haute résolution",
+          "content": "Créez des vidéos nettes et détaillées, jusqu'à une résolution 4K, adaptées aux applications professionnelles et cinématiques.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Texte-vidéo et image-vidéo avancés",
+          "content": "Générez des vidéos directement à partir de texte descriptif ou améliorez vos images en les transformant en clips vidéo dynamiques.",
+          "icon": "📝"
+        },
+        {
+          "title": "Contrôle cinématique",
+          "content": "Spécifiez les angles de caméra, les types d'objectifs, les techniques de mise au point et les effets cinématiques pour créer des scènes visuellement attrayantes.",
+          "icon": "🎞️"
+        },
+        {
+          "title": "Génération vidéo rapide",
+          "content": "Produisez des vidéos en quelques minutes, réduisant considérablement le temps et les coûts associés à la production vidéo traditionnelle.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Mouvement et physique réalistes",
+          "content": "L'IA exploite l'apprentissage profond pour simuler les mouvements humains naturels, la physique et les effets environnementaux, améliorant ainsi le réalisme.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Cas d'utilisation polyvalents",
+          "content": "Idéal pour les spécialistes du marketing, les créateurs de contenu, les éducateurs et les cinéastes qui ont besoin d'un contenu vidéo rapide et de haute qualité, sans ressources importantes.",
+          "icon": "🌟"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foire aux questions sur le générateur de vidéos Veo2",
+      "description": "Réponses aux questions les plus courantes sur le générateur de vidéos Veo2 et ses capacités de génération de vidéos par IA.",
+      "q1": "Qu'est-ce que le générateur de vidéos Veo2 ?",
+      "a1": "Le générateur de vidéos Veo2 est un outil d'IA de pointe de Google qui génère de courtes vidéos à partir de descriptions textuelles ou d'images, avec une haute résolution et une qualité cinématique, à l'aide de modèles d'apprentissage automatique avancés.",
+      "q2": "Comment le générateur de vidéos Veo2 crée-t-il des vidéos à partir de texte ou d'images ?",
+      "a2": "Le générateur de vidéos Veo2 utilise des techniques d'apprentissage profond pour interpréter les invites en langage naturel et les entrées visuelles, afin de générer des trames vidéo réalistes, en simulant le mouvement, les effets de caméra et l'éclairage.",
+      "q3": "Quelles sont les longueurs de vidéo et les résolutions prises en charge par le générateur de vidéos Veo2 ?",
+      "a3": "Le générateur de vidéos Veo2 produit des vidéos généralement comprises entre 5 et 8 secondes et prend en charge des résolutions allant jusqu'à la 4K, adaptées à divers usages professionnels et sur les médias sociaux.",
+      "q4": "Quels sont les principaux cas d'utilisation du générateur de vidéos Veo2 ?",
+      "a4": "Les applications courantes comprennent les clips pour les médias sociaux, les publicités de produits, la narration animée, le prototypage de films et la création de contenu éducatif.",
+      "q5": "Ai-je besoin de compétences techniques pour utiliser le générateur de vidéos Veo2 ?",
+      "a5": "Aucune compétence technique ou de montage vidéo n'est requise. Saisissez simplement du texte ou des images, personnalisez les paramètres de base et laissez l'IA générer votre vidéo.",
+      "q6": "Le générateur de vidéos Veo2 convient-il à un usage commercial ?",
+      "a6": "Oui, les vidéos générées par le générateur de vidéos Veo2 peuvent être utilisées à des fins commerciales, sous réserve des conditions d'utilisation et des accords de licence de la plateforme.",
+      "q7": "Quelles sont les limites du générateur de vidéos Veo2 ?",
+      "a7": "Actuellement, le générateur de vidéos Veo2 est optimisé pour les courts clips et peut ne pas prendre en charge les compositions vidéo plus longues ou très complexes. Des ressources de calcul élevées sont nécessaires pour les sorties à résolution maximale."
+    }
+  },
+  "originalKeyword": "Veo2 Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modèle : Veo",
+      "description": "Prompt: A snow-covered plain of iridescent moon-dust under twilight skies. Thirty-foot crystalline flowers bloom, refracting light into slow-moving rainbows. A fur-cloaked figure walks between these colossal blossoms, leaving the only footprints in untouched dust..",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_veo_3_a-snow-covered-plain-of-iridescent-moon-dust-under-twilight-skie.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Modèle : Veo",
+      "description": "Prompt:  A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_a-keyboard-whose-keys-are-made-of-different-types-of-candy-typin_1.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Modèle : Veo",
+      "description": "Prompt:  Camping (Stop Motion): Camper: \"I'm one with nature now!\" Bear: \"Nature would prefer some personal space.\"",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_camping-stop-motion-camper-i-m-one-with-nature-now-bear-nature-w.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Modèle : Veo",
+      "description": "Prompt: a cute monster dancing.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_50d36a35-c64c-4992-a506-07cd6353b701_A_monster_walking_202505121621_1.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Modèle : Veo",
+      "description": "Prompt: a cute monster swimming underwater.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_e88815cd-4ac3-4f94-95a9-c242f64f914a_Cute_monster_swimming_202505121603_1.mp4"
+    },
+    {
+      "id": 6,
+      "title": "Modèle : Veo",
+      "description": "Prompt: a cute monster walking in a candy wonderland.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_0806b1b7-fc1f-4bba-8b90-febc755c3ba6_A_cute_monster_202505121604_0002_1.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "VEO"
+}

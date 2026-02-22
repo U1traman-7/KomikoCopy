@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Video2Video",
+      "description": "Video2Video 讓您的影片生動起來。這個強大的工具能將影片轉換為令人驚豔的動漫、卡通、漫畫和網路漫畫風格，同時保留原始動作和時間感。",
+      "keywords": "Video2Video, 影片風格轉換, 動漫影片轉換, 卡通濾鏡, 漫畫風格效果, 網路漫畫動畫渲染, 藝術影片工具, 動漫風格影片創建器, 漫畫影片生成器, 動畫風格化, 視覺上令人驚豔的轉換, 動畫影片創建, 藝術影片渲染, 動漫轉換效果, 卡通風格轉換"
+    },
+    "hero": {
+      "title": "Video2Video"
+    },
+    "whatIs": {
+      "title": "什麼是 Video2Video？",
+      "description": "Video2Video 透過先進的影片風格轉換技術，將普通的影片轉變為充滿藝術感的動漫、卡通、漫畫和網路漫畫動畫。 此過程會運用您選擇的風格參考幀，確保整個影片的動作和時間感能夠無縫銜接。 我們提供超過 100 種風格，包括吉卜力工作室、韓國網路漫畫和日本漫畫美學，讓您的創意專案有更多選擇。"
+    },
+    "examples": {
+      "title": "Video2Video 範例",
+      "description": "親眼見證 Video2Video 如何運用最先進的影片風格轉換技術，將影片轉換為引人入勝的動漫、卡通、漫畫和網路漫畫風格，並完美地保留動作。",
+      "style": "風格範例"
+    },
+    "howToUse": {
+      "title": "如何使用 Video2Video",
+      "steps": [
+        {
+          "title": "上傳您的原始影片",
+          "content": "提交任何影片檔案（MP4、MOV、AVI），檔案大小上限為 50MB，長度最多 15 秒，即可啟動 Video2Video 處理程序。 較長的影片會自動修剪，以提供流暢的轉換體驗。"
+        },
+        {
+          "title": "選擇您的風格參考",
+          "content": "我們的系統會擷取初始幀，並應用您指定的動漫、卡通或漫畫風格，為整個 Video2Video 過程設定一致的風格範本。"
+        },
+        {
+          "title": "從藝術風格中選擇",
+          "content": "從包含吉卜力工作室動漫、韓國網路漫畫、日本漫畫等 100 多種預設風格的廣泛集合中挑選，或者使用文字描述或範例圖片來建立獨特的影片風格轉換效果。"
+        },
+        {
+          "title": "進行完整的 Video2Video 轉換",
+          "content": "Video2Video 工具會重新塑造整個影片，利用風格化的幀來維持原始動作和時間感，同時展現先進的藝術轉換效果。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為何選擇 Video2Video？",
+      "description": "Video2Video 提供無與倫比的影片風格轉換，能毫不妥協地保留動作細節，並提供廣泛的風格選擇，同時在價格方面保持透明。",
+      "features": [
+        {
+          "title": "卓越的動作完整性",
+          "content": "Video2Video 能保留原始動作、面部表情和時間精準度的每個細微之處，同時以完美的一致性來實施動漫、卡通或漫畫風格。",
+          "icon": "🎬"
+        },
+        {
+          "title": "100 多種風格選項",
+          "content": "從眾多風格中選擇，包括吉卜力工作室動漫、韓國網路漫畫、日本漫畫、迪士尼風格卡通，以及透過 Video2Video 使用文字提示或圖片參考的自訂創作。",
+          "icon": "🎨"
+        },
+        {
+          "title": "卓越的輸出品質",
+          "content": "生成具有流暢過渡、一致的風格應用且無視覺失真的高清動漫和卡通影片，這都要歸功於 Video2Video 精緻的影片風格轉換技術。",
+          "icon": "✨"
+        },
+        {
+          "title": "透明的定價策略",
+          "content": "影片風格轉換和影片創建的明確收費方式，讓您可以進行實驗性的風格設計，而不會產生額外的影片成本。 透過 Video2Video 探索新的創意可能性。",
+          "icon": "⚡"
+        },
+        {
+          "title": "簡化的轉換流程",
+          "content": "Video2Video 操作簡單易懂，包括影片提交、將風格應用於參考幀，然後進行完整的影片轉換。 無需任何技術技能，並提供即時進度可視性。",
+          "icon": "👌"
+        },
+        {
+          "title": "智慧優化",
+          "content": "Video2Video 系統提供自動修剪、格式多樣性（MP4、MOV、AVI）以及基於持續時間定價的經濟高效處理，以實現高效的影片風格轉換。",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "常見問題",
+      "description": "您可以在此找到關於 Video2Video 及其風格化過程的常見問題解答，方便您參考。",
+      "q1": "什麼是 Video2Video？",
+      "a1": "Video2Video 是一種 AI 工具，它使用先進的影片風格轉換技術，將普通影片轉換為動漫、卡通、漫畫和網路漫畫風格的動畫。 它應用藝術效果，同時保留動作和時間感，並提供超過 100 種可用的風格。",
+      "q2": "如何使用 Video2Video？",
+      "a2": "使用 Video2Video 非常簡單！ 首先，上傳您的影片，然後選擇一種藝術風格，並完成轉換。 該平台提供易於使用的即時風格轉換功能，並提供預設風格和自訂選項。",
+      "q3": "Video2Video 如何運作？",
+      "a3": "Video2Video 使用影片風格轉換技術來轉換影片。 它的運作方式是提取範例幀、應用所選的藝術風格，並轉換整個影片，同時確保動作完整性和時間感得以保留。",
+      "q4": "哪個是最好的影片風格化工具？",
+      "a4": "KomikoAI 提供最好的影片風格化工具。 我們的目標是成為領先的 AI 創作平台，提供專業品質的成果、強大而有趣的自訂功能，以及直觀的工作流程 —— 完全免費試用。 透過 KomikoAI 的 Video2Video，您可以實現令人驚豔的風格轉換，使其非常適合數位創作者、藝術家和愛好者。",
+      "q5": "KomikoVideo2Video 可以免費線上使用嗎？",
+      "a5": "是的，您可以免費在 KomikoAI 上測試 Video2Video，而無需註冊任何訂閱。 立即試用我們的工具！",
+      "q6": "我可以使用 Video2Video 做什麼？",
+      "a6": "您可以使用 KomikoAI 上的 Video2Video 從真人影片創建動畫內容。 透過 Video2Video 多樣化的風格，將影片轉換為獨特的動漫風格、卡通人物、漫畫視覺效果和網路漫畫動畫。",
+      "q7": "我可以在手機上使用 Video2Video 嗎？",
+      "a7": "是的，您可以在不同的裝置上使用 Video2Video 作為 Web 應用程式，包括智慧型手機和電腦，方便所有人使用。",
+      "q8": "我可以從 Video2Video 下載我的生成內容嗎？",
+      "a8": "是的，KomikoAI 的 Video2Video 允許您匯出各種格式的生成內容，例如 MP4、MOV、AVI，以便於分享。",
+      "q9": "我為什麼應該使用 Video2Video？",
+      "a9": "使用 Video2Video 可以將您的影片轉換為創意傑作。 我們的工具讓您可以應用各種藝術風格、保持動作準確性，並輕鬆創建具有視覺吸引力的內容，非常適合在社群媒體上分享或增強創意專案。"
+    },
+    "cta": {
+      "title": "立即使用我們的 Video2Video 免費轉換您的影片！",
+      "description": "透過令人驚豔的風格轉換，輕鬆讓您的影片生動起來。",
+      "buttonText": "免費試用我們的 Video2Video"
+    }
+  },
+  "originalKeyword": "Video2Video",
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-man.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "卡通風格",
+      "description": "風格轉換 | 將原始影片轉換為卡通風格"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-girl.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "黏土動畫風格",
+      "description": "更換材質 | 將原始影片轉換為黏土風格"
+    }
+  ],
+  "pageStructure": [
+    "範例",
+    "為何使用",
+    "什麼是",
+    "如何使用",
+    "更多AI工具",
+    "常見問題",
+    "行動呼籲"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "AIアプリ | Komiko",
+    "description": "Komikoのすべてのクリエイションツールを閲覧できます。"
+  },
+  "sections": {
+    "favorites": {
+      "title": "お気に入り",
+      "description": "スター登録したツールへすぐアクセスできます。",
+      "empty": "お気に入りはまだありません。アプリのスターをタップしてピン留めしてください。"
+    },
+    "allApps": {
+      "title": "すべてのツールを見る",
+      "description": "制作タイプから必要なツールを探せます。"
+    }
+  },
+  "buttons": {
+    "addFavorite": "お気に入りに追加",
+    "removeFavorite": "お気に入りから削除"
+  },
+  "hero": {
+    "eyebrow": "クリエイター向けツールキット",
+    "title": "AIアプリ",
+    "description": "ビジュアルストーリーを形にするためのオールインワンスイート。"
+  },
+  "filters": {
+    "categories": {
+      "all": "すべてのツール",
+      "illustration": "イラスト・画像",
+      "animation": "アニメーション・動画",
+      "comic": "コミック・マンガ"
+    }
+  }
+}

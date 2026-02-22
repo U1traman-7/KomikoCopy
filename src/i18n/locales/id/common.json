@@ -1,0 +1,1641 @@
+{
+  "copyright": "Hak cipta © {{currentYear}} Caffelabs. Semua hak dilindungi undang-undang.",
+  "dashboard": {
+    "main_nav_documentation": "Dokumentasi",
+    "main_nav_support": "Dukungan",
+    "sidebar_nav_clusters": "Klaster",
+    "sidebar_nav_billing": "Penagihan",
+    "sidebar_nav_settings": "Pengaturan",
+    "title_text": "Buat dan kelola klaster Anda."
+  },
+  "marketing": {
+    "introducing": "Memperkenalkan Saasfly",
+    "get_started": "Mulai",
+    "price_features": "Hemat biaya untuk lingkungan produksi.",
+    "main_nav_features": "Fitur",
+    "main_nav_pricing": "Harga",
+    "main_nav_create_comics": "Taman Kreatif",
+    "main_nav_products": "Produk",
+    "main_nav_blog": "Blog",
+    "main_nav_partners": "Mitra",
+    "main_nav_documentation": "Dokumentasi",
+    "login": "Masuk",
+    "signup": "Daftar"
+  },
+  "price": {
+    "title": "Harga Terjangkau dan Transparan!",
+    "pricing": "Harga",
+    "slogan": "Mulai dengan Kecepatan Penuh!",
+    "monthly_bill": "Tagihan Bulanan",
+    "annual_bill": "Tagihan Tahunan",
+    "annual_info": "Ditagih setiap tahun",
+    "monthly_info": "Ditagih setiap bulan",
+    "mo": "/bulan",
+    "contact": "Untuk menghubungi tim dukungan kami.",
+    "contact_2": "Anda dapat menguji langganan tanpa biaya.",
+    "faq": "Pertanyaan yang Sering Diajukan",
+    "faq_detail": "Jelajahi FAQ komprehensif kami untuk menemukan jawaban cepat atas pertanyaan umum. Jika Anda memerlukan bantuan lebih lanjut, jangan ragu untuk menghubungi kami untuk bantuan yang dipersonalisasi.",
+    "signup": "Daftar",
+    "upgrade": "Tingkatkan",
+    "manage_subscription": "Kelola Langganan",
+    "go_to_dashboard": "Buka Dasbor"
+  },
+  "nav": {
+    "features": "Fitur",
+    "ai_comic_generator": "Generator Komik AI",
+    "pricing": "Harga",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "partners": "Mitra",
+    "menu": "Menu",
+    "ai_anime_generator": "Penghasil Anime AI",
+    "anigen_competition": "Kompetisi AniGen",
+    "video_to_video": "AI Video ke Video",
+    "layer_splitter": "Pemecah Layer",
+    "ai-talking-head": "AI Kepala Berbicara",
+    "professional_artists": "Untuk Seniman",
+    "oc_maker": "Pembuat OC",
+    "playground": "Ruang Bermain Gambar",
+    "ai_expression_changer": "Pengubah Ekspresi AI"
+  },
+  "footer": {
+    "pricing": "Harga",
+    "ai_comic_generator": "Generator Komik AI",
+    "logo_alt": "Logo KomikoAI AI",
+    "twitter_aria": "Twitter",
+    "twitter_alt": "Twitter",
+    "tiktok_aria": "TikTok",
+    "tiktok_alt": "TikTok",
+    "ai_tools": "Alat AI",
+    "description": "Buat karakter Anda, hidupkan fandom Anda — semuanya di KomikoAI.",
+    "ai_models": "Model AI",
+    "all_tools": "Semua Alat",
+    "comic_tools": "Alat Komik",
+    "illustration_tools": "Alat Ilustrasi",
+    "animation_tools": "Alat Animasi",
+    "learn_more": "Pelajari Lebih Lanjut",
+    "terms": "Ketentuan layanan",
+    "privacy": "Kebijakan privasi",
+    "languages": "Bahasa",
+    "carbon_removal": "Pengurangan Karbon",
+    "blog": "Blog",
+    "partners": "Mitra",
+    "claim_site": "KomikoAI adalah produk independen dari Story Engine Inc. Ini tidak berafiliasi dengan NHN comico Corp. atau NHN comico KOREA Corp."
+  },
+  "layer_options": {
+    "send_to_back": "Pindahkan ke Lapisan Bawah",
+    "send_backward": "Pindahkan Satu Lapisan ke Bawah",
+    "send_forward": "Pindahkan Satu Lapisan ke Atas",
+    "send_to_front": "Pindahkan ke Lapisan Atas"
+  },
+  "ai_tools": {
+    "comic_generation": {
+      "title": "Hasilkan Komik, Manga, dan Kartun",
+      "create_character": {
+        "title": "Pembuat Karakter",
+        "content": "Rancang karakter asli untuk bercerita."
+      },
+      "create_on_canvas": {
+        "title": "Komik Kanvas",
+        "content": "Ciptakan komik Anda dari awal di kanvas kosong."
+      },
+      "ai_comic_generator": {
+        "title": "Generator Komik AI",
+        "content": "Masukkan ide dan buat komik dalam hitungan detik."
+      },
+      "ai_comic_factory": {
+        "title": "Pabrik Komik AI"
+      },
+      "ai_manga_maker": {
+        "title": "Pembuat Manga AI"
+      },
+      "ai_manhwa_generator": {
+        "title": "Generator Manhwa AI"
+      },
+      "ai_manga_generator": {
+        "title": "Generator Manga AI"
+      },
+      "ai_comic_strip_generator": {
+        "title": "Generator Strip Komik AI"
+      },
+      "ai_comic_book_generator": {
+        "title": "Generator Buku Komik AI"
+      },
+      "ai_comic_maker": {
+        "title": "Pembuat Komik AI"
+      },
+      "ai_storyboard_generator": {
+        "title": "Generator Papan Cerita AI"
+      },
+      "free_ai_comic_strip_maker": {
+        "title": "Pembuat Strip Komik AI Gratis"
+      },
+      "nsfw_ai_comic_generator": {
+        "title": "Generator Komik AI NSFW"
+      },
+      "ai_marvel_comic_generator": {
+        "title": "Generator Komik Marvel AI"
+      },
+      "batman_comic_ai_generator": {
+        "title": "Generator Komik Batman AI"
+      },
+      "dc_comic_ai_generator": {
+        "title": "Generator Komik DC AI"
+      },
+      "ai_porn_comic_generator": {
+        "title": "Generator Komik Porno AI"
+      },
+      "ai_erotic_comic_generator": {
+        "title": "Generator Komik Erotis AI"
+      },
+      "boomer_comic_ai_generator": {
+        "title": "Generator Komik Boomer AI"
+      },
+      "anime_manga_ai_generator": {
+        "title": "Generator Anime Manga AI"
+      },
+      "ai_webtoon_generator": {
+        "title": "Generator Webtoon AI"
+      }
+    },
+    "illustration": {
+      "title": "Bantu Seni, Ilustrasi, dan Papan Cerita",
+      "line_art_colorization": {
+        "title": "Pewarnaan Seni Garis",
+        "content": "Tambahkan warna pada seni garis dan sketsa Anda."
+      },
+      "background_removal": {
+        "title": "Penghapusan Latar Belakang",
+        "content": "Hapus latar belakang dari gambar menggunakan AI."
+      },
+      "image_upscaling": {
+        "title": "Peningkatan Resolusi Gambar",
+        "content": "Tingkatkan resolusi gambar Anda menggunakan AI."
+      },
+      "image_relighting": {
+        "title": "Pencahayaan Ulang Gambar",
+        "content": "Cahaya gambar Anda kembali menggunakan AI."
+      },
+      "photo_to_anime": {
+        "title": "Foto ke Anime",
+        "content": "Ubah foto Anda menjadi gaya anime dan lainnya."
+      },
+      "ai_playground": {
+        "title": "Ruang Bermain Ilustrasi",
+        "content": "Ubah foto menjadi anime, manga, kartun, dan lebih dari 30 gaya seni lainnya."
+      },
+      "frame_pack_ai_video_generator": {
+        "title": "Generator Video AI FramePack"
+      },
+      "vidu_ai_video_generator": {
+        "title": "Vidu Q1 Pembuat Video"
+      },
+      "magi_1_video_generator": {
+        "title": "Magi-1 Pembuat Video"
+      },
+      "ai-anime-generator": {
+        "title": "Generator AI Anime"
+      },
+      "ai_anime_generator": {
+        "title": "Generator Seni AI",
+        "content": "Hasilkan gambar bergaya anime dengan karakter."
+      },
+      "sketch_simplification": {
+        "title": "Penyederhanaan Sketsa",
+        "content": "Ubah sketsa kasar menjadi seni garis yang bersih."
+      },
+      "talking_head": {
+        "title": "AI Kepala Bicara",
+        "content": "Ubah sketsa kasar menjadi seni garis yang bersih."
+      },
+      "veo3_video_generator": {
+        "title": "Veo3 Pembuat Video AI"
+      },
+      "ai_waifu_generator": {
+        "title": "Generator AI Waifu"
+      },
+      "ai_naruto_generator": {
+        "title": "Generator AI Naruto"
+      },
+      "random_genshin_character_generator": {
+        "title": "Generator Karakter Genshin Acak"
+      },
+      "dragon_ball_ai_generator": {
+        "title": "Generator AI Dragon Ball"
+      },
+      "pokemon_ai_generator": {
+        "title": "Generator AI Pokemon"
+      },
+      "ai_genshin_impact_generator": {
+        "title": "Generator AI Genshin Impact"
+      },
+      "one_piece_ai_generator": {
+        "title": "Generator AI One Piece"
+      },
+      "demon_slayer_ai_generator": {
+        "title": "Generator AI Demon Slayer"
+      },
+      "attack_on_titan_ai_generator": {
+        "title": "Generator AI Attack on Titan"
+      },
+      "jujutsu_kaisen_ai_generator": {
+        "title": "Generator AI Jujutsu Kaisen"
+      },
+      "my_hero_academia_ai_generator": {
+        "title": "Generator AI My Hero Academia"
+      },
+      "spy_x_family_ai_generator": {
+        "title": "Generator AI Spy x Family"
+      },
+      "league_of_legends_ai_generator": {
+        "title": "Generator AI League of Legends"
+      },
+      "ai_disney_pixar_generator": {
+        "title": "Generator AI Disney Pixar"
+      },
+      "marvel_ai_generator": {
+        "title": "Generator AI Marvel"
+      },
+      "sonic_ai_generator": {
+        "title": "Generator AI Sonic"
+      },
+      "ai_spiderman_generator": {
+        "title": "Generator AI Spiderman"
+      },
+      "anime_ai_generator": {
+        "title": "Generator AI Anime"
+      },
+      "anime_art_ai_generator": {
+        "title": "Generator AI Seni Anime"
+      },
+      "studio_ghibli_style_ai_image_generator": {
+        "title": "Generator Gambar AI Gaya Studio Ghibli"
+      },
+      "female_character_generator": {
+        "title": "Generator Karakter Perempuan"
+      },
+      "superhero_ai_generator": {
+        "title": "Generator AI Superhero"
+      },
+      "villain_maker": {
+        "title": "Pembuat Penjahat"
+      },
+      "villain_generator": {
+        "title": "Generator Penjahat"
+      },
+      "fantasy_character_ai_generator": {
+        "title": "Generator AI Karakter Fantasi"
+      },
+      "tim_burton_character_maker": {
+        "title": "Pembuat Karakter Tim Burton"
+      },
+      "dbz_ai_generator": {
+        "title": "Generator AI DBZ"
+      },
+      "ai_elf_generator": {
+        "title": "Generator AI Elf"
+      },
+      "ai_princess_generator": {
+        "title": "Generator AI Putri"
+      },
+      "ai_vampire_generator": {
+        "title": "Generator AI Vampir"
+      },
+      "ai_pirate_generator": {
+        "title": "Generator AI Bajak Laut"
+      },
+      "ai_couple_generator": {
+        "title": "Generator AI Pasangan"
+      },
+      "chibi_creator": {
+        "title": "Pembuat Chibi"
+      },
+      "chibi_ai_generator": {
+        "title": "Generator AI Chibi"
+      },
+      "ai_character_generator_from_text": {
+        "title": "Generator AI Karakter dari Teks"
+      },
+      "video_game_character_generator": {
+        "title": "Generator Karakter Video Game"
+      },
+      "ai_fantasy_art_generator": {
+        "title": "Generator AI Seni Fantasi"
+      },
+      "ai_world_generator": {
+        "title": "Generator AI Dunia"
+      },
+      "ai_landscape_generator": {
+        "title": "Generator AI Lanskap"
+      },
+      "ai_map_generator": {
+        "title": "Generator AI Peta"
+      },
+      "ai_village_generator": {
+        "title": "Generator AI Desa"
+      },
+      "ai_mansion_builder": {
+        "title": "Pembuat Mansion AI"
+      },
+      "ai_castle_generator": {
+        "title": "Generator AI Kastil"
+      },
+      "fantasy_island_generator": {
+        "title": "Generator Pulau Fantasi"
+      },
+      "city_map_maker": {
+        "title": "Pembuat Peta Kota"
+      },
+      "ai_skybox_generator": {
+        "title": "Generator AI Skybox"
+      },
+      "pop_art_creator": {
+        "title": "Pembuat Seni Pop"
+      },
+      "pop_art_generator": {
+        "title": "Generator Seni Pop"
+      },
+      "ai_watercolor_generator": {
+        "title": "Generator AI Akuarel"
+      },
+      "abstract_ai_art_generator": {
+        "title": "Generator AI Seni Abstrak"
+      },
+      "ai_renaissance_painting_generator": {
+        "title": "Generator AI Lukisan Renaisans"
+      },
+      "ai_oil_painter": {
+        "title": "Pelukis Minyak AI"
+      },
+      "ai_dark_art_generator": {
+        "title": "Generator AI Seni Gelap"
+      },
+      "ai_cartoon_generator_from_text_free": {
+        "title": "Generator AI Kartun dari Teks Gratis"
+      },
+      "ai_pencil_drawing_generator": {
+        "title": "Generator AI Gambar Pensil"
+      },
+      "ai_generated_coloring_pages": {
+        "title": "Halaman Mewarnai Hasil AI"
+      },
+      "ai_generated_collager": {
+        "title": "Kolase Hasil AI"
+      },
+      "ai_mural_generator": {
+        "title": "Generator Mural AI"
+      },
+      "glitch_art_generator": {
+        "title": "Generator Seni Glitch"
+      },
+      "ai_vaporwave_generator": {
+        "title": "Generator AI Vaporwave"
+      },
+      "ai_funko_pops_creator": {
+        "title": "Pembuat Funko Pops AI"
+      },
+      "ai_weapon_generator": {
+        "title": "Generator AI Senjata"
+      },
+      "sword_generator": {
+        "title": "Generator Pedang"
+      },
+      "ai_monster_generator": {
+        "title": "Generator AI Monster"
+      },
+      "bratz_ai_generator": {
+        "title": "Generator AI Bratz"
+      },
+      "ai_creature_generator": {
+        "title": "Generator AI Makhluk"
+      },
+      "ai_muppet_generator": {
+        "title": "Generator AI Muppet"
+      },
+      "ai_clothing_generator": {
+        "title": "Generator AI Pakaian"
+      },
+      "ai_jersey_generator": {
+        "title": "Generator AI Jersey"
+      },
+      "ai_t_shirt_designer": {
+        "title": "Desainer T-Shirt AI"
+      },
+      "midjourney_video_generator": {
+        "title": "Generator Video AI Midjourney"
+      },
+      "anime_character_generator": {
+        "title": "Generator Karakter Anime"
+      },
+      "vampire_oc_maker": {
+        "title": "Pembuat Vampire OC"
+      },
+      "anime_oc_maker": {
+        "title": "Pembuat Anime OC"
+      },
+      "perchance_ai_character_generator": {
+        "title": "Generator AI Karakter Perchance"
+      },
+      "genshin_oc_maker": {
+        "title": "Pembuat Genshin OC"
+      },
+      "genshin_oc_generator": {
+        "title": "Generator Genshin OC"
+      },
+      "naruto_oc_maker": {
+        "title": "Pembuat Naruto OC"
+      },
+      "demon_slayer_oc_maker": {
+        "title": "Pembuat Demon Slayer OC"
+      },
+      "pokemon_oc_maker": {
+        "title": "Pembuat Pokemon OC"
+      },
+      "jjk_oc_maker": {
+        "title": "Pembuat JJK OC"
+      },
+      "jujutsu_kaisen_oc_maker": {
+        "title": "Pembuat Jujutsu Kaisen OC"
+      },
+      "one_piece_oc_maker": {
+        "title": "Pembuat One Piece OC"
+      },
+      "one_piece_characters_generator": {
+        "title": "Generator Karakter One Piece"
+      },
+      "dragon_ball_oc_maker": {
+        "title": "Pembuat Dragon Ball OC"
+      },
+      "attack_on_titan_oc_maker": {
+        "title": "Pembuat Attack on Titan OC"
+      },
+      "aot_oc_maker": {
+        "title": "Pembuat AOT OC"
+      },
+      "my_hero_academia_oc_maker": {
+        "title": "Pembuat My Hero Academia OC"
+      },
+      "spy_x_family_oc_maker": {
+        "title": "Pembuat Spy x Family OC"
+      },
+      "sonic_oc_maker": {
+        "title": "Pembuat Sonic OC"
+      },
+      "league_of_legends_oc_maker": {
+        "title": "Pembuat League of Legends OC"
+      },
+      "nsfw_oc_maker": {
+        "title": "Pembuat NSFW OC"
+      },
+      "nsfw_character_creator": {
+        "title": "Pembuat Karakter NSFW"
+      },
+      "disney_oc_maker": {
+        "title": "Pembuat Disney OC"
+      },
+      "marvel_oc_maker": {
+        "title": "Pembuat Marvel OC"
+      },
+      "ai_marvel_character_generator": {
+        "title": "Generator AI Karakter Marvel"
+      },
+      "ai_action_figure_generator": {
+        "title": "Generator Figur Aksi AI"
+      },
+      "ai_character_sheet_generator": {
+        "title": "Generator Lembar Karakter AI"
+      },
+      "ai_doll_generator": {
+        "title": "Generator Boneka AI"
+      },
+      "anime_ai_filter": {
+        "title": "Filter Anime AI"
+      },
+      "studio_ghibli_ai_generator": {
+        "title": "Generator Studio Ghibli AI"
+      },
+      "studio_ghibli_filter": {
+        "title": "Filter Studio Ghibli"
+      },
+      "anisora_video_generator": {
+        "title": "Generator Video AniSora AI"
+      },
+      "ai_anime_porn_generator": {
+        "title": "Generator Pornografi Anime AI"
+      },
+      "furry_ai_generator": {
+        "title": "Generator Furry AI"
+      },
+      "ai_art_generator_nsfw": {
+        "title": "Generator Seni AI NSFW"
+      },
+      "ai_image_generator_to_create_a_webtoon_story": {
+        "title": "Generator Gambar AI untuk Membuat Cerita Webtoon"
+      },
+      "anime_ai_generator_nsfw": {
+        "title": "Generator Anime AI NSFW"
+      },
+      "nsfw_anime_ai_generator": {
+        "title": "Generator AI Anime NSFW"
+      },
+      "nsfw_ai_art_generator": {
+        "title": "Generator Seni AI NSFW"
+      },
+      "mlp_ai_generator": {
+        "title": "Generator MLP AI"
+      },
+      "my_little_pony_ai_generator": {
+        "title": "Generator My Little Pony AI"
+      },
+      "anime_pfp_maker": {
+        "title": "Pembuat PFP Anime"
+      },
+      "ai_game_asset_generator": {
+        "title": "Generator Aset Game AI"
+      },
+      "mlp_oc_maker": {
+        "title": "Pembuat OC MLP"
+      },
+      "my_little_pony_oc_maker": {
+        "title": "Pembuat OC My Little Pony"
+      },
+      "visual_novel_character_generator": {
+        "title": "Generator Karakter Novel Visual"
+      },
+      "random_video_game_character_generator": {
+        "title": "Generator Karakter Game Video Acak"
+      },
+      "moonvalley_ai_video_generator": {
+        "title": "Moonvalley AI Pembuat Video"
+      },
+      "marey_ai_video_generator": {
+        "title": "Marey AI Pembuat Video"
+      },
+      "lego_ai_filter": {
+        "title": "Filter Lego AI"
+      },
+      "photo_to_line_art": {
+        "title": "Foto ke Gambar Garis"
+      },
+      "photo_to_simpsons": {
+        "title": "Foto ke Gaya Simpsons"
+      },
+      "naruto_ai_filter": {
+        "title": "Filter AI Gaya Naruto"
+      },
+      "watercolor_ai_filter": {
+        "title": "Filter AI Gaya Aquarel"
+      },
+      "cyberpunk_filter": {
+        "title": "Filter Gaya Cyberpunk"
+      },
+      "emote_maker": {
+        "title": "Pembuat Emotikon"
+      },
+      "ai_sprite_sheet_generator": {
+        "title": "Generator Lembar Sprite AI"
+      },
+      "ai_emoji_generator": {
+        "title": "Generator Emoji AI"
+      },
+      "ai_emoticon_generator": {
+        "title": "Generator Emotikon AI"
+      },
+      "anime_sticker_maker": {
+        "title": "Pembuat Stiker Anime"
+      },
+      "ai_sticker_generator": {
+        "title": "Generator Stiker AI"
+      },
+      "ai_sprite_generator": {
+        "title": "Generator Sprite AI"
+      },
+      "ai_plush_generator": {
+        "title": "Generator Boneka AI"
+      },
+      "ai_badge_generator": {
+        "title": "Generator Lencana AI"
+      },
+      "ai_clay_filter": {
+        "title": "Filter Gaya Tanah Liat AI"
+      },
+      "photo_to_minecraft": {
+        "title": "Foto ke Gaya Minecraft"
+      },
+      "ai_style_transfer": {
+        "title": "Transfer Gaya AI"
+      },
+      "photo_to_pixel_art": {
+        "title": "Foto ke Seni Piksel"
+      },
+      "ai_cosplay_generator": {
+        "title": "Generator Cosplay AI"
+      },
+      "video_style_transfer": {
+        "title": "Transfer Gaya Video"
+      },
+      "video_to_anime_ai": {
+        "title": "Ubah Video ke Anime dengan AI"
+      },
+      "ai_video_to_animation": {
+        "title": "AI Video ke Animasi"
+      },
+      "convert_video_to_cartoon": {
+        "title": "Ubah Video menjadi Kartun"
+      },
+      "convert_video_to_sketch": {
+        "title": "Ubah Video menjadi Sketsa"
+      },
+      "claymation_ai_generator": {
+        "title": "Pembuat Claymation AI"
+      },
+      "ai_video_restyle": {
+        "title": "AI Gaya Ulang Video"
+      },
+      "change_video_style_ai": {
+        "title": "Ubah Gaya Video dengan AI"
+      },
+      "modify_video": {
+        "title": "Modifikasi Video"
+      },
+      "modify_with_instructions": {
+        "title": "Modifikasi dengan Panduan"
+      },
+      "cartoonize_video": {
+        "title": "Kartunkan Video"
+      },
+      "wan_video2video": {
+        "title": "Wan Video ke Video"
+      },
+      "domoai": {
+        "title": "DomoAI"
+      },
+      "ai_anime_video_generator": {
+        "title": "Pembuat Video Anime AI"
+      },
+      "ai_cartoon_video_generator": {
+        "title": "Pembuat Video Kartun AI"
+      },
+      "character_animation": {
+        "title": "Animasi Karakter"
+      },
+      "ai_video_generator": {
+        "title": "Pembuat Video AI"
+      },
+      "ai_image_to_video_generator": {
+        "title": "Pembuat Video dari Gambar AI"
+      },
+      "image_to_video_generator": {
+        "title": "Pembuat Video dari Gambar"
+      },
+      "all_in_one_ai_video_generator": {
+        "title": "Generator Video AI Serba Ada"
+      },
+      "ai_stick_figure_animation": {
+        "title": "Animasi Sosok Tongkat AI"
+      },
+      "hailuo_ai_video_generator": {
+        "title": "Pembuat Video AI Hailuo"
+      },
+      "hailuo_image_to_video": {
+        "title": "Video dari Gambar Hailuo"
+      },
+      "minimax_ai_video_generator": {
+        "title": "Pembuat Video AI MiniMax"
+      },
+      "vidu_image_to_video": {
+        "title": "Video dari Gambar Vidu"
+      },
+      "pixverse_ai_video_generator": {
+        "title": "Pembuat Video AI Pixverse"
+      },
+      "pixverse_image_to_video": {
+        "title": "Video dari Gambar Pixverse"
+      },
+      "kling_ai_video_generator": {
+        "title": "Pembuat Video AI Kling"
+      },
+      "kling_image_to_video": {
+        "title": "Video dari Gambar Kling"
+      },
+      "veo2_video_generator": {
+        "title": "Pembuat Video Veo2"
+      },
+      "veo2_image_to_video": {
+        "title": "Video dari Gambar Veo2"
+      },
+      "ray2_video_generator": {
+        "title": "Pembuat Video Ray2"
+      },
+      "ray2_image_to_video": {
+        "title": "Video dari Gambar Ray2"
+      },
+      "luma_video_generator": {
+        "title": "Pembuat Video Luma"
+      },
+      "luma_image_to_video": {
+        "title": "Video dari Gambar Luma"
+      },
+      "dream_machine_video_generator": {
+        "title": "Pembuat Video Mesin Impian"
+      },
+      "wan_ai_video_generator": {
+        "title": "Pembuat Video AI Wan"
+      },
+      "perchance_ai_video_generator": {
+        "title": "Pembuat Video AI Perchance"
+      },
+      "seedance_ai_video_generator": {
+        "title": "Pembuat Video AI Seedance 1.0"
+      },
+      "seedance_pro_ai_video_generator": {
+        "title": "Pembuat Video AI Seedance Pro"
+      },
+      "ai_video_generator_nsfw": {
+        "title": "Pembuat Video AI NSFW"
+      },
+      "nsfw_ai_video_generator": {
+        "title": "Pembuat Video AI NSFW"
+      },
+      "qwen_image_edit": {
+        "title": "Pengedit Gambar Qwen"
+      },
+      "waver_ai_video_generator": {
+        "title": "Generator Video AI Waver"
+      },
+      "replace_object_in_video": {
+        "title": "Ganti Objek dalam Video"
+      },
+      "replace_person_in_video_with_ai": {
+        "title": "Ganti Orang dalam Video dengan AI"
+      },
+      "video_restyle": {
+        "title": "Gaya Baru Video"
+      },
+      "ai_video_filter": {
+        "title": "Filter Video AI"
+      },
+      "ai_fairy_filter": {
+        "title": "Filter Peri AI"
+      },
+      "ai_fairy_video_generator": {
+        "title": "Pembuat Video Peri AI"
+      },
+      "cartoonify_video": {
+        "title": "Ubah Video ke Kartun"
+      },
+      "video_to_anime_converter": {
+        "title": "Konverter Video ke Anime"
+      },
+      "video_to_anime": {
+        "title": "Video ke Anime"
+      },
+      "video_to_anime_style_app": {
+        "title": "Aplikasi Gaya Video ke Anime"
+      },
+      "convert_video_to_animation_ai": {
+        "title": "Konversi Video ke Animasi AI"
+      },
+      "convert_video_to_anime_style_ai": {
+        "title": "Konversikan Video ke Gaya Anime AI"
+      },
+      "anime_style_transfer": {
+        "title": "Transfer Gaya Anime"
+      },
+      "video_to_cartoon": {
+        "title": "Video ke Kartun"
+      },
+      "video_cartoonizer": {
+        "title": "Pengkartunan Video"
+      },
+      "vid2vid": {
+        "title": "Vid2Vid"
+      },
+      "video2video": {
+        "title": "Video2Video"
+      },
+      "stylize_video_ai": {
+        "title": "Beri Gaya Video dengan AI"
+      },
+      "ai_style_transfer_video": {
+        "title": "Transfer Gaya Video AI"
+      },
+      "video_style_changer_ai": {
+        "title": "Pengubah Gaya Video AI"
+      },
+      "convert_skeleton_ai": {
+        "title": "Konversi Rangka AI"
+      },
+      "ghibli_style_video_converter": {
+        "title": "Konverter Video Gaya Ghibli"
+      },
+      "domoia": {
+        "title": "Domoia"
+      },
+      "wan_animate": {
+        "title": "Wan Animasi"
+      },
+      "vidu_q2": {
+        "title": "Vidu Q2"
+      },
+      "wan_25": {
+        "title": "Wan 2.5"
+      },
+      "ai_expression_changer": {
+        "title": "Pengubah Ekspresi AI",
+        "content": "Ubah ekspresi karakter Anda dengan mudah menggunakan preset kami."
+      },
+      "ai_adult_video": {
+        "title": "Video Dewasa AI"
+      },
+      "ai_kissing_video_generator": {
+        "title": "Pembuat Video Ciuman AI"
+      },
+      "ai_moving_image_generator": {
+        "title": "Pembuat Gambar Bergerak AI"
+      },
+      "make_image_move": {
+        "title": "Buat Gambar Bergerak"
+      },
+      "animation_ai": {
+        "title": "Animasi AI"
+      },
+      "image_animator": {
+        "title": "Animator Gambar"
+      },
+      "image_to_motion_ai": {
+        "title": "Dari Gambar ke Gerakan AI"
+      },
+      "animated_image_generator": {
+        "title": "Pembuat Gambar Animasi"
+      },
+      "animate_a_picture": {
+        "title": "Animasi sebuah Gambar"
+      },
+      "animate_a_photo": {
+        "title": "Animasi sebuah Foto"
+      },
+      "ai_transition_between_images": {
+        "title": "Transisi AI Antar Gambar"
+      },
+      "picture_to_video_ai": {
+        "title": "Dari Gambar ke Video AI"
+      },
+      "sexy_animation": {
+        "title": "Animasi Menarik"
+      },
+      "ai_cartoon_porn": {
+        "title": "Kartun Dewasa AI"
+      },
+      "animated_wallpaper_generator": {
+        "title": "Pembuat Wallpaper Animasi"
+      },
+      "pixel_art_animation": {
+        "title": "Animasi Seni Piksel"
+      },
+      "hug_ai_video_generator": {
+        "title": "Generator Video Hug AI"
+      },
+      "animate_sketch": {
+        "title": "Animasi Sketsa"
+      },
+      "veo_3_1": {
+        "title": "Veo 3.1"
+      },
+      "sora_2_video_generator": {
+        "title": "Sora 2 Pembuat Video"
+      },
+      "ai_anime_filter": {
+        "title": "Filter Anime AI"
+      },
+      "ai_aging_filter": {
+        "title": "Filter Penuaan AI"
+      },
+      "ai_caricature_maker": {
+        "title": "Pembuat Karikatur AI"
+      },
+      "ai_bald_filter": {
+        "title": "Filter Botak AI"
+      },
+      "ai_beard_filter": {
+        "title": "Filter Jenggot AI"
+      },
+      "ai_bikini": {
+        "title": "AI Bikini"
+      },
+      "ai_blonde_hair_filter": {
+        "title": "Filter Rambut Pirang AI"
+      },
+      "ai_cartoon_generator": {
+        "title": "Pembuat Kartun AI"
+      },
+      "ai_comic_book_filter": {
+        "title": "Filter Buku Komik AI"
+      },
+      "ai_fat_filter": {
+        "title": "Filter Gemuk AI"
+      },
+      "ai_lego_filter": {
+        "title": "Filter Lego AI"
+      },
+      "ai_magazine_cover_maker": {
+        "title": "Pembuat Sampul Majalah AI"
+      },
+      "ai_manga_filter": {
+        "title": "Filter Manga AI"
+      },
+      "ai_minecraft_generator": {
+        "title": "Pembuat Minecraft AI"
+      },
+      "ai_pop_art_filter": {
+        "title": "Filter Pop Art AI"
+      },
+      "ai_silhouette_maker": {
+        "title": "Pembuat Siluet AI"
+      },
+      "ai_skinny_filter": {
+        "title": "Filter Kurus AI"
+      },
+      "ai_simpsons_generator": {
+        "title": "Pembuat Simpsons AI"
+      },
+      "baby_filter": {
+        "title": "Filter Bayi"
+      },
+      "image_to_image_ai_generator": {
+        "title": "Pengubah Gambar ke Gambar AI"
+      },
+      "magazine_ai_generator": {
+        "title": "Pembuat Majalah AI"
+      },
+      "mugshot_generator": {
+        "title": "Pembuat Mugshot"
+      },
+      "photo_to_sketch": {
+        "title": "Foto ke Sketsa"
+      },
+      "pixar_ai_generator": {
+        "title": "Pembuat Pixar AI"
+      },
+      "ps2_ai_filter": {
+        "title": "Filter PS2 AI"
+      },
+      "seedance": {
+        "title": "TariBenih"
+      },
+      "ai_video_effects": {
+        "title": "Efek Video AI"
+      },
+      "ai_dance_video_generator": {
+        "title": "Pembuat Video Tari AI"
+      },
+      "text_to_video": {
+        "title": "Dari Teks ke Video"
+      },
+      "dance_video_generator": {
+        "title": "Pembuat Video Tari"
+      },
+      "nano_banana_2": {
+        "title": "Nano Pisang 2"
+      },
+      "wan_26": {
+        "title": "Wan 2.6"
+      }
+    },
+    "animation": {
+      "title": "Buat Video Animasi",
+      "image_to_animation": {
+        "title": "Gambar ke Animasi",
+        "content": "Hasilkan video animasi halus dari gambar."
+      },
+      "inbetweening": {
+        "title": "Bingkai Antara",
+        "content": "Buat frame animasi di antara keyframe."
+      },
+      "video_upscaling": {
+        "title": "Peningkatan Resolusi Video",
+        "content": "Tingkatkan resolusi video Anda."
+      },
+      "video_interpolation": {
+        "title": "Interpolasi Bingkai",
+        "content": "Buat video lebih halus dengan menambahkan frame tambahan."
+      },
+      "layer_splitter": {
+        "content": "Pisahkan gambar karakter menjadi komponen yang terpisah.",
+        "title": "Pemecah Lapisan"
+      },
+      "ai_talking_head": {
+        "title": "AI Kepala Bicara",
+        "content": "Buat karakter animasi berbicara dari gambar diam."
+      },
+      "video_to_video": {
+        "title": "Video ke Video",
+        "content": "Ubah video Anda ke dalam gaya berbeda dengan AI."
+      },
+      "text_to_video": {
+        "title": "Teks ke Video",
+        "content": "Menghasilkan video dari teks perintah."
+      },
+      "dance_video_generator": {
+        "title": "Pembuat Video Tari",
+        "content": "Membuat video tari dengan AI."
+      },
+      "animation_generator": {
+        "title": "Pembuat Animasi AI",
+        "content": "Buat video animasi yang mulus dari gambar atau teks."
+      }
+    },
+    "more": {
+      "title": "Dan Banyak Lagi",
+      "content": "Jelajahi rangkaian lengkap alat AI kami untuk komik, ilustrasi, dan animasi."
+    }
+  },
+  "gridIndex": "Kisi {{index}}",
+  "popularity": "Popularitas {{count}}",
+  "roleplay": "Bermain Peran",
+  "likes": "{{count}} Suka",
+  "following": "Mengikuti",
+  "follow": "Ikuti",
+  "post_card": {
+    "following": "Mengikuti",
+    "follow": "Ikuti",
+    "the_end": "—— Tamat ——",
+    "discover": "Temukan",
+    "more_stories": "Lebih Banyak Cerita",
+    "or_start": "Atau Mulai",
+    "creating_your_own": "Membuat Milik Anda Sendiri",
+    "comments": "Komentar",
+    "the_end_dash": "- Tamat -",
+    "prompts": "Prompt",
+    "prompt_copied": "Prompt Disalin ke Papan Klip",
+    "copy_prompt": "Salin Prompt",
+    "generate_more": "Hasilkan Lebih Banyak",
+    "no_prompts": "Tidak Ada Prompt yang Tersedia 😢",
+    "join_discussion": "Bergabung dalam Diskusi!",
+    "sharing_link_copied": "Tautan Berbagi Disalin! Bagikan dengan Teman Anda Sekarang!",
+    "image_downloaded": "Gambar Berhasil Diunduh!",
+    "download_failed": "Pengunduhan gagal, silakan coba lagi nanti.",
+    "download_image": "Unduh Gambar",
+    "copy_link": "Salin Tautan",
+    "more": "Lainnya",
+    "share_text": "Baru saja menemukan komik luar biasa ini \"{{title}}\"! Anda harus melihatnya!",
+    "delete": "Hapus",
+    "confirm_delete": "Konfirmasi Penghapusan",
+    "confirm_delete_message": "Apakah Anda yakin ingin menghapus postingan ini?",
+    "cancel": "Batal",
+    "delete_success": "Postingan berhasil dihapus",
+    "delete_failed": "Gagal menghapus postingan",
+    "create_yours": "Buat milikmu",
+    "try_the_tool": "Coba Alat Ini",
+    "prompt_hidden": "Prompt Tersembunyi",
+    "turn_into": "Ubah menjadi ",
+    "video_to": "Video ke ",
+    "expression": "Ekspresi",
+    "effect": "Dampak",
+    "dance_video_generator": "Pembuat Video Tarian",
+    "video_downloaded": "Video berhasil diunduh!",
+    "download": "Unduh",
+    "share": {
+      "twitter": "Lihat \"{{title}}\" oleh {{username}}, dibuat di @KomikoAI!\n\n{{content}}\n\n#AIart #AiAnime\n{{link}}",
+      "facebook": "Lihat \"{{title}}\" oleh {{username}}, dibuat di KomikoAI!\n\n{{content}}",
+      "reddit": "\"{{title}}\" oleh {{username}}, dibuat di KomikoAI",
+      "pinterest": "\"{{title}}\" oleh {{username}}, dibuat di KomikoAI",
+      "whatsapp": "Lihat \"{{title}}\" oleh {{username}}, dibuat di KomikoAI!\n{{link}}",
+      "telegram": "Lihat \"{{title}}\" oleh {{username}}, dibuat di KomikoAI!"
+    },
+    "menu": {
+      "tag_moderator": "Tandai Moderator",
+      "admin": "Admin",
+      "pin": "Sematkan",
+      "unpin": "Lepaskan Sematan",
+      "pin_global": "Sematkan (Global)",
+      "unpin_global": "Lepaskan Sematan (Global)",
+      "feature": "Tampilkan di Fitur",
+      "unfeature": "Sembunyikan dari Fitur",
+      "feature_global": "Tampilkan di Fitur (Global)",
+      "unfeature_global": "Sembunyikan dari Fitur (Global)",
+      "translate": "Terjemahkan",
+      "hide": "Sembunyikan",
+      "unhide": "Perlihatkan",
+      "report": "Laporkan",
+      "block_user": "Blokir @{{name}}",
+      "unblock_user": "Buka blokir @{{name}}"
+    },
+    "loading": "Sedang memuat...",
+    "reply1": "1 balasan",
+    "remix_count": "{{count}} Remiks",
+    "remix_count_one": "{{count}} Remix",
+    "remix_count_other": "{{count}} Remix",
+    "remix": "Campuran"
+  },
+  "uploadFile": {
+    "tapToUpload": "Ketuk untuk Mengunggah atau Seret Gambar Anda ke Sini",
+    "errors": {
+      "invalidExtension": "Silakan Pilih File dengan Ekstensi {{accept}}",
+      "selectImage": "Silakan Pilih Gambar",
+      "selectVideo": "Silakan Pilih Video",
+      "fileSize": "Ukuran file harus kurang dari {{limit}}MB",
+      "selectAudio": "Silakan pilih file audio",
+      "maxDuration": "Durasi maksimum: {{duration}} menit",
+      "safariVideoTooLong": "Untuk pengalaman terbaik di Safari, silakan gunakan video hingga 15 detik, atau coba gunakan Chrome untuk video yang lebih panjang!",
+      "audioSize": "Ukuran file audio harus kurang dari {{limit}}MB"
+    },
+    "dragAudio": "Tarik audio ke sini atau klik untuk unggah",
+    "supportedAudio": "Format yang didukung: MP3, WAV",
+    "warnings": {
+      "imageWillCompress": "Gambar melebihi {{limit}}MB dan akan dikompres secara otomatis",
+      "audioTooLarge": "File audio melebihi {{limit}}MB - ini dapat mempengaruhi kualitas pemrosesan"
+    },
+    "clickToUpload": "Klik untuk mengunggah atau lepaskan gambar Anda di sini"
+  },
+  "home": {
+    "create_story": {
+      "title": "Komik Baru",
+      "subtitle": "Hasilkan Gambar dan Buat Cerita",
+      "generate": {
+        "title": "Hasilkan",
+        "description": "Hasilkan komik dari prompt satu baris dalam hitungan detik"
+      },
+      "from_scratch": {
+        "title": "Dari Awal",
+        "description": "Mulai dengan kanvas kosong dan biarkan kreativitas Anda mengalir"
+      }
+    },
+    "create_character": {
+      "title": "Karakter Baru",
+      "subtitle": "Buat karakter untuk cerita Anda"
+    },
+    "create_animation": {
+      "title": "Permainan Peran Baru"
+    }
+  },
+  "result_card": {
+    "generating": "正在生成",
+    "video_not_supported": "您的浏览器不支持视频播放。",
+    "more_ai_tools": {
+      "title": "更多AI工具",
+      "description": "通过更多相关AI工具拓宽您的创意视野。",
+      "view_more": "查看更多AI工具"
+    },
+    "generated_by": "Dihasilkan oleh",
+    "tools": {
+      "remove_bg": "Hapus Latar Belakang",
+      "upscale": "Perbesar",
+      "anime_style": "Gaya Anime",
+      "animate": "Animasikan",
+      "video_upscale": "Perbesar Resolusi Video",
+      "video_interpolate": "Interpolasi Video",
+      "character_sheet": "Lembar Karakter",
+      "oc-maker": "Pembuat OC",
+      "line_art_colorization": "Pewarnaan Garis Seni",
+      "title": "Alat",
+      "character": "Karakter",
+      "restyle": "Ubah Gaya",
+      "add_text": "Tambahkan Teks",
+      "playground": "Ruang Bermain Ilustrasi",
+      "create_animation": "Buat Animasi Anda"
+    },
+    "generation_failed": "Gagal Membuat",
+    "generation_failed_desc": "Terjadi kesalahan saat pembuatan. Silakan coba lagi."
+  },
+  "logout": "Logout",
+  "create_character": "Buat Karakter",
+  "generate_image": "Buat Gambar",
+  "generate": "Buat",
+  "create_comic": "Buat Komik",
+  "generate_animation": "Buat Animasi",
+  "actions": {
+    "download": "Unduh",
+    "delete": "Hapus",
+    "publish": "Terbitkan",
+    "cancel": "Batalkan",
+    "confirm": "Konfirmasi",
+    "post": "Posting",
+    "share": "Bagikan",
+    "apply": "Terapkan",
+    "applying": "Sedang menerapkan...",
+    "generate": "Buat",
+    "generating": "Sedang membuat...",
+    "upload": "Unggah",
+    "uploading": "Sedang mengunggah...",
+    "extract": "Ekstrak",
+    "extracting": "Sedang mengekstrak...",
+    "download_layers": "Unduh Lapis",
+    "confirm_delete": "Konfirmasi Penghapusan",
+    "delete_warning": "Apakah Anda yakin ingin menghapus gambar ini?",
+    "show_more": "Tampilkan Lebih Banyak",
+    "show_less": "Tampilkan Lebih Sedikit"
+  },
+  "tools": {
+    "image-animation-generator": "Pembuat Animasi Gambar",
+    "video-upscaling": "Peningkatan Resolusi Video",
+    "video_upscaling": "Peningkatan Resolusi Video",
+    "photo-to-anime": "Ubah Foto ke Anime",
+    "background-removal": "Penghapusan Latar Belakang",
+    "image-upscaling": "Peningkatan Resolusi Gambar",
+    "video-interpolation": "Interpolasi Video",
+    "video_interpolation": "Interpolasi Video",
+    "ai-character-sheet-generator": "Pembuat Lembar Karakter",
+    "oc-maker": "Pembuat OC",
+    "oc_maker": "Pembuat OC",
+    "line_art_colorization": "Pewarnaan Garis Seni",
+    "character": "Karakter",
+    "restyle": "Ubah Gaya",
+    "layer_splitter": "Pemecah Layer",
+    "video_to_video": "Video ke Video AI",
+    "ai-talking-head": "AI Kepala Berbicara",
+    "video-to-video": "Video ke Video AI"
+  },
+  "toasts": {
+    "fetchFailed": "Pengambilan gagal",
+    "deleteSuccess": "Penghapusan berhasil",
+    "deleteFailed": "Penghapusan gagal",
+    "downloadFailed": "Pengunduhan gagal",
+    "processingSuccess": "Pemrosesan berhasil",
+    "processingFailed": "Pemrosesan gagal",
+    "uploadFailed": "Pengunggahan gagal",
+    "noVideoUrl": "URL video tidak disediakan",
+    "noZaps": "Silakan beli zap lebih banyak",
+    "mediaReceived": "Media diterima dari alat lain",
+    "extractFailed": "Gagal mengekstrak bingkai. Silakan coba lagi.",
+    "invalidResponse": "Respon tidak valid dari API.",
+    "timeout": "Operasi melebihi batas waktu.",
+    "missingData": "Data yang diperlukan tidak ada.",
+    "unexpectedFormat": "Format data tidak seperti yang diharapkan.",
+    "maxImagesReached": "Jumlah maksimum gambar telah dicapai",
+    "loginRequired": "Silakan masuk terlebih dahulu",
+    "cannotBlockSelf": "Anda tidak bisa memblokir diri sendiri",
+    "userBlocked": "Pengguna berhasil diblokir",
+    "userBlockedName": "Diblokir @{{name}}",
+    "userUnblocked": "Pengguna berhasil dibuka blokirnya",
+    "userUnblockedName": "Dibuka blokir @{{name}}",
+    "blockFailed": "Gagal memblokir pengguna",
+    "unblockFailed": "Gagal membuka blokir pengguna",
+    "alreadyReported": "Anda sudah melaporkan postingan ini",
+    "postReported": "Postingan berhasil dilaporkan",
+    "reportFailed": "Gagal melaporkan postingan"
+  },
+  "from_other_tools": "{{input_type}} diterima dari {{tools}}",
+  "input_types": {
+    "image": "Gambar",
+    "character": "Karakter",
+    "video": "Video"
+  },
+  "alt": {
+    "generated_image": "Gambar yang Dihasilkan"
+  },
+  "success": {
+    "copy": "Tersalin ke clipboard"
+  },
+  "unknown": "Tidak Diketahui",
+  "audioRecorder": {
+    "duration": "Durasi",
+    "recording": "Sedang merekam",
+    "preparing": "Sedang persiapan...",
+    "instructions": "Klik tombol di bawah untuk mulai merekam",
+    "stop": "Hentikan Perekaman",
+    "start": "Mulai Perekaman",
+    "record_new": "Rekam Audio Baru"
+  },
+  "error": {
+    "code": "Kode Kesalahan: {{code}}",
+    "requestId": "ID Permintaan: {{id}}",
+    "downloadFailed": "Unduhan gagal. Silakan coba lagi."
+  },
+  "video_tabs": {
+    "image_to_animation": "Gambar ke Animasi",
+    "video_to_video": "Video ke Video",
+    "talking_head": "Berbicara",
+    "image_to_video_sub": "Gambar ke Video",
+    "character_to_video_sub": "Karakter ke Video",
+    "text_to_animation": "Teks ke Animasi",
+    "image_or_text_to_video": "Gambar atau Teks ke Video",
+    "Dance": "Menari",
+    "Template": "Template",
+    "dance": "Tari",
+    "templates": "Templat",
+    "animation_generator": "Pembuat Animasi AI"
+  },
+  "sampleImage": "Gambar Contoh",
+  "sampleVideo": "Video Contoh",
+  "exampleResult": "Contoh Hasil",
+  "loading": "Sedang memuat...",
+  "create_character_short": "Karakter",
+  "generate_image_short": "Gambar AI",
+  "ai_comic": "Komik AI",
+  "generate_comic": "Buat Komik",
+  "generate_animation_short": "Video AI",
+  "magic_prompt": "Prompt Ajaib",
+  "results_card": {
+    "tools": {
+      "new_character": "Karakter Baru"
+    }
+  },
+  "nsfw": {
+    "title": "⚠️ Verifikasi Usia",
+    "message": "Bagian ini berisi konten untuk dewasa (18+). Anda harus berusia 18 tahun ke atas (atau usia dewasa di yurisdiksi Anda) untuk melanjutkan. Dengan mengklik \"Ya,\" Anda mengonfirmasi bahwa Anda setidaknya berusia 18 tahun dan secara hukum diizinkan untuk mengakses konten NSFW menurut hukum yurisdiksi Anda. KomikoAI mengandalkan sertifikasi dari Anda dan berhak meminta verifikasi lebih lanjut (seperti ID yang dikeluarkan pemerintah) kapan saja. Jika Anda memberikan informasi yang salah, Anda sepenuhnya bertanggung jawab atas konsekuensi hukum yang mungkin timbul.",
+    "yes": "Iya",
+    "no": "Tidak"
+  },
+  "network": {
+    "offline": "Luring",
+    "online": "Daring"
+  },
+  "max": "Maksimum",
+  "min": "Minimum",
+  "faq": "Pertanyaan yang Sering Diajukan",
+  "publicVisibility": {
+    "label": "Visibilitas Publik",
+    "tooltip": "Buat konten ini dapat terlihat oleh semua pengguna",
+    "popoverTitle": "Visibilitas",
+    "public": "Publik",
+    "publicDescription": "Siapapun dapat melihat dan menggunakannya",
+    "private": "Pribadi",
+    "privateDescription": "Hanya Anda yang dapat melihat dan menggunakannya",
+    "plusBadge": "PLUS"
+  },
+  "referenceImages": {
+    "modal": {
+      "title": "Gambar Referensi",
+      "description": "Anda dapat merujuk pada gambar referensi dengan namanya dalam prompt Anda. Klik tombol → untuk memasukkan nama secara langsung.",
+      "imageName": {
+        "label": "Nama",
+        "placeholder": "referensi"
+      },
+      "remove": "Hapus",
+      "close": "Tutup",
+      "addNew": {
+        "title": "Tambahkan Gambar Baru",
+        "subtitle": "Klik atau seret & lepaskan"
+      },
+      "premiumFeature": {
+        "title": "Fitur Premium",
+        "message": "Banyak gambar referensi adalah fitur premium. Tingkatkan sekarang untuk lebih mengembangkan karya Anda."
+      },
+      "removeAll": "Hapus semua",
+      "confirmRemoveAll": "Hapus semua gambar referensi?",
+      "insertSuccess": "Dimasukkan {{name}} ke dalam prompt",
+      "insertTooltip": "Masukkan ke dalam prompt",
+      "selectAll": "Pilih Semua",
+      "deleteAll": "Hapus Semua",
+      "deleteSelected": "Hapus Terpilih",
+      "deselectAll": "Batalkan Pilihan Semua",
+      "bulkInsert": "Masukkan Sekaligus",
+      "insertSelected": "Masukkan Terpilih",
+      "bulkInsertSuccess": "Nama karakter berhasil dimasukkan!",
+      "noSelection": "Silakan pilih setidaknya satu referensi",
+      "noValidNames": "Tidak ada nama valid untuk dimasukkan",
+      "deleted": "Dihapus {{count}} referensi",
+      "allDeleted": "Semua referensi dihapus",
+      "selected": "terpilih",
+      "maxImagesReached": "Maksimum {{max}} gambar diizinkan",
+      "fileTooLarge": "Ukuran file melebihi batas {{max}}",
+      "someFilesTooLarge": "Beberapa file melebihi batas ukuran {{max}}",
+      "totalSizeTooLarge": "Ukuran total melebihi batas {{max}}",
+      "unsupportedFormat": "Hanya format JPEG, PNG, dan WebP yang didukung",
+      "limits": "Batas: {{current}}/{{maxImages}} gambar • Maks {{maxSingleSize}}/file • Maks {{maxTotalSize}} total • Format: {{formats}}",
+      "dropHere": "Letakkan gambar di sini"
+    }
+  },
+  "characterAppearance": {
+    "referenceImage": {
+      "title": "Gambar Rujukan",
+      "description": "Unggah gambar rujukan untuk memandu penciptaan karakter",
+      "empty": "Belum ada gambar rujukan",
+      "add": "Tambah Gambar",
+      "images": "gambar",
+      "upgrade": "Premium",
+      "premiumInfo": "Anda dapat menambahkan gambar rujukan tanpa batas",
+      "freeLimit": "Pengguna gratis dapat menambahkan hingga {{limit}} gambar rujukan"
+    }
+  },
+  "referenceImage": {
+    "title": "Gambar Referensi",
+    "description": "Unggah gambar referensi untuk panduan pembuatan karakter",
+    "empty": "Belum ada gambar referensi",
+    "add": "Tambah Gambar",
+    "images": "gambar",
+    "upgrade": "Premium",
+    "freeLimit": "Pengguna gratis dapat menambahkan hingga {{limit}} gambar referensi",
+    "info": "{{count}}/9 gambar • Maks 25MB per file • Total 50MB",
+    "clearAll": "Bersihkan Semua",
+    "imageName": "Nama Gambar",
+    "placeholder": "Masukkan nama",
+    "insert": "Masukkan",
+    "maxImagesReached": "Maksimum {{max}} gambar diperbolehkan",
+    "dropHere": "Letakkan gambar di sini"
+  },
+  "examples": {
+    "inputLabel": "Masukan",
+    "outputLabel": "Keluaran",
+    "styleLabel": "Gaya",
+    "promptLabel": "Petunjuk"
+  },
+  "daily_check_in": {
+    "title": "Hadiah Harian",
+    "claim_button": "Klaim {{amount}} zap harian",
+    "upgrade_button": "Tingkatkan untuk klaim hingga {{amount}} zap gratis!",
+    "extra_rewards_tip": "Ketuk \"Hadiah\" di halaman profil Anda untuk mendapatkan hadiah tambahan!",
+    "christmas_banner_tip": "🎄 Buat Karya Seni, Dapatkan $150!",
+    "christmas_banner_tip_description": "Gunakan Zaps hari ini untuk membuat karya seni Natal Anda dan menangkan hingga $150 dalam hadiah Komiko!",
+    "christmas_reward_tip": "Santai Natal, Penawaran Ganda! Dua kali kesenangan, dua kali perasaan!",
+    "christmas_reward_btn_text": "Selamat Natal! Klaim 200 Zaps!",
+    "off50_yearly_deal": "Diskon 50% untuk Penawaran Tahunan!",
+    "join_now": "Bergabunglah dengan KomikoAI untuk merayakan suasana Tahun Baru & kejutan meriah! Penawaran berakhir pada 6 Januari!"
+  },
+  "hide_my_prompt": "Sembunyikan Permintaan Saya",
+  "hide_my_prompt_tooltip": "Permintaan ini tidak akan terlihat oleh orang lain. Tingkatkan untuk membuka akses.",
+  "magic_prompt_on": "Aktif",
+  "magic_prompt_off": "Nonaktif",
+  "magic_prompt_description": "Meningkatkan prompt awal Anda untuk meningkatkan variasi dan kekayaan gambar. Ini juga dapat menerjemahkannya ke dalam bahasa Inggris.",
+  "collections": "Kumpulan",
+  "explore_characters": "Telusuri Karakter",
+  "audio": "Audio",
+  "endFrame": "Bingkai Akhir",
+  "multipleReferences": "Banyak",
+  "NSFW": "NSFW",
+  "share_title": "Bagikan postingan ini dengan teman-teman Anda — ketika mereka bergabung, Anda berdua akan mendapatkan {{count}} Zaps!",
+  "settings": {
+    "title": "Pengaturan",
+    "privacy": "Pengaturan Privasi",
+    "language": "Preferensi Bahasa",
+    "subscription": {
+      "title": "Pengelolaan Langganan",
+      "manage": "Kelola Langganan",
+      "upgrade": "Tingkatkan Paket",
+      "currentPlan": "Paket Saat Ini: {{plan}}",
+      "noSubscription": "Tidak ada langganan yang aktif"
+    },
+    "nsfw": {
+      "enable": "Aktifkan NSFW",
+      "description": "Dengan mengaktifkan NSFW, Anda mengonfirmasi bahwa Anda setidaknya berusia 18 tahun. Konten NSFW memuat ketelanjangan, kekerasan, atau pornografi yang tidak cocok untuk dilihat di tempat kerja.",
+      "confirmTitle": "Konfirmasi Usia",
+      "iConfirm": "Saya Konfirmasi",
+      "nevermind": "Tidak Jadi"
+    },
+    "danger": {
+      "title": "Zona Berbahaya",
+      "description": "Hapus akun Komiko Anda secara permanen beserta semua data terkait. Tindakan ini tidak dapat dibatalkan.",
+      "delete": "Hapus Akun"
+    },
+    "blockedUsers": "Pengguna Diblokir",
+    "blockedUsersPage": {
+      "title": "Pengguna Diblokir",
+      "empty": "Tidak ada pengguna yang diblokir",
+      "emptyDescription": "Pengguna yang Anda blokir akan muncul di sini.",
+      "blockedOn": "Diblokir pada {{date}}",
+      "buttonUnblock": "Buka blokir",
+      "unblockConfirmTitle": "Buka blokir @{{name}}?",
+      "unblockConfirmDescription": "Mereka akan dapat melihat postingan dan komentar Anda lagi.",
+      "buttonCancel": "Batal"
+    }
+  },
+  "preset_tags": {
+    "all_posts": "Semua Postingan",
+    "featured": "Unggulan",
+    "templates": "Templat",
+    "animation": "Animasi",
+    "oc": "Karakter Asli",
+    "anime": "Anime",
+    "manga": "Manga",
+    "game": "Permainan",
+    "movie": "Film",
+    "ship": "Penggemar Pasangan",
+    "furry": "Furry",
+    "kawaii": "Imut",
+    "nsfw": "Dewasa",
+    "genshin_impact": "Genshin Impact",
+    "demon_slayer": "Pembasmi Iblis",
+    "spy_x_family": "Spy X Family",
+    "my_hero_academia": "Akademi Pahlawanku",
+    "pokemon": "Pokemon",
+    "hatsune_miku": "Hatsune Miku",
+    "jujutsu_kaisen": "Jujutsu Kaisen",
+    "frieren": "Frieren",
+    "naruto": "Naruto",
+    "one_piece": "One Piece",
+    "hazbin_hotel": "Hotel Hazbin",
+    "kpop_demon_hunters": "Pemburu Iblis K-Pop",
+    "marvel": "Marvel",
+    "chainsaw_man": "Chainsaw Man",
+    "re_zero": "Re:Zero",
+    "ai_apps": "Aplikasi AI",
+    "gay": "Gay",
+    "harbin_hotel": "Hotel di Harbin",
+    "husbando": "Husbando",
+    "lesbian": "Lesbian",
+    "waifu": "Waifu",
+    "gundam": "Gundam",
+    "cthulhu": "Cthulhu",
+    "komikoChristmas": "Natal Komiko",
+    "harry_potter": "Harry Potter",
+    "zootopia": "Zootopia",
+    "scenery": "Pemandangan",
+    "scifi": "Fiksi Ilmiah",
+    "bankai": "Bankai",
+    "dragon_ball": "Dragon Ball",
+    "umamusume": "Uma Musume",
+    "street_fighter": "Street Fighter",
+    "my_little_pony": "My Little Pony",
+    "zenless_zone_zero": "Zenless Zone Zero"
+  },
+  "change": "Ubah",
+  "bgmAvailableFor4SecondVideosOnly": "BGM hanya tersedia untuk video dengan durasi 4 detik",
+  "describe_video_effect": "Jelaskan video yang ingin Anda buat. Ketik @ untuk menyebutkan karakter.",
+  "mention_characters": "Deskripsikan konten yang ingin Anda buat. Ketik @ untuk menyebut karakter.",
+  "weekend_flash_promotion": {
+    "weekend_flash_title": "PROMO FLASH AKHIR PEKAN: Diskon 30% untuk Paket Tahunan!"
+  },
+  "set_tag": "Pengaturan Label",
+  "templates": "Templat",
+  "videoReference": {
+    "description": "Unggah gambar referensi untuk membuat video. Anda bisa mengunggah satu atau beberapa gambar, termasuk bingkai pertama dan bingkai terakhir.",
+    "limits": "Max {{maxImages}} gambar • Max 25MB per file • Format: JPEG, PNG, WebP",
+    "firstFrame": "Bingkai Pertama",
+    "addEndFrame": "Tambahkan Bingkai Terakhir",
+    "endFrameHint": "Untuk animasi dari bingkai pertama ke bingkai terakhir",
+    "endFrameInfo": "Tip: Anda dapat menambahkan bingkai akhir untuk membuat animasi dari bingkai pertama ke bingkai terakhir. Model yang mendukung fitur ini akan dipilih secara otomatis.",
+    "done": "Selesai"
+  },
+  "home_ai_video": {
+    "video_prompt_placeholder": "Deskripsikan efek video (Opsional). Ketik @ untuk menyebutkan karakter.",
+    "reference": "Referensi"
+  },
+  "multiImage": {
+    "maxReached": "Maksimal {{max}} gambar diperbolehkan",
+    "uploadPrompt": "Unggah {{min}}-{{max}} gambar",
+    "dragDropHint": "Klik atau seret & letakkan gambar di sini.",
+    "addMore": "Tambahkan lebih banyak gambar",
+    "imagesUploaded": "gambar",
+    "minRequired": "min {{min}} diperlukan"
+  },
+  "effects": "Dampak",
+  "block": {
+    "confirmBlockTitle": "Blokir @{{name}}?",
+    "confirmUnblockTitle": "Buka blokir @{{name}}?",
+    "unblockDescription": "Mereka akan dapat melihat postingan dan komentar Anda lagi.",
+    "blockDescription1": "Anda tidak akan melihat postingan satu sama lain di feed Anda",
+    "blockDescription2": "Anda tidak akan melihat komentar satu sama lain",
+    "blockDescription3": "Tindakan ini dapat dibatalkan",
+    "buttonBlock": "Blokir",
+    "buttonUnblock": "Buka blokir",
+    "buttonCancel": "Batal"
+  },
+  "report": {
+    "confirmTitle": "Laporkan postingan ini?",
+    "selectReason": "Silakan pilih alasan:",
+    "description": "Postingan ini akan disembunyikan dari feed Anda dan dilaporkan kepada moderator untuk ditinjau.",
+    "warning": "Penyalahgunaan fitur pelaporan dapat mengakibatkan pembatasan akun.",
+    "buttonReport": "Laporkan",
+    "buttonCancel": "Batal",
+    "reasons": {
+      "inappropriate": {
+        "label": "Konten Tidak Pantas",
+        "description": "Konten seksual, kekerasan, atau mengganggu"
+      },
+      "spam": {
+        "label": "Spam",
+        "description": "Konten berulang atau tidak diinginkan"
+      },
+      "hate_speech": {
+        "label": "Ujaran Kebencian",
+        "description": "Menyebarkan kebencian atau kekerasan terhadap kelompok"
+      },
+      "violence": {
+        "label": "Kekerasan",
+        "description": "Kekerasan grafis atau ancaman"
+      },
+      "copyright": {
+        "label": "Pelanggaran Hak Cipta",
+        "description": "Penggunaan materi berhak cipta tanpa izin"
+      },
+      "other": {
+        "label": "Lainnya",
+        "description": "Pelanggaran lain terhadap pedoman komunitas"
+      }
+    }
+  },
+  "time": {
+    "just_now": "Baru saja",
+    "minutes_ago": "{{count}} menit yang lalu",
+    "hours_ago": "{{count}} jam yang lalu",
+    "days_ago": "{{count}} hari yang lalu"
+  },
+  "ad_consent": {
+    "title": "Periklanan & Privasi",
+    "description": "Kami menggunakan iklan untuk mendukung layanan gratis kami. Untuk menyediakan konten iklan yang relevan, mitra iklan kami dapat mengumpulkan data berikut:",
+    "banner_text": "Kami menggunakan cookie dan iklan untuk mendukung layanan gratis kami. Dengan menerima, Anda mengizinkan kami mengumpulkan data untuk iklan yang dipersonalisasi.",
+    "learn_more": "Pelajari lebih lanjut",
+    "data": {
+      "browsing": "Kebiasaan penelusuran dan riwayat pencarian",
+      "preferences": "Preferensi pengguna dan interaksi konten",
+      "profile": "Profil pengguna (jenis paket)"
+    },
+    "note_title": "Harap dicatat:",
+    "note_content": "Anda dapat mengubah pilihan Anda kapan saja di Pengaturan. Menolak tidak akan mempengaruhi fitur utama situs web, tetapi iklan mungkin kurang relevan.",
+    "privacy_policy": "Untuk informasi lebih lanjut, silakan lihat",
+    "privacy_link": "Kebijakan Privasi",
+    "reject": "Tolak",
+    "accept": "Terima"
+  }
+}

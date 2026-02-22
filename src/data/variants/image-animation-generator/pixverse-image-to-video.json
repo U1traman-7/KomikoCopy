@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Pixverse Image to Video - KomikoAI",
+      "description": "Turn a single image into a cinematic video with Pixverse Image to Video. AI-powered motion, camera moves, lip-sync, and scene animation for anime, manga, manhwa, and illustrations.",
+      "fullDescription": "Pixverse Image to Video is an AI-powered image-to-video generator that transforms static images into dynamic, cinematic animations. Add motion, camera pans, 3D parallax, lip-sync, and VFX to artwork, manga, manhwa, anime frames, portraits, product shots, and more. Ideal for creators who want to convert images into videos for TikTok, YouTube Shorts, Instagram Reels, trailers, storyboards, and content marketing.",
+      "keywords": "Pixverse Image to Video, AI image to video, image to video generator, photo animation, animate image, AI video generator, image animation, still image to video, add motion to photo, animate anime, animate manga, animate manhwa, 3D parallax, camera motion, lip sync AI, video from image, turn picture into video, AI motion, video effects"
+    },
+    "hero": {
+      "title": "Pixverse Image to Video",
+      "description": "Instantly animate any image into a cinematic video with AI motion, camera moves, and lip-sync. Perfect for anime, manga, manhwa, and illustrations."
+    },
+    "whatIs": {
+      "title": "What is Pixverse Image to Video?",
+      "description": "Pixverse Image to Video is an AI image-to-video tool that converts a single frame into a dynamic video by predicting motion, animating elements, and simulating camera moves. It enhances static visuals with lifelike movement, depth, expressions, and effects, making it ideal for transforming artwork, character portraits, and panels into engaging short-form videos."
+    },
+    "examples": {
+      "title": "Image to Video Examples",
+      "description": "See how a single image becomes a dynamic shot with depth, motion, and cinematic camera movement—perfect for trailers, reels, and story scenes."
+    },
+    "howToUse": {
+      "title": "How to use Pixverse Image to Video",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Upload a high-quality image—artwork, anime frame, manga panel, manhwa page, or photo—to start animating."
+        },
+        {
+          "title": "Enter a Motion Prompt",
+          "content": "Describe the motion and mood: camera pan, parallax depth, hair and cloth movement, eye blink, lip-sync, lighting, or VFX."
+        },
+        {
+          "title": "Generate Video",
+          "content": "Click Generate to create an AI-powered video from your image, complete with motion, depth, and cinematic movement."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Export your video for TikTok, Reels, Shorts, or projects. Share instantly across platforms or use in edits and trailers."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Pixverse Image to Video?",
+      "description": "Create scroll-stopping videos from a single image with AI motion, camera moves, and expressive animation—no manual keyframing required.",
+      "features": [
+        {
+          "title": "AI Motion From One Image",
+          "content": "Generate smooth, realistic movement, from subtle facial animations to dynamic environmental motion.",
+          "icon": "🎞️"
+        },
+        {
+          "title": "Cinematic Camera Moves",
+          "content": "Add pans, zooms, and parallax depth to simulate 3D, turning flat art into immersive shots.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Animation-Ready for Anime & Comics",
+          "content": "Animate anime stills, manga panels, and manhwa artwork into trailers, intros, and looped scenes.",
+          "icon": "📚"
+        },
+        {
+          "title": "Creator-Friendly Workflow",
+          "content": "No animation skills needed—prompt the motion and get export-ready video in seconds.",
+          "icon": "⚡"
+        },
+        {
+          "title": "High-Quality Output",
+          "content": "Produce crisp, stable video suitable for social media, previews, and client work.",
+          "icon": "✨"
+        },
+        {
+          "title": "Perfect for Short-Form Video",
+          "content": "Optimize for TikTok, YouTube Shorts, and Reels to boost reach with animated posts.",
+          "icon": "📱"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Expert Guide to Pixverse Image to Video",
+      "description": "Everything needed to animate images into videos with AI motion and cinematic depth.",
+      "q1": "What is Pixverse Image to Video?",
+      "a1": "Pixverse Image to Video is an AI image-to-video generator that animates a single image with motion, depth, and camera movement for cinematic results.",
+      "q2": "How does Pixverse Image to Video work?",
+      "a2": "The system analyzes the image, predicts plausible motion, separates layers for depth, and renders frames with camera moves, lip-sync (if enabled), and VFX for a smooth video.",
+      "q3": "What content works best?",
+      "a3": "Clear subjects with defined edges—character portraits, anime frames, manga/manhwa panels, product photos, and stylized illustrations—produce the most stable animations.",
+      "q4": "Can I add lip-sync or facial animation?",
+      "a4": "Yes, add prompts for lip-sync, eye blinks, head turns, and expression changes to bring characters to life.",
+      "q5": "What formats are supported?",
+      "a5": "Common inputs like JPG and PNG are supported, and outputs are downloadable as MP4 for easy posting and editing.",
+      "q6": "Do I need animation skills?",
+      "a6": "No—simply upload, describe the motion, and generate. The AI handles interpolation, camera simulation, and timing.",
+      "q7": "How can I get smoother results?",
+      "a7": "Use high-resolution images, avoid heavy text or clutter, keep subjects centered, and write precise motion prompts with timing and camera directions.",
+      "q8": "Can I use the generated videos commercially?",
+      "a8": "Videos can be used for personal and commercial projects subject to the platform’s terms of service."
+    }
+  },
+  "originalKeyword": "Pixverse Image to Video",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Veo 3",
+      "description": "Prompt: A delicate feather rests on a fence post. A gust of wind lifts it, sending it dancing over rooftops. It floats and spins, finally caught in a spiderweb on a high balcony.",
+      "videoUrl": "/images/pages/veo3/example6.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: Anime-style battle scene. A young warrior with a glowing sword clashes with a giant, demonic monster with glowing eyes and sharp teeth. Fast-paced swordfight, sparks fly, intense close-ups. Ends with the hero slaying the monster in a dramatic final strike. Dark background, cinematic lighting, glowing particles.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/monster.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output4.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Veo 3",
+      "description": "Prompt: A woman, classical violinist with intense focus plays a complex, rapid passage from a Vivaldi concerto in an ornate, sunlit baroque hall during a rehearsal. Their bow dances across the strings with virtuosic speed and precision. Audio: Bright, virtuosic violin playing, resonant acoustics of the hall, distant footsteps of crew, conductor's occasional soft count-in (muffled), rustling sheet music.",
+      "videoUrl": "/images/pages/veo3/example4.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said “cute” using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    },
+    {
+      "id": 6,
+      "title": "Model: AniSora",
+      "description": "Prompt: The figures in the picture are sitting in a forward moving car waving to the rear, their hair swaying from side to side in the wind",
+      "videoUrl": "/images/pages/anisora/example1.webm"
+    }
+  ]
+}

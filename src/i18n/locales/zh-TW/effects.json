@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "動漫創作者喜愛的趣味效果",
+    "description": "找到您心儀的效果，即刻開始創作吧。",
+    "defaultDescription": "使用KomikoAI生成{{name}} {{type}}效果。上傳角色圖片，即可體驗AI {{name}}生成器的強大功能，只需短短幾秒。",
+    "eyebrow": "效果畫廊"
+  },
+  "meta": {
+    "keywords": "AI效果,動畫模板,影片效果,舞蹈動畫,圖片風格,komiko",
+    "title": "效果 | Komiko AI",
+    "description": "瀏覽所有AI效果與動畫創作模板。包含圖片風格、影片效果、舞蹈動畫等豐富內容。",
+    "titleTemplate": "{{name}} 工具"
+  },
+  "categories": {
+    "trending": {
+      "description": "當前最受歡迎的效果",
+      "title": "熱門"
+    },
+    "imageRestyle": {
+      "description": "將您的圖片轉換為多種藝術風格",
+      "title": "圖片重塑"
+    },
+    "merch": {
+      "description": "從您的角色生成獨家的周邊設計",
+      "title": "周邊工作室"
+    },
+    "movie": {
+      "description": "以電影風格重塑肖像",
+      "title": "電影"
+    },
+    "cosplay": {
+      "description": "打造驚艷的角色扮演和服裝設計",
+      "title": "角色扮演與服裝"
+    },
+    "dance": {
+      "description": "創建AI舞蹈影片動作",
+      "title": "舞蹈"
+    },
+    "featured": {
+      "title": "精選"
+    },
+    "art": {
+      "title": "藝術",
+      "description": "將肖像轉換為專業角色設計"
+    },
+    "videoRestyle": {
+      "title": "影片重塑",
+      "description": "將影片素材轉換為風格化動畫"
+    },
+    "game": {
+      "title": "遊戲",
+      "description": "創建遊戲風格的影片和場景"
+    },
+    "effects": {
+      "title": "影片效果",
+      "description": "應用動態影片效果及動畫"
+    },
+    "characterExpression": {
+      "title": "角色表情",
+      "description": "動態更改角色表情"
+    },
+    "funEffects": {
+      "title": "趣味效果",
+      "description": "有趣且娛樂的影片效果"
+    }
+  },
+  "whatIs": {
+    "title": "什麼是{{name}}生成器",
+    "defaultDescription": "AI {{name}} 生成器是一款AI工具，可以創建出{{name}} {{type}}效果。它是KomikoAI團隊設計的超過100種AI效果模板之一。您只需上傳一張角色圖片，然後讓AI施展魔法。"
+  },
+  "howToUse": {
+    "step1Title": "上傳圖片",
+    "step2Title": "選擇效果",
+    "step3Title": "生成",
+    "step4Title": "下載",
+    "title": "使用說明",
+    "step1": "請在上方上傳您的角色圖片",
+    "step2": "{{name}}效果已選定",
+    "step3": "點擊 \"生成動畫\" 並耐心等待結果",
+    "step4": "下載或分享您的作品"
+  },
+  "breadcrumb": {
+    "effects": "效果"
+  },
+  "buttons": {
+    "useTemplate": "使用模板",
+    "preview": "預覽",
+    "close": "關閉",
+    "seeAll": "查看全部"
+  },
+  "empty": "未找到效果。",
+  "notFound": {
+    "title": "未找到效果",
+    "description": "無法找到效果 \"{{name}}\"。它可能已被移除或網址不正確。",
+    "browseAll": "瀏覽所有效果"
+  },
+  "moreTools": {
+    "title": "更多AI效果",
+    "description": "探索我們完整的AI效果與模板集合。",
+    "browseAll": "瀏覽所有效果"
+  },
+  "changeModal": {
+    "title": "切換效果"
+  },
+  "communityExamples": {
+    "title": "{{name}}效果範例",
+    "description": "所有由KomikoAI社群使用{{name}}效果創作的作品。",
+    "noExamples": "目前尚無社群範例可用。"
+  },
+  "types": {
+    "video": "影片",
+    "image": "圖片",
+    "dance": "舞蹈"
+  }
+}

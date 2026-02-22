@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Filtro de Argila com IA",
+      "description": "Transforme as suas fotos em obras de arte inspiradas na argila com a ajuda da IA! Crie arte digital exclusiva sem esforço. Experimente gratuitamente!",
+      "keywords": "Filtro de Argila com IA, transformação de fotos com IA, arte digital em argila, efeitos artísticos com IA, imagens de argila criadas com IA"
+    },
+    "hero": {
+      "title": "Filtro de Argila com IA"
+    },
+    "whatIs": {
+      "title": "O que é o Filtro de Argila com IA?",
+      "description": "O Filtro de Argila com IA é uma ferramenta avançada que utiliza inteligência artificial para converter as suas fotografias em obras de arte texturizadas no estilo da argila. Utilizando redes neurais de ponta, treinadas em diversos estilos artísticos, este gerador permite que os utilizadores concretizem as suas ideias visuais como esculturas de argila vívidas, mantendo a sensação intrincada da arte artesanal. Seja um artista experiente ou um criador curioso, o Filtro de Argila com IA oferece uma forma simples de experimentar e inovar."
+    },
+    "examples": {
+      "title": "Exemplos do Filtro de Argila com IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como utilizar o Filtro de Argila com IA",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a sua fotografia",
+          "content": "Comece por enviar uma imagem nítida e de alta resolução que gostaria de transformar. Imagens de entrada de maior qualidade produzem arte no estilo da argila mais impressionante."
+        },
+        {
+          "title": "Passo 2: Selecione o Modelo Claymation",
+          "content": "Selecione o modelo Claymation para transformar a sua fotografia com o estilo claymation."
+        },
+        {
+          "title": "Passo 3: Converter para Claymation",
+          "content": "Clique no botão ‘Transformar’ e deixe a nossa IA fazer o trabalho! Em instantes, a sua fotografia será renderizada como uma brilhante obra de arte em argila, pronta para ser utilizada."
+        },
+        {
+          "title": "Passo 4: Descarregue e partilhe",
+          "content": "Após estar satisfeito, descarregue a sua arte e partilhe-a nas redes sociais ou incorpore-a nos seus projetos. Mostre a sua criação do Filtro de Argila com IA!"
+        }
+      ],
+      "subtitle": "Siga estes passos simples para criar a sua arte exclusiva no estilo da argila sem esforço."
+    },
+    "benefits": {
+      "title": "Por que utilizar o Filtro de Argila com IA?",
+      "description": "Descubra as vantagens da nossa ferramenta de transformação de argila orientada por IA.",
+      "features": [
+        {
+          "title": "🎨 Estilos Únicos de Arte em Argila",
+          "content": "Crie facilmente obras de arte distintas no estilo da argila que se destacam com texturas e dimensões ricas."
+        },
+        {
+          "title": "⚡ Rápido e fácil de usar",
+          "content": "Transforme imagens em segundos com o mínimo de esforço – ideal para criativos que procuram resultados instantâneos."
+        },
+        {
+          "title": "🖼️ Usos versáteis",
+          "content": "Perfeito para artistas que necessitam de inspiração nova, profissionais de marketing que desejam criar conteúdo atraente ou amadores ansiosos por experimentar."
+        },
+        {
+          "title": "💽 Saídas de alta qualidade",
+          "content": "Desfrute de saídas de alta resolução adequadas para impressão e partilha digital sem sacrificar a qualidade."
+        },
+        {
+          "title": "🛠️ Recursos personalizáveis",
+          "content": "Ajuste as configurações para transformações personalizadas que se alinhem com a sua visão."
+        },
+        {
+          "title": "🌐 Junte-se a uma comunidade criativa",
+          "content": "Conecte-se com outros artistas e partilhe as suas criações, encontre inspiração e receba feedback sobre o seu trabalho."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Filtro de Argila com IA FAQ",
+      "description": "",
+      "q1": "O que é o Filtro de Argila com IA e como funciona?",
+      "a1": "O Filtro de Argila com IA utiliza algoritmos avançados de *machine learning* para transformar as suas imagens em obras de arte estilizadas como se fossem feitas de argila.",
+      "q2": "Como posso obter os melhores resultados com o Filtro de Argila com IA?",
+      "a2": "Selecione imagens nítidas e experimente diferentes estilos disponíveis para obter os melhores efeitos de argila.",
+      "q3": "O Filtro de Argila com IA é gratuito?",
+      "a3": "Sim, os recursos básicos do Filtro de Argila com IA são gratuitos, com opções *premium* disponíveis para funcionalidades avançadas.",
+      "q4": "O que torna o Filtro de Argila com IA único em comparação com outros geradores?",
+      "a4": "O seu foco na qualidade textural faz com que cada obra de arte pareça exclusivamente artesanal, oferecendo uma aparência distintamente orgânica.",
+      "q5": "Posso utilizar as minhas criações comercialmente?",
+      "a5": "Absolutamente! Pode usufruir das suas obras de arte no estilo da argila para usos comerciais, desde que cumpra as nossas políticas de utilização."
+    },
+    "cta": {
+      "title": "Comece a criar a sua arte em argila hoje mesmo",
+      "description": "Abrace a sua criatividade e veja as suas fotografias transformarem-se em impressionantes obras-primas de argila. Não espere – experimente o poder do Filtro de Argila com IA!",
+      "buttonText": "Transformar para Filtro de Argila com IA Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into AI Clay Filter style",
+  "originalKeyword": "AI Clay Filter",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "image": "/images/examples/playground/ai-clay-filter/example_1.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_2.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_3.webp",
+      "prompt": "Style: Clay Filter"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "image": "/images/examples/playground/ai-clay-filter/example_4.webp",
+      "prompt": "Style: Clay Filter"
+    }
+  ]
+}

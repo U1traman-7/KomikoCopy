@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Veo2 비디오 생성기 - KomikoAI",
+      "description": "Veo 2 비디오 생성기로 텍스트 및 이미지에서 놀라운 AI 생성 비디오를 제작해 보세요. 직관적인 프롬프트로 최대 4K 해상도의 고품질 시네마틱 클립을 즐길 수 있습니다.",
+      "fullDescription": "Google의 Veo2 비디오 생성기는 텍스트 프롬프트와 이미지를 최대 8초 길이의 역동적이고 사실적인 비디오 클립으로 변환하는 최첨단 AI 도구입니다. Imagen Video 기술을 포함한 고급 머신 러닝 모델을 기반으로 구축된 Veo2 비디오 생성기는 카메라 각도, 조명 및 효과를 정밀하게 제어하여 고해상도 시네마틱 비디오를 생성합니다. 마케팅, 콘텐츠 제작, 애니메이션 및 소셜 미디어 등 다양한 분야에서 활용 가능한 Veo2 비디오 생성기는 빠른 비디오 제작 속도, 전문가 수준의 품질, 그리고 폭넓은 활용성을 제공합니다.",
+      "keywords": "Veo 2 비디오 생성기, AI 비디오 생성, 텍스트-비디오 AI, 이미지-비디오 AI, Google Veo 2, 고품질 AI 비디오, 시네마틱 AI 비디오, AI 비디오 도구"
+    },
+    "hero": {
+      "title": "Veo2 비디오 생성기",
+      "description": "Google의 Veo 2를 사용하여 텍스트 프롬프트와 이미지를 고품질 시네마틱 AI 비디오로 변환하십시오. 전문가 수준의 디테일로 역동적인 클립을 즉시 생성할 수 있습니다."
+    },
+    "whatIs": {
+      "title": "Veo2 비디오 생성기란 무엇인가요?",
+      "description": "Veo 2는 Google에서 개발한 고급 AI 기반 비디오 생성 도구로서, 자연어 텍스트 프롬프트와 정지 이미지에서 짧고 고품질의 비디오를 생성하도록 설계되었습니다. Imagen Video와 같은 최첨단 머신 러닝 모델을 기반으로 하는 Veo 2는 최대 4K 해상도로 최대 8초 길이의 매끄럽고 사실적인 비디오를 생성합니다. 실제 물리 법칙, 영화 촬영 기법, 그리고 인체 움직임에 대한 정교한 이해를 바탕으로 시각적으로 매력적인 콘텐츠를 제공합니다. 이 도구는 전통적인 촬영이나 편집 과정 없이 전문가 수준의 비디오 콘텐츠를 신속하게 제작하고자 하는 크리에이터, 마케터 및 개발자에게 적합합니다."
+    },
+    "examples": {
+      "title": "Veo 생성 비디오 예시",
+      "description": "Veo로 제작된 비디오 예시를 살펴보십시오. 텍스트 프롬프트와 이미지가 소셜 미디어 및 전문 프로젝트에 적합한 역동적이고 고품질의 비디오 콘텐츠로 어떻게 변환되는지 확인해 보세요."
+    },
+    "howToUse": {
+      "title": "Veo2 비디오 생성기 사용 방법",
+      "steps": [
+        {
+          "title": "이미지 업로드",
+          "content": "애니메이션으로 만들고 싶은 이미지를 업로드하여 시작하십시오. 애니메이션 캐릭터, 만화 컷, 또는 코믹 그림 등 어떤 이미지든 저희 AI가 여러분의 작품에 생동감을 불어넣어 비디오로 만들어 드립니다."
+        },
+        {
+          "title": "프롬프트 제공",
+          "content": "비디오 제작을 위한 설명적인 프롬프트를 입력하십시오. AI가 묘사하기를 원하는 움직임, 표현 또는 액션에 대한 세부 정보를 상세히 작성해 주시면 됩니다."
+        },
+        {
+          "title": "비디오 생성",
+          "content": "‘비디오 생성’ 버튼을 클릭하는 것만으로 AI가 여러분의 정지 이미지를 생생한 애니메이션 비디오로 변환하는 과정을 확인하실 수 있습니다."
+        },
+        {
+          "title": "다운로드 및 사용자 정의",
+          "content": "생성된 비디오를 미리 보고, 원하는 버전을 다운로드하고, 필요에 따라 배경 음악이나 음향 효과를 추가하여 개선할 수 있습니다. 소셜 미디어 또는 마케팅 캠페인에서 공유하기에 완벽합니다."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Veo2 비디오 생성기를 선택해야 하는 이유",
+      "description": "Veo2 비디오 생성기가 전문적인 품질, 속도, 그리고 창의적인 유연성을 제공하는 AI 기반 기능으로 비디오 제작 과정을 어떻게 간소화하는지 알아보십시오.",
+      "features": [
+        {
+          "title": "고해상도 비디오 출력",
+          "content": "전문적이고 영화적인 용도에 적합한 최대 4K 해상도의 선명하고 섬세한 비디오를 제작하십시오.",
+          "icon": "🎥"
+        },
+        {
+          "title": "고급 텍스트-비디오 및 이미지-비디오 기능",
+          "content": "설명적인 텍스트에서 직접 비디오를 생성하거나, 이미지를 역동적인 비디오 클립으로 변환하여 시각적 효과를 극대화하십시오.",
+          "icon": "📝"
+        },
+        {
+          "title": "영화 같은 제어",
+          "content": "카메라 각도, 렌즈 유형, 초점 기술 및 영화적 효과를 지정하여 시각적으로 매력적인 장면을 연출하십시오.",
+          "icon": "🎞️"
+        },
+        {
+          "title": "빠른 비디오 생성",
+          "content": "몇 분 안에 비디오를 제작하여 기존 비디오 제작 방식과 비교했을 때 시간과 비용을 획기적으로 절감할 수 있습니다.",
+          "icon": "⚡"
+        },
+        {
+          "title": "현실적인 움직임 및 물리",
+          "content": "AI는 딥 러닝을 활용하여 자연스러운 인간의 움직임, 물리 법칙, 그리고 환경 효과를 시뮬레이션하여 현실감을 높입니다.",
+          "icon": "🤖"
+        },
+        {
+          "title": "다양한 사용 사례",
+          "content": "광범위한 리소스 없이 빠르고 고품질의 비디오 콘텐츠가 필요한 마케터, 콘텐츠 제작자, 교육자 및 영화 제작자에게 이상적인 솔루션입니다.",
+          "icon": "🌟"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Veo2 비디오 생성기에 대한 자주 묻는 질문",
+      "description": "Veo2 비디오 생성기 및 AI 비디오 생성 기능에 대한 가장 일반적인 질문과 답변을 모았습니다.",
+      "q1": "Veo2 비디오 생성기란 무엇인가요?",
+      "a1": "Veo2 비디오 생성기는 Google의 최첨단 AI 도구로서, 고급 머신 러닝 모델을 사용하여 텍스트 설명이나 이미지에서 고해상도 및 영화 품질의 짧은 비디오를 생성합니다.",
+      "q2": "Veo2 비디오 생성기는 텍스트 또는 이미지에서 어떻게 비디오를 생성하나요?",
+      "a2": "Veo2 비디오 생성기는 딥 러닝 기술을 사용하여 자연어 프롬프트와 시각적 입력을 해석하여 사실적인 비디오 프레임을 생성하고, 움직임, 카메라 효과 및 조명을 시뮬레이션합니다.",
+      "q3": "Veo2 비디오 생성기는 어떤 비디오 길이와 해상도를 지원하나요?",
+      "a3": "Veo2 비디오 생성기는 일반적으로 5~8초 사이의 비디오를 생성하며, 다양한 전문적 및 소셜 미디어 용도에 적합한 최대 4K 해상도를 지원합니다.",
+      "q4": "Veo2 비디오 생성기의 주요 사용 사례는 무엇인가요?",
+      "a4": "일반적인 응용 분야에는 소셜 미디어 클립, 제품 광고, 애니메이션 스토리텔링, 영화 프로토타입 제작, 그리고 교육 콘텐츠 제작 등이 있습니다.",
+      "q5": "Veo2 비디오 생성기를 사용하려면 기술적인 지식이 필요한가요?",
+      "a5": "특별한 기술이나 비디오 편집 지식은 필요하지 않습니다. 텍스트 또는 이미지를 입력하고 기본적인 설정을 사용자 정의한 다음, AI가 비디오를 생성하도록 맡기면 됩니다.",
+      "q6": "Veo2 비디오 생성기로 생성된 비디오는 상업적 용도로 사용해도 괜찮은가요?",
+      "a6": "예, Veo2 비디오 생성기로 생성된 비디오는 플랫폼의 약관 및 라이선스 계약에 따라 상업적으로 사용할 수 있습니다.",
+      "q7": "Veo2 비디오 생성기에는 어떤 제한 사항이 있나요?",
+      "a7": "현재 Veo2 비디오 생성기는 짧은 클립에 최적화되어 있으며, 더 길거나 매우 복잡한 비디오 구성을 지원하지 않을 수 있습니다. 최고 해상도 출력에는 높은 컴퓨팅 리소스가 요구됩니다."
+    }
+  },
+  "originalKeyword": "Veo2 Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "모델: Veo",
+      "description": "Prompt: A snow-covered plain of iridescent moon-dust under twilight skies. Thirty-foot crystalline flowers bloom, refracting light into slow-moving rainbows. A fur-cloaked figure walks between these colossal blossoms, leaving the only footprints in untouched dust..",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_veo_3_a-snow-covered-plain-of-iridescent-moon-dust-under-twilight-skie.mp4"
+    },
+    {
+      "id": 2,
+      "title": "모델: Veo",
+      "description": "Prompt:  A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_a-keyboard-whose-keys-are-made-of-different-types-of-candy-typin_1.mp4"
+    },
+    {
+      "id": 3,
+      "title": "모델: Veo",
+      "description": "Prompt:  Camping (Stop Motion): Camper: \"I'm one with nature now!\" Bear: \"Nature would prefer some personal space.\"",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_camping-stop-motion-camper-i-m-one-with-nature-now-bear-nature-w.mp4"
+    },
+    {
+      "id": 4,
+      "title": "모델: Veo",
+      "description": "Prompt: a cute monster dancing.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_50d36a35-c64c-4992-a506-07cd6353b701_A_monster_walking_202505121621_1.mp4"
+    },
+    {
+      "id": 5,
+      "title": "모델: Veo",
+      "description": "Prompt: a cute monster swimming underwater.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_e88815cd-4ac3-4f94-95a9-c242f64f914a_Cute_monster_swimming_202505121603_1.mp4"
+    },
+    {
+      "id": 6,
+      "title": "모델: Veo",
+      "description": "Prompt: a cute monster walking in a candy wonderland.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_0806b1b7-fc1f-4bba-8b90-febc755c3ba6_A_cute_monster_202505121604_0002_1.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "VEO"
+}

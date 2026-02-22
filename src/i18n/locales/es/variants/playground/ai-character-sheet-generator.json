@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Generador de Hojas de Personaje con IA",
+      "description": "Cree hojas de personaje únicas a partir de sus fotos al instante con nuestro Generador de Hojas de Personaje con IA. ¡Pruébelo gratis y libere su creatividad hoy mismo!",
+      "keywords": "Generador de Hojas de Personaje con IA, creador de personajes con IA, diseño de personajes con IA, generador de anime con IA, generador de arte digital"
+    },
+    "hero": {
+      "title": "Generador de Hojas de Personaje con IA"
+    },
+    "whatIs": {
+      "title": "¿Qué es el Generador de Hojas de Personaje con IA?",
+      "description": "El Generador de Hojas de Personaje con IA es una herramienta avanzada que convierte sus fotos en hojas de personaje imaginativas. Al aplicar estilos artísticos únicos y utilizar algoritmos sofisticados, resalta las características de su personaje, lo que ayuda en la narración, los juegos y las artes visuales."
+    },
+    "examples": {
+      "title": "Ejemplos del Generador de Hojas de Personaje con IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cómo usar el generador de hojas de personaje con IA",
+      "steps": [
+        {
+          "title": "Paso 1: Cargue su foto",
+          "content": "Cargue una foto de alta calidad que le gustaría transformar. Utilice nuestra sencilla función de arrastrar y soltar o haga clic en el botón de carga."
+        },
+        {
+          "title": "Paso 2: Seleccione la plantilla de Hoja de Personaje",
+          "content": "Seleccione la plantilla de Hoja de Personaje para transformar su foto con el estilo deseado."
+        },
+        {
+          "title": "Paso 3: Convierta a Hoja de Personaje",
+          "content": "Haga clic en 'Convertir a Hoja de Personaje'. Nuestra IA procesa su imagen y aplica el estilo seleccionado, mejorando las características clave para un resultado sorprendente."
+        },
+        {
+          "title": "Paso 4: Descargue y comparta su creación",
+          "content": "Una vez generada, descargue su hoja de personaje y compártala como desee: ¡ya sea en redes sociales, exhibiciones de arte o proyectos personales!"
+        }
+      ],
+      "subtitle": "Cree impresionantes hojas de personaje en poco tiempo con estos sencillos pasos."
+    },
+    "benefits": {
+      "title": "¿Por qué usar el generador de hojas de personaje con IA?",
+      "description": "Descubra las características que distinguen a nuestro generador para creadores.",
+      "features": [
+        {
+          "title": "🌟 Creaciones de personaje únicas",
+          "content": "Transforme sus fotos en hojas de personaje extraordinarias y únicas, perfectas para historias, juegos o como obras de arte independientes."
+        },
+        {
+          "title": "⚡ Rápido y sencillo",
+          "content": "Genere sus hojas de personaje en instantes: la velocidad de nuestra IA permite iteraciones de diseño rápidas."
+        },
+        {
+          "title": "🖥️ Experiencia de usuario intuitiva",
+          "content": "Diseñado para creadores de todos los niveles, nuestra interfaz sencilla le permite concentrarse en sus diseños sin problemas."
+        },
+        {
+          "title": "📊 Opciones de estilo versátiles",
+          "content": "Explore nuestras diversas plantillas que se adaptan a varios géneros artísticos, asegurando que sus creaciones coincidan con su visión."
+        },
+        {
+          "title": "💬 Interactúe con una comunidad creativa",
+          "content": "Únase a una vibrante comunidad de creadores. Comparta sus hojas de personaje, inspírese y fomente su trayectoria artística."
+        },
+        {
+          "title": "🚀 Perfecto para cualquier proyecto",
+          "content": "Ideal para proyectos profesionales, personales o creativos, el Generador de Hojas de Personaje con IA apoya cada esfuerzo creativo."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Generador de Hojas de Personaje con IA FAQ",
+      "description": "",
+      "q1": "¿Cómo funciona el Generador de Hojas de Personaje con IA?",
+      "a1": "Nuestra tecnología de IA utiliza algoritmos sofisticados para convertir fotos en hojas de personaje intrincadas, mejorando los rasgos y manteniendo la esencia del personaje.",
+      "q2": "¿Cómo puedo lograr los mejores resultados con el Generador de Hojas de Personaje con IA?",
+      "a2": "Utilice imágenes de alta resolución y elija estilos que resuenen con su concepto de personaje. No dude en experimentar para obtener diseños óptimos.",
+      "q3": "¿Es gratis usar el Generador de Hojas de Personaje con IA?",
+      "a3": "Sí. Las funciones básicas están disponibles de forma gratuita, con estilos y funciones premium opcionales para usuarios avanzados.",
+      "q4": "¿Qué distingue al Generador de Hojas de Personaje con IA de otras herramientas?",
+      "a4": "Nuestro enfoque en la creación de hojas de personaje únicas, junto con una experiencia de usuario intuitiva y estilos variados, nos distingue en el mundo del arte digital.",
+      "q5": "¿Puedo usar hojas de personaje generadas comercialmente?",
+      "a5": "Absolutamente. Puede usar sus hojas de personaje generadas por IA para proyectos comerciales siempre que revise los términos de uso."
+    },
+    "cta": {
+      "title": "¡Comience a crear arte de personajes con el Generador de Hojas de Personaje con IA hoy mismo!",
+      "description": "Sumérjase en el proceso creativo y diseñe personajes notables con nuestro Generador de Hojas de Personaje con IA. ¡Su aventura comienza aquí!",
+      "buttonText": "Transformar a Hoja de Personaje con IA Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into an AI Character Sheet",
+  "originalKeyword": "AI Character Sheet Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style:   Character Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Character Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Character Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Character Sheet"
+    }
+  ]
+}

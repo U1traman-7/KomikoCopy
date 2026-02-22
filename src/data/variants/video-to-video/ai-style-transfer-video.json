@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Style Transfer Video",
+      "description": "Elevate your videos with AI Style Transfer Video technology. Transform ordinary footage into anime, cartoon, manga, and manhwa styles while preserving original motion and timing.",
+      "keywords": "AI Style Transfer Video, anime style converter, cartoon video transformation, manga video style transfer, manhwa animation creator, artistic video generator, anime video tool, cartoon video maker, video stylization, style transfer technology"
+    },
+    "hero": {
+      "title": "AI Style Transfer Video"
+    },
+    "whatIs": {
+      "title": "What is AI Style Transfer Video?",
+      "description": "AI Style Transfer Video elevates ordinary footage into anime, cartoon, manga, and manhwa-style videos using advanced style transfer technology. This process involves styling a reference frame, then using it to transform your entire video while maintaining original motion and timing. Choose from over 100 styles, including Studio Ghibli anime, Korean manhwa, and Japanese manga."
+    },
+    "examples": {
+      "title": "AI Style Transfer Video Examples",
+      "description": "Experience how our AI Style Transfer Video morphs footage into striking anime, cartoon, manga, and manhwa styles while ensuring precise motion consistency utilizing advanced style transfer technology."
+    },
+    "howToUse": {
+      "title": "How to Use AI Style Transfer Video",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Choose any video file (MP4, MOV, AVI) up to 15 seconds and 50MB for processing. Files exceeding 15 seconds are trimmed for optimal style transfer."
+        },
+        {
+          "title": "Video Style Transfer Reference",
+          "content": "Our tool extracts the first frame and applies your desired style, establishing a guide for consistent transformation across the entire video."
+        },
+        {
+          "title": "Choose Your Artistic Style",
+          "content": "Select from 100+ preset styles like Studio Ghibli anime, Japanese manga, or Korean manhwa, or create custom styles using text prompts or reference images."
+        },
+        {
+          "title": "Generate Transformed Video",
+          "content": "Our AI Style Transfer Video transforms the entire footage using the styled reference frame while maintaining all original motions, expressions, and timing."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use AI Style Transfer Video",
+      "description": "Our AI Style Transfer Video offers motion preservation, extensive style options, and transparent pricing.",
+      "features": [
+        {
+          "title": "Motion Preservation Excellence",
+          "content": "The tool maintains all original motions, facial expressions, and timing while implementing your chosen style consistently across frames.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Expansive Style Options",
+          "content": "Select from a wide array of styles or create personalized transformations, making your artistic vision a reality.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Quality Professional Output",
+          "content": "Produce high-definition videos with smooth transitions and no artifacts, thanks to our specialized style transfer technology.",
+          "icon": "✨"
+        },
+        {
+          "title": "Flexible Cost System",
+          "content": "Enjoy transparent pricing, allowing you to experiment with different styles without incurring additional costs.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Simple Two-Step Workflow",
+          "content": "Easily transform videos with our user-friendly process: upload, style a frame, and generate your full video.",
+          "icon": "👌"
+        },
+        {
+          "title": "Automatic Video Optimization",
+          "content": "Smart processing optimizes your videos with automatic trimming, multiple format support, and duration-based pricing efficiency.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Explore common inquiries about AI Style Transfer Video and its groundbreaking technology.",
+      "q1": "What is AI Style Transfer Video?",
+      "a1": "AI Style Transfer Video is an AI tool that transforms videos into anime, cartoon, manga, and manhwa styles using advanced style transfer technology while preserving the original motion and timing.",
+      "q2": "How to use AI Style Transfer Video?",
+      "a2": "Using AI Style Transfer Video is simple! First, upload your video, then select your desired artistic style, and finally, generate your styled video. Discover the delightful transformation in just a few clicks and without requiring technical expertise.",
+      "q3": "How does AI Style Transfer Video work?",
+      "a3": "AI Style Transfer Video uses advanced neural networks to analyze and apply artistic styles to videos. By creating a styled reference frame and transforming the entire footage with motion consistency, it ensures an immersive and seamless video experience.",
+      "q4": "What is the best video style transfer generator?",
+      "a4": "KomikoAI provides the best video style transfer generator tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's AI Style Transfer Video, you can create captivating animations, making it perfect for content creators and artists.",
+      "q5": "Is the KomikoAI AI Style Transfer Video free online?",
+      "a5": "Yes, you can test out the AI Style Transfer Video on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with AI Style Transfer Video?",
+      "a6": "You can use AI Style Transfer Video on KomikoAI to create anime-style videos, cartoon transformations, manga-inspired animations, and manhwa-themed footage—all without losing original motion quality.",
+      "q7": "Can I use AI Style Transfer Video on my phone?",
+      "a7": "Yes, you can use AI Style Transfer Video as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from AI Style Transfer Video?",
+      "a8": "Yes, KomikoAI's AI Style Transfer Video allows you to export your generation in various formats, such as MP4, MOV, AVI, for easy sharing.",
+      "q9": "Why should I use AI Style Transfer Video?",
+      "a9": "Using AI Style Transfer Video can unleash your creative potential. Our tool allows you to create captivating video art, ensuring an immersive visual experience that maintains the integrity of motion and timing."
+    },
+    "cta": {
+      "title": "Transform Videos for FREE with Our AI Style Transfer Video Today!",
+      "description": "Create stunning anime and cartoon-style videos with advanced style transfer technology.",
+      "buttonText": "Try Our AI Style Transfer Video Free"
+    }
+  },
+  "placeholderText": "Generate AI Style Transfer Video style artwork",
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon Style",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Claymation Style",
+      "description": "Change Material | Transform original video into clay style"
+    }
+  ],
+  "originalKeyword": "AI Style Transfer Video",
+  "pageStructure": [
+    "examples",
+    "howToUse",
+    "whyUse",
+    "whatIs",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

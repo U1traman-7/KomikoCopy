@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI视频生成器 - KomikoAI",
+      "description": "利用我们的AI视频生成器，释放人工智能的潜力，将静态图像转化为引人入胜的动态视频。凭借简易的操作和先进的技术，轻松从您的艺术作品、漫画或插图中创建生动的动画。",
+      "fullDescription": "体验创新的AI视频生成器，它采用尖端AI技术，将静态图像转化为栩栩如生的动态视频。这款工具非常适合艺术家、内容创作者和动画爱好者，旨在轻松将您的插图和艺术作品变为现实。",
+      "keywords": "AI视频生成器, 视频生成器, 静态图像转视频, 动画生成器, AI驱动的视频工具, 动态视频创建, 从图像创建视频, 动漫视频生成器, 漫画视频生成器"
+    },
+    "hero": {
+      "title": "AI视频生成器",
+      "description": "利用我们的AI视频生成器，释放人工智能的潜力，将静态图像转化为引人入胜的动态视频。凭借简易的操作和先进的技术，轻松从您的艺术作品、漫画或插图中创建生动的动画。"
+    },
+    "whatIs": {
+      "title": "什么是AI视频生成器？",
+      "description": "AI视频生成器是一款强大的工具，它利用先进的AI技术，助您从静态图像创建令人惊叹的视频。它专为希望轻松为其艺术作品、角色和场景制作动画的艺术家和创作者而设计。"
+    },
+    "examples": {
+      "title": "AI视频示例",
+      "description": "探索由我们的AI视频生成器创作的精彩视频示例。见证静态图像转变为引人入胜的动态动画的魔力！"
+    },
+    "howToUse": {
+      "title": "如何使用AI视频生成器",
+      "steps": [
+        {
+          "title": "上传您的图像",
+          "content": "首先上传您希望转换为视频的图像。无论是插图、动漫角色还是漫画作品，我们的AI视频生成器都将赋予您的创作生动的动画效果。"
+        },
+        {
+          "title": "输入您的Prompt",
+          "content": "提供描述性的prompt，以便指导动画的生成。请详细说明您为图像设想的动作、表情或行为。"
+        },
+        {
+          "title": "生成您的视频",
+          "content": "点击“生成动画”按钮，观看我们的AI视频生成器实时从您的静态图像创建引人入胜的动态动画。"
+        },
+        {
+          "title": "下载并分享",
+          "content": "视频生成后，您可以轻松下载并在社交媒体平台或与您的观众分享。非常适合展示您的创意作品！"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "为什么要使用AI视频生成器？",
+      "description": "了解使用AI视频生成器从您的艺术作品、漫画和插图中创建令人惊叹的视频的优势。这种先进的工具让所有创作者都能轻松实现动画制作！",
+      "features": [
+        {
+          "title": "AI驱动的动画",
+          "content": "在视频生成中充分利用AI的力量。我们的智能算法能够无缝分析您的图像并生成动态视频。",
+          "icon": "🤖"
+        },
+        {
+          "title": "创建引人入胜的内容",
+          "content": "将静态图像转化为引人入胜的视频，非常适合社交媒体、作品展示和个人项目。",
+          "icon": "🎬"
+        },
+        {
+          "title": "用户友好的界面",
+          "content": "无需动画制作经验！只需上传您的图像，提供prompt，然后让我们的AI生成视频。",
+          "icon": "👌"
+        },
+        {
+          "title": "高效省时",
+          "content": "大幅缩短动画制作时间。AI视频生成器可以在瞬间生成令人惊叹的视频，从而节省您大量的手动工作时间。",
+          "icon": "⚡"
+        },
+        {
+          "title": "高质量输出",
+          "content": "创建专业级的视频。我们的AI确保流畅的运动和逼真的动画效果，完美适用于任何受众。",
+          "icon": "✨"
+        },
+        {
+          "title": "创作自由",
+          "content": "专注于您的创意，我们的AI视频生成器将处理技术性的动画过程，让您能够充分释放您的创作潜力。",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI视频生成器专家指南",
+      "description": "获取使用我们的AI视频生成器创建专业视频所需的所有见解。",
+      "q1": "什么是AI视频生成器？",
+      "a1": "AI视频生成器是一种利用人工智能为您的静态图像制作动画的复杂工具。它采用先进的算法来创建沉浸式视频，非常适合艺术家和数字创作者。",
+      "q2": "AI视频生成器如何工作？",
+      "a2": "我们的AI技术利用深度学习模型来解读您的图像和prompt。AI生成新的帧，产生流畅的动画、表情和动态视觉效果，从而提升您的内容。",
+      "q3": "使用AI视频生成器进行动画制作有哪些好处？",
+      "a3": "AI视频生成器提供了诸多优势：它可以加快视频制作速度，无需大量专业技能即可实现高质量的视频创建，能够轻松通过动画内容吸引观众，并且非常适合新手和经验丰富的创作者。",
+      "q4": "我可以使用AI视频生成器生成的视频进行商业用途吗？",
+      "a4": "是的，您可以将AI生成的视频用于个人和商业项目。请务必查看我们的服务条款以获取详细信息。",
+      "q5": "AI视频生成器支持哪些图像格式？",
+      "a5": "我们的AI视频生成器支持常见的图像格式，例如JPG和PNG。为了获得最佳效果，请使用高分辨率图像，以清晰地呈现您想要的动画效果。",
+      "q6": "哪种类型的内容最适合AI视频生成器？",
+      "a6": "AI视频生成器擅长处理插图、动漫、漫画和程式化的艺术作品。清晰的角色设计能够提高动画的质量。",
+      "q7": "我需要具备艺术技能才能使用AI视频生成器吗？",
+      "a7": "无需具备艺术技能！我们的AI视频生成器可以为您的现有图像制作动画，从而使每个人都能轻松使用，无论其背景如何。",
+      "q8": "AI视频生成器有哪些局限性吗？",
+      "a8": "尽管我们的AI视频生成器功能强大，但它仍存在一些局限性：复杂的动画可能需要额外的处理时间；在某些情况下，保持一致的艺术风格可能具有挑战性；并且高分辨率图像可能需要更多的计算资源。"
+    }
+  },
+  "originalKeyword": "AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型: Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 2,
+      "title": "模型: Veo 3",
+      "description": "Prompt: A medium shot, historical adventure setting: Warm lamplight illuminates a cartographer in a cluttered study, poring over an ancient, sprawling map spread across a large table. Cartographer: \"According to this old sea chart, the lost island isn't myth! We must prepare an expedition immediately!\"",
+      "videoUrl": "/images/pages/veo3/example8.webm"
+    },
+    {
+      "id": 3,
+      "title": "模型: Marey",
+      "description": "Prompt: Keyframing - Advanced keyframe animation and temporal control",
+      "videoUrl": "https://framerusercontent.com/assets/n2GMFj97mJ15e8X2Qulx9RRQNbs.mp4"
+    },
+    {
+      "id": 4,
+      "title": "模型: AniSora",
+      "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+      "videoUrl": "/images/pages/anisora/example3.webm"
+    },
+    {
+      "id": 5,
+      "title": "模型: Midjourney",
+      "description": "Prompt: Anime maid girl in frilly black and white uniform walking toward camera carrying tea tray, warm cafe lighting, soft focus background with customers, golden hour sunlight through windows, gentle approach movement",
+      "videoUrl": "/images/pages/midjourney/example3.webm"
+    },
+    {
+      "id": 6,
+      "title": "模型: Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output4.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ]
+}

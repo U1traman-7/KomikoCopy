@@ -1,0 +1,335 @@
+{
+  "title": "OC Maker - KomikoAI",
+  "meta": {
+    "description": "Buat OC dengan penampilan, kepribadian, dan latar belakang unik. Ciptakan karakter orisinal untuk komik, animasi, game, dan cerita dengan kekuatan AI.",
+    "keywords": "Pembuat OC, Karakter Orisinal, Generator OC, Generator Karakter Orisinal, Pembuat Karakter AI, Desain OC Anime, Pembuat Karakter Game, Generator Karakter AI"
+  },
+  "header": {
+    "title": "OC Maker",
+    "subtitle": "Ciptakan karakter orisinal (OC) Anda dengan kekuatan AI – hasilkan penampilan, kepribadian, dan latar belakang yang unik"
+  },
+  "characterAppearance": {
+    "title": "Penampilan Karakter",
+    "randomize": "Acak",
+    "placeholder": "Jelaskan detail OC Anda (contoh: 'gadis kucing, rambut biru, kacamata, pemalu')",
+    "aiOptimize": "Optimalkan dengan AI",
+    "referenceImage": {
+      "title": "Gambar Referensi (Opsional)",
+      "description": "Unggah gambar potret untuk membuat karakter dengan wajah yang mirip"
+    },
+    "placeholderVariant": "Rancang OC {{variantTitle}} Anda, misalnya, '{{examplePrompt}}'"
+  },
+  "gender": {
+    "male": "Pria",
+    "female": "Wanita",
+    "other": "Lainnya"
+  },
+  "actions": {
+    "generateCharacter": "Buat Karakter",
+    "generateMore": "Buat Lagi",
+    "finalizeDesign": "Sunting Selanjutnya",
+    "selectedCharacterOptions": "Tindakan untuk karakter terpilih"
+  },
+  "results": {
+    "empty": {
+      "title": "Karakter Anda akan Muncul di Sini",
+      "description": "Jelaskan penampilan karakter Anda dan klik \"Buat Karakter\" untuk menciptakan karakter orisinal Anda"
+    }
+  },
+  "whatIs": {
+    "title": "Apa itu OC Maker?",
+    "description": "OC Maker adalah alat AI yang memungkinkan Anda mendesain OC dengan bantuan AI. OC adalah singkatan dari Karakter Orisinal. Anda bisa membuat karakter orisinal dengan penampilan dan kepribadian unik."
+  },
+  "howItWorks": {
+    "title": "Buat OC dalam 4 Langkah Mudah",
+    "steps": {
+      "step1": {
+        "title": "Jelaskan OC Anda",
+        "content": "Jelaskan penampilan karakter Anda secara detail, termasuk fitur wajah, tipe tubuh, pakaian, dan aksesori"
+      },
+      "step2": {
+        "title": "Unggah Referensi",
+        "content": "Unggah gambar potret sebagai referensi untuk membuat karakter dengan wajah yang mirip"
+      },
+      "step3": {
+        "title": "Buat Karakter",
+        "content": "Klik 'Buat Karakter' untuk menciptakan karakter orisinal (OC) Anda"
+      },
+      "step4": {
+        "title": "Selesaikan Desain",
+        "content": "Pilih karakter favorit Anda dan klik 'Selesaikan Desain' untuk masuk ke halaman pengeditan informasi OC"
+      }
+    }
+  },
+  "examples": {
+    "title": "Contoh OC Maker",
+    "examples": {
+      "example1": {
+        "desc": "Penampilan: 1 gadis, rambut pirang, rambut keriting sangat panjang, mata ungu, hoodie ungu, rok lipit hitam, kaus kaki hitam, sepatu kets hitam, sayap hitam, menghadap ke depan"
+      },
+      "example2": {
+        "desc": "Penampilan: 1 anak laki-laki, rambut pirang, rambut pendek, mata biru, syal kuning, hoodie biru dengan ritsleting, pakaian kasual, celana hitam, sepatu pantofel hitam, menghadap ke depan"
+      },
+      "example3": {
+        "desc": "Penampilan: 1 gadis, telinga kucing, mata hijau, ekor kembar, rambut mint panjang, pakaian hijau dengan motif daun, stoking setinggi paha, aksesori berdaun, memegang busur, tanaman merambat, ekor kucing, gaya Genshin Impact"
+      },
+      "example4": {
+        "desc": "Penampilan: 1 anak laki-laki, rambut merah dan hitam, undercut, mata bercahaya biru, lengan robot, mantel hitam, pedang, memegang senjata, sepatu bot tempur, efek listrik"
+      }
+    }
+  },
+  "features": {
+    "title": "Mengapa Menggunakan OC Maker Bertenaga AI?",
+    "features": {
+      "feature1": {
+        "title": "✨ Hasil Berkualitas Profesional",
+        "content": "Buat desain karakter berkualitas studio tanpa keahlian artistik – AI kami memahami komposisi, pencahayaan, dan konsistensi gaya."
+      },
+      "feature2": {
+        "title": "🎨 Kebebasan Kreatif Tanpa Batas",
+        "content": "Eksperimen dengan kombinasi fitur, pakaian, dan gaya tanpa batas – sempurna untuk menemukan desain karakter ideal Anda."
+      },
+      "feature3": {
+        "title": "⚡ Hemat Waktu & Biaya",
+        "content": "Hasilkan desain karakter orisinal lengkap dalam hitungan detik, bukan jam atau hari kerja manual, sehingga menghemat waktu dan biaya komisi."
+      },
+      "feature4": {
+        "title": "🖼️ Dukungan Gambar Referensi",
+        "content": "Unggah gambar referensi untuk membuat karakter dengan fitur wajah yang mirip, memastikan OC Anda sesuai dengan visi Anda dengan sempurna."
+      },
+      "feature5": {
+        "title": "🔄 Pembuatan Multi-Gaya",
+        "content": "Buat karakter dalam berbagai gaya seni, dari anime dan manga hingga realistis dan bergaya – semuanya dengan antarmuka sederhana yang sama."
+      },
+      "feature6": {
+        "title": "🌟 Pengembangan OC Lengkap",
+        "content": "Selain penampilan, kembangkan profil karakter komprehensif termasuk sifat kepribadian, latar belakang, dan kemampuan unik."
+      }
+    }
+  },
+  "howToUse": {
+    "title": "Cara Menggunakan OC Maker",
+    "description": "Bebaskan kreativitas Anda dengan OC Maker AI kami dan desain karakter orisinal Anda dengan mudah. Visualisasikan penampilan OC Anda, dan gunakan untuk cerita, animasi, game, dan lainnya."
+  },
+  "faq": {
+    "question1": "Gaya karakter apa saja yang bisa saya buat dengan OC Maker ini?",
+    "answer1": "OC Maker kami mendukung 50+ gaya termasuk anime, manga, komik, makhluk fantasi, karakter game, dan gaya hibrida – sempurna untuk bercerita, RPG, dan animasi.",
+    "question2": "Bisakah saya menganimasikan karakter yang saya buat?",
+    "answer2": "Ya! Anda dapat menggunakan alat animasi AI kami untuk menghidupkan karakter Anda dengan gerakan dan ekspresi dinamis. Kunjungi https://komiko.app/image-animation-generator",
+    "question3": "Seberapa detail saya bisa membuat karakter orisinal saya?",
+    "answer3": "Sesuaikan 100+ atribut termasuk fitur wajah, tipe tubuh, tekstur pakaian, aksesori, dan sifat kepribadian melalui antarmuka bahasa alami kami.",
+    "question4": "Berapa resolusi gambar yang dihasilkan?",
+    "answer4": "Gambar karakter dibuat pada 768px × 1152px. Anda dapat menggunakan AI Image Upscaler KomikoAI untuk meningkatkan skala gambar ke resolusi yang lebih tinggi untuk penggunaan profesional.",
+    "question5": "Bisakah saya menggunakan karakter ini secara komersial?",
+    "answer5": "Ya! Anda dapat menggunakan karakter yang Anda buat untuk tujuan komersial, termasuk media digital dan cetak."
+  },
+  "popButton": {
+    "style": "Gaya",
+    "age": "Usia",
+    "body": "Tubuh",
+    "hair": "Rambut",
+    "eyes": "Mata",
+    "face": "Wajah",
+    "skin": "Kulit",
+    "top": "Atasan",
+    "bottom": "Bawahan",
+    "set": "Set",
+    "material": "Bahan",
+    "accessory": "Aksesori",
+    "gender": "Jenis Kelamin"
+  },
+  "prompts": {
+    "male": "Pria",
+    "female": "Wanita",
+    "other": "Lainnya",
+    "child": "Anak",
+    "teenager": "Remaja",
+    "mature": "Dewasa",
+    "middleAged": "Paruh Baya",
+    "elderly": "Lansia",
+    "athletic": "Atletis",
+    "muscular": "Berotot",
+    "curvy": "Berlekuk",
+    "slim": "Langsing",
+    "petite": "Kecil",
+    "stocky": "Kekar",
+    "tall": "Tinggi",
+    "short": "Pendek",
+    "scrawny": "Ceking",
+    "chubby": "Gempal",
+    "blackHair": "Rambut Hitam",
+    "brownHair": "Rambut Cokelat",
+    "blondeHair": "Rambut Pirang",
+    "redHair": "Rambut Merah",
+    "blueHair": "Rambut Biru",
+    "greenHair": "Rambut Hijau",
+    "purpleHair": "Rambut Ungu",
+    "pinkHair": "Rambut Merah Jambu",
+    "grayHair": "Rambut Kelabu",
+    "whiteHair": "Rambut Putih",
+    "maroonHair": "Rambut Marun",
+    "offWhiteHair": "Rambut Putih Langsat",
+    "silverHair": "Rambut Perak",
+    "straightHair": "Rambut Lurus",
+    "braids": "Kepang",
+    "ponytail": "Kuncir Kuda",
+    "twintails": "Dua Ekor",
+    "bun": "Sanggul",
+    "longHair": "Rambut Panjang",
+    "shortHair": "Rambut Pendek",
+    "wavyHair": "Rambut Bergelombang",
+    "curlyHair": "Rambut Keriting",
+    "frizzyHair": "Rambut Kusut",
+    "pigtails": "Kuncir",
+    "bald": "Botak",
+    "sidePartedHair": "Rambut Belah Samping",
+    "undercut": "Potongan Undercut",
+    "mohawk": "Mohawk",
+    "dreadlocks": "Rasta",
+    "spikyHair": "Rambut Berduri",
+    "bobCut": "Potongan Bob",
+    "mullet": "Mullet",
+    "mushroomCut": "Potongan Jamur",
+    "brownEyes": "Mata Cokelat",
+    "blueEyes": "Mata Biru",
+    "greenEyes": "Mata Hijau",
+    "redEyes": "Mata Merah",
+    "purpleEyes": "Mata Ungu",
+    "pinkEyes": "Mata Merah Jambu",
+    "grayEyes": "Mata Kelabu",
+    "freckles": "Bintik",
+    "dimple": "Lesung Pipi",
+    "beard": "Jenggot",
+    "mustache": "Kumis",
+    "scar": "Bekas Luka",
+    "tattoo": "Tato",
+    "fairSkin": "Kulit Cerah",
+    "tanSkin": "Kulit Sawo Matang",
+    "oliveSkin": "Kulit Zaitun",
+    "darkSkin": "Kulit Gelap",
+    "paleSkin": "Kulit Pucat",
+    "tShirt": "Kaos",
+    "vest": "Rompi",
+    "plaidShirt": "Kemeja Kotak-kotak",
+    "stripedShirt": "Kemeja Garis-garis",
+    "bohemianShirt": "Kemeja Bohemian",
+    "henleyShirt": "Kemeja Henley",
+    "hoodie": "Hoodie",
+    "knittedCardigan": "Kardigan Rajutan",
+    "labCoat": "Jas Laboratorium",
+    "leatherJacket": "Jaket Kulit",
+    "punkLeatherJacket": "Jaket Kulit Punk",
+    "varsityJacket": "Jaket Varsity",
+    "outdoorAdventureJacket": "Jaket Petualangan Luar Ruangan",
+    "poloShirt": "Kemeja Polo",
+    "knittedVest": "Rompi Rajut",
+    "schoolVest": "Rompi Sekolah",
+    "jeans": "Jeans",
+    "overalls": "Overall",
+    "suitPants": "Celana Setelan",
+    "casualPants": "Celana Santai",
+    "cargoPants": "Celana Cargo",
+    "capriPants": "Celana Kapri",
+    "wideLegPants": "Celana Lebar",
+    "pleatedSkirt": "Rok Lipit",
+    "pencilSkirt": "Rok Pensil",
+    "denimSkirt": "Rok Denim",
+    "beachShorts": "Celana Pendek Pantai",
+    "tracksuit": "Setelan Olahraga",
+    "pajamas": "Piyama",
+    "downJacket": "Jaket Tebal",
+    "schoolUniform": "Seragam Sekolah",
+    "raincoat": "Jas Hujan",
+    "eveningDress": "Gaun Malam",
+    "littleBlackDress": "Gaun Hitam Kecil",
+    "suit": "Jas",
+    "tuxedo": "Tuksedo",
+    "spacesuit": "Pakaian Antariksa",
+    "divingSuit": "Pakaian Selam",
+    "apron": "Celemek",
+    "studs": "Paku",
+    "tassels": "Rumbai",
+    "ruffles": "Ralye",
+    "lace": "Renda",
+    "zebraPrint": "Motif Zebra",
+    "plastic": "Plastik",
+    "headband": "Bando",
+    "hairpin": "Penyemat Rambut",
+    "hairAccessory": "Aksesori Rambut",
+    "crown": "Mahkota",
+    "corsage": "Korsase",
+    "weddingVeil": "Kerudung Pernikahan",
+    "angleWings": "Sayap Malaikat",
+    "tie": "Dasi",
+    "bowTie": "Dasi Kupu-kupu",
+    "scarf": "Syal",
+    "bow": "Pita",
+    "earrings": "Anting-anting",
+    "necklace": "Kalung",
+    "choker": "Choker",
+    "beret": "Topi Baret",
+    "baseballCap": "Topi Bisbol",
+    "knitHat": "Topi Rajut",
+    "topHat": "Topi Tinggi",
+    "sunHat": "Topi Matahari",
+    "bucketHat": "Topi Ember",
+    "featherHat": "Topi Berbulu",
+    "cowboyHat": "Topi Koboi",
+    "beanie": "Topi Kupluk",
+    "headscarf": "Kerudung",
+    "jewelry": "Perhiasan",
+    "diamonds": "Berlian",
+    "pearls": "Mutiara",
+    "glasses": "Kacamata",
+    "sunglasses": "Kacamata Hitam",
+    "steampunkGoggles": "Kacamata Steampunk",
+    "eyePatch": "Penutup Mata",
+    "aviatorSunglasses": "Kacamata Aviator",
+    "headphones": "Headphone",
+    "bracelet": "Gelang",
+    "kneeHighSocks": "Kaos Kaki Setinggi Lutut",
+    "boxingGloves": "Sarung Tinju",
+    "foxEars": "Telinga Rubah",
+    "catEars": "Telinga Kucing",
+    "rabbitEars": "Telinga Kelinci",
+    "wolfEars": "Telinga Serigala",
+    "mechanicalWatch": "Jam Mekanik",
+    "digitalWatch": "Jam Digital",
+    "quartzWatch": "Jam Quartz",
+    "animeColoring": "Pewarnaan Anime",
+    "chibi": "Chibi",
+    "pastelColors": "Warna Pastel",
+    "celShading": "Cel Shading",
+    "impasto": "Impasto",
+    "watercolor": "Cat Air",
+    "realistic": "Realistis",
+    "celluloid": "Seluloid",
+    "softServe": "Soft Serve",
+    "studioGhibli": "Studio Ghibli",
+    "lineart": "Seni Garis",
+    "cartoon": "Kartun",
+    "americanComic": "Komik Amerika",
+    "pixelArt": "Seni Piksel",
+    "cyberpunk": "Cyberpunk",
+    "genshinImpact": "Genshin Impact",
+    "jujutsuKaisen": "Jujutsu Kaisen",
+    "onePiece": "One Piece",
+    "naruto": "Naruto",
+    "demonSlayer": "Pembasmi Iblis",
+    "myHeroAcademia": "My Hero Academia",
+    "dragonBall": "Dragon Ball",
+    "sonic": "Sonic",
+    "marvel": "Marvel",
+    "minecraft": "Minecraft",
+    "mario": "Mario",
+    "vintageComic": "Komik Vintage",
+    "oilPainting": "Lukisan Minyak",
+    "furry": "Furry",
+    "figurine": "Patung Miniatur",
+    "vampire": "Vampir",
+    "mermaid": "Putri Duyung",
+    "elf": "Elf",
+    "angel": "Malaikat",
+    "demon": "Iblis"
+  }
+}

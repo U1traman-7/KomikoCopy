@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Creador de Emotes",
+      "description": "Genere emotes con IA utilizando nuestro Creador de Emotes. Cree emotes únicos a partir de sus fotos, pruébelo gratis y exprésese con variaciones artísticas hoy mismo.",
+      "keywords": "Creador de Emotes, Generar Emotes con IA, creador de emotes con IA, transformación artística impulsada por IA, generador de emotes únicos, emotes artísticos, generador de avatares digitales"
+    },
+    "hero": {
+      "title": "Creador de Emotes"
+    },
+    "whatIs": {
+      "title": "¿Qué es Creador de Emotes?",
+      "description": "Creador de Emotes es una herramienta especializada diseñada para transformar sus fotos en emotes atractivos y artísticos. Utilizando algoritmos sofisticados de IA, analiza y mejora sus imágenes, aplicando filtros que encarnan emociones divertidas y dinámicas. Ideal para crear avatares, stickers digitales o gráficos expresivos, el Creador de Emotes simplifica el proceso artístico a solo unos pocos clics."
+    },
+    "examples": {
+      "title": "Ejemplos de Creador de Emotes",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cómo Utilizar Creador de Emotes",
+      "steps": [
+        {
+          "title": "Paso 1: Suba Su Foto",
+          "content": "Seleccione y suba una foto en formato JPG o PNG que desee transformar en un emote."
+        },
+        {
+          "title": "Paso 2: Seleccione la plantilla de Chibi Stickers",
+          "content": "Seleccione la plantilla de Chibi Stickers para transformar su foto con el estilo de Chibi Stickers."
+        },
+        {
+          "title": "Paso 3: Convierta a Chibi Stickers",
+          "content": "Pulse 'Convertir a Emote' y observe cómo la IA da vida a su foto en el estilo elegido en cuestión de instantes."
+        },
+        {
+          "title": "Paso 4: Descargue y Comparta Su Creación",
+          "content": "Una vez que esté satisfecho, descargue su emote y compártalo en las redes sociales o utilícelo en sus proyectos digitales."
+        }
+      ],
+      "subtitle": "Pasos rápidos para comenzar a crear sus emotes personalizados."
+    },
+    "benefits": {
+      "title": "¿Por qué elegir el Generador de IA Creador de Emotes?",
+      "description": "Explore los beneficios diseñados para sus necesidades creativas.",
+      "features": [
+        {
+          "title": "🎉 Creación Rápida y Divertida",
+          "content": "Cree emotes distintivos que eleven sus proyectos creativos en cuestión de minutos."
+        },
+        {
+          "title": "✨ Estilos de Emote Únicos",
+          "content": "Acceda a una variedad de expresiones y temas, asegurando que sus emotes sean tan únicos como usted."
+        },
+        {
+          "title": "📷 Resultados de Alta Calidad",
+          "content": "Obtenga emotes de alta resolución perfectos para cualquier plataforma, manteniendo la calidad en impresiones y diseños digitales."
+        },
+        {
+          "title": "🔄 Amplias Aplicaciones",
+          "content": "Desde stickers digitales hasta avatares de juegos, el Creador de Emotes satisface diversas necesidades artísticas."
+        },
+        {
+          "title": "🤖 Impulsado por IA Avanzada",
+          "content": "Experimente transformaciones de fotos fluidas a través de nuestra potente tecnología de IA, produciendo emotes de calidad profesional."
+        },
+        {
+          "title": "🌟 Únase a una Comunidad Creativa",
+          "content": "Conecte con otros creadores, comparta sus emotes y encuentre inspiración dentro de la comunidad de Creador de Emotes."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Creador de Emotes FAQ",
+      "description": "",
+      "q1": "¿Qué implica la transformación de estilo del Creador de Emotes?",
+      "a1": "La transformación de estilo del Creador de Emotes utiliza la IA para convertir sus fotos en gráficos emotivos que resaltan las expresiones faciales y los matices artísticos.",
+      "q2": "¿Cómo puedo obtener los mejores resultados del Creador de Emotes?",
+      "a2": "Para optimizar sus resultados, asegúrese de que sus imágenes sean claras y pruebe varios estilos para descubrir las opciones de emotes más atractivas.",
+      "q3": "¿Es gratis usar el Creador de Emotes?",
+      "a3": "Sí, ¡nuestro Creador de Emotes es de uso gratuito! Explore las opciones premium para estilos avanzados.",
+      "q4": "¿En qué se diferencia el Creador de Emotes de otros filtros gráficos?",
+      "a4": "La singularidad del Creador de Emotes reside en su enfoque en la creación de transformaciones emotivas que reflejan tanto el estilo artístico como el sentimiento personal.",
+      "q5": "¿Puedo usar comercialmente mis creaciones del Creador de Emotes?",
+      "a5": "Puede utilizar sus emotes comercialmente, pero verifique los términos de uso según su nivel de suscripción."
+    },
+    "cta": {
+      "title": "Genere Emotes con IA y Cree Su Obra Maestra Hoy Mismo",
+      "description": "Únase a la diversión y libere su potencial artístico con Creador de Emotes. Transforme sus imágenes en emotes únicos y vibrantes y exprese su estilo sin esfuerzo. Empiece ahora: ¡es rápido, fácil y gratis!",
+      "buttonText": "Generar Emotes con IA Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Generate emotes with AI from your photo",
+  "originalKeyword": "Emote Maker",
+  "examples": [
+    {
+      "image": "/images/examples/playground/emote-maker/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Chibi"
+    }
+  ]
+}

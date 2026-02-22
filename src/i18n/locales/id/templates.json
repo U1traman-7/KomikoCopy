@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Template | Komiko AI",
+    "description": "Jelajahi preset anime pilihan untuk Playground, Efek Video, Video-ke-Video, dan alat Dance. Ketuk template untuk langsung menggunakan pengaturan yang sudah dimuat sebelumnya.",
+    "keywords": "galeri template anime, preset Komiko, template efek video, template cosplay"
+  },
+  "hero": {
+    "eyebrow": "Template",
+    "title": "Template Pilihan Favorit Kreator Anime",
+    "description": "Temukan template yang Anda sukai dan langsung mulai berkreasi."
+  },
+  "buttons": {
+    "useTemplate": "Gunakan Template Ini",
+    "preview": "Pratinjau",
+    "close": "Tutup",
+    "seeAll": "Lihat Semua"
+  },
+  "categories": {
+    "featured": {
+      "title": "Unggulan"
+    },
+    "art": {
+      "title": "Presets Karakter",
+      "description": "Ubah potret menjadi desain karakter profesional - seni garis, chibi, sprite, lembaran ekspresi, putaran, dan lainnya."
+    },
+    "style": {
+      "title": "Transfer Gaya",
+      "description": "Preset terbaik untuk Playground guna mengubah potret menjadi render anime, cat air, atau cyberpunk yang dipoles."
+    },
+    "imageRestyle": {
+      "title": "Pengubahan Gaya Gambar",
+      "description": "Ubah gambar menjadi anime, Pixar, manga, cat air, neon, dan lebih dari 15 gaya artistik lainnya."
+    },
+    "videoRestyle": {
+      "title": "Pengubahan Gaya Video",
+      "description": "Ubah rekaman video menjadi anime, kartun, sketsa, emoji, dan gaya animasi lainnya. Ubah video dunia nyata menjadi konten bergaya."
+    },
+    "merch": {
+      "title": "Studio Merchandise",
+      "description": "Hasilkan gambar figur, boneka mewah, dan lembar karakter siap jual yang disesuaikan untuk kolektor."
+    },
+    "game": {
+      "title": "Game",
+      "description": "Buat video dan adegan bergaya game termasuk trailer Genshin Impact, permainan pixel retro, evolusi Pokemon, sim kencan, dan estetika game lainnya."
+    },
+    "movie": {
+      "title": "Film",
+      "description": "Ciptakan kembali potret dalam gaya seni film dan TV - dari acara animasi hingga film fantasi dan lainnya."
+    },
+    "cosplay": {
+      "title": "Cosplay & Pakaian",
+      "description": "Preset yang meniru promo cosplay, trailer cosplay, dan adegan cosplay. Juga termasuk pakaian untuk karakter."
+    },
+    "effects": {
+      "title": "Efek & Animasi Video",
+      "description": "Terapkan efek dinamis termasuk animasi angin Live2D, tampilan karakter 360°, transformasi gadis ajaib, peningkatan kekuatan Super Saiyan, dan video musik gaya anime/manga."
+    },
+    "dance": {
+      "title": "Tari",
+      "description": "Gerakan Video Tarian AI dioptimalkan untuk K-pop, tren TikTok viral, dan rutinitas robot yang penuh gaya."
+    },
+    "christmas": {
+      "title": "Natal",
+      "description": "Ciptakan suasana Natal yang menakjubkan dengan preset ajaib untuk karakter yang meriah dan lingkungan liburan."
+    }
+  }
+}

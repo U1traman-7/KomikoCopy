@@ -1,0 +1,130 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan AI 影片產生器 - KomikoAI",
+      "description": "使用 Wan AI 影片產生器，從文字和圖片創建高品質且生動的影片。體驗專業級的動態效果、物理模擬與高效的影片製作流程。",
+      "keywords": "Wan AI 影片產生器, AI 影片創建, 文字轉影片, 圖片轉影片, AI 動畫, 影片生成工具, AI 影片編輯, 運動模擬, 影片 AI 平台"
+    },
+    "hero": {
+      "title": "Wan AI 影片產生器",
+      "description": "運用先進的 AI 技術，將您的創意想法轉化為引人入勝的精彩影片。輕鬆產生動態豐富、物理精確且高度客製化的影片內容。"
+    },
+    "whatIs": {
+      "title": "什麼是 Wan AI 影片產生器？",
+      "description": "Wan AI 影片產生器利用前沿的 AI 技術，將您的想法轉化為令人驚豔的影片作品。此工具由阿里巴巴集團通義實驗室的最新突破 Wan2 所驅動，結合了先進的 3D 變分自編碼器與影片擴散轉換器，以實現卓越的生成效果。無論您使用文字提示或靜態圖像，Wan2 都能夠創建具備令人印象深刻的物理精準度和自然動態效果的影片。這個開源模型能夠處理從複雜旋轉到動態場景轉換等各種複雜效果，產生媲美專業製作水準的清晰 HD 素材。對於希望將願景變為現實，同時避免傳統影片製作的成本與複雜性的內容創作者、行銷人員、教育工作者及動畫師而言，此工具是理想之選。"
+    },
+    "examples": {
+      "title": "Wan AI 影片產生器範例",
+      "description": "探索透過 Wan AI 影片產生器所創建的精彩影片範例。從生動的社群媒體動畫內容到電影級的產品展示，了解此工具如何透過逼真的動態效果、精確的物理模擬和豐富的視覺元素，將靜態圖像與文字提示轉化為栩栩如生的影片。"
+    },
+    "howToUse": {
+      "title": "如何使用 Wan AI 影片產生器",
+      "steps": [
+        {
+          "title": "上傳您的圖片",
+          "content": "上傳您希望賦予動畫效果的圖片。Wan AI 影片產生器支援多種圖片格式，包含美術作品、照片、產品圖片或故事板，以創建動態影片內容。"
+        },
+        {
+          "title": "輸入您的提示",
+          "content": "提供詳盡的提示或選擇預設設定，以指定動態類型、攝影機角度、光線和特效。AI 將會解析這些指令，以製作符合您需求的動態影片內容。 prompt"
+        },
+        {
+          "title": "產生您的影片",
+          "content": "點擊「產生動畫」按鈕以啟動生成程序，並觀看 AI 自動合成高解析度影片序列，並應用逼真的物理動態與流暢的轉場效果。"
+        },
+        {
+          "title": "下載並分享",
+          "content": "影片渲染完成後，以您偏好的格式與解析度下載。於社群媒體、行銷活動或教育平台分享您引人入勝的 AI 生成影片。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為何選擇 Wan AI 影片產生器？",
+      "description": "探索 Wan AI 影片產生器的強大優勢，它簡化了影片製作流程，並拓展了工作室、教育工作者、行銷人員與創作者的創作可能性。",
+      "features": [
+        {
+          "title": "進階動態與物理模擬",
+          "content": "生成具備 92.7% 物理精準度的影片，支援複雜的肢體運動、旋轉與逼真的物件互動。",
+          "icon": "🎥"
+        },
+        {
+          "title": "多元輸入支援",
+          "content": "透過文字提示、靜態圖像或多媒體輸入的組合來創建影片，實現廣泛的創意應用。",
+          "icon": "🖼️"
+        },
+        {
+          "title": "高品質影片輸出",
+          "content": "製作具備電影級紋理、動態場景轉場與豐富風格化特效的流暢 1080p HD 影片。",
+          "icon": "✨"
+        },
+        {
+          "title": "具成本效益且易於使用",
+          "content": "採用硬體需求低的開源框架，使專業影片生成更具經濟效益，且所有創作者皆可輕鬆上手。",
+          "icon": "💸"
+        },
+        {
+          "title": "多場景應用",
+          "content": "適用於社群媒體內容、教育教材、產品演示與跨產業的動畫工作流程。",
+          "icon": "🌐"
+        },
+        {
+          "title": "開發人員友善的生態系統",
+          "content": "提供 API、本地部署選項，以及與主流深度學習框架的相容性，以實現無縫整合。",
+          "icon": "⚙️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Wan AI 影片產生器常見問題",
+      "description": "關於使用 Wan AI 影片產生器，透過 AI 創建專業且引人入勝的影片之常見問題的解答。",
+      "q1": "什麼是 Wan AI 影片產生器？",
+      "a1": "Wan AI 影片產生器是一種先進的人工智慧工具，透過運用 3D VAE 與影片擴散轉換器等深度學習模型，將文字與圖像轉化為高品質、動態豐富的影片。它讓創作者能夠輕鬆製作電影級且物理精準的動畫。",
+      "q2": "Wan AI 影片產生器如何從圖像創建影片？",
+      "a2": "此工具使用複雜的神經網路來分析靜態圖像，進而合成新的影片幀，導入逼真的動態、旋轉與場景轉場效果，有效地將原始內容動畫化，同時維持視覺一致性。",
+      "q3": "我可以使用 Wan AI 創建哪些類型的影片？",
+      "a3": "您可以創建各式各樣的影片，包含動畫社群媒體短片、教育視覺化內容、產品演示、行銷影片與動態故事板，所有這些皆可透過文字提示與圖像輸入進行客製化。",
+      "q4": "Wan AI 影片產生器是否適用於商業用途？",
+      "a4": "是的，Wan AI 影片產生器可製作適用於個人與商業專案的專業級影片。使用者應詳閱相關的授權條款，以了解與使用權限相關的任何限制。",
+      "q5": "生成的影片長度是否有上限？",
+      "a5": "本平台透過高效的影片編碼與解碼技術，支援 1080p 解析度的無限長度影片，從而實現擴展的內容創作，且不會犧牲影片品質。",
+      "q6": "我需要具備專業技術才能使用 Wan AI 影片產生器嗎？",
+      "a6": "您無需具備任何專業技能。此平台提供使用者友善的介面與簡潔的工作流程，即使是初學者也能輕鬆上手進階的 AI 影片生成功能。"
+    }
+  },
+  "originalKeyword": "Wan AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：Wan",
+      "description": "Prompt: A purely visual and atmospheric video piece focusing on the interplay of light and shadow, with a corn train as the central motif. Imagine a stage bathed in dramatic, warm spotlights, where a corn train, rendered as a stark silhouette, moves slowly across the space. The video explores the dynamic interplay of light and shadow cast by the train, creating abstract patterns, shapes, and illusions that dance across the stage. The soundtrack should be ambient and minimalist, enhancing the atmospheric and abstract nature of the piece.",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_2.mp4"
+    },
+    {
+      "id": 2,
+      "title": "模型：Wan",
+      "description": "Prompt: Watercolor style, the wet suminagashi inks slowly spread into the shape of an island on the paper, with the edges continuously blending into delicate textural variations. A tiny paper boat floats in the direction of the water flow towards the still-wet areas, creating subtle ripples around it. Centered composition with soft natural light pouring in from the side, revealing subtle color gradations and a sense of movement. .",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/prompt_3.mp4"
+    },
+    {
+      "id": 3,
+      "title": "模型：Wan",
+      "description": "Prompt: A man on the run, darting through the rain-soaked back alleys of a neon-lit city night, steam rising from the wet pavement. He's clad in a drenched trench coat, his face etched with panic as he sprints down the alley, constantly looking over his shoulder. A chase sequence shot from behind, immersing the viewer deeply, as if the pursuers are right behind the camera lens..",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_4.mp4"
+    },
+    {
+      "id": 4,
+      "title": "模型：Wan",
+      "description": "Prompt: Sidelit, soft light, high contrast, medium shot, centered composition, clean single subject frame, warm tones. A young man stands in a forest, his head gently lifted, with clear eyes. Sunlight filters through leaves, creating a golden halo around his hair. Dressed in a light-colored shirt, a breeze plays with his hair and collar as the light dances across his face with each movement. Background blurred, featuring distant dappled light and soft tree silhouettes..",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_1.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "WAN"
+}

@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "meta": {
+      "title": "海螺AI视频生成器 - KomikoAI",
+      "description": "使用我们强大的海螺AI视频生成器，从图像创建令人惊叹的动漫、漫画和卡通动画。 具有高级功能，为您提供专业质量的视频效果。",
+      "keywords": "海螺AI视频生成器, AI图像转视频, 动漫动画生成器, 漫画动画, 卡通动画, AI视频生成, 图像转动画, 海螺AI"
+    },
+    "hero": {
+      "title": "海螺AI视频生成器"
+    },
+    "whatIs": {
+      "title": "什么是海螺AI视频生成器？",
+      "description": "海螺AI（由 MiniMax 提供技术支持）是一款功能强大的中文AI视频生成器，以能够根据文本提示和图像创建高质量的6-10秒视频而著称。它擅长电影级视频生成，能够保证角色一致性并呈现逼真的运动效果。 我们的AI图像转动画工具利用海螺AI技术，专为动漫、漫画和卡通创作者设计。 以海螺AI为核心，我们的工具通过针对动画内容优化的先进算法，将您的艺术作品变为现实。 您将获得卓越的角色一致性、快速的生成速度以及对动画的完全创作控制。"
+    },
+    "howToUse": {
+      "title": "如何使用海螺AI视频生成器",
+      "steps": [
+        {
+          "title": "上传您的图像",
+          "content": "上传您想要动画的图像。 无论是动漫角色、漫画还是卡通插图，海螺AI都能赋予其生命。"
+        },
+        {
+          "title": "输入提示",
+          "content": "提供提示以指导动画。 描述您希望AI生成的动作、表情或行为。"
+        },
+        {
+          "title": "生成动画",
+          "content": "点击“生成动画”按钮，让我们的AI施展它的魔力。 观看您的图像转变为动态视频。"
+        },
+        {
+          "title": "下载并分享",
+          "content": "下载您AI生成的动画，并与世界分享！ 非常适合社交媒体、个人项目等。"
+        }
+      ]
+    },
+    "examples": {
+      "title": "海螺AI视频生成器示例",
+      "description": "了解我们的海螺AI驱动的工具如何为动漫、漫画和卡通内容创作出色的动画！"
+    },
+    "benefits": {
+      "title": "为什么选择我们的海螺AI视频生成器？",
+      "description": "体验海螺AI的强大功能，我们专门为动漫和漫画内容创作者设计了专业界面！",
+      "features": [
+        {
+          "title": "AI驱动的视频创作",
+          "content": "利用深度学习技术，从文本或图像生成电影级视频，无需手动编辑步骤。",
+          "icon": "🤖"
+        },
+        {
+          "title": "高级图像转视频",
+          "content": "通过高级运动分析和帧预测技术，将您的静态图像转换为生动的动态视频。",
+          "icon": "🎬"
+        },
+        {
+          "title": "高清输出",
+          "content": "生成 720p 或更高分辨率的视频。 实现清晰的视觉效果和流畅的运动，适用于专业级别的项目。",
+          "icon": "✨"
+        },
+        {
+          "title": "快速周转",
+          "content": "在几分钟内制作完整的视频。 加速您的创作工作流程，并快速迭代创意。",
+          "icon": "⚡"
+        },
+        {
+          "title": "全球语言支持",
+          "content": "支持使用多种语言的提示创建视频，通过本地化内容覆盖更广泛的受众。",
+          "icon": "🌐"
+        },
+        {
+          "title": "用户友好的界面",
+          "content": "无需专业技术技能 - 只需输入您的提示或上传图像，然后让AI完成其余工作。",
+          "icon": "👌"
+        }
+      ]
+    },
+    "faq": {
+      "title": "海螺AI视频生成器 - 常见问题解答",
+      "description": "查找有关使用海螺AI视频生成器创建专业视频的常见问题的解答。",
+      "q1": "支持哪些格式？",
+      "a1": "海螺AI 接受常见的图像格式，如 JPG 和 PNG，以及任何语言的文本提示。 为了获得最佳效果，请使用高分辨率图像。",
+      "q2": "视频生成需要多长时间？",
+      "a2": "大多数视频会在 1-2 分钟内完成，具体取决于分辨率以及提示或图像的复杂程度。",
+      "q3": "我可以将生成的视频用于商业用途吗？",
+      "a3": "是的，使用海螺AI视频生成器创建的视频是免版税的，可用于个人或商业项目。",
+      "q4": "有哪些分辨率可用？",
+      "a4": "视频目前可以渲染为高达 1280×720 (HD) 的分辨率，更高分辨率的支持即将推出。",
+      "q5": "我需要具备视频编辑技巧吗？",
+      "a5": "无需任何编辑经验 - 海螺AI视频生成器可自动完成从头到尾的视频创建的所有环节。",
+      "q6": "有什么限制吗？",
+      "a6": "极其复杂的场景或非常详细的提示可能需要更长的处理时间。 为了获得最佳效果，请保持提示清晰简洁。"
+    }
+  },
+  "originalKeyword": "Hailuo AI Video Generator",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：海螺",
+      "description": "Prompt: A blue furry creature in the scene is constantly stirring a steaming pot of soup. Then, the blue creature blows on the pot, causing the soup in the bowl in front of it to freeze into a block of ice.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/26.webm"
+    },
+    {
+      "id": 2,
+      "title": "模型：海螺",
+      "description": "Prompt: The camera pulls back as a man runs toward it. Shadows of figures rapidly close in from behind, growing larger and larger. As one shadow draws near, it reveals a humanoid creature with a goat-like face, its features illuminated by a yellowish light. The color tone of the scene shifts to an eerie palette, creating a chilling and terrifying atmosphere.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/28.webm"
+    },
+    {
+      "id": 3,
+      "title": "模型：海螺",
+      "description": "Prompt: In the scene, a small dog emits a blue light from its eyes. The messy clothes in front of the dog also begin to glow blue and slowly float into the air, folding neatly on their own before landing in front of the dog. Afterward, the blue light in the dog's eyes fades away.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/25.webm"
+    },
+    {
+      "id": 4,
+      "title": "模型：海螺",
+      "description": "Prompt: A cat in the scene runs quickly toward the camera, with white electric sparks emanating from its eyes. Its entire body becomes surrounded by electricity as it runs faster and faster. The scenery on both sides rushes backward rapidly, creating motion blur that transforms into a glowing white time tunnel.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/27.webm"
+    }
+  ],
+  "model": "MINIMAX"
+}

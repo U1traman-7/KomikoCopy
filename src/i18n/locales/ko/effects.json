@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "애니메이션 크리에이터들의 인기 있는 재미있는 효과",
+    "description": "당신이 선호하는 효과를 발견하고 지금 바로 제작을 시작하세요.",
+    "defaultDescription": "KomikoAI로 {{name}} {{type}} 효과를 만들어보세요. 캐릭터 이미지를 업로드하고 몇 초 만에 AI {{name}} 생성기의 강력한 기능을 경험하세요.",
+    "eyebrow": "효과 갤러리"
+  },
+  "meta": {
+    "keywords": "AI 효과, 애니메이션 템플릿, 비디오 효과, 댄스 애니메이션, 이미지 스타일, komiko",
+    "title": "효과 | Komiko AI",
+    "description": "애니메이션 제작을 위한 모든 AI 효과 및 템플릿을 확인하세요. 이미지 스타일, 비디오 효과, 댄스 애니메이션 등을 포함하여 다양한 옵션을 탐색해 보세요.",
+    "titleTemplate": "{{name}} 생성기"
+  },
+  "categories": {
+    "trending": {
+      "description": "현재 가장 많은 인기를 끌고 있는 효과입니다.",
+      "title": "인기 급상승"
+    },
+    "imageRestyle": {
+      "description": "이미지를 다양한 예술 스타일로 변환하세요.",
+      "title": "이미지 리스타일"
+    },
+    "merch": {
+      "description": "캐릭터로부터 수집 가능한 머천다이즈 디자인을 생성합니다.",
+      "title": "머천다이즈 스튜디오"
+    },
+    "movie": {
+      "description": "인물화를 시네마틱한 영화 스타일로 변환하세요.",
+      "title": "영화"
+    },
+    "cosplay": {
+      "description": "놀라운 코스프레 및 의상 디자인을 만들어보세요.",
+      "title": "코스프레 및 의상"
+    },
+    "dance": {
+      "description": "AI로 댄스 비디오 모션을 생성하세요.",
+      "title": "댄스"
+    },
+    "featured": {
+      "title": "추천"
+    },
+    "art": {
+      "title": "예술",
+      "description": "인물 사진을 전문적인 캐릭터 디자인으로 변환합니다."
+    },
+    "videoRestyle": {
+      "title": "비디오 리스타일",
+      "description": "비디오 장면을 스타일화된 애니메이션으로 전환합니다."
+    },
+    "game": {
+      "title": "게임",
+      "description": "게임 스타일의 비디오 및 장면을 제작합니다."
+    },
+    "effects": {
+      "title": "비디오 효과",
+      "description": "다이내믹한 비디오 효과 및 애니메이션을 적용하세요."
+    },
+    "characterExpression": {
+      "title": "캐릭터 표현",
+      "description": "캐릭터의 표정을 동적으로 변경하세요."
+    },
+    "funEffects": {
+      "title": "재미있는 효과",
+      "description": "유쾌하고 즐거운 비디오 효과를 경험하세요."
+    }
+  },
+  "whatIs": {
+    "title": "{{name}} 생성기란?",
+    "defaultDescription": "AI {{name}} 생성기는 {{name}} {{type}} 효과를 생성하는 AI 도구입니다. 이는 KomikoAI 팀이 설계한 100개 이상의 AI 효과 템플릿 중 하나입니다. 캐릭터 이미지를 업로드하고 AI가 마법을 부리게 하세요."
+  },
+  "howToUse": {
+    "step1Title": "이미지 업로드",
+    "step2Title": "효과 선택",
+    "step3Title": "생성",
+    "step4Title": "다운로드",
+    "title": "사용 방법",
+    "step1": "위에 캐릭터 이미지를 업로드하세요",
+    "step2": "{{name}} 효과가 이미 선택되어 있습니다",
+    "step3": "\"애니메이션 생성\"을 클릭하고 결과를 기다리세요",
+    "step4": "생성물을 다운로드하거나 공유하세요"
+  },
+  "breadcrumb": {
+    "effects": "효과"
+  },
+  "buttons": {
+    "useTemplate": "템플릿 사용",
+    "preview": "미리보기",
+    "close": "닫기",
+    "seeAll": "모두 보기"
+  },
+  "empty": "효과를 찾을 수 없습니다.",
+  "notFound": {
+    "title": "효과를 찾을 수 없습니다",
+    "description": "\"{{name}}\" 효과가 존재하지 않습니다. 삭제되었거나 URL이 잘못되었을 수 있습니다.",
+    "browseAll": "모든 효과 보기"
+  },
+  "moreTools": {
+    "title": "더 많은 AI 효과",
+    "description": "AI 효과와 템플릿의 전체 컬렉션을 탐색하세요.",
+    "browseAll": "모든 효과 보기"
+  },
+  "changeModal": {
+    "title": "효과 전환"
+  },
+  "communityExamples": {
+    "title": "{{name}} 효과 예제",
+    "description": "KomikoAI 커뮤니티가 만든 모든 {{name}} 효과 작품들을 확인해보세요.",
+    "noExamples": "아직 커뮤니티 예제가 없습니다."
+  },
+  "types": {
+    "video": "비디오",
+    "image": "이미지",
+    "dance": "댄스"
+  }
+}

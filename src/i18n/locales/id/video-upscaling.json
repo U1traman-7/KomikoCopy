@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "title": "AI Video Upscaling - KomikoAI",
+    "description": "KomikoAI, upscaler video AI canggih, mengubah video berkualitas rendah menjadi konten resolusi tinggi yang menakjubkan. Nikmati peningkatan video kelas profesional yang didukung oleh KomikoAI AI, meningkatkan video Anda ke FHD, 2K, atau 4K sambil mempertahankan detail alami dan kejernihan visual.",
+    "keywords": "Upscaling video AI, peningkatan video, peningkatan kualitas video, konverter video HD, upscaler video 4K, pemrosesan video AI, peningkatan resolusi video, upscaling video machine learning, peningkatan video profesional, penambah kualitas video"
+  },
+  "title": "AI Video Upscaler",
+  "description": "Gunakan upscaler video AI kami yang canggih untuk meningkatkan resolusi dan kualitas video Anda. Teknologi upscaling video bertenaga AI kami mengubah video berkualitas rendah menjadi konten resolusi tinggi yang memukau. Tingkatkan video Anda ke FHD, 2K, atau 4K, dengan peningkatan video AI kami yang memberikan hasil profesional dengan kejernihan dan detail superior.",
+  "input": {
+    "title": "Video Masukan",
+    "uploadPrompt": "Sentuh untuk mengunggah atau seret video Anda di sini",
+    "from_other_tools": "Video diterima dari {{source}}"
+  },
+  "results": {
+    "title": "Hasil Video",
+    "emptyState": "Hasil akan ditampilkan di sini"
+  },
+  "seo": {
+    "transformTitle": "Ubah Video Anda dengan Peningkatan Video AI",
+    "transformDescription": "Temukan bagaimana upscaling video KomikoAI AI menggunakan peningkatan video berbasis machine learning untuk menyempurnakan konten Anda. Peningkat video AI kami membuat upscaling video berkualitas profesional dapat diakses oleh siapa saja."
+  },
+  "steps": {
+    "step1": {
+      "title": "Langkah 1: Unggah Video",
+      "content": "Unggah video apa pun yang ingin Anda tingkatkan dengan upscaler video AI kami. Kami mendukung format video yang umum."
+    },
+    "step2": {
+      "title": "Langkah 2: Pilih Resolusi Keluaran",
+      "content": "Pilih seberapa besar Anda ingin meningkatkan resolusi - tingkatkan video ke kualitas FHD, 2K, atau 4K."
+    },
+    "step3": {
+      "title": "Langkah 3: Proses Video",
+      "content": "Klik tombol 'Upscale Video' untuk memulai proses peningkatan."
+    },
+    "step4": {
+      "title": "Langkah 4: Unduh Hasil",
+      "content": "Unduh video yang sudah ditingkatkan dan nikmati kualitas yang lebih baik!"
+    }
+  },
+  "examples": {
+    "title": "Contoh Upscaling Video AI",
+    "description": "Lihat hasil upscaling video AI yang dihasilkan oleh pengguna KomikoAI",
+    "browserNotSupported": "Browser Anda tidak mendukung tag video.",
+    "inputLabel": "Contoh Video Masukan",
+    "outputLabel": "Video Upscale Keluaran"
+  },
+  "benefits": {
+    "title": "Mengapa Anda Harus Meng-upscale Video Anda dengan AI",
+    "description": "AI Video Upscaler KomikoAI mengubah video resolusi rendah Anda menjadi konten berkualitas tinggi yang menakjubkan, cocok untuk penggunaan pribadi maupun profesional.",
+    "feature1": {
+      "title": "Upscaling Video AI",
+      "content": "Upscaler video AI kami memberikan hasil kelas profesional dengan cerdas meningkatkan kualitas video dan resolusi, sambil mempertahankan gerakan alami."
+    },
+    "feature2": {
+      "title": "Beberapa Opsi Resolusi",
+      "content": "Upscale video ke kualitas yang Anda inginkan - pilih dari FHD (1080p), 2K (1440p), atau 4K (2160p) untuk meningkatkan kualitas video untuk platform apa pun."
+    },
+    "feature3": {
+      "title": "Peningkatan AI Terperinci",
+      "content": "Teknologi upscaling video AI kami menganalisis dan meningkatkan setiap bingkai, memberikan kejernihan dan detail superior sambil mempertahankan karakter asli video."
+    },
+    "feature4": {
+      "title": "Hasil Profesional",
+      "content": "Ubah rekaman lama atau berkualitas rendah menjadi konten kelas profesional yang cocok untuk streaming, presentasi, atau media sosial."
+    },
+    "feature5": {
+      "title": "Pemrosesan Cepat",
+      "content": "Nikmati peningkatan video yang cepat dengan pipeline pemrosesan AI kami yang dioptimalkan, menghemat waktu dan tenaga Anda."
+    },
+    "feature6": {
+      "title": "Kompatibilitas Universal",
+      "content": "Bekerja dengan berbagai format dan durasi video, menjadikannya sempurna untuk meningkatkan video pribadi, konten pemasaran, atau proyek profesional."
+    }
+  },
+  "guide": {
+    "title": "Panduan Lengkap untuk Peningkatan Video AI",
+    "description": "Pelajari semua tentang meningkatkan kualitas video dengan upscaler video KomikoAI AI. Dapatkan jawaban ahli tentang teknologi peningkatan video berbasis machine learning kami dan bagaimana teknologi ini dapat mengubah konten Anda."
+  },
+  "faq": {
+    "question1": "Apa itu AI Video Upscaler KomikoAI?",
+    "answer1": "AI video upscaler KomikoAI adalah alat canggih yang menggunakan AI untuk meningkatkan kualitas dan resolusi video. Teknologi upscaling video AI kami secara otomatis mengubah video berkualitas rendah menjadi konten FHD, 2K, atau 4K sebening kristal sambil mempertahankan detail alami dan kesetiaan visual.",
+    "question2": "Bagaimana cara kerja upscaling video AI kami?",
+    "answer2": "Upscaler video AI kami menggunakan model machine learning canggih yang dilatih pada jutaan video berkualitas tinggi. AI menganalisis setiap bingkai untuk meningkatkan kualitas video, resolusi, dan kejernihan keseluruhan sambil mempertahankan gerakan yang halus dan tampak alami. Proses peningkatan video bertenaga AI ini memberikan hasil superior dibandingkan dengan metode upscaling tradisional.",
+    "question3": "Apa manfaat dari upscaling video AI?",
+    "answer3": {
+      "point1": "Ubah video resolusi rendah menjadi konten HD sebening kristal",
+      "point2": "Tingkatkan kualitas video sambil mempertahankan gerakan alami",
+      "point3": "Hilangkan artefak kompresi dan noise video",
+      "point4": "Pilih dari beberapa resolusi keluaran (FHD/2K/4K) untuk hasil yang sempurna"
+    },
+    "question4": "Format dan ukuran video apa yang didukung?",
+    "answer4": "Upscaler video AI kami berfungsi dengan file video MP4 dengan ukuran apa pun. Anda dapat meningkatkan video Anda ke resolusi FHD (1080p), 2K (1440p), atau 4K (2160p) tergantung pada kebutuhan kualitas Anda.",
+    "question5": "Apakah upscaler video AI gratis untuk digunakan?",
+    "answer5": "Mulai tingkatkan video Anda secara gratis dengan zap (kredit) gratis dari KomikoAI. Untuk kebutuhan profesional, paket berbayar kami menawarkan zap tambahan, waktu pemrosesan lebih cepat, dan akses ke output resolusi lebih tinggi.",
+    "question6": "Resolusi mana yang harus saya pilih untuk video saya?",
+    "answer6": "Pilih FHD (1080p) untuk kualitas HD yang sangat baik yang cocok untuk sebagian besar platform online, 2K (1440p) untuk konten video premium, atau 4K (2160p) untuk proyek profesional dengan definisi ultra-tinggi. Resolusi yang lebih tinggi menawarkan kualitas yang lebih baik tetapi membutuhkan lebih banyak waktu pemrosesan."
+  },
+  "modal": {
+    "deleteTitle": "Konfirmasi Penghapusan",
+    "deleteConfirmation": "Anda yakin ingin menghapus video ini? Tindakan ini tidak dapat dibatalkan.",
+    "cancel": "Batal",
+    "delete": "Hapus"
+  },
+  "notifications": {
+    "deleteSuccess": "Hapus berhasil",
+    "deleteFailed": "Hapus gagal",
+    "upscaleSuccess": "Video upscale berhasil",
+    "upscaleFailed": "Video upscale gagal",
+    "downloadFailed": "Unduh gagal",
+    "noZaps": "Silakan beli lebih banyak zap"
+  },
+  "upscale_video": "Upscale Video"
+}

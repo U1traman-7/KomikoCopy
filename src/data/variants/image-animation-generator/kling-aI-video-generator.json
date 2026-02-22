@@ -1,0 +1,140 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Kling AI Video Generator - KomikoAI",
+      "description": "Create dynamic videos from text, images, or static artwork with the Kling AI Video Generator. Leverage cutting-edge AI to transform your comics, manga, and animations into captivating videos.",
+      "fullDescription": "Unlock the power of Kling AI Video Generator, a state-of-the-art AI tool designed to convert images, text prompts, and existing video frames into high-quality animated videos. Perfect for content creators, animators, and marketers looking to bring static artwork and storyboards to life effortlessly.",
+      "keywords": "Kling AI Video Generator, AI video creation, text to video, image to video, neural video synthesis, GAN video generation, animation AI, video content creation AI"
+    },
+    "hero": {
+      "title": "Kling AI Video Generator",
+      "description": "Transform your static images, comics, and text prompts into vivid animated videos using advanced AI technology tailored for manga, anime, and comic styles."
+    },
+    "examples": {
+      "title": "AI Generated Video Examples",
+      "description": "See sample videos like those you can make with Kling AI Video Generator. These examples demonstrate the image-to-animation capabilities of advanced AI video technology."
+    },
+    "whatIs": {
+      "title": "What is the Kling AI Video Generator?",
+      "description": "The Kling AI Video Generator is an advanced AI-powered video creation tool that transforms static images, text descriptions, and video sketches into dynamic, high-resolution videos. It employs cutting-edge deep learning technologies such as generative adversarial networks (GANs), transformer models, and neural style transfer to animate traditional artwork, manga, anime, and comic panels. This tool is designed to accelerate video content production for creators, marketers, and developers in the animation and digital media industries."
+    },
+    "howToUse": {
+      "title": "How to Use Kling AI Video Generator",
+      "steps": [
+        {
+          "title": "Input Your Content",
+          "content": "Start by uploading your static images, illustrations, or provide detailed text prompts describing the desired video scene or animation."
+        },
+        {
+          "title": "Select Animation Style",
+          "content": "Choose from a curated set of animation styles optimized for comics, manga, and anime aesthetics or customize your own preferences."
+        },
+        {
+          "title": "Generate Your Video",
+          "content": "Initiate the video creation process to let the AI convert your inputs into dynamic animations with smooth transitions and effects."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Save your high-resolution animated video and share it across social media, marketing campaigns, or creative projects."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Kling AI Video Generator?",
+      "description": "Kling AI Video Generator empowers creators to produce high-quality animated videos quickly and effortlessly, elevating digital storytelling and marketing efforts.",
+      "features": [
+        {
+          "title": "Effortless Animation from Static Content",
+          "content": "Convert still images and text into lively videos without needing extensive animation skills.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Accelerate Content Creation",
+          "content": "Speed up production with fast rendering and AI-powered automation, reducing hours of manual work.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Versatile Input Options",
+          "content": "Flexibly create videos from various inputs including sketches, photos, and textual descriptions.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Tailored for Manga and Anime Creators",
+          "content": "Leverage styles and effects optimized for anime, manga, and comic art for authentic visual storytelling.",
+          "icon": "📚"
+        },
+        {
+          "title": "Increase Engagement",
+          "content": "Produce compelling video content ideal for social media, promotional materials, and digital campaigns.",
+          "icon": "📱"
+        },
+        {
+          "title": "Maintain Creative Consistency",
+          "content": "Keep character designs and animation consistent across video sequences for better narrative flow.",
+          "icon": "🎥"
+        }
+      ]
+    },
+    "faq":  {
+      "title": "Frequently Asked Questions about Kling AI Video Generator",
+      "description": "Get answers to common questions about using Kling AI Video Generator for AI-powered video animation.",
+      "q1": "What is Kling AI Video Generator?",
+      "a1": "Kling AI Video Generator is an AI-powered tool that transforms static images into animated videos using advanced neural video generation techniques, enabling quick and easy AI video creation.",
+      "q2": "How does Kling AI Video Generator work?",
+      "a2": "It uses sophisticated AI models to analyze your image and text input, generating frame-by-frame animations that bring your visuals to life with natural motion and effects.",
+      "q3": "What types of videos can I create?",
+      "a3": "You can produce a wide range of animated videos including character animations, dynamic scenes, storytelling clips, promotional content, and stylized art animations in various visual styles.",
+      "q4": "Do I need animation experience to use this tool?",
+      "a4": "No prior animation skills are needed. The tool’s intuitive interface and AI automation make video creation accessible to everyone.",
+      "q5": "Can I use the generated videos commercially?",
+      "a5": "Yes, videos created with Kling AI Video Generator can be used for personal and commercial purposes according to the terms of service, making it suitable for creators and businesses.",
+      "q6": "What formats and resolutions are supported?",
+      "a6": "The tool supports common image formats like JPG and PNG for input, and generates high-resolution video outputs suitable for multiple platforms.",
+      "q7": "How can I improve the quality of my videos?",
+      "a7": "Providing detailed prompts including animation style, desired movements, and scene descriptions helps the AI create more accurate and visually pleasing results.",
+      "q8": "Are there any limits on how many videos I can generate?",
+      "a8": "Generation limits depend on your subscription plan, with free users having restricted usage and premium plans offering unlimited or increased generation capacities."
+    }
+  },
+  "originalKeyword": "Kling AI Video Generator",
+  "pageStructure": ["whatIs", "examples", "howToUse", "benefits", "moreAITools", "faq"],
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Kling",
+      "description": "Prompt: A girl is talking to herself peacefully",
+      "videoUrl": "/images/examples/image-animation-generator/output5.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: The boy slowly lean in, gently holds the girl's face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: AniSora",
+      "description": "Prompt: The figures in the picture are sitting in a forward moving car waving to the rear, their hair swaying from side to side in the wind",
+      "videoUrl": "/images/pages/anisora/example1.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A fairy sits in the blossom as the petals open",
+      "videoUrl": "/images/pages/vidu/flower.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output4.mp4"
+    },
+    {
+      "id": 6,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A cat turns into a tiger",
+      "videoUrl": "/images/pages/vidu/cat.webm"
+    }
+  ],
+  "model": "KLING_V2"
+}

@@ -1,0 +1,277 @@
+{
+  "ui": {
+    "title": "ビデオからビデオAI",
+    "tooltip": "ビデオからビデオAIと動画スタイル変換で、あなたの動画をアニメやカートゥーン風にチェンジ",
+    "generatedVideos": "生成されたスタイル付き動画",
+    "emptyState": "ここにアニメ風・カートゥーン風に変換された動画が表示されます",
+    "steps": {
+      "uploadVideo": "1. 動画をアップロード",
+      "styleSelection": "2. スタイルを選ぶ",
+      "generateVideo": "3. 動画を生成"
+    },
+    "upload": {
+      "dragText": "タップして動画をアップロード、またはここにドラッグ＆ドロップ",
+      "formatInfo": "対応形式：MP4 / MOV / AVI ・ 最大15秒 ・ 最大50MB",
+      "safariFormatInfo": "対応形式：MP4 / MOV / AVI ・ 最大15秒 ・ 最大50MB",
+      "extractFrameManually": "先頭フレームを手動で抽出",
+      "bestResultsTip1": "一番きれいに変換するには、カットのつながったワンカット動画がおすすめです。",
+      "bestResultsTip2": "人物入り動画の場合、最初のフレームで正面がしっかり映っているとベストです。メイン人物は1人で、上半身がはっきり見える構図が理想です。",
+      "safariNotice": "Safariをご利用の方へ",
+      "safariLimitWarning": "動画は15秒以内に制限されます。より長い動画や細かい長さ調整を行う場合は、Chromeブラウザをご利用ください。"
+    },
+    "uploadTips": {
+      "title": "きれいに変換するためのコツ（条件が外れると品質が下がる場合があります）",
+      "tip1": "1. ワンカットの動画を使う（複数カットがある場合は分割して別々に変換）。",
+      "tip2": "2. フレーム内の人物は1人、大きくてはっきり映っているものを使う。"
+    },
+    "duration": {
+      "title": "動画の長さ",
+      "description": "生成する動画の長さを選択してください。長くなるほど消費Zapsが増えます。",
+      "originalDuration": "元動画：{{duration}}秒",
+      "originalLength": "元の長さ",
+      "tooLong": "長すぎます",
+      "willBeTrimmed": "{{original}}秒 → {{target}}秒 に自動トリミングされます",
+      "safariNote": "Safariを検出しました：互換性を優先して元の長さを使用します",
+      "chromeAdvice": "長さを細かく調整したい場合は、Chromeブラウザの利用をおすすめします。",
+      "safariUseOriginal": "Safariをご利用の方：互換性を優先して、動画は元の長さで処理されます。"
+    },
+    "model": {
+      "label": "モデル",
+      "placeholder": "モデルを選択",
+      "ariaLabel": "モデルを選択",
+      "options": {
+        "v2vHuman": "V2V Human Video（顔がはっきり映っている動画向け）",
+        "v2vGeneral": "V2V General",
+        "v2vPro": "V2V Pro",
+        "wanAnimate": "Wan Animate（キャラクターアニメーション向け）"
+      },
+      "descriptions": {
+        "v2vHuman": "人物メイン・背景ほぼ固定の動画向け。表情や体の動きをしっかりトレースします。",
+        "v2vGeneral": "人間でも背景メインでもOKな高速スタイル変換。ワンカットの動画で最も効果的です。",
+        "v2vPro": "高品質・高汎用なVideo to Video変換モデルです。",
+        "wanAnimate": "キャラクター動画向け。背景があまり動かない動画で、表情・体の動きをしっかり再現。3Dアニメ風に最適。"
+      },
+      "zapsPerSecond": "Zaps/秒"
+    },
+    "ratioSelector": {
+      "label": "出力アスペクト比",
+      "ariaLabel": "アスペクト比を選択"
+    },
+    "actTwo": {
+      "bodyControl": "ボディコントロール",
+      "bodyControlDesc": "オンにすると、表情だけでなく体の動きやジェスチャーもキャラクターに反映されます。",
+      "expressionIntensity": "表情の強さ",
+      "expressionIntensityDesc": "値を大きくすると、キャラクターの表情がよりオーバーになります。",
+      "ratioDesc": "出力される動画の解像度です。",
+      "videoTooShort": "V2V Human Videoを使うには、参照動画は最低 {{min}} 秒必要です。"
+    },
+    "videoMode": {
+      "title": "生成モード",
+      "human": "人物動画モード",
+      "humanDescription": "人物メイン・ポートレート動画向けに最適化",
+      "general": "汎用モード",
+      "generalDescription": "人物以外の動画や、どんなシーンにも対応"
+    },
+    "videoPrompt": {
+      "title": "プロンプト",
+      "optional": "（任意）",
+      "placeholder": "例：anime girl dancing",
+      "description": "動画の変換イメージを、テキストで細かく指定できます"
+    },
+    "framePreview": {
+      "original": "オリジナル",
+      "styled": "スタイル適用後",
+      "applyingStyle": "スタイルを適用中…",
+      "awaitingStyle": "スタイル選択待ち",
+      "selectStyleBelow": "上からスタイルを選択してください",
+      "beforeAfterComparison": "スタイル変換前後の比較",
+      "applyingStyleToFrame": "選択したスタイルをフレームに適用中…",
+      "frameReferenceText": "このフレームが動画スタイル変換の参照として使われます。",
+      "styleTooltip": "このスタイル済みフレームが、動画全体の見た目をガイドします。"
+    },
+    "styleModes": {
+      "templates": "テンプレート",
+      "prompt": "プロンプト",
+      "reference": "参考画像"
+    },
+    "styleTemplatesTitle": "スタイルテンプレート",
+    "viewAll": "すべて表示",
+    "selectAStyle": "スタイルを選択",
+    "selected": "選択中",
+    "all": "すべて",
+    "prompt": {
+      "placeholder": "どんなスタイルに変換したいかを書いてください…",
+      "example": "例：「男性をナルトに差し替える」「90年代クラシックアニメ風にする」「女の子に花柄ワンピースを着せる」など"
+    },
+    "reference": {
+      "uploadText": "オリジナルキャラなどの参考画像をアップロードすると、そのフレームが生成動画の1フレーム目として使われます。",
+      "formatInfo": "対応形式：JPG / PNG / JPEG / WEBP ・ 最大10MB",
+      "compositionWarning": "参考画像の構図・ポーズは、元動画の先頭フレームに近いものを使用してください。"
+    },
+    "buttons": {
+      "applying": "適用中…",
+      "useNewReference": "新しい参考画像を使う",
+      "applyNewStyle": "新しいスタイルを適用",
+      "useReference": "参考画像を使う",
+      "applyStyle": "スタイルを適用",
+      "applyStyleWithName": "{{style}} スタイルを適用",
+      "applyNewStyleWithName": "新しい {{style}} スタイルを適用",
+      "generateVideo": "動画を生成",
+      "generatingVideo": "動画を生成中…",
+      "generateMore": "さらに動画を生成",
+      "createAnother": "別の動画を作る"
+    },
+    "separators": {
+      "readyToGenerate": "動画生成の準備ができました"
+    },
+    "trending": "トレンド"
+  },
+  "seo": {
+    "meta": {
+      "title": "ビデオからビデオAI | 高品質動画スタイル変換ツール",
+      "description": "ビデオからビデオAI テクノロジーで動画を一瞬で変換。元の動きやタイミングを保ったまま、アニメ・カートゥーン・マンガ・マンファ風に変換できる動画スタイル変換ツールです。",
+      "keywords": "ビデオからビデオAI, Video Style Transfer, anime video generator, cartoon video filter, manga style transfer, manhwa animation, video to anime converter, animation tool, cartoon video maker, anime style video, manga video creator, video stylization, animated video generator, comic video filter, anime transformation, cartoon style transfer"
+    },
+    "hero": {
+      "title": "ビデオからビデオAI"
+    },
+    "whatIs": {
+      "title": "ビデオからビデオAIとは？",
+      "description": "ビデオからビデオAI は、通常の動画をアニメ・カートゥーン・マンガ・マンファ風のアニメーションに変換する動画スタイル変換ツールです。まず先頭フレームにスタイルを適用して「参照フレーム」を作り、その見た目を基準に動画全体へスタイルを反映します。これにより、元の動きやタイミングを保ったまま、美しいスタイル変換が可能になります。スタジオジブリ風アニメ、韓国マンファ、日本マンガ、海外カートゥーンなど、20種類以上のスタイルから選べます。"
+    },
+    "examples": {
+      "title": "ビデオからビデオAIの変換例",
+      "description": "ビデオからビデオAIを使うと、元動画の動きをそのままに、アニメ・カートゥーン・マンガ・マンファ風へスタイル変換できます。実際の変換例をチェックして、仕上がりイメージを確認してみましょう。",
+      "style": "適用スタイル"
+    },
+    "howToUse": {
+      "title": "ビデオからビデオAIの使い方",
+      "steps": [
+        {
+          "title": "動画をアップロード",
+          "content": "まずは変換したい動画（MP4 / MOV / AVI）をアップロードします。15秒・50MBまで対応しています。15秒を超える場合は、自動的にトリミングしてVideo Style Transferに最適な長さに調整します。"
+        },
+        {
+          "title": "スタイル変換用の参照フレームを作成",
+          "content": "先頭フレームを抽出し、選択したアニメ・カートゥーン・マンガスタイルを適用して「参照フレーム」を作成します。この参照フレームが、Video Style Transferの基準となります。"
+        },
+        {
+          "title": "アートスタイルを選ぶ",
+          "content": "スタジオジブリ風アニメ、韓国マンファ、日本マンガなど、20種類以上のプリセットスタイルから選択できます。さらに、テキストプロンプトや参考画像を使って、自分だけのカスタムスタイルも設定できます。"
+        },
+        {
+          "title": "ビデオからビデオAIで一括変換",
+          "content": "ビデオからビデオAIが参照フレームをもとに、動画全体へスタイルを反映します。表情や動き、タイミングを維持しながら、アニメ・カートゥーン風の映像に仕上げます。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "ビデオからビデオAIを使うメリット",
+      "description": "ビデオからビデオAIは、高品質な動画スタイル変換・豊富なアニメスタイル・明確な料金体系を備えたクリエイター向けツールです。",
+      "features": [
+        {
+          "title": "動きはそのまま、見た目だけアニメ化",
+          "content": "ビデオからビデオAIは、元動画のモーション・表情・タイミングを保ちつつ、アニメ・カートゥーン・マンガスタイルをフレーム単位で一貫して適用します。",
+          "icon": "🎬"
+        },
+        {
+          "title": "20種類以上のスタイルから選べる",
+          "content": "スタジオジブリ風、韓国マンファ、日本マンガ、ディズニーカートゥーン、ナルト風など、多彩なスタイルから選択できます。テキストプロンプトや参考画像を使って、独自のスタイル変換も可能です。",
+          "icon": "🎨"
+        },
+        {
+          "title": "プロ仕様の仕上がり",
+          "content": "ビデオからビデオAIは、HD品質のアニメ・カートゥーン動画を生成します。スタイルが途中で乱れたり、チラついたりしないよう、スタイル適用を安定させています。",
+          "icon": "✨"
+        },
+        {
+          "title": "わかりやすいコスト設計",
+          "content": "スタイル変換と動画生成のコストが分かれており、どれくらいZapsを使うか事前に把握できます。スタイルだけ変えて遊びたいときにも使いやすい設計です。",
+          "icon": "⚡"
+        },
+        {
+          "title": "かんたん二段階ワークフロー",
+          "content": "動画をアップロード → 参照フレームにスタイルを適用 → 動画を生成、というシンプルな流れ。専門知識なしで、リアルタイム進行状況を見ながら使えます。",
+          "icon": "👌"
+        },
+        {
+          "title": "自動最適化で手間いらず",
+          "content": "ビデオからビデオAIは、対応形式（MP4 / MOV / AVI）の自動処理、動画長さに応じたZaps計算、必要に応じたトリミングなどを自動で行い、常に最適なスタイル変換を目指します。",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "ビデオからビデオAIよくある質問",
+      "description": "ビデオからビデオAIと動画スタイル変換の仕組み、料金、使い方のコツについてのFAQです。",
+      "q1": "ビデオからビデオAIはどう動作しますか？",
+      "a1": "ビデオからビデオAIは、2ステップの動画スタイル変換プロセスを採用しています。1）先頭フレームを抽出し、選択したアニメ／カートゥーンスタイルを適用して参照フレームを作成。2）その参照フレームをガイドとして、動画全体に同じスタイルを適用しつつ、元のモーションとタイミングを保ちます。これにより、全フレームで一貫したスタイル変換が可能になります。",
+      "q2": "ビデオからビデオAI で使える動画の条件は？",
+      "a2": "対応形式は MP4 / MOV / AVI で、ファイルサイズは最大50MBです。動画は15秒以内に制限されており、それより長い場合は自動でトリミングされます。これは、変換品質とコスト効率のバランスをとるためです。",
+      "q3": "動画スタイル変換にはどのくらい時間がかかりますか？",
+      "a3": "通常、全体で5〜10分ほどです。スタイル変換（Video Style Transfer）が約1〜3分、動画生成が約3〜7分かかります。進行状況はリアルタイムで確認できます。",
+      "q4": "ビデオからビデオAIの料金はどうなっていますか？",
+      "a4": "スタイル変換と動画生成に、それぞれ動画の長さに応じたZapsがかかります。処理前に必要Zapsが表示され、スタイル変換と生成が成功した場合にのみZapsが消費されます。",
+      "q5": "カスタムの動画スタイルを作ることはできますか？",
+      "a5": "はい。スタジオジブリ、韓国マンファ、日本マンガなどのプリセットに加えて、テキストプロンプトや参考画像を使い、オリジナルのVideo Style Transferスタイルを作成できます。",
+      "q6": "ビデオからビデオAIに適した入力動画の特徴は？",
+      "a6": "一番良い結果が出やすいのは、被写体がはっきり映っていて、ブレや暗さの少ない動画です。大きめの人物や物体、安定したカメラ、シンプルな背景が理想です。特に5秒前後の短め動画や、人物が明確に映ったクリップがVideo Style Transferとの相性が良いです。"
+    },
+    "cta": {
+      "title": "今すぐ無料でビデオからビデオAIを試してみよう！",
+      "description": "あなたの動画を、アニメ・カートゥーン・マンガ風の映像に変換してみませんか？Video Style Transfer テクノロジーで、手軽に“別世界の動画”を作成できます。",
+      "buttonText": "ビデオからビデオAIを無料で試す"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/dancing-input.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/fox-boy.webm",
+      "inputLabel": "オリジナル動画",
+      "outputLabel": "変換後の動画",
+      "description": "アニメ | スタイル：狐っ子（Fox Girl/Boy）風"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/drum-set.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/the-simpsons.webm",
+      "inputLabel": "オリジナル動画",
+      "outputLabel": "変換後の動画",
+      "description": "映画・TV風 | スタイル：ザ・シンプソンズ風"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/skateboard.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/minfecraft.webm",
+      "inputLabel": "オリジナル動画",
+      "outputLabel": "変換後の動画",
+      "description": "ゲーム | スタイル：マインクラフト風"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "オリジナル動画",
+      "outputLabel": "コミックスタイル",
+      "description": "スタイル変換 | スタイル：コミック風",
+      "isSpecial": true
+    },
+    {
+      "id": 5,
+      "layout": "single",
+      "type": "video",
+      "output": "/images/examples/video-to-video/dog.webm",
+      "label": "アニメ変換",
+      "description": "実写の犬をアニメキャラクター風に変換した例。リアルなペットがアニメキャラとして登場します。"
+    }
+  ]
+}

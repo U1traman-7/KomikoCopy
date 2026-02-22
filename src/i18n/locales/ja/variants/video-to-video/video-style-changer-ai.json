@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Video Style Changer AI - 動画スタイルを自由自在に変換",
+      "description": "Video Style Changer AIで、動画を魔法のようにスタイルチェンジ。最先端のAI技術で、オリジナルコンテンツの魅力をそのままに、アニメ、カートゥーン、マンガ、マンファなど、多様なスタイルに動画を変換できます。",
+      "keywords": "Video Style Changer AI, 動画スタイル変換AI, アニメ動画変換, カートゥーン動画スタイル, マンガスタイル変換, マンファアニメーション, 動画変換ツール, アニメ動画エディター, マンガ動画プロセッサー, 動画をアニメ化, アニメーション動画スタイル, コミック動画エンハンスメント, アニメスタイル変更, カートゥーン動画変更"
+    },
+    "hero": {
+      "title": "Video Style Changer AI"
+    },
+    "whatIs": {
+      "title": "Video Style Changer AIとは？",
+      "description": "Video Style Changer AIは、動画をアニメ、カートゥーン、マンガ、マンファなどのアニメーションスタイルに変換し、動画の可能性を広げるツールです。高度なAI技術を活用し、2段階のプロセスで、まず参照フレームにスタイルを適用し、次に元の動きを維持しながら動画全体を変換します。スタジオジブリ風アニメや韓国マンファ風など、豊富なスタイルから選択でき、革新的な動画変換を実現します。"
+    },
+    "examples": {
+      "title": "Video Style Changer AIの活用例",
+      "description": "Video Style Changer AIで動画がどのように変化するかをご覧ください。アニメ、カートゥーン、マンガ、マンファなど、あらゆる動画を、自然な動きの一貫性を保ちながらスタイル変換できます。"
+    },
+    "howToUse": {
+      "title": "Video Style Changer AIの使い方",
+      "steps": [
+        {
+          "title": "動画をアップロード",
+          "content": "まず、Video Style Changer AIで処理する動画ファイル（MP4、MOV、AVI）をアップロードしてください。15秒以内、50MBまで対応しています。15秒を超える動画は、自動的にトリミングされます。"
+        },
+        {
+          "title": "参照スタイルを選択",
+          "content": "動画から最初のフレームを抽出し、選択したアニメ、カートゥーン、またはマンガスタイルを適用します。これにより、コンテンツ全体で一貫したスタイル変換の基盤が確立されます。"
+        },
+        {
+          "title": "アーティスティックなスタイルを選択",
+          "content": "スタジオジブリ風など、100種類以上のプリセットスタイルから選択するか、テキストプロンプトと参照画像を使用して独自のカスタムスタイルを作成できます。Video Style Changer AIで、無限の芸術的な可能性を追求してください。"
+        },
+        {
+          "title": "スタイル化された動画を生成",
+          "content": "スタイル化された参照フレームを基に、高度なAI技術によって、元の動き、表情、タイミングを維持しながら、動画全体が変換されます。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Video Style Changer AIを選ぶ理由",
+      "description": "Video Style Changer AIは、多様なスタイルの選択肢、自然な動きの一貫性、そして透明性の高い料金体系で、他に類を見ない動画スタイル変換を提供します。",
+      "features": [
+        {
+          "title": "自然な動きの一貫性",
+          "content": "アニメ、カートゥーン、マンガスタイルを適用しても、元の動画の動き、表情、タイミングはそのまま保持されます。",
+          "icon": "🎬"
+        },
+        {
+          "title": "豊富なスタイルオプション",
+          "content": "スタジオジブリ風アニメ、韓国マンファ風、日本のマンガ風など、100種類以上のスタイルから選択できます。テキストプロンプトや参照画像で、さらにスタイルをカスタマイズすることも可能です。",
+          "icon": "🎨"
+        },
+        {
+          "title": "プロフェッショナルなクオリティ",
+          "content": "Video Style Changer AIで、ちらつきやノイズのない高解像度な動画変換を実現。スムーズなトランジションと完璧な品質をお約束します。",
+          "icon": "✨"
+        },
+        {
+          "title": "透明性の高い料金体系",
+          "content": "変換と動画生成にかかる費用を明確に提示。追加費用を気にせず、自由にスタイルを試すことができます。",
+          "icon": "⚡"
+        },
+        {
+          "title": "シンプルな操作性",
+          "content": "Video Style Changer AIは、専門知識不要で簡単に操作できます。動画をアップロードし、参照フレームにスタイルを適用するだけで、リアルタイムで進行状況を確認しながら動画を生成できます。",
+          "icon": "👌"
+        },
+        {
+          "title": "組み込みの最適化機能",
+          "content": "MP4、MOV、AVIなど、さまざまな形式に対応。動画の長さに応じて自動トリミングやコスト評価を行い、効率的な処理を実現します。",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくあるご質問",
+      "description": "Video Style Changer AIの使い方や機能に関する疑問を解決します。",
+      "q1": "Video Style Changer AIとは？",
+      "a1": "Video Style Changer AIは、既存の動画をアニメ、カートゥーン、マンガ、マンファなど、さまざまな芸術的なスタイルに変換するAIツールです。高度なAI技術により、自然な動きの一貫性とオリジナリティを維持しながら、高品質な動画スタイリングを提供します。",
+      "q2": "Video Style Changer AIの使い方は？",
+      "a2": "Video Style Changer AIの使い方は簡単です！まず動画ファイルをアップロードし、次に参照フレームのスタイルを選択して、動画全体にスタイルを適用します。高度なAI技術により、動画の元の動きとタイミングを維持しながら、シームレスなスタイリングプロセスを実現します。",
+      "q3": "Video Style Changer AIはどのように機能しますか？",
+      "a3": "Video Style Changer AIは、AIベースの技術を使用して動画変換を行います。まず、参照動画フレームにスタイルを適用し、次にこのスタイルを動画全体に一貫して適用することで機能します。これにより、プロセス全体で芸術的な一貫性と自然な動きを保ちます。",
+      "q4": "最高の動画スタイル変更ツールは？",
+      "a4": "KomikoAIは、最高の動画スタイル変更ツールを提供することを目指しています。プロ品質の結果、強力かつ楽しいカスタマイズ機能、そして直感的なワークフローを提供し、主要なAI作成プラットフォームとなることを目標としています。KomikoAIのVideo Style Changer AIを使用すると、動画スタイルを正確に変換でき、優れた視覚変換を求めるユーザーに最適です。",
+      "q5": "KomikoAI Video Style Changer AIはオンラインで無料ですか？",
+      "a5": "はい、KomikoAIでVideo Style Changer AIを無料で試すことができます。サブスクリプション登録は不要です。今すぐ動画スタイリングAIをお試しください！",
+      "q6": "Video Style Changer AIで何ができますか？",
+      "a6": "KomikoAIのVideo Style Changer AIを使用すると、アニメ、カートゥーン、マンガ、またはマンファの本質を取り入れた、息をのむような動画を作成できます。動画の元の動きやニュアンスを保持しながら、様々な芸術的なスタイルを実現し、デジタルコンテンツ全体の多様な創造的表現を促進します。",
+      "q7": "スマートフォンでVideo Style Changer AIを使用できますか？",
+      "a7": "はい、スマートフォンやパソコンなど、さまざまなデバイスでWebアプリとしてVideo Style Changer AIを使用できるため、どなたでも手軽にご利用いただけます。",
+      "q8": "Video Style Changer AIで生成した動画をダウンロードできますか？",
+      "a8": "はい、KomikoAIのVideo Style Changer AIを使用すると、MP4、MOV、AVIなど、さまざまな形式で生成された動画を簡単にエクスポートでき、共有も簡単です。",
+      "q9": "Video Style Changer AIを使うメリットは？",
+      "a9": "Video Style Changer AIを使用すると、優れた芸術的な一貫性と多様なスタイルで動画を変換できます。AIツールを使用することで、元の動画の動きを維持しながら、多様な視覚スタイルを探索できます。これにより、コンテンツを強化するための豊富なクリエイティブツールが提供されます。"
+    },
+    "cta": {
+      "title": "Video Style Changer AIで、今すぐ無料で動画をスタイルチェンジ！",
+      "description": "高度なAI動画スタイル技術で、アーティスティックな動画コンテンツを創造しましょう。",
+      "buttonText": "Video Style Changer AIを無料で試す"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-man.webm",
+      "inputLabel": "元の動画",
+      "outputLabel": "カートゥーンスタイル",
+      "description": "スタイル変換 | 元の動画をカートゥーンスタイルに変換"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/korean-manhwa-girl.webm",
+      "inputLabel": "元の動画",
+      "outputLabel": "韓国マンファスタイル",
+      "description": "スタイル変換 | 元の動画を韓国マンファスタイルに変換"
+    }
+  ],
+  "originalKeyword": "Video Style Changer AI",
+  "pageStructure": [
+    "例",
+    "使い方",
+    "概要",
+    "利用する理由",
+    "その他のAIツール",
+    "よくある質問",
+    "CTA"
+  ]
+}

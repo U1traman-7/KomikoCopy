@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "input": "https://d31cygw67xifd4.cloudfront.net/examples/playground/input/woman-photo.webp",
+      "output": "https://d31cygw67xifd4.cloudfront.net/examples/playground/output/comic/woman-comic.webp",
+      "style": "漫画"
+    },
+    {
+      "input": "https://d31cygw67xifd4.cloudfront.net/examples/playground/input/man-photo.webp",
+      "output": "https://d31cygw67xifd4.cloudfront.net/examples/playground/output/comic/man-comic.webp",
+      "style": "漫画"
+    }
+  ],
+  "seo": {
+    "howToUse": {
+      "title": "如何使用 AI 漫画书滤镜"
+    },
+    "benefits": {
+      "title": "为什么使用 AI 漫画书滤镜"
+    }
+  }
+}

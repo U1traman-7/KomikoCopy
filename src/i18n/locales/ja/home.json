@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "KomikoAI - AIアニメ生成・OCメーカー",
+    "og_title": "KomikoAI - AIアニメ生成・OCメーカー",
+    "twitter_title": "KomikoAI - AIアニメ生成・OCメーカー",
+    "description": "KomikoAIでオリジナルキャラクター、アニメ、コミックを作成しましょう。ファンダム向けに構築された100以上のAIツールとクリエイティブテンプレートを探索できます。",
+    "keywords": "Komiko, KomikoAI, Komiko AI, Komikoアプリ, komiko.ai, komiko.app, AIアニメ生成, OCクリエイター, OCジェネレーター, アニメAI, AIアートジェネレーター, AIコミックジェネレーター, AIアニメーションジェネレーター, AIビデオエフェクト, アニメキャラクタークリエイター"
+  },
+  "hero": {
+    "title": "何を作りますか？",
+    "community": "コミュニティ作品"
+  },
+  "tabs": {
+    "for_you": "お気に入りアプリ",
+    "comic": "コミック",
+    "illustration": "イラスト",
+    "animation": "アニメーション",
+    "all": "すべてのAIアプリ"
+  },
+  "create_section": {
+    "ai_art": "AIアート",
+    "storytelling": "ストーリーテリング",
+    "create": "ストーリーを作る"
+  },
+  "carousel": {
+    "slide1_title": "AniGen コンペティション",
+    "slide1_desc": "ショートAIアニメを作って、総額$3,000以上 & プロ版をゲット！",
+    "check_it_out": "詳細を見る",
+    "slide2_title": "ビデオからビデオAI",
+    "slide2_desc": "どんな動画でもアニメ・カートゥーン・マンガ・マンファ風に変換。元の動きをそのままにスタイルチェンジ。",
+    "check_it_out2": "試してみる"
+  },
+  "banner": {
+    "merch_title": "キャラクターをグッズ化しよう",
+    "merch_description": "ぬいぐるみ、バッジ、アクリルスタンドなど、あなたのキャラをそのまま商品に。",
+    "try_now": "今すぐ試す"
+  },
+  "activity_posts": {
+    "video_to_video": {
+      "title": "ビデオからビデオAI",
+      "description": "ビデオからビデオAIで、どんな動画でもアニメ・カートゥーン・マンガ風に変換。",
+      "button": "今すぐ試す"
+    },
+    "character_merch": {
+      "title": "キャラクターをグッズに変換",
+      "description": "バッジ、抱き枕、ぬいぐるみ、アクスタなどお気に入りキャラでオリジナルグッズを作成。",
+      "button": "今すぐ試す"
+    },
+    "ambassador": {
+      "title": "KomikoAI アンバサダーで収益を獲得💰",
+      "description": "KomikoAIのアンバサダーになって、紹介報酬を獲得しよう。今すぐアフィリエイトに参加！",
+      "button": "参加する"
+    },
+    "anishort": {
+      "title": "短編アニメを発見するか、自分のシリーズを公開しよう！",
+      "button": "探索を始めよう"
+    },
+    "ad": "広告",
+    "new-playground": {
+      "title": "✨100種類以上のテンプレートを探索",
+      "description": "チビ絵文字、キャラシート、リアル系グッズ、卍解エフェクトなど、写真やキャラを人気テンプレに変換！",
+      "button": "試してみる"
+    },
+    "sora-2": {
+      "title": "Sora 2がKomikoAIに登場！#SoraAnimeChallenge に参加して総額$1000の賞金をゲット！",
+      "button": "参加する"
+    },
+    "anchoret": {
+      "title": "ショートアニメを楽しむ、または自分のシリーズを公開しよう！",
+      "button": "今すぐ探索"
+    }
+  },
+  "ai_apps_banner": {
+    "eyebrow": "AIアプリ ハブ",
+    "title": "お気に入りに登録して、イラスト・アニメーション・コミックなど全AIアプリのカタログをチェックできます。",
+    "description": "お気に入りのツールを保存したり、イラストやアニメーション、マンガのAIアプリカタログを楽しんだりできます。",
+    "cta": "AIアプリを開く"
+  },
+  "generateArt": "アートを生成",
+  "generateTagArt": "{{tag}}アートを生成"
+}

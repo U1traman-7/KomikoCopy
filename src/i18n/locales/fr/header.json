@@ -1,0 +1,26 @@
+{
+  "logo_alt": "Logo KomikoAI",
+  "login_button": "Connexion",
+  "join_discord": "Rejoindre le Discord",
+  "modal": {
+    "create_account_or_signin": "Créer un compte ou se connecter",
+    "sign_in": "Se connecter",
+    "trouble_signing_in": "Mot de passe oublié ?"
+  },
+  "promotion_offer": "OFFRE SPÉCIALE | Économisez 50 % sur l'abonnement annuel ! Offre valable jusqu'à <time>{{deadline}}</time>",
+  "promotion_offer_mobile": "Économisez 50 % ! Offre valable jusqu'à <time>{{deadline}}</time>",
+  "promotion_offer_mobile_days": "Économisez 50 % ! L'offre expire dans <time>{{days}} jour(s)</time>",
+  "promotion_offer_days": "OFFRE LIMITÉE | Économisez 50 % sur le forfait annuel ! L'offre expire dans <time>{{days}} jour(s)</time>",
+  "new_user_promotion": {
+    "title": "OFFRE EXCLUSIVE NOUVEL UTILISATEUR | 40 % DE RÉDUCTION sur l'abonnement annuel ! Offre valable jusqu'à <time>{{deadline}}</time>",
+    "mobile_title": "40 % DE RÉDUCTION sur l'abonnement annuel ! Offre valable jusqu'à <time>{{deadline}}</time>",
+    "mobile_days_title": "40 % DE RÉDUCTION sur l'abonnement annuel ! Offre valable jusqu'à <time>{{days}} Jour(s)</time>",
+    "days_title": "OFFRE EXCLUSIVE NOUVEL UTILISATEUR | 40 % DE RÉDUCTION sur l'abonnement annuel ! Offre valable jusqu'à <time>{{days}} Jour(s)</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "PROMOTION FLASH DU WEEK-END : -30% sur l'abonnement annuel ! Offre valable jusqu'à <time>{{deadline}}</time>",
+    "mobile_title": "-30% sur l'abonnement annuel ! Offre valable jusqu'à <time>{{deadline}}</time>",
+    "mobile_days_title": "-30% sur l'abonnement annuel ! Offre valable jusqu'à <time>{{days}} Jour(s)</time>",
+    "days_title": "PROMOTION FLASH DU WEEK-END : -30% sur l'abonnement annuel ! Offre valable jusqu'à <time>{{days}} Jour(s)</time>"
+  }
+}

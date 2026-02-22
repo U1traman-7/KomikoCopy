@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Generator Sprite Sheet AI",
+      "description": "Konversikan foto Anda menjadi sprite sheet unik dengan mudah menggunakan Generator Sprite Sheet AI kami. Sempurna untuk seni game dan animasi. Mulai gunakan secara gratis!",
+      "keywords": "Generator Sprite Sheet AI, Pembuat karakter AI, Generator anime AI, foto ke sprite sheet, generator seni sprite sheet"
+    },
+    "hero": {
+      "title": "Generator Sprite Sheet AI"
+    },
+    "whatIs": {
+      "title": "Apa Itu Generator Sprite Sheet AI?",
+      "description": "Generator Sprite Sheet AI memanfaatkan algoritma AI terdepan untuk mengubah foto Anda menjadi seni sprite berpiksel yang dirancang untuk game dan animasi. Ideal bagi pengembang, seniman, dan penggemar, alat ini membantu Anda menghasilkan sprite unik dengan cepat, sehingga Anda dapat fokus pada proyek kreatif Anda."
+    },
+    "examples": {
+      "title": "Contoh Generator Sprite Sheet AI",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Generator Sprite Sheet AI",
+      "steps": [
+        {
+          "title": "Langkah 1: Unggah Foto Anda",
+          "content": "Unggah gambar yang jelas (JPG atau PNG) yang menyoroti subjek dengan baik untuk mendapatkan transformasi yang optimal."
+        },
+        {
+          "title": "Langkah 2: Pilih Template Sprite Sheet",
+          "content": "Pilih template Sprite Sheet yang sesuai untuk mengubah foto Anda menjadi gaya sprite sheet yang diinginkan."
+        },
+        {
+          "title": "Langkah 3: Konversi ke Sprite Sheet",
+          "content": "Klik 'Konversi ke Sprite Sheet', dan AI kami akan dengan cepat membuat serangkaian sprite yang mencerminkan gaya yang Anda pilih."
+        },
+        {
+          "title": "Langkah 4: Unduh atau Bagikan Karya Seni Anda",
+          "content": "Unduh sprite sheet sempurna Anda dengan mudah atau bagikan kreasi Anda kepada dunia."
+        }
+      ],
+      "subtitle": "Ikuti langkah-langkah mudah berikut untuk membuat sprite sheet Anda."
+    },
+    "benefits": {
+      "title": "Mengapa Memilih Generator Sprite Sheet AI?",
+      "description": "Temukan fitur unik yang membedakan generator kami.",
+      "features": [
+        {
+          "title": "🕹️ Transformasi Instan",
+          "content": "Masuki dunia kreativitas dengan transformasi sprite instan, memastikan waktu jeda minimal antara ide dan realisasinya."
+        },
+        {
+          "title": "🎨 Pemilihan Gaya yang Dapat Disesuaikan",
+          "content": "Akses berbagai gaya seni yang memenuhi selera yang berbeda, dari seni piksel retro hingga desain kontemporer, memperkaya alur kerja artistik Anda."
+        },
+        {
+          "title": "✏️ Output Resolusi Tinggi",
+          "content": "AI kami memberikan hasil berkualitas tinggi dengan detail yang tajam, membuat visual seni piksel Anda sangat jelas."
+        },
+        {
+          "title": "🌟 Pengalaman Pengguna yang Intuitif",
+          "content": "Antarmuka kami yang mudah digunakan memungkinkan siapa pun, tanpa memandang tingkat keahlian, untuk dengan mudah membuat sprite sheet yang mengesankan."
+        },
+        {
+          "title": "🚀 Waktu Pemrosesan Cepat",
+          "content": "Dengan memanfaatkan teknologi AI, generator kami dioptimalkan untuk menangani konversi dengan cepat, memungkinkan Anda untuk menciptakan lebih banyak dalam waktu yang lebih singkat."
+        },
+        {
+          "title": "🌐 Ideal untuk Pembuatan Game",
+          "content": "Dirancang untuk pengembang game yang mencari sprite serbaguna, tingkatkan karakter Anda dan animasikan kreasi Anda dengan mulus."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Generator Sprite Sheet AI FAQ",
+      "description": "",
+      "q1": "Apa itu Generator Sprite Sheet AI dan bagaimana cara kerjanya?",
+      "a1": "Generator Sprite Sheet AI menggunakan AI untuk mengubah gambar Anda menjadi sprite sheet bergaya yang sesuai dengan beragam gaya artistik, menjadikannya efisien bagi para kreator.",
+      "q2": "Bagaimana cara mencapai hasil terbaik dengan Generator Sprite Sheet AI?",
+      "a2": "Pilih gambar yang jelas dan terdefinisi dengan baik, serta jelajahi berbagai opsi gaya yang tersedia untuk melengkapi visi kreatif Anda.",
+      "q3": "Apakah Generator Sprite Sheet AI gratis untuk digunakan?",
+      "a3": "Ya, nikmati transformasi awal tanpa biaya saat Anda menjelajahi berbagai gaya!",
+      "q4": "Apa yang membuat generator ini unik dibandingkan dengan yang lain?",
+      "a4": "Generator kami berspesialisasi dalam menghasilkan sprite sheet kohesif yang dirancang untuk game dan animasi, yang dirancang khusus untuk tujuan artistik tersebut.",
+      "q5": "Bisakah saya menggunakan sprite sheet yang dihasilkan secara komersial?",
+      "a5": "Tentu saja! Jangan ragu untuk memasukkan sprite sheet Anda ke dalam proyek apa pun, termasuk proyek komersial."
+    },
+    "cta": {
+      "title": "Mulai Perjalanan Anda dengan Generator Sprite Sheet AI",
+      "description": "Bebaskan kreativitas Anda dengan mengubah gambar menjadi seni piksel menggunakan generator kami yang efisien. Pencapaian artistik Anda berikutnya hanya dengan sekali klik!",
+      "buttonText": "Hasilkan Seni Sprite Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into AI sprite art",
+  "originalKeyword": "AI Sprite Sheet Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl-output.webp",
+      "input": "/images/examples/playground/ai-plush-generator/girl-input.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/jjk-output.webp",
+      "input": "/images/examples/oc-maker/jjk-oc-maker/8_portrait-2-3_3043.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl2-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/3_portrait-2-3_274.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl3-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/1_portrait-2-3_9842.webp",
+      "prompt": "Style: Sprite Sheet"
+    }
+  ]
+}

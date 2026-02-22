@@ -1,0 +1,26 @@
+{
+  "logo_alt": "KomikoAI 标志",
+  "login_button": "登录",
+  "join_discord": "加入 Discord",
+  "modal": {
+    "create_account_or_signin": "创建账户或登录",
+    "sign_in": "登录",
+    "trouble_signing_in": "登录遇到问题？"
+  },
+  "promotion_offer": "限时优惠 | 年度计划立减50%！优惠有效期至：<time>{{deadline}}</time>",
+  "promotion_offer_mobile": "立减50%！优惠有效期至：<time>{{deadline}}</time>",
+  "promotion_offer_mobile_days": "立省50%！优惠将在<time>{{days}}天</time>后结束",
+  "promotion_offer_days": "限时优惠 | 年度计划立减50%！折扣将在<time>{{days}}天</time>后截止",
+  "new_user_promotion": {
+    "title": "新用户专属 | 年度计划享 40% 折扣！优惠截止于 <time>{{deadline}}</time>",
+    "mobile_title": "年度计划享 40% 折扣！优惠截止于 <time>{{deadline}}</time>",
+    "mobile_days_title": "年度计划享 40% 折扣！优惠截止于 <time>{{days}} 天</time>",
+    "days_title": "新用户专属 | 年度计划享 40% 折扣！优惠截止于 <time>{{days}} 天</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "周末闪购：年费享7折优惠！活动至<time>{{deadline}}</time>结束",
+    "mobile_title": "年费享7折优惠！活动至<time>{{deadline}}</time>结束",
+    "mobile_days_title": "年费享7折优惠！距结束还有<time>{{days}}天</time>",
+    "days_title": "周末闪购：年费享7折优惠！距结束还有<time>{{days}}天</time>"
+  }
+}

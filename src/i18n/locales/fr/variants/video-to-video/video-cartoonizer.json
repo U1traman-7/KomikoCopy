@@ -1,0 +1,140 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Cartooniseur Vidéo",
+      "description": "Découvrez le Cartooniseur Vidéo : Transformez vos vidéos en animations de dessins animés captivantes grâce à notre technologie de cartoonisation vidéo basée sur l'IA. Convertissez facilement une vidéo en dessin animé en un seul clic.",
+      "keywords": "Cartooniseur Vidéo, conversion vidéo IA, outil de vidéo de dessin animé, convertisseur de style anime, créateur de vidéo manga, outil d'animation, créateur de vidéo de dessin animé, application de vidéo animée, transformation de vidéo de bande dessinée, générateur d'animation de dessin animé, transformer une vidéo en dessin animé"
+    },
+    "hero": {
+      "title": "Cartooniseur Vidéo"
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que le Cartooniseur Vidéo ?",
+      "description": "Le Cartooniseur Vidéo transforme vos vidéos en animations de dessins animés visuellement saisissantes grâce à une technologie de conversion vidéo avancée basée sur l'IA. Cet outil innovant applique un style de dessin animé choisi à une image de référence et l'utilise pour convertir l'intégralité de la vidéo, en préservant le mouvement et le rythme d'origine. Explorez plus de 100 styles artistiques, y compris des esthétiques de dessins animés et d'anime populaires, avec notre Cartooniseur Vidéo. Convertissez facilement une vidéo en dessin animé pour le partage sur les réseaux sociaux ou pour vos projets créatifs."
+    },
+    "examples": {
+      "title": "Exemples de Cartooniseur Vidéo",
+      "description": "Découvrez comment notre Cartooniseur Vidéo transforme les vidéos en superbes animations de dessins animés, en préservant le mouvement tout en appliquant des transformations artistiques uniques. Découvrez des exemples qui illustrent la conversion d'une vidéo en dessin animé avec une qualité constante."
+    },
+    "howToUse": {
+      "title": "Comment utiliser le Cartooniseur Vidéo",
+      "steps": [
+        {
+          "title": "Téléchargez votre vidéo",
+          "content": "Téléchargez n'importe quel fichier vidéo (MP4, MOV, AVI) d'une durée maximale de 15 secondes et d'une taille maximale de 50 Mo pour le traitement par le Cartooniseur Vidéo. Les vidéos de plus de 15 secondes sont automatiquement coupées pour une transformation optimale."
+        },
+        {
+          "title": "Appliquez une référence de style de dessin animé",
+          "content": "Une image de référence est extraite et stylisée avec le design de dessin animé ou d'anime choisi pour une transformation cohérente tout au long de la vidéo."
+        },
+        {
+          "title": "Sélectionnez votre style artistique",
+          "content": "Choisissez parmi plus de 100 styles prédéfinis ou créez des transformations personnalisées à l'aide d'invites textuelles et d'illustrations de référence pour une expérience de cartoonisation vidéo personnalisée. Utilisez l'option 'Transformer une vidéo en dessin animé' pour privilégier une forte cartoonification."
+        },
+        {
+          "title": "Générez avec le Cartooniseur Vidéo",
+          "content": "Le Cartooniseur Vidéo traite entièrement votre vidéo en utilisant l'image stylisée, conservant ainsi l'intégrité du mouvement et de l'expression d'origine, grâce à une technologie de conversion avancée. Cliquez sur générer pour transformer une vidéo en dessin animé en quelques minutes."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi utiliser le Cartooniseur Vidéo ?",
+      "description": "Profitez de notre Cartooniseur Vidéo alimenté par l'IA pour des transformations d'animation visuellement époustouflantes avec préservation du mouvement, une grande variété de styles et une tarification transparente.",
+      "features": [
+        {
+          "title": "Intégrité du mouvement",
+          "content": "Le Cartooniseur Vidéo conserve chaque nuance du mouvement d'origine, des expressions faciales et du rythme tout en appliquant de manière cohérente des esthétiques détaillées de dessins animés ou d'anime.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Large sélection de styles",
+          "content": "Accédez à plus de 100 styles de dessins animés, y compris les animations Disney, les films du Studio Ghibli et l'anime Naruto. Les utilisateurs peuvent également créer des styles personnalisés avec des invites textuelles ou des images à l'aide du Cartooniseur Vidéo. Les préréglages de transformation de vidéo en dessin animé rendent la sélection rapide et efficace.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Sorties de haute qualité",
+          "content": "Produisez des animations de dessins animés de qualité professionnelle avec une application artistique cohérente, des transitions fluides et des résultats sans artefacts grâce aux fonctionnalités avancées du Cartooniseur Vidéo.",
+          "icon": "🌟"
+        },
+        {
+          "title": "Tarification transparente",
+          "content": "Structure de prix claire avec des frais distincts pour la transformation de style et la génération de vidéo. Expérimentez librement avec différents styles sur le Cartooniseur Vidéo sans frais supplémentaires.",
+          "icon": "💰"
+        },
+        {
+          "title": "Flux de travail simple",
+          "content": "Le Cartooniseur Vidéo offre un processus simple en deux étapes : téléchargez la vidéo et appliquez le style à l'image de référence, puis générez l'animation complète. Un suivi instantané de la progression est disponible. Conçu pour que n'importe qui puisse transformer rapidement une vidéo en dessin animé.",
+          "icon": "🔨"
+        },
+        {
+          "title": "Optimisation automatique",
+          "content": "Notre Cartooniseur Vidéo utilise une technologie intelligente pour le découpage vidéo automatique, la compatibilité des formats et le traitement à coût calculé pour une génération de résultats optimale.",
+          "icon": "🔧"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foire aux questions",
+      "description": "Questions fréquemment posées sur le Cartooniseur Vidéo IA, le processus, la tarification et l'utilisation de l'outil.",
+      "q1": "Qu'est-ce que le Cartooniseur Vidéo ?",
+      "a1": "Le Cartooniseur Vidéo est un outil d'IA qui transforme les vidéos ordinaires en animations de dessins animés, en utilisant une technologie intelligente pour appliquer des styles artistiques de manière cohérente tout en conservant le mouvement et le rythme d'origine. Il vous permet de transformer une vidéo en dessin animé avec un minimum d'effort.",
+      "q2": "Comment utiliser le Cartooniseur Vidéo ?",
+      "a2": "L'utilisation du Cartooniseur Vidéo est simple ! Téléchargez d'abord votre vidéo, puis appliquez le style de dessin animé souhaité et enfin générez votre sortie animée. Ce processus permet aux utilisateurs de visualiser la progression et les résultats en temps réel.",
+      "q3": "Comment fonctionne le Cartooniseur Vidéo ?",
+      "a3": "Le Cartooniseur Vidéo utilise un traitement d'IA avancé pour transformer les vidéos en dessins animés. Il fonctionne en appliquant un style choisi à une image de référence, assurant ainsi une transformation cohérente tout au long, tout en préservant l'intégrité du mouvement.",
+      "q4": "Quel est le meilleur outil de transformation vidéo ?",
+      "a4": "KomikoAI fournit le meilleur outil de transformation vidéo. Notre objectif est d'être la principale plateforme de création d'IA en fournissant des résultats de qualité professionnelle, une personnalisation puissante et agréable, et un flux de travail intuitif, le tout gratuitement. Avec le Cartooniseur Vidéo de KomikoAI, vous pouvez créer de superbes dessins animés et des vidéos de style anime, ce qui le rend parfait pour les créateurs de vidéos et les passionnés. De nombreux utilisateurs font confiance à KomikoAI pour transformer rapidement et de manière fiable une vidéo en dessin animé.",
+      "q5": "Le Cartooniseur Vidéo de KomikoAI est-il gratuit en ligne ?",
+      "a5": "Oui, vous pouvez tester gratuitement le Cartooniseur Vidéo sur KomikoAI, sans avoir à vous inscrire à un abonnement. Essayez notre outil dès aujourd'hui !",
+      "q6": "Que puis-je faire avec le Cartooniseur Vidéo ?",
+      "a6": "Vous pouvez utiliser le Cartooniseur Vidéo sur KomikoAI pour créer des animations attrayantes dans des styles de dessins animés ou d'anime, adaptées au partage sur les réseaux sociaux, aux projets créatifs et à l'amélioration de vos collections de vidéos personnelles.",
+      "q7": "Puis-je utiliser le Cartooniseur Vidéo sur mon téléphone ?",
+      "a7": "Oui, vous pouvez utiliser le Cartooniseur Vidéo en tant qu'application Web sur différents appareils, y compris les smartphones et les ordinateurs, ce qui le rend accessible à tous.",
+      "q8": "Puis-je télécharger ma génération à partir du Cartooniseur Vidéo ?",
+      "a8": "Oui, le Cartooniseur Vidéo de KomikoAI vous permet d'exporter votre génération dans différents formats, tels que MP4, MOV, AVI, pour un partage facile.",
+      "q9": "Pourquoi devrais-je utiliser le Cartooniseur Vidéo ?",
+      "a9": "L'utilisation du Cartooniseur Vidéo peut améliorer votre contenu vidéo en créant des animations captivantes. Notre outil vous permet de convertir sans effort des vidéos en dessins animés ou en styles d'anime de haute qualité, assurant des transitions fluides et un rendu artistique éclatant. Si votre objectif est de transformer une vidéo en dessin animé, cet outil est conçu pour vous."
+    },
+    "cta": {
+      "title": "Transformez des vidéos GRATUITEMENT avec notre Cartooniseur Vidéo dès aujourd'hui !",
+      "description": "Créez dès maintenant des vidéos captivantes de style dessin animé grâce à notre puissante technologie d'IA. Transformez instantanément une vidéo en dessin animé.",
+      "buttonText": "Essayez gratuitement notre Cartooniseur Vidéo"
+    }
+  },
+  "originalKeyword": "Video Cartoonizer",
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-dj.webm",
+      "inputLabel": "Vidéo originale",
+      "outputLabel": "Style de dessin animé",
+      "description": "Transfert de style | Transférez la vidéo originale dans un style de dessin animé — Transformez une vidéo en dessin animé"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-girl.webm",
+      "inputLabel": "Vidéo originale",
+      "outputLabel": "Style de dessin animé",
+      "description": "Transfert de style | Transférez la vidéo originale dans un style de dessin animé — Transformez une vidéo en dessin animé"
+    }
+  ],
+  "config": {
+    "defaultStyle": "cartoon"
+  },
+  "pageStructure": [
+    "exemples",
+    "plusD'outilsIA",
+    "qu'est-ce que c'est",
+    "comment utiliser",
+    "pourquoi utiliser",
+    "faq",
+    "cta"
+  ],
+  "placeholderText": "Generate Video Cartoonizer style artwork"
+}

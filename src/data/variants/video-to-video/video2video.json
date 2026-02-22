@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Video2Video",
+      "description": "Video2Video brings your videos to life. This powerful tool converts videos into stunning anime, cartoon, manga, and manhwa styles while preserving original motion and timing.",
+      "keywords": "Video2Video, Video2Video, video style transformation, anime video conversion, cartoon filter, manga style effect, manhwa animation rendering, artistic video tool, anime style video creator, manga video generator, animation stylization, visually stunning transformation, animated video creation, artistic video rendering, anime transformation effect, cartoon style conversion"
+    },
+    "hero": {
+      "title": "Video2Video"
+    },
+    "whatIs": {
+      "title": "What is Video2Video",
+      "description": "Video2Video revolutionizes standard videos into artistic anime, cartoon, manga, and manhwa animations through advanced Video Style Transfer. The process transforms a reference frame using your chosen style, ensuring seamless motion and timing throughout the entire video. Over 100 styles, including Studio Ghibli, Korean manhwa, and Japanese manga aesthetics, are accessible for your creative projects."
+    },
+    "examples": {
+      "title": "Video2Video Examples",
+      "description": "Witness how Video2Video transforms videos into captivating anime, cartoon, manga, and manhwa styles with impeccable motion retention through cutting-edge Video Style Transfer.",
+      "style": "Styled Impressions"
+    },
+    "howToUse": {
+      "title": "How to Use Video2Video",
+      "steps": [
+        {
+          "title": "Upload Your Source Video",
+          "content": "Submit any video file (MP4, MOV, AVI) up to 15 seconds and 50MB to initiate Video2Video processing. Longer videos are auto-trimmed for a seamless transformation experience."
+        },
+        {
+          "title": "Select Your Style Reference",
+          "content": "Our system captures the initial frame and applies your designated anime, cartoon, or manga style, setting a template for consistent style throughout the Video2Video process."
+        },
+        {
+          "title": "Choose from Artistic Styles",
+          "content": "Pick from an extensive collection of over 100 preset styles like Studio Ghibli anime, Korean manhwa, Japanese manga, or create unique styles using text inputs or sample images for Video Style Transfer."
+        },
+        {
+          "title": "Implement Complete Video2Video Transformation",
+          "content": "The Video2Video tool revitalizes the entire video, utilizing the styled frame to maintain original motion and timing while showcasing advanced artistic transformations."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Choose Video2Video",
+      "description": "Video2Video offers unparalleled Video Style Transfer with uncompromised motion detail and a vast range of stylistic options, all while providing transparency in pricing.",
+      "features": [
+        {
+          "title": "Exceptional Motion Integrity",
+          "content": "Video2Video retains each nuance of original movement, facial expressions, and precision in timing while implementing anime, cartoon, or manga styles with flawless style consistency.",
+          "icon": "🎬"
+        },
+        {
+          "title": "100+ Style Options",
+          "content": "Select from numerous styles including Studio Ghibli anime, Korean manhwa, Japanese manga, Disney-inspired cartoons, and custom creations with text prompts or image references through Video2Video.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Superior Output Quality",
+          "content": "Generate high-definition anime and cartoon videos with smooth transitions, consistent style application, and no visual distortions with Video2Video’s polished Video Style Transfer.",
+          "icon": "✨"
+        },
+        {
+          "title": "Transparent Pricing Strategy",
+          "content": "Distinct charges for Video Style Transfer and video creation allow for experimental styling without incurring additional video costs. Discover new creative possibilities with Video2Video.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Streamlined Conversion Process",
+          "content": "Effortless Video2Video operation involves video submission, style application to a reference frame, followed by full video conversion. No technical skills required and includes real-time progress visibility.",
+          "icon": "👌"
+        },
+        {
+          "title": "Intelligent Optimization",
+          "content": "Video2Video system offers automatic trimming, format versatility (MP4, MOV, AVI), and cost-effective processing with duration-based pricing for efficient Video Style Transfer.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Common inquiries regarding Video2Video and its stylization process answered here for your convenience.",
+      "q1": "What is Video2Video?",
+      "a1": "Video2Video is an AI tool that converts standard videos into anime, cartoon, manga, and manhwa-style animations using advanced Video Style Transfer. It applies artistic effects while preserving motion and timing with over 100 available styles.",
+      "q2": "How to use Video2Video?",
+      "a2": "Using Video2Video is simple! First, upload your video, then select an artistic style, and complete the transformation. With preset styles and custom options ready for use, the platform provides easy real-time style transformation.",
+      "q3": "How does Video2Video work?",
+      "a3": "Video2Video uses Video Style Transfer technology to convert videos. It works by extracting a sample frame, applying selected artistic styles, and transforming the full video while ensuring motion integrity and timing preservation.",
+      "q4": "What is the best video stylization tool?",
+      "a4": "KomikoAI provides the best video stylization tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Video2Video, you can achieve stunning style transformations, making it perfect for users who are digital creators, artists, and enthusiasts.",
+      "q5": "Is the KomikoVideo2Video free online?",
+      "a5": "Yes, you can test out the Video2Video on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Video2Video?",
+      "a6": "You can use Video2Video on KomikoAI to create animated content from live-action videos. Transform videos into unique anime styles, cartoon characters, manga visuals, and manhwa animations with Video2Video’s diverse style offerings.",
+      "q7": "Can I use Video2Video on my phone?",
+      "a7": "Yes, you can use Video2Video as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Video2Video?",
+      "a8": "Yes, KomikoAI's Video2Video allows you to export your generation in various formats, such as MP4, MOV, AVI, for easy sharing.",
+      "q9": "Why should I use Video2Video?",
+      "a9": "Using Video2Video can transform your videos into creative masterpieces. Our tool allows you to apply various artistic styles, maintain motion accuracy, and create visually captivating content easily, perfect for sharing on social media or enhancing creative projects."
+    },
+    "cta": {
+      "title": "Transform Your Videos for FREE with Our Video2Video Today!",
+      "description": "Bring your videos to life with stunning style transformations effortlessly.",
+      "buttonText": "Try Our Video2Video Free"
+    }
+  },
+  "originalKeyword": "Video2Video",
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon Style",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Claymation Style",
+      "description": "Change Material | Transform original video into clay style"
+    }
+  ],
+  "pageStructure": [
+    "examples",
+    "whyUse",
+    "whatIs",
+    "howToUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

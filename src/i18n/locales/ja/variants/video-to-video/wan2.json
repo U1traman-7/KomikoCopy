@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan Video2Video",
+      "description": "Wan Video2Videoで動画を高度にスタイル変換。Wan 2.1モデル搭載、モーション維持に優れ、アニメ、カートゥーン、マンガ、マンファ表現に最適。",
+      "fullDescription": "オープンソースのWan 2.1 Diffusion Transformerモデルを基盤とする革新的なWan Video2Video技術。お手持ちの動画を、モーションの一貫性を保ちながら、アニメ作品、カートゥーンアニメーション、マンガ調ビジュアル、マンファのような美しさへと変換します。バイリンガルテキスト生成や映画品質の出力に対応し、8GB以上のVRAMを搭載した一般的なGPUで効率的に動作します。",
+      "keywords": "Wan Video2Video, AI動画変換, ビデオスタイル変換, アニメ動画生成, カートゥーン動画フィルター, マンガスタイル変換, マンファアニメーション, 動画アニメ化, アニメーションツール, カートゥーン動画メーカー, アニメスタイル動画, マンガ動画クリエイター, 動画スタイル適用, アニメーション動画ジェネレーター, コミック動画フィルター, アニメ変換, カートゥーンスタイル変換, Wan 2.1"
+    },
+    "hero": {
+      "title": "Wan Video2Video"
+    },
+    "whatIs": {
+      "title": "Wan Video2Videoとは",
+      "description": "Wan Video2Videoは、オープンソースのWan 2.1モデルを搭載した高度な動画変換技術です。Diffusion Transformerアーキテクチャと革新的なWan-VAEを特徴とし、通常の動画をアニメ、カートゥーン、マンガ、マンファ スタイルのアニメーションに変換することに特化、モーションの一貫性とタイミングを忠実に再現します。業界をリードするパフォーマンス（VBenchスコア84.7%以上）を備え、参照動画生成、標準的な動画編集、マスクされた動画編集など、多様なワークフローをサポート。独自のバイリンガルテキスト生成機能に加え、8GB VRAM以上のGPUで効率的に動作します。"
+    },
+    "examples": {
+      "title": "Video to Videoの適用例",
+      "description": "高度なスタイル変換技術により、モーションの一貫性を維持しながら、お手持ちの動画がアニメ、カートゥーン、マンガ、マンファの各スタイルへと見事に変換される様子をご覧ください。Wan Video2Videoと同様の機能に加え、さらなる機能拡張を実現しています。"
+    },
+    "howToUse": {
+      "title": "Wan Video2Videoのご利用方法",
+      "steps": [
+        {
+          "title": "動画のアップロード",
+          "content": "Wan Video2Videoによる処理のため、最大15秒、50MBまでの動画ファイル（MP4、MOV、AVI形式）をアップロードしてください。15秒を超える動画は、最適なパフォーマンスを得るために自動的にトリミングされます。"
+        },
+        {
+          "title": "ワークフロータイプの選択",
+          "content": "参照動画生成、標準的な動画編集、またはマスクされた動画編集から選択し、Wan Video2Video変換を詳細に制御します。"
+        },
+        {
+          "title": "アーティスティックスタイルの選択",
+          "content": "アニメ、マンガ、カートゥーン、マンファのプリセットから選択するか、テキストプロンプトと参照画像を使用して独自のカスタムスタイルを作成し、パーソナライズされたWan Video2Video変換を実現します。"
+        },
+        {
+          "title": "Wan Video2Videoによる生成",
+          "content": "高度なDiffusion Transformer処理により、元のモーション、表情、タイミングをすべて維持しながら、動画全体をスタイル変換します。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Wan Video2Videoの利点",
+      "description": "Wan Video2Videoは、優れたモーション維持、映画品質の出力、および一般的なハードウェアでの効率的な処理により、業界をリードする動画スタイル変換を提供します。",
+      "features": [
+        {
+          "title": "完璧なモーション維持",
+          "content": "Wan Video2VideoはDiffusion Transformer技術により、アニメ、カートゥーン、マンガといったスタイルを適用する際にも、元のモーション、表情、タイミングの細部をフレーム単位で一貫して維持します。",
+          "icon": "🎬"
+        },
+        {
+          "title": "映画品質の出力",
+          "content": "豊かなテクスチャ、リアルなライティング、スムーズなトランジションを備えた高解像度動画を生成。ちらつきやノイズのない、映画品質の結果を提供します。",
+          "icon": "✨"
+        },
+        {
+          "title": "多彩なスタイルオプション",
+          "content": "アニメ、マンガ、カートゥーン、マンファ スタイルから選択、または柔軟なワークフローシステムを使用して、テキストプロンプトや参照画像によるカスタム変換も可能です。",
+          "icon": "🎨"
+        },
+        {
+          "title": "効率的な処理",
+          "content": "革新的なWan-VAEアーキテクチャを搭載し、8GB以上のVRAMを持つGPUで効率的に動作するため、高度な動画生成が身近になります。",
+          "icon": "⚡"
+        },
+        {
+          "title": "高度な編集ワークフロー",
+          "content": "参照動画、動画編集、マスクされた動画編集オプションを利用し、変換を細かく制御、特定のオブジェクトのみを置き換えることも可能です。",
+          "icon": "✂️"
+        },
+        {
+          "title": "バイリンガルテキスト生成",
+          "content": "動画フレーム内で鮮明かつダイナミックなバイリンガル（中国語/英語）テキストを生成する独自の機能を搭載。多様なフォントと効果をサポートします。",
+          "icon": "📝"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Wan Video2Videoに関するFAQ",
+      "description": "Wan Video2Video技術、処理能力、ハードウェア要件、およびワークフローに関するよくある質問。",
+      "q1": "Wan Video2Videoとは何ですか？",
+      "a1": "Wan Video2Videoは、オープンソースのWan 2.1モデルを搭載した動画変換技術であり、Diffusion Transformerアーキテクチャと、効率的なビデオスタイル変換を実現するWan-VAEを特徴としています。モーション維持に優れています。",
+      "q2": "Wan Video2Videoはどのような動画形式に対応していますか？",
+      "a2": "MP4、MOV、AVI形式に対応し、最大ファイルサイズは50MBです。処理効率の最適化のため、動画は15秒に制限されており、15秒を超える場合は自動的にトリミングされます。",
+      "q3": "Wan Video2Videoの処理にはどのくらいの時間がかかりますか？",
+      "a3": "通常、動画の長さと選択されたワークフローに応じて5〜10分程度です。Diffusion Transformerアーキテクチャにより、高品質を維持しながら効率的な生成が可能です。",
+      "q4": "Wan Video2Videoに必要なハードウェアは？",
+      "a4": "最低8GB以上のVRAMを搭載したGPUで動作します。軽量な1.3Bモデルは一般的なハードウェア向けに最適化されており、14Bモデルは最高のパフォーマンスを得るためにプロフェッショナルGPUが必要です。",
+      "q5": "スタイルをカスタマイズできますか？",
+      "a5": "はい。テキストプロンプト、参照画像、アニメ、マンガ、カートゥーン、マンファといったプリセットオプションにより、カスタムスタイルの作成が可能です。",
+      "q6": "Wan Video2Videoの独自性は？",
+      "a6": "独自のバイリンガルテキスト生成、優れたモーション維持、映画品質の出力、一般的なハードウェアでの効率的な処理が特徴です。これらはすべて、オープンソースのWan 2.1モデルによって実現されています。"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-girl.webm",
+      "inputLabel": "元の動画",
+      "outputLabel": "クレイアニメ風スタイル",
+      "description": "素材の変換 | 元の動画をクレイアニメ風に変換"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "元の動画",
+      "outputLabel": "コミック風スタイル",
+      "description": "スタイルの変換 | 元の動画をコミック風スタイルに変換"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-skiing2.webm",
+      "inputLabel": "元の動画",
+      "outputLabel": "カートゥーン風スタイル",
+      "description": "スタイルの変換 | 元の動画をカートゥーン風スタイルに変換"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/anime-man.webm",
+      "inputLabel": "元の動画",
+      "outputLabel": "アニメ風スタイル",
+      "description": "スタイルの変換 | 元の動画をアニメ風スタイルに変換"
+    }
+  ],
+  "originalKeyword": "Wan Video2Videoの代替"
+}

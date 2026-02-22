@@ -1,0 +1,59 @@
+{
+  "ui": {
+    "styleModes": {
+      "templates": "Modèles",
+      "prompt": "Invite",
+      "expression": "Expressions"
+    },
+    "prompt": {
+      "placeholder": "Décrivez la transformation de style souhaitée...",
+      "example": "Exemple : \"Remplacez l'homme par Naruto\", \"Transformez ceci en style anime classique des années 90\", \"Habillez la fille avec une robe à fleurs\""
+    },
+    "characterInfo": "Informations sur le personnage",
+    "selectCharacter": "Sélectionner le personnage",
+    "selectCharacterPlaceholder": "Choisissez parmi vos personnages...",
+    "characterName": "Nom du personnage",
+    "characterNamePlaceholder": "Entrez le nom du personnage...",
+    "occupation": "Profession",
+    "occupationPlaceholder": "ex. : Chauffeur Uber, Étudiant, Détective...",
+    "language": "Langue",
+    "characterInfoPlaceholder": "Entrez le contexte, l'histoire ou la description du personnage...",
+    "input": {
+      "image": {
+        "title": "Image"
+      }
+    },
+    "customInput": {
+      "hogwartsSorting": {
+        "q1": "Votre OC découvre une porte mystérieuse dans une forêt sombre. Que font-ils ?",
+        "a1_1": "Donnez un coup de pied dedans. Quoi qu'il y ait à l'intérieur, il vaut mieux être prêt.",
+        "a1_2": "Examinez d'abord la serrure. Il y a toujours une manière d'entrer sans forcer.",
+        "a1_3": "Étudiez les runes sur la porte. Les symboles contiennent la réponse.",
+        "a1_4": "Frappez poliment. On ne sait jamais qui pourrait avoir besoin d'aide à l'intérieur.",
+        "q2": "Un ennemi puissant se présente ! Comment votre personnage réagit-il ?",
+        "a2_1": "Attaque frontale. Le courage triomphe des batailles.",
+        "a2_2": "Visez leur faiblesse. La victoire exige une stratégie.",
+        "a2_3": "Analysez d'abord leur comportement. La connaissance est l'arme ultime.",
+        "a2_4": "Protégez vos alliés d'abord. Personne ne combat seul.",
+        "q3": "Votre OC entre dans une salle contenant quatre objets magiques. Lequel les attire ?",
+        "a3_1": "Une épée flamboyante qui brûle intensément face à la peur.",
+        "a3_2": "Une couronne ancienne révélant les véritables intentions d'autrui.",
+        "a3_3": "Un livre renfermant tous les secrets oubliés du monde.",
+        "a3_4": "Une graine qui peut croître pour devenir tout ce dont le cœur a réellement besoin.",
+        "q4": "Votre personnage entend un secret dangereux. Que font-ils ?",
+        "a4_1": "Le révéler immédiatement. La vérité doit être connue.",
+        "a4_2": "Le garder pour plus tard. L'information est un pouvoir pour le moment opportun.",
+        "a4_3": "Enquêter davantage. Une pièce ne constitue pas l'ensemble du puzzle.",
+        "a4_4": "Le partager uniquement avec ceux qui nécessitent protection.",
+        "q5": "Un être magique accorde un vœu à votre OC. Quel est leur choix ?",
+        "a5_1": "La force de protéger tous ceux que j'aime.",
+        "a5_2": "Le pouvoir de réaliser mes plus grandes ambitions.",
+        "a5_3": "La sagesse pour comprendre tous les mystères.",
+        "a5_4": "La capacité d'apporter le bonheur aux autres."
+      }
+    }
+  },
+  "button": {
+    "convert": "Convertir"
+  }
+}

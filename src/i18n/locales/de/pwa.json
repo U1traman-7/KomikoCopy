@@ -1,0 +1,17 @@
+{
+  "install": {
+    "title": "KomikoAI installieren",
+    "description": "Zum Startbildschirm hinzufügen für eine bessere Erfahrung",
+    "instruction": "Tippen Sie auf Teilen und dann Zum Home-Bildschirm",
+    "install_button": "Installieren",
+    "android_instruction": "Tippen Sie auf die Schaltfläche 'Installieren' oben",
+    "dismiss": "Später erinnern",
+    "step1": "Tippen Sie auf die „Teilen“-Schaltfläche",
+    "step2": "Wählen Sie „Zum Home-Bildschirm hinzufügen“",
+    "ios_note": "Sie können von Ihrem Home-Bildschirm aus schneller auf KomikoAI zugreifen!",
+    "got_it": "Verstanden!",
+    "android_step1": "Tippen Sie auf das Menü im Browser (⋮)",
+    "android_step2": "Wählen Sie \"Zum Startbildschirm hinzufügen\" aus.",
+    "android_note": "Sie können von Ihrem Startbildschirm aus schneller auf KomikoAI zugreifen!"
+  }
+}

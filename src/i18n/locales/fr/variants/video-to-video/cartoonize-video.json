@@ -1,0 +1,150 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Cartooniser une vidéo",
+      "description": "Cartoonisez une vidéo grâce à notre technologie d'IA avancée. Transformez vos vidéos ordinaires en superbes animations de dessins animés tout en préservant le mouvement et le rythme d'origine, pour des effets d'animation de qualité professionnelle.",
+      "fullDescription": "Découvrez notre outil révolutionnaire de cartoonisation vidéo qui transforme vos vidéos ordinaires en animations captivantes de style dessin animé, et ce, de manière fluide. Utilisant une technologie de pointe, notre outil préserve le mouvement original et les expressions faciales tout en appliquant diverses transformations artistiques rappelant les dessins animés classiques, l'anime et les styles manga. Il est idéal pour les créateurs de contenu, les artistes numériques et les passionnés d'animation à la recherche de solutions d'animation de qualité professionnelle.",
+      "keywords": "Cartooniser une vidéo, générateur de vidéos de dessins animés IA, convertisseur de vidéos en dessins animés, outil d'animation vidéo, conversion de vidéos anime, transformation de vidéos manga, créateur de vidéos de dessins animés, création de vidéos animées, filtre vidéo de style dessin animé, outil d'animation numérique"
+    },
+    "hero": {
+      "title": "Cartooniser une vidéo"
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que cartooniser une vidéo ?",
+      "description": "Cartooniser une vidéo transforme vos vidéos ordinaires en animations attrayantes de style dessin animé à l'aide d'une technologie d'IA innovante. Cet outil puissant applique des styles de dessins animés pour créer des vidéos animées tout en préservant le mouvement et les expressions faciales d'origine. Mettez l'accent sur l'esthétique des dessins animés grâce à la possibilité de personnaliser votre transformation à l'aide de 'prompts' textuels et d'images de référence pour des effets d'animation uniques."
+    },
+    "examples": {
+      "title": "Exemples de cartoonisation de vidéo",
+      "description": "Découvrez la magie de notre outil de cartoonisation de vidéo qui transforme sans effort des vidéos en animations de dessins animés ravissantes, tout en conservant une cohérence de mouvement et une qualité artistique impeccables.",
+      "style": "Style Appliqué"
+    },
+    "howToUse": {
+      "title": "Comment utiliser cartooniser une vidéo",
+      "steps": [
+        {
+          "title": "Télécharger votre vidéo",
+          "content": "Téléchargez facilement n'importe quel fichier vidéo (MP4, MOV, AVI) d'une durée maximale de 15 secondes et de 50 Mo pour le traitement avec cartooniser une vidéo. Les vidéos plus longues seront automatiquement coupées pour des résultats optimaux."
+        },
+        {
+          "title": "Sélectionner un style de dessin animé",
+          "content": "Dans la section Sélection du style, accédez à la catégorie Transfert de style et choisissez un style de dessin animé. Vous pouvez également explorer d'autres options telles que l'anime, le manga ou créer des styles personnalisés à l'aide de 'prompts' textuels et d'images de référence."
+        },
+        {
+          "title": "Aperçu et référence du style de dessin animé",
+          "content": "Nous extrayons la première image et appliquons le style de dessin animé que vous avez choisi pour créer une référence stylisée. Cet aperçu montre comment le style de dessin animé sélectionné sera appliqué à l'ensemble de la vidéo."
+        },
+        {
+          "title": "Générer votre vidéo cartoonisée",
+          "content": "Avec l'image de référence affinée, notre outil cartooniser une vidéo transforme votre vidéo complète tout en préservant tous les mouvements, expressions et rythme d'origine, garantissant ainsi un résultat animé de haute qualité."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi utiliser cartooniser une vidéo",
+      "description": "Cartooniser une vidéo est spécialisé dans la transformation de vos vidéos en superbes animations de dessins animés, offrant des effets d'animation professionnels tout en préservant le mouvement original et les détails artistiques.",
+      "features": [
+        {
+          "title": "Préservation du mouvement",
+          "content": "Cartooniser une vidéo conserve les mouvements essentiels, les émotions faciales et le rythme tout en appliquant des styles artistiques, permettant une expérience visuelle naturelle et immersive.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Personnalisation du style de dessin animé",
+          "content": "Cartooniser une vidéo offre une transformation de style de dessin animé, ainsi que la possibilité de créer des styles d'animation personnalisés à l'aide de 'prompts' textuels et d'images de référence pour des effets d'animation personnalisés.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Résultat d'animation de haute qualité",
+          "content": "Générez des vidéos animées colorées et nettes avec des transitions parfaites et sans problèmes grâce à notre technologie cartooniser une vidéo, garantissant un avantage professionnel à vos créations.",
+          "icon": "✨"
+        },
+        {
+          "title": "Tarification transparente et équitable",
+          "content": "Profitez d'une tarification claire avec des frais distincts pour la cartoonisation et la génération de vidéos. Expérimentez avec différents styles sans encourir de coûts vidéo supplémentaires.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Processus convivial",
+          "content": "Le flux de travail de cartooniser une vidéo est simple : téléchargez votre vidéo, appliquez des styles à l'image de référence et générez la vidéo cartoonisée complète sans avoir besoin d'expertise technique.",
+          "icon": "👌"
+        },
+        {
+          "title": "Traitement vidéo intelligent",
+          "content": "Notre outil cartooniser une vidéo optimise automatiquement les fichiers d'entrée pour le format et la durée, garantissant un traitement efficace et une gestion des coûts pour vos transformations animées.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ sur cartooniser une vidéo",
+      "description": "Trouvez des réponses aux questions fréquemment posées concernant notre outil cartooniser une vidéo, le processus de transformation, la tarification et les meilleures pratiques pour des résultats optimaux.",
+      "q1": "Comment fonctionne cartooniser une vidéo ?",
+      "a1": "L'outil cartooniser une vidéo suit un processus en deux étapes : 1) Extrayez une image de référence et appliquez le style de dessin animé ou d'anime que vous avez choisi, 2) Transformez l'ensemble de la vidéo à l'aide de cette image stylisée pour garantir une application cohérente sur toutes les images.",
+      "q2": "Quelles sont les restrictions de format vidéo pour cartooniser une vidéo ?",
+      "a2": "Nous prenons en charge les formats MP4, MOV et AVI avec une taille de fichier maximale de 50 Mo pour le traitement. Les vidéos sont limitées à 15 secondes et sont automatiquement coupées pour un traitement optimal.",
+      "q3": "Combien de temps dure le processus de cartoonisation ?",
+      "a3": "Le traitement d'une vidéo via notre outil cartooniser une vidéo prend environ 5 à 10 minutes, y compris la cartoonisation (1 à 3 minutes) et la génération de vidéo (3 à 7 minutes). Vous pouvez suivre la progression en temps réel.",
+      "q4": "Quels sont les coûts associés à la cartoonisation ?",
+      "a4": "La tarification est divisée en frais de cartoonisation et de génération vidéo en fonction de la durée. Les coûts sont indiqués à l'avance et les crédits ne sont déduits qu'une fois la cartoonisation réussie.",
+      "q5": "Puis-je créer des styles personnalisés ?",
+      "a5": "Absolument ! Vous pouvez utiliser le style de dessin animé ou créer des animations uniques en rédigeant des 'prompts' textuels personnalisés ou en téléchargeant des images de référence.",
+      "q6": "Quel type de vidéos produit les meilleurs résultats ?",
+      "a6": "Pour des résultats optimaux, visez des sujets clairs, un bon éclairage et un mouvement stable dans vos vidéos. Les courts clips (idéalement moins de 5 secondes) mettant en vedette des personnes ou des objets distincts donnent les meilleurs résultats."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-man.webm",
+      "inputLabel": "Vidéo originale",
+      "outputLabel": "Style dessin animé",
+      "description": "Transfert de style | Transférer la vidéo originale dans un style dessin animé"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-skiing2.webm",
+      "inputLabel": "Vidéo originale",
+      "outputLabel": "Style dessin animé",
+      "description": "Transfert de style | Transférer la vidéo originale dans un style dessin animé"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-dj.webm",
+      "inputLabel": "Vidéo originale",
+      "outputLabel": "Style dessin animé",
+      "description": "Transfert de style | Transférer la vidéo originale dans un style dessin animé"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-girl.webm",
+      "inputLabel": "Vidéo originale",
+      "outputLabel": "Style dessin animé",
+      "description": "Transfert de style | Transférer la vidéo originale dans un style dessin animé"
+    }
+  ],
+  "config": {
+    "defaultStyle": "cartoon"
+  },
+  "originalKeyword": "Cartoonize Video",
+  "pageStructure": [
+    "exemples",
+    "avantages",
+    "qu'est-ceQue",
+    "commentUtiliser",
+    "plusOutilsIA",
+    "faq",
+    "cta"
+  ]
+}

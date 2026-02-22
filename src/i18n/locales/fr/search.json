@@ -1,0 +1,21 @@
+{
+  "title": "Recherche",
+  "placeholder": "Rechercher des œuvres, des personnages, des utilisateurs, etc.",
+  "input_placeholder": "Rechercher",
+  "history": "Historique de recherche",
+  "clear": "Effacer l'historique",
+  "tags": "Mots-clés",
+  "no_results": "Aucun résultat trouvé",
+  "filter": {
+    "all": "Tout",
+    "users": "Utilisateurs",
+    "characters": "Personnages",
+    "templates": "Modèles",
+    "posts": "Publications",
+    "tags": "Tags"
+  },
+  "see_all": "Voir tout",
+  "followers": "Abonnés",
+  "follow": "Suivre",
+  "following": "Abonnement"
+}

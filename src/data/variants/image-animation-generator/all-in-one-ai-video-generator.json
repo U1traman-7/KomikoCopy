@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "All-in-One AI Video Generator - KomikoAI",
+      "description": "Transform your static images into captivating animated videos with the All-in-One AI Video Generator. Perfect for artists, content creators, and anime fans looking to elevate their projects.",
+      "fullDescription": "Discover the revolutionary All-in-One AI Video Generator that brings static visuals to life with stunning animations. This powerful tool is designed for artists, content creators, and digital enthusiasts eager to create unique animations from their drawings, comics, manga, and illustrations.",
+      "keywords": "All-in-One AI Video Generator, All-in-One Video Generation Platform, AI video generator, image to video, video animation, AI animation, static image animation, video creation tool, anime video generator"
+    },
+    "hero": {
+      "title": "All-in-One AI Video Generator",
+      "description": "Unlock endless creative possibilities with the All-in-One AI Video Generator. Transform static images into dynamic, eye-catching animations that engage and captivate your audience."
+    },
+    "whatIs": {
+      "title": "What is the All-in-One AI Video Generator?",
+      "description": "The All-in-One AI Video Generator is a groundbreaking tool that allows users to create stunning animations from static images. Whether it's for your comics, manga, or personal artwork, this platform harnesses the power of AI to animate visuals effortlessly."
+    },
+    "examples": {
+      "title": "AI Video Generator Animation Examples",
+      "description": "Explore fantastic animations created with the All-in-One AI Video Generator. Witness how your static images can transform into mesmerizing videos!"
+    },
+    "howToUse": {
+      "title": "How to use All-in-One AI Video Generator",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Start by uploading the static image you want to animate. Be it an illustration, a comic panel, or an anime character, our All-in-One AI Video Generator will make it come alive."
+        },
+        {
+          "title": "Provide a Prompt",
+          "content": "Write in a prompt to guide the animation. Describe the movement, expressions, or actions you’d like the AI to create in your video."
+        },
+        {
+          "title": "Generate Your Video",
+          "content": "Click 'Generate Video' and let the All-in-One AI Video Generator do its magic. Watch as your image transforms into a dynamic animated video."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Download your AI-generated video and showcase your creativity! Perfect for social media, online portfolios, and more."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use All-in-One AI Video Generator?",
+      "description": "Experience the transformative potential of the All-in-One AI Video Generator for your creative projects. Discover the advantages of AI-driven video creation!",
+      "features": [
+        {
+          "title": "Advanced AI Animation Engine",
+          "content": "Harness sophisticated artificial intelligence algorithms to transform your static artwork into dynamic, living videos with the All-in-One AI Video Generator.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Dynamic Video Creation",
+          "content": "Convert your still images into compelling animated content perfect for social media posts, marketing materials, and creative showcases.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Effortless Operation",
+          "content": "Simply upload your artwork, describe your vision, and let the All-in-One AI Video Generator bring your images to life with zero technical expertise required.",
+          "icon": "👌"
+        },
+        {
+          "title": "Lightning-Fast Processing",
+          "content": "Dramatically reduce animation workflow time. Generate professional-quality animated videos in just minutes with the All-in-One AI Video Generator!",
+          "icon": "⚡"
+        },
+        {
+          "title": "Studio-Grade Results",
+          "content": "Create polished animations featuring fluid motion and realistic movement that elevate your creative work to professional standards.",
+          "icon": "✨"
+        },
+        {
+          "title": "Unleash Creative Potential",
+          "content": "Concentrate on your artistic vision while the All-in-One AI Video Generator manages the technical animation process, enabling rapid content creation.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Expert Guide to All-in-One AI Video Generator",
+      "description": "Everything you need to know about using the All-in-One AI Video Generator to create animated videos from your static images.",
+      "q1": "What is the All-in-One AI Video Generator?",
+      "a1": "The All-in-One AI Video Generator is an innovative platform that utilizes artificial intelligence to convert static images into dynamic animated videos, enhancing your creativity and artistic expression.",
+      "q2": "How does the All-in-One AI Video Generator function?",
+      "a2": "Our AI technology analyzes your input image and the associated prompt, generating new frames that simulate movement and expression, resulting in engaging animated videos you can share.",
+      "q3": "What are the advantages of using an AI video generator?",
+      "a3": "The All-in-One AI Video Generator streamlines the animation process, allowing users to create high-quality animated content quickly without extensive technical knowledge or animation skills.",
+      "q4": "Can I use videos created with the All-in-One AI Video Generator for commercial purposes?",
+      "a4": "Yes, animations generated using the All-in-One AI Video Generator can be used for both personal and commercial projects. Please review our terms of service for more details.",
+      "q5": "What image formats are supported by the All-in-One AI Video Generator?",
+      "a5": "The platform supports standard image formats including JPG and PNG, with recommendations for high-resolution images to ensure quality animations.",
+      "q6": "What types of content are best suited for the All-in-One AI Video Generator?",
+      "a6": "Ideal for anime, manga, and comic styles, the All-in-One AI Video Generator excels with clear character designs and distinctive elements, enhancing the animation quality.",
+      "q7": "Do I need to have drawing skills to use the All-in-One AI Video Generator?",
+      "a7": "No artistic skills are required! The All-in-One AI Video Generator can animate your existing images, making it accessible to everyone regardless of their artistic background.",
+      "q8": "Are there any limitations to the All-in-One AI Video Generator?",
+      "a8": "While powerful, the All-in-One AI Video Generator has some limitations: highly complex images may need extra processing time, maintaining consistent artistic styles across all frames can be tricky, and high-resolution images may require more resources for processing."
+    }
+  },
+  "originalKeyword": "All-in-One AI Video Generator | All-in-One Video Generation Platform",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Kling",
+      "description": "Prompt: A girl is talking to herself peacefully",
+      "videoUrl": "/images/examples/image-animation-generator/output5.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Veo 3",
+      "description": "Prompt: A close up in a smooth, slow pan focuses intently on diced onions hitting a scorching hot pan, instantly creating a dramatic sizzle. Audio: distinct sizzle.",
+      "videoUrl": "/images/pages/veo3/example5.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: The boy slowly lean in, gently holds the girl's face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: AniSora",
+      "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+      "videoUrl": "/images/pages/anisora/example3.webm"
+    },
+    {
+      "id": 6,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A fairy sits in the blossom as the petals open",
+      "videoUrl": "/images/pages/vidu/flower.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ]
+}

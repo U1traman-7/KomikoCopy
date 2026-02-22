@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "title": "Upscaling de Vídeo com IA - KomikoAI",
+    "description": "A KomikoAI AI transforma vídeos de baixa qualidade em conteúdo de alta resolução com o nosso avançado upscaler de vídeo com IA. Experimente o aprimoramento de vídeo profissional com a KomikoAI AI, convertendo seus vídeos para FHD, 2K ou 4K, com detalhes naturais e clareza visual preservados.",
+    "keywords": "Upscaling de vídeo com IA, aprimoramento de vídeo, melhoria da qualidade de vídeo, conversor de vídeo HD, upscaler de vídeo 4K, processamento de vídeo com IA, aprimoramento da resolução de vídeo, upscaling de vídeo com aprendizado de máquina, aprimoramento de vídeo profissional, otimizador da qualidade de vídeo"
+  },
+  "title": "Upscaler de Vídeo com IA",
+  "description": "Utilize o nosso avançado upscaler de vídeo com IA para aumentar a resolução e melhorar a qualidade dos seus vídeos. A nossa tecnologia transforma vídeos de baixa qualidade em conteúdo de alta resolução impressionante. Quer necessite de upscaling para FHD, 2K ou 4K, o nosso aprimoramento de vídeo com IA oferece resultados profissionais com clareza e detalhes superiores.",
+  "input": {
+    "title": "Vídeo de Entrada",
+    "uploadPrompt": "Toque para carregar ou arraste o seu vídeo aqui",
+    "from_other_tools": "Vídeo recebido de {{source}}"
+  },
+  "results": {
+    "title": "Resultados do Vídeo",
+    "emptyState": "Os resultados serão exibidos aqui"
+  },
+  "seo": {
+    "transformTitle": "Transforme Seus Vídeos com Aprimoramento de Vídeo com IA",
+    "transformDescription": "Descubra como o upscaling de vídeo da KomikoAI AI utiliza o aprimoramento de vídeo baseado em aprendizado de máquina para otimizar o seu conteúdo. O nosso otimizador de vídeo com IA torna o upscaling de vídeo com qualidade profissional acessível a todos."
+  },
+  "steps": {
+    "step1": {
+      "title": "Passo 1: Enviar Vídeo",
+      "content": "Envie qualquer vídeo que pretenda aprimorar com o nosso upscaler de vídeo com IA. Suportamos os formatos de vídeo mais comuns."
+    },
+    "step2": {
+      "title": "Passo 2: Selecione a Resolução de Saída",
+      "content": "Escolha o nível de aumento de resolução desejado – faça o upscaling do seu vídeo para qualidade FHD, 2K ou 4K."
+    },
+    "step3": {
+      "title": "Passo 3: Processar Vídeo",
+      "content": "Clique no botão 'Upscale Video' para iniciar o processo de aprimoramento."
+    },
+    "step4": {
+      "title": "Passo 4: Baixar Resultado",
+      "content": "Baixe o seu vídeo aprimorado e desfrute da qualidade melhorada!"
+    }
+  },
+  "examples": {
+    "title": "Exemplo de Upscaling de Vídeo com IA",
+    "description": "Veja os resultados de upscaling de vídeo com IA gerados pelos utilizadores da KomikoAI",
+    "browserNotSupported": "O seu navegador não suporta a tag de vídeo.",
+    "inputLabel": "Exemplo de Vídeo de Entrada",
+    "outputLabel": "Vídeo Upscaled de Saída"
+  },
+  "benefits": {
+    "title": "Por que deve fazer upscaling dos seus vídeos com IA",
+    "description": "O Upscaler de Vídeo com IA da KomikoAI transforma os seus vídeos de baixa resolução em conteúdo impressionante de alta qualidade, perfeito para uso pessoal e profissional.",
+    "feature1": {
+      "title": "Upscaling de Vídeo com IA",
+      "content": "O nosso upscaler de vídeo com IA oferece resultados de nível profissional, aprimorando de forma inteligente a qualidade do vídeo e aumentando a resolução, enquanto mantém o movimento natural."
+    },
+    "feature2": {
+      "title": "Múltiplas Opções de Resolução",
+      "content": "Faça o upscaling de vídeo para a qualidade desejada – escolha entre FHD (1080p), 2K (1440p) ou 4K (2160p) para melhorar a qualidade do vídeo para qualquer plataforma."
+    },
+    "feature3": {
+      "title": "Aprimoramento Detalhado com IA",
+      "content": "A nossa tecnologia de upscaling de vídeo com IA analisa e aprimora cada frame, oferecendo clareza e detalhes superiores, preservando o carácter original do vídeo."
+    },
+    "feature4": {
+      "title": "Resultados Profissionais",
+      "content": "Transforme imagens antigas ou de baixa qualidade em conteúdo de nível profissional adequado para streaming, apresentações ou redes sociais."
+    },
+    "feature5": {
+      "title": "Processamento Rápido",
+      "content": "Experimente o aprimoramento rápido de vídeo com o nosso pipeline de processamento de IA otimizado, economizando tempo e esforço."
+    },
+    "feature6": {
+      "title": "Compatibilidade Universal",
+      "content": "Funciona com vários formatos e durações de vídeo, tornando-o perfeito para aprimorar vídeos pessoais, conteúdo de marketing ou projetos profissionais."
+    }
+  },
+  "guide": {
+    "title": "Guia Completo para Aprimoramento de Vídeo com IA",
+    "description": "Aprenda tudo sobre como melhorar a qualidade de vídeo com o upscaler de vídeo da KomikoAI AI. Obtenha respostas de especialistas sobre a nossa tecnologia de aprimoramento de vídeo baseada em aprendizado de máquina e como ela pode transformar o seu conteúdo."
+  },
+  "faq": {
+    "question1": "O que é o Upscaler de Vídeo com IA da KomikoAI?",
+    "answer1": "O upscaler de vídeo com IA da KomikoAI é uma ferramenta de ponta que usa IA para melhorar a qualidade do vídeo e aumentar a resolução. A nossa tecnologia de upscaling de vídeo com IA transforma automaticamente vídeos de baixa qualidade em conteúdo FHD, 2K ou 4K cristalino, preservando detalhes naturais e fidelidade visual.",
+    "question2": "Como funciona o nosso upscaling de vídeo com IA?",
+    "answer2": "O nosso upscaler de vídeo com IA usa modelos avançados de aprendizado de máquina treinados com milhões de vídeos de alta qualidade. A IA analisa cada frame para melhorar a qualidade do vídeo, aumentar a resolução e melhorar a clareza geral, mantendo um movimento suave e de aparência natural. Este processo de aprimoramento de vídeo com IA oferece resultados superiores em comparação com os métodos tradicionais de upscaling.",
+    "question3": "Quais são os benefícios do upscaling de vídeo com IA?",
+    "answer3": {
+      "point1": "Transforme vídeos de baixa resolução em conteúdo HD cristalino",
+      "point2": "Melhore a qualidade do vídeo, mantendo o movimento natural",
+      "point3": "Remova artefatos de compressão e ruído de vídeo",
+      "point4": "Escolha entre várias resoluções de saída (FHD/2K/4K) para obter resultados perfeitos"
+    },
+    "question4": "Que formatos e tamanhos de vídeo são suportados?",
+    "answer4": "O nosso upscaler de vídeo com IA funciona com arquivos de vídeo MP4 de qualquer tamanho. Pode aprimorar os seus vídeos para resolução FHD (1080p), 2K (1440p) ou 4K (2160p), dependendo das suas necessidades de qualidade.",
+    "question5": "O upscaler de vídeo com IA é gratuito?",
+    "answer5": "Comece a aprimorar os seus vídeos gratuitamente com os zaps (créditos) complementares da KomikoAI. Para necessidades profissionais, os nossos planos pagos oferecem zaps adicionais, tempos de processamento mais rápidos e acesso a saídas de resolução mais alta.",
+    "question6": "Que resolução devo escolher para o meu vídeo?",
+    "answer6": "Selecione FHD (1080p) para excelente qualidade HD adequada para a maioria das plataformas online, 2K (1440p) para conteúdo de vídeo premium ou 4K (2160p) para projetos profissionais de ultra-alta definição. Resoluções mais altas oferecem melhor qualidade, mas exigem mais tempo de processamento."
+  },
+  "modal": {
+    "deleteTitle": "Confirmação de Eliminação",
+    "deleteConfirmation": "Tem certeza que deseja eliminar este vídeo? Esta ação não pode ser desfeita.",
+    "cancel": "Cancelar",
+    "delete": "Eliminar"
+  },
+  "notifications": {
+    "deleteSuccess": "Eliminação bem-sucedida",
+    "deleteFailed": "Falha ao eliminar",
+    "upscaleSuccess": "Upscale de vídeo bem-sucedido",
+    "upscaleFailed": "Falha no upscale de vídeo",
+    "downloadFailed": "Falha ao baixar",
+    "noZaps": "Por favor, compre mais zaps"
+  },
+  "upscale_video": "Upscale Video"
+}

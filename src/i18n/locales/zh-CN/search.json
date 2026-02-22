@@ -1,0 +1,21 @@
+{
+  "title": "搜索",
+  "placeholder": "搜索作品、角色或用户...",
+  "input_placeholder": "搜索",
+  "history": "搜索历史",
+  "clear": "清除",
+  "tags": "标签",
+  "no_results": "无结果",
+  "see_all": "查看全部",
+  "followers": "粉丝",
+  "follow": "关注",
+  "following": "已关注",
+  "filter": {
+    "all": "全部",
+    "users": "用户",
+    "characters": "角色",
+    "templates": "模板",
+    "tags": "标记",
+    "posts": "作品"
+  }
+}

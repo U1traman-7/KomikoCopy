@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Vorlagen | Komiko AI",
+    "description": "Entdecken Sie kuratierte, Anime-optimierte Voreinstellungen für Playground, Videoeffekte, Video-zu-Video und Dance-Tools. Tippen Sie auf eine Vorlage, um mit den perfekten, voreingestellten Einstellungen loszulegen.",
+    "keywords": "Anime-Vorlagengalerie, Komiko-Voreinstellungen, Videoeffekt-Vorlagen, Cosplay-Vorlagen"
+  },
+  "hero": {
+    "eyebrow": "Vorlagen",
+    "title": "Handverlesene Vorlagen, die von Anime-Creatorn geliebt werden",
+    "description": "Finden Sie die perfekte Vorlage und starten Sie direkt mit Ihrer Kreation."
+  },
+  "buttons": {
+    "useTemplate": "Vorlage nutzen",
+    "preview": "Vorschau",
+    "close": "Schließen",
+    "seeAll": "Alle anzeigen"
+  },
+  "categories": {
+    "featured": {
+      "title": "Empfohlen"
+    },
+    "art": {
+      "title": "Charakter-Voreinstellungen",
+      "description": "Verwandeln Sie Porträts in professionelle Charakterdesigns – Strichzeichnungen, Chibi, Sprites, Ausdrucksblätter, Rundumansichten und vieles mehr."
+    },
+    "style": {
+      "title": "Stilübertragung",
+      "description": "Zeitlose Playground-Voreinstellungen, um Porträts in hochwertige Anime-, Aquarell- oder Cyberpunk-Renderings zu verwandeln."
+    },
+    "imageRestyle": {
+      "title": "Bild-Neuinterpretation",
+      "description": "Konvertieren Sie Bilder in Anime, Pixar, Manga, Aquarell, Neon und mehr als 15 andere künstlerische Stile."
+    },
+    "videoRestyle": {
+      "title": "Video-Neuinterpretation",
+      "description": "Verwandeln Sie Videoaufnahmen in Anime, Cartoons, Skizzen, Emojis und andere animierte Stile. Machen Sie aus realen Videos stilisierte Inhalte."
+    },
+    "merch": {
+      "title": "Merch Studio",
+      "description": "Generieren Sie Figurenfotos, Plüschtiere und galeriefertige Charakterbögen, zugeschnitten auf Sammler."
+    },
+    "game": {
+      "title": "Spiel",
+      "description": "Erstellen Sie Videos und Szenen im Spielstil, einschließlich Genshin Impact-Trailern, Retro-Pixel-Spielen, Pokémon-Entwicklungen, Dating-Sims und weiterer Gaming-Ästhetiken."
+    },
+    "movie": {
+      "title": "Film",
+      "description": "Rekreieren Sie Porträts in Film- und TV-Kunststilen – von Animationsshows bis hin zu Fantasyfilmen und darüber hinaus."
+    },
+    "cosplay": {
+      "title": "Cosplay und Outfits",
+      "description": "Voreinstellungen zur Nachbildung von Cosplay-Promos, Cosplay-Trailern und Cosplay-Szenen. Enthält auch Outfits für Charaktere."
+    },
+    "effects": {
+      "title": "Videoeffekte & Animationen",
+      "description": "Wenden Sie dynamische Effekte an, darunter Live2D-Brisenanimationen, 360°-Charakteransichten, Magical Girl-Transformationen, Super-Saiyan-Power-Ups und Anime-/Manga-Stil-Musikvideos."
+    },
+    "dance": {
+      "title": "Tanzen",
+      "description": "KI-Tanzvideo-Bewegungen, optimiert für K-Pop, virale TikTok-Trends und stilisierte Roboterroutinen."
+    },
+    "christmas": {
+      "title": "Weihnachten",
+      "description": "Erstellen Sie bezaubernde Weihnachtsszenen mit magischen Voreinstellungen für festliche Figuren und Feiertagsumgebungen."
+    }
+  }
+}

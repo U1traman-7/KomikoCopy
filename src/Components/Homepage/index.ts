@@ -1,0 +1,1 @@
+export { QuickCreatePanel } from './QuickCreatePanel';

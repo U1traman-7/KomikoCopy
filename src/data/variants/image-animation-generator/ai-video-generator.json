@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Video Generator - KomikoAI",
+      "description": "Unlock the potential of AI with our AI Video Generator, transforming static images into captivating videos. Create dynamic animations from your artwork, comics, manga, or illustrations with ease and advanced technology.",
+      "fullDescription": "Experience the innovative AI Video Generator that transforms static images into dynamic, lifelike videos using cutting-edge AI technology. Perfect for artists, content creators, and animation enthusiasts, it's designed to bring your illustrations and artwork to life effortlessly.",
+      "keywords": "AI Video Generator, video generator, static images to video, animation generator, AI-powered video tool, dynamic video creation, create video from images, anime video generator, comic video generator"
+    },
+    "hero": {
+      "title": "AI Video Generator",
+      "description": "Unlock the potential of AI with our AI Video Generator, transforming static images into captivating videos. Create dynamic animations from your artwork, comics, manga, or illustrations with ease and advanced technology."
+    },
+    "whatIs": {
+      "title": "What is the AI Video Generator?",
+      "description": "The AI Video Generator is a powerful tool that enables you to create stunning videos from static images using advanced AI technology. It's designed for artists and creators looking to animate their artwork, characters, and scenes effortlessly."
+    },
+    "examples": {
+      "title": "AI Video Examples",
+      "description": "Explore examples of videos created by our AI Video Generator. Witness the magic as your static images transform into dynamic, engaging animations!"
+    },
+    "howToUse": {
+      "title": "How to use AI Video Generator",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Begin by uploading the image you want to convert into a video. Whether it’s an illustration, anime character, or comic panel, our AI Video Generator will animate your creation."
+        },
+        {
+          "title": "Enter Your Prompt",
+          "content": "Provide a descriptive prompt to guide the animation. Detail the movements, expressions, or actions you envision for your image."
+        },
+        {
+          "title": "Generate Your Video",
+          "content": "Press the 'Generate Animation' button and watch as our AI Video Generator creates a captivating animation from your static image in real time."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Once your video is ready, download it easily and share it across social media platforms or with your audience. Perfect for showcasing your creative work!"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use the AI Video Generator?",
+      "description": "Discover the advantages of using the AI Video Generator to create stunning videos from your artwork, comics, and illustrations. This advanced tool makes animation accessible and effortless for all creators!",
+      "features": [
+        {
+          "title": "AI-Powered Animation",
+          "content": "Leverage the power of AI in video generation. Our intelligent algorithms analyze your images and craft dynamic videos seamlessly.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Create Engaging Content",
+          "content": "Transform static images into captivating videos that are perfect for social media, showcases, and personal projects.",
+          "icon": "🎬"
+        },
+        {
+          "title": "User-Friendly Interface",
+          "content": "No animation background is necessary! Simply upload your image, provide a prompt, and allow our AI to generate the video.",
+          "icon": "👌"
+        },
+        {
+          "title": "Time Efficient",
+          "content": "Dramatically cut down animation production time. The AI Video Generator produces stunning videos in moments—saving you hours on manual work.",
+          "icon": "⚡"
+        },
+        {
+          "title": "High-Quality Output",
+          "content": "Create professional-grade videos. Our AI ensures smooth motion and realistic animations, perfect for any audience.",
+          "icon": "✨"
+        },
+        {
+          "title": "Freedom to Create",
+          "content": "Focus on your creative ideas while our AI Video Generator takes care of the technical animation process, allowing you to unleash your full creative potential.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Expert Guide to the AI Video Generator",
+      "description": "Get all the insights you need about creating professional videos with our AI Video Generator.",
+      "q1": "What is the AI Video Generator?",
+      "a1": "The AI Video Generator is a sophisticated tool utilizing artificial intelligence to animate your static images. It employs advanced algorithms to create immersive videos, perfect for artists and digital creators.",
+      "q2": "How does the AI Video Generator work?",
+      "a2": "Our AI technology utilizes deep learning models to interpret your images and prompts. The AI generates new frames, producing fluid animations, expressions, and dynamic visuals to elevate your content.",
+      "q3": "What are the benefits of using the AI Video Generator for animation?",
+      "a3": "The AI Video Generator provides numerous benefits: it speeds up video production, enables high-quality video creation without requiring extensive skills, makes it easy to engage audiences with animated content, and is ideal for both novice and seasoned creators.",
+      "q4": "Can I use the videos generated by the AI Video Generator for commercial use?",
+      "a4": "Yes, you can utilize your AI-generated videos for both personal and commercial projects. Be sure to review our terms of service for detailed information.",
+      "q5": "What image formats does the AI Video Generator support?",
+      "a5": "Our AI Video Generator supports common image formats such as JPG and PNG. For best results, use high-resolution images to clearly represent your desired animation.",
+      "q6": "What types of content are best suited for the AI Video Generator?",
+      "a6": "The AI Video Generator excels with illustrations, anime, manga, and stylized artworks. Clearly defined character designs enhance animation quality.",
+      "q7": "Do I need artistic skills to use the AI Video Generator?",
+      "a7": "No artistic skills are required! Our AI Video Generator animates your existing images, making it accessible for everyone, regardless of their background.",
+      "q8": "Are there limitations to the AI Video Generator?",
+      "a8": "While our AI Video Generator is powerful, it has some limitations: Complex animations may require additional processing time, maintaining consistent artistic style can be challenging in certain cases, and high-resolution images may demand more computational resources."
+    }
+  },
+  "originalKeyword": "AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Veo 3",
+      "description": "Prompt: A medium shot, historical adventure setting: Warm lamplight illuminates a cartographer in a cluttered study, poring over an ancient, sprawling map spread across a large table. Cartographer: \"According to this old sea chart, the lost island isn't myth! We must prepare an expedition immediately!\"",
+      "videoUrl": "/images/pages/veo3/example8.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Marey",
+      "description": "Prompt: Keyframing - Advanced keyframe animation and temporal control",
+      "videoUrl": "https://framerusercontent.com/assets/n2GMFj97mJ15e8X2Qulx9RRQNbs.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: AniSora",
+      "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+      "videoUrl": "/images/pages/anisora/example3.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: Midjourney",
+      "description": "Prompt: Anime maid girl in frilly black and white uniform walking toward camera carrying tea tray, warm cafe lighting, soft focus background with customers, golden hour sunlight through windows, gentle approach movement",
+      "videoUrl": "/images/pages/midjourney/example3.webm"
+    },
+    {
+      "id": 6,
+      "title": "Model: Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output4.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "pageTitle": "Reiluminación de Imágenes con IA - KomikoAI",
+  "ogTitle": "Reiluminación de Imágenes con IA - KomikoAI",
+  "ogDescription": "Reilumina tus imágenes con IA. Sube tu imagen y deja que la IA la reilumine por ti.",
+  "twitterTitle": "Reiluminación de Imágenes con IA - KomikoAI",
+  "twitterDescription": "Reilumina tus imágenes con IA. Sube tu imagen y deja que la IA la reilumine por ti.",
+  "metaDescription": "Transforma tus imágenes de anime, manga y cómic con nuestra herramienta de reiluminación con IA. Mejora los colores, ajusta la iluminación y da vida a tus creaciones con facilidad.",
+  "metaKeywords": "Reiluminación de imágenes con IA, Iluminación de anime, Mejora de manga, Arte de cómic, Herramientas de animación",
+  "title": "Reiluminación de Imágenes con IA",
+  "description": "Transforma la atmósfera y el ambiente de tu arte de anime, manga y cómic con la reiluminación de imágenes con IA. Modifica fácilmente la iluminación en tus escenas utilizando imágenes de fondo de referencia, mejora la narrativa visual y añade profundidad a tus creaciones. Perfecto para artistas, diseñadores y aficionados que desean dar vida a su trabajo con efectos de iluminación sorprendentes.",
+  "inputSection": {
+    "title": "Imagen de Entrada",
+    "subjectImage": {
+      "title": "Imagen del Sujeto",
+      "description": "La imagen que se va a reiluminar"
+    },
+    "backgroundImage": {
+      "title": "Imagen de Fondo",
+      "description": "La imagen que se utilizará como referencia para reiluminar la imagen del sujeto"
+    },
+    "prompt": {
+      "title": "Indicación (Prompt)",
+      "description": "Una descripción textual para guiar el proceso de reiluminación y generación.",
+      "placeholder": "Introduce tu indicación... Mujer, rostro detallado, brillo RGB de ciencia ficción, cyberpunk, etc."
+    }
+  },
+  "outputSection": {
+    "title": "Resultado de la Reiluminación",
+    "emptyState": "Los resultados se mostrarán aquí"
+  },
+  "deleteModal": {
+    "title": "Confirmación de Eliminación",
+    "message": "¿Estás seguro de que quieres eliminar este video? Esta acción no se puede deshacer.",
+    "cancelButton": "Cancelar",
+    "deleteButton": "Eliminar"
+  },
+  "seoSection": {
+    "whatIs": {
+      "title": "¿Qué es la Reiluminación de Imágenes con IA?",
+      "description": "La reiluminación de imágenes con IA es una tecnología de vanguardia que utiliza la inteligencia artificial para modificar el fondo y la iluminación en las imágenes. Este proceso puede alterar significativamente el ambiente y el entorno de una escena cambiando las fuentes de luz, las sombras y el ambiente general. Permite a los creadores experimentar fácilmente con diferentes escenarios de iluminación sin necesidad de volver a dibujar o rediseñar paneles completos."
+    },
+    "howTo": {
+      "title": "¿Cómo Reiluminar tus Imágenes con IA?",
+      "description": "Transforma fácilmente la iluminación en tu arte de anime, manga o cómic con la reiluminación de imágenes con IA. Sigue estos sencillos pasos para mejorar tu narrativa visual y añadir profundidad a tu trabajo."
+    },
+    "steps": {
+      "step1": {
+        "title": "Paso 1: Sube la Imagen del Primer Plano",
+        "content": "Sube la imagen principal que deseas reiluminar. Puede ser un personaje, panel o escena de tu manga o anime."
+      },
+      "step2": {
+        "title": "Paso 2: Sube la Imagen de Fondo",
+        "content": "Sube una imagen de fondo para guiar las elecciones de reiluminación de la IA. La IA utilizará la iluminación y la paleta de colores de esta imagen para reiluminar el primer plano."
+      },
+      "step3": {
+        "title": "Paso 3: Introduce una Indicación (Opcional)",
+        "content": "Introduce una indicación para describir el efecto de iluminación deseado. Por ejemplo, 'suave iluminación al atardecer' o 'neón cyberpunk'."
+      },
+      "step4": {
+        "title": "Paso 4: Reilumina y Comparte",
+        "content": "Haz clic en 'Reiluminar Imagen' y espera a que la IA haga su magia. ¡Descarga y comparte tus creaciones reiluminadas!"
+      }
+    },
+    "examples": {
+      "title": "Ejemplos de Reiluminación de Imágenes con IA",
+      "description": "Explora los asombrosos efectos que los usuarios están generando con la reiluminación de imágenes con IA para sus obras de anime, manga y cómic.",
+      "example1": {
+        "subjectAlt": "Imagen del sujeto de entrada",
+        "subjectCaption": "Imagen del sujeto de entrada",
+        "backgroundAlt": "Imagen de referencia de entrada",
+        "backgroundCaption": "Imagen de fondo de entrada",
+        "outputAlt": "Imagen reiluminada de salida",
+        "outputCaption": "Imagen reiluminada de salida"
+      },
+      "example2": {
+        "subjectAlt": "Imagen del sujeto de entrada",
+        "subjectCaption": "Imagen del sujeto de entrada",
+        "backgroundAlt": "Imagen de referencia de entrada",
+        "backgroundCaption": "Imagen de fondo de entrada",
+        "outputAlt": "Imagen reiluminada de salida",
+        "outputCaption": "Imagen reiluminada de salida"
+      },
+      "example3": {
+        "subjectAlt": "Imagen del sujeto de entrada",
+        "subjectCaption": "Imagen del sujeto de entrada",
+        "backgroundAlt": "Imagen de referencia de entrada",
+        "backgroundCaption": "Imagen de fondo de entrada",
+        "outputAlt": "Imagen reiluminada de salida",
+        "outputCaption": "Imagen reiluminada de salida"
+      }
+    },
+    "benefits": {
+      "title": "¿Por qué Usar la IA para Reiluminar tu Anime y Manga?",
+      "description": "La reiluminación de imágenes con IA simplifica el proceso de modificación de la iluminación para todos, desde principiantes hasta ilustradores profesionales. Descubre cómo la IA puede mejorar tus obras de anime, manga, cómic y manhwa.",
+      "benefit1": {
+        "title": "Reiluminación Guiada por Referencia",
+        "content": "Sube imágenes de fondo para guiar las elecciones y el estilo de iluminación de la IA, asegurando que tus obras reiluminadas coincidan perfectamente con tu visión."
+      },
+      "benefit2": {
+        "title": "Especifica tu Iluminación",
+        "content": "Utiliza indicaciones como 'suave atardecer' para especificar los efectos de iluminación que deseas lograr en tu obra de arte, o utiliza imágenes de referencia para un control más preciso."
+      },
+      "benefit3": {
+        "title": "Estilos Artísticos Personalizables",
+        "content": "Mejora varios estilos artísticos, incluyendo 'manga', 'anime', 'cómic' y 'manhwa' con IA. Añade profundidad y ambiente a tus ilustraciones con facilidad."
+      },
+      "benefit4": {
+        "title": "Reiluminación sin Esfuerzo",
+        "content": "Ahorra tiempo y esfuerzo dejando que la IA se encargue del proceso de reiluminación. La IA ajustará automáticamente la iluminación y el ambiente de tus escenas. No es necesario ajustar manualmente la iluminación de cada detalle."
+      },
+      "benefit5": {
+        "title": "Iluminación Inteligente",
+        "content": "Al comprender los matices de tu estilo artístico, la IA analiza la composición, la estructura y la estética general de tus dibujos. La IA aplica una iluminación que no solo se adapta, sino que mejora tus ilustraciones."
+      },
+      "benefit6": {
+        "title": "Salida de Alta Calidad",
+        "content": "Descarga imágenes con calidad de nivel profesional, perfectas para compartir o imprimir tus obras de cómic, manga y anime."
+      },
+      "benefit7": {
+        "title": "Flujo de Trabajo Simplificado",
+        "content": "La reiluminación de imágenes con IA se integra perfectamente en tu flujo de trabajo de ilustración, manga, manhwa o cómic. La IA te libera de ajustes de iluminación complejos, permitiéndote concentrarte en el corazón creativo de tu obra."
+      },
+      "benefit8": {
+        "title": "Consistencia en los Paneles",
+        "content": "Mantén una iluminación consistente en múltiples paneles y páginas de manga. Ideal para artistas de cómic y creadores de manga que necesitan asegurar la continuidad de la iluminación a lo largo de su historia y diseños de personajes."
+      },
+      "benefit9": {
+        "title": "Mejora Visual Instantánea",
+        "content": "Transforma tus escenas instantáneamente con una iluminación vibrante. Ya sea que estés trabajando en manga, cómic o arte lineal, nuestro reiluminador con IA da vida a tu trabajo manteniendo la calidad original."
+      }
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes sobre la Reiluminación de Imágenes con IA",
+      "description": "Encuentra respuestas a preguntas comunes sobre el uso de la IA para reiluminar imágenes y bocetos de anime y manga."
+    }
+  },
+  "faq": {
+    "question1": "¿Qué es la Reiluminación de Imágenes con IA para Anime y Manga?",
+    "answer1": "La reiluminación de imágenes con IA es una tecnología de vanguardia que utiliza la inteligencia artificial para modificar la iluminación en las imágenes, especialmente para anime, manga, cómic y manhwa. Este proceso puede alterar significativamente el ambiente y el entorno de una escena cambiando las fuentes de luz, las sombras y el ambiente general. Permite a los creadores experimentar fácilmente con diferentes escenarios de iluminación sin necesidad de volver a dibujar o rediseñar paneles completos.",
+    "question2": "¿Cómo Funciona la Reiluminación con IA?",
+    "answer2": {
+      "intro": "La reiluminación con IA implica algoritmos complejos que analizan una imagen e identifican sus diversos elementos, como personajes, fondos y objetos. Luego, la IA utiliza esta información para aplicar de forma realista nuevos efectos de iluminación basados en indicaciones del usuario o imágenes de referencia. A continuación, te indicamos cómo utilizar la herramienta de reiluminación con IA:",
+      "step1": "Sube tu imagen base (por ejemplo, un panel de manga o un fotograma de anime).",
+      "step2": "Sube una imagen de fondo que se utilizará para reiluminar la imagen del primer plano.",
+      "step3": "(Opcional) Introduce una indicación para describir el efecto de iluminación deseado (por ejemplo, 'suave iluminación al atardecer', 'neón cyberpunk intenso').",
+      "step4": "Haz clic en el botón 'Reiluminar Imagen' para procesar la imagen.",
+      "step5": "Descarga la imagen reiluminada e incorpórala a tu proyecto."
+    },
+    "question3": "¿Puedo Utilizar la IA para Añadir Efectos de Iluminación Dramáticos a mis Paneles de Manga?",
+    "answer3": "Sí, la IA se puede utilizar para añadir efectos de iluminación dramáticos a tus paneles de manga. La herramienta de reiluminación de imágenes con IA te permite subir paneles de manga y especificar un estilo de iluminación o subir una imagen de referencia. Luego, la IA ajustará la iluminación en el panel para que coincida con el estilo especificado, mejorando el ambiente y el impacto visual de tu trabajo.",
+    "question4": "¿Cuáles son los Beneficios de Usar la IA para la Reiluminación?",
+    "answer4": {
+      "intro": "Existen varios beneficios al utilizar la IA para la reiluminación en anime y manga:",
+      "benefit1": "Ahorro de tiempo: La reiluminación con IA puede reducir significativamente la cantidad de tiempo dedicado a ajustar manualmente la iluminación en cada panel o fotograma.",
+      "benefit2": "Creatividad mejorada: Experimenta con diferentes escenarios de iluminación de forma rápida y sencilla, lo que permite una exploración más creativa.",
+      "benefit3": "Consistencia garantizada: Mantén un estilo de iluminación consistente en múltiples paneles o fotogramas, lo cual es esencial para la narrativa visual.",
+      "benefit4": "Accesibilidad: Las herramientas de IA hacen que las técnicas de iluminación avanzadas sean accesibles para artistas de todos los niveles de habilidad."
+    },
+    "question5": "¿Qué Tipos de Imágenes Funcionan Mejor con la Reiluminación con IA?",
+    "answer5": {
+      "intro": "La reiluminación con IA funciona bien con una variedad de imágenes, pero normalmente se obtienen los mejores resultados con:",
+      "type1": "Fotogramas de anime: Mejora el ambiente y el dramatismo de las escenas clave con una iluminación dinámica.",
+      "type2": "Paneles de manga: Añade profundidad y ambiente a los paneles de manga en blanco y negro.",
+      "type3": "Arte de cómic: Crea efectos visuales impresionantes para cómics de superhéroes y novelas gráficas.",
+      "type4": "Ilustraciones de manhwa: Da vida a los webcomics con una iluminación vívida y consistente."
+    },
+    "question6": "¿Puedo Utilizar las Imágenes Reiluminadas Generadas por la IA con Fines Comerciales?",
+    "answer6": "Sí, puedes utilizar las imágenes reiluminadas generadas por la IA para fines personales y comerciales. Sin embargo, siempre asegúrate de cumplir con los términos de servicio de la plataforma con respecto al contenido generado por la IA.",
+    "question7": "¿Qué Formatos de Archivo Admite la Reiluminación con IA?",
+    "answer7": "Las herramientas de reiluminación con IA admiten formatos de imagen comunes como JPG y PNG. Estos formatos se utilizan ampliamente en las industrias de anime y manga, lo que garantiza la compatibilidad con la mayoría de los flujos de trabajo.",
+    "question8": "¿La Herramienta de Reiluminación de Imágenes con IA es de Uso Gratuito?",
+    "answer8": "KomikoAI ofrece una cantidad gratuita de zaps (créditos) para que pruebes la herramienta. Si necesitas más uso, también puedes comprar planes de pago para obtener más zaps, además de funciones avanzadas como tiempos de procesamiento más rápidos y resoluciones más altas.",
+    "question9": "¿Qué Tipo de Indicación Debo Usar para Obtener los Mejores Resultados?",
+    "answer9": "Para obtener los mejores resultados con la reiluminación con IA, utiliza indicaciones claras y descriptivas. Por ejemplo, intenta usar indicaciones como: 'iluminación suave al atardecer', 'intensas luces de neón cyberpunk' o 'luz de luna inquietante'. Cuanto más específico seas, mejor entenderá la IA tu visión.",
+    "question10": "¿Existen Limitaciones para la Reiluminación de Imágenes con IA?",
+    "answer10": {
+      "intro": "Si bien la reiluminación de imágenes con IA es una herramienta poderosa, tiene algunas limitaciones:",
+      "limitation1": "Estilo artístico: Es posible que la IA no siempre coincida perfectamente con el estilo artístico deseado.",
+      "limitation2": "Escenas complejas: Las escenas extremadamente complejas con numerosas fuentes de luz pueden producir resultados menos predecibles.",
+      "limitation3": "Interpretación de indicaciones: Las indicaciones demasiado vagas o poco claras pueden generar resultados insatisfactorios.",
+      "conclusion": "A pesar de estas limitaciones, la reiluminación con IA puede mejorar significativamente tu obra y acelerar tu proceso creativo."
+    },
+    "question11": "¿Necesito Ser un Artista Experimentado para Usar la Reiluminación de Imágenes con IA?",
+    "answer11": "No, no es necesario ser un artista experimentado para utilizar la reiluminación de imágenes con IA. La herramienta está diseñada para ser amigable para todos, tanto si eres un artista profesional como si eres un principiante que explora opciones creativas. La IA se encarga de los aspectos técnicos de la iluminación, lo que te permite concentrarte en tu visión artística.",
+    "question12": "¿Cómo Mantiene la Reiluminación con IA la Consistencia entre Múltiples Paneles?",
+    "answer12": {
+      "intro": "Para mantener la consistencia entre múltiples paneles, sigue estos consejos:",
+      "tip1": "Utiliza las mismas indicaciones: Aplica las mismas indicaciones de iluminación a cada panel para garantizar un estilo uniforme.",
+      "tip2": "Imágenes de referencia: Utiliza la misma imagen de referencia para múltiples paneles para guiar las elecciones de color e iluminación de la IA.",
+      "tip3": "Itera y refina: Revisa los paneles reiluminados y haz ajustes finos para asegurarte de que se alineen con tu visión general.",
+      "tip4": "Crea personajes consistentes: Asegúrate de que las características del personaje, como los colores de los ojos, sigan siendo consistentes."
+    },
+    "question13": "¿Puede la Reiluminación con IA Ayudar con los Paneles de Manga en Blanco y Negro?",
+    "answer13": "Sí, la reiluminación con IA es muy eficaz para los paneles de manga en blanco y negro. Al añadir sutiles degradados y resaltes, la IA puede crear una sensación de profundidad y ambiente, haciendo que los paneles sean más atractivos visualmente. Experimenta con indicaciones que sugieran diferentes momentos del día o condiciones climáticas para ver cómo la IA mejora tu obra de manga.",
+    "question14": "¿Cómo Puedo Utilizar la Reiluminación con IA para Crear Diferentes Ambientes en mi Manga?",
+    "answer14": "La reiluminación con IA es ideal para crear diferentes ambientes en tu manga. Por ejemplo, utiliza una iluminación cálida y suave para escenas románticas, o una iluminación dura y fría para momentos de suspense. Experimenta con las paletas de colores y las direcciones de la luz para evocar las emociones deseadas en tus lectores. También se pueden utilizar imágenes de referencia para guiar a la IA para que logre un ambiente y un estilo específicos.",
+    "question15": "¿Es Posible Editar los Resultados de la Reiluminación con IA?",
+    "answer15": "Sí, puedes editar y refinar aún más las imágenes reiluminadas con IA utilizando tu software de arte digital preferido. Los resultados generados por la IA pueden servir como una base excelente que puedes mejorar con tu toque artístico personal. Puedes ajustar los colores, refinar los detalles y añadir efectos adicionales para lograr el efecto deseado.",
+    "question16": "¿Cuáles son algunas formas creativas de utilizar la reiluminación de imágenes con IA?",
+    "answer16": {
+      "intro": "La reiluminación de imágenes con IA se puede utilizar para:",
+      "use1": "Crear escenas dramáticas en cómics de superhéroes",
+      "use2": "Añadir ambiente a los paneles de manga",
+      "use3": "Mejorar el atractivo visual de los webcomics",
+      "use4": "Experimentar con diferentes estilos de iluminación para diseños de personajes",
+      "use5": "Utilizarla con fines educativos en clases de arte",
+      "use6": "Revitalizar ilustraciones antiguas en blanco y negro"
+    },
+    "question17": "¿Cómo funciona la función de imagen de fondo en el reiluminador de KomikoAI AI?",
+    "answer17": "El reiluminador de KomikoAI AI incluye una potente función de imagen de fondo que te permite guiar las elecciones de iluminación de la IA para tu cómic o ilustración. Al subir una imagen de fondo junto con tu arte lineal, la IA analizará la paleta de colores y el estilo artístico para crear resultados de reiluminación más específicos. Esta función es muy valiosa para los artistas de cómic que desean mantener una iluminación consistente en su obra. El reiluminador de IA utiliza técnicas avanzadas de aprendizaje automático para extraer esquemas de color de tus imágenes de fondo y aplicarlos de forma inteligente a tu imagen de primer plano, a la vez que conserva la intención artística original.",
+    "question18": "¿Qué hace que una imagen de fondo sea buena para la reiluminación de arte lineal con IA?",
+    "answer18": {
+      "intro": "Para obtener los mejores resultados al utilizar el reiluminador de arte lineal de KomikoAI AI, selecciona imágenes de referencia que se alineen con tu visión artística para tu cómic o ilustración. Las mejores imágenes de fondo deben:",
+      "tip1": "Tener colores e iluminación claros y bien definidos que coincidan con el estilo de cómic que buscas",
+      "tip2": "Compartir un contenido o dirección artística similar con tu imagen de primer plano (por ejemplo, estilo anime, estilo cómic)",
+      "tip3": "Mostrar la paleta de colores específica que deseas lograr en tu obra",
+      "tip4": "Estar bien iluminadas y tener una alta calidad para ayudar a la IA a analizar los colores con precisión",
+      "conclusion": "Puedes utilizar varios tipos de referencias, incluyendo personajes de anime existentes, capturas de pantalla de anime, paneles de manga o ilustraciones digitales. Esta flexibilidad permite a los artistas lograr una coincidencia de colores precisa y mantener la consistencia en sus páginas de cómic o paneles de manga."
+    }
+  },
+  "relight_image": "Reiluminar Imagen"
+}

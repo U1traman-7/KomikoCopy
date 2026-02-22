@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "Interpolação de Frames com IA - KomikoAI",
+    "description": "Transforme seus vídeos com a tecnologia de Interpolação de Frames com IA da KomikoAI. Melhore a qualidade do vídeo, aumente o FPS e crie movimentos ultra suaves com nossas ferramentas de aprimoramento de vídeo profissional. Ideal para criadores de conteúdo que buscam qualidade de vídeo superior.",
+    "keywords": "Interpolação de Frames com IA, interpolação de frames, suavização de vídeo, aumento de FPS, melhoria da qualidade de vídeo, aprimoramento de vídeo com IA"
+  },
+  "title": "Interpolação de Frames com IA",
+  "description": "Aprimore seus vídeos com Interpolação de Frames com IA avançada. Transforme seus vídeos com geração inteligente de frames, aumentando o FPS e criando movimentos ultra suaves. Ideal para criadores de conteúdo que buscam qualidade de vídeo superior através da suavização de vídeo com IA e aumento da taxa de frames.",
+  "input": {
+    "title": "Vídeo de Entrada",
+    "uploadPrompt": "Toque para enviar ou arraste o seu vídeo para cá",
+    "framesPerSecond": "Frames por Segundo",
+    "framesPerSecondRange": "(mín: 1, máx: 60)",
+    "interpolationSteps": "Etapas de Interpolação",
+    "interpolationStepsRange": "(mín: 1, máx: 10)",
+    "submitButton": "Interpolar Vídeo",
+    "from_other_tools": "Vídeo recebido de {{source}}"
+  },
+  "results": {
+    "title": "Resultados do Vídeo",
+    "emptyState": "Os resultados serão exibidos aqui"
+  },
+  "deleteModal": {
+    "title": "Confirmação de Eliminação",
+    "message": "Tem certeza de que deseja eliminar este vídeo? Esta ação não pode ser desfeita.",
+    "cancelButton": "Cancelar",
+    "deleteButton": "Eliminar"
+  },
+  "toasts": {
+    "fetchFailed": "Falha ao obter vídeos",
+    "deleteSuccess": "Eliminação bem-sucedida",
+    "deleteFailed": "Falha ao eliminar",
+    "downloadFailed": "Falha ao descarregar",
+    "interpolationSuccess": "Interpolação de frames bem-sucedida",
+    "interpolationFailed": "Falha na interpolação de frames",
+    "noZaps": "Por favor, adquira mais zaps"
+  },
+  "seo": {
+    "whatIs": {
+      "title": "O que é Interpolação de Frames",
+      "description": "Interpolação de frames é uma técnica usada para aumentar a taxa de frames de um vídeo, gerando novos frames entre os existentes. Este processo pode ser usado para criar movimentos mais suaves e taxas de frames mais altas sem regravar o vídeo. A Interpolação de Frames com IA é uma tecnologia de aprimoramento de vídeo de ponta que usa inteligência artificial para gerar frames adicionais entre os existentes, resultando em movimentos mais suaves e taxas de frames mais altas. Este processo de suavização de vídeo com IA melhora drasticamente a qualidade do vídeo e a experiência de visualização."
+    },
+    "transform": {
+      "title": "Transforme os Seus Vídeos com Tecnologia Avançada de Interpolação de Frames com IA",
+      "description": "Desbloqueie a suavização de vídeo com qualidade profissional com as nossas ferramentas de aprimoramento de vídeo com IA de última geração. O nosso software de interpolação de frames usa IA avançada para analisar e gerar novos frames, criando movimentos perfeitos e taxas de frames mais altas instantaneamente."
+    },
+    "steps": [
+      {
+        "step": 1,
+        "title": "Envie o Seu Vídeo",
+        "content": "Comece com qualquer ficheiro de vídeo - a nossa tecnologia de interpolação de frames de vídeo com IA aceita vários formatos e qualidades."
+      },
+      {
+        "step": 2,
+        "title": "Configure a Taxa de Frames",
+        "content": "Escolha as suas configurações de FPS e interpolação de destino para ótimos resultados de suavização de vídeo."
+      },
+      {
+        "step": 3,
+        "title": "Processamento de IA",
+        "content": "Os nossos algoritmos avançados de aprimoramento de vídeo com IA geram novos frames para movimentos mais suaves."
+      },
+      {
+        "step": 4,
+        "title": "Descarregue o Vídeo Aprimorado",
+        "content": "Obtenha o seu vídeo com taxa de frames aumentada e movimento fluido, potenciado pela interpolação de frames com IA."
+      }
+    ],
+    "example": {
+      "title": "Exemplo de Interpolação de Frames",
+      "description": "Veja os resultados da Interpolação de Frames com IA gerados pelos utilizadores do KomikoAI",
+      "inputLabel": "Exemplo de Vídeo de Entrada",
+      "outputLabel": "Vídeo Aumentado de Saída"
+    },
+    "benefits": {
+      "title": "Por que deve aprimorar os seus vídeos com interpolação de IA",
+      "description": "A Interpolação de Frames com IA da KomikoAI simplifica o aprimoramento de vídeo para todos, desde criadores de conteúdo até videógrafos profissionais.",
+      "features": [
+        {
+          "title": "Interpolação de Frames com IA Avançada",
+          "content": "Experimente a tecnologia de suavização de vídeo com IA de ponta que transforma filmagens instáveis em vídeos fluidos e com qualidade profissional por meio da geração inteligente de frames e do aumento da taxa de frames de vídeo."
+        },
+        {
+          "title": "Aprimoramento Inteligente de FPS",
+          "content": "Aproveite as ferramentas de interpolação de frames de vídeo da KomikoAI IA para aumentar o FPS do seu vídeo sem regravar. Converta filmagens padrão em vídeos suaves de 60+ FPS com a nossa tecnologia de aprimoramento de vídeo com IA."
+        },
+        {
+          "title": "Aprimoramento Automatizado da Qualidade de Vídeo",
+          "content": "O nosso software de interpolação de frames de vídeo com IA lida com a geração complexa de frames automaticamente. Experimente a suavização de vídeo profissional sem edição manual ou ferramentas complicadas."
+        },
+        {
+          "title": "Geração Inteligente de Frames",
+          "content": "As ferramentas de vídeo com IA da KomikoAI analisam padrões de movimento para criar frames intermédios de aparência natural, garantindo qualidade consistente através de técnicas avançadas de interpolação de frames de vídeo."
+        },
+        {
+          "title": "Aprimoramento de Vídeo Profissional",
+          "content": "Exporte vídeos de alta qualidade aprimorados pela nossa tecnologia de interpolação de frames com IA, perfeitos para criadores de conteúdo que exigem suavização de vídeo superior e otimização da taxa de frames."
+        },
+        {
+          "title": "Processamento Eficiente de Vídeo com IA",
+          "content": "Integre as nossas ferramentas de IA de interpolação de frames perfeitamente no seu fluxo de trabalho. Deixe a geração de frames de vídeo com IA da KomikoAI lidar com os aspetos técnicos enquanto se concentra na criatividade."
+        }
+      ]
+    },
+    "expertGuide": {
+      "title": "Guia Especializado para Interpolação de Frames com IA",
+      "description": "Aprenda tudo sobre como aprimorar os seus vídeos com tecnologia de interpolação de frames potenciada por IA. Obtenha respostas de especialistas para perguntas comuns sobre suavização de vídeo e melhoria da taxa de frames."
+    }
+  },
+  "faq": {
+    "question1": "O que é Interpolação de Frames com IA?",
+    "answer1": "Interpolação de Frames com IA é uma tecnologia de aprimoramento de vídeo de ponta que usa inteligência artificial para gerar frames adicionais entre os existentes, resultando em movimentos mais suaves e taxas de frames mais altas. Este processo de suavização de vídeo com IA melhora drasticamente a qualidade do vídeo e a experiência de visualização.",
+    "question2": "Como funciona a Interpolação de Frames de Vídeo com IA?",
+    "answer2": "O nosso software de interpolação de frames de vídeo com IA analisa o movimento entre os frames existentes e usa algoritmos avançados de aprendizagem automática para gerar novos frames intermédios. Este processo aumenta o FPS (Frames Por Segundo) do vídeo, mantendo o movimento natural e a alta qualidade.",
+    "question3": "Quais são os benefícios da interpolação de frames?",
+    "answer3": [
+      "Movimentos e animações mais suaves",
+      "Taxas de frames mais altas sem regravar",
+      "Qualidade de vídeo aprimorada",
+      "Melhores efeitos de câmara lenta"
+    ],
+    "question4": "Quais formatos de vídeo são suportados?",
+    "answer4": "A IA suporta o formato de vídeo MP4. Recomendamos o uso de vídeos com movimento claro e boa qualidade para obter os melhores resultados.",
+    "question5": "Como escolho as configurações certas?",
+    "answer5": "Para frames por segundo (FPS), escolha com base nas suas necessidades: 24-30 FPS para vídeo padrão, 60 FPS para movimento suave. As etapas de interpolação determinam quantos frames adicionar entre os frames existentes - valores mais altos criam um movimento mais suave, mas demoram mais para processar.",
+    "question6": "Existe um limite para a duração ou tamanho do vídeo?",
+    "answer6": "Sim, existem algumas limitações para garantir o processamento ideal. Recomendamos vídeos com menos de 30 segundos e 100 MB para obter os melhores resultados. Vídeos mais longos podem ser processados em segmentos."
+  }
+}

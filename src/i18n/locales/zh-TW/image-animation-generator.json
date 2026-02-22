@@ -1,0 +1,438 @@
+{
+  "ui": {
+    "title": "AI動畫生成器",
+    "tooltip": "使用AI動畫生成器將靜態圖像轉換為生動動畫",
+    "input": {
+      "title": "輸入",
+      "tooltip": "上傳要製作成動畫的圖片",
+      "prompt": {
+        "label": "提示",
+        "placeholder": "描述您希望如何為圖像製作動畫..."
+      },
+      "model": {
+        "label": "AI 模型",
+        "placeholder": "選擇模型",
+        "ariaLabel": "選擇動畫模型"
+      },
+      "aspectRatio": {
+        "label": "長寬比",
+        "placeholder": "選擇長寬比"
+      },
+      "duration": {
+        "label": "持續時間",
+        "placeholder": "選擇持續時間",
+        "sections": "{{sections}} 秒"
+      },
+      "style": {
+        "label": "風格",
+        "placeholder": "選擇風格",
+        "anime": "動畫",
+        "default": "預設"
+      },
+      "resolution": {
+        "label": "解析度",
+        "placeholder": "選擇解析度"
+      },
+      "ratio": "比率",
+      "addEndFrame": "新增結束幀",
+      "startFrame": "起始幀",
+      "endFrame": "終止幀",
+      "image": {
+        "title": "圖片",
+        "description": "請上傳格式為JPG、PNG或WEBP的圖片，檔案大小不得超過10MB，寬度和高度至少需為300像素。",
+        "label": {
+          "required": "請添加參考圖像（必填）",
+          "optional": "可選擇添加參考圖像",
+          "image": "上傳圖片（選填）",
+          "imageRequired": "請上傳圖片",
+          "more": "添加更多參考（選填）",
+          "endFrame": "添加結束幀（可選）",
+          "firstFrame": "第一幀"
+        }
+      },
+      "addOC": "新增角色",
+      "singleOCOnly": "僅允許一個角色。若要使用多個角色，請使用Vidu Q1。",
+      "maxOCsReached": "最多允許{{max}}個角色。只有Vidu Q1支持多個角色。",
+      "config": "更多資訊"
+    },
+    "output": {
+      "title": "動畫結果",
+      "empty": {
+        "line1": "您的動畫結果將會顯示在此處",
+        "line2": "上傳圖片並提供提示以開始使用"
+      }
+    },
+    "deleteModal": {
+      "title": "刪除確認",
+      "message": "確定要刪除此動畫嗎？ 此操作無法撤銷。",
+      "cancelButton": "取消",
+      "deleteButton": "刪除"
+    },
+    "toasts": {
+      "deleteSuccess": "刪除成功",
+      "deleteFailed": "刪除失敗",
+      "generateSuccess": "產生動畫成功",
+      "generateFailed": "產生動畫失敗",
+      "downloadFailed": "下載失敗",
+      "fetchFailed": "提取影片失敗",
+      "noZaps": "請購買更多 zaps",
+      "generatingSticker": "正在生成貼紙...",
+      "stickerGenerated": "貼紙已成功生成",
+      "stickerGeneratedFailed": "貼紙生成失敗",
+      "generatingStickerFailed": "生成貼紙時發生錯誤",
+      "imageTooSmall": "圖片尺寸過小。最小尺寸要求為240x240像素。"
+    },
+    "modelOptions": {
+      "kling": {
+        "name": "Kling 1.6",
+        "description": "更逼真的動作",
+        "timeCost": "2分鐘",
+        "fps": "30fps"
+      },
+      "minimax": {
+        "name": "海螺02",
+        "description": "具有視覺豐富內容的高畫質輸出",
+        "timeCost": "3分鐘",
+        "fps": "25fps"
+      },
+      "ray": {
+        "name": "Luma Ray 2",
+        "description": "用於逼真視覺效果的大規模模型",
+        "timeCost": "2分鐘",
+        "fps": "24fps"
+      },
+      "pixverse": {
+        "name": "PixVerse v3.5",
+        "description": "改進的運動和連貫性",
+        "timeCost": "2分鐘",
+        "fps": "30fps"
+      },
+      "veo": {
+        "name": "Veo3（Google）",
+        "description": "最高影片品質",
+        "timeCost": "1分鐘",
+        "fps": "24fps"
+      },
+      "wan": {
+        "name": "萬 2.6",
+        "description": "提供高品質的影像和多樣的運動風格",
+        "timeCost": "1 分鐘",
+        "fps": "每秒 24 幀"
+      },
+      "wan_pro": {
+        "name": "Wan Pro",
+        "description": "優越的視覺品質和多樣的運動風格",
+        "timeCost": "5 分鐘",
+        "fps": "每秒 30 幀"
+      },
+      "ray_flash_v2": {
+        "name": "Luma Ray Flash 2",
+        "description": "大規模模型實現逼真的視覺效果",
+        "timeCost": "30 秒",
+        "fps": "每秒 24 幀"
+      },
+      "kling_v2": {
+        "name": "Kling 2.1",
+        "description": "動作更逼真",
+        "timeCost": "2分鐘",
+        "fps": "每秒30幀"
+      },
+      "frame_pack": {
+        "name": "幀打包",
+        "description": "自回歸生成影片",
+        "timeCost": "1分鐘",
+        "fps": "每秒30幀"
+      },
+      "vidu": {
+        "name": "Vidu Q1",
+        "description": "一致且流暢的2D動畫",
+        "timeCost": "1分鐘",
+        "fps": "每秒24幀"
+      },
+      "vidu_base": {
+        "name": "Komiko 動漫",
+        "description": "超高性價比的動畫製作",
+        "timeCost": "1分鐘",
+        "fps": "每秒24幀"
+      },
+      "anisora": {
+        "name": "AniSora",
+        "description": "開源動漫影片生成工具",
+        "timeCost": "1分鐘",
+        "fps": "每秒30幀"
+      },
+      "magi_1": {
+        "name": "Magi-1",
+        "description": "理解物理運動和電影構圖",
+        "timeCost": "2分鐘",
+        "fps": "每秒24幀"
+      },
+      "mj_video": {
+        "name": "動畫 專業版",
+        "description": "特別適合用於創建動漫和動畫",
+        "timeCost": "1分鐘",
+        "fps": "每秒24幀"
+      },
+      "seedance": {
+        "name": "Seedance 1.5 專業版",
+        "description": "全球首創的多鏡頭視頻生成模型",
+        "timeCost": "1分鐘",
+        "fps": "每秒24幀"
+      },
+      "sora": {
+        "name": "Sora 2",
+        "description": "驚豔的多鏡頭視頻生成，附帶音訊效果",
+        "timeCost": "1分鐘",
+        "fps": "每秒30幀"
+      },
+      "sora_pro": {
+        "name": "Sora 2 Pro",
+        "description": "驚豔的多鏡頭視頻生成，附帶音訊效果",
+        "timeCost": "1分鐘",
+        "fps": "每秒30幀"
+      },
+      "sora_stable": {
+        "name": "Sora 2 穩定版",
+        "description": "提供穩定的多鏡頭视频生成，配有音频",
+        "timeCost": "1 分鐘",
+        "fps": "30 帧每秒"
+      },
+      "sora_pro_stable": {
+        "name": "Sora 2 專業穩定版",
+        "description": "提供穩定的高質量视频生成，配有音频",
+        "timeCost": "1 分鐘",
+        "fps": "30 帧每秒"
+      },
+      "vidu_q2": {
+        "name": "Vidu Q2",
+        "description": "超快速、高一致性的圖像轉視頻動畫",
+        "timeCost": "1分鐘",
+        "fps": "24fps"
+      },
+      "vidu_q2_pro": {
+        "name": "Vidu Q2 專業版",
+        "description": "專業版本，具備增強細節和高級運動效果",
+        "timeCost": "1分鐘",
+        "fps": "24fps"
+      },
+      "wan_22_turbo": {
+        "name": "Wan 2.2 Turbo",
+        "description": "最佳性價比",
+        "timeCost": "1 分鐘",
+        "fps": "24 fps"
+      }
+    },
+    "buttons": {
+      "generateAnimation": "產生動畫",
+      "seconds5": "5 秒",
+      "seconds8": "8 秒",
+      "seconds10": "10 秒",
+      "default": "預設",
+      "anime": "動畫",
+      "landscape": "16:9 (橫向)",
+      "portrait": "9:16 (直向)",
+      "square": "1:1（正方形）"
+    },
+    "resolutions": {
+      "360p": "360p",
+      "540p": "540p",
+      "720p": "720p",
+      "1080p": "1080p"
+    },
+    "styleModes": {
+      "effect": "特效",
+      "prompt": "提示信息",
+      "motion": "動畫",
+      "dance": "舞動",
+      "templates": "範本"
+    },
+    "audio": {
+      "label": "音訊可選（MP3/WAV，3至30秒，≤15MB）",
+      "upload": "上傳",
+      "record": "錄製",
+      "invalidFormat": "音頻格式無效。請使用 MP3 或 WAV",
+      "missing": "請上傳音頻文件 (MP3/WAV)",
+      "durationRange": "音頻時長必需在 3 秒到 30 秒之間",
+      "processFailed": "音頻文件處理失敗"
+    },
+    "characterName": "角色名稱",
+    "characterNamePlaceholder": "請輸入角色名稱...",
+    "importFromCharacter": "從角色導入",
+    "characterProfileOptional": "角色檔案（選填）",
+    "characterProfilePlaceholder": "角色名稱、性格、主題及其他細節",
+    "bankaiEffectTitle": "預期的卍解效果",
+    "bankaiEffectPlaceholder": "描述卍解變身的效果、能力、視覺變化等。",
+    "sec": "秒",
+    "multiShots": {
+      "label": "多鏡頭",
+      "tooltip": "啟用後，將智能地把影片分割為多個鏡頭，以更好地敘述故事"
+    },
+    "cameraFixed": {
+      "label": "相機固定",
+      "tooltip": "錄影時保持相機位置不變"
+    }
+  },
+  "seo": {
+    "examples": {
+      "title": "AI動畫生成器範例",
+      "description": "看看令人讚嘆的範例，了解我們的AI動畫生成器的威力。觀賞我們的技術如何將靜態圖像變為充滿活力的影片！",
+      "inputAlt": "範例輸入圖像",
+      "inputLabel": "輸入圖像",
+      "outputLabel": "動畫結果",
+      "videoNotSupported": "您的瀏覽器不支援 video 標籤。",
+      "example1": {
+        "details": "模型: Veo | 提示: \"女孩正在跳舞和唱歌\""
+      },
+      "example2": {
+        "details": "模型: Minimax | 提示: \"一個男人生氣地說話\""
+      },
+      "example3": {
+        "details": "模型: Ray | 提示: \"一個女孩傷心地說話\""
+      },
+      "example4": {
+        "details": "模型: Kling | 提示: \"一個女孩平靜地自言自語\""
+      },
+      "example5": {
+        "details": "Model: Anime Pro | Prompt: \"動漫風格的戰鬥場面。一名年輕的戰士握著一把發光的寶劍，與巨大魔王怪獸展開激烈對戰。怪獸雙眼閃爍著光芒，鋒利的牙齒令人心驚。在快節奏的劍鬥中，火花四濺，鏡頭緊湊無比。最後，英勇的戰士以驚人的一擊，將怪獸徹底打敗。背景昏暗，燈光如電影般效果，粒子效果閃爍。\""
+      },
+      "example6": {
+        "details": "Model: Anime Pro | Prompt: \"動漫中的男孩陡然拔出槍，伴隨著一道耀眼的光芒開槍，神情緊張，鏡頭角度充滿戲劇張力。他迅捷地轉身，沿著街道飛快奔跑。\""
+      },
+      "example7": {
+        "details": "Model: Anime Pro | Prompt: \"動漫女孩在夜深人靜時霓虹燈閃爍的照耀下，迅速滑過小巷，急速轉彎，勢如風馳電掣，從後方拍攝之角度。當她快速穿過狹窄的巷弄時，發光的招牌在濕滑的路面上反射著光芒。\""
+      },
+      "example8": {
+        "details": "Model: Anime Pro | Prompt: \"動漫風格的戰鬥場面。一名年輕的戰士握著一把發光的寶劍，與巨大魔王怪獸展開激烈對戰。怪獸雙眼閃爍著光芒，鋒利的牙齒令人心驚。在快節奏的劍鬥中，火花四濺，鏡頭緊湊無比。最後，英勇的戰士以驚人的一擊，將怪獸徹底打敗。背景昏暗，燈光如電影般效果，粒子效果閃爍。\""
+      }
+    },
+    "meta": {
+      "title": "AI動畫生成器 - KomikoAI",
+      "description": "使用我們的AI動畫生成器，將靜態圖像化為生動的動畫。輕鬆創作動漫、漫畫及動畫影片。利用先進的AI技術，讓您的藝術品在短短幾分鐘內栩栩如生。",
+      "keywords": "AI動畫生成器, AI動漫生成器, AI視頻動畫, 圖像轉動畫, 動漫動畫生成器, 漫畫動畫創建器, AI動畫工具, 從圖像生成動畫, AI視頻生成器, 動畫視頻製作"
+    },
+    "hero": {
+      "title": "AI動畫生成器",
+      "description": "利用我們強大的AI動畫生成器，將靜態圖像轉化為迷人的動畫。輕鬆創建出令人驚艷的動漫、漫畫與動畫視頻。我們的先進AI技術會解析您的藝術作品，並在短時間內產生動態且專業的動畫。"
+    },
+    "whatIs": {
+      "title": "什麼是AI動畫生成器？",
+      "description": "AI動畫生成器是一款智能工具，能自動將您的靜態圖像創造成壯觀的動畫。我們的AI生成器運用先進的深度學習演算法，將動漫、漫畫及插畫作品帶入生命，使所有人即使沒有技術背景或動畫經驗，也能輕鬆掌握專業動畫。"
+    },
+    "howToUse": {
+      "title": "如何使用AI動畫生成器",
+      "steps": [
+        {
+          "title": "上傳您的圖像",
+          "content": "上傳您要製作成動畫的圖像。 無論是動漫角色、漫畫分格還是漫畫插圖，我們的 AI 都可以賦予其生命。"
+        },
+        {
+          "title": "輸入提示",
+          "content": "提供提示以引導動畫。 描述您希望 AI 產生的動作、表情或動作。"
+        },
+        {
+          "title": "產生動畫",
+          "content": "點擊「產生動畫」按鈕，讓我們的 AI 發揮它的魔力。 觀看您的圖像轉變為動態影片。"
+        },
+        {
+          "title": "下載並分享",
+          "content": "下載您 AI 產生的動畫並與世界分享！ 非常適合社群媒體、個人項目等。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼選擇AI動畫生成器？",
+      "description": "發掘為何我們的AI動畫生成器是創作專業動漫、漫畫和動畫的最佳選擇。感受專為各類創作者設計的強大功能，體驗動畫技術的未來！",
+      "features": [
+        {
+          "title": "先進AI動畫技術",
+          "content": "我們的AI動畫生成器採用最先進的深度學習模型來打造專業級動畫，AI智能分析您的圖像，自動生成流暢且逼真的動作。",
+          "icon": "🤖"
+        },
+        {
+          "title": "即時創建專業動畫",
+          "content": "將靜態藝術品轉換為社群媒體、YouTube、演示或創意項目所需的動態影片。我們的AI生成器提供媲美工作室的效果。",
+          "icon": "🎬"
+        },
+        {
+          "title": "用戶友好的AI動畫工具",
+          "content": "不用具備動畫技能！我們的AI生成器為所有人設計。只需上傳圖像，撰寫提示，即可讓AI為您創作出驚人的動畫。",
+          "icon": "👌"
+        },
+        {
+          "title": "節省製作時間",
+          "content": "使用我們的AI動畫生成器，在幾分鐘內完成動畫製作。與傳統動畫方法相比，節省高達90%的時間。",
+          "icon": "⚡"
+        },
+        {
+          "title": "專業級動畫質量",
+          "content": "生成的動畫擁有流暢轉場、自然動作及一致的幀率，適合專業及商業用途。",
+          "icon": "✨"
+        },
+        {
+          "title": "創意無限可能",
+          "content": "專注於您的創意構想，AI動畫生成器為您處理複雜的技術工作。創作任何動畫風格，從動作場面到情感時刻。",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI動畫生成器常見問題 - 必知要點",
+      "description": "了解如何使用我們的AI動畫生成器來創作專業動畫。獲取有關AI技術、功能及最佳實踐的常見問題解答。",
+      "q1": "什麼是AI動畫生成器？",
+      "a1": "AI動畫生成器是一款AI工具，將靜態圖像轉變為動態影片。運用先進的深度學習算法，能分析您的藝術作品，並自動生成流暢、專業級的動畫，擁有逼真的動作和表情，非常適合動漫、漫畫及插畫內容創作。",
+      "q2": "如何使用AI動畫生成器？",
+      "a2": "使用非常簡單！首先，上傳您的靜態圖像（如動漫、漫畫或插畫）。接著，輸入描述動作、表情或場景的提示。然後點擊“生成動畫”，讓AI創建您的影片。最後，下載並分享至社群媒體、YouTube等平台。",
+      "q3": "AI動畫生成器如何工作？",
+      "a3": "AI動畫生成器運用先進的深度學習技術來分析圖像。通過識別關鍵元素、理解其結構，並生成中間幀來創造流暢的運動效果。AI會分析您的文字提示，從而生成動作、表情及視角，自動讓靜態藝術品栩栩如生。",
+      "q4": "最棒的AI動畫生成器是哪個？",
+      "a4": "KomikoAI提供最棒的AI動畫生成器工具。我們的目標是成為領先的AI創作平台，提供專業品質、強大有趣的自定選項及直觀的工作流程，並免費試用。使用KomikoAI的生成器，您能將動漫、漫畫和插畫轉換為含動作效果的精彩影片，創作適合社群媒體和YouTube的迷人內容，並訪問多款先進AI模型，非常理想對於不具備技術背景或昂貴軟件的用戶。",
+      "q5": "KomikoAI的AI動畫生成器是免費的嗎？",
+      "a5": "是的，您可以免費試用KomikoAI的AI動畫生成器，無需訂閱計劃。今天就試試我們的工具！",
+      "q6": "我能用AI動畫生成器做什麼？",
+      "a6": "在KomikoAI上，您可以使用AI生成器創作動態動漫角色影片，將漫畫面板轉化為引人入勝的情節，為插畫作品增添動作和情感，製作引人矚目的社群媒體內容，創作YouTube影片及宣傳材料，創建遊戲或故事項目的角色動畫，並開發具有動畫效果的專業演示文稿。",
+      "q7": "我能在手機上使用AI動畫生成器嗎？",
+      "a7": "是的，您可以在不同設備上使用AI生成器，不論是智慧手機還是電腦，均可作為網頁應用，方便每位使用者。",
+      "q8": "我能下載從AI生成器生成的作品嗎？",
+      "a8": "可以，KomikoAI的生成器允許您以多種格式將作品匯出，如MP4等視頻格式，方便分享。",
+      "q9": "為什麼應該使用AI動畫生成器？",
+      "a9": "使用AI生成器能節省90%的動畫製作時間，創建不需動畫專業知識的專業影片，並即刻將創意化為現實。我們的工具可讓靜態藝術作品重現生機，生成適合社群媒體和YouTube的迷人內容，訪問多款適合不同動畫風格的AI模型，且完全免費試用。"
+    },
+    "cta": {
+      "title": "立即使用我們的AI動畫生成器，免費創作絕美動畫！",
+      "description": "幾分鐘內將靜態圖像轉化為吸引人的動畫影片。立即開始創作吧！",
+      "buttonText": "免費試用我們的AI動畫生成器"
+    }
+  },
+  "examples": {
+    "title": "AI 動畫和漫畫動畫範例",
+    "description": "探索由我們的 AI 圖像動畫產生器創建的動畫範例。 看看您如何將靜態圖像轉換為動態影片！",
+    "inputAlt": "範例輸入圖像",
+    "inputLabel": "輸入圖像",
+    "outputLabel": "動畫結果",
+    "videoNotSupported": "您的瀏覽器不支援 video 標籤。",
+    "example1": {
+      "details": "模型: Veo | 提示: \"女孩正在跳舞和唱歌\""
+    },
+    "example2": {
+      "details": "模型: Minimax | 提示: \"一個男人生氣地說話\""
+    },
+    "example3": {
+      "details": "模型: Ray | 提示: \"一個女孩傷心地說話\""
+    },
+    "example4": {
+      "details": "模型: Kling | 提示: \"一個女孩平靜地自言自語\""
+    },
+    "example5": {
+      "details": "Model: Anime Pro | Prompt: \"動漫風格的戰鬥場面。一名年輕的戰士握著一把發光的寶劍，與巨大魔王怪獸展開激烈對戰。怪獸雙眼閃爍著光芒，鋒利的牙齒令人心驚。在快節奏的劍鬥中，火花四濺，鏡頭緊湊無比。最後，英勇的戰士以驚人的一擊，將怪獸徹底打敗。背景昏暗，燈光如電影般效果，粒子效果閃爍。\""
+    },
+    "example6": {
+      "details": "Model: Anime Pro | Prompt: \"動漫中的男孩陡然拔出槍，伴隨著一道耀眼的光芒開槍，神情緊張，鏡頭角度充滿戲劇張力。他迅捷地轉身，沿著街道飛快奔跑。\""
+    },
+    "example7": {
+      "details": "Model: Anime Pro | Prompt: \"動漫女孩在夜深人靜時霓虹燈閃爍的照耀下，迅速滑過小巷，急速轉彎，勢如風馳電掣，從後方拍攝之角度。當她快速穿過狹窄的巷弄時，發光的招牌在濕滑的路面上反射著光芒。\""
+    },
+    "example8": {
+      "details": "Model: Anime Pro | Prompt: \"動漫風格的戰鬥場面。一名年輕的戰士握著一把發光的寶劍，與巨大魔王怪獸展開激烈對戰。怪獸雙眼閃爍著光芒，鋒利的牙齒令人心驚。在快節奏的劍鬥中，火花四濺，鏡頭緊湊無比。最後，英勇的戰士以驚人的一擊，將怪獸徹底打敗。背景昏暗，燈光如電影般效果，粒子效果閃爍。\""
+    }
+  }
+}

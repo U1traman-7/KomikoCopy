@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Blog KomikoAI | Créez des bandes dessinées, manhwa, manga et anime avec l'IA",
+    "description": "Créez des bandes dessinées, webtoons et histoires visuelles avec l'IA. Concevez des personnages originaux et explorez des mondes d'histoires infinies avec eux.",
+    "blog_post": "Article de Blog",
+    "keywords": {
+      "general": "Bandes dessinées par IA, manga, anime, création de personnages, webtoon, art par IA, générateur de bandes dessinées, créateur de manga",
+      "base_tags": [
+        "IA",
+        "bandes dessinées",
+        "manga",
+        "anime",
+        "création de personnages",
+        "webtoon"
+      ]
+    }
+  },
+  "navigation": {
+    "see_all_posts": "Voir tous les articles"
+  },
+  "article": {
+    "published_on": "Publié le",
+    "min_read": "min de lecture",
+    "view_article": "Voir l'Article"
+  },
+  "sections": {
+    "latest_post": "Dernier Article",
+    "all_posts": "Tous les Articles"
+  }
+}

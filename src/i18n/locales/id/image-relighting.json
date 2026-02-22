@@ -1,0 +1,222 @@
+{
+  "pageTitle": "AI Relighting Gambar - KomikoAI",
+  "ogTitle": "AI Relighting Gambar - KomikoAI",
+  "ogDescription": "Nyalakan kembali gambar Anda menggunakan AI. Unggah gambar Anda dan biarkan AI melakukan relighting untuk Anda.",
+  "twitterTitle": "AI Relighting Gambar - KomikoAI",
+  "twitterDescription": "Nyalakan kembali gambar Anda menggunakan AI. Unggah gambar Anda dan biarkan AI melakukan relighting untuk Anda.",
+  "metaDescription": "Ubah gambar anime, manga, dan komik Anda dengan alat AI Relighting kami. Tingkatkan warna, sesuaikan pencahayaan, dan hidupkan karya seni Anda.",
+  "metaKeywords": "AI Relighting Gambar, Pencahayaan Anime, Peningkatan Manga, Seni Komik, Alat Animasi",
+  "title": "AI Relighting Gambar",
+  "description": "Ubah suasana hati dan suasana seni anime, manga, dan komik Anda dengan AI Relighting Gambar. Modifikasi pencahayaan dalam adegan dengan mudah menggunakan gambar latar belakang referensi, tingkatkan penceritaan visual, dan tambahkan kedalaman pada karya seni Anda. Sempurna untuk seniman, desainer, dan penggemar yang ingin mewujudkan kreasi mereka dengan efek pencahayaan yang memukau.",
+  "inputSection": {
+    "title": "Gambar Input",
+    "subjectImage": {
+      "title": "Gambar Subjek",
+      "description": "Gambar yang akan diterangi kembali"
+    },
+    "backgroundImage": {
+      "title": "Gambar Latar Belakang",
+      "description": "Gambar yang akan digunakan sebagai referensi untuk menerangi kembali gambar subjek"
+    },
+    "prompt": {
+      "title": "Prompt",
+      "description": "Deskripsi teks yang memandu proses relighting dan generasi.",
+      "placeholder": "Masukkan prompt Anda... Wanita, wajah detail, cahaya RGB sci-fi, cyberpunk, dll."
+    }
+  },
+  "outputSection": {
+    "title": "Hasil Relighting",
+    "emptyState": "Hasil akan ditampilkan di sini"
+  },
+  "deleteModal": {
+    "title": "Konfirmasi Penghapusan",
+    "message": "Anda yakin ingin menghapus video ini? Tindakan ini tidak dapat dibatalkan.",
+    "cancelButton": "Batal",
+    "deleteButton": "Hapus"
+  },
+  "seoSection": {
+    "whatIs": {
+      "title": "Apa Itu AI Relighting Gambar",
+      "description": "AI Relighting Gambar adalah teknologi mutakhir yang menggunakan kecerdasan buatan untuk memodifikasi latar belakang dan pencahayaan dalam gambar. Proses ini dapat secara signifikan mengubah suasana hati dan lingkungan suatu adegan dengan mengubah sumber cahaya, bayangan, dan suasana keseluruhan. Ini memungkinkan pembuat konten untuk dengan mudah bereksperimen dengan skenario pencahayaan yang berbeda tanpa harus menggambar ulang atau mewarnai ulang seluruh panel."
+    },
+    "howTo": {
+      "title": "Cara Menerangi Kembali Gambar Anda dengan AI",
+      "description": "Ubah pencahayaan dalam seni anime, manga, atau komik Anda dengan mudah menggunakan AI Relighting Gambar. Ikuti langkah-langkah sederhana ini untuk meningkatkan penceritaan visual Anda dan menambahkan kedalaman pada karya seni Anda."
+    },
+    "steps": {
+      "step1": {
+        "title": "Langkah 1: Unggah Gambar Latar Depan",
+        "content": "Unggah gambar utama yang ingin Anda terangi kembali. Ini bisa berupa karakter, panel, atau adegan dari komik atau anime."
+      },
+      "step2": {
+        "title": "Langkah 2: Unggah Gambar Latar Belakang",
+        "content": "Unggah gambar latar belakang untuk memandu pilihan relighting AI. AI akan menggunakan pencahayaan dan palet warna dari gambar ini untuk menerangi kembali latar depan."
+      },
+      "step3": {
+        "title": "Langkah 3: Masukkan Prompt (Opsional)",
+        "content": "Masukkan prompt untuk mendeskripsikan efek pencahayaan yang diinginkan. Misalnya, \"pencahayaan matahari terbenam yang lembut\" atau \"lampu neon cyberpunk\"."
+      },
+      "step4": {
+        "title": "Langkah 4: Relight dan Bagikan",
+        "content": "Klik \"Relight Gambar\" dan tunggu AI melakukan keajaibannya. Unduh dan bagikan kreasi Anda yang telah diterangi kembali!"
+      }
+    },
+    "examples": {
+      "title": "Contoh AI Relighting Gambar",
+      "description": "Jelajahi hasil menakjubkan yang dihasilkan pengguna dengan AI Relighting Gambar untuk karya seni anime, manga, dan komik mereka.",
+      "example1": {
+        "subjectAlt": "Gambar subjek input",
+        "subjectCaption": "Gambar subjek input",
+        "backgroundAlt": "Gambar referensi input",
+        "backgroundCaption": "Gambar latar belakang input",
+        "outputAlt": "Gambar relighting output",
+        "outputCaption": "Gambar relighting output"
+      },
+      "example2": {
+        "subjectAlt": "Gambar subjek input",
+        "subjectCaption": "Gambar subjek input",
+        "backgroundAlt": "Gambar referensi input",
+        "backgroundCaption": "Gambar latar belakang input",
+        "outputAlt": "Gambar relighting output",
+        "outputCaption": "Gambar relighting output"
+      },
+      "example3": {
+        "subjectAlt": "Gambar subjek input",
+        "subjectCaption": "Gambar subjek input",
+        "backgroundAlt": "Gambar referensi input",
+        "backgroundCaption": "Gambar latar belakang input",
+        "outputAlt": "Gambar relighting output",
+        "outputCaption": "Gambar relighting output"
+      }
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan AI untuk Menerangi Kembali Anime dan Manga Anda",
+      "description": "AI Relighting Gambar menyederhanakan proses memodifikasi pencahayaan untuk semua orang, dari pemula hingga ilustrator profesional. Temukan bagaimana AI dapat meningkatkan karya anime, manga, komik, dan manhwa Anda.",
+      "benefit1": {
+        "title": "Relighting yang Dipandu Referensi",
+        "content": "Unggah gambar latar belakang untuk memandu pilihan dan gaya pencahayaan AI, memastikan kreasi Anda yang telah diterangi kembali sangat cocok dengan visi Anda."
+      },
+      "benefit2": {
+        "title": "Tentukan Pencahayaan Anda",
+        "content": "Tentukan efek pencahayaan yang ingin Anda wujudkan dalam karya seni Anda dengan prompt seperti \"matahari terbenam yang lembut\" atau gunakan gambar referensi untuk kontrol yang lebih tepat."
+      },
+      "benefit3": {
+        "title": "Sesuaikan Gaya Seni",
+        "content": "Tingkatkan berbagai gaya seni, termasuk \"komik\", \"anime\", \"manga\", dan \"manhwa\" dengan AI. Tambahkan kedalaman dan suasana hati pada ilustrasi Anda dengan mudah."
+      },
+      "benefit4": {
+        "title": "Relighting Mudah",
+        "content": "Hemat waktu dan tenaga dengan membiarkan AI menangani proses relighting. AI akan secara otomatis menyesuaikan pencahayaan dan suasana adegan. Tidak perlu menyesuaikan pencahayaan secara manual untuk setiap detail."
+      },
+      "benefit5": {
+        "title": "Pencahayaan Cerdas",
+        "content": "Dengan memahami nuansa gaya seni Anda, AI menganalisis komposisi, struktur, dan estetika keseluruhan gambar Anda. AI menerapkan pencahayaan tidak hanya untuk menyesuaikan, tetapi untuk meningkatkan ilustrasi Anda."
+      },
+      "benefit6": {
+        "title": "Output Berkualitas Tinggi",
+        "content": "Unduh gambar berkualitas tingkat profesional yang sempurna untuk dibagikan atau dicetak dalam karya komik, manga, dan anime Anda."
+      },
+      "benefit7": {
+        "title": "Alur Kerja yang Disederhanakan",
+        "content": "AI Relighting Gambar terintegrasi dengan mulus ke dalam alur kerja ilustrasi, komik, manhwa, atau manga Anda. AI membebaskan Anda dari penyesuaian pencahayaan yang rumit sehingga Anda dapat fokus pada inti kreatif karya seni Anda."
+      },
+      "benefit8": {
+        "title": "Konsistensi Panel",
+        "content": "Pertahankan pencahayaan yang konsisten di beberapa panel dan halaman manga. Sempurna untuk komikus dan pembuat komik yang perlu memastikan kontinuitas pencahayaan di seluruh cerita dan desain karakter mereka."
+      },
+      "benefit9": {
+        "title": "Peningkatan Visual Instan",
+        "content": "Ubah adegan Anda secara instan dengan pencahayaan yang dinamis. Baik Anda sedang mengerjakan komik, manga, atau gambar garis, AI relighter kami menghidupkan karya seni Anda sambil mempertahankan kualitas aslinya."
+      }
+    },
+    "faq": {
+      "title": "Pertanyaan Umum tentang AI Relighting Gambar",
+      "description": "Temukan jawaban atas pertanyaan umum tentang penggunaan AI untuk menerangi kembali gambar dan sketsa anime, manga, dan komik."
+    }
+  },
+  "faq": {
+    "question1": "Apa itu AI Relighting Gambar untuk Anime dan Manga?",
+    "answer1": "AI Relighting Gambar adalah teknologi mutakhir yang menggunakan kecerdasan buatan untuk memodifikasi pencahayaan dalam gambar, khususnya untuk anime, manga, komik, dan manhwa. Proses ini dapat secara signifikan mengubah suasana hati dan lingkungan suatu adegan dengan mengubah sumber cahaya, bayangan, dan suasana keseluruhan. Ini memungkinkan pembuat konten untuk dengan mudah bereksperimen dengan skenario pencahayaan yang berbeda tanpa harus menggambar ulang atau mewarnai ulang seluruh panel.",
+    "question2": "Bagaimana Cara Kerja AI Relighting?",
+    "answer2": {
+      "intro": "AI Relighting melibatkan algoritma canggih yang menganalisis gambar dan mengidentifikasi berbagai elemennya, seperti karakter, latar belakang, dan objek. AI kemudian menggunakan informasi ini untuk menerapkan efek pencahayaan baru secara realistis berdasarkan prompt pengguna atau gambar referensi. Berikut cara menggunakan alat AI Relighting:",
+      "step1": "Unggah gambar dasar Anda (misalnya, panel manga atau bingkai anime).",
+      "step2": "Unggah gambar latar belakang yang akan digunakan untuk menerangi kembali gambar latar depan.",
+      "step3": "(Opsional) Masukkan prompt untuk mendeskripsikan efek pencahayaan yang diinginkan (misalnya, \"pencahayaan matahari terbenam yang lembut\", \"lampu neon cyberpunk yang keras\").",
+      "step4": "Klik tombol \"Relight Gambar\" untuk memproses gambar.",
+      "step5": "Unduh gambar yang telah diterangi kembali dan gabungkan ke dalam proyek Anda."
+    },
+    "question3": "Dapatkah Saya Menggunakan AI untuk Menambahkan Efek Pencahayaan Dramatis ke Panel Manga Saya?",
+    "answer3": "Ya, AI dapat digunakan untuk menambahkan efek pencahayaan dramatis ke panel manga Anda. Alat AI Relighting Gambar memungkinkan Anda mengunggah panel manga dan menentukan gaya pencahayaan atau mengunggah gambar referensi. AI kemudian akan menyesuaikan pencahayaan di panel agar sesuai dengan gaya yang ditentukan, meningkatkan suasana hati dan dampak visual karya seni.",
+    "question4": "Apa Saja Manfaat Menggunakan AI untuk Relighting?",
+    "answer4": {
+      "intro": "Ada banyak manfaat menggunakan AI untuk relighting dalam anime dan manga:",
+      "benefit1": "Hemat Waktu: AI Relighting dapat secara signifikan mengurangi waktu yang dihabiskan untuk menyesuaikan pencahayaan secara manual di setiap panel atau bingkai.",
+      "benefit2": "Tingkatkan Kreativitas: Bereksperimen dengan skenario pencahayaan yang berbeda dengan cepat dan mudah, memungkinkan eksplorasi yang lebih kreatif.",
+      "benefit3": "Pastikan Konsistensi: Pertahankan gaya pencahayaan yang konsisten di beberapa panel atau bingkai, yang penting untuk penceritaan visual.",
+      "benefit4": "Aksesibilitas: Alat AI membuat teknik pencahayaan canggih dapat diakses oleh seniman dari semua tingkat keahlian."
+    },
+    "question5": "Jenis Gambar Apa yang Paling Cocok untuk AI Relighting?",
+    "answer5": {
+      "intro": "AI Relighting cocok untuk berbagai gambar, tetapi hasil terbaik biasanya diperoleh dengan:",
+      "type1": "Bingkai Anime: Tingkatkan suasana hati dan drama dari adegan kunci dengan pencahayaan dinamis.",
+      "type2": "Panel Manga: Tambahkan kedalaman dan suasana ke panel manga hitam putih.",
+      "type3": "Seni Buku Komik: Buat visual yang menakjubkan untuk buku komik dan novel grafis superhero.",
+      "type4": "Ilustrasi Manhwa: Hidupkan webtoon dengan pencahayaan yang cerah dan konsisten."
+    },
+    "question6": "Dapatkah Saya Menggunakan Gambar yang Diterangi Kembali AI untuk Tujuan Komersial?",
+    "answer6": "Ya, Anda dapat menggunakan gambar yang diterangi kembali yang dihasilkan AI untuk tujuan pribadi dan komersial. Namun, selalu pastikan untuk mematuhi persyaratan layanan platform mengenai konten yang dihasilkan AI.",
+    "question7": "Format File Apa yang Didukung oleh AI Relighting?",
+    "answer7": "Alat AI Relighting mendukung format gambar umum seperti JPG dan PNG. Format ini banyak digunakan dalam industri anime dan manga, memastikan kompatibilitas dengan sebagian besar alur kerja.",
+    "question8": "Apakah Alat AI Relighting Gambar Gratis untuk Digunakan?",
+    "answer8": "KomikoAI menawarkan sejumlah zaps (kredit) gratis untuk Anda coba dengan alat ini. Jika Anda membutuhkan lebih banyak penggunaan, Anda juga dapat membeli paket berbayar untuk lebih banyak zaps, serta fitur canggih seperti kecepatan pemrosesan yang lebih cepat dan resolusi yang lebih tinggi.",
+    "question9": "Prompt Apa yang Harus Saya Gunakan untuk Hasil Terbaik?",
+    "answer9": "Untuk hasil AI Relighting terbaik, gunakan prompt yang jelas dan deskriptif. Misalnya, coba gunakan prompt seperti: \"pencahayaan matahari terbenam yang lembut\", \"lampu cyberpunk neon yang intens\", atau \"cahaya bulan yang menakutkan\". Semakin spesifik Anda, semakin baik AI akan memahami visi Anda.",
+    "question10": "Apakah Ada Batasan untuk AI Relighting Gambar?",
+    "answer10": {
+      "intro": "Meskipun AI Relighting Gambar adalah alat yang ampuh, namun memiliki beberapa batasan:",
+      "limitation1": "Gaya Seni: AI mungkin tidak selalu cocok dengan gaya seni yang Anda inginkan dengan sempurna.",
+      "limitation2": "Adegan Kompleks: Adegan yang sangat kompleks dengan banyak sumber cahaya dapat menghasilkan hasil yang kurang dapat diprediksi.",
+      "limitation3": "Interpretasi Prompt: Prompt yang terlalu ambigu atau tidak jelas dapat menghasilkan hasil yang tidak memuaskan.",
+      "conclusion": "Meskipun ada batasan ini, AI Relighting masih dapat secara signifikan meningkatkan karya seni Anda dan mempercepat proses kreatif Anda."
+    },
+    "question11": "Apakah Saya Perlu Menjadi Seniman Berpengalaman untuk Menggunakan AI Relighting Gambar?",
+    "answer11": "Tidak, Anda tidak perlu menjadi seniman berpengalaman untuk menggunakan AI Relighting Gambar. Alat ini dirancang agar mudah digunakan oleh semua orang, baik Anda seniman profesional atau pemula yang menjelajahi opsi kreatif. AI menangani aspek teknis pencahayaan, memungkinkan Anda untuk fokus pada visi artistik Anda.",
+    "question12": "Bagaimana AI Relighting Mempertahankan Konsistensi di Beberapa Panel?",
+    "answer12": {
+      "intro": "Untuk mempertahankan konsistensi di beberapa panel, ikuti tip berikut:",
+      "tip1": "Gunakan Prompt yang Sama: Terapkan prompt pencahayaan yang sama ke setiap panel untuk memastikan gaya yang seragam.",
+      "tip2": "Gambar Referensi: Gunakan gambar referensi yang sama untuk beberapa panel untuk memandu pilihan warna dan pencahayaan AI.",
+      "tip3": "Iterasi dan Sempurnakan: Tinjau panel yang telah diterangi kembali dan buat penyesuaian halus untuk memastikan mereka selaras dengan visi keseluruhan Anda.",
+      "tip4": "Buat Karakter yang Konsisten: Pastikan fitur karakter, seperti warna mata, tetap konsisten."
+    },
+    "question13": "Dapatkah AI Relighting Membantu dengan Panel Manga Hitam Putih?",
+    "answer13": "Ya, AI Relighting sangat efektif untuk panel manga hitam putih. Dengan menambahkan gradien dan sorotan yang halus, AI dapat menciptakan rasa kedalaman dan suasana yang membuat panel lebih menarik secara visual. Bereksperimenlah dengan prompt yang menyarankan waktu yang berbeda dalam sehari atau kondisi cuaca untuk melihat bagaimana AI dapat meningkatkan karya manga Anda.",
+    "question14": "Bagaimana Saya Dapat Menggunakan AI Relighting untuk Menciptakan Suasana Hati yang Berbeda dalam Komik Saya?",
+    "answer14": "AI Relighting sangat cocok untuk mengatur suasana hati yang berbeda dalam komik Anda. Misalnya, gunakan pencahayaan yang hangat dan lembut untuk adegan romantis atau pencahayaan yang keras dan dingin untuk momen menegangkan. Bereksperimenlah dengan palet warna dan arah cahaya untuk membangkitkan emosi yang diinginkan pada pembaca Anda. Gambar referensi juga dapat digunakan untuk memandu AI menuju suasana hati dan gaya tertentu.",
+    "question15": "Apakah Mungkin untuk Mengedit Hasil AI Relighting?",
+    "answer15": "Ya, Anda dapat mengedit dan menyempurnakan lebih lanjut gambar AI Relighting menggunakan perangkat lunak seni digital pilihan Anda. Hasil yang dihasilkan AI adalah fondasi yang sangat baik yang dapat Anda tingkatkan dengan gaya artistik pribadi Anda. Anda dapat menyesuaikan warna, menyempurnakan detail, dan menambahkan efek tambahan untuk mencapai tampilan yang Anda inginkan.",
+    "question16": "Apa Saja Cara Kreatif Menggunakan AI Relighting Gambar?",
+    "answer16": {
+      "intro": "AI Relighting Gambar dapat digunakan untuk:",
+      "use1": "Membuat adegan dramatis dalam buku komik superhero",
+      "use2": "Menambahkan suasana ke panel manga",
+      "use3": "Meningkatkan daya tarik visual webtoon",
+      "use4": "Bereksperimen dengan gaya pencahayaan yang berbeda untuk desain karakter",
+      "use5": "Tujuan pendidikan di kelas seni",
+      "use6": "Menghidupkan kembali ilustrasi hitam putih lama"
+    },
+    "question17": "Bagaimana Fitur Gambar Latar Belakang di Relighter KomikoAI AI Bekerja?",
+    "answer17": "Relighter KomikoAI AI menyertakan fitur gambar latar belakang yang kuat yang memungkinkan Anda memandu pilihan pencahayaan AI untuk komik, manga, atau ilustrasi Anda. Dengan mengunggah gambar latar belakang bersamaan dengan seni garis Anda, AI menganalisis palet warna dan gaya artistik untuk membuat efek relighting yang lebih bertarget. Fitur ini sangat berharga bagi komikus dan pembuat komik yang ingin mempertahankan pencahayaan yang konsisten dalam karya seni mereka. Relighter AI menggunakan teknik pembelajaran mesin tingkat lanjut untuk mengekstrak skema warna dari gambar latar belakang Anda dan menerapkannya secara cerdas ke gambar latar depan Anda sambil mempertahankan maksud artistik aslinya.",
+    "question18": "Gambar Latar Belakang Apa yang Bagus untuk AI Line Art Relighting?",
+    "answer18": {
+      "intro": "Untuk hasil terbaik dengan relighter seni garis KomikoAI AI, pilih gambar referensi yang sesuai dengan visi artistik Anda untuk komik, manga, atau ilustrasi Anda. Gambar latar belakang terbaik harus:",
+      "tip1": "Memiliki warna dan pencahayaan yang jelas dan terdefinisi yang sesuai dengan gaya manga yang Anda inginkan",
+      "tip2": "Berbagi subjek atau arah artistik yang serupa dengan gambar latar depan Anda (misalnya, gaya anime, gaya komik)",
+      "tip3": "Menampilkan palet warna tertentu yang ingin Anda capai dalam karya seni Anda",
+      "tip4": "Terang dan berkualitas tinggi untuk membantu AI menganalisis warna secara akurat",
+      "conclusion": "Anda dapat menggunakan berbagai jenis referensi, termasuk karakter anime yang sudah ada, tangkapan layar anime, panel manga, atau ilustrasi digital. Fleksibilitas ini memungkinkan seniman untuk mencapai pencocokan warna yang tepat dan mempertahankan konsistensi dalam halaman komik atau panel manga mereka."
+    }
+  },
+  "relight_image": "Relight Gambar"
+}

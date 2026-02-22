@@ -1,0 +1,73 @@
+{
+  "tags": {
+    "trending": "Xu hướng",
+    "newest": "Mới",
+    "most_likes": "Được yêu thích nhất",
+    "following": "Đang theo dõi",
+    "ranking": "Bảng xếp hạng",
+    "leaderboard": "Bảng xếp hạng"
+  },
+  "loadMore": "Xem thêm",
+  "noMorePosts": "Đã hiển thị tất cả bài viết",
+  "tryAgain": "Thử lại lần nữa",
+  "noPostsFound": "Không có bài viết nào được tìm thấy",
+  "actions": {
+    "loadMore": "Tải thêm",
+    "tryAgain": "Thử lại",
+    "refresh": "Làm mới",
+    "retry": "Thử lại",
+    "linkCopied": "Liên kết đã được sao chép!"
+  },
+  "states": {
+    "noMorePosts": "Không còn bài viết nào để tải",
+    "noPostsFound": "Không tìm thấy bài viết nào"
+  },
+  "errors": {
+    "noResponse": "Không thể lấy dữ liệu: Không có phản hồi",
+    "unknownError": "Lỗi không xác định",
+    "serverError": "Lỗi máy chủ {{status}}: {{statusText}}",
+    "loadFailed": "Không thể tải nguồn cấp dữ liệu",
+    "timeout": "Hết thời gian chờ yêu cầu. Vui lòng thử lại.",
+    "serverSlow": "Máy chủ phản hồi chậm, vui lòng thử lại sau. Nếu vấn đề tiếp tục, vui lòng làm mới trang."
+  },
+  "labels": {
+    "sortBy": "Sắp xếp theo:",
+    "filterBy": "Lọc theo:"
+  },
+  "noRelatedPostDesc": "Hãy là người đầu tiên tạo nội dung liên quan đến nhân vật này!",
+  "ranking": {
+    "postRanking": "Bài viết",
+    "creatorRanking": "Tác giả",
+    "characterRanking": "Nhân vật",
+    "daily": "Hàng ngày",
+    "weekly": "Hàng tuần",
+    "monthly": "Hàng tháng",
+    "loading": "Đang tải...",
+    "noData": "Không có dữ liệu",
+    "noPreview": "Không có bản xem trước",
+    "fans": "Người hâm mộ",
+    "posts": "Bài đăng",
+    "follow": "Theo dõi",
+    "following": "Đang theo dõi",
+    "followSuccess": "Theo dõi thành công",
+    "followFailed": "Theo dõi thất bại",
+    "weeklyRules": "Quy tắc Xếp hạng Tuần",
+    "weeklyRulesContent": "Bảng xếp hạng dựa trên tổng số lượt thích trong tuần trước. Kết quả xếp hạng sẽ được chốt vào lúc 12:00 sáng giờ PST mỗi thứ Hai, huy hiệu và phần thưởng Zaps sẽ được trao vào lúc 5:00 sáng.\nHạng 1: 500 Zaps | Hạng 2: 300 Zaps | Hạng 3: 100 Zaps\nCó thể nhận thưởng hàng tuần và hàng tháng.",
+    "monthlyRules": "Quy tắc Xếp hạng Tháng",
+    "monthlyRulesContent": "Bảng xếp hạng dựa trên tổng số lượt thích trong tháng trước. Kết quả xếp hạng sẽ được chốt vào lúc 12:00 sáng giờ PST vào ngày đầu tiên của mỗi tháng, huy hiệu và phần thưởng Zaps sẽ được trao vào lúc 5:00 sáng.\nHạng 1: 1,000 Zaps | Hạng 2: 800 Zaps | Hạng 3: 500 Zaps\nCó thể nhận thưởng hàng tuần và hàng tháng."
+  },
+  "tagOrder": {
+    "title": "Quản lý Thẻ",
+    "description": "Kéo và thả để sắp xếp lại thứ tự các thẻ bạn đang theo dõi",
+    "position": "Vị trí {{position}}",
+    "noFollowedTags": "Chưa theo dõi thẻ nào. Hãy theo dõi một số thẻ để có thể tùy chỉnh thứ tự của chúng!",
+    "saved": "Lưu thứ tự thẻ thành công",
+    "subscribedTags": "Các tag bạn đang theo dõi",
+    "dragToReorder": "(kéo để sắp xếp lại)",
+    "presetTags": "Các tag gợi ý",
+    "otherTags": "Các tag khác",
+    "noTags": "Không có tag nào",
+    "saveFailed": "Lưu thay đổi không thành công"
+  },
+  "search_tags_placeholder": "Tìm kiếm thẻ phổ biến..."
+}

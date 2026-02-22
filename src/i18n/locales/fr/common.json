@@ -1,0 +1,1637 @@
+{
+  "copyright": "Copyright © {{currentYear}} Caffelabs. Tous droits réservés.",
+  "dashboard": {
+    "main_nav_documentation": "Documentation",
+    "main_nav_support": "Support",
+    "sidebar_nav_clusters": "Clusters",
+    "sidebar_nav_billing": "Facturation",
+    "sidebar_nav_settings": "Paramètres",
+    "title_text": "Créez et gérez vos clusters."
+  },
+  "marketing": {
+    "introducing": "Découvrez Saasfly",
+    "get_started": "Démarrer",
+    "price_features": "Solution économique pour les environnements de production.",
+    "main_nav_features": "Fonctionnalités",
+    "main_nav_pricing": "Tarifs",
+    "main_nav_create_comics": "Terrain de jeu",
+    "main_nav_products": "Produits",
+    "main_nav_blog": "Blog",
+    "main_nav_partners": "Partenaires",
+    "main_nav_documentation": "Documentation",
+    "login": "Connexion",
+    "signup": "Inscription"
+  },
+  "price": {
+    "title": "Des prix transparents et abordables !",
+    "pricing": "Tarifs",
+    "slogan": "Démarrez à toute vitesse !",
+    "monthly_bill": "Facturation mensuelle",
+    "annual_bill": "Facturation annuelle",
+    "annual_info": "sera facturé annuellement",
+    "monthly_info": "lorsque facturé mensuellement",
+    "mo": "/mois",
+    "contact": "pour contacter notre équipe de support.",
+    "contact_2": "Vous pouvez tester les abonnements sans être facturé.",
+    "faq": "Foire aux Questions (FAQ)",
+    "faq_detail": "Consultez notre FAQ complète pour trouver rapidement des réponses aux questions fréquentes. Si vous avez besoin d'aide supplémentaire, n'hésitez pas à nous contacter pour une assistance personnalisée.",
+    "signup": "Inscription",
+    "upgrade": "Mettre à niveau",
+    "manage_subscription": "Gérer l'abonnement",
+    "go_to_dashboard": "Accéder au tableau de bord"
+  },
+  "nav": {
+    "features": "Fonctionnalités",
+    "ai_comic_generator": "Générateur de BD IA",
+    "pricing": "Tarifs",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "partners": "Partenaires",
+    "ai_anime_generator": "Générateur d'anime par IA",
+    "anigen_competition": "Concours AniGen",
+    "video_to_video": "Vidéo à vidéo IA",
+    "layer_splitter": "Séparateur de calque",
+    "ai-talking-head": "Tête animée IA",
+    "professional_artists": "Pour les artistes professionnels",
+    "oc_maker": "Créateur de Personnages Originaux (OC)",
+    "menu": "Menu",
+    "playground": "Aire de Jeu d'Images",
+    "ai_expression_changer": "Modificateurs d'expression IA"
+  },
+  "footer": {
+    "pricing": "Tarifs",
+    "ai_comic_generator": "Générateur de BD IA",
+    "logo_alt": "Logo KomikoAI AI",
+    "twitter_aria": "Twitter",
+    "twitter_alt": "Twitter",
+    "tiktok_aria": "TikTok",
+    "tiktok_alt": "TikTok",
+    "ai_tools": "Outils IA",
+    "description": "Créez vos personnages, enflammez vos fandoms — tout cela sur KomikoAI.",
+    "ai_models": "Modèles d'IA",
+    "all_tools": "Tous les outils",
+    "comic_tools": "Outils de bande dessinée",
+    "illustration_tools": "Outils d'illustration",
+    "animation_tools": "Outils d'animation",
+    "learn_more": "En savoir plus",
+    "terms": "Conditions d’utilisation",
+    "privacy": "Politique de confidentialité",
+    "languages": "Langues",
+    "carbon_removal": "Réduction de carbone",
+    "blog": "Blog",
+    "partners": "Partenaires",
+    "claim_site": "KomikoAI est un produit indépendant de Story Engine Inc. Il n'est pas affilié à NHN comico Corp. ou NHN comico KOREA Corp."
+  },
+  "layer_options": {
+    "send_to_back": "Envoyer à l'arrière-plan",
+    "send_backward": "Reculer d'un plan",
+    "send_forward": "Avancer d'un plan",
+    "send_to_front": "Envoyer au premier plan"
+  },
+  "ai_tools": {
+    "comic_generation": {
+      "title": "Générez des bandes dessinées, mangas et manhwas",
+      "create_character": {
+        "title": "Créateur de Personnage",
+        "content": "Concevez des personnages originaux pour vos histoires."
+      },
+      "create_on_canvas": {
+        "title": "Toile de bande dessinée",
+        "content": "Créez vos bandes dessinées à partir d'une toile vierge."
+      },
+      "ai_comic_generator": {
+        "title": "Générateur de BD IA",
+        "content": "Saisissez une idée et générez une bande dessinée en quelques secondes."
+      },
+      "ai_comic_factory": {
+        "title": "Usine de BD par IA"
+      },
+      "ai_manga_maker": {
+        "title": "Créateur de Manga par IA"
+      },
+      "ai_manhwa_generator": {
+        "title": "Générateur de Manhwa par IA"
+      },
+      "ai_manga_generator": {
+        "title": "Générateur de Manga par IA"
+      },
+      "ai_comic_strip_generator": {
+        "title": "Générateur de Bandes Dessinées par IA"
+      },
+      "ai_comic_book_generator": {
+        "title": "Générateur de Livres de BD par IA"
+      },
+      "ai_comic_maker": {
+        "title": "Créateur de BD par IA"
+      },
+      "ai_storyboard_generator": {
+        "title": "Générateur de Storyboard par IA"
+      },
+      "free_ai_comic_strip_maker": {
+        "title": "Créateur Gratuit de Bandes Dessinées par IA"
+      },
+      "nsfw_ai_comic_generator": {
+        "title": "Générateur de BD NSFW par IA"
+      },
+      "ai_marvel_comic_generator": {
+        "title": "Générateur de BD Marvel par IA"
+      },
+      "batman_comic_ai_generator": {
+        "title": "Générateur de BD Batman par IA"
+      },
+      "dc_comic_ai_generator": {
+        "title": "Générateur de BD DC par IA"
+      },
+      "ai_porn_comic_generator": {
+        "title": "Générateur de BD Porno par IA"
+      },
+      "ai_erotic_comic_generator": {
+        "title": "Générateur de BD Érotique par IA"
+      },
+      "boomer_comic_ai_generator": {
+        "title": "Générateur de BD Boomer par IA"
+      },
+      "anime_manga_ai_generator": {
+        "title": "Générateur de Manga Anime par IA"
+      },
+      "ai_webtoon_generator": {
+        "title": "Générateur de Webtoon par IA"
+      }
+    },
+    "illustration": {
+      "title": "Assistance pour l'art, l'illustration et le storyboard",
+      "line_art_colorization": {
+        "title": "Colorisation de dessin au trait",
+        "content": "Ajoutez des couleurs à vos dessins et esquisses."
+      },
+      "background_removal": {
+        "title": "Suppression d'arrière-plan",
+        "content": "Supprimez l'arrière-plan des images grâce à l'IA."
+      },
+      "image_upscaling": {
+        "title": "Amélioration d'image",
+        "content": "Améliorez la résolution de vos images grâce à l'IA."
+      },
+      "image_relighting": {
+        "title": "Ré-éclairage d'image",
+        "content": "Ré-éclairez vos images grâce à l'IA."
+      },
+      "photo_to_anime": {
+        "title": "Transformation photo en anime",
+        "content": "Convertissez votre photo en style anime ou d'autres styles."
+      },
+      "ai_playground": {
+        "title": "Aire de jeux d'images",
+        "content": "Convertissez des photos en anime, manga, dessins animés et plus de 30 autres styles artistiques."
+      },
+      "frame_pack_ai_video_generator": {
+        "title": "Générateur Vidéo IA FramePack"
+      },
+      "vidu_ai_video_generator": {
+        "title": "Vidéogénérateur Vidu Q1"
+      },
+      "magi_1_video_generator": {
+        "title": "Vidéogénérateur Magi-1"
+      },
+      "ai-anime-generator": {
+        "title": "Générateur d'Anime par IA"
+      },
+      "ai_anime_generator": {
+        "title": "Générateur d'art par IA",
+        "content": "Générez des images de style anime avec des personnages."
+      },
+      "sketch_simplification": {
+        "content": "Transformez des croquis brouillons en dessins nets.",
+        "title": "Simplification de croquis"
+      },
+      "veo3_video_generator": {
+        "title": "Générateur de Vidéo IA Veo3"
+      },
+      "ai_waifu_generator": {
+        "title": "Générateur de Waifu par IA"
+      },
+      "ai_naruto_generator": {
+        "title": "Générateur de Naruto par IA"
+      },
+      "random_genshin_character_generator": {
+        "title": "Générateur de Personnage Aléatoire de Genshin"
+      },
+      "dragon_ball_ai_generator": {
+        "title": "Générateur de Dragon Ball par IA"
+      },
+      "pokemon_ai_generator": {
+        "title": "Générateur de Pokémon par IA"
+      },
+      "ai_genshin_impact_generator": {
+        "title": "Générateur de Genshin Impact par IA"
+      },
+      "one_piece_ai_generator": {
+        "title": "Générateur de One Piece par IA"
+      },
+      "demon_slayer_ai_generator": {
+        "title": "Générateur de Demon Slayer par IA"
+      },
+      "attack_on_titan_ai_generator": {
+        "title": "Générateur d'Attack on Titan par IA"
+      },
+      "jujutsu_kaisen_ai_generator": {
+        "title": "Générateur de Jujutsu Kaisen par IA"
+      },
+      "my_hero_academia_ai_generator": {
+        "title": "Générateur de My Hero Academia par IA"
+      },
+      "spy_x_family_ai_generator": {
+        "title": "Générateur de Spy x Family par IA"
+      },
+      "league_of_legends_ai_generator": {
+        "title": "Générateur de League of Legends par IA"
+      },
+      "ai_disney_pixar_generator": {
+        "title": "Générateur de Disney Pixar par IA"
+      },
+      "marvel_ai_generator": {
+        "title": "Générateur de Marvel par IA"
+      },
+      "sonic_ai_generator": {
+        "title": "Générateur de Sonic par IA"
+      },
+      "ai_spiderman_generator": {
+        "title": "Générateur de Spiderman par IA"
+      },
+      "anime_ai_generator": {
+        "title": "Générateur d'Anime par IA"
+      },
+      "anime_art_ai_generator": {
+        "title": "Générateur d'Art d'Anime par IA"
+      },
+      "studio_ghibli_style_ai_image_generator": {
+        "title": "Générateur d'Images Style Studio Ghibli par IA"
+      },
+      "female_character_generator": {
+        "title": "Générateur de Personnages Féminins"
+      },
+      "superhero_ai_generator": {
+        "title": "Générateur de Super-Héros par IA"
+      },
+      "villain_maker": {
+        "title": "Créateur de Méchants"
+      },
+      "villain_generator": {
+        "title": "Générateur de Méchants"
+      },
+      "fantasy_character_ai_generator": {
+        "title": "Générateur de Personnages Fantastiques par IA"
+      },
+      "tim_burton_character_maker": {
+        "title": "Créateur de Personnages à la Tim Burton"
+      },
+      "dbz_ai_generator": {
+        "title": "Générateur de DBZ par IA"
+      },
+      "ai_elf_generator": {
+        "title": "Générateur d'Elfes par IA"
+      },
+      "ai_princess_generator": {
+        "title": "Générateur de Princesses par IA"
+      },
+      "ai_vampire_generator": {
+        "title": "Générateur de Vampires par IA"
+      },
+      "ai_pirate_generator": {
+        "title": "Générateur de Pirates par IA"
+      },
+      "ai_couple_generator": {
+        "title": "Générateur de Couples par IA"
+      },
+      "chibi_creator": {
+        "title": "Créateur de Chibi"
+      },
+      "chibi_ai_generator": {
+        "title": "Générateur de Chibi par IA"
+      },
+      "ai_character_generator_from_text": {
+        "title": "Générateur de Personnages IA à partir de Texte"
+      },
+      "video_game_character_generator": {
+        "title": "Générateur de Personnages de Jeux Vidéo"
+      },
+      "ai_fantasy_art_generator": {
+        "title": "Générateur d'Art Fantastique par IA"
+      },
+      "ai_world_generator": {
+        "title": "Générateur de Mondes par IA"
+      },
+      "ai_landscape_generator": {
+        "title": "Générateur de Paysages par IA"
+      },
+      "ai_map_generator": {
+        "title": "Générateur de Cartes par IA"
+      },
+      "ai_village_generator": {
+        "title": "Générateur de Villages par IA"
+      },
+      "ai_mansion_builder": {
+        "title": "Constructeur de Manoirs par IA"
+      },
+      "ai_castle_generator": {
+        "title": "Générateur de Châteaux par IA"
+      },
+      "fantasy_island_generator": {
+        "title": "Générateur d'Îles Fantastiques"
+      },
+      "city_map_maker": {
+        "title": "Créateur de Cartes de Villes"
+      },
+      "ai_skybox_generator": {
+        "title": "Générateur de Skybox par IA"
+      },
+      "pop_art_creator": {
+        "title": "Créateur de Pop Art"
+      },
+      "pop_art_generator": {
+        "title": "Générateur de Pop Art"
+      },
+      "ai_watercolor_generator": {
+        "title": "Générateur d'Aquarelles par IA"
+      },
+      "abstract_ai_art_generator": {
+        "title": "Générateur d'Art Abstrait par IA"
+      },
+      "ai_renaissance_painting_generator": {
+        "title": "Générateur de Peintures Renaissance par IA"
+      },
+      "ai_oil_painter": {
+        "title": "Peintre à l'Huile par IA"
+      },
+      "ai_dark_art_generator": {
+        "title": "Générateur d'Art Sombre par IA"
+      },
+      "ai_cartoon_generator_from_text_free": {
+        "title": "Générateur de Dessins Animés par IA à partir de Texte (Gratuit)"
+      },
+      "ai_pencil_drawing_generator": {
+        "title": "Générateur de Dessins au Crayon par IA"
+      },
+      "ai_generated_coloring_pages": {
+        "title": "Pages à Colorier Générées par l'IA"
+      },
+      "ai_generated_collager": {
+        "title": "Créateur de Collages Générés par IA"
+      },
+      "ai_mural_generator": {
+        "title": "Générateur de Fresques par IA"
+      },
+      "glitch_art_generator": {
+        "title": "Générateur d'Art Glitch"
+      },
+      "ai_vaporwave_generator": {
+        "title": "Générateur de Vaporwave par IA"
+      },
+      "ai_funko_pops_creator": {
+        "title": "Créateur de Funko Pops par IA"
+      },
+      "ai_weapon_generator": {
+        "title": "Générateur d'Armes par IA"
+      },
+      "sword_generator": {
+        "title": "Générateur d'Épées"
+      },
+      "ai_monster_generator": {
+        "title": "Générateur de Monstres par IA"
+      },
+      "bratz_ai_generator": {
+        "title": "Générateur de Bratz par IA"
+      },
+      "ai_creature_generator": {
+        "title": "Générateur de Créatures par IA"
+      },
+      "ai_muppet_generator": {
+        "title": "Générateur de Muppets par IA"
+      },
+      "ai_clothing_generator": {
+        "title": "Générateur de Vêtements par IA"
+      },
+      "ai_jersey_generator": {
+        "title": "Générateur de Maillots par IA"
+      },
+      "ai_t_shirt_designer": {
+        "title": "Concepteur de T-Shirts par IA"
+      },
+      "midjourney_video_generator": {
+        "title": "Générateur de Vidéos par IA Midjourney"
+      },
+      "anime_character_generator": {
+        "title": "Générateur de Personnages d'Anime"
+      },
+      "vampire_oc_maker": {
+        "title": "Créateur d'OC de Vampire"
+      },
+      "anime_oc_maker": {
+        "title": "Créateur d'OC d'Anime"
+      },
+      "perchance_ai_character_generator": {
+        "title": "Générateur de Personnages IA aléatoires"
+      },
+      "genshin_oc_maker": {
+        "title": "Créateur d'OC de Genshin"
+      },
+      "genshin_oc_generator": {
+        "title": "Générateur d'OC de Genshin"
+      },
+      "naruto_oc_maker": {
+        "title": "Créateur d'OC de Naruto"
+      },
+      "demon_slayer_oc_maker": {
+        "title": "Créateur d'OC de Demon Slayer"
+      },
+      "pokemon_oc_maker": {
+        "title": "Créateur d'OC de Pokémon"
+      },
+      "jjk_oc_maker": {
+        "title": "Créateur d'OC de JJK"
+      },
+      "jujutsu_kaisen_oc_maker": {
+        "title": "Créateur d'OC de Jujutsu Kaisen"
+      },
+      "one_piece_oc_maker": {
+        "title": "Créateur d'OC de One Piece"
+      },
+      "one_piece_characters_generator": {
+        "title": "Générateur de Personnages de One Piece"
+      },
+      "dragon_ball_oc_maker": {
+        "title": "Créateur d'OC de Dragon Ball"
+      },
+      "attack_on_titan_oc_maker": {
+        "title": "Créateur d'OC d'Attack on Titan"
+      },
+      "aot_oc_maker": {
+        "title": "Créateur d'OC de AOT"
+      },
+      "my_hero_academia_oc_maker": {
+        "title": "Créateur d'OC de My Hero Academia"
+      },
+      "spy_x_family_oc_maker": {
+        "title": "Créateur d'OC de Spy x Family"
+      },
+      "sonic_oc_maker": {
+        "title": "Créateur d'OC de Sonic"
+      },
+      "league_of_legends_oc_maker": {
+        "title": "Créateur d'OC de League of Legends"
+      },
+      "nsfw_oc_maker": {
+        "title": "Créateur d'OC NSFW"
+      },
+      "nsfw_character_creator": {
+        "title": "Créateur de Personnages NSFW"
+      },
+      "disney_oc_maker": {
+        "title": "Créateur d'OC de Disney"
+      },
+      "marvel_oc_maker": {
+        "title": "Créateur d'OC de Marvel"
+      },
+      "ai_marvel_character_generator": {
+        "title": "Générateur de Personnages Marvel par IA"
+      },
+      "ai_action_figure_generator": {
+        "title": "Générateur de figurines d'action IA"
+      },
+      "ai_character_sheet_generator": {
+        "title": "Générateur de fiches de personnage IA"
+      },
+      "ai_doll_generator": {
+        "title": "Générateur de poupées IA"
+      },
+      "anime_ai_filter": {
+        "title": "Filtre d'anime IA"
+      },
+      "studio_ghibli_ai_generator": {
+        "title": "Générateur de Studio Ghibli IA"
+      },
+      "studio_ghibli_filter": {
+        "title": "Filtre Studio Ghibli"
+      },
+      "anisora_video_generator": {
+        "title": "Générateur de vidéos AniSora IA"
+      },
+      "ai_anime_porn_generator": {
+        "title": "Générateur de contenu adulte anime IA"
+      },
+      "furry_ai_generator": {
+        "title": "Générateur furry IA"
+      },
+      "ai_art_generator_nsfw": {
+        "title": "Générateur d'art IA pour adulte"
+      },
+      "ai_image_generator_to_create_a_webtoon_story": {
+        "title": "Générateur d'images IA pour créer une histoire webtoon"
+      },
+      "anime_ai_generator_nsfw": {
+        "title": "Générateur d'anime IA pour adulte"
+      },
+      "nsfw_anime_ai_generator": {
+        "title": "Générateur d'anime IA pour adulte"
+      },
+      "nsfw_ai_art_generator": {
+        "title": "Générateur d'art IA pour adulte"
+      },
+      "mlp_ai_generator": {
+        "title": "Générateur MLP IA"
+      },
+      "my_little_pony_ai_generator": {
+        "title": "Générateur Mon Petit Poney IA"
+      },
+      "anime_pfp_maker": {
+        "title": "Créateur d'avatar anime"
+      },
+      "ai_game_asset_generator": {
+        "title": "Générateur d'actifs de jeu IA"
+      },
+      "mlp_oc_maker": {
+        "title": "Créateur de personnages MLP"
+      },
+      "my_little_pony_oc_maker": {
+        "title": "Créateur de personnages Mon Petit Poney"
+      },
+      "visual_novel_character_generator": {
+        "title": "Générateur de Personnages pour Romans Visuels"
+      },
+      "random_video_game_character_generator": {
+        "title": "Générateur Aléatoire de Personnages de Jeux Vidéo"
+      },
+      "moonvalley_ai_video_generator": {
+        "title": "Générateur de Vidéo IA Moonvalley"
+      },
+      "marey_ai_video_generator": {
+        "title": "Générateur de Vidéo IA Marey"
+      },
+      "lego_ai_filter": {
+        "title": "Filtre IA Lego"
+      },
+      "photo_to_line_art": {
+        "title": "Photo en dessin au trait"
+      },
+      "photo_to_simpsons": {
+        "title": "Photo en style Simpsons"
+      },
+      "naruto_ai_filter": {
+        "title": "Filtre IA Naruto"
+      },
+      "watercolor_ai_filter": {
+        "title": "Filtre IA aquarelle"
+      },
+      "cyberpunk_filter": {
+        "title": "Filtre cyberpunk"
+      },
+      "emote_maker": {
+        "title": "Créateur d'émoticônes"
+      },
+      "ai_sprite_sheet_generator": {
+        "title": "Générateur de feuilles de sprites IA"
+      },
+      "ai_emoji_generator": {
+        "title": "Générateur d'émojis IA"
+      },
+      "ai_emoticon_generator": {
+        "title": "Générateur d'émoticônes IA"
+      },
+      "anime_sticker_maker": {
+        "title": "Créateur d'autocollants anime"
+      },
+      "ai_sticker_generator": {
+        "title": "Générateur d'autocollants IA"
+      },
+      "ai_sprite_generator": {
+        "title": "Générateur de sprites IA"
+      },
+      "ai_plush_generator": {
+        "title": "Générateur de peluches IA"
+      },
+      "ai_badge_generator": {
+        "title": "Générateur de badges IA"
+      },
+      "ai_clay_filter": {
+        "title": "Filtre d'argile IA"
+      },
+      "photo_to_minecraft": {
+        "title": "Photo en style Minecraft"
+      },
+      "ai_style_transfer": {
+        "title": "Transfert de style IA"
+      },
+      "photo_to_pixel_art": {
+        "title": "Photo en pixel art"
+      },
+      "ai_cosplay_generator": {
+        "title": "Générateur de cosplay IA"
+      },
+      "video_style_transfer": {
+        "title": "Transfert de style vidéo"
+      },
+      "video_to_anime_ai": {
+        "title": "Vidéo en anime par IA"
+      },
+      "ai_video_to_animation": {
+        "title": "Vidéo en animation par IA"
+      },
+      "convert_video_to_cartoon": {
+        "title": "Convertir vidéo en dessin animé"
+      },
+      "convert_video_to_sketch": {
+        "title": "Convertir vidéo en croquis"
+      },
+      "claymation_ai_generator": {
+        "title": "Générateur de claymation par IA"
+      },
+      "ai_video_restyle": {
+        "title": "Restylage vidéo par IA"
+      },
+      "change_video_style_ai": {
+        "title": "Changer le style vidéo par IA"
+      },
+      "modify_video": {
+        "title": "Modifier la vidéo"
+      },
+      "modify_with_instructions": {
+        "title": "Modifier avec instructions"
+      },
+      "cartoonize_video": {
+        "title": "Cartooniser la vidéo"
+      },
+      "wan_video2video": {
+        "title": "Wan Vidéo2Vidéo"
+      },
+      "domoai": {
+        "title": "DomoAI"
+      },
+      "ai_anime_video_generator": {
+        "title": "Générateur de Vidéos Animées IA"
+      },
+      "ai_cartoon_video_generator": {
+        "title": "Générateur de Vidéos Cartoon IA"
+      },
+      "character_animation": {
+        "title": "Animation de Personnages"
+      },
+      "ai_video_generator": {
+        "title": "Générateur de Vidéos IA"
+      },
+      "ai_image_to_video_generator": {
+        "title": "Générateur d'Images en Vidéos IA"
+      },
+      "image_to_video_generator": {
+        "title": "Générateur d'Images en Vidéos"
+      },
+      "all_in_one_ai_video_generator": {
+        "title": "Générateur de Vidéos IA Tout-en-un"
+      },
+      "ai_stick_figure_animation": {
+        "title": "Animation de Figures Articulées IA"
+      },
+      "hailuo_ai_video_generator": {
+        "title": "Générateur de Vidéos IA Hailuo"
+      },
+      "hailuo_image_to_video": {
+        "title": "Hailuo Images en Vidéos"
+      },
+      "minimax_ai_video_generator": {
+        "title": "Générateur de Vidéos IA MiniMax"
+      },
+      "vidu_image_to_video": {
+        "title": "Vidu Images en Vidéos"
+      },
+      "pixverse_ai_video_generator": {
+        "title": "Générateur de Vidéos IA Pixverse"
+      },
+      "pixverse_image_to_video": {
+        "title": "Pixverse Images en Vidéos"
+      },
+      "kling_ai_video_generator": {
+        "title": "Générateur de Vidéos IA Kling"
+      },
+      "kling_image_to_video": {
+        "title": "Kling Images en Vidéos"
+      },
+      "veo2_video_generator": {
+        "title": "Générateur de Vidéos Veo2"
+      },
+      "veo2_image_to_video": {
+        "title": "Veo2 Images en Vidéos"
+      },
+      "ray2_video_generator": {
+        "title": "Générateur de Vidéos Ray2"
+      },
+      "ray2_image_to_video": {
+        "title": "Ray2 Images en Vidéos"
+      },
+      "luma_video_generator": {
+        "title": "Générateur de Vidéos Luma"
+      },
+      "luma_image_to_video": {
+        "title": "Luma Images en Vidéos"
+      },
+      "dream_machine_video_generator": {
+        "title": "Générateur de Vidéos Machine à Rêves"
+      },
+      "wan_ai_video_generator": {
+        "title": "Générateur de Vidéos IA Wan"
+      },
+      "perchance_ai_video_generator": {
+        "title": "Générateur de Vidéos IA Perchance"
+      },
+      "seedance_ai_video_generator": {
+        "title": "Générateur de Vidéos IA Seedance 1.0"
+      },
+      "seedance_pro_ai_video_generator": {
+        "title": "Générateur de Vidéos IA Seedance Pro"
+      },
+      "ai_video_generator_nsfw": {
+        "title": "Générateur de Vidéos IA NSFW"
+      },
+      "nsfw_ai_video_generator": {
+        "title": "Générateur de Vidéos IA NSFW"
+      },
+      "qwen_image_edit": {
+        "title": "Édition d'image par Qwen"
+      },
+      "waver_ai_video_generator": {
+        "title": "Générateur de Vidéos Waver AI"
+      },
+      "replace_object_in_video": {
+        "title": "Remplacer un objet dans une vidéo"
+      },
+      "replace_person_in_video_with_ai": {
+        "title": "Remplacer une personne dans une vidéo avec l'IA"
+      },
+      "video_restyle": {
+        "title": "Réorganiser le style de la vidéo"
+      },
+      "ai_video_filter": {
+        "title": "Filtre vidéo par IA"
+      },
+      "ai_fairy_filter": {
+        "title": "Filtre féerique par IA"
+      },
+      "ai_fairy_video_generator": {
+        "title": "Générateur de vidéos féeriques par IA"
+      },
+      "cartoonify_video": {
+        "title": "Transformer une vidéo en dessin animé"
+      },
+      "video_to_anime_converter": {
+        "title": "Convertisseur de vidéo en anime"
+      },
+      "video_to_anime": {
+        "title": "Vidéo vers anime"
+      },
+      "video_to_anime_style_app": {
+        "title": "Application de style vidéo vers anime"
+      },
+      "convert_video_to_animation_ai": {
+        "title": "Convertir une vidéo en animation par IA"
+      },
+      "convert_video_to_anime_style_ai": {
+        "title": "Convertir une vidéo en style animé par IA"
+      },
+      "anime_style_transfer": {
+        "title": "Transfert de style animé"
+      },
+      "video_to_cartoon": {
+        "title": "Vidéo en dessin animé"
+      },
+      "video_cartoonizer": {
+        "title": "Cartoonisateur de vidéo"
+      },
+      "vid2vid": {
+        "title": "Vidéo vers Vidéo"
+      },
+      "video2video": {
+        "title": "Vidéo à Vidéo"
+      },
+      "stylize_video_ai": {
+        "title": "Styliser une vidéo avec l'IA"
+      },
+      "ai_style_transfer_video": {
+        "title": "Vidéo avec transfert de style par IA"
+      },
+      "video_style_changer_ai": {
+        "title": "Changeur de style de vidéo par IA"
+      },
+      "convert_skeleton_ai": {
+        "title": "Convertir un squelette avec l'IA"
+      },
+      "ghibli_style_video_converter": {
+        "title": "Convertisseur de vidéo au style Ghibli"
+      },
+      "domoia": {
+        "title": "Domoia"
+      },
+      "ai_expression_changer": {
+        "title": "Modificateur d'Expression par IA",
+        "content": "Modifiez facilement l'expression de votre personnage grâce à nos préréglages."
+      },
+      "wan_animate": {
+        "title": "Wan Animer"
+      },
+      "vidu_q2": {
+        "title": "Vidu Q2"
+      },
+      "wan_25": {
+        "title": "Wan 2,5"
+      },
+      "ai_adult_video": {
+        "title": "Vidéo pour adultes IA"
+      },
+      "ai_kissing_video_generator": {
+        "title": "Générateur de vidéos de baisers IA"
+      },
+      "ai_moving_image_generator": {
+        "title": "Générateur d'images animées IA"
+      },
+      "make_image_move": {
+        "title": "Faire bouger l'image"
+      },
+      "animation_ai": {
+        "title": "Animation IA"
+      },
+      "image_animator": {
+        "title": "Animateur d'images"
+      },
+      "image_to_motion_ai": {
+        "title": "IA d'image animée"
+      },
+      "animated_image_generator": {
+        "title": "Créateur d'images animées"
+      },
+      "animate_a_picture": {
+        "title": "Animer une image"
+      },
+      "animate_a_photo": {
+        "title": "Animer une photo"
+      },
+      "ai_transition_between_images": {
+        "title": "Transition IA entre images"
+      },
+      "picture_to_video_ai": {
+        "title": "IA d'image en vidéo"
+      },
+      "sexy_animation": {
+        "title": "Animation séduisante"
+      },
+      "ai_cartoon_porn": {
+        "title": "Pornographie animée IA"
+      },
+      "animated_wallpaper_generator": {
+        "title": "Créateur de fonds d'écran animés"
+      },
+      "pixel_art_animation": {
+        "title": "Animation en Pixel Art"
+      },
+      "hug_ai_video_generator": {
+        "title": "Générateur de Vidéos Hug AI"
+      },
+      "animate_sketch": {
+        "title": "Animer le Croquis"
+      },
+      "veo_3_1": {
+        "title": "Veo 3.1"
+      },
+      "sora_2_video_generator": {
+        "title": "Sora 2 Générateur de Vidéos"
+      },
+      "ai_anime_filter": {
+        "title": "Filtre IA Anime"
+      },
+      "ai_aging_filter": {
+        "title": "Filtre IA Vieillissement"
+      },
+      "ai_caricature_maker": {
+        "title": "Créateur de Caricatures IA"
+      },
+      "ai_bald_filter": {
+        "title": "Filtre IA Chauve"
+      },
+      "ai_beard_filter": {
+        "title": "Filtre IA Barbe"
+      },
+      "ai_bikini": {
+        "title": "Bikini IA"
+      },
+      "ai_blonde_hair_filter": {
+        "title": "Filtre IA Cheveux Blonds"
+      },
+      "ai_cartoon_generator": {
+        "title": "Générateur IA de Dessins Animés"
+      },
+      "ai_comic_book_filter": {
+        "title": "Filtre IA Bande Dessinée"
+      },
+      "ai_fat_filter": {
+        "title": "Filtre IA Corpulence"
+      },
+      "ai_lego_filter": {
+        "title": "Filtre IA Lego"
+      },
+      "ai_magazine_cover_maker": {
+        "title": "Créateur de Couvertures de Magazine IA"
+      },
+      "ai_manga_filter": {
+        "title": "Filtre IA Manga"
+      },
+      "ai_minecraft_generator": {
+        "title": "Générateur IA Minecraft"
+      },
+      "ai_pop_art_filter": {
+        "title": "Filtre IA Pop Art"
+      },
+      "ai_silhouette_maker": {
+        "title": "Créateur de Silhouettes IA"
+      },
+      "ai_skinny_filter": {
+        "title": "Filtre IA Minceur"
+      },
+      "ai_simpsons_generator": {
+        "title": "Générateur IA Simpsons"
+      },
+      "baby_filter": {
+        "title": "Filtre Bébé"
+      },
+      "image_to_image_ai_generator": {
+        "title": "Générateur IA Image à Image"
+      },
+      "magazine_ai_generator": {
+        "title": "Générateur de Magazines IA"
+      },
+      "mugshot_generator": {
+        "title": "Générateur de Portraits"
+      },
+      "photo_to_sketch": {
+        "title": "Photo en Croquis"
+      },
+      "pixar_ai_generator": {
+        "title": "Générateur IA Pixar"
+      },
+      "ps2_ai_filter": {
+        "title": "Filtre IA PS2"
+      },
+      "seedance": {
+        "title": "Danse des graines"
+      },
+      "ai_video_effects": {
+        "title": "Effets vidéo avec IA"
+      },
+      "ai_dance_video_generator": {
+        "title": "Générateur de Vidéos de Danse par IA"
+      },
+      "text_to_video": {
+        "title": "Texte en Vidéo"
+      },
+      "dance_video_generator": {
+        "title": "Générateur de Vidéos de Danse"
+      },
+      "nano_banana_2": {
+        "title": "Nano Banane 2"
+      },
+      "wan_26": {
+        "title": "Wan 2.6"
+      }
+    },
+    "animation": {
+      "title": "Créer des vidéos d'animation",
+      "image_to_animation": {
+        "title": "Transformation image en animation",
+        "content": "Créez des animations fluides à partir d'images."
+      },
+      "inbetweening": {
+        "title": "Interpolation",
+        "content": "Générez des images intermédiaires entre des images clés pour l'animation."
+      },
+      "video_upscaling": {
+        "title": "Amélioration de vidéo",
+        "content": "Augmentez la résolution de vos vidéos."
+      },
+      "video_interpolation": {
+        "title": "Interpolation d'images",
+        "content": "Rendez les vidéos plus fluides en insérant des images supplémentaires."
+      },
+      "layer_splitter": {
+        "content": "Diviser les images des personnages en composants distincts.",
+        "title": "Diviseur de Calques"
+      },
+      "ai_talking_head": {
+        "title": "Tête Parlante IA",
+        "content": "Créez des personnages animés parlants à partir d'images fixes."
+      },
+      "video_to_video": {
+        "title": "Vidéo à Vidéo",
+        "content": "Transformez vos vidéos en différents styles avec l'IA."
+      },
+      "text_to_video": {
+        "title": "Texte en vidéo",
+        "content": "Créez des vidéos à partir de descriptions textuelles."
+      },
+      "dance_video_generator": {
+        "title": "Générateur de Vidéos de Danse",
+        "content": "Créez des vidéos de danse grâce à l'IA."
+      },
+      "animation_generator": {
+        "title": "Générateur d'Animation par IA",
+        "content": "Créez des vidéos d'animation fluides à partir d'images ou de texte."
+      }
+    },
+    "more": {
+      "title": "ET BIEN PLUS ENCORE",
+      "content": "Explorez notre suite complète d'outils d'IA pour la bande dessinée, l'illustration et l'animation."
+    }
+  },
+  "gridIndex": "Grille {{index}}",
+  "popularity": "{{count}} popularité",
+  "roleplay": "Roleplay",
+  "likes": "{{count}} J'aime",
+  "following": "Abonnements",
+  "follow": "Suivre",
+  "post_card": {
+    "following": "Abonnements",
+    "follow": "Suivre",
+    "the_end": "—— fin ——",
+    "discover": "Découvrir",
+    "more_stories": "Plus d'histoires",
+    "or_start": "Ou commencer",
+    "creating_your_own": "À créer la vôtre",
+    "comments": "Commentaires",
+    "the_end_dash": "- fin -",
+    "prompts": "Prompts",
+    "prompt_copied": "Prompt copié dans le presse-papiers",
+    "copy_prompt": "Copier le prompt",
+    "generate_more": "Générer plus",
+    "no_prompts": "Aucun prompt disponible 😢",
+    "join_discussion": "Participez à la discussion !",
+    "sharing_link_copied": "Lien de partage copié ! Partagez-le avec vos amis maintenant !",
+    "image_downloaded": "Image téléchargée avec succès !",
+    "download_failed": "Le téléchargement a échoué, veuillez réessayer plus tard.",
+    "download_image": "Télécharger l'image",
+    "copy_link": "Copier le lien",
+    "more": "Plus",
+    "share_text": "Je viens de trouver cette super BD « {{title}} » ! Vous devez absolument y jeter un coup d'œil !",
+    "delete": "Supprimer",
+    "confirm_delete": "Confirmer la suppression",
+    "confirm_delete_message": "Êtes-vous sûr de vouloir supprimer ce message ?",
+    "cancel": "Annuler",
+    "delete_success": "Message supprimé avec succès",
+    "delete_failed": "Échec de la suppression du message",
+    "create_yours": "Créer le vôtre",
+    "try_the_tool": "Essayez l'outil",
+    "prompt_hidden": "Invite masquée",
+    "turn_into": "Transformer en ",
+    "video_to": "Vidéo vers ",
+    "expression": "Expression",
+    "effect": "Impact",
+    "dance_video_generator": "Générateur de vidéos de danse",
+    "video_downloaded": "Vidéo téléchargée avec succès !",
+    "download": "Télécharger",
+    "share": {
+      "twitter": "Découvrez « {{title}} » par {{username}}, créé sur @KomikoAI !\n\n{{content}}\n\n#ArtIA #AnimeIA\n{{link}}",
+      "facebook": "Découvrez « {{title}} » par {{username}}, créé sur KomikoAI !\n\n{{content}}",
+      "reddit": "« {{title}} » par {{username}}, créé sur KomikoAI",
+      "pinterest": "« {{title}} » par {{username}}, créé sur KomikoAI",
+      "whatsapp": "Découvrez « {{title}} » par {{username}}, créé sur KomikoAI !\n{{link}}",
+      "telegram": "Découvrez « {{title}} » par {{username}}, créé sur KomikoAI !"
+    },
+    "menu": {
+      "tag_moderator": "Modérateur du tag",
+      "admin": "Administrateur",
+      "pin": "Épingler",
+      "unpin": "Désépingler",
+      "pin_global": "Épingler (global)",
+      "unpin_global": "Désépingler (global)",
+      "feature": "Mettre en valeur",
+      "unfeature": "Retirer de la mise en valeur",
+      "feature_global": "Mettre en valeur (global)",
+      "unfeature_global": "Retirer de la mise en valeur (global)",
+      "translate": "Traduire",
+      "hide": "Masquer",
+      "unhide": "Réafficher",
+      "report": "Signaler",
+      "block_user": "Bloquer @{{name}}",
+      "unblock_user": "Débloquer @{{name}}"
+    },
+    "loading": "En cours de chargement...",
+    "reply1": "1 réponse",
+    "remix_count": "{{count}} Remixes",
+    "remix_count_one": "{{count}} Remix",
+    "remix_count_other": "{{count}} Remixes",
+    "remix": "Remixage"
+  },
+  "uploadFile": {
+    "tapToUpload": "Cliquez pour télécharger ou glissez-déposez votre image ici",
+    "errors": {
+      "invalidExtension": "Veuillez sélectionner un fichier avec l'extension : {{accept}}",
+      "selectImage": "Veuillez sélectionner une image",
+      "selectVideo": "Veuillez sélectionner une vidéo",
+      "fileSize": "La taille du fichier doit être inférieure à {{limit}} Mo",
+      "maxDuration": "Durée maximale : {{duration}} minutes",
+      "safariVideoTooLong": "Pour une meilleure expérience sur Safari, merci d'utiliser des vidéos de 15 secondes maximum, ou essayez Chrome pour des vidéos plus longues !",
+      "selectAudio": "Veuillez sélectionner un fichier audio",
+      "audioSize": "La taille du fichier audio doit être inférieure à {{limit}} Mo"
+    },
+    "warnings": {
+      "imageWillCompress": "L'image dépasse {{limit}} Mo et sera automatiquement compressée",
+      "audioTooLarge": "Le fichier audio dépasse {{limit}} Mo, ce qui peut affecter la qualité du traitement"
+    },
+    "dragAudio": "Faites glisser l'audio ici ou cliquez pour téléverser",
+    "supportedAudio": "Formats pris en charge : MP3, WAV",
+    "clickToUpload": "Cliquez pour téléverser ou glissez votre image ici"
+  },
+  "home": {
+    "create_story": {
+      "title": "Nouvelle BD",
+      "subtitle": "Générer des images et créer des histoires",
+      "generate": {
+        "title": "Générer",
+        "description": "Générez une bande dessinée à partir d'un prompt d'une ligne en quelques secondes"
+      },
+      "from_scratch": {
+        "title": "À partir de zéro",
+        "description": "Commencez avec une toile vierge et laissez libre cours à votre créativité"
+      }
+    },
+    "create_character": {
+      "title": "Nouveau personnage",
+      "subtitle": "Créer des personnages pour vos histoires"
+    },
+    "create_animation": {
+      "title": "Nouveau Roleplay"
+    }
+  },
+  "result_card": {
+    "generating": "Génération en cours",
+    "video_not_supported": "Votre navigateur ne prend pas en charge la balise vidéo.",
+    "more_ai_tools": {
+      "title": "Davantage d'outils IA",
+      "description": "Développez vos horizons créatifs avec davantage d'outils IA associés.",
+      "view_more": "Découvrez plus d'outils IA"
+    },
+    "generated_by": "Généré par",
+    "tools": {
+      "remove_bg": "Supprimer l'arrière-plan",
+      "upscale": "Agrandir",
+      "anime_style": "Style anime",
+      "animate": "Animation",
+      "video_upscale": "Agrandir la vidéo",
+      "video_interpolate": "Interpoler",
+      "character_sheet": "Feuille de personnage",
+      "oc-maker": "Créateur de personnage",
+      "line_art_colorization": "Colorisation de dessin au trait",
+      "title": "Outils",
+      "character": "Personnage",
+      "restyle": "Restyler",
+      "add_text": "Ajouter du texte",
+      "playground": "Aire de jeux d'images",
+      "create_animation": "Créez votre propre animation"
+    },
+    "generation_failed": "Échec de la génération",
+    "generation_failed_desc": "Une erreur est survenue lors de la génération. Veuillez réessayer."
+  },
+  "logout": "Se déconnecter",
+  "create_character": "Créer un personnage",
+  "generate_image": "Créer une image",
+  "generate": "Créer",
+  "create_comic": "Créer une bande dessinée",
+  "generate_animation": "Créer une animation",
+  "actions": {
+    "download": "Télécharger",
+    "delete": "Supprimer",
+    "publish": "Publier",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "post": "Publier",
+    "share": "Partager",
+    "apply": "Appliquer",
+    "applying": "Application en cours...",
+    "generate": "Générer",
+    "generating": "Génération en cours...",
+    "upload": "Téléverser",
+    "uploading": "Téléversement en cours...",
+    "extract": "Extraire",
+    "extracting": "Extraction en cours...",
+    "download_layers": "Télécharger les calques",
+    "confirm_delete": "Confirmer la suppression",
+    "delete_warning": "Êtes-vous sûr de vouloir supprimer cette image ?",
+    "show_more": "Voir plus",
+    "show_less": "Voir moins"
+  },
+  "tools": {
+    "image-animation-generator": "Générateur d'animation d'image",
+    "video-upscaling": "Agrandissement vidéo",
+    "video_upscaling": "Agrandissement vidéo",
+    "photo-to-anime": "Photo en anime",
+    "background-removal": "Suppression d'arrière-plan",
+    "image-upscaling": "Agrandissement d'image",
+    "video-interpolation": "Interpolation vidéo",
+    "video_interpolation": "Interpolation vidéo",
+    "ai-character-sheet-generator": "Générateur de feuille de personnage",
+    "oc-maker": "Créateur de personnage",
+    "oc_maker": "Créateur de personnage",
+    "line_art_colorization": "Colorisation de dessin au trait",
+    "character": "Personnage",
+    "restyle": "Restyler",
+    "layer_splitter": "Séparateur de calque",
+    "video_to_video": "Vidéo à vidéo IA",
+    "ai-talking-head": "Tête animée IA",
+    "video-to-video": "Vidéo à vidéo IA"
+  },
+  "toasts": {
+    "fetchFailed": "Échec de la récupération",
+    "deleteSuccess": "Suppression réussie",
+    "deleteFailed": "Échec de la suppression",
+    "downloadFailed": "Échec du téléchargement",
+    "processingSuccess": "Traitement réussi",
+    "processingFailed": "Échec du traitement",
+    "uploadFailed": "Échec de l'envoi",
+    "noVideoUrl": "Aucune URL de vidéo fournie",
+    "noZaps": "Veuillez acheter plus de zaps",
+    "mediaReceived": "Média reçu d'un autre outil",
+    "extractFailed": "Échec de l'extraction du cadre. Veuillez réessayer.",
+    "invalidResponse": "Réponse de l'API invalide",
+    "timeout": "Opération expirée",
+    "missingData": "Données requises manquantes",
+    "unexpectedFormat": "Format de données inattendu",
+    "maxImagesReached": "Nombre maximum d'images atteint",
+    "loginRequired": "Veuillez vous connecter d'abord",
+    "cannotBlockSelf": "Vous ne pouvez pas vous bloquer vous-même",
+    "userBlocked": "Utilisateur bloqué avec succès",
+    "userBlockedName": "Bloqué @{{name}}",
+    "userUnblocked": "Utilisateur débloqué avec succès",
+    "userUnblockedName": "Débloqué @{{name}}",
+    "blockFailed": "Impossible de bloquer l'utilisateur",
+    "unblockFailed": "Impossible de débloquer l'utilisateur",
+    "alreadyReported": "Vous avez déjà signalé ce post",
+    "postReported": "Post signalé avec succès",
+    "reportFailed": "Échec lors du signalement du post"
+  },
+  "from_other_tools": "{{input_type}} reçu de {{tools}}",
+  "input_types": {
+    "image": "Image",
+    "character": "Personnage",
+    "video": "Vidéo"
+  },
+  "alt": {
+    "generated_image": "Image générée"
+  },
+  "success": {
+    "copy": "Copié dans le presse-papiers"
+  },
+  "unknown": "Inconnu",
+  "error": {
+    "code": "Code d'erreur : {{code}}",
+    "requestId": "ID de requête : {{id}}",
+    "downloadFailed": "Le téléchargement a échoué. Veuillez réessayer."
+  },
+  "video_tabs": {
+    "image_to_animation": "Image en Animation",
+    "video_to_video": "Vidéo à Vidéo",
+    "talking_head": "Parole",
+    "image_to_video_sub": "Image à Vidéo",
+    "character_to_video_sub": "Personnage à Vidéo",
+    "text_to_animation": "Texte en animation",
+    "image_or_text_to_video": "Image ou texte",
+    "Dance": "Danse",
+    "Template": "Modèle",
+    "dance": "Danser",
+    "templates": "Gabarits",
+    "animation_generator": "Générateur d'Animation par IA"
+  },
+  "audioRecorder": {
+    "duration": "Durée",
+    "recording": "Enregistrement en cours",
+    "preparing": "Préparation...",
+    "instructions": "Cliquez sur le bouton ci-dessous pour commencer l'enregistrement",
+    "stop": "Arrêter l'enregistrement",
+    "start": "Commencer l'enregistrement",
+    "record_new": "Enregistrer un nouvel audio"
+  },
+  "sampleImage": "Image d'exemple",
+  "sampleVideo": "Vidéo d'exemple",
+  "exampleResult": "Résultat d'exemple",
+  "loading": "En cours de chargement...",
+  "create_character_short": "Personnages",
+  "generate_image_short": "Image IA",
+  "ai_comic": "BD IA",
+  "generate_comic": "Créer une bande dessinée",
+  "generate_animation_short": "Vidéo IA",
+  "magic_prompt": "Invitation Magique",
+  "results_card": {
+    "tools": {
+      "new_character": "Nouveau personnage"
+    }
+  },
+  "nsfw": {
+    "title": "⚠️ Vérification de l'âge",
+    "message": "Cette section contient du contenu réservé aux adultes (18+). Vous devez avoir au moins 18 ans (ou l'âge de la majorité dans votre pays) pour continuer. En cliquant sur \"Oui\", vous attestez avoir au moins 18 ans et être légalement autorisé à accéder au contenu NSFW conformément aux lois de votre juridiction. KomikoAI se fie à votre déclaration et peut demander une vérification supplémentaire (comme une pièce d'identité officielle) à tout moment. Si vous fournissez de fausses informations, vous êtes responsable des conséquences juridiques qui en découlent.",
+    "yes": "Oui",
+    "no": "Non"
+  },
+  "network": {
+    "offline": "Déconnecté",
+    "online": "En ligne"
+  },
+  "max": "Maximale",
+  "min": "Minimale",
+  "faq": "Questions Fréquemment Posées",
+  "publicVisibility": {
+    "label": "Visibilité Publique",
+    "tooltip": "Rendre ce contenu visible à tous les utilisateurs",
+    "popoverTitle": "Visibilité",
+    "public": "Public",
+    "publicDescription": "Tout le monde peut voir et utiliser",
+    "private": "Privé",
+    "privateDescription": "Seul vous pouvez voir et utiliser",
+    "plusBadge": "PLUS"
+  },
+  "referenceImages": {
+    "modal": {
+      "title": "Images de référence",
+      "description": "Vous pouvez mentionner l'image de référence par son nom dans votre prompt. Cliquez sur le bouton → pour insérer le nom directement.",
+      "imageName": {
+        "label": "Nom",
+        "placeholder": "référence"
+      },
+      "remove": "Supprimer",
+      "close": "Fermer",
+      "addNew": {
+        "title": "Ajouter une nouvelle image",
+        "subtitle": "Cliquez ou glissez-déposez pour ajouter"
+      },
+      "premiumFeature": {
+        "title": "Fonctionnalité premium",
+        "message": "Plusieurs images de référence sont une fonctionnalité premium. Passez à la version supérieure pour enrichir vos créations."
+      },
+      "removeAll": "Tout effacer",
+      "confirmRemoveAll": "Voulez-vous supprimer toutes les images de référence ?",
+      "insertSuccess": "{{name}} inséré dans le prompt",
+      "insertTooltip": "Insérer dans le prompt",
+      "selectAll": "Tout sélectionner",
+      "deleteAll": "Tout supprimer",
+      "deleteSelected": "Supprimer les sélectionnés",
+      "deselectAll": "Tout désélectionner",
+      "bulkInsert": "Insertion en masse",
+      "insertSelected": "Insérer les sélectionnés",
+      "bulkInsertSuccess": "Nom(s) de personnage ajouté(s) avec succès!",
+      "noSelection": "Veuillez sélectionner au moins une référence",
+      "noValidNames": "Aucun nom valide pour l'insertion",
+      "deleted": "{{count}} références supprimées",
+      "allDeleted": "Toutes les références ont été supprimées",
+      "selected": "sélectionné",
+      "maxImagesReached": "Maximum de {{max}} images atteint",
+      "fileTooLarge": "La taille du fichier dépasse la limite de {{max}}",
+      "someFilesTooLarge": "Certains fichiers dépassent la limite de taille de {{max}}",
+      "totalSizeTooLarge": "La taille totale dépasse la limite de {{max}}",
+      "unsupportedFormat": "Seuls les formats JPEG, PNG et WebP sont acceptés",
+      "limits": "Limites : {{current}}/{{maxImages}} images • Max {{maxSingleSize}}/fichier • Max {{maxTotalSize}} total • Formats : {{formats}}",
+      "dropHere": "Glissez les images ici"
+    }
+  },
+  "characterAppearance": {
+    "referenceImage": {
+      "title": "Images de référence",
+      "description": "Téléchargez des images de référence pour guider la création de personnages",
+      "empty": "Pas encore d'images de référence",
+      "add": "Ajouter une image",
+      "images": "images",
+      "upgrade": "Premium",
+      "premiumInfo": "Vous pouvez ajouter un nombre illimité d'images de référence",
+      "freeLimit": "Les utilisateurs gratuits peuvent ajouter jusqu'à {{limit}} image(s) de référence"
+    }
+  },
+  "referenceImage": {
+    "title": "Images de Référence",
+    "description": "Téléchargez des images de référence pour orienter la création du personnage",
+    "empty": "Aucune image de référence pour le moment",
+    "add": "Ajouter une Image",
+    "images": "images",
+    "upgrade": "Premium",
+    "freeLimit": "Les utilisateurs gratuits peuvent ajouter jusqu'à {{limit}} image de référence",
+    "info": "{{count}}/9 images • 25MB max par fichier • 50MB au total",
+    "clearAll": "Tout Effacer",
+    "imageName": "Nom de l'Image",
+    "placeholder": "Entrez le nom",
+    "insert": "Insérer",
+    "maxImagesReached": "Maximum de {{max}} images autorisé",
+    "dropHere": "Glissez les images ici"
+  },
+  "examples": {
+    "inputLabel": "Entrée",
+    "outputLabel": "Sortie",
+    "styleLabel": "Style",
+    "promptLabel": "Invitation"
+  },
+  "daily_check_in": {
+    "title": "Récompenses quotidiennes",
+    "claim_button": "Réclamez vos {{amount}} zaps quotidiens",
+    "upgrade_button": "Passez à la version supérieure pour obtenir jusqu'à {{amount}} zaps gratuits !",
+    "extra_rewards_tip": "Appuyez sur \"Récompenses\" sur votre page de profil pour gagner plus de récompenses !",
+    "christmas_banner_tip": "🎄 Créez de l'art, gagnez 150 $ !",
+    "christmas_banner_tip_description": "Utilisez les Zaps d'aujourd'hui pour créer votre AU de Noël et gagner jusqu'à 150 $ en récompenses Komiko !",
+    "christmas_reward_tip": "Esprit de Noël, offres doubles ! Deux fois plus de joie, deux fois plus d'émotions !",
+    "christmas_reward_btn_text": "Joyeux Noël ! Réclamez 200 Zaps !",
+    "off50_yearly_deal": "50 % de réduction sur l'offre annuelle !",
+    "join_now": "Rejoignez KomikoAI pour une ambiance de Nouvel An et des surprises festives ! L'offre expire le 6 janvier !"
+  },
+  "hide_my_prompt": "Masquer mon invite",
+  "hide_my_prompt_tooltip": "Cette invite ne sera pas visible par les autres. Mettez à niveau pour débloquer l'accès.",
+  "magic_prompt_on": "Activé",
+  "magic_prompt_off": "Désactivé",
+  "magic_prompt_description": "Améliore votre demande initiale pour enrichir la diversité et la richesse de l'image. Peut également traduire en anglais.",
+  "collections": "Collections",
+  "explore_characters": "Découvrir les personnages",
+  "audio": "Audio",
+  "endFrame": "Image finale",
+  "multipleReferences": "Références multiples",
+  "NSFW": "NSFW",
+  "share_title": "Partagez ce post avec vos amis — lorsqu'ils s'inscriront, vous recevrez tous les deux {{count}} Zaps!",
+  "settings": {
+    "title": "Paramètres",
+    "privacy": "Paramètres de confidentialité",
+    "language": "Préférence linguistique",
+    "subscription": {
+      "title": "Gestion de l'abonnement",
+      "manage": "Gérer l'abonnement",
+      "upgrade": "Améliorer le plan",
+      "currentPlan": "Plan actuel : {{plan}}",
+      "noSubscription": "Aucun abonnement actif"
+    },
+    "nsfw": {
+      "enable": "Activer NSFW",
+      "description": "En activant NSFW, vous attestez avoir au moins 18 ans. Le contenu NSFW inclut de la nudité, de la violence ou de la pornographie qui n'est pas approprié pour le lieu de travail.",
+      "confirmTitle": "Confirmation de l'âge",
+      "iConfirm": "Je confirme",
+      "nevermind": "Peu importe"
+    },
+    "danger": {
+      "title": "Zone dangereuse",
+      "description": "Supprimez définitivement votre compte Komiko ainsi que toutes les données associées. Cette action est irréversible.",
+      "delete": "Supprimer le compte"
+    },
+    "blockedUsers": "Utilisateurs bloqués",
+    "blockedUsersPage": {
+      "title": "Utilisateurs bloqués",
+      "empty": "Aucun utilisateur bloqué",
+      "emptyDescription": "Les utilisateurs que vous bloquez apparaîtront ici.",
+      "blockedOn": "Bloqué le {{date}}",
+      "buttonUnblock": "Débloquer",
+      "unblockConfirmTitle": "Voulez-vous débloquer @{{name}} ?",
+      "unblockConfirmDescription": "Ils pourront à nouveau voir vos publications et commentaires.",
+      "buttonCancel": "Annuler"
+    }
+  },
+  "preset_tags": {
+    "all_posts": "Tous les articles",
+    "featured": "À la une",
+    "templates": "Modèles",
+    "animation": "Animation",
+    "oc": "OC",
+    "anime": "Animé",
+    "manga": "Manga",
+    "game": "Jeu",
+    "movie": "Film",
+    "ship": "Couple",
+    "furry": "Furry",
+    "kawaii": "Mignon",
+    "nsfw": "NSFW",
+    "genshin_impact": "Genshin Impact",
+    "demon_slayer": "Demon Slayer",
+    "spy_x_family": "Spy × Family",
+    "my_hero_academia": "My Hero Academia",
+    "pokemon": "Pokémon",
+    "hatsune_miku": "Hatsune Miku",
+    "jujutsu_kaisen": "Jujutsu Kaisen",
+    "frieren": "Frieren",
+    "naruto": "Naruto",
+    "one_piece": "One Piece",
+    "hazbin_hotel": "Hazbin Hotel",
+    "kpop_demon_hunters": "Chasseurs de démons KPop",
+    "marvel": "Marvel",
+    "chainsaw_man": "Chainsaw Man",
+    "re_zero": "Re:Zero",
+    "ai_apps": "Applications d'IA",
+    "gay": "Gai",
+    "harbin_hotel": "Hôtel à Harbin",
+    "husbando": "Mari idéal",
+    "lesbian": "Lesbienne",
+    "waifu": "Épouse idéale",
+    "gundam": "Gundam",
+    "cthulhu": "Cthulhu",
+    "komikoChristmas": "Noël de Komiko",
+    "harry_potter": "Harry Potter",
+    "zootopia": "Zootopie",
+    "scenery": "Paysage",
+    "scifi": "Science-fiction",
+    "bankai": "Bankai",
+    "dragon_ball": "Dragon Ball",
+    "umamusume": "Uma Musume",
+    "street_fighter": "Street Fighter",
+    "my_little_pony": "My Little Pony",
+    "zenless_zone_zero": "Zenless Zone Zero"
+  },
+  "change": "Modification",
+  "describe_video_effect": "Décrivez la vidéo que vous souhaitez créer. Tapez @ pour mentionner des personnages.",
+  "mention_characters": "Décrivez le contenu que vous souhaitez créer. Tapez @ pour mentionner des personnages.",
+  "bgmAvailableFor4SecondVideosOnly": "La BGM est disponible uniquement pour les vidéos de 4 secondes",
+  "weekend_flash_promotion": {
+    "weekend_flash_title": "PROMOTION FLASH DU WEEK-END : 30% DE RÉDUCTION SUR L'ABONNEMENT ANNUEL !"
+  },
+  "set_tag": "Configuration de l'étiquette",
+  "templates": "Modèles",
+  "videoReference": {
+    "description": "Téléchargez des images de référence pour générer une vidéo. Vous pouvez télécharger une seule image, plusieurs images, ou bien un premier et un dernier cadre.",
+    "limits": "Max {{maxImages}} images • 25MB max par fichier • Formats acceptés : JPEG, PNG, WebP",
+    "firstFrame": "Premier cadre",
+    "addEndFrame": "Ajouter un dernier cadre",
+    "endFrameHint": "Pour l'animation premier/dernier cadre",
+    "endFrameInfo": "Astuce : Ajoutez un dernier cadre pour créer une animation du premier au dernier cadre. Les modèles compatibles seront sélectionnés automatiquement.",
+    "done": "Terminé"
+  },
+  "home_ai_video": {
+    "video_prompt_placeholder": "Décrivez l'effet vidéo (Facultatif). Tapez @ pour mentionner des personnages.",
+    "reference": "Référence"
+  },
+  "multiImage": {
+    "maxReached": "Maximum de {{max}} images autorisées",
+    "uploadPrompt": "Téléchargez {{min}} à {{max}} images",
+    "dragDropHint": "Cliquez ou glissez-déposez les images ici.",
+    "addMore": "Ajouter plus d'images",
+    "imagesUploaded": "images",
+    "minRequired": "minimum {{min}} requis"
+  },
+  "effects": "Effets",
+  "block": {
+    "confirmBlockTitle": "Voulez-vous bloquer @{{name}} ?",
+    "confirmUnblockTitle": "Voulez-vous débloquer @{{name}} ?",
+    "unblockDescription": "Ils pourront à nouveau voir vos publications et commentaires.",
+    "blockDescription1": "Vous ne verrez plus les publications de cette personne dans votre fil d'actualités",
+    "blockDescription2": "Vous ne verrez plus les commentaires de cette personne",
+    "blockDescription3": "Cette action peut être révoquée",
+    "buttonBlock": "Bloquer",
+    "buttonUnblock": "Débloquer",
+    "buttonCancel": "Annuler"
+  },
+  "report": {
+    "confirmTitle": "Voulez-vous signaler ce post ?",
+    "selectReason": "Veuillez choisir une raison :",
+    "description": "Ce post sera masqué dans votre fil d'actualités et signalé aux modérateurs pour révision.",
+    "warning": "L'utilisation abusive du signalement peut entraîner des restrictions de compte.",
+    "buttonReport": "Signaler",
+    "buttonCancel": "Annuler",
+    "reasons": {
+      "inappropriate": {
+        "label": "Contenu inapproprié",
+        "description": "Contenu sexuel, violent ou perturbant"
+      },
+      "spam": {
+        "label": "Spam",
+        "description": "Contenu répétitif ou non sollicité"
+      },
+      "hate_speech": {
+        "label": "Discours de haine",
+        "description": "Incite à la haine ou à la violence contre des groupes"
+      },
+      "violence": {
+        "label": "Violence",
+        "description": "Violence graphique ou menaces"
+      },
+      "copyright": {
+        "label": "Violation du droit d'auteur",
+        "description": "Utilisation non autorisée de matériel protégé par des droits d'auteur"
+      },
+      "other": {
+        "label": "Autre",
+        "description": "Autres violations des directives communautaires"
+      }
+    }
+  },
+  "time": {
+    "just_now": "À l'instant",
+    "minutes_ago": "il y a {{count}} min",
+    "hours_ago": "il y a {{count}} h",
+    "days_ago": "il y a {{count}} j"
+  },
+  "ad_consent": {
+    "title": "Publicité & Confidentialité",
+    "description": "Nous utilisons la publicité pour soutenir notre service gratuit. Pour offrir des contenus publicitaires pertinents, nos partenaires publicitaires peuvent collecter les données suivantes :",
+    "banner_text": "Nous utilisons des cookies et des publicités pour soutenir notre service gratuit. En acceptant, vous nous autorisez à collecter des données pour des publicités personnalisées.",
+    "learn_more": "En savoir plus",
+    "data": {
+      "browsing": "Habitudes de navigation et historique de recherche",
+      "preferences": "Préférences utilisateur et interactions avec le contenu",
+      "profile": "Profil utilisateur (type de plan)"
+    },
+    "note_title": "Veuillez noter :",
+    "note_content": "Vous pouvez changer votre choix à tout moment dans les paramètres. Le refus n'affectera pas les fonctionnalités principales du site Web, mais les publicités peuvent être moins pertinentes.",
+    "privacy_policy": "Pour plus d'informations, veuillez consulter notre",
+    "privacy_link": "Politique de confidentialité",
+    "reject": "Rejeter",
+    "accept": "Accepter"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "Pembuat Komik AI - KomikoAI",
+    "description": "Pembuat komik AI yang memungkinkan Anda membuat komik dari ide cerita sederhana. Hasilkan komik, manhwa, dan manga dengan AI menggunakan Pembuat Komik AI KomikoAI."
+  },
+  "form": {
+    "title": "Pembuat Komik AI",
+    "subtitle": "Ubah ide Anda menjadi komik, manga, atau manhwa yang menarik dengan AI. Cukup masukkan ide cerita, pilih gaya Anda, dan biarkan Pembuat Komik AI melakukan sisanya.",
+    "idea_label": "Ide Komik Anda",
+    "idea_placeholder": "Masukkan ide komik Anda di sini...",
+    "style_label": "Gaya Komik",
+    "style_placeholder": "Pilih gaya komik",
+    "styles": {
+      "anime": "Anime",
+      "manga": "Manga",
+      "manhwa": "Manhwa",
+      "american": "Amerika",
+      "cartoon": "Kartun",
+      "realistic": "Realistis"
+    },
+    "type_label": "Jenis Komik",
+    "type_placeholder": "Pilih jenis komik",
+    "types": {
+      "normal": "Normal",
+      "funny": "Lucu",
+      "meme": "Meme"
+    },
+    "layout_label": "Tata Letak Komik",
+    "mode_label": "Mode Pembuatan",
+    "modes": {
+      "gemini": "Gemini",
+      "gemini_cost": "{{cost}} zaps per kotak",
+      "flux": "Flux",
+      "flux_cost": "{{cost}} zaps per kotak"
+    },
+    "narration_checkbox": "Sertakan Narasi",
+    "generate_button": "Buat Komik"
+  },
+  "buttons": {
+    "edit": "Edit",
+    "download": "Unduh",
+    "share": "Bagikan"
+  },
+  "preview_alt": "Pratinjau Komik",
+  "preview_text": "Masukkan ide komik Anda, lalu klik \"Buat\" untuk membuat komik Anda.",
+  "narration": "Narasi",
+  "idea_input": {
+    "label": "Apa ide cerita Anda?",
+    "custom_placeholder": "Masukkan ide cerita Anda dan tentukan gaya seni"
+  },
+  "login_to_generate": "Buat",
+  "edit_button": "Edit",
+  "comics_generated": "{{count}} komik telah dibuat oleh pengguna KomikoAI",
+  "comic_type": {
+    "normal": {
+      "label": "🙂 Normal",
+      "text": "Normal"
+    },
+    "meme": {
+      "label": "🤣 Meme",
+      "text": "Meme"
+    }
+  },
+  "comic_style": {
+    "anime": "Anime",
+    "american": "Amerika",
+    "manga": "Manga",
+    "manhwa": "Manhwa",
+    "custom": "Kustom"
+  },
+  "seo": {
+    "main_heading": "Apa itu Pembuat Komik AI",
+    "main_description": "Pembuat Komik AI adalah alat bertenaga AI yang memberdayakan pembuat untuk mengubah ide menjadi komik, manga, dan meme yang menarik dengan sedikit usaha. Baik Anda seorang seniman atau penggemar bercerita, hidupkan imajinasi Anda dengan visual dan narasi yang dihasilkan AI. Cukup masukkan ide cerita, pilih gaya Anda, dan biarkan Pembuat Komik AI KomikoAI melakukan sisanya. Nikmati pembuatan komik AI yang lebih baik daripada Pabrik Komik AI di Hugging Face."
+  },
+  "how_to_use": {
+    "heading": "Cara Menggunakan Pembuat Komik AI",
+    "step1": {
+      "title": "Langkah 1: Masukkan Ide Anda",
+      "content": "Masukkan konsep, ide cerita, atau inspirasi meme. Tulis kalimat sederhana atau jelaskan cerita Anda secara detail."
+    },
+    "step2": {
+      "title": "Langkah 2: Sesuaikan Gaya Anda",
+      "content": "Pilih dari gaya seperti manga, anime, komik Amerika, atau sesuaikan gaya seni Anda sendiri."
+    },
+    "step3": {
+      "title": "Langkah 3: AI Menghasilkan",
+      "content": "Klik tombol \"Buat Komik\". Tunggu Pembuat Komik AI KomikoAI membuat panel, seni, balon ucapan, dan narasi berdasarkan masukan Anda. Komik Anda akan dibuat dalam hitungan detik."
+    },
+    "step4": {
+      "title": "Langkah 4: Ekspor dan Bagikan",
+      "content": "Unduh output komik berkualitas tinggi untuk dibagikan di media sosial atau untuk proyek pribadi."
+    }
+  },
+  "why_use": {
+    "heading": "Mengapa Menggunakan Pembuat Komik AI untuk Membuat Komik",
+    "description": "Pembuat Komik AI KomikoAI menyederhanakan pembuatan komik untuk semua orang, dari pemula hingga profesional, menawarkan penyesuaian dan aksesibilitas yang tak tertandingi.",
+    "features": {
+      "beginner_friendly": {
+        "title": "Ramah Pemula",
+        "content": "Tidak punya keterampilan menggambar? Tidak masalah! Cukup masukkan ide Anda, dan Pembuat Komik AI akan menggambar komik untuk Anda dalam satu klik."
+      },
+      "custom_art": {
+        "title": "Gaya Seni Kustom",
+        "content": "Pilih dari gaya seni seperti komik Amerika, manga, manhwa, atau anime, atau sesuaikan gaya seni Anda sendiri dengan menentukannya dalam prompt Anda."
+      },
+      "amazing_layouts": {
+        "title": "Tata Letak yang Menakjubkan",
+        "content": "Pilih dari tata letak komik kami yang dirancang dengan cermat agar komik Anda terlihat luar biasa. Komik Anda akan dibuat persis seperti yang Anda inginkan."
+      },
+      "tell_story": {
+        "title": "Ceritakan Kisah Anda",
+        "content": "Pembuat komik AI KomikoAI akan secara otomatis menambahkan balon ucapan, dialog, dan narasi ke komik Anda. Buat karakter Anda berbicara dan ceritakan kisah yang luar biasa!"
+      },
+      "ai_efficiency": {
+        "title": "Efisiensi Bertenaga AI",
+        "content": "Hemat waktu berjam-jam dari pekerjaan manual dengan membiarkan AI menangani visual, narasi, dan tata letak."
+      },
+      "high_quality": {
+        "title": "Output Berkualitas Tinggi",
+        "content": "Unduh komik berkualitas tingkat profesional yang sempurna untuk dibagikan atau dicetak."
+      },
+      "creative_freedom": {
+        "title": "Kebebasan Kreatif",
+        "content": "Bereksperimen dengan ide, sesuaikan detail, dan optimalkan komik Anda untuk menceritakan kisah Anda. Tidak puas dengan komik Anda? Coba lagi di Pembuat Komik AI."
+      },
+      "accessible": {
+        "title": "Dapat Diakses Kapan Saja",
+        "content": "Pembuat Komik AI berbasis cloud, memungkinkan Anda membuat komik dari mana saja, di perangkat apa pun."
+      },
+      "share_comics": {
+        "title": "Bagikan Komik Anda",
+        "content": "Bagikan komik Anda di platform media sosial seperti Instagram, Twitter, dan Facebook. Pembuat Komik AI KomikoAI juga memudahkan pembuatan meme yang disesuaikan untuk dibagikan."
+      }
+    }
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan tentang Pembuat Komik AI",
+    "description": "Pelajari lebih lanjut tentang cara kerja Pembuat Komik AI KomikoAI dan manfaatnya.",
+    "edit_after_creation": {
+      "question": "Dapatkah saya mengedit komik saya setelah Pembuat Komik AI membuatnya?",
+      "answer": "Ya! Jika Anda ingin mengubah gambar, mengedit balon ucapan, atau mengubah tata letak komik, Anda dapat mengklik tombol \"Edit\" di sudut kanan atas komik. Ini akan mengarahkan Anda ke halaman Kanvas AI tempat Anda dapat mengedit komik."
+    },
+    "what_is_comic_generator": {
+      "question": "Apa itu Pembuat Komik AI?",
+      "answer": "Pembuat Komik AI adalah alat inovatif yang menggunakan AI untuk secara otomatis menghasilkan komik. Masukkan ide Anda, pilih gaya komik, dan biarkan AI membuat komik dalam hitungan detik! Ini menyederhanakan proses pembuatan dengan secara otomatis menghasilkan visual dan dialog berdasarkan masukan Anda. Anda dapat membuat semua jenis cerita komik, seperti cerita lucu, cerita petualangan, atau cerita pahlawan super yang keren, tanpa perlu menggambar!"
+    },
+    "what_is_manga_generator": {
+      "question": "Apa itu Pembuat Manga AI?",
+      "answer": "Pembuat Manga AI adalah alat inovatif yang menggunakan AI untuk secara otomatis menghasilkan manga. Masukkan ide Anda, pilih gaya manga, dan biarkan AI membuat manga dalam hitungan detik! Ini menyederhanakan proses pembuatan dengan secara otomatis menghasilkan visual dan dialog berdasarkan masukan Anda. Anda dapat membuat semua jenis manga, seperti shonen, shojo, seinen, isekai, dan banyak lagi."
+    },
+    "what_is_manhwa_generator": {
+      "question": "Apa itu Pembuat Manhwa AI?",
+      "answer": "Pembuat Manhwa AI adalah alat inovatif yang menggunakan AI untuk secara otomatis menghasilkan manhwa. Masukkan ide Anda, pilih gaya manhwa, dan biarkan AI membuat manhwa dalam hitungan detik! Ini menyederhanakan proses pembuatan dengan secara otomatis menghasilkan visual dan dialog berdasarkan masukan Anda. Anda dapat membuat semua jenis manhwa, seperti aksi, romansa, komedi, horor, isekai, dan banyak lagi."
+    },
+    "how_to_make_comics": {
+      "question": "Bagaimana cara membuat komik menggunakan Pembuat Komik AI?",
+      "answer": "Membuat komik dengan Pembuat Komik AI sangat mudah! Cukup masukkan ide cerita untuk komik Anda, dan Pembuat Komik AI akan mengubah ide Anda menjadi komik yang luar biasa. Itu juga secara otomatis menambahkan balon ucapan dan menata panel komik Anda."
+    },
+    "how_it_works": {
+      "question": "Bagaimana cara kerja Pembuat Komik AI?",
+      "answer": "Cukup masukkan ide atau konsep Anda, pilih gaya seni (anime, manga, atau gaya khusus), lalu biarkan AI KomikoAI membuat strip komik yang dirancang sepenuhnya. AI menganalisis masukan Anda untuk membuat visual yang detail dan dialog yang menarik untuk setiap panel."
+    },
+    "art_styles": {
+      "question": "Gaya seni apa yang didukung?",
+      "answer": "KomikoAI mendukung berbagai gaya, termasuk anime, manga, komik Amerika, dan gaya seni khusus berdasarkan prompt Anda."
+    },
+    "what_comics_can_i_generate": {
+      "question": "Komik seperti apa yang dapat saya buat dengan Pembuat Komik AI?",
+      "answer": "Anda dapat membuat segala jenis komik, manga, manhwa. Cerita pahlawan super, anime Jepang, isekai, regresi, shonen, shojo, seinen, semua cerita yang dapat Anda pikirkan. Pembuat Komik AI dapat membantu mewujudkan ide Anda!"
+    },
+    "commercial_use": {
+      "question": "Dapatkah saya menggunakan komik yang dibuat untuk penggunaan komersial?",
+      "answer": "Ya! Komik yang dibuat dengan KomikoAI dapat digunakan untuk tujuan pribadi atau komersial, tunduk pada Ketentuan Layanan kami."
+    },
+    "need_drawing_skills": {
+      "question": "Apakah saya perlu tahu cara menggambar untuk menggunakan Pembuat Komik AI?",
+      "answer": "Sama sekali tidak! Pembuat Komik AI KomikoAI dirancang untuk semua orang, dari seniman profesional hingga pemula lengkap. Cukup bawa ide Anda, dan Pembuat Komik AI akan menangani sisanya."
+    },
+    "for_memes": {
+      "question": "Dapatkah saya menggunakan Pembuat Komik AI untuk membuat meme?",
+      "answer": "Tentu saja! Pembuat Komik AI KomikoAI sangat cocok untuk membuat meme lucu dan viral. Cukup pilih mode \"Meme\", dan biarkan AI melakukan tugasnya."
+    },
+    "is_free": {
+      "question": "Apakah Pembuat Komik AI gratis untuk digunakan?",
+      "answer": "KomikoAI menawarkan paket gratis yang menyertakan zaps (kredit) terbatas. Untuk fitur yang lebih banyak dan batas penggunaan yang lebih tinggi, lihat paket harga kami."
+    },
+    "share_online": {
+      "question": "Dapatkah saya membagikan komik saya secara online?",
+      "answer": "Ya, Anda dapat mengunduh komik Anda dan membagikannya di platform media sosial seperti Instagram, Twitter, dan Facebook. KomikoAI juga memudahkan pembuatan meme yang disesuaikan untuk dibagikan."
+    },
+    "custom_art_styles": {
+      "question": "Dapatkah saya membuat gaya seni khusus dengan Pembuat Komik AI?",
+      "answer": "Ya, dengan mode khusus KomikoAI, Anda dapat menentukan gaya seni, skema warna, dan detail visual Anda sendiri untuk membuat komik unik yang disesuaikan dengan visi Anda."
+    },
+    "title": "Pertanyaan Umum"
+  },
+  "examples": {
+    "title": "Contoh Komik"
+  },
+  "auto_post": "Posting Otomatis",
+  "date": {
+    "today": "Hari ini",
+    "yesterday": "Kemarin"
+  }
+}

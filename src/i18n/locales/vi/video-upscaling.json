@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "title": "Nâng Cấp Video AI - KomikoAI",
+    "description": "Công cụ nâng cấp video AI tiên tiến của KomikoAI AI giúp bạn biến đổi những video chất lượng thấp thành các thước phim độ phân giải cao tuyệt đẹp. Trải nghiệm khả năng nâng cấp video chuyên nghiệp với KomikoAI AI, nâng tầm video của bạn lên FHD, 2K hoặc 4K mà vẫn giữ được chi tiết tự nhiên và độ sắc nét hình ảnh.",
+    "keywords": "nâng cấp video AI, cải thiện video, nâng cao chất lượng video, chuyển đổi video HD, nâng cấp video 4K, xử lý video AI, tăng độ phân giải video, nâng cấp video bằng máy học, nâng cao video chuyên nghiệp, trình nâng cao chất lượng video"
+  },
+  "title": "Công Cụ Nâng Cấp Video AI",
+  "description": "Sử dụng công cụ nâng cấp video AI tân tiến của chúng tôi để tăng độ phân giải và nâng cao chất lượng video. Công nghệ nâng cấp video dựa trên AI này sẽ biến những video chất lượng thấp thành nội dung độ phân giải cao, mãn nhãn. Dù bạn cần nâng cấp video lên FHD, 2K hay 4K, tính năng nâng cao video AI của chúng tôi đều mang lại kết quả chuyên nghiệp với độ rõ nét và chi tiết vượt trội.",
+  "input": {
+    "title": "Video Đầu Vào",
+    "uploadPrompt": "Nhấn để tải lên hoặc kéo video của bạn vào đây",
+    "from_other_tools": "Video được nhận từ {{source}}"
+  },
+  "results": {
+    "title": "Kết Quả Video",
+    "emptyState": "Kết quả sẽ hiển thị ở đây"
+  },
+  "seo": {
+    "transformTitle": "Biến Đổi Video Của Bạn với Tính Năng Nâng Cao Video AI",
+    "transformDescription": "Khám phá cách nâng cấp video của KomikoAI AI sử dụng tính năng nâng cao video dựa trên máy học để cải thiện nội dung của bạn. Công cụ nâng cao video AI của chúng tôi giúp mọi người dễ dàng tiếp cận với việc nâng cấp video chất lượng chuyên nghiệp."
+  },
+  "steps": {
+    "step1": {
+      "title": "Bước 1: Tải Video Lên",
+      "content": "Tải lên bất kỳ video nào bạn muốn nâng cấp bằng công cụ nâng cấp video AI của chúng tôi. Chúng tôi hỗ trợ nhiều định dạng video phổ biến."
+    },
+    "step2": {
+      "title": "Bước 2: Chọn Độ Phân Giải Đầu Ra",
+      "content": "Chọn mức độ phân giải bạn muốn tăng - nâng cấp video lên chất lượng FHD, 2K hoặc 4K."
+    },
+    "step3": {
+      "title": "Bước 3: Xử Lý Video",
+      "content": "Nhấp vào nút 'Nâng Cấp Video' để bắt đầu quá trình nâng cấp."
+    },
+    "step4": {
+      "title": "Bước 4: Tải Xuống Kết Quả",
+      "content": "Tải xuống video đã được nâng cấp và tận hưởng chất lượng hình ảnh được cải thiện!"
+    }
+  },
+  "examples": {
+    "title": "Ví Dụ Về Nâng Cấp Video AI",
+    "description": "Xem kết quả nâng cấp video AI do người dùng KomikoAI tạo ra",
+    "browserNotSupported": "Trình duyệt của bạn không hỗ trợ thẻ video.",
+    "inputLabel": "Video Gốc",
+    "outputLabel": "Video Đã Nâng Cấp"
+  },
+  "benefits": {
+    "title": "Tại Sao Nên Nâng Cấp Video Bằng AI?",
+    "description": "Công cụ Nâng Cấp Video AI của KomikoAI biến đổi video độ phân giải thấp thành nội dung chất lượng cao tuyệt đẹp, phù hợp cho cả mục đích sử dụng cá nhân và chuyên nghiệp.",
+    "feature1": {
+      "title": "Nâng Cấp Video AI",
+      "content": "Công cụ nâng cấp video AI của chúng tôi mang lại kết quả chuyên nghiệp bằng cách nâng cao chất lượng video một cách thông minh và tăng độ phân giải đồng thời duy trì chuyển động tự nhiên."
+    },
+    "feature2": {
+      "title": "Đa Dạng Tùy Chọn Độ Phân Giải",
+      "content": "Nâng cấp video lên chất lượng mong muốn - chọn từ FHD (1080p), 2K (1440p) hoặc 4K (2160p) để tối ưu hóa chất lượng video cho mọi nền tảng."
+    },
+    "feature3": {
+      "title": "Nâng Cao Chi Tiết Bằng AI",
+      "content": "Công nghệ nâng cấp video AI của chúng tôi phân tích và nâng cao từng khung hình, mang lại độ rõ nét và chi tiết vượt trội đồng thời giữ lại các đặc điểm của video gốc."
+    },
+    "feature4": {
+      "title": "Kết Quả Chuyên Nghiệp",
+      "content": "Biến những thước phim cũ hoặc chất lượng thấp thành nội dung chuyên nghiệp phù hợp để phát trực tuyến, thuyết trình hoặc đăng tải lên mạng xã hội."
+    },
+    "feature5": {
+      "title": "Xử Lý Nhanh Chóng",
+      "content": "Trải nghiệm nâng cấp video nhanh chóng với quy trình xử lý AI được tối ưu hóa, giúp bạn tiết kiệm thời gian và công sức."
+    },
+    "feature6": {
+      "title": "Khả Năng Tương Thích Rộng Rãi",
+      "content": "Hoạt động với nhiều định dạng và độ dài video khác nhau, phù hợp để nâng cao video cá nhân, nội dung marketing hoặc các dự án chuyên nghiệp."
+    }
+  },
+  "guide": {
+    "title": "Hướng Dẫn Chi Tiết Về Nâng Cao Video AI",
+    "description": "Tìm hiểu tất cả về cách nâng cao chất lượng video với công cụ nâng cấp video của KomikoAI AI. Nhận câu trả lời từ các chuyên gia về công nghệ nâng cao video dựa trên máy học của chúng tôi và cách nó có thể biến đổi nội dung của bạn."
+  },
+  "faq": {
+    "question1": "Công cụ Nâng Cấp Video AI của KomikoAI là gì?",
+    "answer1": "Công cụ nâng cấp video AI của KomikoAI là một công cụ tiên tiến sử dụng trí tuệ nhân tạo để nâng cao chất lượng và độ phân giải video. Công nghệ nâng cấp video AI của chúng tôi tự động biến những video chất lượng thấp thành nội dung FHD, 2K hoặc 4K rõ nét, đồng thời vẫn giữ được chi tiết tự nhiên và độ trung thực hình ảnh.",
+    "question2": "Công cụ nâng cấp video AI của chúng tôi hoạt động như thế nào?",
+    "answer2": "Công cụ nâng cấp video AI của chúng tôi sử dụng các mô hình máy học tiên tiến được đào tạo trên hàng triệu video chất lượng cao. AI phân tích từng khung hình để nâng cao chất lượng, tăng độ phân giải và cải thiện độ rõ nét tổng thể đồng thời duy trì chuyển động mượt mà, tự nhiên. Quá trình nâng cao video bằng AI này mang lại kết quả vượt trội so với các phương pháp nâng cấp truyền thống.",
+    "question3": "Những lợi ích của việc nâng cấp video AI là gì?",
+    "answer3": {
+      "point1": "Biến video độ phân giải thấp thành nội dung HD sắc nét",
+      "point2": "Nâng cao chất lượng video đồng thời duy trì chuyển động tự nhiên",
+      "point3": "Loại bỏ các hiện tượng nén và nhiễu video",
+      "point4": "Chọn từ nhiều độ phân giải đầu ra (FHD/2K/4K) để có kết quả hoàn hảo"
+    },
+    "question4": "Những định dạng và kích thước video nào được hỗ trợ?",
+    "answer4": "Công cụ nâng cấp video AI của chúng tôi hoạt động với các tệp video MP4 có kích thước bất kỳ. Bạn có thể nâng cấp video của mình lên độ phân giải FHD (1080p), 2K (1440p) hoặc 4K (2160p) tùy thuộc vào nhu cầu chất lượng của bạn.",
+    "question5": "Công cụ nâng cấp video AI có được sử dụng miễn phí không?",
+    "answer5": "Bắt đầu nâng cấp video của bạn miễn phí với zaps (tín dụng) bổ sung của KomikoAI. Đối với nhu cầu chuyên nghiệp, các gói trả phí của chúng tôi cung cấp thêm zaps, thời gian xử lý nhanh hơn và quyền truy cập vào đầu ra độ phân giải cao hơn.",
+    "question6": "Tôi nên chọn độ phân giải nào cho video của mình?",
+    "answer6": "Chọn FHD (1080p) để có chất lượng HD tuyệt vời phù hợp với hầu hết các nền tảng trực tuyến, 2K (1440p) cho nội dung video cao cấp hoặc 4K (2160p) cho các dự án chuyên nghiệp đòi hỏi độ nét cực cao. Độ phân giải càng cao thì chất lượng càng tốt nhưng cần nhiều thời gian xử lý hơn."
+  },
+  "modal": {
+    "deleteTitle": "Xác Nhận Xóa",
+    "deleteConfirmation": "Bạn có chắc chắn muốn xóa video này không? Hành động này không thể được hoàn tác.",
+    "cancel": "Hủy",
+    "delete": "Xóa"
+  },
+  "notifications": {
+    "deleteSuccess": "Xóa thành công",
+    "deleteFailed": "Xóa thất bại",
+    "upscaleSuccess": "Nâng cấp video thành công",
+    "upscaleFailed": "Nâng cấp video thất bại",
+    "downloadFailed": "Tải xuống thất bại",
+    "noZaps": "Vui lòng mua thêm zaps"
+  },
+  "upscale_video": "Nâng Cấp Video"
+}

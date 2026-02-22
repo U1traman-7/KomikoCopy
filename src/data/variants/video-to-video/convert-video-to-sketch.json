@@ -1,0 +1,149 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Convert Video to Sketch",
+      "description": "Transform your videos into stunning sketches with our AI Convert Video to Sketch tool. Achieve unique animated styles that capture the essence of your footage.",
+      "keywords": "Convert Video to Sketch, video sketch generator, workshop video sketchnote, animated sketch tool, sketch effect, video to sketch converter, AI sketch generator, animation tool, video sketchnote maker, artistic video transformation, sketch style transfer"
+    },
+    "hero": {
+      "title": "Convert Video to Sketch"
+    },
+    "whatIs": {
+      "title": "What is Convert Video to Sketch?",
+      "description": "Convert Video to Sketch is an innovative tool that transforms your ordinary videos into distinct sketch-style animations using advanced AI technology. This process begins by applying your selected sketch style to a reference frame, followed by transforming the entire video while preserving original motion and nuances. Experience a variety of artistic styles to express your creativity."
+    },
+    "examples": {
+      "title": "Convert Video to Sketch Examples",
+      "description": "Explore how our Convert Video to Sketch tool brings videos to life with artistic sketches while maintaining perfect motion consistency through advanced technology.",
+      "style": "Applied Sketch Style"
+    },
+    "howToUse": {
+      "title": "How to Use Convert Video to Sketch",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Begin by uploading any video file (MP4, MOV, AVI) up to 15 seconds in length and 50MB in size for processing with Convert Video to Sketch. Videos longer than 15 seconds will be automatically trimmed to enhance style transfer."
+        },
+        {
+          "title": "Select Sketch Style",
+          "content": "In the Style Selection section, go to the Style Transfer category and choose the Pencil Sketch style. You can also create custom sketch styles using text prompts and reference images."
+        },
+        {
+          "title": "Sketch Style Preview & Reference",
+          "content": "We extract the first frame and apply your chosen sketch style to create a styled reference. This preview shows how your selected sketch style will be applied to the entire video."
+        },
+        {
+          "title": "Generate Your Sketch Video",
+          "content": "Our Convert Video to Sketch tool will transform your complete video, using the styled reference frame while maintaining all original motion, facial expressions, and timing."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Convert Video to Sketch",
+      "description": "Utilizing the Convert Video to Sketch tool provides the most advanced features for creative expression, ensuring a seamless transformation while preserving original motion.",
+      "features": [
+        {
+          "title": "Consistent Motion Preservation",
+          "content": "The Convert Video to Sketch tool expertly maintains every aspect of the original motion, expressions, and timing while applying sketch effects, ensuring a frame-perfect transformation.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Sketch Style Customization",
+          "content": "Convert Video to Sketch offers pencil sketch style transformation, plus the ability to create custom sketch styles using text prompts and reference images for personalized artistic effects.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professional-Quality Output",
+          "content": "Generate high-definition sketch videos with flawless transitions and no flickering or artifacts using Convert Video to Sketch, ensuring a top-tier user experience.",
+          "icon": "✨"
+        },
+        {
+          "title": "Transparent Pricing Structure",
+          "content": "Enjoy a clear pricing model with separate charges for the sketch style transfer and video generation. Experience unlimited creativity without the worry of hidden costs.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Streamlined Two-Step Process",
+          "content": "The Convert Video to Sketch tool features an intuitive workflow: upload your video, apply a sketch transformation to a reference frame, and generate the full video output. No technical skills required.",
+          "icon": "👌"
+        },
+        {
+          "title": "Optimized Processing",
+          "content": "Convert Video to Sketch automatically trims longer videos and supports various formats (MP4, MOV, AVI) to ensure smooth processing and cost efficiency.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Convert Video to Sketch FAQ",
+      "description": "Find answers to your questions about the Convert Video to Sketch tool, its process, costs, and best practices.",
+      "q1": "How does Convert Video to Sketch work?",
+      "a1": "The Convert Video to Sketch tool utilizes a two-step process: first, we extract a reference frame from your video and apply your chosen sketch style, then we transform the entire video using this styled frame, preserving motion and expression throughout.",
+      "q2": "What video formats can I use with Convert Video to Sketch?",
+      "a2": "The Convert Video to Sketch tool supports MP4, MOV, and AVI formats. Your video must not exceed 15 seconds or 50MB; longer videos are trimmed automatically to optimize the sketch transformation.",
+      "q3": "How long does the sketch transformation take?",
+      "a3": "Processing time for Convert Video to Sketch generally takes between 5-10 minutes, including the initial style transfer (1-3 minutes) and full video generation (3-7 minutes). Progress can be monitored in real-time.",
+      "q4": "What are the costs for using Convert Video to Sketch?",
+      "a4": "Charging options for the Convert Video to Sketch tool are divided into style transfer and video generation costs, calculated based on duration. You’ll receive a cost estimate before processing, ensuring transparency.",
+      "q5": "Can I create custom sketch styles with Convert Video to Sketch?",
+      "a5": "Absolutely! You can use the pencil sketch style, write unique text prompts, or upload reference images to design your distinct sketch transformations using our tool.",
+      "q6": "What types of videos work best for Convert Video to Sketch?",
+      "a6": "For optimal results with Convert Video to Sketch, use videos with clear subjects, good lighting, stable motion, and well-defined features. Short videos (under 5 seconds) showing clear objects will yield the best sketch transformations."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Sketch Style",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Sketch Style",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Sketch Style",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-skiing.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Sketch Style",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    }
+  ],
+  "originalKeyword": "Convert Video to Sketch",
+  "config": {
+    "defaultStyle": "pencil-sketch"
+  },
+  "pageStructure": [
+    "examples",
+    "benefits",
+    "whatIs",
+    "howToUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

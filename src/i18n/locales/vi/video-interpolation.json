@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "Nội Suy Khung Hình AI - KomikoAI",
+    "description": "Chuyển đổi video của bạn với công nghệ Nội Suy Khung Hình AI của KomikoAI. Nâng cao chất lượng video, tăng tốc độ khung hình (FPS) và tạo chuyển động siêu mượt với các công cụ nâng cấp video chuyên nghiệp. Hoàn hảo cho những nhà sáng tạo nội dung đang tìm kiếm chất lượng video vượt trội.",
+    "keywords": "Nội Suy Khung Hình AI, nội suy khung hình, làm mượt video, tăng FPS, cải thiện chất lượng video, nâng cấp video AI"
+  },
+  "title": "Nội Suy Khung Hình AI",
+  "description": "Nâng tầm video của bạn với công nghệ Nội Suy Khung Hình AI tiên tiến. Biến đổi video bằng cách tạo khung hình thông minh, tăng FPS và tạo chuyển động siêu mượt. Giải pháp lý tưởng cho những nhà sáng tạo nội dung muốn đạt được chất lượng video đỉnh cao thông qua làm mượt video bằng AI và tăng tốc độ khung hình.",
+  "input": {
+    "title": "Video Đầu Vào",
+    "uploadPrompt": "Nhấn để tải lên hoặc kéo thả video của bạn vào đây",
+    "framesPerSecond": "Số Khung Hình Trên Giây (FPS)",
+    "framesPerSecondRange": "(tối thiểu: 1, tối đa: 60)",
+    "interpolationSteps": "Số bước nội suy",
+    "interpolationStepsRange": "(tối thiểu: 1, tối đa: 10)",
+    "submitButton": "Đang Xử Lý Video...",
+    "from_other_tools": "Video nhận từ {{source}}"
+  },
+  "results": {
+    "title": "Kết Quả",
+    "emptyState": "Kết quả sẽ hiển thị tại đây"
+  },
+  "deleteModal": {
+    "title": "Xác Nhận Xóa",
+    "message": "Bạn có chắc chắn muốn xóa video này không? Hành động này không thể hoàn tác.",
+    "cancelButton": "Hủy",
+    "deleteButton": "Xóa"
+  },
+  "toasts": {
+    "fetchFailed": "Không thể tải video",
+    "deleteSuccess": "Xóa thành công",
+    "deleteFailed": "Xóa không thành công",
+    "downloadFailed": "Tải xuống không thành công",
+    "interpolationSuccess": "Nội suy khung hình thành công",
+    "interpolationFailed": "Nội suy khung hình không thành công",
+    "noZaps": "Vui lòng nạp thêm Zaps"
+  },
+  "seo": {
+    "whatIs": {
+      "title": "Nội Suy Khung Hình là gì?",
+      "description": "Nội suy khung hình là kỹ thuật tăng tốc độ khung hình của video bằng cách tạo thêm các khung hình mới giữa các khung hình hiện có. Kỹ thuật này giúp tạo ra chuyển động mượt mà hơn và tốc độ khung hình cao hơn mà không cần quay lại video. Nội Suy Khung Hình AI là công nghệ nâng cấp video tiên tiến, sử dụng trí tuệ nhân tạo để tạo ra các khung hình bổ sung giữa các khung hình gốc, mang đến chuyển động mượt mà hơn và tốc độ khung hình cao hơn. Quá trình làm mượt video bằng AI này cải thiện đáng kể chất lượng video và trải nghiệm xem."
+    },
+    "transform": {
+      "title": "Chuyển đổi Video của bạn với Công nghệ Nội Suy Khung Hình AI Tiên Tiến",
+      "description": "Khai phá khả năng làm mượt video chuyên nghiệp với các công cụ nâng cấp video AI hiện đại. Phần mềm nội suy khung hình của chúng tôi sử dụng AI tiên tiến để phân tích và tạo ra các khung hình mới, tạo ra chuyển động liền mạch và tốc độ khung hình cao hơn ngay lập tức."
+    },
+    "steps": [
+      {
+        "step": 1,
+        "title": "Tải Video của bạn lên",
+        "content": "Bắt đầu với bất kỳ tệp video nào - công nghệ nội suy khung hình video AI của chúng tôi chấp nhận nhiều định dạng và chất lượng khác nhau."
+      },
+      {
+        "step": 2,
+        "title": "Cấu Hình Tốc Độ Khung Hình (FPS)",
+        "content": "Chọn FPS mục tiêu và cài đặt nội suy để có kết quả làm mượt video tối ưu."
+      },
+      {
+        "step": 3,
+        "title": "Xử Lý Bằng AI",
+        "content": "Các thuật toán nâng cấp video AI tiên tiến của chúng tôi tạo ra các khung hình mới để mang lại chuyển động mượt mà hơn."
+      },
+      {
+        "step": 4,
+        "title": "Tải Xuống Video Đã Nâng Cấp",
+        "content": "Nhận video của bạn với tốc độ khung hình tăng lên và chuyển động mượt mà, được hỗ trợ bởi nội suy khung hình AI."
+      }
+    ],
+    "example": {
+      "title": "Ví Dụ Về Nội Suy Khung Hình",
+      "description": "Xem kết quả Nội Suy Khung Hình AI do người dùng KomikoAI tạo ra",
+      "inputLabel": "Video Đầu Vào",
+      "outputLabel": "Video Đầu Ra Đã Nâng Cấp"
+    },
+    "benefits": {
+      "title": "Tại sao bạn nên nâng cấp video của mình bằng nội suy AI?",
+      "description": "Nội Suy Khung Hình AI của KomikoAI đơn giản hóa việc nâng cấp video cho mọi người, từ nhà sáng tạo nội dung đến nhà quay phim chuyên nghiệp.",
+      "features": [
+        {
+          "title": "Nội Suy Khung Hình AI Tiên Tiến",
+          "content": "Trải nghiệm công nghệ làm mượt video AI tiên tiến, giúp chuyển đổi các cảnh quay giật cục thành video mượt mà, chất lượng chuyên nghiệp thông qua tạo khung hình thông minh và tăng tốc độ khung hình video."
+        },
+        {
+          "title": "Tăng Cường FPS Thông Minh",
+          "content": "Tận dụng các công cụ nội suy khung hình video AI của KomikoAI để tăng FPS video của bạn mà không cần quay lại. Chuyển đổi cảnh quay tiêu chuẩn thành video 60+ FPS mượt mà với công nghệ nâng cấp video AI của chúng tôi."
+        },
+        {
+          "title": "Nâng Cao Chất Lượng Video Tự Động",
+          "content": "Phần mềm nội suy khung hình video AI của chúng tôi xử lý việc tạo khung hình phức tạp một cách tự động. Trải nghiệm làm mượt video chuyên nghiệp mà không cần chỉnh sửa thủ công hoặc các công cụ phức tạp."
+        },
+        {
+          "title": "Tạo Khung Hình Thông Minh",
+          "content": "Các công cụ video AI của KomikoAI phân tích các mẫu chuyển động để tạo ra các khung hình trung gian trông tự nhiên, đảm bảo chất lượng nhất quán thông qua các kỹ thuật nội suy khung hình video tiên tiến."
+        },
+        {
+          "title": "Nâng Cấp Video Chuyên Nghiệp",
+          "content": "Xuất video chất lượng cao được nâng cấp bởi công nghệ nội suy khung hình AI của chúng tôi, hoàn hảo cho những nhà sáng tạo nội dung yêu cầu làm mượt video vượt trội và tối ưu hóa tốc độ khung hình."
+        },
+        {
+          "title": "Xử Lý Video AI Hiệu Quả",
+          "content": "Tích hợp các công cụ AI nội suy khung hình của chúng tôi một cách liền mạch vào quy trình làm việc của bạn. Hãy để quá trình tạo khung hình video AI của KomikoAI xử lý các khía cạnh kỹ thuật trong khi bạn tập trung vào sự sáng tạo."
+        }
+      ]
+    },
+    "expertGuide": {
+      "title": "Hướng Dẫn Chuyên Gia về Nội Suy Khung Hình AI",
+      "description": "Tìm hiểu mọi thứ về việc nâng cấp video của bạn bằng công nghệ nội suy khung hình được hỗ trợ bởi AI. Nhận câu trả lời từ chuyên gia cho các câu hỏi thường gặp về làm mượt video và cải thiện tốc độ khung hình."
+    }
+  },
+  "faq": {
+    "question1": "Nội Suy Khung Hình AI là gì?",
+    "answer1": "Nội Suy Khung Hình AI là công nghệ nâng cấp video tiên tiến, sử dụng trí tuệ nhân tạo để tạo thêm các khung hình giữa các khung hình hiện có, mang đến chuyển động mượt mà hơn và tốc độ khung hình cao hơn. Quá trình làm mượt video bằng AI này cải thiện đáng kể chất lượng video và trải nghiệm xem.",
+    "question2": "Nội Suy Khung Hình Video AI hoạt động như thế nào?",
+    "answer2": "Phần mềm nội suy khung hình video AI của chúng tôi phân tích chuyển động giữa các khung hình hiện có và sử dụng các thuật toán học máy tiên tiến để tạo ra các khung hình trung gian mới. Quá trình này làm tăng FPS (Số Khung Hình Trên Giây) của video đồng thời duy trì chuyển động tự nhiên và chất lượng cao.",
+    "question3": "Những lợi ích của nội suy khung hình là gì?",
+    "answer3": [
+      "Chuyển động và hoạt ảnh mượt mà hơn",
+      "Tốc độ khung hình cao hơn mà không cần quay lại",
+      "Cải thiện chất lượng video",
+      "Hiệu ứng chuyển động chậm tốt hơn"
+    ],
+    "question4": "Những định dạng video nào được hỗ trợ?",
+    "answer4": "AI hỗ trợ định dạng video MP4. Chúng tôi khuyên bạn nên sử dụng video có chuyển động rõ ràng và chất lượng tốt để có kết quả tốt nhất.",
+    "question5": "Làm cách nào để chọn cài đặt phù hợp?",
+    "answer5": "Đối với số khung hình trên giây (FPS), hãy chọn dựa trên nhu cầu của bạn: 24-30 FPS cho video tiêu chuẩn, 60 FPS cho chuyển động mượt mà. Các bước nội suy xác định số lượng khung hình cần thêm giữa các khung hình hiện có - các giá trị cao hơn tạo ra chuyển động mượt mà hơn nhưng mất nhiều thời gian xử lý hơn.",
+    "question6": "Có giới hạn về độ dài hoặc kích thước video không?",
+    "answer6": "Có, có một số giới hạn để đảm bảo xử lý tối ưu. Chúng tôi khuyên bạn nên sử dụng video dưới 30 giây và 100MB để có kết quả tốt nhất. Các video dài hơn có thể được xử lý theo phân đoạn."
+  }
+}

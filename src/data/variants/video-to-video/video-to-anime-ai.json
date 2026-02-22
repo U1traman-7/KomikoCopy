@@ -1,0 +1,149 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Video to Anime AI",
+      "description": "Transform your videos with Video to Anime AI technology. Our advanced system converts any video into anime style while preserving original motion and timing.",
+      "keywords": "Video to Anime AI, Convert Video to Anime, anime video generator, anime style transfer, anime animation tool, animation video maker, animated video creator, video stylization, anime transformation, video to anime converter, anime video filter, animation style transfer"
+    },
+    "hero": {
+      "title": "Video to Anime AI"
+    },
+    "whatIs": {
+      "title": "What is Video to Anime AI?",
+      "description": "Video to Anime AI transforms ordinary videos into anime-style animations using advanced Video Style Transfer technology. Our two-step process applies your chosen anime style to a reference frame and then transforms the entire video while preserving original motion and timing. Choose from multiple artistic styles, ensuring your video style transfer is flawless and engaging."
+    },
+    "examples": {
+      "title": "Video to Anime AI Examples",
+      "description": "Explore how Video to Anime AI converts videos into captivating anime-style animations while maintaining perfect motion consistency using advanced Video Style Transfer.",
+      "style": "Applied Style"
+    },
+    "howToUse": {
+      "title": "How to Use Video to Anime AI",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Upload any video file (MP4, MOV, AVI) up to 15 seconds and 50MB for Video to Anime AI processing. Longer videos are automatically trimmed for optimal anime-style transfer."
+        },
+        {
+          "title": "Choose Your Anime Style",
+          "content": "Select from preset anime styles like Studio Ghibli, manga, or retro game styles. You can also customize with text prompts or upload reference images for unique anime transformations."
+        },
+        {
+          "title": "Anime Style Reference",
+          "content": "We extract the first frame and apply your preferred anime style to create a reference guide for consistent Video to Anime AI transformation."
+        },
+        {
+          "title": "Generate with Video to Anime AI",
+          "content": "Our Video to Anime AI tool transforms your complete video using the styled reference frame while preserving all original motion, expressions, and timing through advanced Video Style Transfer."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Video to Anime AI",
+      "description": "Video to Anime AI offers cutting-edge video transformation with exceptional motion preservation, extensive style options, and transparent pricing.",
+      "features": [
+        {
+          "title": "Original Motion Preservation",
+          "content": "Video to Anime AI maintains every detail of original motion, facial expressions, and timing while converting videos into captivating anime styles with precise Video Style Transfer.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Versatile Anime Style Options",
+          "content": "Choose from multiple anime styles for your video to anime project, or experiment with custom styles using prompts and reference images for unique transformations.",
+          "icon": "🎨"
+        },
+        {
+          "title": "High-Quality Anime Output",
+          "content": "Generate stunning anime videos with smooth transitions and consistent style applications with our Video to Anime AI tool, ensuring a polished final product.",
+          "icon": "✨"
+        },
+        {
+          "title": "Clear Pricing Structure",
+          "content": "Enjoy transparent pricing for Video to Anime AI, with separate charges for video transformation and anime style application, allowing for budget-friendly experimentation.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Simple Two-Step Workflow",
+          "content": "Utilize an easy process with Video to Anime AI: upload your video, style your reference frame, and generate the complete anime-styled video without needing technical skills.",
+          "icon": "👌"
+        },
+        {
+          "title": "Automated Optimization Features",
+          "content": "Benefit from automated trimming, video format support (MP4, MOV, AVI), and efficiency-based cost calculations for optimal video to anime transformations.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Video to Anime AI FAQ",
+      "description": "Common questions about our Video to Anime AI tool, including processes, pricing, and best practices.",
+      "q1": "How does Video to Anime AI work?",
+      "a1": "Our Video to Anime AI employs a two-step video transformation process: 1) Extract a reference frame and apply your selected anime style, 2) Convert the entire video using the styled frame while preserving original motion and timing for a consistent anime transformation.",
+      "q2": "What are the format requirements for Video to Anime AI?",
+      "a2": "Supported formats include MP4, MOV, and AVI with a maximum size of 50MB for processing. Videos are limited to 15 seconds and will be automatically trimmed if longer for optimal anime-style transfer efficiency.",
+      "q3": "How long does the Video to Anime AI process take?",
+      "a3": "Video to Anime AI processing typically takes 5-10 minutes: The styling phase lasts 1-3 minutes, while the video generation phase takes 3-7 minutes, with real-time progress tracking available.",
+      "q4": "What are the costs for Video to Anime AI?",
+      "a4": "Pricing for Video to Anime AI is broken down into separate charges for the style application and video generation based on duration. Costs are displayed in real-time before processing, only deducting credits post successful transformation.",
+      "q5": "Can I create custom anime styles with Video to Anime AI?",
+      "a5": "Certainly! Users can select from a variety of preset styles or utilize custom text prompts and reference images for unique anime transformation experiences with Video to Anime AI.",
+      "q6": "What kind of videos work best with Video to Anime AI?",
+      "a6": "Optimal results are achieved with clear subjects, good lighting, and stable motion. Aim for well-defined features in your videos. For best results, utilize videos that are under 5 seconds long featuring people or clear objects."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/anime-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Anime Style",
+      "description": "Style Transfer | Transfer original video to anime style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/anime-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Anime Style",
+      "description": "Style Transfer | Transfer original video to anime style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/anime-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Anime Style",
+      "description": "Style Transfer | Transfer original video to anime style"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/anime-skiing.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Anime Style",
+      "description": "Style Transfer | Transfer original video to anime style"
+    }
+  ],
+  "originalKeyword": "Video to Anime AI",
+  "config": {
+    "defaultStyle": "anime"
+  },
+  "pageStructure": [
+    "examples",
+    "howToUse",
+    "benefits",
+    "whatIs",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

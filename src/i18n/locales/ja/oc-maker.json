@@ -1,0 +1,339 @@
+{
+  "title": "OCメーカー - KomikoAI",
+  "meta": {
+    "description": "見た目・性格・背景設定まで、AIで個性あふれるOC（オリジナルキャラクター）を作成。コミック・アニメーション・ゲーム・小説など、物語用のキャラクターをAIマジックでデザインしよう。",
+    "keywords": "OC Maker, オリジナルキャラクター, OCジェネレーター, Original Character Generator, AIキャラクタークリエイター, アニメOCデザイン, ゲームキャラクターメーカー, AIキャラクタージェネレーター"
+  },
+  "header": {
+    "title": "OCメーカー",
+    "subtitle": "AIマジックであなただけのOC（オリジナルキャラクター）を作ろう。見た目・性格・背景設定まで自由に生成。"
+  },
+  "characterAppearance": {
+    "title": "キャラクターの見た目",
+    "randomize": "おまかせでひらめき",
+    "placeholder": "OCの見た目を自由に入力（例：「猫耳少女、青髪、メガネ、恥ずかしがり屋」）",
+    "placeholderVariant": "{{variantTitle}}用のOCをデザインしてみよう（例：「{{examplePrompt}}」）",
+    "aiOptimize": "AIでプロンプト調整",
+    "referenceImage": {
+      "title": "参考画像（任意）",
+      "description": "似た顔立ちのキャラクターを作りたい場合は、顔が写った画像をアップロードしてください"
+    }
+  },
+  "gender": {
+    "male": "男性",
+    "female": "女性",
+    "other": "その他"
+  },
+  "actions": {
+    "generateCharacter": "キャラを生成",
+    "generateMore": "さらに生成",
+    "finalizeDesign": "さらに編集",
+    "selectedCharacterOptions": "選択中キャラへのアクション"
+  },
+  "results": {
+    "empty": {
+      "title": "ここにあなたのキャラクターが表示されます",
+      "description": "キャラの見た目を入力して「キャラを生成」をクリックすると、オリジナルキャラクターが作成されます"
+    }
+  },
+  "whatIs": {
+    "title": "OCメーカーとは？",
+    "description": "OCメーカーは、AIマジックでOC（オリジナルキャラクター）をデザインできるツールです。見た目や性格など、個性豊かなオリジナルキャラクターを、誰でも簡単に作成できます。"
+  },
+  "howItWorks": {
+    "title": "4ステップでOCを作ろう",
+    "steps": {
+      "step1": {
+        "title": "OCのイメージを説明",
+        "content": "キャラクターの顔立ち、体型、服装、アクセサリーなど、見た目の特徴をできるだけ具体的に書きましょう。"
+      },
+      "step2": {
+        "title": "参考画像をアップロード",
+        "content": "似せたい顔がある場合は、ポートレート画像をアップロードすると、近い雰囲気のキャラクターを生成できます。"
+      },
+      "step3": {
+        "title": "キャラを生成",
+        "content": "「キャラを生成」をクリックすると、AIがあなたの設定にもとづいてOCを作成します。"
+      },
+      "step4": {
+        "title": "デザインを仕上げる",
+        "content": "気に入ったキャラを選び、「さらに編集」をクリックすると、OC情報編集ページでプロフィールなどを整えられます。"
+      }
+    }
+  },
+  "examples": {
+    "title": "OCメーカーの作例",
+    "variantTitle": "{{variantName}}の作例",
+    "appearance": "見た目",
+    "examples": {
+      "example1": {
+        "desc": "外見：女の子1人、金髪、超ロングのカールヘア、紫の瞳、紫のパーカー、黒のプリーツスカート、黒ソックス、黒スニーカー、黒い翼、こちらを見る"
+      },
+      "example2": {
+        "desc": "外見：男の子1人、金髪、ショートヘア、青い瞳、黄色いマフラー、青いパーカー、ジッパー、カジュアル服、黒パンツ、ローファー、黒い靴、こちらを見る"
+      },
+      "example3": {
+        "desc": "外見：女の子1人、猫耳、緑の瞳、ツインテール、ミント色のヘア、ロングヘア、緑系アウトフィット、リーフモチーフ、ニーハイ、葉のアクセサリー、弓を持つ、蔓、猫のしっぽ、原神風スタイル"
+      },
+      "example4": {
+        "desc": "外見：男の子1人、赤×黒の髪、アンダーカット、光る瞳、青い瞳、義手、黒のコート、剣、武器を構える、コンバットブーツ、電気エフェクト"
+      }
+    }
+  },
+  "features": {
+    "title": "AI搭載OCメーカーを使うメリット",
+    "features": {
+      "feature1": {
+        "title": "✨ プロクオリティの仕上がり",
+        "content": "画力がなくてもスタジオレベルのキャラデザインに。AIが構図・ライティング・スタイルの一貫性まで理解してくれます。"
+      },
+      "feature2": {
+        "title": "🎨 無限に広がるクリエイティブ",
+        "content": "髪型・服装・体型・雰囲気など、あらゆる組み合わせを試し放題。理想のキャラデザインに出会うまで、とことん試せます。"
+      },
+      "feature3": {
+        "title": "⚡ 時間もコストも大幅カット",
+        "content": "本来なら数時間〜数日かかるオリジナルキャラ制作が、数秒〜数十秒で完了。依頼コストや作業時間を一気に節約できます。"
+      },
+      "feature4": {
+        "title": "🖼️ 参考画像にも対応",
+        "content": "参考画像をアップロードすれば、似た顔立ちのキャラを生成可能。イメージに近いOCをぴったり再現できます。"
+      },
+      "feature5": {
+        "title": "🔄 さまざまな画風に対応",
+        "content": "アニメ・マンガ風からリアル寄り、デフォルメ調まで、1つのインターフェースで多彩なスタイルを生成できます。"
+      },
+      "feature6": {
+        "title": "🌟 外見だけじゃないOC作り",
+        "content": "見た目のデザインだけでなく、性格、背景設定、特技や能力など、プロフィール込みの“完成されたOC”として育てていけます。"
+      }
+    }
+  },
+  "howToUse": {
+    "title": "OCメーカーの活用方法",
+    "description": "AI OCメーカーで、あなたの創造力をそのままキャラクターに。見た目のイメージを形にして、物語・アニメーション・ゲーム・TRPG・創作活動など、さまざまな場面で活用できます。"
+  },
+  "faq": {
+    "title": "よくある質問",
+    "question1": "このOCメーカーで、どんなキャラのスタイルを作れますか？",
+    "answer1": "OCメーカーは、アニメ・マンガ・コミック・ファンタジー系クリーチャー・ゲームキャラ・ハイブリッド系スタイルなど、50種類以上のスタイルに対応しています。物語づくり・RPG・アニメーション制作にぴったりです。",
+    "question2": "作成したキャラクターはアニメーション化できますか？",
+    "answer2": "はい。KomikoAIのAIアニメーションツールを使うことで、作成したキャラクターに動きや表情をつけることができます。https://komikoai.com/image-animation-generator をチェックしてみてください。",
+    "question3": "オリジナルキャラクターはどこまで細かく設定できますか？",
+    "answer3": "顔のパーツ、体型、服の質感、アクセサリー、性格など、100を超える属性を自然な文章でカスタマイズできます。細かいこだわりまで反映したOCを作成可能です。",
+    "question4": "出力される画像の解像度はどれくらいですか？",
+    "answer4": "キャラクター画像は 768px × 1152px で生成されます。プロ用途など、より高解像度が必要な場合は、KomikoAI のAI画像アップスケーラーでさらに高解像度に拡大できます。",
+    "question5": "作成したキャラクターは商用利用できますか？",
+    "answer5": "はい。作成したキャラクターは、デジタルコンテンツ・印刷物など、商用プロジェクトにもご利用いただけます。"
+  },
+  "popButton": {
+    "style": "スタイル",
+    "age": "年齢",
+    "body": "体型",
+    "hair": "髪",
+    "eyes": "目",
+    "face": "顔",
+    "skin": "肌",
+    "top": "トップス",
+    "bottom": "ボトムス",
+    "set": "セット",
+    "material": "素材",
+    "accessory": "アクセサリー",
+    "gender": "性別"
+  },
+  "prompts": {
+    "male": "男性",
+    "female": "女性",
+    "other": "その他",
+    "animeColoring": "アニメ塗り",
+    "chibi": "ちびキャラ",
+    "pastelColors": "パステルカラー",
+    "celShading": "セルシェーディング",
+    "impasto": "インパスト風",
+    "watercolor": "水彩風",
+    "realistic": "リアル調",
+    "celluloid": "セルロイド風",
+    "softServe": "ソフトな塗り",
+    "studioGhibli": "ジブリ風",
+    "lineart": "線画",
+    "cartoon": "カートゥーン風",
+    "americanComic": "アメコミ風",
+    "pixelArt": "ドット絵風",
+    "cyberpunk": "サイバーパンク",
+    "genshinImpact": "原神風",
+    "jujutsuKaisen": "呪術廻戦風",
+    "onePiece": "ONE PIECE風",
+    "naruto": "NARUTO風",
+    "demonSlayer": "鬼滅の刃風",
+    "myHeroAcademia": "僕のヒーローアカデミア風",
+    "dragonBall": "ドラゴンボール風",
+    "sonic": "ソニック風",
+    "marvel": "マーベル風",
+    "minecraft": "マインクラフト風",
+    "mario": "マリオ風",
+    "pokemon": "ポケモン風",
+    "vintageComic": "レトロコミック風",
+    "oilPainting": "油絵風",
+    "furry": "ケモノ",
+    "figurine": "フィギュア風",
+    "vampire": "ヴァンパイア",
+    "mermaid": "マーメイド",
+    "elf": "エルフ",
+    "angel": "天使",
+    "demon": "悪魔",
+    "child": "子ども",
+    "teenager": "ティーン",
+    "mature": "大人",
+    "middleAged": "中年",
+    "elderly": "高齢",
+    "athletic": "アスリート体型",
+    "muscular": "筋肉質",
+    "curvy": "グラマラス",
+    "slim": "スリム",
+    "petite": "小柄",
+    "stocky": "がっしり体型",
+    "tall": "高身長",
+    "short": "低身長",
+    "scrawny": "ほっそり",
+    "chubby": "ぽっちゃり",
+    "blackHair": "黒髪",
+    "brownHair": "茶髪",
+    "blondeHair": "金髪",
+    "redHair": "赤髪",
+    "blueHair": "青髪",
+    "greenHair": "緑髪",
+    "purpleHair": "紫髪",
+    "pinkHair": "ピンク髪",
+    "grayHair": "グレーの髪Hair",
+    "whiteHair": "白髪",
+    "maroonHair": "えんじ色の髪",
+    "offWhiteHair": "オフホワイトの髪",
+    "silverHair": "シルバーの髪",
+    "straightHair": "ストレートヘア",
+    "braids": "三つ編み",
+    "ponytail": "ポニーテール",
+    "twintails": "ツインテール",
+    "bun": "お団子ヘア",
+    "longHair": "ロングヘア",
+    "shortHair": "ショートヘア",
+    "wavyHair": "ウェーブヘア",
+    "curlyHair": "カールヘア",
+    "frizzyHair": "くせ毛",
+    "pigtails": "ツインテール",
+    "bald": "坊主",
+    "sidePartedHair": "横分けヘア",
+    "undercut": "アンダーカット",
+    "mohawk": "モヒカン",
+    "dreadlocks": "ドレッドヘア",
+    "spikyHair": "トゲトゲヘア",
+    "bobCut": "ボブカット",
+    "mullet": "マレットヘア",
+    "mushroomCut": "きのこヘア",
+    "brownEyes": "茶色の目",
+    "blueEyes": "青い目",
+    "greenEyes": "緑の目",
+    "redEyes": "赤い目",
+    "purpleEyes": "紫の目",
+    "pinkEyes": "ピンクの目",
+    "grayEyes": "グレーの目",
+    "freckles": "そばかす",
+    "dimple": "えくぼ",
+    "beard": "あごひげ",
+    "mustache": "口ひげ",
+    "scar": "傷跡",
+    "tattoo": "タトゥー",
+    "fairSkin": "色白肌",
+    "tanSkin": "小麦色の肌",
+    "oliveSkin": "オリーブ肌",
+    "darkSkin": "ダークスキン",
+    "paleSkin": "青白い肌",
+    "tShirt": "Tシャツ",
+    "vest": "ベスト",
+    "plaidShirt": "チェックシャツ",
+    "stripedShirt": "ボーダーシャツ",
+    "bohemianShirt": "ボヘミアン風シャツ",
+    "henleyShirt": "ヘンリーネックシャツ",
+    "hoodie": "パーカー",
+    "knittedCardigan": "ニットカーディガン",
+    "labCoat": "白衣",
+    "leatherJacket": "レザージャケット",
+    "punkLeatherJacket": "パンクレザージャケット",
+    "varsityJacket": "スタジャン",
+    "outdoorAdventureJacket": "アウトドアジャケット",
+    "poloShirt": "ポロシャツ",
+    "knittedVest": "ニットベスト",
+    "schoolVest": "スクールベスト",
+    "jeans": "ジーンズ",
+    "overalls": "オーバーオール",
+    "suitPants": "スラックス",
+    "casualPants": "カジュアルパンツ",
+    "cargoPants": "カーゴパンツ",
+    "capriPants": "クロップドパンツ",
+    "wideLegPants": "ワイドパンツ",
+    "pleatedSkirt": "プリーツスカート",
+    "pencilSkirt": "ペンシルスカート",
+    "denimSkirt": "デニムスカート",
+    "beachShorts": "ビーチショーツ",
+    "tracksuit": "ジャージセット",
+    "pajamas": "パジャマ",
+    "downJacket": "ダウンジャケット",
+    "schoolUniform": "学生服",
+    "raincoat": "レインコート",
+    "eveningDress": "イブニングドレス",
+    "littleBlackDress": "リトルブラックドレス",
+    "suit": "スーツ",
+    "tuxedo": "タキシード",
+    "spacesuit": "宇宙服",
+    "divingSuit": "ダイビングスーツ",
+    "apron": "エプロン",
+    "studs": "スタッズ",
+    "tassels": "タッセル",
+    "ruffles": "フリル",
+    "lace": "レース",
+    "zebraPrint": "ゼブラ柄",
+    "plastic": "プラスチック素材",
+    "headband": "ヘアバンド",
+    "hairpin": "ヘアピン",
+    "hairAccessory": "髪飾り",
+    "crown": "王冠",
+    "corsage": "コサージュ",
+    "weddingVeil": "ウェディングベール",
+    "angleWings": "天使の翼",
+    "tie": "ネクタイ",
+    "bowTie": "蝶ネクタイ",
+    "scarf": "スカーフ",
+    "bow": "リボン",
+    "earrings": "ピアス",
+    "necklace": "ネックレス",
+    "choker": "チョーカー",
+    "beret": "ベレー帽",
+    "baseballCap": "キャップ",
+    "knitHat": "ニット帽",
+    "topHat": "シルクハット",
+    "sunHat": "つば広帽子",
+    "bucketHat": "バケットハット",
+    "featherHat": "羽飾りの帽子",
+    "cowboyHat": "カウボーイハット",
+    "beanie": "ビーニー",
+    "headscarf": "ヘッドスカーフ",
+    "jewelry": "ジュエリー",
+    "diamonds": "ダイヤモンド",
+    "pearls": "パール",
+    "glasses": "メガネ",
+    "sunglasses": "サングラス",
+    "steampunkGoggles": "スチームパンクゴーグル",
+    "eyePatch": "眼帯",
+    "aviatorSunglasses": "パイロットサングラス",
+    "headphones": "ヘッドホン",
+    "bracelet": "ブレスレット",
+    "kneeHighSocks": "ニーハイソックス",
+    "boxingGloves": "ボクシンググローブ",
+    "foxEars": "狐耳",
+    "catEars": "猫耳",
+    "rabbitEars": "うさ耳",
+    "wolfEars": "狼耳",
+    "mechanicalWatch": "機械式腕時計",
+    "digitalWatch": "デジタル腕時計",
+    "quartzWatch": "クオーツ腕時計"
+  }
+}

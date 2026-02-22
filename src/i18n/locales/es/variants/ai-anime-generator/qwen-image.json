@@ -1,0 +1,389 @@
+{
+  "seo": {
+    "title": "Qwen Image | Generación Gratuita de Imágenes Qwen Online",
+    "description": "Genere imágenes impresionantes al instante con nuestro generador de imágenes Qwen gratuito. Transforme indicaciones de texto en imágenes de alta calidad, con renderizado de texto preciso y edición perfecta.",
+    "keywords": "Qwen Image, Generación de imágenes Qwen gratuita, Generador de imágenes Qwen AI, herramienta online Qwen Image, Qwen de texto a imagen, editor de imágenes Qwen, creación de imágenes con IA, Qwen-Image gratuito, renderizado de texto Qwen, edición de precisión Qwen, generar imágenes con Qwen, plataforma Qwen Image, demo de Qwen-Image, elementos visuales de Qwen"
+  },
+  "content": {
+    "header": {
+      "title": "Qwen Image",
+      "subtitle": "Generación Gratuita de Imágenes Qwen Online — Creación instantánea de imágenes impulsada por IA"
+    },
+    "sections": {
+      "examples": {
+        "title": "Ejemplos de Qwen Image",
+        "description": "Explore diversos ejemplos de elementos visuales generados por IA creados con Qwen Image. Desde escenas fotorrealistas y arte anime hasta diseños de carteles con diseños de texto complejos, descubra todo el potencial del motor de imágenes de Qwen."
+      },
+      "whatIs": {
+        "title": "¿Qué es Qwen Image?",
+        "description": "Qwen Image es un revolucionario modelo base de imágenes MMDiT de 20B que logra avances significativos en el renderizado de texto complejo y la edición precisa de imágenes. Construido sobre una arquitectura de transformador de difusión multimodal de vanguardia, representa un avance significativo en la creación de contenido visual impulsada por IA.",
+        "keyFeatures": [
+          {
+            "title": "🎯 Renderizado de Texto Superior",
+            "description": "Sobresale en el renderizado de texto complejo con diseños de varias líneas, semántica a nivel de párrafo y detalles precisos. Admite tanto idiomas alfabéticos (inglés) como idiomas logográficos (chino) con una fidelidad excepcional y optimización automática del diseño."
+          },
+          {
+            "title": "✏️ Edición de Imágenes Consistente",
+            "description": "A través de un paradigma de entrenamiento multitarea mejorado, logra un rendimiento excepcional en la preservación tanto del significado semántico como del realismo visual durante las operaciones de edición, incluyendo la transferencia de estilo, la adición/eliminación de objetos y las modificaciones de texto."
+          },
+          {
+            "title": "🏆 Rendimiento de Última Generación",
+            "description": "Supera consistentemente a los modelos existentes en diversos benchmarks, incluidos GenEval, DPG y OneIG-Bench para generación, y GEdit, ImgEdit y GSO para edición. Destaca particularmente en benchmarks de renderizado de texto como LongText-Bench, ChineseWord y TextCraft."
+          },
+          {
+            "title": "🌐 Excelencia Multilingüe",
+            "description": "Soporte nativo para el renderizado de texto chino complejo junto con inglés, con capacidades de generación de texto bilingüe perfectas. Perfecto para crear contenido internacional, materiales educativos y comunicaciones visuales interculturales."
+          }
+        ],
+        "technicalHighlights": {
+          "title": "Excelencia Técnica",
+          "points": [
+            "Arquitectura MMDiT (Transformador de Difusión Multimodal) de 20B de parámetros",
+            "Alineación avanzada de texto e imagen para tipografía perfecta a nivel de píxel",
+            "Paradigma de entrenamiento multitarea para la unificación de la generación y la edición",
+            "Rendimiento líder en benchmarks tanto en tareas de generación como de edición",
+            "Renderizado de texto nativo en chino e inglés con diseño automático"
+          ]
+        }
+      },
+      "howToUse": {
+        "title": "Cómo usar Qwen Image con KomikoAI",
+        "subtitle": "Siga estos sencillos pasos para generar y editar elementos visuales con Qwen Image.",
+        "steps": [
+          {
+            "title": "Paso 1: Introduzca su Prompt",
+            "content": "Escriba una descripción detallada de la imagen que desea: incluya elementos de la escena, personajes, colores, composición y cualquier texto o tipografía que necesite renderizar."
+          },
+          {
+            "title": "Paso 2: Seleccione Estilo y Opciones de Texto",
+            "content": "Elija entre estilos preestablecidos (fotorrealista, anime, ilustración, póster) y configure los ajustes de renderizado de texto para diseños multilingües, fuentes y colocación de texto de precisión."
+          },
+          {
+            "title": "Paso 3: Genere su Imagen",
+            "content": "Haga clic en “Generar” y observe cómo Qwen Image transforma su prompt en un elemento visual de alta calidad con una integración de texto impecable y detalles artísticos en segundos."
+          },
+          {
+            "title": "Paso 4: Descargue y Refine",
+            "content": "Guarde su creación en su resolución preferida. Utilice las herramientas de edición integradas para ajustar los colores, reemplazar objetos o modificar el texto antes de la descarga final."
+          }
+        ]
+      },
+      "whyUse": {
+        "title": "Por qué usar Qwen Image",
+        "subtitle": "Descubra las ventajas de la generación de imágenes Qwen online gratuita.",
+        "features": [
+          {
+            "title": "🆓 Pruebas Gratuitas e Ilimitadas",
+            "content": "Experimente la generación de Qwen Image con todas las funciones y la edición con reconocimiento de texto sin costo alguno. No se requiere suscripción para comenzar a crear."
+          },
+          {
+            "title": "📝 Renderizado de Texto Superior",
+            "content": "Renderice texto complejo de varias líneas en inglés, chino, japonés y más con precisión milimétrica. Perfecto para carteles, diapositivas y maquetas de UI."
+          },
+          {
+            "title": "⚡ Resultados Instantáneos",
+            "content": "Genere imágenes impresionantes en menos de 10 segundos, sin largas esperas ni bocetos manuales."
+          },
+          {
+            "title": "🎨 Opciones de Estilo Versátiles",
+            "content": "Cambie entre estilos fotorrealistas, anime, ilustración o personalizados para adaptarse a cualquier proyecto."
+          },
+          {
+            "title": "✨ Edición Integrada",
+            "content": "Ajuste objetos, cambie fondos, refine detalles y actualice el texto sin problemas con herramientas de edición impulsadas por IA."
+          },
+          {
+            "title": "💼 Uso Comercial",
+            "content": "Todas las imágenes generadas con Qwen Image están autorizadas para uso personal y comercial, perfectas para marketing, branding y merchandising."
+          }
+        ]
+      },
+      "applications": {
+        "title": "Aplicaciones en el Mundo Real para Qwen Image",
+        "subtitle": "Desde carteles de películas hasta diapositivas educativas, vea cómo Qwen Image transforma los flujos de trabajo creativos",
+        "items": [
+          {
+            "title": "🎬 Carteles de Películas y Entretenimiento",
+            "content": "Cree carteles de películas profesionales con diseños de texto complejos, información del elenco y elementos visuales cinematográficos. Perfecto para la promoción de películas, exhibiciones en cines y marketing de entretenimiento con renderizado de texto de múltiples capas.",
+            "example": "Generate posters with titles like 'Imagination Unleashed' featuring cast details, director credits, and release information with perfect typography."
+          },
+          {
+            "title": "📊 Presentaciones Empresariales y PPTs",
+            "content": "Diseñe diapositivas de presentación de nivel empresarial con branding corporativo, diagramas técnicos y contenido multilingüe. Ideal para reuniones de negocios, conferencias y seminarios educativos.",
+            "example": "Create slides with company logos, technical specifications, and bilingual content for international business presentations."
+          },
+          {
+            "title": "🏪 Exhibiciones Minoristas y Escaparates",
+            "content": "Genere escenas realistas de escaparates con letreros de tiendas, exhibiciones de productos y materiales promocionales. Perfecto para maquetas de comercio electrónico, planificación minorista y visualizaciones de marketing.",
+            "example": "Design bookstore displays with 'New Arrivals This Week' signs and detailed book covers with accurate titles and author names."
+          },
+          {
+            "title": "🎨 Contenido Cultural y Artístico",
+            "content": "Cree arte tradicional chino con caligrafía, coplas y elementos culturales. Excelente para la educación cultural, proyectos artísticos y la preservación del patrimonio.",
+            "example": "Generate elegant Chinese couplets with traditional calligraphy, classical room settings, and cultural artifacts like blue and white porcelain."
+          },
+          {
+            "title": "📚 Materiales Educativos e Infografías",
+            "content": "Diseñe contenido educativo integral con texto detallado, diagramas y explicaciones multilingües. Perfecto para cursos en línea, materiales de capacitación y recursos académicos.",
+            "example": "Create infographics about emotional wellbeing with six detailed sections, each featuring icons, titles, and descriptive text in elegant layouts."
+          },
+          {
+            "title": "🌐 Creación de Contenido Multilingüe",
+            "content": "Produzca contenido bilingüe perfecto que mezcle texto en chino e inglés con un renderizado impecable. Ideal para negocios internacionales, aprendizaje de idiomas y comunicación intercultural.",
+            "example": "Generate presentations with both 'Meet Qwen-Image – a powerful image foundation model' and '欢迎了解Qwen-Image, 一款强大的图像基础模型' in the same image."
+          }
+        ]
+      },
+      "technicalFeatures": {
+        "title": "🔬 Excelencia Técnica",
+        "subtitle": "Impulsado por investigación de IA de vanguardia y un modelo base de 20B de parámetros",
+        "features": [
+          {
+            "title": "🧠 Modelo de 20B de Parámetros",
+            "content": "Construido sobre una arquitectura MMDiT masiva de 20 mil millones de parámetros, lo que garantiza una comprensión superior de las complejas relaciones visuales y textuales."
+          },
+          {
+            "title": "🌐 Tipografía Multilingüe",
+            "content": "Soporte nativo para chino, inglés, japonés y otros idiomas con renderizado de texto perfecto a nivel de píxel y optimización automática del diseño."
+          },
+          {
+            "title": "🎯 Rendimiento SOTA",
+            "content": "Logra resultados de última generación en GenEval, DPG y OneIG-Bench para generación, y GEdit, ImgEdit y GSO para tareas de edición."
+          },
+          {
+            "title": "🔄 Arquitectura Unificada",
+            "content": "Un único modelo maneja tanto la generación de imágenes como las tareas de edición con una calidad constante y preservación del estilo."
+          }
+        ]
+      },
+      "benchmarks": {
+        "title": "📊 Benchmarks de Rendimiento",
+        "subtitle": "Liderando la industria en renderizado de texto y calidad de generación de imágenes",
+        "items": [
+          {
+            "title": "Excelencia en el Renderizado de Texto",
+            "content": "Supera a los modelos existentes en los benchmarks LongText-Bench, ChineseWord y TextCraft, destacando especialmente en el renderizado de texto chino con mejoras significativas con respecto a los modelos SOTA actuales."
+          },
+          {
+            "title": "Generación de Imágenes Universal",
+            "content": "Logra el máximo rendimiento en GenEval, DPG y OneIG-Bench para tareas generales de generación de imágenes, lo que demuestra versatilidad en diferentes estilos visuales y tipos de contenido."
+          },
+          {
+            "title": "Edición de Imágenes Precisa",
+            "content": "Lidera en los benchmarks GEdit, ImgEdit y GSO para capacidades de edición de imágenes, manteniendo la coherencia al tiempo que permite modificaciones complejas y transferencias de estilo."
+          }
+        ]
+      },
+      "useCases": {
+        "title": "🎯 Aplicaciones en el Mundo Real",
+        "subtitle": "Descubra cómo Qwen Image transforma los flujos de trabajo creativos en todas las industrias",
+        "cases": [
+          {
+            "title": "📚 Contenido Educativo",
+            "content": "Cree materiales de instrucción, infografías y presentaciones con soporte de texto multilingüe. Perfecto para materiales de aprendizaje de idiomas, documentación técnica y presentaciones académicas.",
+            "icon": "📚"
+          },
+          {
+            "title": "🎬 Marketing y Publicidad",
+            "content": "Diseñe carteles llamativos, gráficos para redes sociales y materiales promocionales con una colocación de texto precisa. Ideal para campañas bilingües y marketing internacional.",
+            "icon": "🎬"
+          },
+          {
+            "title": "📱 Diseño de UI/UX",
+            "content": "Genere maquetas y prototipos con diseños de texto realistas. Pruebe diferentes idiomas y estilos de tipografía para interfaces de aplicaciones globales.",
+            "icon": "📱"
+          },
+          {
+            "title": "🎨 Proyectos Creativos",
+            "content": "Dé vida a visiones artísticas con una integración de texto compleja. Perfecto para portadas de libros, portadas de álbumes y narraciones creativas con elementos multilingües.",
+            "icon": "🎨"
+          }
+        ]
+      },
+      "comparison": {
+        "title": "🆚 Qwen Image vs Otros Generadores de IA",
+        "subtitle": "Vea por qué Qwen Image lidera en renderizado de texto y soporte multilingüe",
+        "features": [
+          {
+            "feature": "Calidad de Renderizado de Texto",
+            "qwen": "Perfecto a nivel de píxel, admite diseños complejos",
+            "others": "Texto básico, a menudo borroso o incorrecto",
+            "advantage": "✅ Superior"
+          },
+          {
+            "feature": "Soporte Multilingüe",
+            "qwen": "Soporte nativo de chino, inglés y japonés",
+            "others": "Limitado al inglés, scripts no latinos deficientes",
+            "advantage": "✅ Integral"
+          },
+          {
+            "feature": "Control de Diseño de Texto",
+            "qwen": "Optimización automática del diseño",
+            "others": "Se requiere posicionamiento manual",
+            "advantage": "✅ Inteligente"
+          },
+          {
+            "feature": "Capacidades de Edición",
+            "qwen": "Modelo unificado de generación y edición",
+            "others": "Herramientas separadas para la edición",
+            "advantage": "✅ Integrado"
+          }
+        ]
+      },
+      "tips": {
+        "title": "Consejos Profesionales para Qwen Image",
+        "items": [
+          "Proporcione referencias de estilo claras y paletas de colores para guiar la salida creativa de Qwen.",
+          "Especifique el contenido del texto y el posicionamiento en los prompts para garantizar una tipografía precisa.",
+          "Experimente con prompts multilingües para aprovechar el renderizado de texto avanzado de Qwen Image.",
+          "Utilice descripciones de fuentes de alto contraste (por ejemplo, “serif en negrita”) para obtener un texto más nítido en sus diseños."
+        ]
+      },
+      "howItWorks": {
+        "title": "🔧 Cómo Funciona Qwen Image",
+        "subtitle": "Comprenda la tecnología avanzada detrás del renderizado de texto superior",
+        "steps": [
+          {
+            "step": "1",
+            "title": "🧠 Comprensión Avanzada",
+            "content": "La arquitectura MMDiT de 20B de parámetros de Qwen Image analiza su prompt para comprender simultáneamente los elementos visuales y los requisitos de texto."
+          },
+          {
+            "step": "2",
+            "title": "📝 Planificación del Diseño de Texto",
+            "content": "El modelo determina automáticamente la ubicación óptima del texto, el tamaño de la fuente y la composición del diseño en función de su descripción y el contexto visual."
+          },
+          {
+            "step": "3",
+            "title": "🎨 Generación Unificada",
+            "content": "A diferencia de otros modelos que añaden texto como una superposición, Qwen Image genera imágenes y texto como un todo cohesivo, lo que garantiza una integración perfecta."
+          },
+          {
+            "step": "4",
+            "title": "✨ Refinamiento de la Calidad",
+            "content": "El post-procesamiento avanzado garantiza un renderizado de texto perfecto a nivel de píxel con un suavizado adecuado y armonía visual con la imagen circundante."
+          }
+        ]
+      },
+      "bestPractices": {
+        "title": "💡 Mejores Prácticas para Resultados Óptimos",
+        "subtitle": "Consejos profesionales para maximizar las capacidades de renderizado de texto de Qwen Image",
+        "practices": [
+          {
+            "category": "📝 Especificación de Texto",
+            "tips": [
+              "Siempre especifique el contenido exacto del texto entre comillas dentro de su prompt",
+              "Describa las preferencias de estilo de fuente (serif, sans-serif, manuscrita, etc.)",
+              "Mencione el tamaño del texto en relación con la imagen (título grande, subtítulo pequeño, etc.)",
+              "Especifique los requisitos de color y contraste del texto para facilitar la lectura"
+            ]
+          },
+          {
+            "category": "🌐 Contenido Multilingüe",
+            "tips": [
+              "Mezcle idiomas de forma natural en sus prompts para diseños bilingües",
+              "Especifique los tipos de script para una mejor renderización (latino, caracteres chinos, etc.)",
+              "Utilice el contexto cultural para guiar las opciones de tipografía apropiadas",
+              "Pruebe diferentes combinaciones de idiomas para proyectos internacionales"
+            ]
+          },
+          {
+            "category": "🎨 Integración de Diseño",
+            "tips": [
+              "Describa cómo debe interactuar el texto con los elementos visuales",
+              "Especifique los tratamientos de fondo (transparente, sólido, degradado)",
+              "Mencione las preferencias de alineación y posicionamiento del texto",
+              "Incluya referencias de estilo para una marca consistente"
+            ]
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "¿Qué es Qwen Image y en qué se diferencia de otros generadores de IA?",
+        "answer": "Qwen Image aprovecha un modelo base de 20 mil millones de parámetros diseñado tanto para la creación de imágenes como para el renderizado de texto preciso. A diferencia de los generadores de propósito general, destaca en la tipografía multilingüe y la precisión del diseño complejo."
+      },
+      {
+        "question": "¿Necesito una cuenta para usar el generador gratuito de Qwen Image?",
+        "answer": "No se necesita ninguna cuenta para probar Qwen Image online. Simplemente visite la página de la herramienta, introduzca su prompt y genere imágenes al instante: gratis e ilimitado durante la prueba."
+      },
+      {
+        "question": "¿Puedo crear imágenes con texto y fuentes personalizados?",
+        "answer": "Sí. Qwen Image admite prompts de texto detallados que especifican la redacción exacta, el estilo de fuente, el tamaño y la ubicación para obtener resultados tipográficos de alta fidelidad."
+      },
+      {
+        "question": "¿Las creaciones de Qwen Image son gratuitas para uso comercial?",
+        "answer": "Absolutamente. Todas las imágenes generadas con Qwen Image se pueden utilizar para proyectos personales o comerciales según nuestros términos de servicio."
+      },
+      {
+        "question": "¿Cómo obtengo los mejores resultados de los prompts de Qwen Image?",
+        "answer": "Incluya elementos descriptivos como iluminación, composición, estilo y cualquier detalle de texto. Haga referencia a estilos de diseño o artistas conocidos para refinar la salida visual."
+      }
+    ],
+    "cta": {
+      "title": "Comience a Generar Imágenes Qwen Gratuitas Ahora",
+      "description": "Libere el poder de la creación de imágenes y texto impulsada por IA. Genere su primera Qwen Image en segundos, ¡no se requiere registro!",
+      "buttonText": "Crear Qwen Image"
+    },
+    "examples": [
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/aliyun.png",
+        "alt": "Qwen Image generado por IA - Escena callejera estilo anime de Miyazaki con texto en chino",
+        "prompt": "Miyazaki anime style. Eye-level shot of a bustling ancient street under sunlight. A disciple in green robes stands in the center, holding a card with 'Alibaba Cloud' written on it. Two children look at him in surprise. On the left is a shop with a 'Cloud Storage' sign, displaying glowing server cases with two guards at the entrance. On the right are two shops: one with a 'Cloud Computing' sign where a beautiful woman in qipao looks at glowing computer screens, and another with a 'Cloud Model' sign featuring a large wine jar labeled 'Qwen' with a shopkeeper pouring glowing code solution into it."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/tongyi.png",
+        "alt": "Qwen Image generado por IA - Habitación tradicional china con coplas de caligrafía",
+        "prompt": "An elegant and dignified couplet hanging in a hall, with a quiet classical Chinese-style room setup. Blue and white porcelain is placed on the table. The couplet reads on the left 'Righteousness born from knowledge, humans and machines share the path of good thinking and innovation', on the right 'Connecting clouds to wisdom, heaven and earth inspire numbers with high aspirations', with the horizontal inscription 'Wisdom Enlightens Tongyi'. The calligraphy is flowing and elegant, with a Chinese-style painting of Yueyang Tower hanging in the center."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/book.png",
+        "alt": "Qwen Image generado por IA - Escaparate de librería con texto en inglés",
+        "prompt": "Bookstore window display. A sign displays \"New Arrivals This Week\". Below, a shelf tag with the text \"Best-Selling Novels Here\". To the side, a colorful poster advertises \"Author Meet And Greet on Saturday\" with a central portrait of the author. There are four books on the bookshelf, namely \"The light between worlds\" \"When stars are scattered\" \"The silent patient\" \"The night circus\""
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/six.png",
+        "alt": "Qwen Image generado por IA - Diapositiva de infografía sobre hábitos de bienestar emocional",
+        "prompt": "A slide featuring artistic, decorative shapes framing neatly arranged textual information styled as an elegant infographic. At the very center, the title \"Habits for Emotional Wellbeing\" appears clearly, surrounded by a symmetrical floral pattern. On the left upper section, \"Practice Mindfulness\" appears next to a minimalist lotus flower icon, with the short sentence, \"Be present, observe without judging, accept without resisting\". Next, moving downward, \"Cultivate Gratitude\" is written near an open hand illustration, along with the line, \"Appreciate simple joys and acknowledge positivity daily\". Further down, towards bottom-left, \"Stay Connected\" accompanied by a minimalistic chat bubble icon reads \"Build and maintain meaningful relationships to sustain emotional energy\". At bottom right corner, \"Prioritize Sleep\" is depicted next to a crescent moon illustration, accompanied by the text \"Quality sleep benefits both body and mind\". Moving upward along the right side, \"Regular Physical Activity\" is near a jogging runner icon, stating: \"Exercise boosts mood and relieves anxiety\". Finally, at the top right side, appears \"Continuous Learning\" paired with a book icon, stating \"Engage in new skill and knowledge for growth\". The slide layout beautifully balances clarity and artistry, guiding the viewers naturally along each text segment."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/poster.png",
+        "alt": "Qwen Image generado por IA - Cartel de película con diseño de texto detallado",
+        "prompt": "A movie poster. The first row is the movie title, which reads \"Imagination Unleashed\". The second row is the movie subtitle, which reads \"Enter a world beyond your imagination\". The third row reads \"Cast: Qwen-Image\". The fourth row reads \"Director: The Collective Imagination of Humanity\". The central visual features a sleek, futuristic computer from which radiant colors, whimsical creatures, and dynamic, swirling patterns explosively emerge, filling the composition with energy, motion, and surreal creativity. The background transitions from dark, cosmic tones into a luminous, dreamlike expanse, evoking a digital fantasy realm. At the bottom edge, the text \"Launching in the Cloud, August 2025\" appears in bold, modern sans-serif font with a glowing, slightly transparent effect, evoking a high-tech, cinematic aesthetic. The overall style blends sci-fi surrealism with graphic design flair—sharp contrasts, vivid color grading, and layered visual depth—reminiscent of visionary concept art and digital matte painting, 32K resolution, ultra-detailed."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/small.png",
+        "alt": "Qwen Image generado por IA - Hombre con poesía manuscrita en papel",
+        "prompt": "A man in a suit is standing in front of the window, looking at the bright moon outside the window. The man is holding a yellowed paper with handwritten words on it: \"A lantern moon climbs through the silver night, Unfurling quiet dreams across the sky, Each star a whispered promise wrapped in light, That dawn will bloom, though darkness wanders by.\" There is a cute cat on the windowsill."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/bi.png",
+        "alt": "Qwen Image generado por IA - Diapositiva de presentación bilingüe chino-inglés",
+        "prompt": "A Chinese woman wearing a \"QWEN\" logo T-shirt is holding a black marker and smiling at the camera. Behind her, handwritten text on a glass board reads: \"Meet Qwen-Image – a powerful image foundation model capable of complex text rendering and precise image editing. 欢迎了解Qwen-Image, 一款强大的图像基础模型，擅长复杂文本渲染与精准图像编辑\""
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/long.png",
+        "alt": "Qwen Image generado por IA - Mujer china con extenso texto manuscrito en una pizarra de cristal",
+        "prompt": "A Chinese woman wearing a \"QWEN\" logo T-shirt is holding a black marker and smiling at the camera. Behind her, the glass board contains extensive handwritten Chinese text: \"一、Qwen-Image的技术路线：探索视觉生成基础模型的极限，开创理解与生成一体化的未来。二、Qwen-Image的模型特色：1、复杂文字渲染。支持中英渲染、自动布局；2、精准图像编辑。支持文字编辑、物体增减、风格变换。三、Qwen-Image的未来愿景：赋能专业内容创作、助力生成式AI发展。\""
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/ppt.png",
+        "alt": "Qwen Image generado por IA - Diapositiva PPT profesional con elementos chinos",
+        "prompt": "A high-quality enterprise PPT slide with a tech-inspired starry blue theme, featuring flowing luminous tech lines and particle effects. The Alibaba logo appears in orange at the top left. The main title in the center reads \"通义千问视觉基础模型\" in large bold white/light blue font. Below it, elegant Chinese calligraphy states \"原生中文·复杂场景·自动布局\". Four images are displayed horizontally showing traditional Chinese elements: plum blossoms labeled \"梅傲\", orchids labeled \"兰幽\", bamboo labeled \"竹清\", and chrysanthemums labeled \"菊淡\". At the bottom, small text reads \"2025年8月，敬请期待\"."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/s2.jpg",
+        "alt": "Qwen Image generado por IA - Muestra de estilos artísticos desde fotorrealista hasta anime",
+        "prompt": "A collection showcasing various artistic styles generated by Qwen Image, ranging from photorealistic scenes to impressionist paintings, anime-style illustrations, and minimalist designs. Each example demonstrates the model's versatility in responding to different creative prompts and artistic directions."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/s3.jpg",
+        "alt": "Qwen Image generado por IA - Demostración de las capacidades de edición de imágenes",
+        "prompt": "A demonstration of Qwen Image's editing capabilities including style transfer, object addition and removal, detail enhancement, text editing, and character pose adjustments. The examples show before and after comparisons highlighting the model's precision in image modification tasks."
+      }
+    ]
+  },
+  "originalKeyword": "AI Anime Art Generator",
+  "placeholderText": "Describe your ideal image with details like objects, style, text layout, and mood to generate a unique visual with Qwen Image"
+}

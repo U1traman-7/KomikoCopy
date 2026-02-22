@@ -1,0 +1,149 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Modify with Instructions",
+      "description": "Transform your videos with precise instructions using our Modify with Instructions tool. Tell the AI exactly how to modify your video with custom prompts, then watch as it transforms your content into anime, cartoon, manga, and manhwa styles.",
+      "keywords": "Modify with Instructions, Best Video to Video AI, video style transformer, anime video modification, cartoon video optimization, manga style customization, manhwa video adaptation, video enhancement tool, animation editor, video to anime modifier, animated video customizer"
+    },
+    "hero": {
+      "title": "Modify with Instructions"
+    },
+    "whatIs": {
+      "title": "What is Modify with Instructions?",
+      "description": "Modify with Instructions is the Best Video to Video AI that lets you control exactly how your video gets transformed. Unlike standard style transfers, you provide specific text instructions like 'make the person wear a red dress' or 'add cyberpunk elements to the background.' The AI follows your precise directions while applying anime, cartoon, manga, and manhwa styles, giving you unprecedented control over your video transformations while preserving original motion and expressions."
+    },
+    "examples": {
+      "title": "Modify with Instructions Examples",
+      "description": "Explore how Modify with Instructions can transform your videos into stunning anime, cartoon, manga, and manhwa styles by following personalized instructions and maintaining original motion fidelity.",
+      "style": "Applied Style"
+    },
+    "howToUse": {
+      "title": "How to Use Modify with Instructions",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Start by uploading any video file (MP4, MOV, AVI) with a limit of 15 seconds and 50MB for processing through Modify with Instructions. Longer videos will be automatically trimmed to optimize your experience."
+        },
+        {
+          "title": "Write Your Modification Instructions",
+          "content": "Provide detailed text instructions telling the AI exactly what changes to make, such as 'change the background to a cyberpunk city' or 'add magical effects around the character.' Then choose your base style from anime, cartoon, manga, or manhwa options."
+        },
+        {
+          "title": "Style Preview & Reference",
+          "content": "We extract the first frame and apply your chosen style and instructions to create a styled reference. This preview shows how your customizations will be applied to the entire video."
+        },
+        {
+          "title": "Generate Modified Video",
+          "content": "Let Modify with Instructions do the work as it transforms your entire video according to your specifications while preserving the original motion, facial expressions, and timing for a captivating final product."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Modify with Instructions",
+      "description": "Modify with Instructions is the Best Video to Video AI that puts you in complete control. Unlike basic style transfers, you provide specific text instructions to guide exactly how your video gets transformed, creating truly personalized results.",
+      "features": [
+        {
+          "title": "Precise Motion Conservation",
+          "content": "Modify with Instructions expertly preserves the nuances of original motion and facial expressions while applying your specified artistic styles, resulting in high-quality animated transformations.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Instruction-Driven Customization",
+          "content": "Unlike basic style transfers, Modify with Instructions lets you specify exactly what changes to make. Write detailed prompts to control clothing, backgrounds, lighting, objects, and effects for truly personalized video transformations.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professional Quality Results",
+          "content": "Experience top-quality outputs with graceful transitions and flawless style applications tailored through Modify with Instructions. Your videos will stand out in any creative setting.",
+          "icon": "✨"
+        },
+        {
+          "title": "Transparent Pricing Model",
+          "content": "User-friendly pricing with identifiable costs for instruction modifications and video generation. Test various styles without incurring extra costs thanks to the efficient structure of Modify with Instructions.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Complete Creative Control",
+          "content": "As the Best Video to Video AI, Modify with Instructions gives you unprecedented control over your transformations. Write specific instructions to modify any aspect of your video while the AI handles the technical execution.",
+          "icon": "👌"
+        },
+        {
+          "title": "Automatic Video Optimization",
+          "content": "Benefit from smart processing that automatically adjusts video lengths, supports various formats (MP4, MOV, AVI), and calculates costs based on desired modifications, ensuring ideal use of Modify with Instructions.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Modify with Instructions FAQ",
+      "description": "Find answers to common inquiries about Modify with Instructions, its functionalities, pricing, and best practices for optimal video transformations.",
+      "q1": "How does Modify with Instructions work?",
+      "a1": "Modify with Instructions is the Best Video to Video AI that follows your specific text instructions. You write detailed prompts like 'change the character's outfit to a red dress' or 'add neon lights to the background,' then the AI applies these modifications along with your chosen art style (anime, cartoon, manga, etc.) while preserving original motion and timing.",
+      "q2": "What are the format requirements for videos using Modify with Instructions?",
+      "a2": "We support MP4, MOV, and AVI formats, with a maximum file size of 50MB for processing through Modify with Instructions. Lengthy videos are shortened automatically to fit our guidelines.",
+      "q3": "How long does the modification process take?",
+      "a3": "The total processing time with Modify with Instructions averages between 5 to 10 minutes, with the transformation phase taking about 1 to 3 minutes and the full video generation averaging 3 to 7 minutes. Users can track their modification progress live.",
+      "q4": "What are the costs associated with Modify with Instructions?",
+      "a4": "Costs are separately outlined for modification instructions and video generation based on the video’s duration. Prices during the Modify with Instructions process are presented in real-time for transparency.",
+      "q5": "What kind of instructions can I give to Modify with Instructions?",
+      "a5": "You can provide detailed text instructions for any modifications you want, such as: changing clothing and accessories, modifying backgrounds and environments, adding or removing objects, adjusting lighting and colors, adding special effects, or transforming character appearances. The Best Video to Video AI will follow your specific directions while applying your chosen art style.",
+      "q6": "What types of videos work best with Modify with Instructions?",
+      "a6": "For optimal results, input videos with clear subjects, good lighting, stable motion, and well-defined features are ideal. Avoid fast-paced or dark footage to ensure the best possible modifications."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/miku-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cosplay",
+      "description": "Cosplay | Transform original video character into Miku cosplay"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/skeleton-skiing.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Skeleton",
+      "description": "Change Material | replace the original character with a skeleton"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/korean-manhwa-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Korean Manhwa Style",
+      "description": "Style Transfer | Transfer original video to Korean manhwa style"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/outer-space-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Outer Space Environment",
+      "description": "Change Environment | Change the background of the original video to outer space"
+    }
+  ],
+  "originalKeyword": "Modify with Instructions | Best Video to Video AI",
+  "config": {
+    "defaultStyle": "anime"
+  },
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "benefits",
+    "whatIs",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

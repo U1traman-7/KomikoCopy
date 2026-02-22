@@ -1,0 +1,134 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Seedance 1.0 AI Video Generator - KomikoAI",
+      "description": "Khám phá Seedance 1.0 AI Video Generator từ ByteDance, công cụ tạo video độ phân giải cao từ văn bản và hình ảnh, hỗ trợ kể chuyện đa cảnh, chuyển động mượt mà và chất lượng chuẩn điện ảnh.",
+      "keywords": "Seedance 1.0, AI video generator, text-to-video AI, image-to-video AI, cinematic AI video, multi-shot video generation, AI animation, Bytedance AI video, HD AI videos"
+    },
+    "hero": {
+      "title": "Seedance 1.0 AI Video Generator",
+      "description": "Hiện thực hóa ý tưởng thành video chuẩn điện ảnh với Seedance 1.0. Sử dụng công nghệ AI tiên tiến để dễ dàng tạo video đa cảnh, độ phân giải cao từ văn bản hoặc hình ảnh."
+    },
+    "whatIs": {
+      "title": "Seedance 1.0 AI Video Generator là gì?",
+      "description": "Seedance 1.0 là một mô hình tạo video ứng dụng AI tiên tiến do nhóm SEED của ByteDance phát triển. Seedance cho phép tạo ra các video chất lượng cao, tập trung vào tường thuật, với khả năng kể chuyện đa cảnh tự nhiên, chuyển động mượt mà và hình ảnh điện ảnh chuyên nghiệp. Hỗ trợ cả hai chế độ chuyển đổi văn bản thành video và hình ảnh thành video, Seedance vượt trội trong việc tạo ra các đoạn phim HD (1080p) từ 5 đến 10 giây ở tốc độ 24fps, với các chuyển đổi liền mạch và phong cách hình ảnh nhất quán. Ứng dụng các mô hình khuếch tán tiên tiến, thuật toán liên kết không gian-thời gian và độ chính xác của prompt, Seedance được thiết kế để cách mạng hóa quy trình sáng tạo nội dung cho các nhà sáng tạo, nhà làm phim, chuyên gia marketing và các thương hiệu."
+    },
+    "examples": {
+      "title": "Các ví dụ video từ Seedance 1.0",
+      "description": "Khám phá những video điện ảnh tuyệt đẹp được tạo bởi AI, thể hiện khả năng kể chuyện đa cảnh, chuyển đổi mượt mà và phong cách hình ảnh đa dạng của Seedance 1.0, từ phong cách hiện thực đến anime và cyberpunk."
+    },
+    "howToUse": {
+      "title": "Cách sử dụng Seedance 1.0 AI Video Generator",
+      "steps": [
+        {
+          "title": "Tải lên hình ảnh của bạn",
+          "content": "Bắt đầu bằng cách tải lên một hình ảnh tham khảo để tạo hiệu ứng hoạt hình, hoặc nhập mô tả văn bản chi tiết để tạo video hoàn toàn mới bằng các tính năng AI của Seedance."
+        },
+        {
+          "title": "Nhập prompt của bạn",
+          "content": "Nhập prompt hoặc mô tả văn bản chi tiết cho video bạn muốn tạo."
+        },
+        {
+          "title": "Tạo video của bạn",
+          "content": "Nhấp vào nút 'Tạo' và để kiến trúc AI được tối ưu hóa của Seedance xử lý đầu vào của bạn để tạo ra một video điện ảnh chất lượng cao."
+        },
+        {
+          "title": "Xem trước và tải xuống",
+          "content": "Xem lại video đã tạo để đảm bảo chất lượng và mạch truyện, sau đó tải xuống ở định dạng HD 1080p để chia sẻ hoặc tích hợp vào các dự án của bạn."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Tại sao nên sử dụng Seedance 1.0 AI Video Generator?",
+      "description": "Khai thác sức mạnh của Seedance 1.0 để tạo ra các video AI liền mạch, giàu hình ảnh với chất lượng chuyên nghiệp và khả năng kể chuyện ấn tượng.",
+      "features": [
+        {
+          "title": "Kể chuyện đa cảnh tự nhiên",
+          "content": "Tạo video với nhiều cảnh mạch lạc và chuyển đổi mượt mà, cho phép những tường thuật phức tạp và chuỗi điện ảnh trong một đoạn clip duy nhất do AI tạo ra.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Chế độ tạo video kép",
+          "content": "Tạo video từ prompt văn bản bằng ngôn ngữ tự nhiên hoặc tạo hiệu ứng hoạt hình cho hình ảnh tĩnh, mang lại sự linh hoạt sáng tạo tối đa.",
+          "icon": "🔄"
+        },
+        {
+          "title": "Đầu ra độ phân giải cao 1080p",
+          "content": "Tạo video chất lượng chuyên nghiệp ở độ phân giải 1080p và 24fps, phù hợp cho mục đích thương mại, mạng xã hội và các bài thuyết trình chuyên nghiệp.",
+          "icon": "📺"
+        },
+        {
+          "title": "Chuyển động tự nhiên và mượt mà",
+          "content": "Tận hưởng các chuyển động nhân vật mượt mà và chân thực, liên kết không gian và kiểm soát camera động bao gồm các cảnh quay lia máy, thu phóng và theo dõi.",
+          "icon": "🌊"
+        },
+        {
+          "title": "Phong cách hình ảnh đa dạng",
+          "content": "Áp dụng các phong cách đa dạng từ hiện thực, anime, minh họa, cyberpunk đến màu nước và nhiều hơn nữa, mà không cần các điều chỉnh phức tạp.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Tạo nhanh chóng và hiệu quả",
+          "content": "Trải nghiệm quá trình tạo video nhanh chóng với khả năng tăng tốc mô hình được tối ưu hóa, tạo ra các video 5 giây trong khoảng 41 giây, giúp tăng tốc quy trình làm việc sáng tạo của bạn.",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp về Seedance 1.0 AI Video Generator",
+      "description": "Hướng dẫn sử dụng Seedance 1.0 AI Video Generator để tạo ra những video AI chuyên nghiệp, chuẩn điện ảnh.",
+      "q1": "Seedance 1.0 AI Video Generator là gì?",
+      "a1": "Seedance 1.0 là một mô hình tạo video dựa trên AI của ByteDance, tạo ra các video tường thuật chất lượng cao bằng cách sử dụng văn bản hoặc hình ảnh làm đầu vào. Seedance hỗ trợ kể chuyện đa cảnh với chuyển động mượt mà và phong cách hình ảnh chuyên nghiệp.",
+      "q2": "Seedance 1.0 tạo video như thế nào?",
+      "a2": "Seedance sử dụng mô hình khuếch tán tiên tiến với các thuật toán liên kết không gian-thời gian và diễn giải prompt chính xác để tạo ra các video từ 5 đến 10 giây với các chuyển đổi mượt mà và tính nhất quán của nhân vật ổn định ở độ phân giải 1080p.",
+      "q3": "Các trường hợp sử dụng chính cho Seedance 1.0 là gì?",
+      "a3": "Seedance 1.0 rất lý tưởng cho người sáng tạo nội dung trên mạng xã hội, chuyên gia marketing, nhà làm phim, các đoạn phim thời trang ngắn, vòng lặp moodboard, video giáo dục và bất kỳ dự án nào yêu cầu nội dung video điện ảnh, động từ văn bản hoặc hình ảnh.",
+      "q4": "Tôi có thể tùy chỉnh kiểu video và độ dài không?",
+      "a4": "Có, Seedance cho phép lựa chọn các phong cách nghệ thuật khác nhau bao gồm hiện thực, anime, cyberpunk, v.v. Bạn cũng có thể thiết lập thời lượng video, thường là từ 5 đến 10 giây.",
+      "q5": "Seedance 1.0 hỗ trợ chất lượng video nào?",
+      "a5": "Seedance tạo video ở định dạng HD 1080p với tốc độ khung hình 24fps mượt mà, phù hợp cho việc sử dụng chuyên nghiệp trên nhiều nền tảng.",
+      "q6": "Seedance 1.0 có dễ sử dụng cho người mới bắt đầu không?",
+      "a6": "Hoàn toàn có thể. Với giao diện trực quan hỗ trợ đầu vào văn bản hoặc hình ảnh, bất kỳ ai từ người mới bắt đầu đến chuyên gia đều có thể nhanh chóng tạo ra các video AI tuyệt đẹp.",
+      "q7": "Những loại prompt nào hoạt động tốt nhất với Seedance?",
+      "a7": "Các prompt bằng ngôn ngữ tự nhiên chi tiết mô tả các cảnh, hành động và cảm xúc sẽ tạo ra kết quả tốt nhất. Các prompt sáng tạo và mang tính thử nghiệm cũng được hỗ trợ tốt.",
+      "q8": "Có bất kỳ hạn chế nào của Seedance 1.0 không?",
+      "a8": "Mặc dù mạnh mẽ, Seedance có thể yêu cầu xử lý nhiều hơn đối với các kịch bản đa nhân vật phức tạp hoặc độ phân giải cao. Ngoài ra, việc duy trì tính nhất quán hoàn hảo về phong cách nghệ thuật trên các clip dài vẫn còn là một thách thức."
+    }
+  },
+  "originalKeyword": "Seedance 1.0 AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Mô hình: Seedance 1.0",
+      "description": "Prompt: The man on the left presses his lips tightly together, his face etched with fury and resolve. Every line of his expression radiates both profound frustration and unshakable conviction. Meanwhile, the other man's jaw hangs open—poised as if to erupt into a shout or impassioned declaration.",
+      "videoUrl": "https://fluximageai.net/generated-models/4e3363f0-35d4-4af0-a0fb-0a61fcd72239.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Mô hình: Seedance 1.0",
+      "description": "Prompt: A cartoon minion Jedi in dark robes, crouching low on a tree branch above a misty swamp. He has two small daggers and glowing yellow eyes under his hood. Silent and mysterious, with soft cinematic lighting and glowing mushrooms nearby.",
+      "videoUrl": "https://fluximageai.net/generated-models/5e666711-bbb7-4f99-b96b-48f271496894.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Mô hình: Seedance 1.0",
+      "description": "Prompt: A cat is playing piano.",
+      "videoUrl": "https://fluximageai.net/generated-models/d4a77f87-afe1-44fa-8d50-4d12656fa4aa.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Mô hình: Seedance 1.0",
+      "description": "Prompt: preocupado por las deudas.",
+      "videoUrl": "https://fluximageai.net/generated-models/acd61a30-7ad9-4d78-a458-52e510735e52.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "SEEDANCE"
+}

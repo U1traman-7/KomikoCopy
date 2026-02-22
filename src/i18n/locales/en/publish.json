@@ -1,0 +1,88 @@
+{
+  "pageTitle": "Post | KomikoAI",
+  "shareStory": "Share Your Story",
+  "enterStoryTitle": "Enter story title",
+  "addMoreDescription": "Add more description",
+  "post": "Post",
+  "pleaseNote": "Please note:",
+  "nsfwWarning": "Please tag all inappropriate content as \"NSFW\". Posts without tags may be removed and repeat offenses can lead to a ban. Illegal content (including minors) is strictly forbidden and will result in a permanent ban.",
+  "imageDownloadSuccess": "Image downloaded successfully! Share it with your friends now!",
+  "pleaseEnterTitle": "Please enter a title",
+  "pleaseCreateStory": "Please create a story",
+  "failedToPost": "Failed to post",
+  "addTags": "Add Tag",
+  "tagPlaceholder": "#Enter tag",
+  "tagCount": "Tags ({{current}}/{{max}})",
+  "recommendedTags": "Recommended Tags",
+  "popularTags": "Popular Tags",
+  "activity": "Activity",
+  "defaultTitles": {
+    "character": "My Character Creation",
+    "anime": "My Anime Style Photo",
+    "animation": "My Animation",
+    "creation": "My Creation"
+  },
+  "share": "Share",
+  "uploadMedia": "Upload Media",
+  "dragDropOrClick": "Drag & drop files here, or click to select",
+  "dropFileHere": "Drop files here",
+  "uploading": "Uploading",
+  "storyTitle": "Story Title",
+  "description": "Description",
+  "titleLengthWarning": "Title is getting long",
+  "characters": "characters",
+  "pleasePublishFirst": "Please publish the content first before sharing",
+  "preppingPost": "Prepping your post…",
+  "pinPost": "Pin this post to the top of Trending feed",
+  "fileUpload": {
+    "title": "Upload Media",
+    "subtitle": "Drag & drop files here, or click to select",
+    "dropHere": "Drop files here",
+    "supportedFormats": "Supported formats",
+    "imageFormats": "JPG, PNG, WEBP",
+    "videoFormats": "MP4, MOV, AVI",
+    "maxSize": "Images: Max {{size}}MB",
+    "videoMaxSize": "Videos: Max {{size}}MB, {{duration}}min",
+    "processing": "Processing file...",
+    "uploading": "Uploading...",
+    "success": "Upload successful!",
+    "error": "Upload failed. Please try again."
+  },
+  "mediaPreview": {
+    "image": "Image",
+    "video": "Video",
+    "download": "Download",
+    "share": "Share",
+    "clear": "Clear"
+  },
+  "validation": {
+    "titleRequired": "Please enter a title",
+    "contentRequired": "Please create a story",
+    "fileRequired": "Please select a file",
+    "fileTooLarge": "File is too large. Maximum size: {{size}}MB",
+    "unsupportedFormat": "Unsupported file format",
+    "uploadFailed": "Upload failed. Please try again."
+  },
+  "actions": {
+    "publish": "Publish",
+    "save": "Save",
+    "cancel": "Cancel",
+    "clear": "Clear All",
+    "download": "Download",
+    "share": "Share"
+  },
+  "drawer": {
+    "action": {
+      "newPost": "New Post",
+      "newCharacter": "New Character",
+      "generateImage": "Generate Image",
+      "generateVideo": "Generate Video",
+      "generateComic": "Generate Comic",
+      "exploreTemplates": "Explore Templates"
+    },
+    "description": {
+      "newPost": "Share your creations with the community.",
+      "exploreTemplates": "Open the template gallery to browse curated presets across every tool."
+    }
+  }
+}

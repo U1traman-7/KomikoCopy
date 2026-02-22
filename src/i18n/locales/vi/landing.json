@@ -1,0 +1,268 @@
+{
+  "hero": {
+    "title": "Mang Ý Tưởng Anime & Truyện Tranh Của Bạn Đến Với Cuộc Sống",
+    "subtitle": "Hình dung giấc mơ của bạn và biến câu chuyện của bạn thành hiện thực — thiết kế nhân vật, tạo tác phẩm nghệ thuật và làm chuyển động cảnh với AI",
+    "create_now_button": "Bắt đầu Miễn phí",
+    "join_discord_button": "Tham gia Discord"
+  },
+  "section2": {
+    "tagline": "KomikoAI: Tạo dựng nhân vật nhất quán",
+    "title": "Thiết kế nhân vật đồng nhất",
+    "description": {
+      "part1": "Đảm bảo sự nhất quán cho nhân vật trong truyện tranh của bạn với cơ sở dữ liệu nhân vật phong phú của chúng tôi.",
+      "part2": "Bạn cũng có thể",
+      "part3": "và sử dụng chúng trong quá trình tạo ảnh và truyện tranh để nhân vật luôn xuất hiện đồng nhất."
+    },
+    "create_character_link": "tạo nhân vật riêng",
+    "create_character_title": "Tạo Nhân Vật | KomikoAI",
+    "create_now_button": "Bắt đầu Miễn phí",
+    "create_now_title": "Kể Câu Chuyện Của Bạn Ngay Hôm Nay | KomikoAI",
+    "image_alt": "Tạo thiết kế nhân vật nhất quán trên KomikoAI"
+  },
+  "section3": {
+    "tagline": "KomikoAI: Studio truyện tranh AI",
+    "title": "Thỏa sức sáng tạo trên canvas",
+    "description": {
+      "part1": "Giải phóng khả năng sáng tạo và tạo truyện tranh, truyện chữ, manga trên canvas hỗ trợ AI của chúng tôi!",
+      "part2": "Tạo hình ảnh bằng AI từ văn bản, tự do sắp xếp bố cục khung truyện trên canvas vô tận, thêm thoại và hiệu ứng để kể chuyện thêm sinh động."
+    },
+    "create_comics_title": "Vẽ Truyện Tranh Trên Canvas | KomikoAI",
+    "create_now_button": "Bắt đầu Miễn phí",
+    "create_now_title": "Kể Câu Chuyện Của Bạn Ngay Hôm Nay | KomikoAI",
+    "image_alt": "Tạo truyện tranh bằng AI trên canvas vô tận"
+  },
+  "section4": {
+    "tagline": "KomikoAI: Công cụ AI cho họa sĩ, nghệ sĩ và nhà làm phim hoạt hình",
+    "title": "Sáng tạo nghệ thuật chuyên nghiệp với AI",
+    "description": {
+      "intro": "KomikoAI cung cấp các công cụ AI mạnh mẽ để tạo ra tác phẩm nghệ thuật chuyên nghiệp:",
+      "feature1": "Tạo hình ảnh từ văn bản để có ngay tác phẩm nghệ thuật",
+      "feature2": "Tô màu nét vẽ và manga, tiết kiệm hàng giờ làm việc thủ công",
+      "feature3": "Nâng cấp hình ảnh chất lượng cao để có kết quả sắc nét",
+      "feature4": "Xóa và chiếu sáng lại hậu cảnh để chỉnh sửa ảnh linh hoạt",
+      "conclusion": "Dù bạn là nghệ sĩ chuyên nghiệp hay mới bắt đầu, công cụ AI của chúng tôi sẽ giúp bạn tạo ra những minh họa, truyện tranh và hoạt hình tuyệt đẹp nhanh hơn bao giờ hết."
+    },
+    "colorize_title": "Tô Màu Nét Vẽ Bằng AI | KomikoAI",
+    "create_now_button": "Bắt đầu Miễn phí",
+    "create_now_title": "Kể Câu Chuyện Của Bạn Ngay Hôm Nay | KomikoAI",
+    "image_alt": "Tạo thiết kế nhân vật nhất quán trên KomikoAI"
+  },
+  "section5": {
+    "tagline": "KomikoAI: Thổi hồn vào tác phẩm nghệ thuật bằng AI",
+    "title": "Tạo hoạt ảnh từ khung hình chính",
+    "description": {
+      "part1": "Biến những khung hình chính của bạn thành hoạt ảnh chất lượng cao, mượt mà với các mô hình AI hàng đầu như Veo, Kling, Hailuo, Pixverse...",
+      "part2": "Đẩy nhanh quy trình làm hoạt hình chuyên nghiệp với các công cụ nội suy và nâng cấp video bằng AI."
+    },
+    "animation_title": "Trình tạo hoạt hình AI | KomikoAI",
+    "create_now_button": "Bắt đầu Miễn phí",
+    "create_now_title": "Kể Câu Chuyện Của Bạn Ngay Hôm Nay | KomikoAI",
+    "image_alt": "Tạo Video Hoạt Hình AI trên KomikoAI"
+  },
+  "features": {
+    "title": "Nền tảng sáng tạo AI tất cả trong một",
+    "subtitle": "Khám phá các công cụ AI chuyên nghiệp để tăng tốc quá trình tạo minh họa, truyện tranh, manga và anime của bạn"
+  },
+  "testimonials": {
+    "title": "Người dùng nói gì về KomikoAI?",
+    "subtitle": "Khám phá cách KomikoAI giúp người dùng tạo ra những bộ truyện tranh và hoạt hình tuyệt vời.",
+    "testimonial1": {
+      "name": "Lina K",
+      "title": "Tarsis Animation, Giám đốc Sáng tạo",
+      "content": "KomikoAI đã thay đổi hoàn toàn cách chúng tôi tạo anime. Thời gian sản xuất giảm đi một nửa và giờ đây chúng tôi có thể đưa những cảnh phức tạp hơn vào cuộc sống mà không gặp phải những rắc rối thường thấy. Đây là một bước tiến lớn cho studio của chúng tôi."
+    },
+    "testimonial2": {
+      "name": "Salmonism",
+      "title": "Nghệ sĩ Manga",
+      "content": "Việc tô màu trước đây tốn hàng giờ - giờ chỉ mất vài giây. Công cụ tô màu nét vẽ AI của KomikoAI cho phép tôi tập trung vào việc kể chuyện thay vì bị sa lầy vào những công việc tẻ nhạt."
+    },
+    "testimonial3": {
+      "name": "Tristan B",
+      "title": "Người sáng lập, Nebula Studios",
+      "content": "Từ thiết kế nhân vật đến phân cảnh và hoạt hình, KomikoAI giúp chúng tôi tiết kiệm thời gian và làm cho công việc của chúng tôi sáng tạo hơn. Nhóm của chúng tôi yêu thích nó và tôi không thể tưởng tượng được việc quay lại cách làm cũ."
+    },
+    "testimonial4": {
+      "name": "VentiVenti",
+      "title": "Nhà sáng tạo truyện tranh AI",
+      "content": "Tôi luôn muốn tạo truyện tranh fan Genshin nhưng chưa bao giờ có thời gian học vẽ. Các công cụ AI của KomikoAI giúp điều đó trở nên khả thi - tôi có thể đưa những câu chuyện của mình vào cuộc sống chính xác như tôi đã tưởng tượng."
+    },
+    "testimonial5": {
+      "name": "John D",
+      "title": "Nhà làm phim hoạt hình độc lập",
+      "content": "KomikoAI đã đưa hoạt ảnh của tôi lên một tầm cao mới. Tôi có thể sản xuất các tác phẩm chất lượng cao trong một phần nhỏ thời gian so với trước đây. KomikoAI gói gọn cả một đội ngũ làm phim hoạt hình vào một công cụ mạnh mẽ."
+    }
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "what_is_komiko": {
+      "question": "KomikoAI là gì?",
+      "answer": "KomikoAI là nền tảng hỗ trợ AI cho phép bạn tạo truyện tranh, truyện chữ, manga và anime với sự trợ giúp của trí tuệ nhân tạo. Nó cung cấp một bộ công cụ giúp bạn tạo ra những tác phẩm chuyên nghiệp chỉ trong vài phút, thay vì vài ngày."
+    },
+    "what_tools": {
+      "question": "KomikoAI cung cấp những công cụ gì?",
+      "answer": "KomikoAI cung cấp một loạt các công cụ AI giúp bạn tạo truyện tranh, truyện chữ và hoạt hình chuyên nghiệp. Bao gồm tạo nhân vật, canvas vô tận, trình tạo truyện tranh AI, tô màu nét vẽ, tô màu manga, nội suy, nâng cấp video, nội suy khung hình, v.v."
+    },
+    "how_comic_creation_works": {
+      "question": "Quá trình tạo truyện tranh AI của KomikoAI hoạt động như thế nào?",
+      "answer": "KomikoAI sử dụng công nghệ AI tiên tiến để giúp bạn tạo ra tác phẩm truyện tranh. Chỉ cần nhập ý tưởng câu chuyện của bạn và AI của chúng tôi sẽ tạo truyện tranh cho bạn với các nhân vật nhất quán, bong bóng thoại và bố cục khung hình."
+    },
+    "is_free": {
+      "question": "KomikoAI có miễn phí không?",
+      "answer": "Có, KomikoAI cung cấp gói miễn phí cho phép bạn dùng thử các tính năng cơ bản của chúng tôi. Chúng tôi cũng có các gói trả phí với nhiều tính năng nâng cao, độ phân giải cao hơn và khả năng tạo nhiều hơn cho những người sáng tạo chuyên nghiệp."
+    },
+    "manga_anime_style": {
+      "question": "Tôi có thể tạo nghệ thuật theo phong cách manga và anime với KomikoAI không?",
+      "answer": "Chắc chắn rồi! KomikoAI chuyên về phong cách nghệ thuật manga, anime và truyện tranh. AI của chúng tôi được đào tạo trên một lượng lớn anime, truyện tranh, truyện chữ và manga để đảm bảo tính thẩm mỹ truyện tranh Nhật Bản và Hàn Quốc đích thực."
+    },
+    "what_makes_different": {
+      "question": "Điều gì khiến KomikoAI khác biệt so với các công cụ nghệ thuật AI khác?",
+      "answer": "KomikoAI được thiết kế đặc biệt để tạo truyện tranh và hoạt hình, cung cấp các tính năng chuyên biệt như tính nhất quán của nhân vật, công cụ bố cục khung hình, tạo bong bóng thoại và khả năng hoạt hình. Nền tảng của chúng tôi cung cấp giải pháp đầu cuối để tạo truyện tranh và hoạt hình kỹ thuật số."
+    },
+    "need_artistic_skills": {
+      "question": "Tôi có cần kỹ năng nghệ thuật để sử dụng KomikoAI không?",
+      "answer": "Không cần kinh nghiệm nghệ thuật! Mặc dù các nghệ sĩ có thể tăng tốc quy trình làm việc của họ với các công cụ của chúng tôi, KomikoAI được thiết kế để giúp bất kỳ ai tạo ra truyện tranh và hoạt hình chuyên nghiệp, bất kể nền tảng nghệ thuật của họ."
+    },
+    "commercial_projects": {
+      "question": "Tôi có thể sử dụng KomikoAI cho các dự án thương mại không?",
+      "answer": "Có, các gói trả phí của KomikoAI bao gồm quyền sử dụng thương mại. Bạn sở hữu tất cả các quyền đối với tác phẩm bạn tạo bằng nền tảng của chúng tôi, biến nó trở thành lựa chọn hoàn hảo cho các nghệ sĩ truyện tranh chuyên nghiệp và các hãng phim hoạt hình."
+    },
+    "support": {
+      "question": "KomikoAI cung cấp hỗ trợ gì?",
+      "answer": "Chúng tôi cung cấp hỗ trợ toàn diện thông qua cộng đồng Discord, tài liệu, video hướng dẫn và dịch vụ khách hàng tận tâm. Tham gia cộng đồng Discord của chúng tôi để tìm hiểu các mẹo, chia sẻ tác phẩm của bạn và nhận trợ giúp khi cần."
+    }
+  },
+  "cta": {
+    "title": "Giải phóng sự sáng tạo của bạn",
+    "subtitle": "Biến ý tưởng của bạn thành những bộ truyện tranh và hoạt hình tuyệt vời với KomikoAI AI ngay bây giờ",
+    "create_now_button": "Bắt đầu Miễn phí",
+    "join_discord_button": "Tham gia Discord"
+  },
+  "create_now": "Bắt đầu",
+  "interactive_menu": {
+    "click_select": "Chạm để chọn",
+    "input_placeholder": "Nhập nguồn cảm hứng của bạn...",
+    "input_placeholder_short": "Viết ý tưởng...",
+    "character_placeholder": "Thiết kế nhân vật của bạn (ví dụ: cô gái phép thuật với tóc xanh lá cây và tai elf)",
+    "character_placeholder_short": "Ý tưởng nhân vật (ví dụ: mèo ninja)",
+    "comic_placeholder": "Tạo câu chuyện của bạn (ví dụ: siêu anh hùng giải cứu mèo từ tòa nhà chọc trời)",
+    "comic_placeholder_short": "Ý tưởng truyện (ví dụ: hải tặc không gian)",
+    "anime_placeholder": "Thiết kế tác phẩm anime của bạn (ví dụ: samurai cyberpunk với thanh katana phát sáng)",
+    "anime_placeholder_short": "Ý tưởng anime (ví dụ: samurai cyberpunk)",
+    "animation_placeholder": "Tạo hoạt hình của bạn (ví dụ: mèo ninja đối đầu với hải tặc không gian)",
+    "animation_placeholder_short": "Ý tưởng hoạt hình (ví dụ: mèo ninja vs hải tặc không gian)",
+    "title": "Chạm để chuyển loại",
+    "character_card": {
+      "alt": "Thiết kế nhân vật",
+      "title": "Nhân vật"
+    },
+    "comic_card": {
+      "alt": "Truyện tranh",
+      "title": "Truyện tranh"
+    },
+    "anime_card": {
+      "alt": "Nghệ thuật Anime",
+      "title": "Nghệ thuật Anime"
+    },
+    "animation_card": {
+      "alt": "Hoạt hình",
+      "title": "Hoạt hình"
+    },
+    "button": {
+      "choose_type": "Chọn loại",
+      "create_character": "Tạo Nhân vật",
+      "create_comic": "Tạo Truyện tranh",
+      "create_animation": "Tạo Hoạt hình",
+      "create_anime": "Tạo Nghệ thuật Anime"
+    },
+    "see_more": "Bắt đầu miễn phí"
+  },
+  "stats": {
+    "active_creators": "Hơn 100K Nhà Sáng Tạo Đang Hoạt Động",
+    "creations_made": "Hơn 100 nghìn tác phẩm đã được tạo ra",
+    "trusted_professionals": "Được các chuyên gia tin tưởng"
+  },
+  "partners": {
+    "title": "Đối tác của chúng tôi",
+    "subtitle": "Được hỗ trợ bởi những mô hình AI tiên tiến nhất thế giới và được hậu thuẫn bởi các nhà đầu tư hàng đầu"
+  },
+  "professional": {
+    "line_art_colorization": {
+      "title": "Tô màu tranh vẽ đường nét",
+      "short_title": "Tô màu",
+      "description": "Biến tranh vẽ đường nét của bạn thành các minh họa màu sắc sống động với AI thấu hiểu phong cách và ánh sáng anime.",
+      "detailed_description": "Tô màu tranh vẽ đường nét bằng AI sử dụng các mô hình AI tiên tiến đã được đào tạo trên hàng triệu hình ảnh để nhận diện mẫu trong tranh và áp dụng màu sắc nghệ thuật. Tải lên bản phác thảo của bạn, thêm hướng dẫn màu sắc, và AI sẽ truyền tải ý đồ nghệ thuật của bạn thành hình ảnh có màu sắc.",
+      "features": {
+        "upload_line_art": "Tải lên tranh vẽ đường nét sạch",
+        "reference_guided": "Tô màu dựa trên tham khảo",
+        "specify_colors": "Chỉ định màu sắc của bạn",
+        "high_quality": "Chất lượng đầu ra cao"
+      }
+    },
+    "sketch_simplification": {
+      "title": "Đơn giản hóa bản phác thảo",
+      "short_title": "Phác thảo",
+      "description": "Chuyển đổi bản phác thảo thô thành tranh vẽ đường nét sạch, tối ưu hóa quy trình làm việc của bạn.",
+      "detailed_description": "Đơn giản hóa bản phác thảo bằng AI sử dụng các mô hình AI tiên tiến đã được đào tạo trên hàng triệu hình ảnh để phân tích cấu trúc bản phác thảo và đơn giản hóa nó một cách thông minh. AI xác định các đường nét và chi tiết quan trọng trong khi loại bỏ nhiễu không cần thiết, tạo ra tranh vẽ đường nét sạch và chuyên nghiệp.",
+      "features": {
+        "clean_line_art": "Đầu ra tranh vẽ đường nét sạch",
+        "smart_simplification": "Đơn giản hóa thông minh",
+        "time_saving": "Tiết kiệm thời gian tinh chỉnh",
+        "professional_quality": "Chất lượng chuyên nghiệp"
+      }
+    },
+    "background_removal": {
+      "title": "Loại bỏ nền",
+      "short_title": "Loại bỏ BG",
+      "description": "Loại bỏ nền chính xác tối ưu cho các nhân vật anime, giữ lại chi tiết tinh tế như sợi tóc.",
+      "detailed_description": "Loại bỏ nền bằng AI sử dụng các mô hình học máy tiên tiến được đào tạo đặc biệt trên hình ảnh anime và manga để tự động phát hiện và loại bỏ nền của ảnh. AI phân tích từng điểm ảnh để đảm bảo phát hiện cạnh chính xác, ngay cả với kiểu tóc anime phức tạp và các thiết kế chi tiết.",
+      "features": {
+        "hair_precision": "Độ chính xác cấp độ tóc",
+        "anime_optimized": "Tối ưu hóa cho nhân vật anime",
+        "transparent_png": "Xuất file PNG trong suốt",
+        "batch_processing": "Xử lý hàng loạt"
+      }
+    },
+    "image_upscaling": {
+      "title": "Nâng cấp hình ảnh",
+      "short_title": "Nâng cấp",
+      "description": "Cải thiện độ phân giải hình ảnh trong khi vẫn giữ nguyên phong cách nghệ thuật anime và chi tiết tinh tế.",
+      "detailed_description": "Nâng cấp hình ảnh bằng AI với khả năng hiểu các phong cách nghệ thuật anime và manga. Tăng độ phân giải lên đến 4 lần trong khi giữ nguyên đường nét sắc sảo, màu sắc sống động và tính nghệ thuật.",
+      "features": {
+        "up_to_4x": "Tăng độ phân giải lên đến 4 lần",
+        "style_preservation": "Bảo tồn phong cách",
+        "detail_enhancement": "Cải thiện chi tiết",
+        "high_quality_export": "Xuất chất lượng cao"
+      }
+    },
+    "animation_inbetweening": {
+      "title": "Tạo khung hình chuyển động giữa",
+      "short_title": "Hoạt hình",
+      "description": "Tạo các khung chuyển động mượt mà giữa các khung chính của bạn, giảm đáng kể thời gian sản xuất hoạt hình.",
+      "detailed_description": "Tạo các khung giữa bằng AI sử dụng học máy tiên tiến để hiểu chuyển động và tạo ra các chuyển đổi tự nhiên giữa các khung chính. Tải lên 2-5 khung hình chính, thêm hướng dẫn để xác định phong cách hoạt hình và để AI tạo ra các chuyển đổi mượt mà giữa các tư thế chính của bạn.",
+      "features": {
+        "upload_keyframes": "Tải lên 2-5 khung hình chính",
+        "advanced_ai": "Công nghệ AI tiên tiến",
+        "rapid_creation": "Tạo hoạt hình nhanh",
+        "professional_quality": "Chất lượng chuyên nghiệp"
+      }
+    },
+    "frame_interpolation": {
+      "title": "Nội suy khung hình",
+      "short_title": "Nội suy",
+      "description": "Tăng tốc độ khung hình của hoạt hình của bạn bằng cách tạo các khung trung gian, tạo ra chuyển động mượt mà hơn.",
+      "detailed_description": "Nội suy khung hình bằng AI sử dụng trí thông minh nhân tạo để tạo thêm các khung hình giữa các khung hiện có, kết quả là chuyển động mượt mà hơn và tốc độ khung hình tăng. AI phân tích chuyển động giữa các khung và sử dụng các thuật toán học máy tiên tiến để tạo ra khung trung gian mới.",
+      "features": {
+        "higher_frame_rates": "Tốc độ khung hình cao hơn",
+        "smoother_motion": "Chuyển động mượt mà hơn",
+        "video_enhancement": "Cải thiện video",
+        "professional_quality": "Chất lượng chuyên nghiệp"
+      }
+    },
+    "section_title": "Dành cho nghệ sĩ chuyên nghiệp",
+    "main_title": "Công cụ AI giúp tăng tốc công việc của bạn",
+    "subtitle": "Để AI xử lý công việc tốn thời gian để bạn có thể tập trung vào sáng tạo",
+    "cta_button": "Bắt đầu tạo với AI",
+    "cta_subtitle": "Các công cụ chất lượng chuyên nghiệp được hơn 47 nghìn nhà sáng tạo tin dùng",
+    "learn_more": "Tìm hiểu thêm"
+  }
+}

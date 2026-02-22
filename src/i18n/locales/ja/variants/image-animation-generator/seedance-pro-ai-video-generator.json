@@ -1,0 +1,134 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Seedance Pro AI動画ジェネレーター - KomikoAI",
+      "description": "テキストと画像から映画品質のAI動画を生成する、最先端ツールSeedance Pro AI動画ジェネレーターをご紹介します。映画制作者、クリエイター、マーケターの皆様に最適なソリューションです。",
+      "keywords": "Seedance Pro AI動画ジェネレーター, AI動画作成, テキストから動画へ, 画像から動画へ, シネマティックAI動画, AI動画ツール, マルチショットストーリーテリング, モーションシンセシス"
+    },
+    "hero": {
+      "title": "Seedance Pro AI動画ジェネレーター",
+      "description": "Seedance Proの高度なAI技術で、テキストプロンプトや画像をプロレベルの映画のような動画に変換します。シームレスなマルチショットストーリーテリング、リアルなモーション、多様な芸術スタイルをご体験ください。"
+    },
+    "whatIs": {
+      "title": "Seedance Pro AI動画ジェネレーターとは",
+      "description": "Seedance Pro AI動画ジェネレーターは、静止画像から高品質な動画を生成するために設計された、最先端のAI搭載プラットフォームです。高度な深層学習と拡散モデリング技術を活用し、統合されたモデル内で画像から動画（I2V）への変換に特化しています。スムーズでリアルなモーション、ネイティブなマルチショットストーリーテリング、優れたプロンプトへの忠実度を備えた1080p解像度の動画を提供します。映画のような動画制作に優れており、フォトリアリスティックからアニメーション、芸術的なジャンルまで、柔軟なスタイルオプションを備えたプロフェッショナルな放送対応動画コンテンツを求める映画制作者、コンテンツクリエイター、マーケターに最適です。"
+    },
+    "examples": {
+      "title": "Seedance Pro AI動画ジェネレーターによる動画例",
+      "description": "Seedance Proで作成された素晴らしい動画の数々をご覧ください。シームレスなシーンの切り替え、滑らかなモーション、そして多様な映画スタイルが特徴です。テキストプロンプトや画像が、ソーシャルメディア、広告、創造的なストーリーテリングに最適な、魅力的な動画クリップへとどのように変換されるかをご確認ください。"
+    },
+    "howToUse": {
+      "title": "Seedance Pro AI動画ジェネレーターの使い方",
+      "steps": [
+        {
+          "title": "画像をアップロード",
+          "content": "アニメーション化したい画像をアップロードしてください。写真、アニメキャラクター、創造的なアイデアなど、Seedance Proがあらゆる画像に命を吹き込みます。"
+        },
+        {
+          "title": "プロンプトを入力",
+          "content": "ご希望のモーション、スタイル、表現など、AIをガイドするための詳細な指示や好みを入力し、完璧な映画のような効果を実現してください。"
+        },
+        {
+          "title": "動画を生成",
+          "content": "「動画を生成」ボタンをクリックすると、Seedance ProのAIが入力情報に基づいて、プロ品質の動画をインテリジェントに生成します。"
+        },
+        {
+          "title": "ダウンロードして共有",
+          "content": "AIで生成された動画をダウンロードし、ソーシャルメディア、プレゼンテーション、個人的なプロジェクトなどで、シームレスに共有してください。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Seedance Pro AI動画ジェネレーターのメリット",
+      "description": "Seedance Proのパワーを活用して、魅力的なAI主導の動画を容易に作成できます。映画のようなストーリーテリングから多様なスタイルへの対応力まで、創造性を高めながら時間と制作コストを削減します。",
+      "features": [
+        {
+          "title": "映画のようなマルチショットストーリーテリング",
+          "content": "複数の首尾一貫したシーンを含む動画を生成し、ショット間のシームレスな視覚的および物語の流れを保証することで、プロフェッショナルなストーリーテリング体験を実現します。",
+          "icon": "🎥"
+        },
+        {
+          "title": "デュアルモード動画生成",
+          "content": "テキストプロンプトから動画を作成したり、同じ強力なAIモデルで静止画像をアニメーション化したりすることで、クリエイティブプロセスを簡素化します。",
+          "icon": "🔄"
+        },
+        {
+          "title": "リアルで安定したモーション",
+          "content": "微妙な表情やダイナミックな体の動きなど、滑らかで自然なモーションをお楽しみいただけます。ジッターやちらつきなどのアーティファクトも軽減されています。",
+          "icon": "🤖"
+        },
+        {
+          "title": "高忠実度のプロンプトコンプライアンス",
+          "content": "AIは、複数被写体のシーン、カメラアングル、スタイルの好みなどを含む複雑な指示を正確に解釈し、調整された動画を出力します。",
+          "icon": "🎯"
+        },
+        {
+          "title": "多様なビジュアルスタイル",
+          "content": "フォトリアリスティックやアニメーションから、水彩画やクレイアニメーションまで、幅広い美学で動画を制作できます。追加の調整は必要ありません。",
+          "icon": "🎨"
+        },
+        {
+          "title": "高速かつ効率的な制作",
+          "content": "最先端のモデルアクセラレーションを活用して、1分以内に1080p動画を生成し、制作タイムラインを大幅に短縮します。",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Seedance Pro AI動画ジェネレーターに関するFAQ",
+      "description": "プロフェッショナルなAI動画作成のためのSeedance Proの使用に関する、よくある質問への回答です。",
+      "q1": "Seedance Pro AI動画ジェネレーターとは何ですか？",
+      "a1": "Seedance Pro AI動画ジェネレーターは、テキストによる説明と画像から映画品質の動画を作成する高度なAIツールです。マルチショットの物語の一貫性、リアルなモーション、多様な芸術スタイルを兼ね備えています。",
+      "q2": "Seedance Proはどのようにテキストと画像から動画を作成するのですか？",
+      "a2": "深層学習と拡散モデルを使用してプロンプトと画像を解釈し、スムーズなトランジション、安定したモーション、入力に対するスタイルの忠実度を備えたマルチシーン動画を生成します。",
+      "q3": "動画制作にSeedance Proを使用する主な利点は何ですか？",
+      "a3": "Seedance Proは制作時間を短縮し、複雑な物語の流れをサポートし、高解像度の映画のような動画を提供し、多様なスタイルのカスタマイズを可能にするため、映画制作者やコンテンツクリエイターに最適です。",
+      "q4": "Seedance Proの動画は商用利用できますか？",
+      "a4": "はい、Seedance Proで生成された動画は、個人用および商用目的の両方でご利用いただけます。コンテンツの生成に使用するプラットフォームの、特定のライセンス条項をご確認ください。",
+      "q5": "Seedance Proはどのような動画解像度と長さをサポートしていますか？",
+      "a5": "Seedance Proは、ソーシャルメディアやマーケティングコンテンツに最適な、通常最大5〜12秒の再生時間オプションで、480pおよび1080p HDの動画を生成します。",
+      "q6": "Seedance Proはさまざまなビジュアルスタイルをサポートしていますか？",
+      "a6": "はい、フォトリアリズム、アニメ、レトロシネマ、水彩画など、プロンプトの微調整を必要とせずに、複数の映画および芸術スタイルをサポートしています。",
+      "q7": "Seedance Proを使用するには、技術的な経験が必要ですか？",
+      "a7": "事前の動画編集経験は必要ありません。インターフェースはユーザーフレンドリーで、プロンプトの入力と動画生成の手順を簡単に案内します。",
+      "q8": "Seedance Proにはどのような制限がありますか？",
+      "a8": "Seedance Proは強力なツールですが、非常に複雑なシーンや非常に長い物語における一貫したスタイルには、追加の調整が必要になる場合があります。高解像度で複雑な動画ほど、より多くの計算リソースを必要とします。"
+    }
+  },
+  "originalKeyword": "Seedance Pro AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "モデル：Seedance Pro",
+      "description": "Prompt: The man on the left presses his lips tightly together, his face etched with fury and resolve. Every line of his expression radiates both profound frustration and unshakable conviction. Meanwhile, the other man's jaw hangs open—poised as if to erupt into a shout or impassioned declaration.",
+      "videoUrl": "https://fluximageai.net/generated-models/4e3363f0-35d4-4af0-a0fb-0a61fcd72239.mp4"
+    },
+    {
+      "id": 2,
+      "title": "モデル：Seedance Pro",
+      "description": "Prompt: A cat is playing piano.",
+      "videoUrl": "https://fluximageai.net/generated-models/d4a77f87-afe1-44fa-8d50-4d12656fa4aa.mp4"
+    },
+    {
+      "id": 3,
+      "title": "モデル：Seedance Pro",
+      "description": "Prompt: A cartoon minion Jedi in dark robes, crouching low on a tree branch above a misty swamp. He has two small daggers and glowing yellow eyes under his hood. Silent and mysterious, with soft cinematic lighting and glowing mushrooms nearby.",
+      "videoUrl": "https://fluximageai.net/generated-models/5e666711-bbb7-4f99-b96b-48f271496894.mp4"
+    },
+    {
+      "id": 4,
+      "title": "モデル：Seedance Pro",
+      "description": "Prompt: preocupado por las deudas.",
+      "videoUrl": "https://fluximageai.net/generated-models/acd61a30-7ad9-4d78-a458-52e510735e52.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "SEEDANCE"
+}

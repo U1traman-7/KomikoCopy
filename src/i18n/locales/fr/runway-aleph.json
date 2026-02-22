@@ -1,0 +1,103 @@
+{
+  "title": "Runway Aleph",
+  "description": "Runway Aleph : la technologie révolutionnaire d'IA pour le montage vidéo. Un modèle vidéo contextuel avancé qui modifie, transforme et génère du contenu vidéo professionnel, avec des capacités de génération visuelle multitâche.",
+  "meta": {
+    "title": "Runway Aleph",
+    "description": "Runway Aleph : la technologie révolutionnaire d'IA pour le montage vidéo. Un modèle vidéo contextuel avancé qui modifie, transforme et génère du contenu vidéo professionnel, avec des capacités de génération visuelle multitâche.",
+    "fullDescription": "Découvrez la puissance de pointe de Runway Aleph, le modèle vidéo contextuel révolutionnaire qui redéfinit l'IA dans le montage vidéo. Notre plateforme avancée de génération visuelle multitâche permet une transformation vidéo fluide, une manipulation intelligente des objets, un contrôle dynamique de la caméra et des capacités de montage sans couture. Parfait pour les cinéastes, les créateurs de contenu et les professionnels de la vidéo à la recherche d'outils de montage vidéo IA à la pointe de la technologie, offrant des résultats de qualité professionnelle avec une simplicité conversationnelle.",
+    "keywords": "Runway Aleph, modèle vidéo contextuel, IA de montage vidéo, modifier transformer générer une vidéo, génération visuelle multitâche, éditeur vidéo IA, outil de transformation vidéo, édition IA conversationnelle, montage sans couture, manipulation vidéo, suppression d'objet IA, contrôle de caméra IA, modification du style vidéo, montage vidéo professionnel, génération vidéo IA, post-production vidéo IA, partenaire vidéo créatif, montage vidéo intelligent"
+  },
+  "whatIs": {
+    "title": "Qu'est-ce que Runway Aleph ?",
+    "description": "Runway Aleph représente la prochaine évolution de l'IA dans le montage vidéo - un modèle vidéo contextuel révolutionnaire qui combine la génération visuelle multitâche avec l'intelligence conversationnelle. Cet éditeur vidéo IA avancé transforme des séquences ordinaires grâce à une manipulation intelligente des objets, un contrôle dynamique de la caméra et une modification de style transparente. Contrairement aux outils vidéo traditionnels, Runway Aleph fonctionne comme un partenaire créatif, comprenant le contexte visuel pour offrir des expériences de montage fluides qui modifient, transforment et génèrent du contenu vidéo professionnel sans effort."
+  },
+  "examples": {
+    "title": "Exemples d'utilisation de Runway Aleph",
+    "description": "Découvrez comment Runway Aleph révolutionne la création vidéo grâce à un montage contextuel intelligent et des capacités de génération visuelle multitâche.",
+    "originalVideo": "Vidéo Originale",
+    "generatedOutput": "Résultat Généré",
+    "generateCameraAngles": "Génération d'Angles de Caméra - Générez de nouvelles perspectives et de nouveaux plans de caméra à partir de vos séquences originales grâce à des techniques cinématographiques professionnelles",
+    "generateNextShot": "Génération du Plan Suivant - Créez des plans de suivi fluides qui prolongent votre narration avec une compréhension intelligente de la scène",
+    "styleTransfer": "Transfert de Style - Transformez le style visuel de votre vidéo tout en conservant le mouvement original et l'intégrité du contenu",
+    "changeEnvironment": "Changements d'Environnement - Ajoutez des éléments atmosphériques tels que la pluie, la neige ou des modifications environnementales pour embellir vos scènes",
+    "addThings": "Ajout d'Objets - Intégrez de nouveaux éléments comme des feux d'artifice, des accessoires ou des éléments environnementaux dans des séquences existantes de manière transparente",
+    "removeThings": "Suppression d'Objets - Éliminez les éléments indésirables tels que la fumée, les reflets ou les objets distrayants tout en conservant la continuité de la scène",
+    "generateStyleTransfer": "Transfert de Style - Transformez n'importe quelle vidéo avec l'esthétique souhaitée. Avec Runway Aleph, appliquez facilement n'importe quel style à vos séquences simplement en le demandant.",
+    "generateChangeObject": "Objet de changement - Runway Aleph vous permet de retexturer ou de remplacer entièrement des objets, des sujets et plus encore à partir de vidéos existantes, soit avec une invite texte, soit avec une image de référence de ce que vous souhaitez intégrer dans votre vidéo.",
+    "promptStyleTransfer": "Prompt : Transférer le style de la vidéo",
+    "promptChangeObject": "Prompt : Changer le matériau de la balle en lave",
+    "promptAddRain": "Prompt : Ajouter de la pluie",
+    "promptAddFireworks": "Prompt : Ajouter des feux d'artifice",
+    "promptCameraAngle": "Prompt : Générer un plan moyen entier du sujet",
+    "promptRemoveSmoke": "Prompt : Supprimer la fumée"
+  },
+  "howTo": {
+    "title": "Comment Utiliser Runway Aleph"
+  },
+  "steps": {
+    "step1": {
+      "title": "Téléchargez Votre Séquence",
+      "content": "Importez n'importe quel fichier vidéo (MP4, MOV, AVI) jusqu'à 15 secondes et 50 Mo pour le traitement par Runway Aleph. Les vidéos de plus de 15 secondes sont automatiquement optimisées pour une analyse efficace par le modèle vidéo contextuel."
+    },
+    "step2": {
+      "title": "Analyse Contextuelle",
+      "content": "Runway Aleph analyse vos séquences à l'aide d'algorithmes avancés de génération visuelle multitâche, en extrayant la première image pour établir un contexte visuel pour un montage IA cohérent tout au long de votre vidéo."
+    },
+    "step3": {
+      "title": "Sélectionnez le Mode d'Amélioration",
+      "content": "Choisissez parmi plus de 20 options de transformation intelligentes, notamment la manipulation d'objets, le contrôle de la caméra, la modification du style, ou utilisez des invites conversationnelles avec des images de référence pour des modifications personnalisées par Runway Aleph."
+    },
+    "step4": {
+      "title": "Générez une Vidéo Améliorée",
+      "content": "Runway Aleph transforme vos séquences complètes en utilisant l'intelligence du modèle vidéo contextuel, tout en préservant le mouvement, les expressions et le timing d'origine grâce à une technologie de montage sans couture sophistiquée."
+    }
+  },
+  "benefits": {
+    "title": "Pourquoi Choisir Runway Aleph",
+    "description": "Runway Aleph offre la technologie de modèle vidéo contextuel la plus avancée, avec une génération visuelle multitâche intelligente, un montage IA conversationnel et des résultats de qualité professionnelle."
+  },
+  "features": {
+    "feature1": {
+      "title": "Préservation Intelligente du Mouvement",
+      "content": "Runway Aleph maintient une continuité parfaite du mouvement, des expressions faciales et de la cohérence temporelle tout en appliquant des transformations grâce à une analyse avancée du modèle vidéo contextuel et à une précision de montage sans couture parfaite."
+    },
+    "feature2": {
+      "title": "Plus de 20 Styles Visuels Multitâches",
+      "content": "Accédez à diverses options de transformation, notamment des améliorations cinématographiques, des styles artistiques, la manipulation d'objets et des changements environnementaux. Créez des modifications personnalisées à l'aide d'invites conversationnelles ou d'images de référence avec Runway Aleph."
+    },
+    "feature3": {
+      "title": "Qualité de Sortie Professionnelle",
+      "content": "Générez des vidéos de qualité cinéma avec une génération visuelle multitâche cohérente, des transitions fluides et des résultats sans artefacts grâce au traitement sophistiqué du modèle vidéo contextuel de Runway Aleph."
+    },
+    "feature4": {
+      "title": "Système de Flux de Travail Transparent",
+      "content": "Structure de tarification claire avec des frais distincts pour les phases d'analyse et de génération. Expérimentez avec différentes options d'amélioration sans frais de traitement supplémentaires grâce au système flexible de Runway Aleph."
+    },
+    "feature5": {
+      "title": "Interface IA Conversationnelle",
+      "content": "Flux de travail Runway Aleph intuitif : téléchargez des séquences, appliquez une analyse contextuelle, générez une vidéo améliorée. Aucune expertise technique n'est requise, avec une surveillance de la progression en temps réel et des conseils de montage IA conversationnels."
+    },
+    "feature6": {
+      "title": "Auto-Optimisation Intelligente",
+      "content": "Traitement Runway Aleph intelligent avec optimisation automatique du format, calculs basés sur la durée et gestion intelligente des fichiers pour une génération visuelle multitâche transparente sur tous les formats pris en charge."
+    }
+  },
+  "faq": {
+    "title": "FAQ Runway Aleph",
+    "description": "Informations essentielles sur la technologie de modèle vidéo contextuel de Runway Aleph, les capacités de génération visuelle multitâche et le processus de montage IA conversationnel.",
+    "q1": "Comment fonctionne Runway Aleph ?",
+    "a1": "Runway Aleph utilise une technologie avancée de modèle vidéo contextuel grâce à un traitement intelligent en deux phases : 1) Analyse contextuelle de vos séquences avec une évaluation de la génération visuelle multitâche, 2) Transformation de montage sans couture tout en préservant le mouvement et le timing. Cela garantit un montage IA conversationnel cohérent sur toutes les images.",
+    "q2": "Quels formats vidéo Runway Aleph prend-il en charge ?",
+    "a2": "Runway Aleph prend en charge les formats MP4, MOV et AVI avec une taille de fichier maximale de 50 Mo pour le traitement par le modèle vidéo contextuel. Les vidéos sont limitées à 15 secondes et automatiquement optimisées pour une génération visuelle multitâche efficace et une rentabilité.",
+    "q3": "Combien de temps prend le traitement par Runway Aleph ?",
+    "a3": "La transformation complète par Runway Aleph prend de 5 à 10 minutes : analyse contextuelle (1 à 3 minutes) et génération visuelle multitâche (3 à 7 minutes). Surveillez la progression du montage IA conversationnel en temps réel grâce à notre interface intelligente.",
+    "q4": "Quels sont les détails de tarification de Runway Aleph ?",
+    "a4": "Frais distincts pour l'analyse contextuelle et la génération vidéo en fonction de la durée. Les coûts de Runway Aleph sont affichés de manière transparente avant le traitement, et les crédits ne sont déduits qu'une fois la génération visuelle multitâche terminée avec succès.",
+    "q5": "Puis-je créer des transformations personnalisées avec Runway Aleph ?",
+    "a5": "Absolument ! Choisissez parmi plus de 20 modèles prédéfinis, rédigez des invites conversationnelles ou téléchargez des images de référence pour une génération visuelle multitâche unique grâce à la technologie de modèle vidéo contextuel de Runway Aleph.",
+    "q6": "Qu'est-ce qui permet d'obtenir des résultats optimaux avec Runway Aleph ?",
+    "a6": "La meilleure génération visuelle multitâche est obtenue avec des sujets clairs, un éclairage adéquat, un mouvement stable et des caractéristiques bien définies. Évitez les mouvements rapides ou les séquences sombres pour un traitement optimal par le modèle vidéo contextuel de Runway Aleph. Les séquences de moins de 5 secondes avec des sujets distincts fonctionnent exceptionnellement bien."
+  },
+  "metaTitle": "Runway Aleph",
+  "keywords": "Runway Aleph, modèle vidéo Aleph, modèle vidéo contextuel, Runway Aleph IA, génération visuelle multitâche, édition vidéo avancée, mode chat Runway Aleph, manipulation vidéo IA, génération de vidéos par IA, montage vidéo à vidéo, effets vidéo IA, outil de transformation vidéo, traitement vidéo IA"
+}

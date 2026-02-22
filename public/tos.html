@@ -1,0 +1,689 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>KomikoAI Terms of Service</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.collection-content td {
+	white-space: pre-wrap;
+	word-break: break-word;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+	margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+blockquote.quote-large {
+	font-size: 1.25em;
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(44, 44, 43, 1);
+}
+.highlight-gray {
+	color: rgba(128, 125, 120, 1);
+	fill: rgba(128, 125, 120, 1);
+}
+.highlight-brown {
+	color: rgba(159, 118, 90, 1);
+	fill: rgba(159, 118, 90, 1);
+}
+.highlight-orange {
+	color: rgba(204, 121, 47, 1);
+	fill: rgba(204, 121, 47, 1);
+}
+.highlight-yellow {
+	color: rgba(195, 148, 67, 1);
+	fill: rgba(195, 148, 67, 1);
+}
+.highlight-teal {
+	color: rgba(80, 148, 110, 1);
+	fill: rgba(80, 148, 110, 1);
+}
+.highlight-blue {
+	color: rgba(63, 126, 190, 1);
+	fill: rgba(63, 126, 190, 1);
+}
+.highlight-purple {
+	color: rgba(154, 107, 180, 1);
+	fill: rgba(154, 107, 180, 1);
+}
+.highlight-pink {
+	color: rgba(179, 84, 136, 1);
+	fill: rgba(179, 84, 136, 1);
+}
+.highlight-red {
+	color: rgba(201, 85, 73, 1);
+	fill: rgba(201, 85, 73, 1);
+}
+.highlight-default_background {
+	color: rgba(44, 44, 43, 1);
+}
+.highlight-gray_background {
+	background: rgba(42, 28, 0, 0.07);
+}
+.highlight-brown_background {
+	background: rgba(139, 46, 0, 0.086);
+}
+.highlight-orange_background {
+	background: rgba(224, 101, 1, 0.129);
+}
+.highlight-yellow_background {
+	background: rgba(211, 168, 0, 0.137);
+}
+.highlight-teal_background {
+	background: rgba(0, 100, 45, 0.09);
+}
+.highlight-blue_background {
+	background: rgba(0, 111, 200, 0.09);
+}
+.highlight-purple_background {
+	background: rgba(102, 0, 178, 0.078);
+}
+.highlight-pink_background {
+	background: rgba(197, 0, 93, 0.086);
+}
+.highlight-red_background {
+	background: rgba(223, 22, 0, 0.094);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(128, 125, 120, 1);
+	fill: rgba(128, 125, 120, 1);
+}
+.block-color-brown {
+	color: rgba(159, 118, 90, 1);
+	fill: rgba(159, 118, 90, 1);
+}
+.block-color-orange {
+	color: rgba(204, 121, 47, 1);
+	fill: rgba(204, 121, 47, 1);
+}
+.block-color-yellow {
+	color: rgba(195, 148, 67, 1);
+	fill: rgba(195, 148, 67, 1);
+}
+.block-color-teal {
+	color: rgba(80, 148, 110, 1);
+	fill: rgba(80, 148, 110, 1);
+}
+.block-color-blue {
+	color: rgba(63, 126, 190, 1);
+	fill: rgba(63, 126, 190, 1);
+}
+.block-color-purple {
+	color: rgba(154, 107, 180, 1);
+	fill: rgba(154, 107, 180, 1);
+}
+.block-color-pink {
+	color: rgba(179, 84, 136, 1);
+	fill: rgba(179, 84, 136, 1);
+}
+.block-color-red {
+	color: rgba(201, 85, 73, 1);
+	fill: rgba(201, 85, 73, 1);
+}
+.block-color-default_background {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray_background {
+	background: rgba(240, 239, 237, 1);
+}
+.block-color-brown_background {
+	background: rgba(245, 237, 233, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 235, 222, 1);
+}
+.block-color-yellow_background {
+	background: rgba(249, 243, 220, 1);
+}
+.block-color-teal_background {
+	background: rgba(232, 241, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(232, 242, 250, 1);
+}
+.block-color-purple_background {
+	background: rgba(243, 235, 249, 1);
+}
+.block-color-pink_background {
+	background: rgba(250, 233, 241, 1);
+}
+.block-color-red_background {
+	background: rgba(252, 233, 231, 1);
+}
+.select-value-color-default { background-color: rgba(42, 28, 0, 0.07); }
+.select-value-color-gray { background-color: rgba(28, 19, 1, 0.11); }
+.select-value-color-brown { background-color: rgba(127, 51, 0, 0.156); }
+.select-value-color-orange { background-color: rgba(196, 88, 0, 0.203); }
+.select-value-color-yellow { background-color: rgba(209, 156, 0, 0.282); }
+.select-value-color-green { background-color: rgba(0, 96, 38, 0.156); }
+.select-value-color-blue { background-color: rgba(0, 99, 174, 0.172); }
+.select-value-color-purple { background-color: rgba(92, 0, 163, 0.141); }
+.select-value-color-pink { background-color: rgba(183, 0, 78, 0.152); }
+.select-value-color-red { background-color: rgba(206, 24, 0, 0.164); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="273ecbf4-9fb7-8022-be36-df43fef82e18" class="page sans"><header><h1 class="page-title"><strong>KomikoAI Terms of Service</strong></h1><p class="page-description"></p></header><div class="page-body"><p id="276ecbf4-9fb7-808e-a2e1-c8f77db424d0" class="">Last updated Sep 22, 2025</p><h2 id="273ecbf4-9fb7-80a1-946a-ff3db57c7e20" class=""><strong>1. Terms</strong></h2><p id="273ecbf4-9fb7-807b-8104-c0597d8273e3" class=""><mark class="highlight-default_background">1.1 This document constitutes the terms of service between end-users of the KomikoAI website and the KomikoAI software application. &#x27;KomikoAI&#x27; is used to refer to the KomikoAI website, the KomikoAI software application, and its provided service(s) for the remainder of this document.</mark></p><p id="273ecbf4-9fb7-8040-9246-ff5a25a93be9" class="">1.2 These terms must be adhered to by all users of the KomikoAI content generation and posting service and are agreed upon during account creation.</p><p id="273ecbf4-9fb7-8045-a630-de7f0b07b13f" class="">1.3 If you do not agree to these terms, you must not use KomikoAI&#x27;s service, and you must delete your account if you have already created one.</p><p id="273ecbf4-9fb7-806b-8ec0-e127bb962966" class="">1.4 If you have any questions about these terms, please email us at <a href="mailto:contact@komiko.app">contact@komiko.app</a></p><h2 id="273ecbf4-9fb7-80dc-99b2-fe4eedb21260" class=""><strong>2. KomikoAI Accounts and Provided Services</strong></h2><p id="273ecbf4-9fb7-8082-b9e3-d0e3b66a6f66" class="">2.1 An account is required to access all the AI tools provided on KomikoAI (i.e., Anime Art Generator, Image Playground, Line Art Colorization, Sketch Simplification, Image to Animation, Video to Video, AI Comic Generator) as well as the community posting function of KomikoAI.</p><p id="273ecbf4-9fb7-80dc-8ee7-c1f182cfc620" class=""><mark class="highlight-default_background">2.2 You must be 18 years or older and be capable of entering into a legal contract to use KomikoAI.</mark></p><p id="273ecbf4-9fb7-80b8-9776-fece2a2ec8ed" class="">2.3 You may not share an account with any other person or entity; nor should you transfer your account ownership to another person or entity; you must keep your account information reasonably secure.</p><p id="273ecbf4-9fb7-8065-a929-c6a2a0df9a16" class="">2.4 You are responsible for all actions and requests that your account performs, and must ensure that they do not violate these terms.</p><p id="273ecbf4-9fb7-80a9-a2e0-cfbbc329eb4a" class="">2.5 Your account may be terminated at any time for violation of these terms.</p><p id="273ecbf4-9fb7-80ec-9c13-f9fa8ed9aab4" class="">2.6 If your account is terminated, there is no guarantee of future availability of your data nor of a refund for any purchases or subscriptions you may have made.</p><p id="273ecbf4-9fb7-8039-a71c-c700d30fbb44" class="">2.7 KomikoAI strives to ensure its services have high reliability and support as many clients as possible. However, KomikoAI makes no guarantee of continuous availability or uninterrupted uptime. KomikoAI may be integrated with, or may otherwise interact with, third-party applications, websites, and services. Your use of such Third-Party Applications and Services may be subject to additional terms, conditions, and policies provided to you by the applicable third party. KomikoAI does not guarantee that Third-Party Applications and Services will be compatible with the KomikoAI Service. You understand and agree that you use the KomikoAI service and its generated content at your own risk. To the maximum extent permitted by applicable law, KomikoAI shall not be liable for any indirect, incidental, special, punitive, or consequential damages arising from the use of its services.</p><p id="273ecbf4-9fb7-8002-b901-da5b5303a527" class="">2.8 KomikoAI reserves the right to change these terms of service at any time. If we make any material changes, we will notify you through a notice on our website, a message within the application, or an email. Your continued use of the service after a change to these terms constitutes your acceptance of the revised terms.</p><h2 id="273ecbf4-9fb7-80d1-aa81-f8f6bbfe89e6" class=""><strong>3. Account Purchases and Subscriptions</strong></h2><p id="273ecbf4-9fb7-8029-a32e-f5d8354566b2" class="">3.1 Account purchases and subscriptions allow users to acquire KomikoAI credits (&quot;zaps&quot;), a type of virtual credit, through one-time purchases or ongoing subscriptions (monthly or yearly plans). These credits and subscriptions unlock a range of premium functionalities (&quot;Membership Services&quot;) exclusively available to users with active subscriptions or sufficient zaps.</p><p id="273ecbf4-9fb7-80e7-af3d-da108331f391" class="">3.2 Credits may only be used for the purpose of using services on KomikoAI.</p><p id="273ecbf4-9fb7-8045-b09b-e76d6663bf2b" class="">3.3 Credits are not redeemable for cash or for any other goods or services.</p><p id="276ecbf4-9fb7-80e8-a561-cdd0d29b160f" class="">3.4 Credits may not be transferred or assigned to any other user, except through features expressly made available by KomikoAI (such as gifting or transfers) and subject to any applicable limits and policies.</p><p id="273ecbf4-9fb7-8080-bd9c-e53fe42d7077" class="">3.5 All purchases are final and non-refundable, unless otherwise required by applicable law (such as EU consumer protection laws) or in the event of a service malfunction on KomikoAI’s part that prevents you from using your purchase. We reserve the right to suspend or terminate accounts for repeated or unjustified refund requests or attempts to abuse our refund policy, at our sole discretion.</p><p id="273ecbf4-9fb7-8008-ab89-c1555a657f89" class="">3.6 You may terminate your subscription at any time by logging into your account or contacting us directly. If you terminate your subscription, your subscription will not be renewed starting from the next billing period, and your access to Membership Services will be active until the expiration of your subscription. If you believe your subscription was canceled in error or encounter any issues related to your membership status, please contact our support team at <a href="mailto:contact@komiko.app">contact@komiko.app</a> to request a review. We will make reasonable efforts to investigate and respond to your appeal promptly.</p><p id="273ecbf4-9fb7-80f3-882c-c634aed065c3" class="">3.7 Upon the expiry or termination of your subscription, any unused credits granted under the subscription will expire and be removed from your account. Credits purchased separately on a one-time basis are not affected and will remain available for use without expiration.</p><p id="273ecbf4-9fb7-8039-b78e-d6d8efd64b92" class="">3.8 In the event of non-payment on the renewal date, we may suspend or terminate your access to KomikoAI’s Membership Services in our discretion, subject to applicable law and our platform policies. Termination of Membership Services will not affect your access to any credits previously carried over to your account, which will remain available for use in accordance with our Credit Policy.</p><p id="276ecbf4-9fb7-80e2-8e76-c3a6850c2f34" class="">3.9 Due to the policies of third-party payment providers, access to certain payment methods or features (including NSFW-related features) may be restricted. KomikoAI reserves the right to suspend or limit NSFW services if required by payment providers or applicable law, and to suspend, limit, or adjust payment options without prior notice if required by external payment processors.</p><h2 id="273ecbf4-9fb7-804b-b0e3-c1533866c56b" class=""><strong>4. Generated Content</strong></h2><p id="276ecbf4-9fb7-80f1-a73a-ea4cbc3f239a" class="">4.1 KomikoAI makes no claim to ownership of the AI-generated content you create using our services. Subject to applicable law and any third-party rights in underlying inputs or materials, you may use, reproduce, display, and distribute such AI-generated content for any lawful purpose.</p><p id="273ecbf4-9fb7-80d6-a3f6-d8528a2d6076" class="">4.2 AI model output may sometimes be unpredictable and is not guaranteed to match the input prompt nor to be of any given nature or quality.</p><p id="273ecbf4-9fb7-8070-be31-f1b5b25c0c97" class="">4.3 Do not attempt to generate content that is illegal in your legal jurisdiction or within your country or district of residence.</p><p id="273ecbf4-9fb7-803b-9d2f-dbca0a6f8571" class="">4.4 Do not access our generation service via any means other than the KomikoAI website or our software application. If you are interested in API access, please email us at <a href="mailto:contact@komiko.app">contact@komiko.app</a>.</p><p id="273ecbf4-9fb7-8001-8aa5-d77addfca7cc" class="">4.5 Do not use generated content as a substitute for any licensed profession, including but not limited to legal advice, financial advice, medical advice, or any other professional service or advice.</p><p id="276ecbf4-9fb7-80bd-ab11-c2defdb078ee" class="">4.6 KomikoAI uses automated AI models to generate content. Outputs are not guaranteed to be accurate, lawful, or original. You acknowledge that AI-generated content may unintentionally resemble or replicate existing works or produce inappropriate material. KomikoAI disclaims liability for such outcomes.</p><h2 id="276ecbf4-9fb7-8096-a6e1-c5c1b1764ea3" class="">5. Copyright Policy</h2><p id="276ecbf4-9fb7-80d0-ac2f-da63aae9e1f1" class="">KomikoAI respects the intellectual property rights of others and expects users to do the same.</p><ul id="276ecbf4-9fb7-802e-9822-e7a076e4e451" class="bulleted-list"><li style="list-style-type:disc">Users must not upload or generate any content that infringes third-party copyrights, trademarks, or proprietary rights.</li></ul><ul id="276ecbf4-9fb7-80c9-9d36-e66935b74713" class="bulleted-list"><li style="list-style-type:disc">Users acknowledge that they are solely responsible for ensuring their use of KomikoAI does not infringe third-party rights, and agree to indemnify KomikoAI for any claims arising from such infringement.</li></ul><ul id="276ecbf4-9fb7-8076-a0c3-df72b809dc31" class="bulleted-list"><li style="list-style-type:disc">KomikoAI operates under a notice-and-takedown framework similar to the Digital Millennium Copyright Act (DMCA). If you believe your rights are infringed, please contact <a href="mailto:contact@komiko.app">contact@komiko.app</a> with sufficient details, and we will remove or disable the infringing content promptly.</li></ul><ul id="276ecbf4-9fb7-803c-b5c4-d326a3659cfb" class="bulleted-list"><li style="list-style-type:disc">KomikoAI disclaims liability for user-generated content but will cooperate with rights holders in addressing infringement claims.</li></ul><p id="8b0bd6d2-47c0-431d-90e4-6703fac6e45a" class=""><strong>Designated Agent (DMCA):</strong></p><p id="d51409f0-e5af-4d8e-ac3c-26e26232c210" class="">Name: Sophia H</p><p id="1c17711f-582f-4b6f-8ff0-c43dbf59c924" class="">Address: 2261 Market Street, STE 86040, San Francisco, CA 94114</p><p id="a4b42b7c-f770-4219-a298-b5d477a23b02" class="">Email: <a href="mailto:dmca@komiko.app">dmca@komiko.app</a> </p><p id="c02859eb-e7bc-4e78-8708-c67dcdc6ad40" class="">To submit a notification under 17 U.S.C. §512(c)(3), please include: (a) your physical or electronic signature; (b) identification of the copyrighted work claimed to have been infringed (or a representative list); (c) identification of the material claimed to be infringing and information reasonably sufficient to permit us to locate the material; (d) your contact information; (e) a statement that you have a good-faith belief that use of the material is not authorized; and (f) a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the owner.</p><h2 id="273ecbf4-9fb7-80a8-8936-f6a7462c02fc" class=""><strong>6. Shared Content</strong></h2><p id="273ecbf4-9fb7-8086-9c43-ce4b0fb09321" class="">6.1 You are solely responsible for the Content you post, publish, display, or otherwise make available on KomikoAI, and for any action or omission that results from your use of KomikoAI and our services (including our Content or other users’ Content), or the use by a person or an entity that you have authorized under your account.</p><p id="273ecbf4-9fb7-8077-a230-cb5f89ce1cba" class="">6.2 You represent and warrant that you have ownership, control, and responsibility for the Content you post or otherwise make available on KomikoAI, or otherwise have the right to do so.</p><p id="273ecbf4-9fb7-80af-884c-d402017c0082" class="">6.3 Your Content must not be misleading or unlawful, and must not violate any of these Terms, applicable law and regulation, or infringe or misappropriate any rights of any person or entity. We may remove your Content at any time, at our sole discretion, if we have concerns about your Content.</p><p id="273ecbf4-9fb7-8026-b9f7-e8d6e4790523" class="">6.4 By posting or otherwise making your Content available on KomikoAI, you acknowledge and agree that:</p><ul id="276ecbf4-9fb7-800d-bea7-d772804ae82e" class="bulleted-list"><li style="list-style-type:disc">a. You own the Content you create, but you grant us a worldwide, royalty-free, and non-exclusive license to use, reproduce, modify, display, and publish such Content for the purposes of providing the Services, improving the Services, and as otherwise permitted under these Terms and our Privacy Policy.</li></ul><ul id="276ecbf4-9fb7-808f-b3ae-f47a4989bc14" class="bulleted-list"><li style="list-style-type:disc">b. When Content contains a reasonable and customary license notice (such as an open-source license), such Content should remain under the terms of that license when further accessed, distributed, or used. Neither party is permitted to remove reference to any such license.</li></ul><p id="273ecbf4-9fb7-80d1-aa30-dde670073105" class="">6.5 By uploading a file, image, or other content to KomikoAI, you represent and warrant to us that:</p><p id="273ecbf4-9fb7-80eb-ace5-e97ebba6b27f" class="">(1) doing so does not violate or infringe anyone else&#x27;s rights; and (2) you created the file or other content you are uploading, or otherwise have sufficient intellectual property rights to upload the material consistent with these terms.</p><p id="273ecbf4-9fb7-8030-88d7-dbc0f465ea07" class="">6.6 You are solely responsible for the Content you upload, publish, or share. We do not assert any ownership over your uploaded or published content. You retain full ownership of all of your uploaded content and any intellectual property rights or other proprietary rights associated with your content. KomikoAI is not liable for the legality or accuracy of any statements or representations in your content. You expressly agree to indemnify and hold KomikoAI harmless from any claims or disputes arising from your Content.</p><p id="273ecbf4-9fb7-80fe-8f69-e07f4c849196" class="">6.7 You agree that any Content you download, access, or use from us or another User is at your own risk and subject to these Terms and/or the terms accompanying such Content.</p><h2 id="273ecbf4-9fb7-80b3-8967-e21c12618c4b" class=""><strong>7. Use of Content</strong></h2><p id="273ecbf4-9fb7-80ad-8809-cd58c77b3a08" class="">7.1 By downloading a file or image or copying other user-generated content (UGC) from KomikoAI, you agree that you do not claim any rights to it, and that any Content you download, access, or use from us or another User is at your own risk and subject to KomikoAI&#x27;s terms and the specific terms provided by the content creator accompanying such Content.</p><p id="273ecbf4-9fb7-804e-87d6-e110b62fad6a" class="">7.2 Risk and Warranty: Your use of UGC is at your own risk. KomikoAI makes no warranties of non-infringement, and you will indemnify and hold KomikoAI harmless from any copyright infringement claims arising out of your use of the UGC.</p><p id="273ecbf4-9fb7-80d1-933d-fe0c84783daf" class="">7.3 When Content contains notice of a reasonable and customary license (such as an open-source license), such Content is intended to remain under the terms of such license when further accessed, distributed, or used.</p><h2 id="273ecbf4-9fb7-806a-ac1d-fab50c375997" class="">8. <strong>NSFW Content</strong></h2><p id="273ecbf4-9fb7-808f-bef2-e682ee84df45" class="">8.1 Access to NSFW (Not Safe For Work) content on KomikoAI is strictly restricted to users who are 18 years of age or older. By using the Service, you confirm that you are legally permitted to view and interact with NSFW content based on the laws of your jurisdiction.</p><p id="273ecbf4-9fb7-8077-958b-f1b89eccd326" class="">8.2 Compliance with Applicable Laws: KomikoAI is committed to ensuring compliance with all applicable laws regarding the creation, sharing, and viewing of adult or NSFW content. This includes, but is not limited to, compliance with laws related to obscenity, pornography, child sexual abuse material (CSAM), and other related content. You are responsible for ensuring that any content you create or share complies with these laws.</p><p id="273ecbf4-9fb7-8054-bd50-ff2a572e6de2" class="">8.3 Content Moderation and Reporting: We implement both AI-driven and human moderation systems to prevent the creation or sharing of illegal, harmful, or inappropriate content, including, but not limited to, content involving minors, non-consensual acts, or content that violates intellectual property rights. Any such content will be immediately removed, and the responsible user’s account may be suspended or terminated. Where legally required, KomikoAI may preserve evidence and report apparent child sexual abuse material (CSAM) to the National Center for Missing &amp; Exploited Children (NCMEC) and/or law enforcement.</p><p id="273ecbf4-9fb7-800d-9f13-edae7322d9f4" class="">8.4 Prohibited Content: You may not upload, create, or distribute any content that:<div class="indented"><ul id="273ecbf4-9fb7-80ac-8f0c-d22e5058838d" class="bulleted-list"><li style="list-style-type:disc">Depicts or implies minors in sexual or suggestive situations.</li></ul><ul id="273ecbf4-9fb7-807f-80a0-e0d6ac20aa35" class="bulleted-list"><li style="list-style-type:disc">Violates local, national, or international laws or regulations.</li></ul><ul id="273ecbf4-9fb7-80fd-85db-e45d6cadeea7" class="bulleted-list"><li style="list-style-type:disc">Infringes upon the intellectual property rights of others, including the rights of third-party artists, authors, and creators.</li></ul><ul id="273ecbf4-9fb7-8053-9abe-dd45e88d7f14" class="bulleted-list"><li style="list-style-type:disc">Promotes illegal or harmful activities.</li></ul></div></p><p id="273ecbf4-9fb7-8068-951f-e70b11361a5d" class="">8.5 Liability for Illegal Content: You acknowledge and agree that you are solely responsible for any content you create, upload, or share through the Service. KomikoAI will take reasonable measures to prevent the creation and distribution of illegal content, including, but not limited to, child sexual abuse material (CSAM). In the event that illegal content is discovered, KomikoAI reserves the right to cooperate with law enforcement authorities and take necessary legal actions. KomikoAI disclaims liability for content generated by users that violates these Terms or applicable laws. KomikoAI may preserve and disclose information as required by law, including preservation for investigations related to CSAM or other illegal content.</p><p id="276ecbf4-9fb7-8036-9778-ef125d64ecc1" class="">8.6 Age Verification: KomikoAI reserves the right to require additional verification of your age (such as government-issued ID or payment card validation) before granting access to NSFW content. Users who cannot provide sufficient proof of age will be denied access to NSFW areas.</p><h2 id="273ecbf4-9fb7-80f6-8d26-c27a7fd8e961" class=""><strong>9. User Data and Data Security</strong></h2><p id="273ecbf4-9fb7-8084-b656-c98c6c2630e9" class="">9.1 KomikoAI stores basic user information during your use of our service.</p><p id="273ecbf4-9fb7-80e4-ab3a-d26ea3c3b9e9" class="">9.2 To learn more about what data is stored and your rights with respect to that data, please see our <a href="https://komiko.app/privacy">Privacy Policy</a>.</p><p id="273ecbf4-9fb7-80ee-86b0-fade25724443" class="">9.3 Your usage of KomikoAI also constitutes knowledge of, and agreement to, this privacy policy, as well as these terms.</p><h2 id="273ecbf4-9fb7-8084-9f3c-d51534134a4c" class=""><strong>10. Restrictions of Conduct and Content</strong></h2><p id="273ecbf4-9fb7-80e3-ad46-dffe11919e3c" class="">10.1 In accessing and using KomikoAI, you agree to abide by the following rules, restrictions, and limitations:</p><ul id="273ecbf4-9fb7-806e-b4b0-d11d0bc3413e" class="bulleted-list"><li style="list-style-type:disc">a. You will not modify, translate, adapt or reformat KomikoAI;</li></ul><ul id="273ecbf4-9fb7-803f-beda-ec67269891ba" class="bulleted-list"><li style="list-style-type:disc">b. You will not decipher, decompile, disassemble, or reverse-engineer, or otherwise attempt to discover the source code or structure of, the software or materials comprising KomikoAI</li></ul><ul id="273ecbf4-9fb7-80af-a728-c8f8d388517f" class="bulleted-list"><li style="list-style-type:disc">c. You will not interfere with or circumvent any security feature of the KomikoAI or any feature that restricts or enforces limitations on the use of KomikoAI.</li></ul><ul id="273ecbf4-9fb7-8054-8f1a-c71a99a65d2e" class="bulleted-list"><li style="list-style-type:disc">d. You will not use KomikoAI to gain unauthorized access to our or any third party&#x27;s data, systems or networks;</li></ul><ul id="273ecbf4-9fb7-80b3-a774-de9f664a9214" class="bulleted-list"><li style="list-style-type:disc">e. You will not use KomikoAI in any manner that could damage, disable, overburden, impair or otherwise interfere with or disrupt our systems and networks, or otherwise interfere with other users&#x27; use of the KomikoAI;</li></ul><ul id="273ecbf4-9fb7-8068-a187-f60151bb0943" class="bulleted-list"><li style="list-style-type:disc">f. You will not use KomikoAI in any way that, in our sole discretion, may expose us and others to liability or damages;</li></ul><ul id="273ecbf4-9fb7-801c-be04-d7615da776e9" class="bulleted-list"><li style="list-style-type:disc">g. You will not remove, change or obscure any copyright, trademark notice, trademark, hyperlink or other proprietary rights notices contained in KomikoAI;</li></ul><ul id="273ecbf4-9fb7-80e2-a900-e31f5fd62e7a" class="bulleted-list"><li style="list-style-type:disc">h. You will comply with all applicable laws in your access and use of KomikoAI, including the laws of your country or district; and</li></ul><ul id="273ecbf4-9fb7-80ab-b5ea-cd78a89664c2" class="bulleted-list"><li style="list-style-type:disc">i. You will ensure that other users have predictable experiences on KomikoAI by properly using the NSFW tag system to label any of your content that is graphic, sexually-explicit, lewd, indecent, or otherwise objectionable.</li></ul><p id="273ecbf4-9fb7-8013-9049-f375028679f7" class="">10.2 You shall not upload, share, or otherwise transmit to or via the Services any content that:</p><ul id="273ecbf4-9fb7-809b-813e-d7400136b0c5" class="bulleted-list"><li style="list-style-type:disc">a. is unlawful, harmful, libelous, defamatory, abusive, racially or ethnically offensive, harassing, threatening, invasive of personal privacy or publicity rights, misleading, or otherwise objectionable;</li></ul><ul id="273ecbf4-9fb7-80a5-bb45-ff026dbf102c" class="bulleted-list"><li style="list-style-type:disc">b. would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or otherwise create liability or violate any local, state, national or international law;</li></ul><ul id="273ecbf4-9fb7-80e7-bfd8-d83ef9123c3b" class="bulleted-list"><li style="list-style-type:disc">c. may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any third party;</li></ul><ul id="273ecbf4-9fb7-80d7-8e8c-fff55356be4c" class="bulleted-list"><li style="list-style-type:disc">d. contains any unsolicited promotions, political campaigning, advertising or solicitations;</li></ul><ul id="273ecbf4-9fb7-80eb-a519-cd2fe1e3f8c9" class="bulleted-list"><li style="list-style-type:disc">e. contains any private or personal information of a third party without such third party&#x27;s consent;</li></ul><ul id="273ecbf4-9fb7-80ad-9e60-ff52936df32e" class="bulleted-list"><li style="list-style-type:disc">f. may harm or exploit children by exposing them to inappropriate content, asking for personally identifiable details or otherwise;</li></ul><ul id="273ecbf4-9fb7-8045-9039-c97d7a6d69b3" class="bulleted-list"><li style="list-style-type:disc">g. contains any viruses, corrupted data or other harmful, disruptive or destructive files or content, designed to interrupt, destroy or limit the functionality of KomikoAI;</li></ul><ul id="273ecbf4-9fb7-80cc-b785-d5db6e8918f7" class="bulleted-list"><li style="list-style-type:disc">h. contains any information or content that you do not have a right to make available under any law or under contractual or fiduciary relationships (e.g., inside information, confidential information received in the context of an employment or a non-disclosure agreement); or</li></ul><ul id="273ecbf4-9fb7-8032-8fc7-e1fe01646ad5" class="bulleted-list"><li style="list-style-type:disc">i. is in our sole judgment, objectionable or that restricts or inhibits any other person from using or enjoying our Services, or that may expose us or others to any harm or liability of any type.</li></ul><ul id="273ecbf4-9fb7-8028-85b0-f3eec2fe2974" class="bulleted-list"><li style="list-style-type:disc">j. Duplicated content or content falsely labeled as having been created, endorsed, or trained by another creator, or impersonates another creator on the site.</li></ul><p id="273ecbf4-9fb7-8030-8c25-f7aa972ca1bb" class="">10.3 In the case where your API calls exceed normal operation and/or disrupt KomikoAI’s functionality, KomikoAI may put a temporary or long-term ban on your account. KomikoAI reserves the right to determine, at our sole discretion, whether your API calls have exceeded normal operation and/or caused disruption to KomikoAI’s functionality.</p><p id="273ecbf4-9fb7-8072-a1d5-c1b98234ed73" class="">10.4 KomikoAI reserves the right, but is not obligated, to remove any user content and/or ban the accounts that we believe, in our sole discretion, violate these provisions. If you have noticed any violation of these Terms from your perspective, content of any nature whatsoever, please contact us at: <a href="mailto:contact@komiko.app">contact@komiko.app</a> or directly report on KomikoAI.</p><h2 id="273ecbf4-9fb7-800a-b371-d45667099e2b" class=""><strong>11. International Use &amp; Compliance</strong></h2><p id="276ecbf4-9fb7-809d-870f-e24200e1e977" class="">KomikoAI makes no representation that the Service is appropriate or lawful for use in all jurisdictions. Accessing or using KomikoAI where it is illegal is strictly prohibited.</p><ul id="276ecbf4-9fb7-8063-9bf8-d7726ae0e874" class="bulleted-list"><li style="list-style-type:disc">Users are solely responsible for complying with the laws of their country or jurisdiction.</li></ul><ul id="276ecbf4-9fb7-8082-903c-cb2f49c81f80" class="bulleted-list"><li style="list-style-type:disc">If NSFW content or AI-generated content is unlawful in your location, you must not use KomikoAI for such purposes.</li></ul><ul id="276ecbf4-9fb7-80cc-bd69-e2cadf4c7078" class="bulleted-list"><li style="list-style-type:disc">KomikoAI disclaims all liability for violations of local laws by users accessing the Service from outside the United States.</li></ul><h2 id="dc4f1c19-49d4-4dab-94d1-1e885d5204d8" class="">12. Liability</h2><p id="ce7d9b87-956a-4a1e-b7a7-644ab0c7b6f2" class="">THE KOMIKOAI SERVICES ARE PROVIDED TO YOU ON AN &quot;AS-IS&quot; AND &quot;AS AVAILABLE&quot; BASIS, AND THE USE THEREOF IS AT YOUR SOLE RISK. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE NO, AND HEREBY DISCLAIM, ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY, NONINFRINGEMENT, AND TITLE.</p><p id="9e1a25c7-f28e-4fc9-8b29-ad53fc304ca1" class="">WE DO NOT WARRANT THAT:<br/>A. KOMIKOAI (OR THE RESULTS OBTAINED FROM THE USE THEREOF) WILL BE TIMELY, ERROR-FREE, SECURE, OR UNINTERRUPTED;<br/>B. KOMIKOAI WILL MEET YOUR REQUIREMENTS; OR<br/>C. THE ACCURACY, LIKELY RESULTS, OR RELIABILITY OF THE USE OF THE MATERIALS IN KOMIKOAI OR ON OUR WEBSITE, OR OTHERWISE RELATING TO SUCH MATERIALS OR ON ANY RESOURCES LINKED TO OUR WEBSITE.<br/>D. ANY ERRORS OR MALFUNCTIONS ON KOMIKOAI&#x27;S WEBSITE OR APP WILL BE CORRECTED.</p><p id="ee3711e2-e0d0-495d-b208-7adb7b3b30d8" class="">TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE SHALL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, LIQUIDATED OR PUNITIVE DAMAGES OR ANY OTHER DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFIT, REVENUE OR BUSINESS, COST OF SUBSTITUTE PROCUREMENT, ARISING IN WHOLE OR IN PART FROM YOUR USE OF (OR INABILITY TO USE) KOMIKOAI, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. UNDER NO CIRCUMSTANCES SHALL WE BE HELD LIABLE FOR ANY DELAY OR FAILURE IN PERFORMANCE RESULTING DIRECTLY OR INDIRECTLY FROM ANY CAUSES BEYOND ITS REASONABLE CONTROL.</p><p id="1d871915-a72d-4dfb-9c7b-756f95fef55a" class=""><strong>Aggregate Cap.</strong> To the extent liability is not otherwise excluded or limited, our total aggregate liability arising out of or relating to these Terms shall not exceed the greater of (i) the amounts you paid to KomikoAI for the Services in the twelve (12) months preceding the event giving rise to the claim, or (ii) one hundred U.S. dollars (US$100) if you have not paid KomikoAI.</p><p id="71893d77-e41f-4a8a-8f19-2c2861c047b8" class="">Nothing in these Terms shall exclude or limit liability for gross negligence, willful misconduct, or liability that cannot be excluded under applicable law.</p><h2 id="273ecbf4-9fb7-80b9-905d-d61d976ddd2b" class=""><strong>13. Contact Us</strong></h2><p id="273ecbf4-9fb7-80ec-81cd-fef2ea0acd69" class="">If you have any questions regarding the use of KomikoAI or this TOS, please contact us at: <a href="mailto:contact@komiko.app">contact@komiko.app</a></p><h2 id="187dfbcd-dc11-4642-9080-97bfd2b5c5e5" class="">14. Governing Law and Arbitration</h2><p id="2f3f583c-e650-406f-9467-2c6d948cdb22" class="">These Terms of Service are governed by the laws of the State of California, United States, without regard to its conflict of law principles.</p><p id="b40a254e-a5d7-413d-a5ed-992ad52dfa1a" class=""><strong>Arbitration Agreement.</strong> Any dispute, controversy, or claim arising out of or relating to these Terms or the Services, including the formation, interpretation, breach, or termination thereof, shall be finally resolved by binding arbitration administered by JAMS under its Streamlined Arbitration Rules and Procedures then in effect. The seat and venue of arbitration shall be San Francisco, California, and the arbitration shall be conducted in English. Judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction.</p><p id="412d0a68-b2c3-401e-a015-768eed61c211" class=""><strong>Small Claims Court Exception.</strong> Either party may bring an individual claim in small claims court with competent jurisdiction instead of arbitration.</p><p id="951b779b-da8c-4f56-9806-a7440fb12a9e" class=""><strong>Class/Representative Action Waiver.</strong> You and KomikoAI agree that all claims shall be brought in an individual capacity and not as a plaintiff or class member in any purported class, collective, consolidated, or representative proceeding. The arbitrator shall have exclusive authority to resolve any dispute relating to the enforceability, interpretation, scope, or application of this arbitration agreement, including the class action waiver.</p><p id="6743c88f-cc13-4fa4-ae14-df9272b479d7" class=""><strong>Opt-Out.</strong> You may opt out of this arbitration agreement by sending a written notice to contact@komiko.app within thirty (30) days of first accepting these Terms, stating that you opt out of arbitration. If you opt out, the forum selection below applies.</p><p id="a67d72aa-ddcd-41ff-96f9-d0849fbab9ea" class=""><strong>Injunctive Relief / IP Protection.</strong> Notwithstanding the foregoing, KomikoAI may seek injunctive or other equitable relief in any court of competent jurisdiction (including the state and federal courts located in San Francisco County, California) to protect its intellectual property rights or confidential information.</p><p id="0bf0bc67-ea8e-4b68-b22c-8620359a053d" class=""><strong>Confidentiality and Fees.</strong> The arbitration and any related proceedings, filings, and awards shall be confidential to the fullest extent permitted by law. The arbitrator may award fees and costs consistent with the JAMS Rules and applicable law.</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>

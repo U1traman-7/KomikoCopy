@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "Interpolation d'images par IA - KomikoAI",
+    "description": "Transformez vos vidéos avec la technologie d'interpolation d'images par IA de KomikoAI. Améliorez la qualité vidéo, augmentez les FPS et créez des mouvements ultra-fluides grâce à nos outils d'amélioration vidéo professionnels. Idéal pour les créateurs de contenu qui recherchent une qualité vidéo supérieure.",
+    "keywords": "Interpolation d'images par IA, interpolation d'images, fluidification vidéo, amélioration des FPS, amélioration de la qualité vidéo, amélioration vidéo par IA"
+  },
+  "title": "Interpolation d'images par IA",
+  "description": "Sublimez vos vidéos grâce à notre technologie d'interpolation d'images par IA. Transformez vos vidéos en créant intelligemment des images supplémentaires, en augmentant le nombre de FPS et en obtenant des mouvements ultra-fluides. Parfait pour les créateurs de contenu exigeants en matière de qualité vidéo, grâce à la fluidification vidéo par IA et à l'amélioration de la fréquence d'images.",
+  "input": {
+    "title": "Vidéo source",
+    "uploadPrompt": "Cliquez pour télécharger ou glissez-déposez votre vidéo ici",
+    "framesPerSecond": "Images par seconde (FPS)",
+    "framesPerSecondRange": "(min : 1, max : 60)",
+    "interpolationSteps": "Nombre d'images interpolées",
+    "interpolationStepsRange": "(min : 1, max : 10)",
+    "submitButton": "Lancer l'interpolation",
+    "from_other_tools": "Vidéo reçue de {{source}}"
+  },
+  "results": {
+    "title": "Résultats",
+    "emptyState": "Les résultats s'afficheront ici"
+  },
+  "deleteModal": {
+    "title": "Confirmation de suppression",
+    "message": "Êtes-vous sûr de vouloir supprimer cette vidéo ? Cette action est irréversible.",
+    "cancelButton": "Annuler",
+    "deleteButton": "Supprimer"
+  },
+  "toasts": {
+    "fetchFailed": "Impossible de récupérer les vidéos",
+    "deleteSuccess": "Suppression réussie",
+    "deleteFailed": "Échec de la suppression",
+    "downloadFailed": "Échec du téléchargement",
+    "interpolationSuccess": "Interpolation d'images réussie",
+    "interpolationFailed": "Échec de l'interpolation d'images",
+    "noZaps": "Veuillez acheter des zaps supplémentaires"
+  },
+  "seo": {
+    "whatIs": {
+      "title": "Qu'est-ce que l'interpolation d'images ?",
+      "description": "L'interpolation d'images est une technique utilisée pour augmenter la fréquence d'images d'une vidéo en générant de nouvelles images entre celles existantes. Ce processus permet de créer des mouvements plus fluides et des fréquences d'images plus élevées sans avoir à réenregistrer la vidéo. L'interpolation d'images par IA est une technologie d'amélioration vidéo de pointe qui utilise l'intelligence artificielle pour générer des images supplémentaires entre celles existantes, ce qui permet d'obtenir des mouvements plus fluides et des fréquences d'images plus élevées. Cette fluidification vidéo par IA améliore considérablement la qualité vidéo et l'expérience visuelle."
+    },
+    "transform": {
+      "title": "Transformez vos vidéos grâce à la technologie avancée d'interpolation d'images par IA",
+      "description": "Profitez d'une fluidification vidéo de qualité professionnelle grâce à nos outils d'amélioration vidéo par IA de pointe. Notre logiciel d'interpolation d'images utilise l'IA avancée pour analyser et générer de nouvelles images, créant ainsi des mouvements fluides et des fréquences d'images plus élevées instantanément."
+    },
+    "steps": [
+      {
+        "step": 1,
+        "title": "Téléchargez votre vidéo",
+        "content": "Commencez avec n'importe quel fichier vidéo - notre technologie d'interpolation d'images vidéo par IA accepte différents formats et qualités."
+      },
+      {
+        "step": 2,
+        "title": "Configurez la fréquence d'images",
+        "content": "Choisissez vos paramètres de FPS cibles et d'interpolation pour des résultats de fluidification vidéo optimaux."
+      },
+      {
+        "step": 3,
+        "title": "Traitement par IA",
+        "content": "Nos algorithmes avancés d'amélioration vidéo par IA génèrent de nouvelles images pour un mouvement plus fluide."
+      },
+      {
+        "step": 4,
+        "title": "Téléchargez la vidéo améliorée",
+        "content": "Obtenez votre vidéo avec une fréquence d'images accrue et un mouvement fluide, grâce à l'interpolation d'images par IA."
+      }
+    ],
+    "example": {
+      "title": "Exemple d'interpolation d'images",
+      "description": "Découvrez les résultats de l'interpolation d'images par IA générés par les utilisateurs de KomikoAI",
+      "inputLabel": "Vidéo source (exemple)",
+      "outputLabel": "Vidéo suréchantillonnée (résultat)"
+    },
+    "benefits": {
+      "title": "Pourquoi devriez-vous améliorer vos vidéos avec l'interpolation par IA ?",
+      "description": "L'interpolation d'images par IA de KomikoAI simplifie l'amélioration vidéo pour tous, des créateurs de contenu aux vidéastes professionnels.",
+      "features": [
+        {
+          "title": "Interpolation d'images par IA avancée",
+          "content": "Découvrez une technologie de fluidification vidéo par IA de pointe qui transforme les séquences saccadées en vidéos fluides de qualité professionnelle grâce à la génération d'images intelligentes et à l'amélioration de la fréquence d'images vidéo."
+        },
+        {
+          "title": "Amélioration intelligente des FPS",
+          "content": "Tirez parti des outils d'interpolation d'images vidéo de l'IA de KomikoAI pour augmenter les FPS de votre vidéo sans avoir à réenregistrer. Convertissez des séquences standard en vidéos fluides à 60 FPS et plus grâce à notre technologie d'amélioration vidéo par IA."
+        },
+        {
+          "title": "Amélioration automatisée de la qualité vidéo",
+          "content": "Notre logiciel d'interpolation d'images vidéo par IA gère automatiquement la génération d'images complexe. Bénéficiez d'une fluidification vidéo professionnelle sans édition manuelle ni outils compliqués."
+        },
+        {
+          "title": "Génération d'images intelligentes",
+          "content": "Les outils vidéo d'IA de KomikoAI analysent les schémas de mouvement pour créer des images intermédiaires d'apparence naturelle, garantissant une qualité constante grâce à des techniques avancées d'interpolation d'images vidéo."
+        },
+        {
+          "title": "Amélioration vidéo professionnelle",
+          "content": "Exportez des vidéos de haute qualité améliorées par notre technologie d'interpolation d'images par IA, parfaites pour les créateurs de contenu qui exigent une fluidification vidéo et une optimisation de la fréquence d'images supérieures."
+        },
+        {
+          "title": "Traitement vidéo par IA efficace",
+          "content": "Intégrez de manière transparente nos outils d'IA d'interpolation d'images dans votre flux de travail. Laissez la génération d'images vidéo par IA de KomikoAI gérer les aspects techniques pendant que vous vous concentrez sur la créativité."
+        }
+      ]
+    },
+    "expertGuide": {
+      "title": "Guide d'expert sur l'interpolation d'images par IA",
+      "description": "Apprenez tout sur l'amélioration de vos vidéos grâce à la technologie d'interpolation d'images basée sur l'IA. Obtenez des réponses d'experts aux questions courantes sur la fluidification vidéo et l'amélioration de la fréquence d'images."
+    }
+  },
+  "faq": {
+    "question1": "Qu'est-ce que l'interpolation d'images par IA ?",
+    "answer1": "L'interpolation d'images par IA est une technologie d'amélioration vidéo de pointe qui utilise l'intelligence artificielle pour générer des images supplémentaires entre celles existantes, ce qui permet d'obtenir des mouvements plus fluides et des fréquences d'images plus élevées. Cette fluidification vidéo par IA améliore considérablement la qualité vidéo et l'expérience visuelle.",
+    "question2": "Comment fonctionne l'interpolation d'images vidéo par IA ?",
+    "answer2": "Notre logiciel d'interpolation d'images vidéo par IA analyse le mouvement entre les images existantes et utilise des algorithmes d'apprentissage automatique avancés pour générer de nouvelles images intermédiaires. Ce processus augmente le nombre de FPS (images par seconde) de la vidéo tout en conservant un mouvement naturel et une qualité élevée.",
+    "question3": "Quels sont les avantages de l'interpolation d'images ?",
+    "answer3": [
+      "Mouvements et animations plus fluides",
+      "Fréquences d'images plus élevées sans avoir à réenregistrer",
+      "Qualité vidéo améliorée",
+      "Meilleurs effets de ralenti"
+    ],
+    "question4": "Quels formats vidéo sont pris en charge ?",
+    "answer4": "L'IA prend en charge le format vidéo MP4. Nous vous recommandons d'utiliser des vidéos avec un mouvement clair et une bonne qualité pour de meilleurs résultats.",
+    "question5": "Comment choisir les bons paramètres ?",
+    "answer5": "Pour les images par seconde (FPS), choisissez en fonction de vos besoins : 24 à 30 FPS pour une vidéo standard, 60 FPS pour un mouvement fluide. Le nombre d'images interpolées détermine le nombre d'images à ajouter entre les images existantes : des valeurs plus élevées créent un mouvement plus fluide, mais prennent plus de temps à traiter.",
+    "question6": "Existe-t-il une limite à la durée ou à la taille de la vidéo ?",
+    "answer6": "Oui, il existe certaines limitations pour garantir un traitement optimal. Nous recommandons des vidéos de moins de 30 secondes et de 100 Mo pour de meilleurs résultats. Les vidéos plus longues peuvent être traitées par segments."
+  }
+}

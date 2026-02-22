@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Style Transfer",
+      "description": "Ubah gambar Anda menjadi karya seni yang unik dan memukau dengan alat AI Style Transfer kami. Ciptakan seni yang luar biasa sekarang juga! Coba secara gratis.",
+      "keywords": "AI style transfer, generator seni AI, foto menjadi seni, transformasi foto artistik, peningkatan gambar AI"
+    },
+    "hero": {
+      "title": "AI Style Transfer"
+    },
+    "whatIs": {
+      "title": "Apa Itu AI Style Transfer?",
+      "description": "AI Style Transfer memanfaatkan teknologi *machine learning* canggih untuk menganalisis foto Anda dan menerapkan berbagai gaya artistik. Dari lukisan minyak klasik hingga seni digital yang dinamis, saksikan evolusi gambar Anda menjadi interpretasi artistik yang mencolok, disesuaikan dengan visi dan selera Anda."
+    },
+    "examples": {
+      "title": "Contoh AI Style Transfer",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan AI Style Transfer",
+      "steps": [
+        {
+          "title": "Langkah 1: Unggah Foto Anda",
+          "content": "Pilih foto beresolusi tinggi yang ingin Anda transformasikan. Klik tombol unggah untuk memilih gambar dari perangkat Anda."
+        },
+        {
+          "title": "Langkah 2: Pilih Gaya Artistik",
+          "content": "Telusuri beragam pilihan gaya artistik yang dihasilkan oleh AI, dari impresionisme hingga vektor modern. Pilih yang paling sesuai dengan visi artistik Anda."
+        },
+        {
+          "title": "Langkah 3: Hasilkan Karya Seni Anda",
+          "content": "Klik tombol 'Transformasi' dan saksikan foto Anda bertransformasi secara *real time* dalam hitungan detik!"
+        },
+        {
+          "title": "Langkah 4: Unduh dan Bagikan",
+          "content": "Publikasikan karya seni Anda yang telah diubah secara daring, bagikan dengan orang terdekat, atau manfaatkan dalam proyek Anda. Unduh mahakarya Anda dengan sekali klik."
+        }
+      ],
+      "subtitle": "Panduan sederhana untuk mentransformasi gambar Anda dengan mudah."
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan AI Style Transfer?",
+      "description": "Jelajahi berbagai keunggulan unik dari transformasi artistik.",
+      "features": [
+        {
+          "title": "🎨 Beragam Gaya Artistik",
+          "content": "Pilih dari berbagai gaya artistik pilihan yang dikurasi, memastikan sentuhan personal untuk setiap transformasi."
+        },
+        {
+          "title": "⚡ Cepat dan Ramah Pengguna",
+          "content": "Nikmati transformasi yang cepat dengan antarmuka yang dirancang untuk pengguna dari semua tingkat keahlian."
+        },
+        {
+          "title": "🖼️ Output Resolusi Tinggi",
+          "content": "Pertahankan kualitas asli gambar dengan output premium yang sempurna untuk dicetak."
+        },
+        {
+          "title": "💫 Bebaskan Kreativitas Anda",
+          "content": "Dorong eksplorasi artistik dan perluas batasan fotografi Anda."
+        },
+        {
+          "title": "🎯 Aksesibilitas Tanpa Batas",
+          "content": "Ciptakan seni dari mana saja dengan akses internet—ideal untuk kreativitas spontan."
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI Style Transfer FAQ",
+      "description": "",
+      "q1": "Apa itu AI Style Transfer dan bagaimana cara kerjanya?",
+      "a1": "AI Style Transfer menggunakan algoritma canggih untuk menganalisis foto Anda dan menerapkan karakteristik artistik, menggabungkan keduanya untuk menciptakan karya seni baru yang mencerminkan gaya yang dipilih.",
+      "q2": "Bagaimana cara mencapai hasil terbaik menggunakan AI Style Transfer?",
+      "a2": "Untuk hasil optimal, gunakan gambar dengan titik fokus yang jelas dan bereksperimenlah dengan gaya yang berbeda untuk menemukan estetika ideal Anda.",
+      "q3": "Apakah penggunaan AI Style Transfer gratis?",
+      "a3": "Ya, fitur dasar kami tersedia secara gratis! Jelajahi opsi premium untuk gaya yang lebih canggih.",
+      "q4": "Apa yang membuat AI Style Transfer berbeda dari filter?",
+      "a4": "AI Style Transfer memanfaatkan *deep learning* untuk menciptakan ulang gaya artistik yang bernuansa, menawarkan keunikan dan kedalaman yang lebih dari sekadar filter warna.",
+      "q5": "Bisakah saya mengkomersialkan kreasi AI Style Transfer saya?",
+      "a5": "Ya, gambar yang ditransformasikan dapat digunakan secara komersial, meskipun kami menyarankan untuk meninjau ketentuan kami terkait karya turunan."
+    },
+    "cta": {
+      "title": "Ciptakan Karya Seni AI Style Transfer Anda Sekarang Juga",
+      "description": "Selami dunia kreativitas dan ubah foto Anda menjadi karya seni yang memukau dengan alat AI Style Transfer kami. Mulai perjalanan artistik Anda sekarang!",
+      "buttonText": "Coba AI Style Transfer Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique AI artwork",
+  "originalKeyword": "AI Style Transfer",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Korean Manhwa"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Cyberpunk"
+    }
+  ]
+}

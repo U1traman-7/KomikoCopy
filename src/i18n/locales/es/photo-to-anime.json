@@ -1,0 +1,59 @@
+{
+  "ui": {
+    "styleModes": {
+      "templates": "Plantillas",
+      "prompt": "Indicador",
+      "expression": "Expresiones"
+    },
+    "prompt": {
+      "placeholder": "Describe cómo quieres transformar el estilo...",
+      "example": "Ejemplo: \"Sustituir al hombre por Naruto\", \"Transformar esto a un estilo de anime clásico de los 90\", \"Vestir a la chica con un vestido floral\""
+    },
+    "characterInfo": "Información del personaje",
+    "selectCharacter": "Seleccionar personaje",
+    "selectCharacterPlaceholder": "Elige uno de tus personajes...",
+    "characterName": "Nombre del personaje",
+    "characterNamePlaceholder": "Introduce el nombre del personaje...",
+    "occupation": "Ocupación",
+    "occupationPlaceholder": "Ejemplo: Conductor de Uber, Estudiante, Detective...",
+    "language": "Idioma",
+    "characterInfoPlaceholder": "Introduce el trasfondo, historia o descripción del personaje...",
+    "input": {
+      "image": {
+        "title": "Imagen"
+      }
+    },
+    "customInput": {
+      "hogwartsSorting": {
+        "q1": "Tu OC se encuentra con una puerta misteriosa en un bosque oscuro. ¿Qué hace?",
+        "a1_1": "La patea para abrirla. Lo que esté dentro más vale que esté preparado.",
+        "a1_2": "Examina primero la cerradura. Siempre hay una manera de entrar sin usar la fuerza bruta.",
+        "a1_3": "Estudia las runas en la puerta. La respuesta está en los símbolos.",
+        "a1_4": "Llama con cortesía. Nunca sabes quién podría necesitar ayuda dentro.",
+        "q2": "¡Se aparece un enemigo poderoso! ¿Cómo lucha tu personaje?",
+        "a2_1": "Ataque frontal. El coraje gana batallas.",
+        "a2_2": "Ataca su debilidad. La victoria requiere estrategia.",
+        "a2_3": "Analiza primero su patrón. El conocimiento es el arma definitiva.",
+        "a2_4": "Protege a los aliados primero. Nadie lucha solo.",
+        "q3": "Tu OC entra en una habitación con cuatro objetos mágicos. ¿Cuál le llama?",
+        "a3_1": "Una espada llameante que arde con más fuerza ante el miedo.",
+        "a3_2": "Una corona antigua que revela las verdaderas intenciones de los demás.",
+        "a3_3": "Un libro que contiene todos los secretos olvidados del mundo.",
+        "a3_4": "Una semilla que puede convertirse en cualquier cosa que el corazón realmente necesite.",
+        "q4": "Tu personaje escucha un secreto peligroso. ¿Qué hace?",
+        "a4_1": "Lo revela inmediatamente. La verdad debe conocerse.",
+        "a4_2": "Lo guarda. La información es poder en el momento adecuado.",
+        "a4_3": "Investiga más a fondo. Una pieza no es todo el rompecabezas.",
+        "a4_4": "Se lo cuenta solo a quienes necesitan protección contra él.",
+        "q5": "Un ser mágico concede a tu OC un deseo. ¿Qué elige?",
+        "a5_1": "La fuerza para proteger a todos los que amo.",
+        "a5_2": "El poder para lograr mis mayores ambiciones.",
+        "a5_3": "La sabiduría para entender todos los misterios.",
+        "a5_4": "La habilidad de traer felicidad a los demás."
+      }
+    }
+  },
+  "button": {
+    "convert": "Convertir"
+  }
+}

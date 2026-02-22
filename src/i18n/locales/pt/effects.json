@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "Efeitos Divertidos Amados por Criadores de Anime",
+    "description": "Encontre o efeito que você adora e comece a criar imediatamente.",
+    "defaultDescription": "Crie efeitos de {{name}} {{type}} com o KomikoAI. Carregue uma imagem de personagem e experimente o poder do Gerador de {{name}} da IA em segundos.",
+    "eyebrow": "Galeria de Efeitos"
+  },
+  "meta": {
+    "keywords": "efeitos de IA, modelos de anime, efeitos de vídeo, animação de dança, estilos de imagem, komiko",
+    "title": "Efeitos | Komiko AI",
+    "description": "Explore todos os efeitos e modelos de IA para criação de anime. Estilos de imagem, efeitos de vídeo, animações de dança e mais.",
+    "titleTemplate": "Gerador de {{name}}"
+  },
+  "categories": {
+    "trending": {
+      "description": "Os efeitos mais populares no momento",
+      "title": "Tendências"
+    },
+    "imageRestyle": {
+      "description": "Converta suas imagens em vários estilos artísticos",
+      "title": "Restilização de Imagem"
+    },
+    "merch": {
+      "description": "Gere designs de merchandise colecionáveis a partir dos seus personagens",
+      "title": "Estúdio de Merchandising"
+    },
+    "movie": {
+      "description": "Recrie retratos em estilos cinematográficos",
+      "title": "Filme"
+    },
+    "cosplay": {
+      "description": "Crie designs incríveis de cosplay e trajes",
+      "title": "Cosplay e Trajes"
+    },
+    "dance": {
+      "description": "Crie movimentos de vídeos de dança com IA",
+      "title": "Dança"
+    },
+    "featured": {
+      "title": "Em Destaque"
+    },
+    "art": {
+      "title": "Arte",
+      "description": "Transforme retratos em designs de personagens profissionais"
+    },
+    "videoRestyle": {
+      "title": "Restilização de Vídeo",
+      "description": "Transforme gravações de vídeo em animações estilizadas"
+    },
+    "game": {
+      "title": "Jogo",
+      "description": "Crie vídeos e cenas com estilo de jogo"
+    },
+    "effects": {
+      "title": "Efeitos de Vídeo",
+      "description": "Aplique efeitos e animações dinâmicas em vídeos"
+    },
+    "characterExpression": {
+      "title": "Expressão de Personagem",
+      "description": "Altere expressões de personagens dinamicamente"
+    },
+    "funEffects": {
+      "title": "Efeitos Divertidos",
+      "description": "Efeitos de vídeo lúdicos e divertidos"
+    }
+  },
+  "whatIs": {
+    "title": "O que é o Gerador de {{name}}",
+    "defaultDescription": "O Gerador de {{name}} AI é uma ferramenta de IA que cria efeitos de {{name}} {{type}}. É um dos mais de 100 modelos de efeitos de IA desenvolvidos pela equipe da KomikoAI. Basta carregar uma imagem de personagem e deixar a IA fazer a magia."
+  },
+  "howToUse": {
+    "step1Title": "Carregar Imagem",
+    "step2Title": "Selecionar Efeito",
+    "step3Title": "Gerar",
+    "step4Title": "Baixar",
+    "title": "Como Usar",
+    "step1": "Carregue a imagem do seu personagem acima",
+    "step2": "O efeito {{name}} já está selecionado para você",
+    "step3": "Clique em \"Gerar Animação\" e aguarde o resultado",
+    "step4": "Baixe ou compartilhe sua criação"
+  },
+  "breadcrumb": {
+    "effects": "Efeitos"
+  },
+  "buttons": {
+    "useTemplate": "Usar Modelo",
+    "preview": "Pré-visualizar",
+    "close": "Fechar",
+    "seeAll": "Ver Todos"
+  },
+  "empty": "Nenhum efeito encontrado.",
+  "notFound": {
+    "title": "Efeito Não Encontrado",
+    "description": "O efeito \"{{name}}\" não pôde ser encontrado. Pode ter sido removido ou o URL está incorreto.",
+    "browseAll": "Ver Todos os Efeitos"
+  },
+  "moreTools": {
+    "title": "Mais Efeitos de IA",
+    "description": "Explore nossa coleção completa de efeitos e modelos de IA.",
+    "browseAll": "Ver Todos os Efeitos"
+  },
+  "changeModal": {
+    "title": "Trocar Efeito"
+  },
+  "communityExamples": {
+    "title": "Exemplos de Efeito {{name}}",
+    "description": "Todas as criações feitas com o efeito {{name}} pela comunidade KomikoAI.",
+    "noExamples": "Ainda não há exemplos disponíveis da comunidade."
+  },
+  "types": {
+    "video": "vídeo",
+    "image": "imagem",
+    "dance": "dança"
+  }
+}

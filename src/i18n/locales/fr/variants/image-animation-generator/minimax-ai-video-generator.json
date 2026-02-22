@@ -1,0 +1,135 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Générateur de Vidéo IA MiniMax - KomikoAI",
+      "description": "Créez aisément des vidéos impressionnantes à partir d'images statiques grâce au générateur de vidéo IA MiniMax. Exploitez une IA avancée pour convertir photos, œuvres d'art et illustrations en animations vidéo captivantes.",
+      "fullDescription": "Le générateur de vidéo IA MiniMax révolutionne la création vidéo en transformant vos images statiques en vidéos dynamiques et engageantes, grâce à une technologie d'IA de pointe. Idéal pour les artistes, créateurs de contenu et spécialistes du marketing, cet outil rationalise le processus d'animation et offre des résultats de qualité professionnelle, rapidement et facilement.",
+      "keywords": "générateur de vidéo IA, IA image vers vidéo, vidéo d'animation IA, création de vidéo IA, génération de vidéo à partir d'images, outil d'animation d'image, créateur de vidéo IA, animation vidéo IA, vidéo dynamique à partir d'images, IA photo vers vidéo, montage vidéo IA, vidéo pilotée par l'IA, création de vidéo automatisée, création de contenu IA, contenu vidéo IA"
+    },
+    "hero": {
+      "title": "Générateur de Vidéo IA MiniMax",
+      "description": "Transformez sans effort vos images statiques en vidéos animées et éclatantes grâce au générateur de vidéo IA MiniMax. Donnez vie à votre contenu visuel avec une puissante technologie pilotée par l'IA."
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que le Générateur de Vidéo IA MiniMax ?",
+      "description": "Le générateur de vidéo IA MiniMax est un outil innovant basé sur l'IA, qui convertit des images fixes (photos, illustrations et œuvres d'art numériques) en vidéos animées et dynamiques. Alimenté par des algorithmes d'IA avancés, il est conçu pour aider les créateurs à produire rapidement du contenu vidéo engageant, avec un minimum d'effort."
+    },
+    "examples": {
+      "title": "Exemples du Générateur de Vidéo IA MiniMax",
+      "description": "Explorez une collection diversifiée de vidéos animées, générées à partir d'images simples. Découvrez comment le générateur de vidéo IA MiniMax transforme des visuels statiques en expériences de narration dynamiques."
+    },
+    "howToUse": {
+      "title": "Comment Utiliser le Générateur de Vidéo IA MiniMax",
+      "steps": [
+        {
+          "title": "Téléchargez Votre Image",
+          "content": "Commencez par télécharger l'image que vous souhaitez convertir en vidéo. Qu'il s'agisse d'un dessin, d'une photo ou d'une œuvre d'art numérique, le générateur de vidéo IA MiniMax peut lui donner vie."
+        },
+        {
+          "title": "Saisissez un Prompt Détaillé",
+          "content": "Fournissez une description claire de l'animation que vous envisagez. Incluez des détails sur le mouvement, les expressions et tous les effets ou styles spécifiques que vous souhaitez que l'IA applique. (prompt)"
+        },
+        {
+          "title": "Générez Votre Vidéo",
+          "content": "Cliquez sur le bouton « Générer l'Animation » et regardez l'IA transformer votre image statique en une vidéo animée vivante, en quelques instants."
+        },
+        {
+          "title": "Téléchargez et Partagez Votre Création",
+          "content": "Une fois générée, téléchargez votre vidéo en haute qualité et partagez-la sur vos réseaux sociaux, projets ou portfolios."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi Choisir le Générateur de Vidéo IA MiniMax ?",
+      "description": "Tirez parti des avantages du générateur de vidéo IA MiniMax pour transformer sans effort des images en vidéos captivantes. Cet outil combine simplicité, rapidité et qualité professionnelle, pour améliorer votre flux de travail créatif.",
+      "features": [
+        {
+          "title": "Création de Vidéo Pilotée par l'IA",
+          "content": "Utilisez une technologie d'IA avancée qui convertit automatiquement les images en vidéos animées, vous libérant ainsi des tâches de montage complexes.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Créez du Contenu Vidéo Dynamique",
+          "content": "Donnez vie et mouvement à vos images fixes, les rendant parfaites pour les médias sociaux, les campagnes marketing et la narration numérique.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Simple et Convivial",
+          "content": "Aucune compétence technique n'est requise. Téléchargez votre image, saisissez des prompts et générez des vidéos sans effort.",
+          "icon": "👌"
+        },
+        {
+          "title": "Gagnez du Temps avec des Résultats Rapides",
+          "content": "Générez des animations vidéo captivantes en quelques secondes, accélérant ainsi votre processus de création de contenu.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Animations de Qualité Professionnelle",
+          "content": "Produisez des vidéos de haute qualité, soignées et prêtes à être présentées ou publiées.",
+          "icon": "🏆"
+        },
+        {
+          "title": "Améliorez Vos Projets Créatifs",
+          "content": "Utilisez cet outil pour ajouter du mouvement et de la profondeur à votre portfolio, à vos supports promotionnels ou à vos projets personnels.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ sur le Générateur de Vidéo IA MiniMax",
+      "description": "Réponses aux questions les plus fréquemment posées sur l'utilisation du générateur de vidéo IA MiniMax.",
+      "q1": "Qu'est-ce que le générateur de vidéo IA MiniMax ?",
+      "a1": "C'est un outil d'IA intelligent qui convertit des images statiques (photos ou dessins) en contenu vidéo animé, à l'aide d'algorithmes d'intelligence artificielle de pointe.",
+      "q2": "Comment fonctionne le générateur de vidéo IA MiniMax ?",
+      "a2": "L'IA interprète l'image téléchargée et le prompt d'animation pour générer des images vidéo qui simulent le mouvement et les effets d'animation, créant ainsi une vidéo fluide à partir de visuels statiques.",
+      "q3": "Quels types d'images peuvent être animés avec le générateur de vidéo IA MiniMax ?",
+      "a3": "Vous pouvez animer différents types d'images, notamment des œuvres d'art numériques, des illustrations, des photos et des graphiques, ce qui permet de créer des vidéos dynamiques adaptées à différents médias.",
+      "q4": "Ai-je besoin d'une expérience en animation pour utiliser cet outil ?",
+      "a4": "Aucune compétence en animation ou technique n'est requise. L'IA gère l'ensemble du processus, le rendant accessible à tous, des débutants aux professionnels.",
+      "q5": "Puis-je utiliser les vidéos générées à des fins commerciales ?",
+      "a5": "Oui, les vidéos produites avec le générateur de vidéo IA MiniMax peuvent être utilisées dans des projets personnels et commerciaux, conformément aux conditions d'utilisation de l'outil.",
+      "q6": "Existe-t-il des limitations sur le nombre de vidéos que je peux créer ?",
+      "a6": "Les limites de création de vidéos dépendent de votre plan d'abonnement, les niveaux gratuits offrant des générations limitées et les plans premium offrant une utilisation étendue ou illimitée.",
+      "q7": "Quels formats le générateur de vidéo IA MiniMax prend-il en charge ?",
+      "a7": "Les formats d'image courants tels que JPG et PNG sont pris en charge, la sortie étant généralement fournie dans des formats vidéo populaires, prêts à être partagés ou modifiés.",
+      "q8": "Puis-je personnaliser le style ou les effets de l'animation ?",
+      "a8": "Oui, en fournissant des prompts détaillés sur le mouvement, le style et les effets, vous pouvez guider l'IA pour produire des animations adaptées à votre vision."
+    }
+  },
+  "originalKeyword": "MiniMax AI Video Generator",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "MINIMAX",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modèle : MiniMax Hailuo",
+      "description": "Prompt: An explosion occurs in an abandoned factory, and a massive mechanical dragon emerges from the ruins.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/33.webm"
+    },
+    {
+      "id": 2,
+      "title": "Modèle : MiniMax Hailuo",
+      "description": "Prompt: The camera captures a low-angle shot of a speeding car racing through the night, its wheels spinning fiercely in the fiery glow on the ground. The camera rapidly zooms in on the car, when suddenly, a shockwave from an explosion violently lifts the car's body. Immediately after, the camera spins quickly, capturing another car emerging from the smoke of the explosion, as the intense chase unfolds, intertwining with flashes of fire and darkness.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/35.webm"
+    },
+    {
+      "id": 3,
+      "title": "Modèle : MiniMax Hailuo",
+      "description": "Prompt: A male in a trench coat walks down a street in a modern city, and the camera follows the male's movements from behind, with a brilliant sci-fi atmosphere and colorful tones.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/9.webm"
+    },
+    {
+      "id": 4,
+      "title": "Modèle : MiniMax Hailuo",
+      "description": "Prompt: In a forest covered in dark clouds, the young boy sprints through the mud with his sword in his hand, his sleeves swinging in the wind. The camera pushes forward and lightning illuminates his resolute face.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/21.webm"
+    }
+  ]
+}

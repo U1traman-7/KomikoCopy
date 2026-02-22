@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "AI 漫畫產生器 - KomikoAI",
+    "description": "AI 漫畫產生器讓您從簡單的故事想法中產生漫畫。使用 KomikoAI 的 AI 漫畫產生器，透過 AI 產生漫畫、日式漫畫和韓式漫畫。"
+  },
+  "form": {
+    "title": "AI 漫畫產生器",
+    "subtitle": "透過 AI 將您的想法變成引人入勝的漫畫、日式漫畫或韓式漫畫。只需輸入故事靈感，選擇您喜歡的風格，然後讓 AI 漫畫產生器完成剩下的工作。",
+    "idea_label": "您的漫畫靈感",
+    "idea_placeholder": "在此輸入您的漫畫靈感...",
+    "style_label": "漫畫風格",
+    "style_placeholder": "選擇漫畫風格",
+    "styles": {
+      "anime": "動畫",
+      "manga": "漫畫",
+      "manhwa": "韓國漫畫",
+      "american": "美式",
+      "cartoon": "卡通",
+      "realistic": "寫實"
+    },
+    "type_label": "漫畫類型",
+    "type_placeholder": "選擇漫畫類型",
+    "types": {
+      "normal": "普通",
+      "funny": "有趣",
+      "meme": "迷因"
+    },
+    "layout_label": "漫畫排版",
+    "mode_label": "產生模式",
+    "modes": {
+      "gemini": "Gemini",
+      "gemini_cost": "每個畫格 {{cost}} zaps",
+      "flux": "Flux",
+      "flux_cost": "每個畫格 {{cost}} zaps"
+    },
+    "narration_checkbox": "包含旁白",
+    "generate_button": "產生漫畫"
+  },
+  "buttons": {
+    "edit": "編輯",
+    "download": "下載",
+    "share": "分享"
+  },
+  "preview_alt": "漫畫預覽",
+  "preview_text": "輸入您的漫畫靈感，然後點擊產生以建立您的漫畫。",
+  "narration": "旁白",
+  "idea_input": {
+    "label": "您的故事靈感是什麼？",
+    "custom_placeholder": "輸入您的故事靈感並指定一種藝術風格"
+  },
+  "login_to_generate": "產生",
+  "edit_button": "編輯",
+  "comics_generated": "KomikoAI 使用者產生了 {{count}} 部漫畫",
+  "comic_type": {
+    "normal": {
+      "label": "🙂 普通",
+      "text": "普通"
+    },
+    "meme": {
+      "label": "🤣 迷因",
+      "text": "迷因"
+    }
+  },
+  "comic_style": {
+    "anime": "動畫",
+    "american": "美式",
+    "manga": "漫畫",
+    "manhwa": "韓國漫畫",
+    "custom": "自訂"
+  },
+  "seo": {
+    "main_heading": "什麼是 AI 漫畫產生器",
+    "main_description": "AI 漫畫產生器是一款 AI 驅動的工具，讓創作者能夠以最少的努力將想法轉化為引人入勝的漫畫、日式漫畫和迷因。 無論您是藝術家還是故事愛好者，都可以透過 AI 產生的視覺效果和旁白，將您的想像力變為現實。 只需輸入故事靈感，選擇您喜歡的風格，然後讓 KomikoAI 的 AI 漫畫產生器完成剩下的工作。 享受比 Hugging Face 上的 AI Comic Factory 更好的 AI 漫畫產生。"
+  },
+  "how_to_use": {
+    "heading": "如何使用 AI 漫畫產生器",
+    "step1": {
+      "title": "步驟 1：輸入您的靈感",
+      "content": "輸入一個概念、故事靈感或迷因靈感。寫一個簡單的句子或詳細描述您的故事。"
+    },
+    "step2": {
+      "title": "步驟 2：自訂您的風格",
+      "content": "從漫畫、動畫、美式漫畫等風格中選擇，或自訂您自己的藝術風格。"
+    },
+    "step3": {
+      "title": "步驟 3：AI 產生",
+      "content": "點擊「產生漫畫」按鈕。等待 KomikoAI 的 AI 漫畫產生器根據您的輸入建立畫格、藝術、對話框和旁白。您的漫畫將在幾秒鐘內產生。"
+    },
+    "step4": {
+      "title": "步驟 4：匯出與分享",
+      "content": "下載高品質的漫畫輸出，以便在社交媒體上分享或用於個人專案。"
+    }
+  },
+  "why_use": {
+    "heading": "為什麼您應該使用 AI 漫畫產生器產生漫畫",
+    "description": "KomikoAI 的 AI 漫畫產生器簡化了每個人的漫畫創作，從初學者到專業人士，提供無與倫比的自訂性和易用性。",
+    "features": {
+      "beginner_friendly": {
+        "title": "初學者友善",
+        "content": "沒有繪畫技巧？沒關係！只需輸入您的靈感，AI 漫畫產生器即可一鍵為您繪製漫畫。"
+      },
+      "custom_art": {
+        "title": "自訂藝術風格",
+        "content": "從美式漫畫、漫畫、韓國漫畫或動畫等藝術風格中選擇，或透過在提示中指定來客製化您自己的藝術風格。"
+      },
+      "amazing_layouts": {
+        "title": "驚豔的排版",
+        "content": "從我們精心設計的漫畫排版中選擇，讓您的漫畫看起來更棒。您的漫畫將以您想要的方式產生。"
+      },
+      "tell_story": {
+        "title": "講述您的故事",
+        "content": "KomikoAI 的 AI 漫畫製作器將自動為您的漫畫添加對話框、對白和旁白。讓您的角色說話並講述精彩的故事！"
+      },
+      "ai_efficiency": {
+        "title": "AI 驅動的效率",
+        "content": "透過讓 AI 處理視覺效果、旁白和排版來節省數小時的手動工作。"
+      },
+      "high_quality": {
+        "title": "高品質輸出",
+        "content": "下載專業級品質的漫畫，非常適合分享或列印。"
+      },
+      "creative_freedom": {
+        "title": "創作自由",
+        "content": "試驗想法、調整細節並完善您的漫畫以講述您的故事。對您的漫畫不滿意？只需在 AI 漫畫產生器中再次嘗試。"
+      },
+      "accessible": {
+        "title": "隨時可存取",
+        "content": "AI 漫畫產生器是基於雲端的，讓您可以隨時隨地在任何裝置上建立漫畫。"
+      },
+      "share_comics": {
+        "title": "分享您的漫畫",
+        "content": "在 Instagram、Twitter 和 Facebook 等社交媒體平台上分享您的漫畫。 KomikoAI 的 AI 漫畫產生器還可以輕鬆產生量身定制的迷因以供分享。"
+      }
+    }
+  },
+  "faq": {
+    "heading": "關於 AI 漫畫產生器的常見問題",
+    "description": "瞭解更多關於 KomikoAI 的 AI 漫畫產生器如何運作及其優點。",
+    "edit_after_creation": {
+      "question": "在 AI 漫畫產生器建立漫畫後，我可以編輯它嗎？",
+      "answer": "可以！如果您想更改圖像、編輯對話框或變更漫畫排版，您可以點擊漫畫右上角的「編輯」按鈕。它會將您重新導向到 AI 畫布頁面，您可以在那裡編輯漫畫。"
+    },
+    "what_is_comic_generator": {
+      "question": "什麼是 AI 漫畫產生器？",
+      "answer": "AI 漫畫產生器是一種創新的工具，它使用 AI 來自動產生漫畫。輸入您的靈感，選擇一種漫畫風格，然後讓 AI 在幾秒鐘內產生漫畫！它透過根據您的輸入自動產生視覺效果和對白來簡化創作過程。您可以建立所有類型的漫畫故事，例如有趣的故事、冒險或酷炫的超級英雄故事，而無需繪畫！"
+    },
+    "what_is_manga_generator": {
+      "question": "什麼是 AI 漫畫產生器？",
+      "answer": "AI 漫畫產生器是一種創新的工具，它使用 AI 來自動產生漫畫。輸入您的靈感，選擇漫畫風格，然後讓 AI 在幾秒鐘內產生漫畫！它透過根據您的輸入自動產生視覺效果和對白來簡化創作過程。您可以建立所有類型的漫畫，例如少年漫畫、少女漫畫、青年漫畫、異世界等。"
+    },
+    "what_is_manhwa_generator": {
+      "question": "什麼是 AI 韓式漫畫產生器？",
+      "answer": "AI 韓式漫畫產生器是一種創新的工具，它使用 AI 來自動產生韓式漫畫。輸入您的靈感，選擇韓式漫畫風格，然後讓 AI 在幾秒鐘內產生韓式漫畫！它透過根據您的輸入自動產生視覺效果和對白來簡化創作過程。您可以建立所有類型的韓式漫畫，例如動作、愛情、喜劇、恐怖、異世界等。"
+    },
+    "how_to_make_comics": {
+      "question": "如何使用 AI 漫畫產生器製作漫畫？",
+      "answer": "使用 AI 漫畫產生器製作漫畫非常容易！只需為您的漫畫輸入一個故事靈感，AI 漫畫產生器就會將您的想法變成一部精美的漫畫。它還會自動添加對話框並排列您的漫畫畫格。"
+    },
+    "how_it_works": {
+      "question": "AI 漫畫產生器如何運作？",
+      "answer": "只需輸入您的靈感或概念，選擇一種藝術風格（動畫、漫畫或自訂風格），然後讓 KomikoAI 的 AI 建立一個完整設計的漫畫。AI 會分析您的輸入，為每個畫格產生詳細的視覺效果和引人入勝的對白。"
+    },
+    "art_styles": {
+      "question": "支援哪些藝術風格？",
+      "answer": "KomikoAI 支援多種風格，包括動畫、漫畫、美式漫畫和基於您的提示的自訂藝術風格。"
+    },
+    "what_comics_can_i_generate": {
+      "question": "我可以使用 AI 漫畫產生器產生什麼樣的漫畫？",
+      "answer": "您可以產生任何類型的漫畫、日式漫畫、韓式漫畫。超級英雄故事、日本動畫、異世界、回歸、少年、少女、青年，任何您可以想像的故事。AI 漫畫產生器可協助將您的想法變為現實！"
+    },
+    "commercial_use": {
+      "question": "我可以將產生的漫畫用於商業用途嗎？",
+      "answer": "可以！使用 KomikoAI 建立的漫畫可用於個人或商業用途，但須遵守我們的服務條款。"
+    },
+    "need_drawing_skills": {
+      "question": "我需要知道如何繪畫才能使用 AI 漫畫產生器嗎？",
+      "answer": "完全不用！KomikoAI 的 AI 漫畫產生器專為每個人設計，從專業藝術家到完全的初學者。只需帶上您的靈感，AI 漫畫產生器就會處理剩下的事情。"
+    },
+    "for_memes": {
+      "question": "我可以使用 AI 漫畫產生器製作迷因嗎？",
+      "answer": "當然！KomikoAI 的 AI 漫畫產生器非常適合建立搞笑和病毒式的迷因。只需選擇「迷因」模式，然後讓 AI 完成工作。"
+    },
+    "is_free": {
+      "question": "AI 漫畫產生器可以免費使用嗎？",
+      "answer": "KomikoAI 提供免費方案，但 zaps（點數）有限。如需更多功能和更高的使用限制，請查看我們的定價方案。"
+    },
+    "share_online": {
+      "question": "我可以在網路上分享我的漫畫嗎？",
+      "answer": "是的，您可以下載您的漫畫並在 Instagram、Twitter 和 Facebook 等社交媒體平台上分享它們。KomikoAI 還可以輕鬆產生量身定制的迷因以供分享。"
+    },
+    "custom_art_styles": {
+      "question": "我可以使用 AI 漫畫產生器建立自訂藝術風格嗎？",
+      "answer": "是的，透過 KomikoAI 的自訂模式，您可以指定您自己的藝術風格、配色方案和視覺細節，以建立根據您的願景量身定制的獨特漫畫。"
+    },
+    "title": "常見問題"
+  },
+  "date": {
+    "today": "今日",
+    "yesterday": "昨日"
+  },
+  "examples": {
+    "title": "範例漫畫"
+  },
+  "auto_post": "自動發布"
+}

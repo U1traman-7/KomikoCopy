@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "图像转视频生成器 - KomikoAI",
+      "description": "利用 AI 的强大功能，将您的静态图像转化为引人入胜的视频。使用我们的图像转视频生成器，将您的艺术作品、照片或插图转换为生动的动画。",
+      "fullDescription": "隆重推出革命性的图像转视频生成器，旨在将静态图像转化为引人入胜的动态视频。无论您是创作动漫、漫画还是其他令人惊叹的艺术作品，我们的生成器都能让您的视觉作品栩栩如生，从而实现更大的影响力。本工具非常适合寻求创新图像转视频解决方案的内容创作者、艺术家和动画师。",
+      "keywords": "AI 图像转视频, 图像转视频生成器, 图像动画, 动漫视频生成器, 漫画视频工具, 漫画视频工具, 图像转动画, 从图像创建视频, 从图像生成动画"
+    },
+    "hero": {
+      "title": "图像转视频生成器",
+      "description": "使用我们的图像转视频生成器，将您的静态图像转换为令人惊艳的视频。借助先进的 AI 技术，让您的绘画、漫画或任何艺术作品焕发生机。"
+    },
+    "whatIs": {
+      "title": "什么是图像转视频生成器？",
+      "description": "图像转视频生成器是一种前沿工具，它利用人工智能技术，帮助用户从静态图像创建引人入胜的视频。这种变革性的工具尤其适合为您的动漫、漫画等作品注入活力。"
+    },
+    "examples": {
+      "title": "图像转视频示例",
+      "description": "观看使用我们的图像转视频生成器制作的精彩视频。亲眼见证将静态图像轻松转化为动态视频内容的过程！"
+    },
+    "howToUse": {
+      "title": "如何使用图像转视频生成器",
+      "steps": [
+        {
+          "title": "上传您的图像",
+          "content": "选择您希望转换为视频的图像。无论是艺术作品、角色插图还是照片，我们的图像转视频生成器都可以对其进行动画处理。"
+        },
+        {
+          "title": "输入提示词",
+          "content": "提供详细的 prompt，以便指导动画生成过程。 描述您希望 AI 生成的动作、表情和运动。"
+        },
+        {
+          "title": "生成您的视频",
+          "content": "点击“生成动画”按钮，观看我们的图像转视频生成器通过引人入胜的动画，将您的静态图像变为现实。"
+        },
+        {
+          "title": "下载并分享",
+          "content": "生成视频后，即可下载并在您喜欢的平台上分享。它非常适合社交媒体、个人项目和创意展示。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "为什么要使用图像转视频生成器？",
+      "description": "探索使用 AI 技术从图像生成精美视频的巨大优势。 图像转视频生成器使动画艺术触手可及！",
+      "features": [
+        {
+          "title": "高效的 AI 驱动动画",
+          "content": "利用智能 AI 算法分析您的图像，并轻松创建动态视频。",
+          "icon": "🤖"
+        },
+        {
+          "title": "动态且引人入胜的内容",
+          "content": "将您的静态图像转化为引人入胜的视频，非常适合社交媒体和精彩演示。",
+          "icon": "🎬"
+        },
+        {
+          "title": "用户友好的界面",
+          "content": "无需任何动画制作经验！ 只需上传图像，添加 prompt，然后让我们的 AI 完成后续工作。",
+          "icon": "👌"
+        },
+        {
+          "title": "节省时间的解决方案",
+          "content": "大幅缩短动画制作时间。 我们的图像转视频生成器提供快速的结果，让您可以专注于创意本身。",
+          "icon": "⚡"
+        },
+        {
+          "title": "高质量输出",
+          "content": "通过我们的 AI 生成的平滑过渡和逼真的动作，实现专业标准的动画效果。",
+          "icon": "✨"
+        },
+        {
+          "title": "激发您的创造力",
+          "content": "让您的艺术愿景始终处于核心地位，同时我们的 AI 处理动画的技术细节，使整个过程无缝衔接。",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "图像转视频生成器使用指南",
+      "description": "深入了解如何利用图像转视频生成器来创建引人入胜的动画视频。",
+      "q1": "什么是图像转视频生成器？",
+      "a1": "图像转视频生成器是一种创新技术，它使用人工智能将静态图像转换为充满活力的动画视频。 通过利用先进的算法，它可以捕捉运动和情感，非常适合动漫、漫画和各种艺术形式。",
+      "q2": "图像转视频生成器的工作原理是什么？",
+      "a2": "此工具利用复杂的 AI 模型来解读您的图像及其上下文。 它可以智能地识别图像中的关键元素，生成帧来模拟运动和表情，从而使艺术作品栩栩如生。",
+      "q3": "图像转视频生成器有哪些优势？",
+      "a3": "图像转视频生成器具有以下几个优点：它可以快速制作视频，无需深厚的艺术技能；可以将静态视觉效果转化为引人入胜的动画；并且非常适合个人和商业项目。",
+      "q4": "我可以使用图像转视频生成器制作的视频进行商业用途吗？",
+      "a4": "是的，您可以使用生成的视频用于个人和商业用途。 请参阅我们的服务条款，以获取有关使用权的完整详细信息。",
+      "q5": "支持哪些图像文件格式？",
+      "a5": "我们的 AI 支持常见的图像格式，例如 JPG 和 PNG。 为了获得最佳效果，请使用能够有效展现所需效果的高分辨率图像。",
+      "q6": "哪些类型的内容最适合进行动画处理？",
+      "a6": "图像转视频生成器擅长处理动漫、漫画和其他风格化的艺术作品。 清晰的设计可以提高动画视频的质量。",
+      "q7": "使用此工具是否需要具备绘画技巧？",
+      "a7": "完全不需要！ 您可以轻松地创建精美的视频，只需让我们的图像转视频生成器为您的现有图像制作动画即可。",
+      "q8": "使用图像转视频生成器时应该注意哪些限制？",
+      "a8": "尽管图像转视频生成器非常强大，但仍存在一些限制。 非常精细的图像可能需要更长的处理时间，并且保持一致的艺术风格有时可能具有挑战性。 此外，极高分辨率的图像可能需要更多的计算资源。"
+    }
+  },
+  "originalKeyword": "Image to Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：Anime Pro",
+      "description": "Prompt: Anime boy suddenly draws a gun and fires with a flash of light, intense expression, dramatic camera angle. He immediately turns and runs down the street.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/man.webm"
+    },
+    {
+      "id": 2,
+      "title": "模型：Veo 3",
+      "description": "Prompt: A close up in a smooth, slow pan focuses intently on diced onions hitting a scorching hot pan, instantly creating a dramatic sizzle. Audio: distinct sizzle.",
+      "videoUrl": "/images/pages/veo3/example5.webm"
+    },
+    {
+      "id": 3,
+      "title": "模型：Midjourney",
+      "description": "Prompt: Anime maid girl in frilly black and white uniform walking toward camera carrying tea tray, warm cafe lighting, soft focus background with customers, golden hour sunlight through windows, gentle approach movement",
+      "videoUrl": "/images/pages/midjourney/example3.webm"
+    },
+    {
+      "id": 4,
+      "title": "模型：AniSora",
+      "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+      "videoUrl": "/images/pages/anisora/example3.webm"
+    },
+    {
+      "id": 5,
+      "title": "模型：Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 6,
+      "title": "模型：FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said \"cute\" using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    }
+  ],
+  "pageStructure": [
+    "examples",
+    "whatIs",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ]
+}

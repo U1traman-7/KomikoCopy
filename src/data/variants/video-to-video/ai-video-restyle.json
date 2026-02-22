@@ -1,0 +1,147 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Video Restyle | Transform Your Videos Using AI",
+      "description": "Enhance your videos with AI Video Restyle technology. This tool converts any video into anime, cartoon, manga, and manhwa styles while preserving original motion and timing.",
+      "fullDescription": "Our AI Video Restyle tool revolutionizes video transformation by converting ordinary clips into stunning anime, cartoon, manga, and manhwa animations. With advanced Video Style Transfer technology, AI Video Restyle not only applies artistic transformations while maintaining motion consistency, but it also offers over 20 unique styles including beloved Studio Ghibli and engaging Korean manhwa aesthetics. Perfect for content creators, animators, and artists seeking high-quality and professional results.",
+      "keywords": "AI Video Restyle, video restyling tool, anime video restyler, cartoon video transformer, manga video restyling, manhwa video transformer, AI video converter, video animation tool, animated video restyler, AI video stylization, video style transfer, anime transformation tool, cartoon style restyling"
+    },
+    "hero": {
+      "title": "AI Video Restyle"
+    },
+    "whatIs": {
+      "title": "What is AI Video Restyle?",
+      "description": "AI Video Restyle transforms standard videos into captivating anime, cartoon, manga, and manhwa-style animations through innovative Video Style Transfer technology. Our efficient two-step process first creates a styled reference frame before applying this design to transform your entire video, ensuring that original motion and timing are perfectly preserved."
+    },
+    "examples": {
+      "title": "AI Video Restyle Examples",
+      "description": "Witness the magic of AI Video Restyle as it transforms videos into breathtaking anime, cartoon, manga, and manhwa styles while maintaining flawless motion consistency through advanced Video Style Transfer.",
+      "style": "Applied Style"
+    },
+    "howToUse": {
+      "title": "How to Use AI Video Restyle",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Begin by uploading your video file (MP4, MOV, AVI) with a duration of up to 15 seconds and a file size limit of 50MB for processing with AI Video Restyle. Longer videos are automatically trimmed to meet requirements."
+        },
+        {
+          "title": "Select Your Artistic Style",
+          "content": "In the Style Selection section, choose from 20+ artistic styles including anime, cartoon, manga, or create custom styles using text prompts and reference images with AI Video Restyle."
+        },
+        {
+          "title": "Style Preview & Reference",
+          "content": "We extract the first frame and apply your chosen style to create a styled reference. This preview shows how your selected style will be applied to the entire video."
+        },
+        {
+          "title": "Generate Your Restyled Video",
+          "content": "AI Video Restyle processes your entire video using the styled reference frame, carefully preserving all original motion, expressions, and timing for a flawless animated experience."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use AI Video Restyle",
+      "description": "AI Video Restyle offers the best Video Style Transfer available, ensuring motion preservation, a wide range of artistic style options, and transparent pricing calculations.",
+      "features": [
+        {
+          "title": "Accurate Motion Preservation",
+          "content": "AI Video Restyle captures every detail of original motion, facial expressions, and timing while seamlessly applying anime, cartoon, or manga styles with perfect consistency throughout the video transformation.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Extensive Style Choices",
+          "content": "Select from over 20 options, including styles like Studio Ghibli, Korean manhwa, Japanese manga, and more. AI Video Restyle also enables you to create custom styles using text prompts or reference images.",
+          "icon": "🎨"
+        },
+        {
+          "title": "High-Quality Output",
+          "content": "Produce HD results with AI Video Restyle that ensures a consistent application of styles, smooth transitions, and no visual artifacts or flickering.",
+          "icon": "✨"
+        },
+        {
+          "title": "Clear Pricing Structure",
+          "content": "Enjoy a transparent cost system detailing charges for video transformations and processing. Experiment with styles without the concern of additional costs when using AI Video Restyle.",
+          "icon": "⚡"
+        },
+        {
+          "title": "User-Friendly Process",
+          "content": "AI Video Restyle features a straightforward workflow: upload your video, style the reference frame, and generate the final animated version without needing technical expertise.",
+          "icon": "👌"
+        },
+        {
+          "title": "Effortless Optimization",
+          "content": "AI Video Restyle automatically optimizes video processing with format support for MP4, MOV, and AVI files, as well as duration-based cost management for the most efficient experience.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI Video Restyle FAQ",
+      "description": "Explore common inquiries regarding AI Video Restyle, including its functionality, process, costs, and best practices for optimal transformations.",
+      "q1": "How does AI Video Restyle function?",
+      "a1": "AI Video Restyle utilizes a two-step process: 1) A reference frame is extracted, and the chosen anime, cartoon, or manga style is applied, 2) The entire video is transformed using this styled frame, thereby preserving motion and timing to maintain consistency throughout the video.",
+      "q2": "What are the video format requirements for AI Video Restyle?",
+      "a2": "AI Video Restyle supports MP4, MOV, and AVI formats with a maximum file size of 50MB. Videos are limited to 15 seconds and are automatically trimmed if longer for the most effective restyling.",
+      "q3": "What is the estimated time for AI Video Restyle processing?",
+      "a3": "Processing with AI Video Restyle typically takes between 5-10 minutes: the Video Style Transfer process (1-3 minutes) and the video generation phase (3-7 minutes), with real-time progress visibility included.",
+      "q4": "What are the costs associated with AI Video Restyle?",
+      "a4": "AI Video Restyle has distinct charges based on video transformation and generation duration. Costs are clearly shown in real-time before processing begins, and credits are deducted only after successful completions.",
+      "q5": "Can I create custom styles with AI Video Restyle?",
+      "a5": "Absolutely! Choose from more than 20 preset styles (like Studio Ghibli, Korean manhwa, and Japanese manga), or craft unique styles using custom text prompts or reference images for a personalized touch with AI Video Restyle.",
+      "q6": "What video formats yield the best results for AI Video Restyle?",
+      "a6": "To achieve optimal results with AI Video Restyle, ensure your videos have clear subjects, good lighting, stable motion, and well-defined features. For the best transformations, videos under 5 seconds featuring people or recognizable objects are ideal."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/vaporwave.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Vaporwave Style",
+      "description": "Style Transfer | Transfer original video to vaporwave style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/watercolor.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Watercolor Style",
+      "description": "Style Transfer | Transfer original video to watercolor style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Comic Style",
+      "description": "Style Transfer | Transfer original video to comic style"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/retro-game.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Retro Game Style",
+      "description": "Style Transfer | Transfer original video to retro game style"
+    }
+  ],
+  "originalKeyword": "AI Video Restyle",
+  "pageStructure": [
+    "examples",
+    "howToUse",
+    "whatIs",
+    "moreAITools",
+    "benefits",
+    "faq",
+    "cta"
+  ]
+}

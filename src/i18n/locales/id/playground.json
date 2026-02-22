@@ -1,0 +1,212 @@
+{
+  "ui": {
+    "title": "Image Playground: Ubah Jadi Anime, Manga, Manhwa, atau Komik",
+    "infoTooltip": "Mendukung unggahan drag-and-drop untuk foto, render 3D, panel komik, sketsa, dan lainnya.",
+    "styleSelection": {
+      "label": "Pilih Gaya Seni"
+    },
+    "styleModes": {
+      "templates": "Templates",
+      "prompt": "Prompt",
+      "expression": "Expressions"
+    },
+    "prompt": {
+      "placeholder": "Describe your desired style transformation...",
+      "example": "Example: \"Replace the man with Naruto\", \"Turn this into a classic 90s anime style\", \"Dress the girl in a floral dress\""
+    },
+    "button": {
+      "convert": "Konversi",
+      "zaps": "-{{cost}}/{{credit}}"
+    },
+    "results": {
+      "title": "Konversi Anime, Manga, Manhwa & Komik AI Anda",
+      "empty": "Karya seni yang dikonversi akan muncul di sini. Hasilkan seni anime, manga, manhwa, dan komik yang menakjubkan secara instan!"
+    },
+    "deleteModal": {
+      "title": "Hapus Karya Seni",
+      "message": "Apakah Anda yakin ingin menghapus gambar ini? Tindakan ini tidak dapat dibatalkan.",
+      "cancel": "Batal",
+      "delete": "Hapus"
+    },
+    "toast": {
+      "fetchFailed": "Gagal memuat gambar. Harap periksa koneksi internet Anda dan coba lagi.",
+      "deleteSuccess": "Karya seni berhasil dihapus.",
+      "deleteFailed": "Penghapusan gagal. Coba lagi.",
+      "downloadFailed": "Unduhan gagal. Harap segarkan halaman dan coba lagi.",
+      "purchaseZaps": "Harap beli lebih banyak zaps untuk melanjutkan.",
+      "conversionDone": "Konversi seni AI selesai!",
+      "conversionFailed": "Konversi gagal. Harap coba lagi.",
+      "noZaps": "Zaps tidak mencukupi",
+      "generateFailed": "Gagal menghasilkan animasi.",
+      "mediaReceived": "Gambar diunggah dan siap untuk dikonversi."
+    },
+    "errors": {
+      "generateImageFailed": "Pembuatan gambar gagal. Coba input lain.",
+      "resourceExhausted": "Penggunaan sumber daya habis. Harap tingkatkan paket Anda."
+    },
+    "styles": {
+      "anime": "Anime",
+      "ghibliAnime": "Anime Ghibli",
+      "koreanManhwa": "Manhwa Korea",
+      "cartoon": "Kartun",
+      "manga": "Manga",
+      "inkWash": "Lukisan Cuci Tinta",
+      "chibi": "Stiker Chibi",
+      "spriteSheet": "Sprite Sheet",
+      "simpsons": "Simpsons",
+      "rickAndMorty": "Rick and Morty",
+      "southPark": "South Park",
+      "naruto": "Naruto",
+      "onePiece": "One Piece",
+      "myLittlePony": "My Little Pony",
+      "actionFigure": "Action Figure",
+      "figureInBox": "Figure Box",
+      "sticker": "Stiker",
+      "watercolor": "Cat Air",
+      "lineArt": "Line Art",
+      "origamiPaperArt": "Seni Kertas Origami",
+      "lego": "Lego",
+      "lowPoly": "Low Poly",
+      "clay": "Claymation",
+      "pixelArt": "Pixel Art",
+      "vaporwave": "Vaporwave",
+      "cyberpunk": "Cyberpunk",
+      "dollBox": "Figure Box 2",
+      "barbieDoll": "Boneka Barbie",
+      "characterSheet": "Lembar Karakter",
+      "plushie": "Plushie",
+      "badge": "Lencana",
+      "standee": "Standee",
+      "bodyPillow": "Bantal Tubuh"
+    },
+    "styleDescriptions": {
+      "anime": "Anime Jepang dengan warna-warna cerah, pencahayaan dinamis, dan fitur ekspresif.",
+      "ghibliAnime": "Gaya mendetail dan unik yang terinspirasi oleh animasi khas Studio Ghibli.",
+      "koreanManhwa": "Manhwa penuh warna yang terinspirasi webtoon dengan gradien halus dan panel dramatis.",
+      "cartoon": "Gaya kartun modern dengan garis luar tebal dan ekspresi lucu.",
+      "manga": "Manga Jepang hitam putih dengan garis yang rumit dan panel yang unik.",
+      "inkWash": "Cuci tinta tradisional Asia, gradien lembut, dan sapuan kuas yang halus.",
+      "chibi": "Karakter chibi bergaya dan imut — cocok untuk stiker, lencana, dan emoji.",
+      "simpsons": "Tampilan Simpsons klasik: warna kulit kuning, garis luar tebal, dan fitur kartun.",
+      "rickAndMorty": "Tampilan yang sangat bergaya dan eksentrik dari serial animasi terkenal.",
+      "southPark": "Bentuk datar dan sederhana dengan warna-warna cerah — terinspirasi dari gaya South Park.",
+      "naruto": "Anime yang terinspirasi oleh desain karakter, palet warna, dan efek dramatis Naruto.",
+      "onePiece": "Gaya manga/anime One Piece klasik — petualang, energik, dengan fitur wajah yang unik.",
+      "myLittlePony": "Visual unik, pastel, dan ajaib yang dimodelkan setelah seri My Little Pony.",
+      "actionFigure": "Seni action figure 3D mengkilap, ideal untuk koleksi dan mockup tampilan.",
+      "figureInBox": "Pamerkan seni Anda seperti figur dalam kotak — cocok untuk kolektor.",
+      "sticker": "Gaya tebal dan jelas untuk stiker & stiker anime/komik yang menarik perhatian.",
+      "watercolor": "Cat air lembut dan halus untuk efek buku cerita yang dilukis.",
+      "lineArt": "Seni garis monokrom bersih — optimal untuk komik atau desain tato.",
+      "origamiPaperArt": "Lipatan geometris, tekstur kertas — sentuhan origami modern.",
+      "lego": "Bayangkan kembali karakter sebagai figur mini Lego yang lucu.",
+      "lowPoly": "Gaya poligonal dan balok-balok yang mengingatkan pada animasi 3D klasik.",
+      "clay": "Tampilan Claymation — buatan tangan dan taktil, dengan nuansa animasi nostalgia.",
+      "pixelArt": "Desain piksel retro — visual nostalgia yang terinspirasi dari game.",
+      "vaporwave": "Gaya pastel, neon, dan retro-futuris — terinspirasi vaporwave.",
+      "cyberpunk": "Seni cyberpunk gelap, bercahaya, dan digerakkan oleh teknologi.",
+      "dollBox": "Presentasi figur dalam kotak, sempurna untuk mockup dan koleksi.",
+      "barbieDoll": "Boneka digital yang terinspirasi Barbie yang bergaya, mengkilap, dan modis.",
+      "characterSheet": "Lembar turnaround karakter untuk seniman animasi/game.",
+      "plushie": "Gaya mainan mewah yang lembut untuk seni yang lucu dan menggemaskan.",
+      "badge": "Gaya lencana melingkar — bagus untuk avatar, pin, dan media sosial.",
+      "standee": "Seni potongan yang berdiri bebas, seperti merchandise konvensi anime.",
+      "bodyPillow": "Seni khusus yang diformat sempurna untuk dakimakura/bantal tubuh."
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Image Playground - KomikoAI",
+      "description": "Platform AI kreatif terlengkap untuk membuat anime, manga, manhwa, seni komik, dan transformasi gaya yang mulus. Hasilkan, transformasikan, dan tata gaya foto, sketsa, dan render 3D Anda dengan mudah menjadi karya seni anime atau komik berkualitas profesional menggunakan toolkit bertenaga AI tercanggih.",
+      "keywords": "Image Playground, AI playground, pembuatan seni anime, transformasi gaya manga, pembuatan komik manhwa, alat AI gaya komik, pembuat karakter anime, pembuat panel manga, pewarnaan manhwa AI, pembuat webtoon, konverter komik batch, pembuat avatar anime AI, generator seni stiker, animasi panel komik, transfer gaya ilustrasi, aset siap animasi, peralatan komik bertenaga AI, studio AI kreatif, platform seni anime digital"
+    },
+    "hero": {
+      "title": "Image Playground"
+    },
+    "whatIs": {
+      "title": "Apa itu Image Playground?",
+      "description": "Image Playground adalah platform kreatif serba ada dari KomikoAI yang didukung oleh Nano Banana. Dengan sekali klik, ubah karakter dan gambar Anda menjadi anime, manga, stiker chibi 3D, dan lebih dari 100 template menyenangkan! Model AI canggih kami menganalisis input Anda dan menerapkan gaya artistik autentik sambil mempertahankan komposisi dan emosi. Sempurna untuk seniman, kreator, dan penggemar anime yang ingin menjelajahi berbagai gaya seni dengan mudah."
+    },
+    "examples": {
+      "title": "Contoh Image Playground",
+      "description": "Lihat bagaimana Image Playground mengubah gambar menjadi gaya anime, manga, manhwa, dan komik yang menakjubkan dengan sekali klik."
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Image Playground",
+      "steps": [
+        {
+          "title": "Unggah Foto, Render, atau Karya Seni",
+          "content": "Unggah bahan sumber Anda (foto JPG, PNG, WEBP, render 3D, ilustrasi karakter, panel manga/komik, atau sketsa tangan). Image Playground kami menganalisis komposisi, struktur, dan gaya visual untuk hasil transformasi terbaik."
+        },
+        {
+          "title": "Pilih & Sesuaikan Gaya Seni",
+          "content": "Pilih dari berbagai gaya anime, manga, manhwa, kartun, webtoon, dan seni digital seperti lukisan tinta, cel-shading, cat air, seni piksel, atau chibi. Sesuaikan palet warna, ketebalan garis, dan lainnya agar sesuai dengan visi Anda."
+        },
+        {
+          "title": "Transformasi Gaya Instan Berbasis AI",
+          "content": "Biarkan model AI yang kuat secara otomatis menerapkan gaya anime, manga, atau komik yang autentik. Pratinjau dan ubah gambar Anda menggunakan jaringan saraf canggih yang dilatih pada berbagai gaya seni dan konten visual."
+        },
+        {
+          "title": "Unduh, Bagikan, & Kelola Karya",
+          "content": "Unduh karya seni resolusi tinggi Anda, siap untuk dicetak, publikasi komik digital, atau dibagikan di media sosial. Atur aset, buat episode webtoon, paket stiker, atau lembar karakter dengan alat manajemen yang intuitif."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan Image Playground?",
+      "description": "Image Playground kami menawarkan transformasi gaya paling canggih dengan opsi kustomisasi yang luas dan hasil berkualitas profesional.",
+      "features": [
+        {
+          "title": "🎨 Transfer Gaya AI Tingkat Lanjut",
+          "content": "Jaringan saraf terdepan di industri untuk gaya anime, manga, manhwa, webtoon, dan kartun. Dapatkan transformasi gaya berkualitas tinggi, pertahankan komposisi dan emosi seni Anda sambil menambahkan seni garis, cel-shading, dan pewarnaan yang autentik.",
+          "icon": "🎨"
+        },
+        {
+          "title": "🗂️ Pemrosesan Gambar yang Efisien",
+          "content": "Unggah, konversi, dan kelola gambar, lembar karakter, panel komik, atau karya seni dengan mudah. Dirancang untuk alur kerja yang efisien dan nyaman.",
+          "icon": "🗂️"
+        },
+        {
+          "title": "💎 Output Berkualitas Pro, Resolusi Tinggi",
+          "content": "Unduh gambar PNG, JPG, atau WEBP yang jernih dan berkualitas tinggi pada resolusi tinggi—ideal untuk produksi komik profesional, pencetakan, penerbitan digital, atau aset animasi.",
+          "icon": "💎"
+        },
+        {
+          "title": "🖌️ Kustomisasi & Perpustakaan Seni AI Serbaguna",
+          "content": "Jelajahi koleksi gaya bertenaga AI yang luas: anime, manga, manhwa, kartun, chibi, action figure, seni piksel, dan banyak lagi. Sesuaikan sepenuhnya output Anda agar sesuai dengan visi kreatif Anda.",
+          "icon": "🖌️"
+        },
+        {
+          "title": "🚀 Selalu Diperbarui dengan Tren Terbaru",
+          "content": "Terus diperbarui dengan model AI baru yang mencerminkan tren terkini dalam anime, manga, manhwa, dan komik digital. Kreasi Anda akan selalu selaras dengan gaya seni populer.",
+          "icon": "🚀"
+        },
+        {
+          "title": "🤝 Manajemen Aset & Kolaborasi Komunitas",
+          "content": "Simpan, atur, dan bagikan seni anime dan komik Anda dengan aman. Bergabunglah dengan proyek kreatif kolaboratif atau pamerkan karya Anda kepada komunitas kreator anime, manga, dan komik yang penuh semangat.",
+          "icon": "🤝"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Image Playground",
+      "description": "Semua yang perlu Anda ketahui tentang menghasilkan anime, manga, manhwa, komik, stiker, dan aset animasi dari foto atau karya seni Anda menggunakan playground kreatif bertenaga AI canggih kami.",
+      "q1": "Format gambar apa yang didukung oleh Image Playground?",
+      "a1": "Mendukung format input JPG, PNG, dan WEBP, dengan output PNG dan JPG resolusi tinggi — sempurna untuk komik, webtoon, dan karya seni siap cetak.",
+      "q2": "Bisakah AI menangani berbagai gaya animasi, manga, dan komik?",
+      "a2": "Tentu saja! Model AI playground ini dilatih untuk berbagai macam gaya seni: anime Jepang, manga klasik, manhwa penuh warna, webtoon, stiker chibi, komik cel-shaded, seni piksel, dan masih banyak lagi.",
+      "q3": "Seberapa akurat transformasi gaya AI?",
+      "a3": "Berkat jaringan saraf canggih yang dilatih pada beragam gaya seni, AI kami memberikan transformasi gaya yang sangat akurat untuk anime, manga, dan manhwa — menghasilkan hasil yang autentik dan berkualitas tinggi.",
+      "q4": "Apakah platform ini cocok untuk seniman atau studio profesional?",
+      "a4": "Ya — output tingkat pro, pemrosesan efisien, alur kerja yang dapat disesuaikan, dan unduhan resolusi tinggi menjadikannya ideal untuk pembuat manga profesional, komikus, studio animasi, dan ilustrator indie.",
+      "q5": "Fitur kreatif tambahan apa saja yang tersedia?",
+      "a5": "Selain konversi anime, hasilkan stiker, lembar karakter, avatar, latar belakang, lembar sprite, panel komik, action figure, dan banyak lagi. Kelola dan bagikan kreasi Anda menggunakan alat aset terintegrasi dan fitur komunitas."
+    },
+    "cta": {
+      "title": "Mulai Berkarya dengan Image Playground Hari Ini!",
+      "description": "Transform your images into stunning anime, manga, and comic art with our advanced AI technology.",
+      "buttonText": "Coba Image Playground Gratis"
+    }
+  },
+  "examples": []
+}

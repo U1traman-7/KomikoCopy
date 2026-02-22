@@ -1,0 +1,21 @@
+{
+  "title": "검색",
+  "placeholder": "작품, 캐릭터, 사용자 검색",
+  "input_placeholder": "검색",
+  "history": "검색어 기록",
+  "clear": "기록 삭제",
+  "tags": "태그",
+  "no_results": "검색 결과 없음",
+  "filter": {
+    "all": "전체",
+    "users": "사용자",
+    "characters": "캐릭터",
+    "templates": "템플릿",
+    "posts": "게시물",
+    "tags": "태그"
+  },
+  "see_all": "전체 보기",
+  "followers": "팔로워",
+  "follow": "팔로우",
+  "following": "팔로잉"
+}

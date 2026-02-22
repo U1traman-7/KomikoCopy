@@ -1,0 +1,173 @@
+{
+  "hero": {
+    "title": "AniGen",
+    "subtitle": "KOMPETISI ANIMASI AI FORMAT PENDEK PERTAMA DI DUNIA",
+    "sponsors": "Sponsor:",
+    "btnRules": "LIHAT ATURAN LENGKAP",
+    "btnSubmit": "SUBMIT ANIMASI ANDA"
+  },
+  "about": {
+    "subtitle": "Di Mana AI Bertemu Animasi",
+    "title": "TENTANG KOMPETISI INI",
+    "description1": "Selamat datang di AniGen, kompetisi animasi pendek vertikal berbasis AI yang pertama di dunia, dipersembahkan oleh KomikoAI, Hedra, Hailuo, dan AniShort. Kami menggabungkan teknologi AI terdepan dengan kreativitas bercerita untuk merintis genre animasi yang baru.",
+    "description2": "AniGen bertujuan untuk menemukan dan mempromosikan kreator-kreator baru di bidang animasi. Anda diundang untuk mendorong batasan-batasan dalam animasi dengan AI. Baik Anda seorang kreator AI, animator tradisional yang menjelajahi teknologi baru, penulis naskah, atau penggemar animasi — inilah kesempatan Anda untuk menunjukkan bakat Anda dan memenangkan hadiah-hadiah menarik, langganan alat AI gratis, dan bahkan kesempatan untuk menayangkan karya Anda di aplikasi streaming AniShort."
+  },
+  "prizes": {
+    "title": "HADIAH",
+    "animation": {
+      "title": "Jalur Animasi",
+      "grandPrize": "Hadiah Utama (1 pemenang)",
+      "grandPrizeDetails": [
+        "$3.000 USD",
+        "Langganan pro gratis selama 6 bulan ke Hailuo, Hedra, dan KomikoAI",
+        "Kesempatan untuk mengembangkan animasi lebih lanjut dengan pendanaan dan ditayangkan di aplikasi streaming AniShort"
+      ],
+      "secondPrize": "Hadiah Kedua (1 pemenang)",
+      "secondPrizeDetails": "$1.500 USD + langganan pro selama 3 bulan ke alat AI",
+      "runnerUp": "Hadiah Runner-Up (2 pemenang)",
+      "runnerUpDetails": "$500 USD + langganan pro selama 2 bulan ke alat AI",
+      "excellence": "Penghargaan Keunggulan (30 kreator)",
+      "excellenceDetails": "Langganan pro selama 1 bulan ke alat AI",
+      "note": "Para pemenang akan dipromosikan di seluruh kanal media sosial sponsor, diundang untuk dirilis di platform streaming AniShort, dan bahkan mungkin berkesempatan untuk mengembangkan lebih lanjut animasi mereka dengan pendanaan atau dukungan studio."
+    },
+    "scriptwriting": {
+      "title": "Jalur Penulisan Naskah",
+      "grandPrize": "Hadiah Utama (1 pemenang)",
+      "grandPrizeDetails": "$1.000 USD",
+      "excellence": "Penghargaan Keunggulan (3 kreator)",
+      "excellenceDetails": "$100 USD",
+      "note": "Naskah-naskah terpilih berpotensi diadaptasi menjadi animasi dan ditayangkan di platform streaming AniShort dengan sistem bagi hasil."
+    }
+  },
+  "judges": {
+    "label": "Kenali Jajaran Juri Kami",
+    "title": "PARA JURI",
+    "description": "Panel juri kami yang terhormat terdiri dari para pemimpin industri dan pelopor kreatif:",
+    "judge1": {
+      "name": "Ben Waller",
+      "title": "Chief Creative Officer di Story Engine Inc., Penulis Skenario, Star Trek: Lower Decks, Roborockaylpse."
+    },
+    "judge2": {
+      "name": "Michael Lingelbach",
+      "title": "Pendiri & CEO Hedra"
+    },
+    "judge3": {
+      "name": "Garrett Pollack",
+      "title": "Influencer media sosial di bidang anime"
+    },
+    "judge4": {
+      "name": "Aiden Guo",
+      "title": "Animator One Piece, kreator & influencer animasi AI"
+    },
+    "judge5": {
+      "name": "Leanna Ren",
+      "title": "VP @ MiniMax"
+    }
+  },
+  "timeline": {
+    "title": "JADWAL",
+    "launch": {
+      "date": "28 April 2025",
+      "title": "Peluncuran Kompetisi"
+    },
+    "submission": {
+      "date": "28 April - 20 Mei 2025",
+      "title": "Periode Pengiriman Karya"
+    },
+    "judging": {
+      "date": "20 Mei - 1 Juni 2025",
+      "title": "Periode Penjurian"
+    },
+    "announcement": {
+      "date": "1 Juni 2025",
+      "title": "Pengumuman Pemenang"
+    }
+  },
+  "rules": {
+    "title": "PERSYARATAN & ATURAN",
+    "animation": {
+      "title": "JALUR ANIMASI",
+      "description": "Buat animasi pendek vertikal yang menyampaikan cerita yang menarik",
+      "format": {
+        "label": "Format:",
+        "value": "Vertikal 9:16 (dioptimalkan untuk seluler), MP4"
+      },
+      "duration": {
+        "label": "Durasi:",
+        "value": "30 detik hingga 3 menit"
+      },
+      "content": {
+        "label": "Konten:",
+        "value": "Animasi harus menceritakan kisah yang utuh atau menjadi pembuka dari sebuah serial yang lebih panjang. Kami TIDAK menerima trailer atau video musik."
+      },
+      "requirements": {
+        "label": "Persyaratan Utama:",
+        "list": [
+          "Gunakan alat AI untuk setidaknya 50% proses pembuatan, termasuk:",
+          "Setidaknya satu adegan karakter berbicara menggunakan model Character-3 Hedra",
+          "Setidaknya satu gambar karakter/adegan yang dihasilkan dengan KomikoAI",
+          "Setidaknya satu klip animasi yang dihasilkan dengan Hailuo, baik melalui platform Hailuo maupun melalui Hedra/KomikoAI",
+          "Hanya karya orisinal - tidak ada pelanggaran hak cipta",
+          "Wajib menyertakan sulih suara atau teks berbahasa Inggris",
+          "Unggah karya Anda di media sosial dan tag #AniGen @hedra_labs @KomikoAI @Hailuo_AI @AniShortApp agar akun resmi dapat memposting ulang",
+          "Anda harus berusia 18 tahun ke atas untuk memenuhi syarat",
+          "Tidak ada konten NSFW, ujaran kebencian, kekerasan ekstrem, atau materi berhak cipta"
+        ]
+      }
+    },
+    "scriptwriting": {
+      "title": "JALUR PENULISAN NASKAH",
+      "description": "Buat konsep orisinal untuk serial animasi pendek vertikal",
+      "format": {
+        "label": "Format:",
+        "value": "Paket konsep dengan naskah untuk 5 episode pertama"
+      },
+      "duration": {
+        "label": "Durasi:",
+        "value": "Setiap episode harus berdurasi 1-2 menit, dirancang untuk penceritaan cepat dan menarik perhatian"
+      },
+      "genre": {
+        "label": "Genre:",
+        "value": "Semua genre dipersilakan, misalnya, aksi, romansa, fantasi, isekai, shounen, dll."
+      },
+      "requirements": {
+        "label": "Persyaratan:",
+        "list": [
+          "Judul, sinopsis plot, ikhtisar karakter, dan naskah lengkap dari 5 episode pertama",
+          "Bahasa: Inggris atau dengan terjemahan bahasa Inggris",
+          "Hanya karya orisinal - tidak ada pelanggaran hak cipta",
+          "Tidak ada konten NSFW, ujaran kebencian, kekerasan ekstrem, atau materi berhak cipta"
+        ]
+      }
+    }
+  },
+  "sponsors": {
+    "title": "SPONSOR & MITRA KAMI",
+    "hedra": {
+      "name": "Hedra",
+      "description": "Model generasi video avatar AI"
+    },
+    "hailuo": {
+      "name": "Hailuo",
+      "description": "Model generasi video AI"
+    },
+    "komiko": {
+      "name": "KomikoAI",
+      "description": "Toolkit pembuatan animasi & komik AI"
+    },
+    "anishort": {
+      "name": "AniShort",
+      "description": "Platform streaming animasi pendek"
+    }
+  },
+  "submit": {
+    "title": "BERGABUNG DENGAN MASA DEPAN ANIMASI",
+    "description": "Kirim karya Anda hari ini dan jadilah pelopor gelombang animasi bertenaga AI berikutnya.",
+    "btnSubmit": "SUBMIT ANIMASI ANDA",
+    "btnRules": "LIHAT ATURAN"
+  },
+  "meta": {
+    "title": "Kompetisi AniGen - Kompetisi Animasi AI Format Pendek | Menangkan $6.000 dan Langganan Alat AI Gratis",
+    "description": "Bergabunglah dengan kompetisi animasi pendek vertikal berbasis AI yang pertama di dunia, dipersembahkan oleh KomikoAI, Hedra, Hailuo, dan AniShort."
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "ui": {
+    "title": "Penyederhana Sketsa AI",
+    "description": "Ubah sketsa kasar Anda menjadi *line art* yang bersih dan sederhana dengan AI. Nikmati penyederhanaan sketsa instan yang meningkatkan kualitas gambar Anda dalam sekali klik! Ideal untuk seniman, desainer, dan penggemar manga yang ingin mempercepat proses kreatif mereka.",
+    "input": {
+      "title": "Masukan",
+      "tooltip": "Unggah sketsa yang ingin disederhanakan",
+      "sketchImage": "Gambar Sketsa",
+      "aiModel": "Model AI",
+      "models": {
+        "basic": "Dasar",
+        "advanced": "Lanjutan"
+      },
+      "selectModel": "Pilih Model"
+    },
+    "buttons": {
+      "simplifyImage": "Sederhanakan Gambar"
+    },
+    "output": {
+      "title": "Hasil Penyederhanaan",
+      "emptyState": "Hasil penyederhanaan akan muncul di sini",
+      "uploadPrompt": "Unggah gambar untuk memulai"
+    },
+    "toast": {
+      "fetchImagesFailed": "Gagal mengambil gambar",
+      "deleteSuccess": "Berhasil dihapus",
+      "deleteFailed": "Gagal menghapus",
+      "downloadFailed": "Gagal mengunduh",
+      "simplifySuccess": "Gambar berhasil disederhanakan",
+      "simplifyFailed": "Gambar gagal disederhanakan",
+      "createImageFailed": "Gagal membuat gambar"
+    },
+    "examples": {
+      "inputSketch": "Sketsa Masukan",
+      "simplifiedResult": "Hasil yang Disederhanakan",
+      "example1": "Sketsa kasar diubah menjadi *line art* yang bersih",
+      "example2": "Sketsa kasar ditingkatkan menjadi *line art* yang lebih halus"
+    },
+    "modal": {
+      "deleteTitle": "Konfirmasi Penghapusan",
+      "deleteMessage": "Anda yakin ingin menghapus gambar ini? Tindakan ini tidak dapat dibatalkan.",
+      "cancel": "Batal",
+      "delete": "Hapus"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Penyederhana Sketsa AI - KomikoAI",
+      "description": "Ubah sketsa kompleks menjadi *line art* yang bersih dan sederhana dengan AI. Unggah sketsa Anda dan biarkan AI menyempurnakannya.",
+      "keywords": "penyederhana sketsa AI, sketsa ke *line art*, *line art* AI, peningkatan sketsa, sketsa manga, sketsa komik, alat gambar AI, pembersihan sketsa, generator *line art*"
+    },
+    "hero": {
+      "title": "Penyederhana Sketsa AI"
+    },
+    "howToUse": {
+      "title": "Cara Menyederhanakan Sketsa Anda dengan AI",
+      "description": "Ubah sketsa kasar Anda menjadi *line art* yang bersih dan sederhana dengan Penyederhana Sketsa AI Komiko dalam beberapa langkah mudah.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Langkah 1: Unggah Gambar Sketsa",
+          "content": "Unggah sketsa atau gambar kasar Anda ke Penyederhana AI. Format JPG dan PNG didukung."
+        },
+        {
+          "step": 2,
+          "title": "Langkah 2: Sederhanakan dan Bagikan",
+          "content": "Klik 'Sederhanakan Gambar' dan biarkan AI bekerja. Unduh dan bagikan hasil kreasi Anda yang sudah disederhanakan!"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Contoh Penyederhanaan Sketsa AI",
+      "description": "Lihat hasil penyederhanaan sketsa yang dihasilkan oleh pengguna Anitoon"
+    },
+    "cta": {
+      "title": "Ubah Sketsa Anda dengan AI Hari Ini!",
+      "description": "Mulai sederhanakan sketsa Anda dengan teknologi AI canggih kami.",
+      "buttonText": "Coba Penyederhana Sketsa Gratis"
+    },
+    "benefits": {
+      "title": "Mengapa Anda Harus Menyederhanakan Sketsa Anda dengan AI",
+      "description": "Penyederhana Sketsa AI Anitoon membantu seniman mengubah sketsa kasar menjadi *line art* yang bersih dan ditingkatkan, membuat proses kreatif Anda lebih efisien.",
+      "features": [
+        {
+          "title": "*Line Art* Bersih",
+          "content": "Ubah sketsa yang berantakan menjadi *line art* profesional yang bersih dengan ketebalan garis yang konsisten dan kejelasan yang ditingkatkan.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Konsistensi Gaya",
+          "content": "Pertahankan gaya *line art* yang konsisten di seluruh gambar Anda dengan penyederhanaan bertenaga AI.",
+          "icon": "🖌️"
+        },
+        {
+          "title": "Hemat Waktu",
+          "content": "Hemat waktu untuk peningkatan *line art* manual dengan membiarkan AI menangani proses penyederhanaan.",
+          "icon": "💎"
+        },
+        {
+          "title": "Kejelasan yang Ditingkatkan",
+          "content": "Tingkatkan kejelasan dan keterbacaan sketsa Anda dengan menghilangkan detail dan noise yang tidak perlu.",
+          "icon": "💪"
+        },
+        {
+          "title": "Penyederhanaan Cerdas",
+          "content": "AI menganalisis struktur sketsa Anda dan menyederhanakannya secara cerdas sambil mempertahankan detail penting.",
+          "icon": "🧠"
+        },
+        {
+          "title": "Kualitas Profesional",
+          "content": "Dapatkan *line art* tingkat profesional yang siap untuk diwarnai secara digital.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Optimalisasi Alur Kerja",
+          "content": "Sederhanakan proses kreatif Anda dengan mengotomatiskan tahap peningkatan sketsa.",
+          "icon": "💫"
+        },
+        {
+          "title": "Pemilihan Model",
+          "content": "Pilih antara model AI Dasar dan Lanjutan untuk menyesuaikan dengan kebutuhan spesifik Anda.",
+          "icon": "📚"
+        },
+        {
+          "title": "Penyempurnaan Instan",
+          "content": "Ubah sketsa kasar menjadi *line art* yang lebih halus secara instan, cocok untuk manga, komik, dan ilustrasi.",
+          "icon": "⚡️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan Umum Tentang Penyederhanaan Sketsa AI",
+      "description": "Temukan jawaban atas pertanyaan yang sering diajukan tentang menyederhanakan sketsa dengan AI.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Apa itu Penyederhanaan Sketsa AI?",
+          "answer": "Penyederhanaan Sketsa AI adalah proses yang menggunakan kecerdasan buatan untuk mengubah sketsa kasar menjadi *line art* yang bersih dan ditingkatkan. Alat Penyederhana Sketsa AI Komiko membantu seniman menyederhanakan proses kreatif mereka dengan secara otomatis menyempurnakan dan menyederhanakan gambar mereka sambil mempertahankan detail penting."
+        },
+        {
+          "id": 2,
+          "question": "Bagaimana cara menyederhanakan sketsa dengan AI?",
+          "answer": "Anda dapat menyederhanakan sketsa Anda dengan Komiko AI dalam dua langkah mudah:\n1. Unggah gambar sketsa Anda ke Penyederhana AI.\n2. Klik 'Sederhanakan Gambar' dan biarkan AI menyempurnakan gambar Anda."
+        },
+        {
+          "id": 3,
+          "question": "Bagaimana cara kerja Penyederhana Sketsa AI?",
+          "answer": "Penyederhana Sketsa AI menggunakan model AI canggih yang dilatih pada jutaan gambar untuk menganalisis struktur sketsa Anda dan menyederhanakannya secara cerdas. AI mengidentifikasi garis dan detail penting sambil menghilangkan noise dan kompleksitas yang tidak perlu, menghasilkan *line art* profesional yang bersih."
+        },
+        {
+          "id": 4,
+          "question": "Apa manfaat dari Penyederhanaan Sketsa AI?",
+          "answer": "Ada berbagai manfaat menyederhanakan sketsa dengan AI:\n• Menghemat waktu dibandingkan dengan peningkatan *line art* manual.\n• Menghasilkan *line art* berkualitas profesional yang konsisten.\n• Mempertahankan detail penting sambil menghilangkan noise.\n• Cocok untuk manga, komik, dan ilustrasi."
+        },
+        {
+          "id": 5,
+          "question": "Bisakah saya menggunakan sketsa yang disederhanakan AI untuk tujuan komersial?",
+          "answer": "Ya, Anda dapat menggunakan sketsa yang disederhanakan yang dihasilkan AI untuk tujuan pribadi dan komersial. Namun, pastikan Anda mematuhi persyaratan layanan Komiko."
+        },
+        {
+          "id": 6,
+          "question": "Format dan ukuran apa yang didukung?",
+          "answer": "AI mendukung sketsa dalam format JPG dan PNG. Gambar keluaran akan mempertahankan ukuran aslinya sambil disederhanakan."
+        },
+        {
+          "id": 7,
+          "question": "Apakah Penyederhanaan Sketsa AI gratis untuk digunakan?",
+          "answer": "Komiko menawarkan zaps (kredit) gratis agar Anda dapat mencoba alat tersebut. Anda juga dapat membeli paket berbayar untuk mendapatkan lebih banyak zaps jika Anda membutuhkan lebih banyak penggunaan, serta fitur-fitur canggih seperti pemrosesan yang lebih cepat dan resolusi yang lebih tinggi."
+        },
+        {
+          "id": 8,
+          "question": "Jenis sketsa apa yang dapat saya sederhanakan dengan AI?",
+          "answer": "Penyederhana AI berfungsi dengan berbagai jenis sketsa:\n• Sketsa dan coretan kasar.\n• Desain karakter.\n• Halaman manga dan komik.\n• Desain produk.\n• Gambar arsitektur.\n• Seni konsep.\nUntuk hasil terbaik, pastikan sketsa Anda memiliki garis yang jelas dan terdefinisi dengan baik serta kontras yang baik."
+        },
+        {
+          "id": 9,
+          "question": "Apa batasan Penyederhana Sketsa AI?",
+          "answer": "Meskipun Penyederhana Sketsa AI adalah alat yang ampuh, ia memiliki beberapa batasan:\n• Detail Kompleks: Sketsa yang sangat rumit atau sangat detail mungkin kehilangan beberapa detail halus.\n• Konsistensi Gaya: AI mungkin tidak sepenuhnya cocok dengan gaya artistik yang Anda inginkan.\n• Kualitas: Kualitas penyederhanaan tergantung pada kualitas sketsa masukan.\nTerlepas dari batasan ini, penyederhana AI dapat secara signifikan mempercepat alur kerja Anda dan meningkatkan proses kreatif Anda."
+        },
+        {
+          "id": 10,
+          "question": "Apakah saya perlu tahu cara menggambar untuk menggunakan Penyederhana Sketsa AI?",
+          "answer": "Tidak, Anda tidak perlu menjadi seniman ahli untuk menggunakan Penyederhana Sketsa AI.\n• Untuk Seniman: Jika Anda membuat sketsa sendiri, alat ini dapat membantu menyempurnakan dan membersihkan pekerjaan Anda.\n• Untuk Non-Seniman: Anda dapat mulai dengan sketsa atau templat yang ada dan membiarkan AI menangani penyederhanaan.\nAlat ini dirancang agar mudah digunakan untuk semua orang, baik Anda seorang seniman berpengalaman atau pemula yang menjelajahi kreativitas."
+        },
+        {
+          "id": 11,
+          "question": "Bagaimana saya bisa mendapatkan hasil terbaik dari Penyederhana Sketsa AI?",
+          "answer": "Ikuti tips berikut untuk penyederhanaan optimal:\n• Gunakan sketsa yang jelas dan terdefinisi dengan baik dengan kontras yang baik.\n• Pastikan sketsa Anda memiliki garis dan bentuk yang berbeda.\n• Pilih model AI yang sesuai untuk kebutuhan Anda.\n• Pertimbangkan untuk menggunakan opsi latar belakang transparan bila diperlukan."
+        },
+        {
+          "id": 12,
+          "question": "Bagaimana perbandingan Penyederhana AI dengan penyempurnaan manual?",
+          "answer": "Penyederhana Sketsa AI menawarkan penghematan waktu yang signifikan dibandingkan dengan penyempurnaan manual, mengurangi jam kerja menjadi menit. Meskipun mungkin tidak sepenuhnya menggantikan penyempurnaan tradisional untuk proyek artistik yang detail, ini adalah alat yang sangat baik untuk pembuatan prototipe cepat, visualisasi konsep, dan membuat beberapa variasi dengan cepat. AI memahami prinsip-prinsip *line art* dan dapat menyarankan peningkatan yang mungkin tidak Anda pertimbangkan."
+        },
+        {
+          "id": 13,
+          "question": "Bisakah saya mengedit hasil yang disederhanakan AI?",
+          "answer": "Ya, Anda dapat mengedit dan menyempurnakan lebih lanjut sketsa yang disederhanakan AI menggunakan perangkat lunak seni digital pilihan Anda. Hasil yang dihasilkan AI berfungsi sebagai dasar yang sangat baik yang dapat Anda tingkatkan dengan sentuhan artistik pribadi Anda."
+        },
+        {
+          "id": 14,
+          "question": "Apa saja cara kreatif untuk menggunakan Penyederhana Sketsa AI?",
+          "answer": "Penyederhana Sketsa AI dapat digunakan untuk:\n• Pembuatan prototipe cepat desain karakter.\n• Membuat *line art* bersih untuk komik dan manga.\n• Menyempurnakan sketsa kasar menjadi ilustrasi yang lebih halus.\n• Mengembangkan seni konsep.\n• Tujuan pendidikan di kelas seni.\n• Mengonversi gambar kasar menjadi *line art* sederhana."
+        }
+      ]
+    }
+  },
+  "examples": [
+    {
+      "input": "/images/examples/sketch_simplifier/input2.webp",
+      "output": "/images/examples/sketch_simplifier/output2.webp",
+      "inputLabel": "Sketsa Masukan",
+      "outputLabel": "Hasil yang Disederhanakan",
+      "prompt": "Sketsa kasar diubah menjadi *line art* yang bersih"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input1.webp",
+      "output": "/images/examples/sketch_simplifier/output1.webp",
+      "inputLabel": "Sketsa Masukan",
+      "outputLabel": "Hasil yang Disederhanakan",
+      "prompt": "Sketsa kasar ditingkatkan menjadi *line art* yang lebih halus"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input3.webp",
+      "output": "/images/examples/sketch_simplifier/output3.webp",
+      "inputLabel": "Sketsa Masukan",
+      "outputLabel": "Hasil yang Disederhanakan",
+      "prompt": "Sketsa kasar ditingkatkan menjadi *line art* yang lebih halus"
+    }
+  ]
+}

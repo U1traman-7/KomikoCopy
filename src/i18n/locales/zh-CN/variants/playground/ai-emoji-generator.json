@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI表情符号生成器",
+      "description": "使用我们的AI表情符号生成器，免费在线创作个性化表情和贴纸。将您的照片转化为定制表情符号，立即生成独一无二的趣味表情艺术！",
+      "keywords": "AI表情符号生成器, 免费生成表情符号和贴纸, 表情符号创作, 照片转表情符号, AI生成表情符号, 独特表情艺术"
+    },
+    "hero": {
+      "title": "AI表情符号生成器"
+    },
+    "whatIs": {
+      "title": "什么是AI表情符号生成器？",
+      "description": "AI表情符号生成器是一款独特的应用程序，它利用先进的AI算法免费生成表情符号和贴纸，将您的照片变成有趣、富有表现力的表情符号设计。与传统滤镜不同，我们的技术在创作趣味十足的表情符号诠释的同时，能够保留您照片的精髓。无论用于个人表达还是纯粹为了娱乐，进入表情符号艺术的世界从未如此简单！"
+    },
+    "examples": {
+      "title": "AI表情符号生成器示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用AI表情符号生成器",
+      "steps": [
+        {
+          "title": "步骤 1：上传您的照片",
+          "content": "首先选择并上传您想要转换的图像。我们的工具支持各种常见的图像格式，例如JPG和PNG，为您带来轻松便捷的体验。"
+        },
+        {
+          "title": "步骤 2：选择 Q版 贴纸模板",
+          "content": "选择您喜欢的 Q版 贴纸模板，将您的照片转换为可爱的Q版风格。"
+        },
+        {
+          "title": "步骤 3：生成 Q版 贴纸",
+          "content": "点击“转换为表情符号”按钮，见证神奇的转换过程，我们的AI将根据您的照片生成独具特色的表情符号艺术作品！"
+        },
+        {
+          "title": "步骤 4：下载并分享",
+          "content": "您的作品完成后，即可轻松下载并在社交媒体上分享，给您的朋友和粉丝们留下深刻印象！"
+        }
+      ],
+      "subtitle": "只需几个简单的步骤，即可将您的图像转换成独一无二的表情符号！"
+    },
+    "benefits": {
+      "title": "为什么要使用AI表情符号生成器？",
+      "description": "体验将您的照片变成独一无二的表情符号艺术的乐趣！",
+      "features": [
+        {
+          "title": "🎨 无限的艺术风格",
+          "content": "探索各种表情符号转换风格，确保每次创作都完全独特并忠于您的艺术愿景。"
+        },
+        {
+          "title": "⚡ 快速转换",
+          "content": "我们高效的AI能够快速处理图像，让您在几秒钟内创作出引人注目的表情符号艺术！"
+        },
+        {
+          "title": "💻 直观的用户界面/用户体验",
+          "content": "创作独特的表情符号艺术非常简单易用，适合从新手到经验丰富的创作者。"
+        },
+        {
+          "title": "📱 便于分享",
+          "content": "通过独特的表情符号设计来提升您的在线形象，吸引目光并抓住受众的注意力。"
+        },
+        {
+          "title": "✨ 创意成果即刻呈现",
+          "content": "无需长时间等待！只需几个简单的操作即可体验即时设计转换。"
+        },
+        {
+          "title": "🤖 由先进的AI技术驱动",
+          "content": "我们的系统利用最先进的AI算法，保证每次都能生成高质量和原创的表情符号艺术作品。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI表情符号生成器 FAQ",
+      "description": "",
+      "q1": "如何使用AI表情符号生成器免费生成表情符号和贴纸？",
+      "a1": "AI表情符号生成器使用先进的算法来分析您的照片，并将其重新诠释为独特的表情符号风格艺术作品，将创新与创造力融为一体。",
+      "q2": "如何在使用AI表情符号生成器时优化结果？",
+      "a2": "为了获得最佳效果，请从清晰、高质量的图像开始，并探索能够反映您愿景的不同表情符号风格，从而获得最佳的转换效果。",
+      "q3": "使用AI表情符号生成器是免费的吗？",
+      "a3": "是的，我们的AI表情符号生成器可以免费使用！您也可以探索高级选项以获得更多专属风格。",
+      "q4": "AI表情符号生成器与其他工具的区别是什么？",
+      "a4": "与基本照片滤镜不同，我们的生成器利用前沿的AI来创建根据您的特定需求量身定制的自定义表情符号效果，从而确保独特的艺术效果。",
+      "q5": "我可以使用AI表情符号生成器创建的艺术作品用于商业目的吗？",
+      "a5": "当然！您完全拥有将您的表情符号艺术作品用于个人、教育和商业用途的权利。"
+    },
+    "cta": {
+      "title": "立即免费生成您的专属表情和贴纸",
+      "description": "通过我们的AI表情符号生成器，潜入表情符号创作的奇妙世界。免费生成表情符号和贴纸，释放您的无限想象力。立即开始您的创作之旅！",
+      "buttonText": "免费生成表情符号和贴纸"
+    }
+  },
+  "config": {},
+  "placeholderText": "Generate emojis and stickers for free from your photo",
+  "originalKeyword": "AI Emoji Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Chibi"
+    }
+  ]
+}

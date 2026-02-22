@@ -1,0 +1,389 @@
+{
+  "seo": {
+    "title": "Qwen Image | 무료 온라인 Qwen Image 생성 도구",
+    "description": "무료 Qwen Image 생성기로 멋진 비주얼을 즉시 만들어 보세요. 텍스트 프롬프트를 고품질 이미지, 정확한 텍스트 렌더링 및 매끄러운 편집 기능으로 변환합니다.",
+    "keywords": "Qwen Image, 무료 Qwen Image 생성, Qwen AI 이미지 생성기, 온라인 Qwen Image 도구, 텍스트-이미지 Qwen, Qwen Image 편집기, AI 이미지 생성, Qwen-Image 무료, Qwen 텍스트 렌더링, Qwen 정밀 편집, Qwen으로 이미지 생성, Qwen Image 플랫폼, Qwen-Image 데모, Qwen 비주얼"
+  },
+  "content": {
+    "header": {
+      "title": "Qwen Image",
+      "subtitle": "무료 온라인 Qwen Image 생성 – 즉각적인 AI 기반 이미지 생성"
+    },
+    "sections": {
+      "examples": {
+        "title": "Qwen Image 예시",
+        "description": "Qwen Image로 생성된 다양한 AI 생성 비주얼 샘플을 살펴보십시오. 실사적인 장면과 애니메이션 아트부터 복잡한 텍스트 레이아웃의 포스터 디자인까지, Qwen Image 엔진의 모든 잠재력을 확인해 보세요."
+      },
+      "whatIs": {
+        "title": "Qwen Image란 무엇인가요?",
+        "description": "Qwen Image는 복잡한 텍스트 렌더링 및 정밀한 이미지 편집에서 괄목할 만한 발전을 이룬 혁신적인 20B MMDiT 이미지 파운데이션 모델입니다. 최첨단 멀티모달 디퓨전 트랜스포머 아키텍처를 기반으로 구축되어 AI 기반 비주얼 콘텐츠 제작의 혁신을 보여줍니다.",
+        "keyFeatures": [
+          {
+            "title": "🎯 탁월한 텍스트 렌더링",
+            "description": "여러 줄 레이아웃, 단락 수준의 의미 체계 및 미세한 디테일로 복잡한 텍스트 렌더링에 탁월한 성능을 자랑합니다. 뛰어난 충실도와 자동 레이아웃 최적화를 통해 알파벳 언어(영어)와 표의 문자 언어(중국어)를 모두 지원합니다."
+          },
+          {
+            "title": "✏️ 일관성 있는 이미지 편집",
+            "description": "향상된 멀티태스크 훈련 패러다임을 통해 스타일 전송, 객체 추가/제거 및 텍스트 수정을 포함한 편집 작업 시 의미론적 의미와 시각적 사실성을 모두 보존하는 데 뛰어난 성능을 제공합니다."
+          },
+          {
+            "title": "🏆 최첨단 성능",
+            "description": "GenEval, DPG, OneIG-Bench(생성용) 및 GEdit, ImgEdit, GSO(편집용)를 포함한 다양한 벤치마크에서 기존 모델보다 지속적으로 뛰어난 성능을 보입니다. 특히 LongText-Bench, ChineseWord 및 TextCraft와 같은 텍스트 렌더링 벤치마크에서 두각을 나타냅니다."
+          },
+          {
+            "title": "🌐 다국어 지원",
+            "description": "영어와 함께 복잡한 중국어 텍스트 렌더링을 기본적으로 지원하며, 원활한 이중 언어 텍스트 생성 기능을 제공합니다. 국제 콘텐츠, 교육 자료 및 교차 문화 시각적 커뮤니케이션 제작에 적합합니다."
+          }
+        ],
+        "technicalHighlights": {
+          "title": "기술적 특징",
+          "points": [
+            "20B 파라미터 MMDiT (멀티모달 디퓨전 트랜스포머) 아키텍처",
+            "픽셀 단위의 완벽한 타이포그래피를 위한 고급 텍스트-이미지 정렬",
+            "생성 및 편집 통합을 위한 멀티태스크 훈련 패러다임",
+            "생성 및 편집 작업 모두에서 벤치마크 성능 우위",
+            "자동 레이아웃을 통한 기본 중국어 및 영어 텍스트 렌더링"
+          ]
+        }
+      },
+      "howToUse": {
+        "title": "KomikoAI에서 Qwen Image 사용 방법",
+        "subtitle": "Qwen Image로 비주얼을 생성하고 편집하려면 다음의 간단한 단계를 따르십시오.",
+        "steps": [
+          {
+            "title": "1단계: 프롬프트 입력",
+            "content": "원하는 이미지에 대한 자세한 설명을 입력하십시오. 장면 요소, 캐릭터, 색상, 구도 및 렌더링해야 하는 텍스트 또는 타이포그래피를 포함하십시오."
+          },
+          {
+            "title": "2단계: 스타일 및 텍스트 옵션 선택",
+            "content": "사전 설정된 스타일(실사, 애니메이션, 일러스트레이션, 포스터) 중에서 선택하고 다국어 레이아웃, 글꼴 및 정밀 텍스트 배치를 위한 텍스트 렌더링 설정을 구성합니다."
+          },
+          {
+            "title": "3단계: 이미지 생성",
+            "content": "“생성”을 클릭하고 Qwen Image가 프롬프트를 완벽한 텍스트 통합 및 예술적 디테일이 살아있는 고품질 비주얼로 몇 초 만에 변환하는 것을 확인하십시오."
+          },
+          {
+            "title": "4단계: 다운로드 및 개선",
+            "content": "원하는 해상도로 결과물을 저장하십시오. 내장된 편집 도구를 사용하여 최종 다운로드 전에 색상을 조정하고, 객체를 바꾸거나, 텍스트를 조정합니다."
+          }
+        ]
+      },
+      "whyUse": {
+        "title": "Qwen Image를 사용해야 하는 이유",
+        "subtitle": "무료 온라인 Qwen Image 생성 도구의 장점을 알아보세요.",
+        "features": [
+          {
+            "title": "🆓 무료 및 무제한 평가판",
+            "content": "모든 기능을 갖춘 Qwen Image 생성 및 텍스트 인식 편집 기능을 무료로 경험해 보세요. 제작을 시작하는 데 구독이 필요하지 않습니다."
+          },
+          {
+            "title": "📝 뛰어난 텍스트 렌더링",
+            "content": "영어, 중국어, 일본어 등으로 복잡한 여러 줄 텍스트를 손쉽게 렌더링합니다. 포스터, 슬라이드 및 UI 목업에 적합합니다."
+          },
+          {
+            "title": "⚡ 즉각적인 결과",
+            "content": "10초 이내에 멋진 비주얼을 생성합니다. 긴 대기 시간이나 수동 드로잉이 필요하지 않습니다."
+          },
+          {
+            "title": "🎨 다양한 스타일 옵션",
+            "content": "실사, 애니메이션, 일러스트레이션 또는 사용자 지정 스타일 간에 자유롭게 전환하여 모든 프로젝트에 적합하게 활용할 수 있습니다."
+          },
+          {
+            "title": "✨ 내장 편집 기능",
+            "content": "AI 기반 편집 도구를 사용하여 객체를 조정하고, 배경을 바꾸고, 디테일을 수정하고, 텍스트를 매끄럽게 업데이트할 수 있습니다."
+          },
+          {
+            "title": "💼 상업적 사용 가능",
+            "content": "Qwen Image로 생성된 모든 이미지는 개인 및 상업적 용도로 사용할 수 있습니다. 마케팅, 브랜딩 및 상품 제작에 적합합니다."
+          }
+        ]
+      },
+      "applications": {
+        "title": "Qwen Image의 실제 응용 분야",
+        "subtitle": "영화 포스터부터 교육용 슬라이드까지, Qwen Image가 창의적인 워크플로우를 어떻게 변화시키는지 확인해 보세요.",
+        "items": [
+          {
+            "title": "🎬 영화 포스터 및 엔터테인먼트",
+            "content": "복잡한 텍스트 레이아웃, 출연진 정보 및 영화 같은 비주얼로 전문적인 영화 포스터를 만들 수 있습니다. 다층 텍스트 렌더링을 통해 영화 홍보, 극장 디스플레이 및 엔터테인먼트 마케팅에 적합합니다.",
+            "example": "출연진 세부 정보, 감독 크레딧 및 완벽한 타이포그래피가 포함된 'Imagination Unleashed'와 같은 제목의 포스터를 생성합니다."
+          },
+          {
+            "title": "📊 비즈니스 프레젠테이션 및 PPT",
+            "content": "기업 브랜딩, 기술 다이어그램 및 다국어 콘텐츠로 엔터프라이즈급 프레젠테이션 슬라이드를 디자인할 수 있습니다. 비즈니스 회의, 컨퍼런스 및 교육 세미나에 이상적입니다.",
+            "example": "국제 비즈니스 프레젠테이션을 위해 회사 로고, 기술 사양 및 이중 언어 콘텐츠가 포함된 슬라이드를 만드십시오."
+          },
+          {
+            "title": "🏪 소매 및 상점 전면 디스플레이",
+            "content": "상점 간판, 제품 디스플레이 및 홍보 자료가 있는 사실적인 상점 전면 장면을 생성할 수 있습니다. 전자 상거래 목업, 소매 계획 및 마케팅 시각화에 적합합니다.",
+            "example": "'이번 주 신규 입고' 간판과 정확한 제목과 작가 이름이 있는 상세한 책 표지가 있는 서점 디스플레이를 디자인합니다."
+          },
+          {
+            "title": "🎨 문화 및 예술 콘텐츠",
+            "content": "서예, 대련 및 문화 요소가 있는 전통 중국 예술 작품을 만들 수 있습니다. 문화 교육, 예술 프로젝트 및 유산 보존에 탁월합니다.",
+            "example": "전통적인 서예, 고전적인 방 설정 및 청화백자와 같은 문화적 유물이 있는 우아한 중국 대련을 생성합니다."
+          },
+          {
+            "title": "📚 교육 자료 및 인포그래픽",
+            "content": "자세한 텍스트, 다이어그램 및 다국어 설명이 포함된 포괄적인 교육 콘텐츠를 디자인할 수 있습니다. 온라인 강좌, 교육 자료 및 학술 자료에 적합합니다.",
+            "example": "각각 아이콘, 제목 및 우아한 레이아웃의 설명 텍스트가 있는 6개의 상세 섹션으로 구성된 감정적 웰빙에 대한 인포그래픽을 만듭니다."
+          },
+          {
+            "title": "🌐 다국어 콘텐츠 제작",
+            "content": "완벽한 렌더링으로 중국어와 영어 텍스트를 혼합한 완벽한 이중 언어 콘텐츠를 제작할 수 있습니다. 국제 비즈니스, 언어 학습 및 교차 문화 커뮤니케이션에 이상적입니다.",
+            "example": "동일한 이미지에 'Meet Qwen-Image – a powerful image foundation model'과 '欢迎了解Qwen-Image, 一款强大的图像基础模型'이 모두 포함된 프레젠테이션을 생성합니다."
+          }
+        ]
+      },
+      "technicalFeatures": {
+        "title": "🔬 기술적 우수성",
+        "subtitle": "최첨단 AI 연구 및 20B 파라미터 파운데이션 모델로 구동됩니다.",
+        "features": [
+          {
+            "title": "🧠 20B 파라미터 모델",
+            "content": "복잡한 시각적 및 텍스트 관계에 대한 뛰어난 이해를 보장하는 대규모 200억 파라미터 MMDiT 아키텍처를 기반으로 구축되었습니다."
+          },
+          {
+            "title": "🌐 다국어 타이포그래피",
+            "content": "픽셀 단위의 완벽한 텍스트 렌더링 및 자동 레이아웃 최적화를 통해 중국어, 영어, 일본어 및 기타 언어를 기본적으로 지원합니다."
+          },
+          {
+            "title": "🎯 SOTA 성능",
+            "content": "생성 작업의 경우 GenEval, DPG, OneIG-Bench, 편집 작업의 경우 GEdit, ImgEdit, GSO에서 최첨단 결과를 제공합니다."
+          },
+          {
+            "title": "🔄 통합 아키텍처",
+            "content": "단일 모델이 일관된 품질과 스타일 보존으로 이미지 생성 및 편집 작업을 모두 처리합니다."
+          }
+        ]
+      },
+      "benchmarks": {
+        "title": "📊 성능 벤치마크",
+        "subtitle": "텍스트 렌더링 및 이미지 생성 품질 분야에서 업계를 선도합니다.",
+        "items": [
+          {
+            "title": "텍스트 렌더링 우수성",
+            "content": "LongText-Bench, ChineseWord 및 TextCraft 벤치마크에서 기존 모델보다 뛰어난 성능을 보이며, 특히 현재 SOTA 모델보다 크게 개선된 중국어 텍스트 렌더링에서 뛰어난 성능을 자랑합니다."
+          },
+          {
+            "title": "범용 이미지 생성",
+            "content": "일반 이미지 생성 작업에 대한 GenEval, DPG 및 OneIG-Bench에서 최고의 성능을 달성하여 다양한 시각적 스타일과 콘텐츠 유형에서 뛰어난 활용성을 보여줍니다."
+          },
+          {
+            "title": "정밀한 이미지 편집",
+            "content": "복잡한 수정 및 스타일 전송을 지원하면서 일관성을 유지하며 이미지 편집 기능에 대한 GEdit, ImgEdit 및 GSO 벤치마크를 선도합니다."
+          }
+        ]
+      },
+      "useCases": {
+        "title": "🎯 실제 활용 사례",
+        "subtitle": "Qwen Image가 여러 산업 분야에서 창의적인 워크플로우를 어떻게 변화시키는지 알아보세요.",
+        "cases": [
+          {
+            "title": "📚 교육 콘텐츠",
+            "content": "다국어 텍스트 지원으로 교육 자료, 인포그래픽 및 프레젠테이션을 제작하십시오. 언어 학습 자료, 기술 문서 및 학술 프레젠테이션에 적합합니다.",
+            "icon": "📚"
+          },
+          {
+            "title": "🎬 마케팅 및 광고",
+            "content": "정확한 텍스트 배치로 시선을 사로잡는 포스터, 소셜 미디어 그래픽 및 홍보 자료를 디자인하십시오. 이중 언어 캠페인 및 국제 마케팅에 이상적입니다.",
+            "icon": "🎬"
+          },
+          {
+            "title": "📱 UI/UX 디자인",
+            "content": "사실적인 텍스트 레이아웃으로 목업 및 프로토타입을 생성합니다. 글로벌 앱 인터페이스에 대한 다양한 언어 및 타이포그래피 스타일을 테스트합니다.",
+            "icon": "📱"
+          },
+          {
+            "title": "🎨 창의적인 프로젝트",
+            "content": "복잡한 텍스트 통합으로 예술적 비전을 현실로 구현하십시오. 책 표지, 앨범 아트 및 다국어 요소가 포함된 창의적인 스토리텔링에 적합합니다.",
+            "icon": "🎨"
+          }
+        ]
+      },
+      "comparison": {
+        "title": "🆚 Qwen Image vs 다른 AI 생성기",
+        "subtitle": "Qwen Image가 텍스트 렌더링 및 다국어 지원 분야에서 선두를 달리는 이유를 확인하세요.",
+        "features": [
+          {
+            "feature": "텍스트 렌더링 품질",
+            "qwen": "픽셀 단위로 완벽하며 복잡한 레이아웃을 지원합니다.",
+            "others": "기본 텍스트만 지원하며, 종종 흐릿하거나 부정확합니다.",
+            "advantage": "✅ 우수"
+          },
+          {
+            "feature": "다국어 지원",
+            "qwen": "중국어, 영어, 일본어를 기본적으로 지원합니다.",
+            "others": "영어만 지원하며, 라틴 문자 이외의 스크립트에서는 성능이 좋지 않습니다.",
+            "advantage": "✅ 포괄적"
+          },
+          {
+            "feature": "텍스트 레이아웃 제어",
+            "qwen": "자동 레이아웃 최적화 기능 제공",
+            "others": "수동으로 위치를 지정해야 합니다.",
+            "advantage": "✅ 지능적"
+          },
+          {
+            "feature": "편집 기능",
+            "qwen": "통합 생성 및 편집 모델 제공",
+            "others": "편집을 위한 별도의 도구가 필요합니다.",
+            "advantage": "✅ 통합적"
+          }
+        ]
+      },
+      "tips": {
+        "title": "Qwen Image 활용 전문가 팁",
+        "items": [
+          "Qwen Image가 창의적인 결과물을 생성하도록 명확한 스타일 참조 및 색상 팔레트를 제공하십시오.",
+          "정확한 타이포그래피를 보장하기 위해 프롬프트에서 텍스트 콘텐츠와 위치를 지정하십시오.",
+          "Qwen Image의 고급 텍스트 렌더링 기능을 활용하기 위해 다국어 프롬프트를 사용해 보십시오.",
+          "디자인에서 텍스트를 더 선명하게 표현하기 위해 고대비 글꼴 설명(예: “굵은 세리프”)을 사용하십시오."
+        ]
+      },
+      "howItWorks": {
+        "title": "🔧 Qwen Image 작동 방식",
+        "subtitle": "뛰어난 텍스트 렌더링 뒤에 숨겨진 고급 기술을 이해해 보세요.",
+        "steps": [
+          {
+            "step": "1",
+            "title": "🧠 고급 이해",
+            "content": "Qwen Image의 20B 파라미터 MMDiT 아키텍처는 프롬프트를 분석하여 시각적 요소와 텍스트 요구 사항을 동시에 이해합니다."
+          },
+          {
+            "step": "2",
+            "title": "📝 텍스트 레이아웃 계획",
+            "content": "이 모델은 설명 및 시각적 컨텍스트를 기반으로 최적의 텍스트 배치, 글꼴 크기 조정 및 레이아웃 구성을 자동으로 결정합니다."
+          },
+          {
+            "step": "3",
+            "title": "🎨 통합 생성",
+            "content": "텍스트를 오버레이로 추가하는 다른 모델과 달리 Qwen Image는 이미지와 텍스트를 응집력 있는 전체로 생성하여 완벽한 통합을 보장합니다."
+          },
+          {
+            "step": "4",
+            "title": "✨ 품질 개선",
+            "content": "고급 후처리 기능은 적절한 앤티 앨리어싱과 주변 이미지와의 시각적 조화를 통해 픽셀 단위의 완벽한 텍스트 렌더링을 보장합니다."
+          }
+        ]
+      },
+      "bestPractices": {
+        "title": "💡 최적의 결과를 위한 모범 사례",
+        "subtitle": "Qwen Image의 텍스트 렌더링 기능을 최대한 활용하는 전문적인 팁을 소개합니다.",
+        "practices": [
+          {
+            "category": "📝 텍스트 사양",
+            "tips": [
+              "프롬프트 내에서 항상 따옴표 안에 정확한 텍스트 콘텐츠를 지정하십시오.",
+              "글꼴 스타일 기본 설정(세리프, 산세리프, 손글씨 등)을 설명하십시오.",
+              "이미지에 상대적인 텍스트 크기를 언급하십시오(큰 제목, 작은 캡션 등).",
+              "가독성을 위해 텍스트 색상 및 대비 요구 사항을 지정하십시오."
+            ]
+          },
+          {
+            "category": "🌐 다국어 콘텐츠",
+            "tips": [
+              "이중 언어 디자인을 위해 프롬프트에서 언어를 자연스럽게 혼합하십시오.",
+              "더 나은 렌더링을 위해 스크립트 유형(라틴 문자, 중국어 문자 등)을 지정하십시오.",
+              "문화적 맥락을 사용하여 적절한 타이포그래피 선택을 지원하십시오.",
+              "국제 프로젝트를 위해 다양한 언어 조합을 테스트하십시오."
+            ]
+          },
+          {
+            "category": "🎨 디자인 통합",
+            "tips": [
+              "텍스트가 시각적 요소와 어떻게 상호 작용해야 하는지 설명하십시오.",
+              "배경 처리(투명, 단색, 그라디언트)를 지정하십시오.",
+              "텍스트 정렬 및 위치 지정 기본 설정을 언급하십시오.",
+              "일관된 브랜딩을 위해 스타일 참조를 포함하십시오."
+            ]
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Qwen Image란 무엇이며 다른 AI 생성기와 어떤 차별점이 있나요?",
+        "answer": "Qwen Image는 이미지 생성과 정밀한 텍스트 렌더링 모두를 위해 설계된 200억 파라미터 파운데이션 모델을 활용합니다. 범용 생성기와 달리 다국어 타이포그래피와 복잡한 레이아웃 정확성 측면에서 뛰어난 성능을 제공합니다."
+      },
+      {
+        "question": "무료 Qwen Image 생성기를 사용하려면 계정이 필요한가요?",
+        "answer": "Qwen Image 온라인을 사용해 보려면 계정이 필요하지 않습니다. 도구 페이지를 방문하여 프롬프트를 입력하고 즉시 이미지를 생성하십시오. 평가판 기간 동안 무료로 무제한 사용이 가능합니다."
+      },
+      {
+        "question": "사용자 정의 텍스트와 글꼴로 이미지를 만들 수 있나요?",
+        "answer": "예, Qwen Image는 높은 품질의 타이포그래피 결과물을 위해 정확한 문구, 글꼴 스타일, 크기 및 배치를 지정하는 자세한 텍스트 프롬프트를 지원합니다."
+      },
+      {
+        "question": "Qwen Image 창작물은 상업적 용도로 자유롭게 사용할 수 있나요?",
+        "answer": "물론입니다. Qwen Image로 생성된 모든 이미지는 서비스 약관에 따라 개인 또는 상업 프로젝트에 사용할 수 있습니다."
+      },
+      {
+        "question": "Qwen Image 프롬프트에서 최상의 결과를 얻으려면 어떻게 해야 할까요?",
+        "answer": "조명, 구도, 스타일 및 텍스트 세부 정보와 같은 설명적 요소를 포함하십시오. 알려진 디자인 스타일 또는 아티스트를 참조하여 시각적 결과물을 더욱 개선할 수 있습니다."
+      }
+    ],
+    "cta": {
+      "title": "지금 무료 Qwen Image 생성 시작하기",
+      "description": "AI 기반 이미지 및 텍스트 생성의 강력한 기능을 경험해 보세요. 몇 초 만에 첫 번째 Qwen Image를 생성해 보세요. 가입은 필요하지 않습니다!",
+      "buttonText": "Qwen Image 만들기"
+    },
+    "examples": [
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/aliyun.png",
+        "alt": "AI 생성 Qwen Image - 중국어 텍스트가 포함된 미야자키 애니메이션 스타일의 거리 풍경",
+        "prompt": "Miyazaki anime style. Eye-level shot of a bustling ancient street under sunlight. A disciple in green robes stands in the center, holding a card with 'Alibaba Cloud' written on it. Two children look at him in surprise. On the left is a shop with a 'Cloud Storage' sign, displaying glowing server cases with two guards at the entrance. On the right are two shops: one with a 'Cloud Computing' sign where a beautiful woman in qipao looks at glowing computer screens, and another with a 'Cloud Model' sign featuring a large wine jar labeled 'Qwen' with a shopkeeper pouring glowing code solution into it."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/tongyi.png",
+        "alt": "AI 생성 Qwen Image - 서예 대련이 있는 전통 중국식 방",
+        "prompt": "An elegant and dignified couplet hanging in a hall, with a quiet classical Chinese-style room setup. Blue and white porcelain is placed on the table. The couplet reads on the left 'Righteousness born from knowledge, humans and machines share the path of good thinking and innovation', on the right 'Connecting clouds to wisdom, heaven and earth inspire numbers with high aspirations', with the horizontal inscription 'Wisdom Enlightens Tongyi'. The calligraphy is flowing and elegant, with a Chinese-style painting of Yueyang Tower hanging in the center."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/book.png",
+        "alt": "AI 생성 Qwen Image - 영어 텍스트가 포함된 서점 쇼윈도 디스플레이",
+        "prompt": "Bookstore window display. A sign displays \"New Arrivals This Week\". Below, a shelf tag with the text \"Best-Selling Novels Here\". To the side, a colorful poster advertises \"Author Meet And Greet on Saturday\" with a central portrait of the author. There are four books on the bookshelf, namely \"The light between worlds\" \"When stars are scattered\" \"The silent patient\" \"The night circus\""
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/six.png",
+        "alt": "AI 생성 Qwen Image - 감정적 웰빙 습관에 대한 인포그래픽 슬라이드",
+        "prompt": "A slide featuring artistic, decorative shapes framing neatly arranged textual information styled as an elegant infographic. At the very center, the title \"Habits for Emotional Wellbeing\" appears clearly, surrounded by a symmetrical floral pattern. On the left upper section, \"Practice Mindfulness\" appears next to a minimalist lotus flower icon, with the short sentence, \"Be present, observe without judging, accept without resisting\". Next, moving downward, \"Cultivate Gratitude\" is written near an open hand illustration, along with the line, \"Appreciate simple joys and acknowledge positivity daily\". Further down, towards bottom-left, \"Stay Connected\" accompanied by a minimalistic chat bubble icon reads \"Build and maintain meaningful relationships to sustain emotional energy\". At bottom right corner, \"Prioritize Sleep\" is depicted next to a crescent moon illustration, accompanied by the text \"Quality sleep benefits both body and mind\". Moving upward along the right side, \"Regular Physical Activity\" is near a jogging runner icon, stating: \"Exercise boosts mood and relieves anxiety\". Finally, at the top right side, appears \"Continuous Learning\" paired with a book icon, stating \"Engage in new skill and knowledge for growth\". The slide layout beautifully balances clarity and artistry, guiding the viewers naturally along each text segment."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/poster.png",
+        "alt": "AI 생성 Qwen Image - 상세한 텍스트 레이아웃이 있는 영화 포스터",
+        "prompt": "A movie poster. The first row is the movie title, which reads \"Imagination Unleashed\". The second row is the movie subtitle, which reads \"Enter a world beyond your imagination\". The third row reads \"Cast: Qwen-Image\". The fourth row reads \"Director: The Collective Imagination of Humanity\". The central visual features a sleek, futuristic computer from which radiant colors, whimsical creatures, and dynamic, swirling patterns explosively emerge, filling the composition with energy, motion, and surreal creativity. The background transitions from dark, cosmic tones into a luminous, dreamlike expanse, evoking a digital fantasy realm. At the bottom edge, the text \"Launching in the Cloud, August 2025\" appears in bold, modern sans-serif font with a glowing, slightly transparent effect, evoking a high-tech, cinematic aesthetic. The overall style blends sci-fi surrealism with graphic design flair—sharp contrasts, vivid color grading, and layered visual depth—reminiscent of visionary concept art and digital matte painting, 32K resolution, ultra-detailed."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/small.png",
+        "alt": "AI 생성 Qwen Image - 종이에 손으로 쓴 시가 있는 남자",
+        "prompt": "A man in a suit is standing in front of the window, looking at the bright moon outside the window. The man is holding a yellowed paper with handwritten words on it: \"A lantern moon climbs through the silver night, Unfurling quiet dreams across the sky, Each star a whispered promise wrapped in light, That dawn will bloom, though darkness wanders by.\" There is a cute cat on the windowsill."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/bi.png",
+        "alt": "AI 생성 Qwen Image - 이중 언어 중국어-영어 프레젠테이션 슬라이드",
+        "prompt": "A Chinese woman wearing a \"QWEN\" logo T-shirt is holding a black marker and smiling at the camera. Behind her, handwritten text on a glass board reads: \"Meet Qwen-Image – a powerful image foundation model capable of complex text rendering and precise image editing. 欢迎了解Qwen-Image, 一款强大的图像基础模型，擅长复杂文本渲染与精准图像编辑\""
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/long.png",
+        "alt": "AI 생성 Qwen Image - 유리 보드에 광범위한 손글씨 텍스트가 있는 중국 여성",
+        "prompt": "A Chinese woman wearing a \"QWEN\" logo T-shirt is holding a black marker and smiling at the camera. Behind her, the glass board contains extensive handwritten Chinese text: \"一、Qwen-Image的技术路线：探索视觉生成基础模型的极限，开创理解与生成一体化的未来。二、Qwen-Image的模型特色：1、复杂文字渲染。支持中英渲染、自动布局；2、精准图像编辑。支持文字编辑、物体增减、风格变换。三、Qwen-Image的未来愿景：赋能专业内容创作、助力生成式AI发展。\""
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/ppt.png",
+        "alt": "AI 생성 Qwen Image - 중국어 요소가 포함된 전문적인 PPT 슬라이드",
+        "prompt": "A high-quality enterprise PPT slide with a tech-inspired starry blue theme, featuring flowing luminous tech lines and particle effects. The Alibaba logo appears in orange at the top left. The main title in the center reads \"通义千问视觉基础模型\" in large bold white/light blue font. Below it, elegant Chinese calligraphy states \"原生中文·复杂场景·自动布局\". Four images are displayed horizontally showing traditional Chinese elements: plum blossoms labeled \"梅傲\", orchids labeled \"兰幽\", bamboo labeled \"竹清\", and chrysanthemums labeled \"菊淡\". At the bottom, small text reads \"2025年8月，敬请期待\"."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/s2.jpg",
+        "alt": "AI 생성 Qwen Image - 실사부터 애니메이션까지 예술적 스타일 쇼케이스",
+        "prompt": "A collection showcasing various artistic styles generated by Qwen Image, ranging from photorealistic scenes to impressionist paintings, anime-style illustrations, and minimalist designs. Each example demonstrates the model's versatility in responding to different creative prompts and artistic directions."
+      },
+      {
+        "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/s3.jpg",
+        "alt": "AI 생성 Qwen Image - 이미지 편집 기능 데모",
+        "prompt": "A demonstration of Qwen Image's editing capabilities including style transfer, object addition and removal, detail enhancement, text editing, and character pose adjustments. The examples show before and after comparisons highlighting the model's precision in image modification tasks."
+      }
+    ]
+  },
+  "originalKeyword": "AI Anime Art Generator",
+  "placeholderText": "Describe your ideal image with details like objects, style, text layout, and mood to generate a unique visual with Qwen Image"
+}

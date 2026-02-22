@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "Interpolação por IA - KomikoAI",
+    "description": "Transforme imagens estáticas em animações fluidas com a tecnologia de interpolação por IA da KomikoAI. A nossa IA de 'tweening' avançada cria automaticamente frames entre 'keyframes', tornando a criação de animações mais rápida e eficiente. Perfeito para artistas, animadores e criadores de conteúdo.",
+    "keywords": "KomikoAI AI, animação com IA, interpolação, tweening AI, gerador de animação, gerador de frames com IA, animação digital, software de animação"
+  },
+  "title": "Interpolação por IA",
+  "description": "Transforme imagens estáticas em animações fluidas com a interpolação por IA. A nossa IA de 'tweening' avançada cria automaticamente frames entre 'keyframes', tornando a criação de animações mais rápida e eficiente. Seja a criar animações de personagens, 'motion graphics' ou arte digital, o nosso gerador de frames de interpolação por IA oferece resultados profissionais. Experimente o futuro da animação com a ferramenta de interpolação de animação de última geração da KomikoAI - perfeita para artistas, animadores e criadores de conteúdo que desejam otimizar o seu fluxo de trabalho.",
+  "inputImages": {
+    "title": "Imagens de Entrada",
+    "imageLabel": "Imagem"
+  },
+  "prompt": {
+    "label": "Prompt",
+    "placeholder": "Insira o seu prompt aqui... alguma ação, etc."
+  },
+  "button": {
+    "submit": "Interpolar Imagens"
+  },
+  "results": {
+    "title": "Resultados em Vídeo",
+    "empty": "Os resultados serão exibidos aqui"
+  },
+  "deleteModal": {
+    "title": "Confirmação de Exclusão",
+    "message": "Tem a certeza que deseja excluir este vídeo? Esta ação não pode ser desfeita.",
+    "cancel": "Cancelar",
+    "delete": "Excluir"
+  },
+  "toasts": {
+    "removeInput": "Remoção da entrada bem-sucedida",
+    "addInput": "Adição da entrada bem-sucedida",
+    "createSuccess": "Criação do vídeo bem-sucedida",
+    "createFailed": "Criação do vídeo falhou",
+    "deleteSuccess": "Exclusão bem-sucedida",
+    "deleteFailed": "Exclusão falhou",
+    "downloadFailed": "Download falhou",
+    "fetchFailed": "Busca de vídeos falhou",
+    "noZaps": "Por favor, adquira mais zaps",
+    "noZapsError": "Sem zaps"
+  },
+  "sections": {
+    "whatIs": {
+      "title": "O que é Interpolação",
+      "description": "A interpolação é uma técnica usada na animação para criar transições suaves entre 'keyframes'. É um aspeto crucial da criação de animações fluidas e realistas. A interpolação por IA é uma tecnologia de animação de ponta que usa inteligência artificial para gerar automaticamente transições suaves entre 'keyframes'. Esta técnica revolucionária ajuda a criar animações fluidas, preenchendo inteligentemente os frames intermediários entre as suas poses principais, tornando a criação de animações mais rápida e acessível do que nunca."
+    },
+    "howTo": {
+      "title": "Como Criar Animações com Interpolação por IA",
+      "description": "Transforme as suas imagens estáticas em animações fluidas em minutos usando a nossa tecnologia avançada de interpolação por IA. Siga estes passos simples para dar vida à sua arte.",
+      "steps": [
+        {
+          "title": "Passo 1: Envie os 'Keyframes'",
+          "content": "Envie de 2 a 5 imagens de 'keyframes' que representem as principais poses ou posições da sua animação."
+        },
+        {
+          "title": "Passo 2: Insira um 'Prompt'",
+          "content": "Adicione um 'prompt' opcional para orientar o estilo e o movimento da animação."
+        },
+        {
+          "title": "Passo 3: Gere a Animação",
+          "content": "Clique em 'Interpolar Imagens' para deixar que a IA crie transições suaves entre os seus 'keyframes'."
+        },
+        {
+          "title": "Passo 4: Descarregue a Animação",
+          "content": "Descarregue a sua animação finalizada em formato MP4 e partilhe!"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Exemplos de Interpolação por IA",
+      "description": "Veja os resultados da interpolação por IA gerados por utilizadores da KomikoAI",
+      "input1": "Imagem de Entrada 1: Frame Inicial",
+      "input2": "Imagem de Entrada 2: Frame Final",
+      "output": "Saída: Vídeo Processado"
+    },
+    "whyChoose": {
+      "title": "Por que Escolher a KomikoAI AI para Animação de Interpolação",
+      "description": "Transforme o seu fluxo de trabalho de animação com a ferramenta de interpolação por IA da KomikoAI. A nossa IA de 'tweening' cria automaticamente frames entre 'keyframes', revolucionando a forma como os animadores trabalham, gerando transições suaves entre 'keyframes'.",
+      "features": [
+        {
+          "title": "Tecnologia Avançada de Interpolação por IA",
+          "content": "Experimente a IA de 'tweening' de última geração que cria automaticamente frames entre 'keyframes'. O nosso gerador de frames de interpolação por IA garante transições suaves e naturais para as suas animações."
+        },
+        {
+          "title": "Criação Rápida de Animação",
+          "content": "O que tradicionalmente leva horas de interpolação manual agora pode ser concluído em minutos. Deixe a KomikoAI AI lidar com a criação de frames entre 'keyframes' enquanto você se concentra nas poses principais."
+        },
+        {
+          "title": "Qualidade de Animação Profissional",
+          "content": "Crie animações com qualidade de estúdio com a nossa tecnologia de interpolação por IA. A IA de 'tweening' da KomikoAI garante movimento consistente e transições fluidas que correspondem aos padrões de animação profissionais."
+        },
+        {
+          "title": "Interpolação Personalizável",
+          "content": "Guie a geração de frames de interpolação da sua IA com 'prompts' personalizados. Ajuste os estilos de movimento e as expressões dos personagens para obter os resultados de animação desejados com a nossa IA de 'tweening'."
+        },
+        {
+          "title": "Ferramentas de Animação Acessíveis",
+          "content": "Se você é novo em animação ou um profissional experiente, a KomikoAI AI torna a animação de interpolação acessível a todos. O nosso gerador de frames de interpolação por IA simplifica o processo de animação."
+        },
+        {
+          "title": "Fluxo de Trabalho de Animação Eficiente",
+          "content": "Otimize o seu 'pipeline' de animação com as nossas ferramentas de interpolação por IA. Crie protótipos de animações rapidamente, teste movimentos e crie transições suaves entre 'keyframes' usando a IA de 'tweening' da KomikoAI."
+        }
+      ]
+    },
+    "faqSection": {
+      "title": "FAQ de Interpolação: Tudo o Que Você Precisa Saber",
+      "description": "Aprenda como a nossa ferramenta de interpolação por IA funciona, descubra as melhores práticas e encontre respostas para perguntas frequentes sobre como criar animações profissionais com inteligência artificial."
+    }
+  },
+  "faq": {
+    "question1": "Como funciona a interpolação por IA da KomikoAI?",
+    "answer1": {
+      "intro": "O gerador de frames de interpolação por IA da KomikoAI funciona em três passos simples:",
+      "step1": "Envie de 2 a 5 imagens de 'keyframes' representando as suas poses principais",
+      "step2": "Adicione um 'prompt' opcional para orientar o estilo da animação",
+      "step3": "Deixe a nossa IA avançada analisar os 'keyframes' e criar automaticamente frames entre 'keyframes'",
+      "step4": "O sistema usa aprendizado de máquina de última geração para entender o movimento e gerar transições naturais."
+    },
+    "question2": "Quais são os benefícios de usar IA para animação de interpolação?",
+    "answer2": {
+      "intro": "Usar IA para criar frames entre 'keyframes' oferece inúmeras vantagens:",
+      "benefit1": "Reduz drasticamente o tempo de animação em comparação com os métodos tradicionais frame a frame",
+      "benefit2": "Cria frames de interpolação com qualidade profissional automaticamente",
+      "benefit3": "Perfeito para iniciantes e animadores profissionais",
+      "benefit4": "Elimina o tedioso trabalho manual de interpolação",
+      "benefit5": "Permite iteração e experimentação rápidas em animação"
+    },
+    "question3": "Que tipos de arquivos funcionam com a ferramenta de interpolação por IA da KomikoAI?",
+    "answer3": {
+      "intro": "O nosso gerador de frames de interpolação por IA suporta:",
+      "format1": "Formatos de imagem comuns: JPG e PNG",
+      "format2": "Resolução ideal: 512x512 pixels",
+      "format3": "Tamanho máximo do arquivo: 5 MB por imagem",
+      "format4": "Intervalo de 'keyframes': 2-5 imagens para melhores resultados"
+    },
+    "question4": "A ferramenta de interpolação por IA da KomikoAI é gratuita para usar?",
+    "answer4": "A KomikoAI oferece zaps (créditos) gratuitos para experimentar a nossa ferramenta de interpolação de animação por IA. Para uso mais extensivo e recursos avançados, confira os nossos planos pagos que incluem processamento mais rápido e saídas de resolução mais alta.",
+    "question5": "Como posso obter os melhores resultados com a interpolação por IA?",
+    "answer5": {
+      "intro": "Para geração otimizada de frames de interpolação por IA:",
+      "tip1": "Mantenha um estilo de arte consistente entre os 'keyframes'",
+      "tip2": "Mantenha iluminação e composição semelhantes",
+      "tip3": "Garanta o posicionamento lógico do personagem entre os frames",
+      "tip4": "Use 'prompts' claros e descritivos",
+      "tip5": "Comece com movimentos simples antes de tentar animações complexas"
+    },
+    "question6": "Quais são as limitações atuais da interpolação por IA?",
+    "answer6": {
+      "intro": "Embora a nossa IA de 'tweening' seja poderosa, existem algumas limitações atuais:",
+      "limit1": "Máximo de 5 'keyframes' por sequência de animação",
+      "limit2": "Movimentos muito complexos ou extremos podem exigir ajuste manual",
+      "limit3": "A consistência do estilo entre os frames é importante para obter os melhores resultados",
+      "limit4": "O tempo de processamento aumenta com mais 'keyframes'"
+    },
+    "question7": "Posso usar animações geradas por IA da KomikoAI comercialmente?",
+    "answer7": "Sim, você pode usar animações criadas com a nossa ferramenta de interpolação por IA para projetos pessoais e comerciais, sujeito aos termos de serviço da KomikoAI. A nossa ferramenta é perfeita para criar animações profissionais de forma eficiente."
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "Trình tạo nghệ thuật anime AI | Trình tạo anime AI chất lượng nhất (Miễn phí, Không giới hạn)",
+  "meta": {
+    "description": "Tạo tác phẩm nghệ thuật anime tuyệt đẹp chỉ trong vài giây với Trình tạo Anime AI miễn phí của chúng tôi. Thiết kế các nhân vật anime độc đáo, cảnh quan, và tạo nghệ thuật AI theo nhiều phong cách khác nhau với trình tạo nghệ thuật anime AI của chúng tôi. Lý tưởng cho các nghệ sĩ, nhà sáng tạo nội dung và những người đam mê anime. Không cần kỹ năng vẽ!",
+    "keywords": "AI Anime Art Generator, Anime AI Art Generator, AI Anime Generator, Anime AI Generator, trình tạo nhân vật anime, AI anime maker, nghệ thuật anime tùy chỉnh, anime art AI, trình tạo phong cách anime, manga art generator, minh họa anime AI, AI anime character generator, trình tạo anime Nhật Bản"
+  },
+  "header": {
+    "title": "Trình Tạo Nghệ Thuật AI",
+    "subtitle": "Biến ý tưởng của bạn thành tác phẩm nghệ thuật anime tuyệt đẹp với AI. Bắt đầu với <Link>Hướng dẫn Cách thực hiện</Link> của chúng tôi để khám phá toàn bộ tiềm năng."
+  },
+  "emptyState": {
+    "title": "Chưa có ảnh nào — hãy tìm cảm hứng từ bên dưới!",
+    "description": "Bấm vào một hình ảnh để áp dụng gợi ý của nó.",
+    "examples": "Thư viện Truyền Cảm hứng"
+  },
+  "loading": {
+    "moreImages": "Đang tải thêm ảnh..."
+  },
+  "modal": {
+    "model": "Mẫu",
+    "prompt": "Lời nhắc",
+    "download": "Tải về"
+  },
+  "date": {
+    "today": "Hôm nay",
+    "yesterday": "Hôm qua"
+  },
+  "faq": {
+    "title": "Những Câu hỏi Thường gặp",
+    "items": [
+      {
+        "question": "AI Anime Art Generator là gì?",
+        "answer": "AI Anime Art Generator là công cụ tiên tiến sử dụng trí tuệ nhân tạo để tạo ra tác phẩm nghệ thuật anime tùy chỉnh dựa trên mô tả văn bản. Nó sử dụng thuật toán học sâu được huấn luyện từ hàng triệu hình ảnh anime để tạo ra những minh hoạ độc đáo với nhiều phong cách anime, bao gồm anime cổ điển, manga và phong cách hiện đại."
+      },
+      {
+        "question": "AI Anime Art Generator hoạt động như thế nào?",
+        "answer": "AI Anime Art Generator hoạt động bằng việc chuyển đổi các gợi ý văn bản của bạn thành nghệ thuật thị giác qua các mô hình AI chuyên biệt được huấn luyện từ tác phẩm nghệ thuật anime. Chỉ cần cung cấp mô tả chi tiết về những gì bạn muốn thấy, chọn phong cách ưa thích, và AI sẽ tạo ra một minh họa anime phù hợp với mô tả của bạn. Gợi ý càng cụ thể thì kết quả càng chính xác."
+      },
+      {
+        "question": "Tôi có thể tạo ra các loại nghệ thuật anime nào?",
+        "answer": "Bạn có thể tạo ra gần như mọi phong cách nghệ thuật anime bao gồm chân dung nhân vật, diễn biến hành động, khung cảnh giả tưởng, ý tưởng khoa học viễn tưởng, nền và các khung tranh manga, cùng nhiều phong cách khác. Công cụ này hỗ trợ nhiều thể loại anime như shōnen, shōjo, seinen, moe, chibi, và nhiều thể loại khác nữa."
+      },
+      {
+        "question": "Tôi có cần kỹ năng nghệ thuật để sử dụng AI Anime Art Generator không?",
+        "answer": "Không cần kỹ năng nghệ thuật! Đó là điểm mạnh của AI Anime Art Generator - nó giúp mọi người tiếp cận với việc tạo ra nghệ thuật anime một cách dễ dàng. Cho dù bạn là một nghệ sĩ chuyên nghiệp hay chỉ mới bắt đầu, bạn vẫn có thể tạo nên những tác phẩm anime tuyệt vời bằng cách diễn đạt ý tưởng của mình."
+      },
+      {
+        "question": "Làm thế nào để cải thiện chất lượng của nghệ thuật anime sinh ra?",
+        "answer": "Để đạt kết quả tốt hơn, hãy sử dụng gợi ý chi tiết bao gồm các đặc điểm nhân vật, trang phục, tư thế, biểu cảm, phông nền, và ánh sáng. Bạn có thể thử nghiệm với các phong cách của các nghệ sĩ anime cụ thể hoặc phong cách nào đó trong các gợi ý, chẳng hạn 'phong cách Studio Ghibli' hay 'giống như nghệ thuật của Makoto Shinkai'. Hãy thử các gợi ý khác nhau để tìm ra kết quả phù hợp nhất với tầm nhìn của bạn."
+      },
+      {
+        "question": "Tôi có thể sử dụng nghệ thuật anime đã tạo cho mục đích thương mại không?",
+        "answer": "Có, tất cả các tác phẩm nghệ thuật được tạo ra bằng AI Anime Art Generator của chúng tôi đều có thể sử dụng cho cả dự án cá nhân và thương mại, tuân theo điều khoản dịch vụ của chúng tôi. Điều này tạo điều kiện tuyệt vời cho các nhà sáng tạo nội dung, nhà phát triển trò chơi, nghệ sĩ truyện tranh và các doanh nghiệp cần hình ảnh anime độc đáo."
+      },
+      {
+        "question": "Tôi có thể tạo bao nhiêu hình ảnh?",
+        "answer": "Số lượng hình ảnh mà bạn có thể tạo phụ thuộc vào gói đăng ký của bạn. Người dùng miễn phí có giới hạn số lượt tạo mỗi ngày, trong khi người đăng ký gói cao cấp có thể tạo với giới hạn cao hơn hoặc không giới hạn và truy cập các tính năng bổ sung cùng kết quả có độ phân giải cao hơn."
+      },
+      {
+        "question": "Tôi có thể tạo ra nhân vật anime dựa trên người thật không?",
+        "answer": "Có, bạn có thể tạo phiên bản anime của một người thật bằng cách nêu rõ các đặc điểm của họ trong gợi ý của bạn. Để có kết quả tốt nhất, hãy bao gồm chi tiết về ngoại hình của họ và phong cách anime mà bạn muốn. Tính năng này rất tốt để tạo ra các biểu tượng anime nhân hóa hoặc chân dung nhân vật."
+      },
+      {
+        "question": "Sự khác biệt giữa phong cách manga và phong cách anime là gì?",
+        "answer": "Phong cách manga thường có nghệ thuật bằng mực đen trắng, độ tương phản cao và được bố trí thành các khung giống truyện tranh Nhật Bản. Phong cách anime lại có đầy đủ màu sắc, tô bóng mềm hơn và thẩm mỹ gần hơn với các chương trình hoạt hình. Cả hai phong cách đều có thể được chỉ định trong các gợi ý của bạn để có được giao diện chính xác bạn muốn."
+      },
+      {
+        "question": "Tôi có thể chỉnh sửa hình ảnh anime đã tạo không?",
+        "answer": "Có! Sau khi tạo xong, bạn có thể tải xuống tác phẩm nghệ thuật anime của mình và chỉnh sửa nó bằng phần mềm chỉnh sửa hình ảnh mà bạn thích. Đối với người dùng nâng cao, hình ảnh này làm một điểm khởi đầu tuyệt vời để tinh chỉnh thêm, tô màu hoặc tích hợp vào một tác phẩm lớn hơn."
+      }
+    ]
+  },
+  "headings": {
+    "whatIs": "AI Anime Art Generator là gì?",
+    "howToUse": "Cách Sử dụng AI Anime Art Generator",
+    "whyUse": "Tại sao Nên Dùng AI Anime Art Generator",
+    "createStyles": "Tạo Nghệ thuật Anime Tuyệt vời với Những Phong cách Này",
+    "applications": "Ứng dụng của AI Anime Art Generator",
+    "tips": "Mẹo Để Tạo Nghệ thuật Anime Tốt hơn với AI",
+    "startCreating": "Bắt đầu Tạo Nghệ thuật Anime Tuyệt vời Ngay Hôm nay",
+    "moreTools": "Nhiều Công cụ AI Khác"
+  },
+  "intro": {
+    "description1": "AI Anime Art Generator là một công cụ tiên tiến sử dụng trí tuệ nhân tạo để tạo ra nghệ thuật phong cách anime dựa trên mô tả văn bản. Những công cụ mạnh mẽ này sử dụng mô hình học máy tiên tiến huấn luyện từ hàng triệu hình ảnh anime để tạo ra nghệ thuật anime chất lượng cao và tùy chỉnh trong vài giây.",
+    "description2": "Dù bạn đang tìm cách tạo ra nhân vật anime nguyên bản, thiết kế bảng manga, hình dung fan fiction, hay tạo minh họa phong cách anime cho các dự án, Trình Tạo Nghệ Thuật Anime Bằng AI giúp quy trình trở nên đơn giản và dễ tiếp cận cho mọi người. Không cần kỹ năng nghệ thuật hay kiến thức kỹ thuật - chỉ cần miêu tả những gì bạn muốn, và AI sẽ hiện thực hóa trí tưởng tượng của bạn theo phong cách anime chính gốc.",
+    "description3": "Từ thẩm mỹ anime cổ điển đến các phong cách hiện đại như phim hoạt hình nổi tiếng và manhwa, Trình Tạo Nghệ Thuật Anime Bằng AI hỗ trợ một loạt các biểu hiện nghệ thuật, tạo điều kiện hoàn hảo cho các nghệ sĩ, người tạo nội dung, nhà phát triển game, và những người yêu thích anime."
+  },
+  "howToUse": {
+    "subtitle": "Làm theo các bước đơn giản này để tạo ra tác phẩm nghệ thuật anime đẹp mắt với trình tạo AI của chúng tôi",
+    "steps": [
+      {
+        "title": "Nhập Gợi ý Của Bạn",
+        "content": "Bắt đầu bằng việc gõ mô tả chi tiết về tác phẩm anime bạn muốn tạo. Bao gồm chi tiết nhân vật, yếu tố cảnh, phong cách nghệ thuật và cảm xúc để có kết quả tốt nhất."
+      },
+      {
+        "title": "Chọn Phong Cách Của Bạn",
+        "content": "Lựa chọn từ các phong cách anime đặt sẵn hoặc chỉ định sở thích thẩm mỹ cá nhân như manga, anime, manhwa, hoặc phong cách của nghệ sĩ cụ thể nào đó."
+      },
+      {
+        "title": "Tạo Nghệ thuật Anime Của Bạn",
+        "content": "Nhấn nút tạo và chứng kiến AI biến ý tưởng của bạn thành tác phẩm nghệ thuật anime độc đáo chỉ trong vài giây."
+      },
+      {
+        "title": "Tải Xuống & Chia Sẻ",
+        "content": "Lưu các tác phẩm bạn yêu thích với chất lượng cao, sẵn sàng sử dụng trong dự án của bạn hoặc chia sẻ với bạn bè và trên mạng xã hội."
+      }
+    ]
+  },
+  "whyUse": {
+    "subtitle": "Khám phá lý do tại sao hàng nghìn người sáng tạo lựa chọn AI Anime Art Generator cho nhu cầu sáng tạo nghệ thuật anime của họ.",
+    "features": [
+      {
+        "title": "Không Cần Kỹ Năng Vẽ",
+        "content": "Tạo ra nghệ thuật anime chất lượng chuyên nghiệp chỉ bằng gợi ý văn bản - không cần tài năng nghệ thuật hay nhiều năm đào tạo."
+      },
+      {
+        "title": "Kết Quả Đầy Ấn Tượng",
+        "content": "Tạo ra hình minh họa anime tuyệt đẹp chỉ trong vài giây thay vì nhiều giờ hoặc ngày vẽ tay và tô màu."
+      },
+      {
+        "title": "Sự Đa dạng Phong cách Đầy Sáng Tạo",
+        "content": "Khám phá nhiều phong cách anime khác nhau từ anime cổ điển đến manga hiện đại, manhwa, và phong cách chuyên biệt như chibi hay moe."
+      },
+      {
+        "title": "Tạo Nhân vật Dễ dàng",
+        "content": "Thiết kế các nhân vật anime đặc biệt với các đặc điểm, trang phục, tư thế, và biểu cảm cụ thể chỉ bằng việc mô tả chúng."
+      },
+      {
+        "title": "Hoàn Hảo cho Người sáng tạo Nội dung",
+        "content": "Tạo các tác phẩm nghệ thuật tùy chỉnh cho truyện tranh, truyền thông xã hội, nội dung trò chơi và hình ảnh thu nhỏ YouTube."
+      },
+      {
+        "title": "Nghệ thuật Nhân vật Nhất Quán",
+        "content": "Giữ vững thiết kế nhân vật nhất quán qua nhiều minh hoạ cho truyện, truyện tranh hoặc kể chuyện."
+      },
+      {
+        "title": "Giải Phóng Sức Sáng tạo Của Bạn",
+        "content": "Hình dung gần như bất kỳ ý tưởng anime nào, từ thế giới giả tưởng cho đến cài đặt khoa học viễn tưởng và tất cả mọi thứ khác."
+      },
+      {
+        "title": "Nguồn Cảm hứng cho Nghệ sĩ",
+        "content": "Sử dụng hình ảnh đã tạo làm tài liệu tham khảo hoặc điểm khởi đầu cho nghệ thuật và dự án anime của riêng bạn."
+      },
+      {
+        "title": "Quyền Sử dụng Thương mại",
+        "content": "Sử dụng các sáng tạo của bạn trong các dự án thương mại, tài liệu tiếp thị, hàng hóa và nhiều mục đích khác."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "title": "Phong cách Anime Cổ điển",
+      "content": "Phong cách truyền thống của hoạt hình Nhật Bản với nét vẽ đậm, màu sắc rực rỡ và các đặc điểm biểu cảm."
+    },
+    {
+      "title": "Phong cách Manga",
+      "content": "Nghệ thuật truyện tranh đen trắng với các khung hình riêng biệt, vẽ bóng kịch tính, và thiết kế nhân vật biểu cảm."
+    },
+    {
+      "title": "Phong cách Manhwa",
+      "content": "Thẩm mỹ của truyện tranh Hàn Quốc với đường nét mượt mà, màu sắc chi tiết và bố cục phù hợp với cuộn dọc."
+    },
+    {
+      "title": "Lấy cảm hứng từ Studio Ghibli",
+      "content": "Minh họa kỳ diệu và huyền bí như các tác phẩm kinh điển Spirited Away và My Neighbor Totoro."
+    },
+    {
+      "title": "Anime Hiện đại",
+      "content": "Thẩm mỹ anime đương đại với chi tiết tinh tế, vẽ bóng phức tạp và bố cục điện ảnh."
+    },
+    {
+      "title": "Phong cách Chibi",
+      "content": "Phiên bản nhỏ nhắn dễ thương của các nhân vật với đặc điểm phóng đại và thiết kế đơn giản, dễ thương."
+    },
+    {
+      "title": "Anime Giả Tưởng",
+      "content": "Thế giới huyền diệu với sinh vật thần thoại, trang phục dựng chuyện và môi trường thoát tục."
+    },
+    {
+      "title": "Anime Khoa học viễn tưởng",
+      "content": "Cảnh tượng tương lai với công nghệ hiện đại, thiết kế mecha và thế giới không tưởng hay utopia."
+    },
+    {
+      "title": "Shōnen & Shōjo",
+      "content": "Phong cách được thiết kế riêng cho khán giả nam và nữ với cách kể chuyện trực quan thích hợp."
+    }
+  ],
+  "applications": [
+    {
+      "title": "Tạo Nội dung",
+      "content": "Tạo nghệ thuật anime tùy chỉnh cho bài đăng mạng xã hội, blog, hình thu nhỏ YouTube và nội dung kỹ thuật số khác. Nổi bật với hình ảnh độc đáo thu hút sự chú ý."
+    },
+    {
+      "title": "Thiết kế Nhân vật",
+      "content": "Tạo nhân vật anime gốc cho câu chuyện, trò chơi, chiến dịch nhập vai hay dự án cá nhân. Hình dung nhân vật từ mô tả văn bản một cách nhanh chóng."
+    },
+    {
+      "title": "Tạo Manga & Comic",
+      "content": "Thiết kế các trang và minh họa cho manga, webtoons, truyện tranh và tiểu thuyết đồ họa với phong cách nghệ thuật và nhân vật đồng nhất."
+    },
+    {
+      "title": "Phát triển Trò chơi",
+      "content": "Tạo nghệ thuật ý tưởng, chân dung nhân vật, phông nền và tài sản cho trò chơi lấy cảm hứng từ anime, tiểu thuyết thị giác và trải nghiệm tương tác."
+    },
+    {
+      "title": "Fan Art",
+      "content": "Tạo những phiên bản độc đáo của nhân vật anime yêu thích, cảnh thay thế, hoặc kết hợp giữa các vũ trụ anime khác nhau."
+    },
+    {
+      "title": "Thiết kế Hàng hóa",
+      "content": "Thiết kế các tác phẩm nghệ thuật tùy chỉnh cho áo thun, poster, hình dán và hàng hóa khác với các minh họa phong cách anime gốc."
+    }
+  ],
+  "tips": {
+    "title": "Mẹo Để Tạo Nghệ thuật Anime Tốt hơn với AI",
+    "items": [
+      "<span class=\"font-semibold\">Cụ thể:</span> Bao gồm các chi tiết về đặc điểm nhân vật, trang phục, tư thế, biểu cảm và nền trong mô tả của bạn.",
+      "<span class=\"font-semibold\">Tham khảo phong cách:</span> Đề cập đến anime hoặc manga cụ thể để tạo cảm hứng cho phong cách (ví dụ: \"theo phong cách của Studio Ghibli\" hoặc \"giống phong cách nghệ thuật của Thanh Gươm Diệt Quỷ\").",
+      "<span class=\"font-semibold\">Chỉ định bố cục:</span> Yêu cầu các góc chụp, cảnh quay cụ thể (cận cảnh, toàn thân) hoặc các bố cục cảnh để có kết quả tốt hơn.",
+      "<span class=\"font-semibold\">Mô tả cảm xúc:</span> Bao gồm trạng thái cảm xúc và biểu cảm để làm cho nhân vật trở nên sinh động và thu hút hơn.",
+      "<span class=\"font-semibold\">Thêm chi tiết ánh sáng:</span> Đề cập đến điều kiện ánh sáng (hoàng hôn, ánh trăng, bóng tối kịch tính) để tăng cường tâm trạng cho nghệ thuật anime của bạn.",
+      "<span class=\"font-semibold\">Thử nghiệm:</span> Hãy thử các biến thể gợi ý khác nhau để điều chỉnh kết quả của bạn cho đến khi bạn đạt được đúng những gì bạn mong muốn."
+    ]
+  },
+  "closing": {
+    "description": "Dù bạn là một nghệ sĩ tìm kiếm cảm hứng, một nhà sáng tạo nội dung cần hình ảnh anime tùy chỉnh, hay một người yêu anime muốn hiện thực hóa ý tưởng, AI Anime Art Generator làm cho việc tạo ra nghệ thuật anime trở nên dễ dàng hơn cho tất cả mọi người. Không cần kỹ năng nghệ thuật - chỉ cần trí tưởng tượng của bạn và một vài từ miêu tả!",
+    "buttonText": "Thử AI Anime Generator Ngay"
+  },
+  "prompt_presets": {
+    "title": "Thiết lập Sẵn Prompt",
+    "reference": "Tham khảo"
+  },
+  "results": {
+    "title": "Kết quả Đã Tạo",
+    "viewAll": "Xem Tất cả",
+    "empty": "Hãy bắt đầu tạo hình ảnh bằng việc nhập gợi ý và nhấn nút Tạo."
+  },
+  "character_presets": {
+    "title": "Thiết lập Nhân vật",
+    "viewAll": "Xem Tất cả"
+  },
+  "generating": {
+    "title": "Đang tạo...",
+    "proTip": "Mẹo hay"
+  },
+  "proTips": {
+    "title": "Mẹo Chuyên Nghiệp",
+    "items": [
+      "Thêm nhiều chi tiết hơn vào mô tả của bạn để có kết quả tốt hơn! Bao gồm các nhân vật, trang phục, tư thế, phong cách, cảnh và nhiều điều hơn thế nữa.",
+      "Tải lên một hình ảnh tham khảo và sử dụng mô tả của bạn để chỉnh sửa nó!",
+      "Chỉ định bố cục hình ảnh — thử \"cận cảnh,\" \"toàn thân,\" \"nửa thân,\" hoặc \"nhìn vào người xem.\"",
+      "Tải lên một hình ảnh tham khảo và đề cập đến nó trong mô tả của bạn như là \"hình ảnh tham khảo\" để hướng dẫn đầu ra.",
+      "Sử dụng hình ảnh tham khảo để bao gồm một nhân vật hoặc đối tượng cụ thể trong tác phẩm của bạn.",
+      "Sử dụng hình ảnh tham khảo để định hướng phong cách, bố cục hoặc tư thế.",
+      "Bạn có thể bao gồm tối đa 7 nhân vật trong mô tả của mình — hãy giữ chúng nhất quán khi làm việc với mô hình GPT."
+    ]
+  }
+}

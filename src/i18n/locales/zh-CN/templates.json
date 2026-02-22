@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "模板 | Komiko AI",
+    "description": "浏览我们精心挑选的动漫风格预设，适用于 Playground、视频特效、视频转视频和舞蹈工具。点击模板即可使用预加载的优化设置。",
+    "keywords": "动漫模板库，Komiko 预设，视频特效模板，Cosplay 模板"
+  },
+  "hero": {
+    "eyebrow": "模板",
+    "title": "动漫创作者精选模板",
+    "description": "找到你喜欢的模板，立即开始创作吧！"
+  },
+  "buttons": {
+    "useTemplate": "使用模板",
+    "preview": "预览",
+    "close": "关闭",
+    "seeAll": "查看全部"
+  },
+  "categories": {
+    "featured": {
+      "title": "推荐"
+    },
+    "art": {
+      "title": "角色设定",
+      "description": "将图像转换为专业的角色设计 - 包括线描、Q版、精灵图、表情板、环绕视图等。"
+    },
+    "style": {
+      "title": "风格迁移",
+      "description": "适用于 Playground 的常用预设，可将人像转换为精致的动漫、水彩或赛博朋克风格图像。"
+    },
+    "imageRestyle": {
+      "title": "图像风格化",
+      "description": "将图像转换为动漫、皮克斯风、漫画、水彩、霓虹等15种以上的艺术风格。"
+    },
+    "videoRestyle": {
+      "title": "视频风格化",
+      "description": "将视频素材转换为动漫、卡通、素描、表情符号等动画风格。\n将现实世界的视频转化为具有风格化的内容。"
+    },
+    "merch": {
+      "title": "周边创作",
+      "description": "生成手办照片、毛绒玩具和为收藏家定制的高品质角色图像。"
+    },
+    "game": {
+      "title": "游戏",
+      "description": "创作具有游戏风格的视频和场景，包括原神风格预告片、复古像素游戏、宝可梦进化、约会模拟等各种游戏美学。"
+    },
+    "movie": {
+      "title": "电影",
+      "description": "使用电影和电视的艺术风格重现人物肖像 - 从动画节目到奇幻电影等。"
+    },
+    "cosplay": {
+      "title": "Cosplay 和服装",
+      "description": "重现 Cosplay 宣传片、Cosplay 预告片和 Cosplay 场景的预设。还包括角色服装定制。"
+    },
+    "effects": {
+      "title": "视频特效 & 动画",
+      "description": "应用动态效果，包括Live2D微风动画、360°角色视图、魔法少女变身、超级赛亚人状态及动漫/漫画风格音乐视频。"
+    },
+    "dance": {
+      "title": "舞蹈",
+      "description": "针对 K-pop、热门 TikTok 趋势和程式化机器人舞蹈优化的 AI 舞蹈视频动作。"
+    },
+    "christmas": {
+      "title": "圣诞节",
+      "description": "创建迷人的圣诞场景，使用节日角色和假日环境的魔法预设。"
+    }
+  }
+}

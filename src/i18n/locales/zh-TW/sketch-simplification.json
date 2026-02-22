@@ -1,0 +1,231 @@
+{
+  "ui": {
+    "title": "AI 草稿簡化",
+    "description": "使用 AI 將您的粗略草稿轉換為清晰、簡潔的線條藝術。體驗即時草稿簡化，只需點擊一下即可優化您的繪圖！非常適合希望簡化創作流程的藝術家、設計師和漫畫愛好者。",
+    "input": {
+      "title": "輸入",
+      "tooltip": "上傳草稿以進行簡化",
+      "sketchImage": "草稿圖像",
+      "aiModel": "AI 模型",
+      "models": {
+        "basic": "基本",
+        "advanced": "進階"
+      },
+      "selectModel": "選擇模型"
+    },
+    "buttons": {
+      "simplifyImage": "簡化圖像"
+    },
+    "output": {
+      "title": "簡化結果",
+      "emptyState": "您的簡化結果將顯示於此",
+      "uploadPrompt": "上傳圖像以開始"
+    },
+    "toast": {
+      "fetchImagesFailed": "取得圖像失敗",
+      "deleteSuccess": "刪除成功",
+      "deleteFailed": "刪除失敗",
+      "downloadFailed": "下載失敗",
+      "simplifySuccess": "圖像簡化成功",
+      "simplifyFailed": "圖像簡化失敗",
+      "createImageFailed": "建立圖像失敗"
+    },
+    "examples": {
+      "inputSketch": "輸入草稿",
+      "simplifiedResult": "簡化結果",
+      "example1": "粗略草稿轉換為清晰線條藝術",
+      "example2": "粗略草稿優化為精美線條藝術"
+    },
+    "modal": {
+      "deleteTitle": "刪除確認",
+      "deleteMessage": "您確定要刪除此圖像嗎？此操作無法復原。",
+      "cancel": "取消",
+      "delete": "刪除"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "AI 草稿簡化 - KomikoAI",
+      "description": "使用 AI 將複雜草稿轉換為清晰、簡潔的線條藝術。上傳您的草稿，讓 AI 為您優化。",
+      "keywords": "AI 草稿簡化, 草稿轉線條藝術, AI 線條藝術, 草稿優化, 漫畫草稿, AI 繪圖工具, 草稿清理, 線條藝術產生器"
+    },
+    "hero": {
+      "title": "AI 草稿簡化"
+    },
+    "howToUse": {
+      "title": "如何使用 AI 簡化您的草稿",
+      "description": "透過幾個步驟，使用 Komiko 的 AI 草稿簡化功能將您的粗略草稿轉換為清晰、簡潔的線條藝術。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "步驟 1：上傳草稿圖像",
+          "content": "將您的草稿或粗略繪圖上傳到 AI 簡化工具。支援 JPG 和 PNG 格式。"
+        },
+        {
+          "step": 2,
+          "title": "步驟 2：簡化並分享",
+          "content": "點擊「簡化圖像」，等待 AI 發揮其魔力。下載並分享您簡化後的創作！"
+        }
+      ]
+    },
+    "examples": {
+      "title": "AI 草稿簡化範例",
+      "description": "查看 Anitoon 使用者產生的草稿簡化結果"
+    },
+    "cta": {
+      "title": "立即使用 AI 轉換您的草稿！",
+      "description": "開始使用我們先進的 AI 技術簡化您的草稿。",
+      "buttonText": "免費試用草稿簡化"
+    },
+    "benefits": {
+      "title": "為什麼您應該使用 AI 簡化您的草稿",
+      "description": "Anitoon 的 AI 草稿簡化功能可幫助藝術家將粗略草稿轉換為清晰、精美的線條藝術，從而提高您的創作效率。",
+      "features": [
+        {
+          "title": "清晰線條藝術",
+          "content": "將凌亂的草稿轉換為清晰、專業的線條藝術，具有一致的筆觸粗細和更高的清晰度。",
+          "icon": "🎨"
+        },
+        {
+          "title": "風格一致性",
+          "content": "使用 AI 驅動的簡化功能，在您的繪圖中保持一致的線條藝術風格。",
+          "icon": "🖌️"
+        },
+        {
+          "title": "節省時間",
+          "content": "讓 AI 處理簡化過程，從而節省數小時的手動線條藝術優化時間。",
+          "icon": "💎"
+        },
+        {
+          "title": "增強清晰度",
+          "content": "透過刪除不必要的細節和雜訊，提高草稿的清晰度和可讀性。",
+          "icon": "💪"
+        },
+        {
+          "title": "智慧簡化",
+          "content": "AI 分析您的草稿結構，並在保留重要細節的同時進行智慧簡化。",
+          "icon": "🧠"
+        },
+        {
+          "title": "專業品質",
+          "content": "獲得可用於墨線或數位著色的專業級線條藝術。",
+          "icon": "🎨"
+        },
+        {
+          "title": "工作流程優化",
+          "content": "透過自動化草稿優化階段，簡化您的創作過程。",
+          "icon": "💫"
+        },
+        {
+          "title": "模型選擇",
+          "content": "在基本和進階 AI 模型之間進行選擇，以滿足您的特定需求。",
+          "icon": "📚"
+        },
+        {
+          "title": "即時優化",
+          "content": "立即將粗略草稿轉換為精美線條藝術，非常適合漫畫、漫畫和插圖。",
+          "icon": "⚡️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "關於 AI 草稿簡化的常見問題",
+      "description": "尋找有關使用 AI 簡化草稿的常見問題解答。",
+      "questions": [
+        {
+          "id": 1,
+          "question": "什麼是 AI 草稿簡化？",
+          "answer": "AI 草稿簡化是一個使用人工智慧將粗略草稿轉換為清晰、精美線條藝術的過程。Komiko 的 AI 草稿簡化工具可透過自動優化和簡化繪圖，同時保持基本細節，幫助藝術家簡化其創作過程。"
+        },
+        {
+          "id": 2,
+          "question": "如何使用 AI 簡化草稿？",
+          "answer": "您可以透過兩個簡單的步驟，使用 Komiko AI 簡化您的草稿：\n1. 將您的草稿圖像上傳到 AI 簡化工具\n2. 點擊「簡化圖像」，等待 AI 優化您的繪圖"
+        },
+        {
+          "id": 3,
+          "question": "AI 草稿簡化如何運作？",
+          "answer": "AI 草稿簡化使用在數百萬張圖像上訓練的進階 AI 模型來分析您的草稿結構並進行智慧簡化。AI 會識別重要的線條和細節，同時刪除不必要的雜訊和複雜性，從而產生清晰、專業的線條藝術。"
+        },
+        {
+          "id": 4,
+          "question": "AI 草稿簡化有哪些好處？",
+          "answer": "使用 AI 簡化草稿有許多好處：\n• 與手動線條藝術優化相比，可節省時間\n• 產生一致的、專業品質的線條藝術\n• 在刪除雜訊的同時，保持重要的細節\n• 非常適合漫畫、漫畫和插圖"
+        },
+        {
+          "id": 5,
+          "question": "我可以使用 AI 簡化的草稿用於商業目的嗎？",
+          "answer": "是的，您可以使用 AI 產生的簡化草稿用於個人和商業目的。但是，請確保您遵守 Komiko 的服務條款。"
+        },
+        {
+          "id": 6,
+          "question": "支援哪些格式和大小？",
+          "answer": "AI 支援 JPG 和 PNG 格式的草稿。輸出圖像將保持其原始大小，同時進行簡化。"
+        },
+        {
+          "id": 7,
+          "question": "AI 草稿簡化是否可以免費使用？",
+          "answer": "Komiko 提供免費的 zaps（積分）供您試用該工具。如果您需要更多使用量，也可以購買付費方案以獲得更多 zaps，以及更快的處理速度和更高的解析度等進階功能。"
+        },
+        {
+          "id": 8,
+          "question": "我可以使用 AI 簡化哪些類型的草稿？",
+          "answer": "AI 簡化功能適用於各種草稿：\n• 粗略草稿和塗鴉\n• 角色設計\n• 漫畫和漫畫頁面\n• 產品設計\n• 建築圖\n• 概念藝術\n為了獲得最佳效果，請確保您的草稿具有清晰、明確的線條和良好的對比度。"
+        },
+        {
+          "id": 9,
+          "question": "AI 草稿簡化有哪些限制？",
+          "answer": "雖然 AI 草稿簡化是一個功能強大的工具，但它有一些限制：\n• 複雜的細節：非常複雜或高度詳細的草稿可能會遺失一些細微細節\n• 風格一致性：AI 可能無法完美匹配您想要的藝術風格\n• 品質：簡化的品質取決於輸入草稿的品質\n儘管存在這些限制，AI 簡化仍可顯著加快您的工作流程並增強您的創作過程。"
+        },
+        {
+          "id": 10,
+          "question": "我需要知道如何繪圖才能使用 AI 草稿簡化嗎？",
+          "answer": "不，您不需要成為專業藝術家才能使用 AI 草稿簡化。\n• 針對藝術家：如果您創建自己的草稿，此工具可以幫助優化和清理您的作品\n• 針對非藝術家：您可以從現有的草稿或模板開始，然後讓 AI 處理簡化\n此工具的設計對每個人都易於使用，無論您是經驗豐富的藝術家還是探索創造力的初學者。"
+        },
+        {
+          "id": 11,
+          "question": "如何從 AI 草稿簡化中獲得最佳效果？",
+          "answer": "請遵循以下提示以獲得最佳簡化效果：\n• 使用具有良好對比度的清晰、明確的草稿\n• 確保您的草稿具有清晰的線條和形狀\n• 根據您的需求選擇合適的 AI 模型\n• 必要時考慮使用透明背景選項"
+        },
+        {
+          "id": 12,
+          "question": "AI 簡化與手動優化相比如何？",
+          "answer": "與手動優化相比，AI 草稿簡化可節省大量時間，將數小時的工作減少到幾分鐘。雖然它可能無法完全取代粗略藝術專案的傳統優化，但它是一個用於快速原型設計、概念視覺化和快速創建多個變體的絕佳工具。AI 了解線條藝術原理，並且可以提出您可能沒有考慮到的改進建議。"
+        },
+        {
+          "id": 13,
+          "question": "我可以編輯 AI 簡化的結果嗎？",
+          "answer": "是的，您可以使用您首選的數位藝術軟體進一步編輯和優化 AI 簡化的草稿。AI 產生的結果是一個很好的基礎，您可以使用您的個人藝術風格來增強它。"
+        },
+        {
+          "id": 14,
+          "question": "使用 AI 草稿簡化有哪些創意方法？",
+          "answer": "AI 草稿簡化可用於：\n• 角色設計的快速原型設計\n• 為漫畫創建清晰的線條藝術\n• 將粗略草稿優化為精美插圖\n• 開發概念藝術\n• 藝術課程中的教育目的\n• 將粗略繪圖轉換為簡單的線條藝術"
+        }
+      ]
+    }
+  },
+  "examples": [
+    {
+      "input": "/images/examples/sketch_simplifier/input2.webp",
+      "output": "/images/examples/sketch_simplifier/output2.webp",
+      "inputLabel": "輸入草稿",
+      "outputLabel": "簡化結果",
+      "prompt": "粗略草稿轉換為清晰線條藝術"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input1.webp",
+      "output": "/images/examples/sketch_simplifier/output1.webp",
+      "inputLabel": "輸入草稿",
+      "outputLabel": "簡化結果",
+      "prompt": "粗略草稿優化為精美線條藝術"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input3.webp",
+      "output": "/images/examples/sketch_simplifier/output3.webp",
+      "inputLabel": "輸入草稿",
+      "outputLabel": "簡化結果",
+      "prompt": "粗略草稿優化為精美線條藝術"
+    }
+  ]
+}

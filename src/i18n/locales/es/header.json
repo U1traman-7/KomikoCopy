@@ -1,0 +1,26 @@
+{
+  "logo_alt": "Logotipo de KomikoAI",
+  "login_button": "Iniciar sesión",
+  "join_discord": "Unirse a nuestro Discord",
+  "modal": {
+    "create_account_or_signin": "Crear una cuenta o iniciar sesión",
+    "sign_in": "Iniciar sesión",
+    "trouble_signing_in": "¿Tienes problemas para iniciar sesión?"
+  },
+  "promotion_offer": "OFERTA POR TIEMPO LIMITADO | ¡Ahorra un 50% en el Plan Anual! La oferta vence en <time>{{deadline}}</time>",
+  "promotion_offer_mobile": "¡Ahorra un 50%! La oferta vence en <time>{{deadline}}</time>",
+  "promotion_offer_mobile_days": "¡Ahorra 50%! El descuento expira en <time>{{days}} día(s)</time>",
+  "promotion_offer_days": "OFERTA LIMITADA | ¡Ahorra 50% en el Plan Anual! El descuento expira en <time>{{days}} día(s)</time>",
+  "new_user_promotion": {
+    "title": "EXCLUSIVO PARA NUEVOS USUARIOS | ¡40% DE DESCUENTO en el Plan Anual! Termina en <time>{{deadline}}</time>",
+    "mobile_title": "¡40% DE DESCUENTO en el Plan Anual! Termina en <time>{{deadline}}</time>",
+    "mobile_days_title": "¡40% DE DESCUENTO en el Plan Anual! Termina en <time>{{days}} día(s)</time>",
+    "days_title": "EXCLUSIVO PARA NUEVOS USUARIOS | ¡40% DE DESCUENTO en el Plan Anual! Termina en <time>{{days}} día(s)</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "OFERTA FLASH DE FIN DE SEMANA: ¡30% DE DESCUENTO en el Plan Anual! Termina en <time>{{deadline}}</time>",
+    "mobile_title": "¡30% DE DESCUENTO en el Plan Anual! Termina en <time>{{deadline}}</time>",
+    "mobile_days_title": "¡30% DE DESCUENTO en el Plan Anual! Termina en <time>{{days}} día(s)</time>",
+    "days_title": "OFERTA FLASH DE FIN DE SEMANA: ¡30% DE DESCUENTO en el Plan Anual! Termina en <time>{{days}} día(s)</time>"
+  }
+}

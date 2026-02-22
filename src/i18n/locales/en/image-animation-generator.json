@@ -1,0 +1,489 @@
+{
+  "ui": {
+    "sec": "sec",
+    "title": "AI Animation Generator",
+    "tooltip": "Transform your static images into captivating animations with AI Animation Generator",
+    "input": {
+      "title": "Input",
+      "tooltip": "Upload an image to animate",
+      "prompt": {
+        "label": "Prompt",
+        "placeholder": "Describe how you want the image to be animated..."
+      },
+      "model": {
+        "label": "AI Model",
+        "placeholder": "Select a model",
+        "ariaLabel": "Select animation model"
+      },
+      "aspectRatio": {
+        "label": "Aspect Ratio",
+        "placeholder": "Select aspect ratio"
+      },
+      "ratio": "Ratio",
+      "duration": {
+        "label": "Duration",
+        "placeholder": "Select a duration",
+        "sections": "{{sections}} seconds"
+      },
+      "style": {
+        "label": "Style",
+        "placeholder": "Select a style",
+        "anime": "Anime",
+        "default": "Default"
+      },
+      "resolution": {
+        "label": "Resolution",
+        "placeholder": "Select a resolution"
+      },
+      "addEndFrame": "Add end frame",
+      "startFrame": "Start frame",
+      "endFrame": "End frame",
+      "config": "Additional Information",
+      "image": {
+        "title": "Image",
+        "description": "Upload JPG/PNG/WEBP images up to 10MB, with a minimum width/height of 300px.",
+        "label": {
+          "required": "Add reference (Required)",
+          "optional": "Add reference (Optional)",
+          "image": "Upload image (Optional)",
+          "imageRequired": "Upload image",
+          "more": "Add more reference (Optional)",
+          "endFrame": "Add end frame (Optional)",
+          "firstFrame": "First Frame"
+        }
+      },
+      "addOC": "Add Character(s)",
+      "singleOCOnly": "Only one character allowed. Please use Vidu Q1 for multiple characters.",
+      "maxOCsReached": "Maximum {{max}} characters allowed. Only Vidu Q1 supports multiple characters."
+    },
+    "output": {
+      "title": "Animation Results",
+      "empty": {
+        "line1": "Your animation results will appear here",
+        "line2": "Upload an image and provide a prompt to get started"
+      }
+    },
+    "deleteModal": {
+      "title": "Delete Confirmation",
+      "message": "Are you sure you want to delete this animation? This action cannot be undone.",
+      "cancelButton": "Cancel",
+      "deleteButton": "Delete"
+    },
+    "toasts": {
+      "deleteSuccess": "Delete success",
+      "deleteFailed": "Delete failed",
+      "generateSuccess": "Generate Animation success",
+      "generateFailed": "Generate Animation failed",
+      "downloadFailed": "Download failed",
+      "fetchFailed": "Fetch videos failed",
+      "noZaps": "Please purchase more zaps",
+      "generatingSticker": "Generating sticker...",
+      "stickerGenerated": "Sticker generated successfully",
+      "stickerGeneratedFailed": "Sticker generated failed",
+      "generatingStickerFailed": "Generating sticker failed",
+      "imageTooSmall": "Image too small. Minimum size is 240x240 pixels."
+    },
+    "modelOptions": {
+      "wan": {
+        "name": "Wan 2.6",
+        "description": "High-quality videos and motion diversity",
+        "timeCost": "1min",
+        "fps": "24fps"
+      },
+      "wan_pro": {
+        "name": "Wan Pro",
+        "description": "Exceptional visual quality and motion diversity",
+        "timeCost": "5min",
+        "fps": "30fps"
+      },
+      "ray_flash_v2": {
+        "name": "Luma Ray Flash 2",
+        "description": "Large scale model for realistic visuals",
+        "timeCost": "30s",
+        "fps": "24fps"
+      },
+      "kling": {
+        "name": "Kling 1.6",
+        "description": "More realistic motions",
+        "timeCost": "2min",
+        "fps": "30fps"
+      },
+      "minimax": {
+        "name": "Hailuo 02",
+        "description": "HD outputs with visually rich content",
+        "timeCost": "3min",
+        "fps": "25fps"
+      },
+      "ray": {
+        "name": "Luma Ray 2",
+        "description": "Large scale model for realistic visuals",
+        "timeCost": "2min",
+        "fps": "24fps"
+      },
+      "pixverse": {
+        "name": "PixVerse v3.5",
+        "description": "Improved motion and coherence",
+        "timeCost": "2min",
+        "fps": "30fps"
+      },
+      "veo": {
+        "name": "Veo3 (Google)",
+        "description": "Highest video quality",
+        "timeCost": "1min",
+        "fps": "24fps"
+      },
+      "kling_v2": {
+        "name": "Kling 2.1",
+        "description": "More realistic motions, super high quality",
+        "timeCost": "2min",
+        "fps": "30fps"
+      },
+      "frame_pack": {
+        "name": "FramePack",
+        "description": "Autoregressively generates videos",
+        "timeCost": "1min",
+        "fps": "30fps"
+      },
+      "anisora": {
+        "name": "AniSora",
+        "description": "Open-source anime video generation",
+        "timeCost": "1min",
+        "fps": "30fps"
+      },
+      "vidu": {
+        "name": "Vidu Q1",
+        "description": "Consistency and smooth 2D animation",
+        "timeCost": "1min",
+        "fps": "24fps"
+      },
+      "magi_1": {
+        "name": "Magi-1",
+        "description": "Understanding of physical motion & cinematic composition",
+        "timeCost": "2 min",
+        "fps": "24 fps"
+      },
+      "vidu_base": {
+        "name": "Komiko Anime",
+        "description": "Ultra cost-effective animation generation",
+        "timeCost": "1min",
+        "fps": "24fps"
+      },
+      "mj_video": {
+        "name": "Anime Pro",
+        "description": "Best for generating anime and animations",
+        "timeCost": "1min",
+        "fps": "24fps"
+      },
+      "seedance": {
+        "name": "Seedance 1.5 Pro",
+        "description": "The world's first multi-shot video generation model",
+        "timeCost": "1min",
+        "fps": "24fps"
+      },
+      "sora_stable": {
+        "name": "Sora 2 Stable",
+        "description": "Stable multi-shot video generation with audio",
+        "timeCost": "1min",
+        "fps": "30fps"
+      },
+      "sora_pro_stable": {
+        "name": "Sora 2 Pro Stable",
+        "description": "Stable high-quality video generation with audio",
+        "timeCost": "1min",
+        "fps": "30fps"
+      },
+      "sora": {
+        "name": "Sora 2",
+        "description": "Stunning multi-shot video generation with audio",
+        "timeCost": "1min",
+        "fps": "30fps"
+      },
+      "sora_pro": {
+        "name": "Sora 2 Pro",
+        "description": "Stunning multi-shot video generation with audio",
+        "timeCost": "1min",
+        "fps": "30fps"
+      },
+      "vidu_q2": {
+        "name": "Vidu Q2",
+        "description": "Ultra-fast, highly consistent image-to-video animation",
+        "timeCost": "1min",
+        "fps": "24fps"
+      },
+      "vidu_q2_pro": {
+        "name": "Vidu Q2 Pro",
+        "description": "Professional version with enhanced detail and advanced motion",
+        "timeCost": "1min",
+        "fps": "24fps"
+      },
+      "wan_22_turbo": {
+        "name": "Wan 2.2 Turbo",
+        "description": "Best value for quality and price",
+        "timeCost": "1min",
+        "fps": "24fps"
+      }
+    },
+    "buttons": {
+      "generateAnimation": "Generate Animation",
+      "seconds5": "5 seconds",
+      "seconds8": "8 seconds",
+      "seconds10": "10 seconds",
+      "default": "Default",
+      "anime": "Anime",
+      "square": "1:1 (Square)",
+      "landscape": "16:9 (Landscape)",
+      "portrait": "9:16 (Portrait)"
+    },
+    "resolutions": {
+      "360p": "360p",
+      "540p": "540p",
+      "720p": "720p",
+      "1080p": "1080p"
+    },
+    "styleModes": {
+      "effect": "Effect",
+      "prompt": "Prompt",
+      "motion": "Motion",
+      "dance": "Dance",
+      "templates": "Templates"
+    },
+    "characterName": "Character Name",
+    "characterProfileOptional": "Character Profile (Optional)",
+    "characterNamePlaceholder": "Enter character name...",
+    "characterProfilePlaceholder": "Character name, personality, theme, and other details",
+    "bankaiEffectTitle": "Desired Bankai Effect",
+    "bankaiEffectPlaceholder": "Describe the Bankai transformation effects, powers, visual changes, etc.",
+    "importFromCharacter": "Import Character",
+    "audio": {
+      "label": "Audio Optional (MP3/WAV, 3-30s, ≤15MB)",
+      "upload": "Upload",
+      "record": "Record",
+      "invalidFormat": "Invalid audio format. Please use MP3 or WAV",
+      "missing": "Please upload an audio file (MP3/WAV)",
+      "durationRange": "Audio duration must be between 3s and 30s",
+      "processFailed": "Failed to process audio file"
+    },
+    "multiShots": {
+      "label": "Multi-shots",
+      "tooltip": "When enabled, intelligently segments video into multiple shots for better storytelling"
+    },
+    "cameraFixed": {
+      "label": "Fixed Camera",
+      "tooltip": "Keep the camera position fixed during the video"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "AI Animation Generator - KomikoAI",
+      "description": "Transform static images into captivating animations with our AI Animation Generator. Create dynamic anime, manga, and comic videos effortlessly. Advanced AI animation technology brings your artwork to life in minutes.",
+      "keywords": "AI animation generator, AI anime generator, AI video animation, image to animation, anime animation generator, manga animation creator, AI animation tool, generate animation from image, AI video generator, animated video maker"
+    },
+    "hero": {
+      "title": "AI Animation Generator",
+      "description": "Transform static images into captivating animations with our powerful AI Animation Generator. Create stunning anime, manga, and comic videos effortlessly. Our advanced AI animation technology analyzes your artwork and generates dynamic, professional-quality animations in minutes."
+    },
+    "whatIs": {
+      "title": "What is AI Animation Generator?",
+      "description": "AI Animation Generator is an intelligent tool that automatically creates stunning animations from your static images. Our AI Animation Generator uses advanced deep learning algorithms to bring anime, manga, and comic artwork to life, making professional animation accessible to everyone without requiring technical skills or animation experience."
+    },
+    "examples": {
+      "title": "AI Animation Generator Examples",
+      "description": "Discover the power of our AI Animation Generator through these stunning examples. See how our technology transforms static images into dynamic, engaging videos!",
+      "inputAlt": "Example Input Image",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result",
+      "videoNotSupported": "Your browser does not support the video tag.",
+      "example1": {
+        "details": "Model: Veo | Prompt: 'The girl is dancing and singing'"
+      },
+      "example2": {
+        "details": "Model: Minimax | Prompt: 'A man is talking angrily'"
+      },
+      "example3": {
+        "details": "Model: Ray | Prompt: 'A girl is talking sadly'"
+      },
+      "example4": {
+        "details": "Model: Kling | Prompt: 'A girl is talking to herself peacefully'"
+      },
+      "example5": {
+        "details": "Model: Anime Pro | Prompt: 'The boy slowly lean in, gently holds the girl's face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.'"
+      },
+      "example6": {
+        "details": "Model: Anime Pro | Prompt: 'Anime boy suddenly draws a gun and fires with a flash of light, intense expression, dramatic camera angle. He immediately turns and runs down the street.'"
+      },
+      "example7": {
+        "details": "Model: Anime Pro | Prompt: 'Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.'"
+      },
+      "example8": {
+        "details": "Model: Anime Pro | Prompt: 'Anime-style battle scene. A young warrior with a glowing sword clashes with a giant, demonic monster with glowing eyes and sharp teeth. Fast-paced swordfight, sparks fly, intense close-ups. Ends with the hero slaying the monster in a dramatic final strike. Dark background, cinematic lighting, glowing particles.'"
+      }
+    },
+    "howToUse": {
+      "title": "How to use AI Animation Generator",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Upload the image you want to animate. Whether it's an anime character, manga panel, or comic illustration, our AI can bring it to life."
+        },
+        {
+          "title": "Enter a Prompt",
+          "content": "Provide a prompt to guide the animation. Describe the motion, expression, or action you want the AI to generate."
+        },
+        {
+          "title": "Generate Animation",
+          "content": "Click the 'Generate Animation' button and let our AI work its magic. Watch as your image transforms into a dynamic video."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Download your AI-generated animation and share it with the world! Perfect for social media, personal projects, and more."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use AI Animation Generator?",
+      "description": "Discover why our AI Animation Generator is the best choice for creating professional anime, manga, and comic animations. Experience the future of animation technology with powerful features designed for creators of all skill levels!",
+      "features": [
+        {
+          "title": "Advanced AI Animation Technology",
+          "content": "Our AI Animation Generator uses cutting-edge deep learning models to create professional-quality animations. The AI intelligently analyzes your images and generates smooth, realistic movements automatically.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Create Professional Animations Instantly",
+          "content": "Transform static artwork into dynamic animated videos perfect for social media, YouTube, presentations, and creative projects. Our AI Animation Generator delivers studio-quality results.",
+          "icon": "🎬"
+        },
+        {
+          "title": "User-Friendly AI Animation Tool",
+          "content": "No animation skills needed! Our AI Animation Generator is designed for everyone. Simply upload your image, write a prompt, and let the AI create stunning animations for you.",
+          "icon": "👌"
+        },
+        {
+          "title": "Save Hours of Production Time",
+          "content": "Our AI Animation Generator creates animations in minutes instead of hours or days. Reduce production time by up to 90% compared to traditional animation methods.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Professional-Grade Animation Quality",
+          "content": "The AI Animation Generator produces high-quality results with smooth transitions, natural movements, and consistent frame rates. Perfect for professional and commercial use.",
+          "icon": "✨"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "content": "Focus on your creative vision while our AI Animation Generator handles the complex technical work. Create any animation style from action scenes to emotional moments.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI Animation Generator FAQ - Everything You Need to Know",
+      "description": "Learn how to create professional animations with our AI Animation Generator. Get answers to common questions about AI animation technology, features, and best practices.",
+      "q1": "What is AI Animation Generator?",
+      "a1": "AI Animation Generator is an AI tool that transforms static images into dynamic animated videos. Using advanced deep learning algorithms, it analyzes your artwork and automatically generates smooth, professional-quality animations with realistic movements and expressions, perfect for anime, manga, and comic content creation.",
+      "q2": "How to use AI Animation Generator?",
+      "a2": "Using AI Animation Generator is simple! First, upload your static image (anime, manga, or comic artwork). Then, enter a detailed prompt describing the motion, expressions, or actions you want. Next, click 'Generate Animation' and let the AI create your video. Finally, download and share your animation across social media, YouTube, or any platform.",
+      "q3": "How does AI Animation Generator work?",
+      "a3": "AI Animation Generator uses advanced deep learning technology to analyze your images. It works by identifying key elements, understanding composition, and generating intermediate frames to create smooth motion. The AI interprets your text prompt to produce movements, facial expressions, and camera angles that bring your static artwork to life automatically.",
+      "q4": "What is the best AI animation generator?",
+      "a4": "KomikoAI provides the best AI animation generator tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's AI Animation Generator, you can transform anime, manga, and comic images into stunning videos with realistic movements, create engaging content for social media and YouTube, and access multiple advanced AI models, making it perfect for users who want professional animation without technical skills or expensive software.",
+      "q5": "Is the KomikoAI AI Animation Generator free online?",
+      "a5": "Yes, you can test out the AI Animation Generator on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with AI Animation Generator?",
+      "a6": "You can use AI Animation Generator on KomikoAI to create animated anime character videos with dynamic movements, transform manga panels into engaging story sequences, bring comic illustrations to life with action and emotion, generate social media content that captures attention, produce YouTube videos and promotional materials, create character animations for gaming or storytelling projects, and develop professional presentations with animated visuals.",
+      "q7": "Can I use AI Animation Generator on my phone?",
+      "a7": "Yes, you can use AI Animation Generator as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from AI Animation Generator?",
+      "a8": "Yes, KomikoAI's AI Animation Generator allows you to export your generation in various formats, such as MP4 and other video formats, for easy sharing.",
+      "q9": "Why should I use AI Animation Generator?",
+      "a9": "Using AI Animation Generator can save you 90% of animation production time, create professional-quality videos without animation expertise, and transform your creative vision into reality instantly. Our tool allows you to bring static artwork to life with realistic movements, generate engaging content for social media and YouTube, access multiple advanced AI models for different animation styles, and create animations completely free to try."
+    },
+    "cta": {
+      "title": "Create Stunning Animations for FREE with Our AI Animation Generator Today!",
+      "description": "Transform your static images into captivating animated videos in minutes. Start creating now!",
+      "buttonText": "Try Our AI Animation Generator Free"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example1-input.jpg",
+      "output": "/images/examples/image_to_animation/example1-output.webm",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result",
+      "description": "Model: Veo | Prompt: 'The girl is dancing and singing'"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example2-input.jpg",
+      "output": "/images/examples/image_to_animation/example2-output.webm",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result",
+      "description": "Model: Minimax | Prompt: 'A man is talking angrily'"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example3-input.jpg",
+      "output": "/images/examples/image_to_animation/example3-output.webm",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result",
+      "description": "Model: Ray | Prompt: 'A girl is talking sadly'"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example4-input.jpg",
+      "output": "/images/examples/image_to_animation/example4-output.webm",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result",
+      "description": "Model: Kling | Prompt: 'A girl is talking to herself peacefully'"
+    },
+    {
+      "id": 5,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example5-input.jpg",
+      "output": "/images/examples/image_to_animation/example5-output.webm",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result",
+      "description": "Model: Anime Pro | Prompt: 'Anime-style battle scene. A young warrior with a glowing sword clashes with a giant, demonic monster with glowing eyes and sharp teeth. Fast-paced swordfight, sparks fly, intense close-ups. Ends with the hero slaying the monster in a dramatic final strike. Dark background, cinematic lighting, glowing particles.'",
+      "isSpecial": true
+    },
+    {
+      "id": 6,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example6-input.jpg",
+      "output": "/images/examples/image_to_animation/example6-output.webm",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result",
+      "description": "Model: Anime Pro | Prompt: 'Anime boy suddenly draws a gun and fires with a flash of light, intense expression, dramatic camera angle. He immediately turns and runs down the street.'"
+    },
+    {
+      "id": 7,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example7-input.jpg",
+      "output": "/images/examples/image_to_animation/example7-output.webm",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result",
+      "description": "Model: Anime Pro | Prompt: 'Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.'"
+    },
+    {
+      "id": 8,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/image_to_animation/example8-input.jpg",
+      "output": "/images/examples/image_to_animation/example8-output.webm",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result",
+      "description": "Model: Anime Pro | Prompt: 'Anime-style battle scene. A young warrior with a glowing sword clashes with a giant, demonic monster with glowing eyes and sharp teeth. Fast-paced swordfight, sparks fly, intense close-ups. Ends with the hero slaying the monster in a dramatic final strike. Dark background, cinematic lighting, glowing particles.'"
+    }
+  ]
+}

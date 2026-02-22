@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "Gerador de Histórias em Quadrinhos com IA - KomikoAI",
+    "description": "O Gerador de Histórias em Quadrinhos com IA que te permite criar banda desenhada a partir de uma simples ideia. Usa o gerador de quadrinhos com IA da KomikoAI para gerar histórias em quadrinhos, manhwa e mangá com IA."
+  },
+  "form": {
+    "title": "Gerador de Histórias em Quadrinhos com IA",
+    "subtitle": "Transforme a sua ideia em quadrinhos, mangá ou manhwa cativantes com IA. Basta introduzir uma ideia, escolher o seu estilo e deixar que o Gerador de Histórias em Quadrinhos com IA faça o resto.",
+    "idea_label": "A sua ideia para a banda desenhada",
+    "idea_placeholder": "Introduza a sua ideia aqui...",
+    "style_label": "Estilo de quadrinhos",
+    "style_placeholder": "Selecione o estilo de quadrinhos",
+    "styles": {
+      "anime": "Anime",
+      "manga": "Mangá",
+      "manhwa": "Manhwa",
+      "american": "Americano",
+      "cartoon": "Desenho Animado",
+      "realistic": "Realista"
+    },
+    "type_label": "Tipo de quadrinhos",
+    "type_placeholder": "Selecione o tipo de quadrinhos",
+    "types": {
+      "normal": "Normal",
+      "funny": "Engraçado",
+      "meme": "Meme"
+    },
+    "layout_label": "Layout da banda desenhada",
+    "mode_label": "Modo de Geração",
+    "modes": {
+      "gemini": "Gemini",
+      "gemini_cost": "{{cost}} zaps por painel",
+      "flux": "Flux",
+      "flux_cost": "{{cost}} zaps por painel"
+    },
+    "narration_checkbox": "Incluir Narração",
+    "generate_button": "Gerar Banda Desenhada"
+  },
+  "buttons": {
+    "edit": "Editar",
+    "download": "Descarregar",
+    "share": "Partilhar"
+  },
+  "preview_alt": "Pré-visualização da banda desenhada",
+  "preview_text": "Introduza a sua ideia e clique em Gerar para criar a sua banda desenhada.",
+  "narration": "Narração",
+  "idea_input": {
+    "label": "Qual é a sua ideia?",
+    "custom_placeholder": "Introduza a sua ideia e especifique um estilo de arte"
+  },
+  "login_to_generate": "Gerar",
+  "edit_button": "Editar",
+  "comics_generated": "{{count}} histórias em quadrinhos geradas por utilizadores da KomikoAI",
+  "comic_type": {
+    "normal": {
+      "label": "🙂 Normal",
+      "text": "Normal"
+    },
+    "meme": {
+      "label": "🤣 Meme",
+      "text": "Meme"
+    }
+  },
+  "comic_style": {
+    "anime": "Anime",
+    "american": "Americano",
+    "manga": "Mangá",
+    "manhwa": "Manhwa",
+    "custom": "Personalizado"
+  },
+  "seo": {
+    "main_heading": "O que é o Gerador de Histórias em Quadrinhos com IA?",
+    "main_description": "O Gerador de Histórias em Quadrinhos com IA é uma ferramenta com tecnologia de IA que permite aos criadores transformar ideias em banda desenhada, mangá e memes cativantes com o mínimo de esforço. Seja um artista ou um entusiasta da narração de histórias, dê vida à sua imaginação com visuais e narração gerados por IA. Basta introduzir uma ideia, escolher o seu estilo e deixar que o Gerador de Histórias em Quadrinhos com IA da KomikoAI faça o resto. Desfrute de uma melhor geração de histórias em quadrinhos com IA do que a AI Comic Factory no Hugging Face."
+  },
+  "how_to_use": {
+    "heading": "Como usar o Gerador de Histórias em Quadrinhos com IA",
+    "step1": {
+      "title": "Passo 1: Introduza a sua ideia",
+      "content": "Introduza um conceito, uma ideia ou uma inspiração para um meme. Escreva uma frase simples ou descreva a sua história em detalhe."
+    },
+    "step2": {
+      "title": "Passo 2: Personalize o seu estilo",
+      "content": "Escolha entre estilos como mangá, anime, quadrinhos americanos ou personalize o seu próprio estilo de arte."
+    },
+    "step3": {
+      "title": "Passo 3: Geração por IA",
+      "content": "Clique no botão 'Gerar Banda Desenhada'. Aguarde que o gerador de quadrinhos com IA da KomikoAI crie painéis, arte, balões de fala e narração com base nas suas entradas. A sua banda desenhada será gerada em poucos segundos."
+    },
+    "step4": {
+      "title": "Passo 4: Exporte e Partilhe",
+      "content": "Descarregue resultados de alta qualidade para partilhar nas redes sociais ou usar em projetos pessoais."
+    }
+  },
+  "why_use": {
+    "heading": "Por que razão deve gerar quadrinhos com o Gerador de Histórias em Quadrinhos com IA?",
+    "description": "O Gerador de Histórias em Quadrinhos com IA da KomikoAI simplifica a criação de quadrinhos para todos, de iniciantes a profissionais, oferecendo personalização e acessibilidade incomparáveis.",
+    "features": {
+      "beginner_friendly": {
+        "title": "Fácil para Iniciantes",
+        "content": "Não tem jeito para desenhar? Não há problema! Basta escrever a sua ideia e o Gerador de Histórias em Quadrinhos com IA desenha a sua banda desenhada por si com um clique."
+      },
+      "custom_art": {
+        "title": "Estilos de Arte Personalizados",
+        "content": "Escolha entre estilos de arte como quadrinhos americanos, mangá, manhwa ou anime, ou personalize o seu próprio estilo especificando-o nos prompts."
+      },
+      "amazing_layouts": {
+        "title": "Layouts Incríveis",
+        "content": "Escolha entre os nossos layouts de quadrinhos bem desenhados para tornar os seus quadrinhos fantásticos. A sua banda desenhada será gerada da forma que desejar."
+      },
+      "tell_story": {
+        "title": "Conte a sua História",
+        "content": "O criador de quadrinhos com IA da KomikoAI adicionará balões de fala, diálogo e narração aos seus quadrinhos automaticamente. Faça os seus personagens falarem e contarem histórias emocionantes!"
+      },
+      "ai_efficiency": {
+        "title": "Eficiência com Tecnologia de IA",
+        "content": "Poupe horas de trabalho manual, deixando que a IA trate dos visuais, da narração e do layout."
+      },
+      "high_quality": {
+        "title": "Resultados de Alta Qualidade",
+        "content": "Descarregue quadrinhos com qualidade profissional, perfeitos para partilhar ou imprimir."
+      },
+      "creative_freedom": {
+        "title": "Liberdade Criativa",
+        "content": "Experimente ideias, ajuste detalhes e refine os seus quadrinhos para contar a sua história. Não está satisfeito com a sua banda desenhada? Tente novamente no Gerador de Histórias em Quadrinhos com IA."
+      },
+      "accessible": {
+        "title": "Acessível a Qualquer Hora",
+        "content": "O Gerador de Histórias em Quadrinhos com IA está na nuvem, permitindo-lhe criar quadrinhos em qualquer lugar, em qualquer dispositivo."
+      },
+      "share_comics": {
+        "title": "Partilhe a sua Banda Desenhada",
+        "content": "Partilhe a sua banda desenhada em plataformas de redes sociais como Instagram, Twitter e Facebook. O Gerador de Histórias em Quadrinhos com IA da KomikoAI também facilita a geração de memes personalizados para partilha."
+      }
+    }
+  },
+  "faq": {
+    "heading": "Perguntas frequentes sobre o Gerador de Histórias em Quadrinhos com IA",
+    "description": "Saiba mais sobre como funciona o Gerador de Histórias em Quadrinhos com IA da KomikoAI e os seus benefícios.",
+    "edit_after_creation": {
+      "question": "Posso editar a minha banda desenhada depois de o Gerador de Histórias em Quadrinhos com IA a criar?",
+      "answer": "Sim! Se quiser alterar a imagem, editar os balões de fala ou alterar o layout, pode clicar no botão \"Editar\" no canto superior direito da banda desenhada. Isso irá redirecioná-lo para a página do ecrã de IA onde pode editar a banda desenhada."
+    },
+    "what_is_comic_generator": {
+      "question": "O que é o Gerador de Histórias em Quadrinhos com IA?",
+      "answer": "O Gerador de Histórias em Quadrinhos com IA é uma ferramenta inovadora que usa IA para gerar banda desenhada automaticamente. Introduza a sua ideia, escolha um estilo e deixe a IA gerar uma banda desenhada em segundos! Ele simplifica o processo criativo, gerando automaticamente visuais e diálogos com base na sua entrada. Pode criar todos os tipos de banda desenhada, como histórias engraçadas, aventuras ou contos de super-heróis fixes sem desenhar!"
+    },
+    "what_is_manga_generator": {
+      "question": "O que é o Gerador de Mangá com IA?",
+      "answer": "O Gerador de Mangá com IA é uma ferramenta inovadora que usa IA para gerar mangá automaticamente. Introduza a sua ideia, escolha o estilo de mangá e deixe a IA gerar um mangá em segundos! Ele simplifica o processo criativo, gerando automaticamente visuais e diálogos com base na sua entrada. Pode criar todos os tipos de mangá, como shounen, shoujo, seinen, isekai, etc."
+    },
+    "what_is_manhwa_generator": {
+      "question": "O que é o Gerador de Manhwa com IA?",
+      "answer": "O Gerador de Manhwa com IA é uma ferramenta inovadora que usa IA para gerar manhwa automaticamente. Introduza a sua ideia, escolha um estilo de manhwa e deixe a IA gerar um manhwa em segundos! Ele simplifica o processo criativo, gerando automaticamente visuais e diálogos com base na sua entrada. Pode criar todos os tipos de manhwa, como ação, romance, comédia, terror, isekai, etc."
+    },
+    "how_to_make_comics": {
+      "question": "Como posso criar quadrinhos com o Gerador de Histórias em Quadrinhos com IA?",
+      "answer": "Criar uma banda desenhada com o Gerador de Histórias em Quadrinhos com IA é super fácil! Basta escrever uma ideia para a sua banda desenhada e o Gerador de Histórias em Quadrinhos com IA transformará a sua ideia numa banda desenhada fantástica. Ele também adicionará balões de fala automaticamente e organizará os seus painéis."
+    },
+    "how_it_works": {
+      "question": "Como funciona o Gerador de Histórias em Quadrinhos com IA?",
+      "answer": "Basta introduzir a sua ideia ou conceito, selecionar um estilo de arte (anime, mangá ou estilo personalizado) e deixar a IA da KomikoAI criar uma tira de banda desenhada totalmente desenhada. A IA analisa a sua entrada para gerar visuais detalhados e diálogos atraentes para cada painel."
+    },
+    "art_styles": {
+      "question": "Que estilos de arte são suportados?",
+      "answer": "A KomikoAI suporta uma variedade de estilos, incluindo anime, mangá, quadrinhos americanos e estilos de arte personalizados com base nos seus prompts."
+    },
+    "what_comics_can_i_generate": {
+      "question": "Que tipo de quadrinhos posso gerar com o Gerador de Histórias em Quadrinhos com IA?",
+      "answer": "Pode gerar qualquer tipo de quadrinhos, mangá, manhwa. Histórias de super-heróis, anime japonês, isekai, regressão, shounen, shoujo, seinen, qualquer tipo de história que possa imaginar. O Gerador de Histórias em Quadrinhos com IA ajuda a dar vida às suas ideias!"
+    },
+    "commercial_use": {
+      "question": "Posso usar a banda desenhada gerada comercialmente?",
+      "answer": "Sim! A banda desenhada criada com a KomikoAI pode ser usada para fins pessoais ou comerciais, sujeita aos nossos termos de serviço."
+    },
+    "need_drawing_skills": {
+      "question": "Preciso de saber desenhar para usar o Gerador de Histórias em Quadrinhos com IA?",
+      "answer": "De maneira nenhuma! O Gerador de Histórias em Quadrinhos com IA da KomikoAI foi concebido para todos, de artistas profissionais a iniciantes. Basta trazer as suas ideias e o Gerador de Histórias em Quadrinhos com IA trata do resto."
+    },
+    "for_memes": {
+      "question": "Posso usar o Gerador de Histórias em Quadrinhos com IA para memes?",
+      "answer": "Absolutamente! O Gerador de Histórias em Quadrinhos com IA da KomikoAI é perfeito para criar memes hilariantes e virais. Basta selecionar o modo \"Meme\" e deixar que a IA faça o trabalho."
+    },
+    "is_free": {
+      "question": "O Gerador de Histórias em Quadrinhos com IA é gratuito?",
+      "answer": "A KomikoAI oferece um plano gratuito com zaps (créditos) limitados. Para obter mais recursos e limites de utilização mais elevados, consulte os nossos planos de preços."
+    },
+    "share_online": {
+      "question": "Posso partilhar a minha banda desenhada online?",
+      "answer": "Sim, pode descarregar a sua banda desenhada e partilhá-la em plataformas de redes sociais como Instagram, Twitter e Facebook. A KomikoAI também facilita a geração de memes personalizados para partilha."
+    },
+    "custom_art_styles": {
+      "question": "Posso criar estilos de arte personalizados com o Gerador de Histórias em Quadrinhos com IA?",
+      "answer": "Sim, com o modo personalizado da KomikoAI, pode especificar o seu próprio estilo de arte, esquemas de cores e detalhes visuais para criar quadrinhos exclusivos adaptados à sua visão."
+    },
+    "title": "Dúvidas Frequentes"
+  },
+  "examples": {
+    "title": "Exemplos de Banda Desenhada"
+  },
+  "auto_post": "Postagem Automática",
+  "date": {
+    "today": "Hoje",
+    "yesterday": "Ontem"
+  }
+}

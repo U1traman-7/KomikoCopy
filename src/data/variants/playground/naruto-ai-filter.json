@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Naruto AI Filter",
+      "description": "Transform your photos into vibrant Naruto art with the Naruto AI Filter. Create stunning, anime-inspired masterpieces today!",
+      "keywords": "Naruto AI Filter, AI anime generator, Naruto style transformation, AI character creator"
+    },
+    "hero": {
+      "title": "Naruto AI Filter"
+    },
+    "whatIs": {
+      "title": "What is Naruto AI Filter?",
+      "description": "Naruto AI Filter is an advanced tool that transforms your photos into vibrant artworks inspired by the Naruto series. Using sophisticated AI algorithms, it replicates Naruto's unique style, colors, and character designs, allowing anyone to create beautiful art that captures the spirit of the anime."
+    },
+    "examples": {
+      "title": "Inspiring Naruto AI Filter Examples",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "How to Use Naruto AI Filter",
+      "steps": [
+        {
+          "title": "Step 1: Upload Your Photo",
+          "content": "Upload a clear, high-quality image for optimal transformation. Drag and drop your file into the designated area."
+        },
+        {
+          "title": "Step 2: Select the Naruto Template",
+          "content": "Select the Naruto template to transform your photo with the naruto style."
+        },
+        {
+          "title": "Step 3: Convert to Naruto",
+          "content": "Hit the 'Convert to Naruto' button to initiate the transformation. Watch as the AI quickly applies the Naruto aesthetic to your image."
+        },
+        {
+          "title": "Step 4: Download and Showcase",
+          "content": "After the transformation, download your Naruto-styled artwork. Share it with friends or keep it as a unique piece!"
+        }
+      ],
+      "subtitle": "Create Naruto-inspired art with ease!"
+    },
+    "benefits": {
+      "title": "Why Use Naruto AI Filter?",
+      "description": "Unlock the creativity and benefits of Naruto-style transformations.",
+      "features": [
+        {
+          "title": "🎨 Embrace Naruto's Distinct Style",
+          "content": "Enhance your images with the bold and energetic style of Naruto, complete with dynamic colors and captivating expressions."
+        },
+        {
+          "title": "⚡ Speedy Transformations",
+          "content": "Experience quick processing speeds, allowing you to create stunning artwork almost instantly."
+        },
+        {
+          "title": "🖼️ Intuitive User Experience",
+          "content": "Designed for all comfort levels, our user-friendly interface makes transforming images easy and enjoyable."
+        },
+        {
+          "title": "💫 Multiple Uses",
+          "content": "Ideal for personal projects or business needs, create social media visuals, custom prints, and more!"
+        },
+        {
+          "title": "🎯 High-Quality Produces",
+          "content": "Generate high-resolution images that are perfect for printing and sharing across various platforms."
+        },
+        {
+          "title": "🚀 Unlock Your Creativity",
+          "content": "Experiment with Naruto's vibrant art style, creating artwork that reflects your unique artistic vision."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Naruto AI Filter FAQ",
+      "description": "",
+      "q1": "What is Naruto AI Filter and how does it work?",
+      "a1": "The Naruto AI Filter uses advanced AI algorithms to analyze and apply Naruto's signature artistic styles to your images.",
+      "q2": "How can I achieve the best results with the Naruto AI Filter?",
+      "a2": "Opt for high-resolution images with good lighting and explore various expressions for greater transformation depth.",
+      "q3": "Is the Naruto AI Filter free?",
+      "a3": "Yes, the Naruto AI Filter is free to use, although there may be optional premium features available for purchase.",
+      "q4": "What distinguishes Naruto AI Filter from other filters?",
+      "a4": "The Naruto AI Filter uniquely emulates the visual elements specific to the Naruto series, making it a distinctly attractive option for fans and artists.",
+      "q5": "Can I commercially use my creations from the Naruto AI Filter?",
+      "a5": "Yes, you may use your creations for both personal and commercial purposes but ensure you adhere to usage rights regarding the Naruto franchise."
+    },
+    "cta": {
+      "title": "Start Creating Your Naruto Art Today",
+      "description": "Transform your images into captivating Naruto-style artworks now. Unleash your creativity with our powerful AI tool. Get started and discover endless possibilities!",
+      "buttonText": "Transform to Naruto AI Filter Free"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into Naruto AI Filter style",
+  "originalKeyword": "Naruto AI Filter",
+  "defaultStyle": "naruto",
+  "examples": [
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_1.webp",
+      "prompt": "Style: Naruto",
+      "input": "/images/examples/photo-to-anime/input2.jpg"
+    },
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_2.webp",
+      "prompt": "Style: Naruto",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_3.webp",
+      "prompt": "Style: Naruto",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_4.webp",
+      "prompt": "Style: Naruto",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp"
+    }
+  ]
+}

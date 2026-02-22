@@ -1,0 +1,176 @@
+{
+  "hero": {
+    "title": "AniGen",
+    "subtitle": "THE WORLD'S FIRST SHORT-FORM AI ANIMATION COMPETITION",
+    "sponsors": "Sponsors:",
+    "btnRules": "SEE THE FULL RULES",
+    "btnSubmit": "SUBMIT YOUR CREATION"
+  },
+  "about": {
+    "subtitle": "Where AI Meets Animation",
+    "title": "ABOUT THE CHALLENGE",
+    "description1": "Welcome to AniGen, the world's first vertical short AI animation competition hosted by KomikoAI, Hedra, Hailuo, and AniShort. We're bringing together cutting-edge AI technology and creative storytelling to pioneer a new genre of animation.",
+    "description2": "AniGen aims to discover and promote emerging creators in the field of animation. You are invited to push the boundaries of what's possible in animation with AI. Whether you're an AI creator, a traditional animator exploring new technology, a scriptwriter, or an animation enthusiast — this is your chance to showcase your talent and win exceptional prizes, free AI tool subscriptions, and even opportunities to publish your shows on the AniShort streaming app."
+  },
+  "prizes": {
+    "title": "PRIZES & WINNERS",
+    "animation": {
+      "title": "Animation Track",
+      "grandPrize": "Grand Prize (1 winner)",
+      "grandPrizeDetails": [
+        "$3,000 USD",
+        "6-month free pro subscriptions to Hailuo, Hedra and KomikoAI",
+        "Opportunity to further develop the animation with funding and to be showcased on the AniShort streaming app"
+      ],
+      "secondPrize": "Second Prize (1 winner)",
+      "secondPrizeDetails": "$1,500 USD + 3-month pro subscriptions to AI tools",
+      "runnerUp": "Runner-Up Prize (2 winners)",
+      "runnerUpDetails": "$500 USD + 2-month pro subscriptions to AI tools",
+      "excellence": "Excellence Award (30 creators)",
+      "excellenceDetails": "1-month pro subscriptions to AI tools",
+      "note": "Winning entries will be promoted across sponsor social channels, invited to release on the AniShort streaming platform, and might even have the chance to further develop their animation with funding or studio support."
+    },
+    "scriptwriting": {
+      "title": "Scriptwriting Track",
+      "grandPrize": "Grand Prize (1 winner)",
+      "grandPrizeDetails": "$1,000 USD",
+      "excellence": "Excellence Award (3 creators)",
+      "excellenceDetails": "$100 USD",
+      "note": "Selected scripts may be adapted into animations and released on the AniShort streaming platform with a revenue share."
+    }
+  },
+  "judges": {
+    "label": "Meet Our Panel",
+    "title": "THE JUDGES",
+    "description": "Our distinguished panel of judges includes industry leaders and creative pioneers:",
+    "judge1": {
+      "name": "Ben Waller",
+      "title": "Chief Creative Officer at Story Engine Inc., Screenwriter, Star Trek: Lower Decks, Roborockaylpse."
+    },
+    "judge2": {
+      "name": "Michael Lingelbach",
+      "title": "Founder & CEO of Hedra"
+    },
+    "judge3": {
+      "name": "Garrett Pollack",
+      "title": "Social media influencer in the anime space"
+    },
+    "judge4": {
+      "name": "Aiden Guo",
+      "title": "Animator of One Piece, AI animation creator & influencer"
+    },
+    "judge5": {
+      "name": "Leanna Ren",
+      "title": "VP @ MiniMax"
+    }
+  },
+  "timeline": {
+    "title": "TIMELINE",
+    "launch": {
+      "date": "April 29, 2025",
+      "title": "Competition Launch"
+    },
+    "submission": {
+      "date": "April 29 - May 20, 2025",
+      "title": "Submission Period"
+    },
+    "judging": {
+      "date": "May 20 - June 1, 2025",
+      "title": "Judging Period"
+    },
+    "announcement": {
+      "date": "June 1, 2025",
+      "title": "Winner Announcement"
+    }
+  },
+  "rules": {
+    "title": "REQUIREMENTS & RULES",
+    "participation": {
+      "note": "* Participants are welcome to join either or both tracks, depending on their interests and skills."
+    },
+    "animation": {
+      "title": "ANIMATION TRACK",
+      "description": "Create a vertical short animation that tells a compelling story",
+      "format": {
+        "label": "Format:",
+        "value": "9:16 vertical (mobile-optimized), MP4"
+      },
+      "duration": {
+        "label": "Duration:",
+        "value": "30 seconds to 3 minutes"
+      },
+      "content": {
+        "label": "Content:",
+        "value": "The animation should tell a full story or should be the opening story of a longer series. We do NOT accept trailers or music videos."
+      },
+      "requirements": {
+        "label": "Key Requirements:",
+        "list": [
+          "Use AI tools for at least 50% of creation, including:",
+          "At least one character talking scene using Hedra's Character-3 model",
+          "At least one character/scene image generated with KomikoAI",
+          "At least one animation clip generated with Hailuo, either through Hailuo platform or through Hedra/KomikoAI",
+          "Original work only - no copyright infringement",
+          "English voiceover or subtitles required",
+          "Post your work on Twitter/X and tag #AniGen @hedra_labs @KomikoAI @Hailuo_AI @AniShortApp so official accounts can repost",
+          "You must be 18 or older to qualify",
+          "No NSFW content, hate speech, extreme violence, or copyrighted material"
+        ]
+      }
+    },
+    "scriptwriting": {
+      "title": "SCRIPTWRITING TRACK",
+      "description": "Craft an original concept for a vertical short animation series",
+      "format": {
+        "label": "Format:",
+        "value": "Concept package with scripts for the first 5 episodes"
+      },
+      "duration": {
+        "label": "Duration:",
+        "value": "Each episode should be 1-2 minutes, designed for fast-paced, attention-grabbing storytelling"
+      },
+      "genre": {
+        "label": "Genre:",
+        "value": "All genres are welcome, e.g., action, romance, fantasy, isekai, shounen, etc."
+      },
+      "requirements": {
+        "label": "Requirements:",
+        "list": [
+          "Title, plot synopsis, character overview, and complete scripts of the first 5 episodes",
+          "Language: English or with English translations",
+          "Original work only - no copyright infringement",
+          "No NSFW content, hate speech, extreme violence, or copyrighted material"
+        ]
+      }
+    }
+  },
+  "sponsors": {
+    "title": "OUR SPONSORS & PARTNERS",
+    "hedra": {
+      "name": "Hedra",
+      "description": "AI avatar video generation model"
+    },
+    "hailuo": {
+      "name": "Hailuo",
+      "description": "AI video generation model"
+    },
+    "komiko": {
+      "name": "KomikoAI",
+      "description": "AI animation & comics creation toolkit"
+    },
+    "anishort": {
+      "name": "AniShort",
+      "description": "Short animation streaming platform"
+    }
+  },
+  "submit": {
+    "title": "JOIN THE FUTURE OF ANIMATION",
+    "description": "Submit your entry today and pioneer the next wave of AI-powered animation.",
+    "btnSubmit": "SUBMIT YOUR CREATION",
+    "btnRules": "REVIEW RULES"
+  },
+  "meta": {
+    "title": "AniGen Competition - Short-Form AI Animation Competition | Win $6,000 and Free AI Tool Subscriptions",
+    "description": "Join the world's first vertical short AI animation competition hosted by KomikoAI, Hedra, Hailuo, and AniShort."
+  }
+}

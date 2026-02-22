@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "KI-Anwendungen | Komiko",
+    "description": "Durchsuchen Sie alle Komiko-Tools zur Inhaltserstellung."
+  },
+  "sections": {
+    "favorites": {
+      "title": "Favoriten",
+      "description": "Schneller Zugriff auf Ihre markierten Werkzeuge.",
+      "empty": "Noch keine Favoriten vorhanden. Tippen Sie auf das Sternsymbol einer App, um sie zu Ihren Favoriten hinzuzufügen."
+    },
+    "allApps": {
+      "title": "Alle Werkzeuge durchsuchen",
+      "description": "Filtern Sie nach Erstellungsart, um das zu finden, was Sie benötigen."
+    }
+  },
+  "buttons": {
+    "addFavorite": "Zu den Favoriten hinzufügen",
+    "removeFavorite": "Aus den Favoriten entfernen"
+  },
+  "hero": {
+    "eyebrow": "Creator Toolkit",
+    "title": "KI-Apps",
+    "description": "All-in-One Suite, um Ihre visuellen Geschichten zum Leben zu erwecken."
+  },
+  "filters": {
+    "categories": {
+      "all": "Alle Werkzeuge",
+      "illustration": "Illustration & Bild",
+      "animation": "Animation & Video",
+      "comic": "Comics & Manga"
+    }
+  }
+}

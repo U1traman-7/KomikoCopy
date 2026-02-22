@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Mitra | KomikoAI",
+    "description": "Berkolaborasi dan tumbuh bersama KomikoAI."
+  },
+  "hero": {
+    "title": "Mitra Kami",
+    "description": "Sebagai platform komik dan animasi AI terdepan, kami bermitra dengan inovator AI terbaik untuk merevolusi pembuatan konten kreatif di bidang desain dan hiburan."
+  },
+  "technologyPartners": {
+    "title": "Mitra Teknologi",
+    "description": "Berkolaborasi dengan pemimpin industri untuk memajukan kreativitas yang didukung AI",
+    "partners": {
+      "mathosAI": {
+        "name": "Mathos AI",
+        "description": "Mathos AI adalah pemecah masalah matematika AI yang andal, yang membantu Anda menyelesaikan masalah matematika yang kompleks."
+      },
+      "collovAI": {
+        "name": "Collov AI",
+        "description": "Collov AI menyediakan sentuhan akhir rumah virtual AI tingkat lanjut, mengubah daftar properti dengan desain fotorealistik yang menakjubkan. Tingkatkan pemasaran real estat dengan sentuhan akhir yang cepat dan hemat biaya."
+      },
+      "altpageAI": {
+        "name": "altpage.ai",
+        "description": "altpage.ai adalah Agen AI yang mengoptimalkan halaman perbandingan untuk SEO guna menarik lalu lintas dari merek pesaing. Platform ini menganalisis data, menonjolkan keunggulan Anda, dan menerapkan halaman untuk peringkat tinggi tanpa memerlukan keterampilan teknis."
+      },
+      "easysiteAI": {
+        "name": "SitusMudah",
+        "description": "Buat situs web dan aplikasi berbasis database dengan AI dalam hitungan detik. Fitur yang tersedia meliputi database bawaan, konversi untuk perangkat seluler, widget obrolan, dan analitik. Siap untuk integrasi dengan WordPress/Netlify."
+      },
+      "newoaksAI": {
+        "name": "AI Chatbot Builder; AI Agent Builder",
+        "description": "NewOaks AI menangani percakapan pelanggan di semua saluran Anda dan membantu mengisi kalender dengan pertemuan penting. Fokuslah pada penyelesaian kesepakatan alih-alih mengejar prospek!"
+      },
+      "komiko": {
+        "name": "KomikoAI",
+        "description": "KomikoAI: Platform AI all-in-one untuk Seni, Anime, dan Komik. Alat AI canggih dari KomikoAI memudahkan para seniman dan pendongeng untuk mewujudkan ide-ide mereka. Dari pewarnaan seni garis, generator anime AI, hingga generator komik AI, semua ada di sini. Ciptakan ilustrasi, komik, manga, dan animasi hanya dalam hitungan menit."
+      },
+      "kuaAI": {
+        "name": "kua.ai",
+        "description": "Agen AI untuk Bisnis E-Commerce"
+      },
+      "vidAU": {
+        "name": "VidAU",
+        "description": "VidAU AI memungkinkan Anda untuk membuat video menarik dalam hitungan menit. Cukup berikan tautan produk atau deskripsi ringkas, dan platform kami akan menghasilkan video berkualitas tinggi dengan avatar AI yang dapat berbicara dalam berbagai bahasa dan aksen. Apakah Anda membuat konten untuk TikTok, YouTube, kampanye pemasaran, atau pelatihan, VidAU AI siap membantu. Dari video pendek hingga penjelasan profesional, platform pembuatan video AI yang mudah digunakan ini membantu Anda memproduksi konten menarik dengan cepat, meningkatkan kehadiran merek Anda dan menyampaikan cerita Anda dengan lebih efektif."
+      },
+      "bikaAI": {
+        "name": "Bika.AI",
+        "description": "Bika.ai adalah ruang kerja AI all-in-one untuk membuat agen AI bisnis. Platform ini menggabungkan chatbot AI, otomatisasi, database, dasbor, dan wiki untuk mengelola serta mengotomatisasi proses bisnis secara efisien. Tidak perlu interaksi terus-menerus dengan AI. Bika.ai mengotomatisasi tugas berulang dan mengeksekusi dengan lancar di berbagai fungsi seperti pemasaran, penjualan, dan proyek Anda, memungkinkan Anda untuk lebih fokus pada pekerjaan strategis."
+      }
+    }
+  },
+  "partnershipCTA": {
+    "title": "Kembangkan Bisnis Anda Bersama Kami",
+    "description": "Perluas jangkauan pasar Anda dengan bermitra bersama KomikoAI. Kami senang berkolaborasi dengan perusahaan di industri kreatif terkait.",
+    "button": "Hubungi Tim Kami"
+  },
+  "productLines": {
+    "title": "Lini Produk",
+    "description": "Jelajahi solusi inovatif kami yang membentuk kembali masa depan alat AI kreatif",
+    "aiComicGeneration": {
+      "title": "Pembuatan Komik AI",
+      "description": "Buat komik yang indah secara instan menggunakan teknologi AI canggih kami",
+      "items": [
+        "Desain Karakter",
+        "Pembuatan Adegan Komik",
+        "Penceritaan Multi-Panel",
+        "Kontrol Gaya Kustom"
+      ]
+    },
+    "imageProcessing": {
+      "title": "Pemrosesan Gambar",
+      "description": "Alat gambar AI profesional untuk menyederhanakan alur kerja kreatif Anda",
+      "items": [
+        "Penghapusan Latar Belakang",
+        "Pewarnaan Gambar",
+        "Resolusi Super Gambar",
+        "Pewarnaan Seni Garis"
+      ]
+    },
+    "videoEnhancement": {
+      "title": "Peningkatan Video",
+      "description": "Alat video canggih untuk mewujudkan kreasi Anda",
+      "items": [
+        "Interpolasi Bingkai Video",
+        "Resolusi Super Video",
+        "Animasi Video AI",
+        "Pembuatan Gerakan Karakter"
+      ]
+    }
+  },
+  "solutions": {
+    "title": "Solusi",
+    "description": "Pendekatan yang disesuaikan untuk berbagai segmen pasar",
+    "professionals": {
+      "title": "Profesional",
+      "description": "Alat yang disederhanakan untuk profesional kreatif",
+      "items": [
+        "Kartunis",
+        "Pembuat Konten",
+        "Desainer Game",
+        "Ilustrator"
+      ]
+    },
+    "enterprises": {
+      "title": "Perusahaan",
+      "description": "Solusi AI berskala besar untuk perusahaan",
+      "items": [
+        "Institusi Pendidikan",
+        "Industri Hiburan",
+        "Penerbit",
+        "Agensi Periklanan"
+      ]
+    }
+  }
+}

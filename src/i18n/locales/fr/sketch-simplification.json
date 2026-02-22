@@ -1,0 +1,231 @@
+{
+  "ui": {
+    "title": "Simplification de Croquis par IA",
+    "description": "Transformez vos croquis bruts en illustrations linéaires claires et simplifiées grâce à l'IA. Obtenez une simplification instantanée de vos croquis et affinez vos dessins en un seul clic ! Idéal pour les artistes, les designers et les passionnés de manga qui souhaitent optimiser leur processus créatif.",
+    "input": {
+      "title": "Entrée",
+      "tooltip": "Téléversez un croquis à simplifier",
+      "sketchImage": "Image du croquis",
+      "aiModel": "Modèle d'IA",
+      "models": {
+        "basic": "Basique",
+        "advanced": "Avancé"
+      },
+      "selectModel": "Sélectionner un modèle"
+    },
+    "buttons": {
+      "simplifyImage": "Simplifier l'image"
+    },
+    "output": {
+      "title": "Résultats de Simplification",
+      "emptyState": "Vos résultats de simplification apparaîtront ici",
+      "uploadPrompt": "Téléversez une image pour commencer"
+    },
+    "toast": {
+      "fetchImagesFailed": "La récupération des images a échoué",
+      "deleteSuccess": "Suppression réussie",
+      "deleteFailed": "La suppression a échoué",
+      "downloadFailed": "Le téléchargement a échoué",
+      "simplifySuccess": "Image simplifiée avec succès",
+      "simplifyFailed": "La simplification de l'image a échoué",
+      "createImageFailed": "La création de l'image a échoué"
+    },
+    "examples": {
+      "inputSketch": "Croquis d'entrée",
+      "simplifiedResult": "Résultat simplifié",
+      "example1": "Croquis brut transformé en illustration linéaire claire",
+      "example2": "Croquis brut affiné en illustration linéaire soignée"
+    },
+    "modal": {
+      "deleteTitle": "Confirmation de suppression",
+      "deleteMessage": "Êtes-vous sûr de vouloir supprimer cette image ? Cette action est irréversible.",
+      "cancel": "Annuler",
+      "delete": "Supprimer"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Simplification de Croquis par IA - KomikoAI",
+      "description": "Transformez des croquis complexes en illustrations linéaires claires et simplifiées grâce à l'IA. Téléversez votre croquis et laissez l'IA l'affiner pour vous.",
+      "keywords": "Simplification de croquis par IA, croquis en illustration linéaire, illustration linéaire IA, affinage de croquis, croquis manga, croquis de bande dessinée, outil de dessin IA, nettoyage de croquis, générateur d'illustrations linéaires"
+    },
+    "hero": {
+      "title": "Simplification de Croquis par IA"
+    },
+    "howToUse": {
+      "title": "Comment simplifier vos croquis avec l'IA",
+      "description": "Transformez vos croquis bruts en illustrations linéaires claires et simplifiées grâce à la simplification de croquis par IA de Komiko en quelques étapes.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Étape 1 : Téléverser l'image du croquis",
+          "content": "Téléversez votre croquis ou dessin brut pour la simplification IA. Les formats JPG et PNG sont pris en charge."
+        },
+        {
+          "step": 2,
+          "title": "Étape 2 : Simplifier et Partager",
+          "content": "Cliquez sur 'Simplifier l'image' et attendez que l'IA fasse sa magie. Téléchargez et partagez votre création simplifiée !"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Exemples de Simplification de Croquis par IA",
+      "description": "Découvrez les résultats de simplification de croquis générés par les utilisateurs de Anitoon"
+    },
+    "cta": {
+      "title": "Transformez vos croquis avec l'IA dès aujourd'hui !",
+      "description": "Commencez à simplifier vos croquis grâce à notre technologie d'IA avancée.",
+      "buttonText": "Essayez la simplification de croquis gratuitement"
+    },
+    "benefits": {
+      "title": "Pourquoi simplifier vos croquis avec l'IA",
+      "description": "La simplification de croquis par IA d'Anitoon aide les artistes à transformer des croquis bruts en illustrations linéaires claires et affinées, optimisant ainsi votre processus créatif.",
+      "features": [
+        {
+          "title": "Illustration Linéaire Claire",
+          "content": "Transformez des croquis brouillons en illustrations linéaires claires et professionnelles avec des épaisseurs de trait uniformes et une clarté améliorée.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Cohérence de Style",
+          "content": "Maintenez un style d'illustration linéaire cohérent dans tous vos dessins grâce à la simplification basée sur l'IA.",
+          "icon": "🖌️"
+        },
+        {
+          "title": "Gain de Temps",
+          "content": "Gagnez des heures d'affinage manuel des illustrations linéaires en laissant l'IA gérer le processus de simplification.",
+          "icon": "💎"
+        },
+        {
+          "title": "Clarté Améliorée",
+          "content": "Améliorez la clarté et la lisibilité de vos croquis en supprimant les détails et le bruit inutiles.",
+          "icon": "💪"
+        },
+        {
+          "title": "Simplification Intelligente",
+          "content": "L'IA analyse la structure de votre croquis et le simplifie intelligemment tout en préservant les détails importants.",
+          "icon": "🧠"
+        },
+        {
+          "title": "Qualité Professionnelle",
+          "content": "Obtenez des illustrations linéaires de qualité professionnelle prêtes à être encrées ou colorées numériquement.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Optimisation du Flux de Travail",
+          "content": "Rationalisez votre processus créatif en automatisant la phase d'affinage des croquis.",
+          "icon": "💫"
+        },
+        {
+          "title": "Sélection du Modèle",
+          "content": "Choisissez entre les modèles d'IA Basique et Avancé pour répondre à vos besoins spécifiques.",
+          "icon": "📚"
+        },
+        {
+          "title": "Affinage Instantané",
+          "content": "Transformez instantanément des croquis bruts en illustrations linéaires soignées, parfaites pour les mangas, les bandes dessinées et les illustrations.",
+          "icon": "⚡️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions Fréquentes sur la Simplification de Croquis par IA",
+      "description": "Trouvez des réponses aux questions fréquemment posées sur la simplification des croquis avec l'IA.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Qu'est-ce que la simplification de croquis par IA ?",
+          "answer": "La simplification de croquis par IA est un processus qui utilise l'intelligence artificielle pour transformer des croquis bruts en illustrations linéaires claires et affinées. L'outil de simplification de croquis par IA de Komiko aide les artistes à optimiser leur processus créatif en affinant et en simplifiant automatiquement leurs dessins tout en conservant les détails essentiels."
+        },
+        {
+          "id": 2,
+          "question": "Comment simplifier les croquis avec l'IA ?",
+          "answer": "Vous pouvez simplifier vos croquis avec Komiko AI en deux étapes faciles :\n1. Téléversez votre image de croquis pour la simplification IA\n2. Cliquez sur 'Simplifier l'image' et attendez que l'IA affine votre dessin"
+        },
+        {
+          "id": 3,
+          "question": "Comment fonctionne la simplification de croquis par IA ?",
+          "answer": "La simplification de croquis par IA utilise des modèles d'IA avancés entraînés sur des millions d'images pour analyser la structure de votre croquis et le simplifier intelligemment. L'IA identifie les lignes et les détails importants tout en supprimant le bruit et la complexité inutiles, ce qui donne des illustrations linéaires claires et professionnelles."
+        },
+        {
+          "id": 4,
+          "question": "Quels sont les avantages de la simplification de croquis par IA ?",
+          "answer": "Il existe plusieurs avantages à simplifier les croquis avec l'IA :\n• Gain de temps par rapport à l'affinage manuel des illustrations linéaires\n• Produit des illustrations linéaires cohérentes de qualité professionnelle\n• Maintient les détails importants tout en supprimant le bruit\n• Parfait pour les mangas, les bandes dessinées et les illustrations"
+        },
+        {
+          "id": 5,
+          "question": "Puis-je utiliser des croquis simplifiés par IA à des fins commerciales ?",
+          "answer": "Oui, vous pouvez utiliser des croquis simplifiés générés par l'IA à des fins personnelles et commerciales. Cependant, assurez-vous de respecter les conditions d'utilisation de Komiko."
+        },
+        {
+          "id": 6,
+          "question": "Quels formats et tailles sont pris en charge ?",
+          "answer": "L'IA prend en charge les croquis aux formats JPG et PNG. Les images de sortie conserveront leur taille d'origine tout en étant simplifiées."
+        },
+        {
+          "id": 7,
+          "question": "La simplification de croquis par IA est-elle gratuite ?",
+          "answer": "Komiko offre des zaps (crédits) gratuits pour que vous puissiez essayer l'outil. Vous pouvez également acheter des plans payants pour plus de zaps si vous avez besoin de plus d'utilisation, ainsi que des fonctionnalités avancées telles qu'un traitement plus rapide et des résolutions plus élevées."
+        },
+        {
+          "id": 8,
+          "question": "Quels types de croquis puis-je simplifier avec l'IA ?",
+          "answer": "La simplification IA fonctionne avec différents types de croquis :\n• Croquis et gribouillages bruts\n• Conceptions de personnages\n• Pages de manga et de bande dessinée\n• Conceptions de produits\n• Dessins architecturaux\n• Art conceptuel\nPour de meilleurs résultats, assurez-vous que vos croquis ont des lignes claires et bien définies et un bon contraste."
+        },
+        {
+          "id": 9,
+          "question": "Quelles sont les limites de la simplification de croquis par IA ?",
+          "answer": "Bien que la simplification de croquis par IA soit un outil puissant, elle présente certaines limites :\n• Détails complexes : Les croquis très complexes ou très détaillés peuvent perdre certains détails fins\n• Cohérence de style : L'IA peut ne pas correspondre parfaitement à votre style artistique souhaité\n• Qualité : La qualité de la simplification dépend de la qualité du croquis d'entrée\nMalgré ces limitations, la simplification par IA peut considérablement accélérer votre flux de travail et améliorer votre processus créatif."
+        },
+        {
+          "id": 10,
+          "question": "Dois-je savoir dessiner pour utiliser la simplification de croquis par IA ?",
+          "answer": "Non, vous n'avez pas besoin d'être un artiste expert pour utiliser la simplification de croquis par IA.\n• Pour les artistes : Si vous créez vos propres croquis, cet outil peut vous aider à affiner et à nettoyer votre travail\n• Pour les non-artistes : Vous pouvez commencer avec des croquis ou des modèles existants et laisser l'IA gérer la simplification\nCet outil est conçu pour être convivial pour tous, que vous soyez un artiste expérimenté ou un débutant explorant la créativité."
+        },
+        {
+          "id": 11,
+          "question": "Comment puis-je obtenir les meilleurs résultats de la simplification de croquis par IA ?",
+          "answer": "Suivez ces conseils pour une simplification optimale :\n• Utilisez des croquis clairs et bien définis avec un bon contraste\n• Assurez-vous que votre croquis a des lignes et des formes distinctes\n• Choisissez le modèle d'IA approprié à vos besoins\n• Envisagez d'utiliser l'option d'arrière-plan transparent si nécessaire"
+        },
+        {
+          "id": 12,
+          "question": "Comment la simplification par IA se compare-t-elle à l'affinage manuel ?",
+          "answer": "La simplification de croquis par IA offre un gain de temps important par rapport à l'affinage manuel, réduisant des heures de travail à quelques minutes. Bien qu'elle ne puisse pas entièrement remplacer l'affinage traditionnel pour les projets artistiques bruts, c'est un excellent outil pour le prototypage rapide, la visualisation de concepts et la création rapide de multiples variations. L'IA comprend les principes de l'illustration linéaire et peut suggérer des améliorations que vous n'auriez peut-être pas envisagées."
+        },
+        {
+          "id": 13,
+          "question": "Puis-je modifier les résultats simplifiés par l'IA ?",
+          "answer": "Oui, vous pouvez modifier et affiner davantage les croquis simplifiés par l'IA à l'aide de votre logiciel d'art numérique préféré. Le résultat généré par l'IA sert d'excellente base que vous pouvez améliorer avec votre touche artistique personnelle."
+        },
+        {
+          "id": 14,
+          "question": "Quelles sont les façons créatives d'utiliser la simplification de croquis par IA ?",
+          "answer": "La simplification de croquis par IA peut être utilisée pour :\n• Prototypage rapide de conceptions de personnages\n• Création d'illustrations linéaires claires pour les bandes dessinées et les mangas\n• Affinage de croquis bruts en illustrations soignées\n• Développement d'art conceptuel\n• Fins éducatives dans les cours d'art\n• Conversion de dessins bruts en illustrations linéaires simples"
+        }
+      ]
+    }
+  },
+  "examples": [
+    {
+      "input": "/images/examples/sketch_simplifier/input2.webp",
+      "output": "/images/examples/sketch_simplifier/output2.webp",
+      "inputLabel": "Croquis d'entrée",
+      "outputLabel": "Résultat simplifié",
+      "prompt": "Croquis brut transformé en illustration linéaire claire"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input1.webp",
+      "output": "/images/examples/sketch_simplifier/output1.webp",
+      "inputLabel": "Croquis d'entrée",
+      "outputLabel": "Résultat simplifié",
+      "prompt": "Croquis brut affiné en illustration linéaire soignée"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input3.webp",
+      "output": "/images/examples/sketch_simplifier/output3.webp",
+      "inputLabel": "Croquis d'entrée",
+      "outputLabel": "Résultat simplifié",
+      "prompt": "Croquis brut affiné en illustration linéaire soignée"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Image to Motion AI",
+      "description": "Harness AI to convert static images into engaging motion videos. Transform your drawings, comics, manga, or manhwa with our Image to Motion AI for dynamic results that captivate audiences.",
+      "keywords": "Image to Motion AI, anime motion AI, manga motion AI, comic motion AI, manhwa motion AI, AI video generator, image to video, image to motion, image to video generator, image to motion AI"
+    },
+    "hero": {
+      "title": "Image to Motion AI",
+      "description": "Harness AI to convert static images into engaging motion videos. Transform your drawings, comics, manga, or manhwa with our Image to Motion AI for dynamic results that captivate audiences."
+    },
+    "whatIs": {
+      "title": "What is Image to Motion AI?",
+      "description": "Image to Motion AI is a tool that allows you to create stunning motion videos from static images using AI. It's ideal for creating dynamic visuals for your anime, manga, and comic projects."
+    },
+    "examples": {
+      "title": "Image to Motion AI Examples",
+      "description": "Explore examples of motion videos crafted by our Image to Motion AI. See your static images come alive with dynamic motion!",
+      "inputAlt": "Example Input Image",
+      "inputLabel": "Input Image",
+      "outputLabel": "Motion Result"
+    },
+    "howToUse": {
+      "title": "How to Use Image to Motion AI",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Upload the image you want to transform into motion. Whether it's an anime character, manga panel, or comic illustration, our AI can bring it to life."
+        },
+        {
+          "title": "Enter a Prompt",
+          "content": "Provide a prompt to guide the motion. Describe the movement, expression, or action you want the AI to generate."
+        },
+        {
+          "title": "Generate Motion",
+          "content": "Click the 'Generate Motion' button and let our AI work its magic. Watch as your image evolves into a dynamic motion video."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Download your AI-generated motion video and share it with the world! Perfect for social media, personal projects, and more."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Image to Motion AI?",
+      "description": "Discover the benefits of using AI to create stunning motion videos for your anime, manga, and comic projects. Our Image to Motion AI makes animation accessible to everyone!",
+      "features": [
+        {
+          "title": "AI-Powered Motion",
+          "content": "Experience the power of AI in motion. Our intelligent algorithms analyze your images and generate dynamic videos with ease.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Create Dynamic Content",
+          "content": "Transform static images into engaging motion videos perfect for social media, presentations, and personal projects.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Easy to Use",
+          "content": "No animation experience required! Simply upload your image, enter a prompt, and let our AI do the rest.",
+          "icon": "👌"
+        },
+        {
+          "title": "Save Time and Effort",
+          "content": "Reduce motion video production time significantly. Our AI generates videos in minutes, saving you hours of manual work.",
+          "icon": "⚡"
+        },
+        {
+          "title": "High-Quality Results",
+          "content": "Achieve professional-quality motion video results. Our AI ensures smooth transitions and realistic movements.",
+          "icon": "✨"
+        },
+        {
+          "title": "Unleash Your Creativity",
+          "content": "Focus on your artistic vision while our AI handles the technical aspects of motion. Create stunning content effortlessly.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about creating motion videos with Image to Motion AI.",
+      "q1": "What is Image to Motion AI?",
+      "a1": "Image to Motion AI is an AI tool that transforms static images into dynamic motion videos. It offers an intuitive way for creators to enhance their visual projects with motion and animation effects, ideal for anime, manga, and comics enthusiasts.",
+      "q2": "How to use Image to Motion AI?",
+      "a2": "Using Image to Motion AI is simple! First, upload your image, then enter a motion-guiding prompt, and finally, click the 'Generate Motion' button. Our AI transforms your static images into lively dynamic videos with minimal effort.",
+      "q3": "How does Image to Motion AI work?",
+      "a3": "Image to Motion AI uses advanced AI technology to analyze your images and prompts. It works by interpreting the visual elements and generating motion frames to simulate movement, facial expressions, and dynamic scenes seamlessly.",
+      "q4": "What is the best image to motion AI tool?",
+      "a4": "KomikoAI provides the best image to motion AI tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Image to Motion AI, you can transform static images, perfect for creators across different industries.",
+      "q5": "Is the KomikoAI Image to Motion AI free online?",
+      "a5": "Yes, you can test out the Image to Motion AI on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Image to Motion AI?",
+      "a6": "You can use Image to Motion AI on KomikoAI to create dynamic motion videos from static images. Perfect for social media content, animated portraits, and adding life to manga, comics, and anime art.",
+      "q7": "Can I use Image to Motion AI on my phone?",
+      "a7": "Yes, you can use Image to Motion AI as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Image to Motion AI?",
+      "a8": "Yes, KomikoAI's Image to Motion AI allows you to export your generation in various formats, such as MP4, GIF, WebM, for easy sharing.",
+      "q9": "Why should I use Image to Motion AI?",
+      "a9": "Using Image to Motion AI can enhance static images with motion features. Our tool allows you to create engaging content, add dynamic effects, and create expressive animations to capture your creative vision."
+    },
+    "cta": {
+      "title": "Animate for FREE with Our Image to Motion AI Today!",
+      "description": "Unleash your creativity with dynamic motion tools now available.",
+      "buttonText": "Try Our Image to Motion AI Free"
+    }
+  },
+  "placeholderText": "Generate Image to Motion AI style artwork",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Midjourney",
+      "description": "Prompt: Silhouetted tribal warrior in orange robes walking with spotted hyena companion across misty savanna, minimalist art style, soft gradient sky transitioning from dawn to dusk, gentle walking animation, atmospheric African landscape",
+      "videoUrl": "/images/pages/midjourney/example5.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Midjourney",
+      "description": "Prompt: Anime maid girl in frilly black and white uniform walking toward camera carrying tea tray, warm cafe lighting, soft focus background with customers, golden hour sunlight through windows, gentle approach movement",
+      "videoUrl": "/images/pages/midjourney/example3.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Minimax",
+      "description": "Prompt: A man is talking angrily",
+      "videoUrl": "/images/examples/image-animation-generator/output3.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Kling",
+      "description": "Prompt: A girl is talking to herself peacefully",
+      "videoUrl": "/images/examples/image-animation-generator/output5.webm"
+    }
+  ],
+  "originalKeyword": "Image to Motion AI",
+  "pageStructure": [
+    "whyUse",
+    "examples",
+    "howToUse",
+    "whatIs",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

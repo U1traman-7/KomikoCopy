@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "title": "價格 | KomikoAI | 使用 AI 創作漫畫、Manhwa、漫畫和動畫",
+    "description": "選擇最適合您的方案，透過 KomikoAI 的 AI 驅動工具，釋放您的創造力，創作漫畫、Manhwa、漫畫和動畫。"
+  },
+  "page": {
+    "title": "選擇您的 KomikoAI 方案",
+    "zapPacksTitle": "Zap 套餐",
+    "description": "找到理想方案，立即開始創作。KomikoAI 為您提供創作角色、藝術、動漫和漫畫的所有所需工具。新用戶可立即獲得 500 次免費 zaps！",
+    "zapPacksDescription": "需要更多 zaps 但不想訂閱？購買一次性 zap 包來激發您的創作靈感。",
+    "monthly": "月付",
+    "annual": "年付",
+    "save": "節省 17%",
+    "faq": "常見問題",
+    "one_time_pack": "一次性 Zap 包",
+    "upgrade_plan": "升級方案",
+    "save50": "節省50%",
+    "join_now": "立享50%折扣！立即加入KomikoAI，感受新年的氣氛和節日驚喜！優惠截止至1月6日！",
+    "save_amount": "已節省 {{amount}}%"
+  },
+  "plans": {
+    "free": {
+      "name": "免費",
+      "price": "$0",
+      "zaps": "透過任務賺取 Zaps",
+      "description": "用於娛樂和測試",
+      "includes": [
+        "透過任務賺取 zaps",
+        "最多 50 張圖片"
+      ]
+    },
+    "starter": {
+      "name": "入門",
+      "price": {
+        "monthly": "$9.99",
+        "annual": "$99.90"
+      },
+      "zaps": "每月 5,000 Zaps",
+      "description": "適合娛樂和 AI 愛好者",
+      "includes": [
+        "每日簽到獎勵 100 Zaps",
+        "最多 800 張圖片或 40 段影片",
+        "3 個平行影片生成",
+        "無水印",
+        "支持多張參考圖片"
+      ]
+    },
+    "plus": {
+      "name": "Plus",
+      "price": {
+        "monthly": "$19.99",
+        "annual": "$199.90"
+      },
+      "zaps": "每月 15,000 Zaps",
+      "description": "適合進階創作者",
+      "includes": [
+        "每日簽到獎勵 120 Zaps",
+        "最多 1,860 張圖片或 93 段影片",
+        "5 個平行影片生成",
+        "包含 Starter 的所有功能",
+        "優先體驗新功能"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "price": {
+        "monthly": "$49.99",
+        "annual": "$499.90"
+      },
+      "zaps": "每月 50,000 Zaps",
+      "description": "適合專業人士",
+      "includes": [
+        "每日簽到獎勵 160 Zaps",
+        "最多 5,480 張圖片或 274 段影片",
+        "10 個平行影片生成",
+        "包含 Plus 的所有功能"
+      ],
+      "popular": "最受歡迎"
+    },
+    "enterprise": {
+      "name": "企業",
+      "price": "洽詢",
+      "zaps": "洽詢",
+      "description": "適合工作室和企業",
+      "includes": [
+        "自定義Zaps數量",
+        "自定義功能和限制",
+        "優先客戶支持",
+        "更多功能..."
+      ]
+    }
+  },
+  "buttons": {
+    "upgrade": "升級",
+    "downgrade": "降級",
+    "currentPlan": "目前方案",
+    "contactSales": "聯絡業務",
+    "cancelSubscription": "取消訂閱",
+    "doNotCancel": "不要取消",
+    "takeMeBack": "返回",
+    "buyNow": "立即購買",
+    "manageSubscription": "管理訂閱"
+  },
+  "labels": {
+    "active": "啟用",
+    "perMonth": "/月",
+    "billedAnnually": "以 {{price}} 按年計費",
+    "oneTimePurchase": "一次性購買",
+    "subscriberBonuses": "訂閱者獎勵：",
+    "bonusZaps": "{{amount}} 獎勵 zaps"
+  },
+  "zapPacks": {
+    "medium": "小型 Zap 組合",
+    "large": "大型 Zap 組合",
+    "packs": [
+      {
+        "name": "800 Zaps",
+        "price": "$0.99",
+        "label": "oneTimeOffer",
+        "bonuses": [
+          {
+            "plan": "基础",
+            "amount": "100"
+          },
+          {
+            "plan": "进阶",
+            "amount": "200"
+          },
+          {
+            "plan": "高级",
+            "amount": "500"
+          }
+        ]
+      },
+      {
+        "name": "2,000 Zaps",
+        "price": "$4.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "基础",
+            "amount": "300"
+          },
+          {
+            "plan": "进阶",
+            "amount": "1,700"
+          },
+          {
+            "plan": "高级",
+            "amount": "3,000"
+          }
+        ]
+      },
+      {
+        "name": "9,000 Zaps",
+        "price": "$19.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "基础",
+            "amount": "1,000"
+          },
+          {
+            "plan": "进阶",
+            "amount": "6,000"
+          },
+          {
+            "plan": "高级",
+            "amount": "11,000"
+          }
+        ]
+      },
+      {
+        "name": "20,000 Zaps",
+        "price": "$39.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "基础",
+            "amount": "1,000"
+          },
+          {
+            "plan": "进阶",
+            "amount": "10,000"
+          },
+          {
+            "plan": "高级",
+            "amount": "20,000"
+          }
+        ]
+      },
+      {
+        "name": "52,500 Zaps",
+        "price": "$99.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "基础",
+            "amount": "2,500"
+          },
+          {
+            "plan": "进阶",
+            "amount": "22,000"
+          },
+          {
+            "plan": "高级",
+            "amount": "47,000"
+          }
+        ]
+      },
+      {
+        "name": "221,500 Zaps",
+        "price": "$399.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "基础",
+            "amount": "9,800"
+          },
+          {
+            "plan": "进阶",
+            "amount": "78,000"
+          },
+          {
+            "plan": "高级",
+            "amount": "178,000"
+          }
+        ]
+      }
+    ],
+    "title": "KomikoAI 的 Zap 套餐",
+    "subtitle": "不想订阅但需要更多 zaps？购买一次性 zap 套餐，激发您的创意。",
+    "subscriberBonuses": "订阅用户特别奖励：",
+    "buyNow": "立即购买",
+    "oneTimePurchase": "一次性购买",
+    "oneTimeOffer": "一次性优惠（仅限新用户）",
+    "bonusZaps": "+{{amount}} 额外 zaps",
+    "alreadyPurchased": "已經購買",
+    "checking": "檢查中..."
+  },
+  "modals": {
+    "cancel": {
+      "title": "您確定要取消嗎？",
+      "message": "您將在本月底失去對高級功能和 {{zaps}} zaps 的存取權。",
+      "confirm": "取消訂閱"
+    }
+  },
+  "toasts": {
+    "subscriptionNotCancelled": "訂閱未取消",
+    "subscriptionCancelled": "訂閱已成功取消",
+    "failedToCancel": "取消訂閱失敗",
+    "failedToCreateZapPack": "建立一次性 zap 包失敗",
+    "failedToFindSubscription": "無法找到訂閱"
+  },
+  "faq": {
+    "title": "常見問題",
+    "items": [
+      {
+        "question": "如果我本月的zaps用完了會怎麼辦？",
+        "answer": "我們將限制您使用KomikoAI AI工具的能力，包括圖像和影片生成。不過，您可以透過完成每日任務來獲取更多zaps，或者選擇從免費計劃升級至付費計劃。我們建議您選擇最符合您需求的方案。"
+      },
+      {
+        "question": "我可以升級我的計劃嗎？",
+        "answer": "可以。目前我們僅支持從免費計劃升級至其他計劃，暫不支持付費計劃間的升級。如果您需要自訂支援，請透過Discord聯繫我們。"
+      },
+      {
+        "question": "未使用的zaps可以累積至下個月嗎？",
+        "answer": "不，未使用的zaps不會累積到下個月。每個計費周期開始時，zaps數量將會刷新。"
+      },
+      {
+        "question": "你們接受哪些付款方式？",
+        "answer": "我們接受主要信用卡（Visa、MasterCard、American Express）、Line、Apple Pay等。所有付款都透過我們的支付提供商安全處理。"
+      },
+      {
+        "question": "有免費計劃嗎？",
+        "answer": "有的。您可以使用免費提供的zaps來試用KomikoAI的AI工具。此外，透過完成每日任務還可以獲得更多zaps。"
+      },
+      {
+        "question": "我可以隨時取消訂閱嗎？",
+        "answer": "可以，您可以在任何時候取消訂閱。取消後，您仍可使用目前計劃的功能直到當前計費周期結束。我們不提供部分月份的退款。"
+      },
+      {
+        "question": "我可以為我的訂閱申請退款嗎？",
+        "answer": "不提供部分月份的退款。如果您對服務不滿意，您可以透過Discord聯繫我們，我們會盡力協助解決問題。"
+      },
+      {
+        "question": "付費計劃有獨特的功能嗎？",
+        "answer": "是的，付費計劃擁有獨特功能，例如無水印、更高的zaps限額以及優先生成權限。詳情請參考功能部分。"
+      },
+      {
+        "question": "如果生成失敗，我可以拿回我的zaps嗎？",
+        "answer": "可以。如生成失敗，您的zaps將不會被扣除。"
+      }
+    ]
+  },
+  "productHunt": "榮獲Product Hunt頂級產品榮譽",
+  "bonus": "獎勵",
+  "custom": "自定義"
+}

@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "title": "KI-Video-Hochskalierung – KomikoAI",
+    "description": "Der fortschrittliche KI-Video-Upscaler von KomikoAI verwandelt minderwertige Videos in beeindruckende, hochauflösende Inhalte. Erleben Sie professionelle Videoverbesserung mit KomikoAI KI und skalieren Sie Ihre Videos auf FHD, 2K oder 4K, wobei natürliche Details und visuelle Klarheit erhalten bleiben.",
+    "keywords": "KI-Video-Hochskalierung, Videoverbesserung, Verbesserung der Videoqualität, HD-Videokonverter, 4K-Video-Upscaler, KI-Videoverarbeitung, Verbesserung der Videoauflösung, maschinelles Lernen für Video-Hochskalierung, professionelle Videoverbesserung, Verbesserung der Videoqualität"
+  },
+  "title": "KI-Video-Upscaler",
+  "description": "Nutzen Sie unseren fortschrittlichen KI-Video-Upscaler, um die Auflösung zu erhöhen und die Videoqualität zu verbessern. Unsere KI-basierte Video-Upscaling-Technologie wandelt Videos mit geringer Auflösung in beeindruckende hochauflösende Inhalte um. Egal, ob Sie Videos auf FHD, 2K oder 4K hochskalieren müssen, unsere KI-Videoverbesserung liefert professionelle Ergebnisse mit herausragender Klarheit und Detailgenauigkeit.",
+  "input": {
+    "title": "Eingabevideo",
+    "uploadPrompt": "Zum Hochladen tippen oder Video hierher ziehen",
+    "from_other_tools": "Video erhalten von {{source}}"
+  },
+  "results": {
+    "title": "Videoergebnisse",
+    "emptyState": "Ergebnisse werden hier angezeigt"
+  },
+  "seo": {
+    "transformTitle": "Verwandeln Sie Ihre Videos mit KI-Videoverbesserung",
+    "transformDescription": "Entdecken Sie, wie KomikoAI KIs Video-Upscaling die Videoverbesserung auf Basis von maschinellem Lernen nutzt, um Ihre Inhalte zu optimieren. Unser KI-Videoverbesserer macht professionelles Video-Upscaling für jedermann zugänglich."
+  },
+  "steps": {
+    "step1": {
+      "title": "Schritt 1: Video hochladen",
+      "content": "Laden Sie ein beliebiges Video hoch, das Sie mit unserem KI-Video-Upscaler verbessern möchten. Wir unterstützen gängige Videoformate."
+    },
+    "step2": {
+      "title": "Schritt 2: Ausgabeauflösung auswählen",
+      "content": "Wählen Sie aus, wie stark Sie die Auflösung erhöhen möchten – skalieren Sie Videos auf FHD-, 2K- oder 4K-Qualität hoch."
+    },
+    "step3": {
+      "title": "Schritt 3: Video verarbeiten",
+      "content": "Klicken Sie auf die Schaltfläche 'Video hochskalieren', um den Verbesserungsprozess zu starten."
+    },
+    "step4": {
+      "title": "Schritt 4: Ergebnis herunterladen",
+      "content": "Laden Sie Ihr verbessertes Video herunter und genießen Sie die verbesserte Qualität!"
+    }
+  },
+  "examples": {
+    "title": "KI-Video-Upscaling-Beispiele",
+    "description": "Sehen Sie sich KI-Video-Upscaling-Ergebnisse an, die von KomikoAI-Benutzern generiert wurden",
+    "browserNotSupported": "Ihr Browser unterstützt das Video-Tag nicht.",
+    "inputLabel": "Beispiel für Eingabevideo",
+    "outputLabel": "Ausgabe: Hochskaliertes Video"
+  },
+  "benefits": {
+    "title": "Warum Sie Ihre Videos mit KI hochskalieren sollten",
+    "description": "Der KI-Video-Upscaler von KomikoAI verwandelt Ihre Videos mit niedriger Auflösung in beeindruckende, hochwertige Inhalte, die sich ideal für den privaten und professionellen Gebrauch eignen.",
+    "feature1": {
+      "title": "KI-Video-Hochskalierung",
+      "content": "Unser KI-Video-Upscaler liefert professionelle Ergebnisse, indem er die Videoqualität intelligent verbessert und die Auflösung erhöht, während die natürliche Bewegung erhalten bleibt."
+    },
+    "feature2": {
+      "title": "Mehrere Auflösungsoptionen",
+      "content": "Skalieren Sie Videos auf die gewünschte Qualität hoch – wählen Sie zwischen FHD (1080p), 2K (1440p) oder 4K (2160p), um die Videoqualität für jede Plattform zu optimieren."
+    },
+    "feature3": {
+      "title": "Detaillierte KI-Verbesserung",
+      "content": "Unsere KI-Video-Upscaling-Technologie analysiert und verbessert jedes einzelne Bild, liefert herausragende Klarheit und Detailgenauigkeit und bewahrt gleichzeitig den Charakter des Originalvideos."
+    },
+    "feature4": {
+      "title": "Professionelle Ergebnisse",
+      "content": "Verwandeln Sie alte oder minderwertige Aufnahmen in professionelle Inhalte, die sich für Streaming, Präsentationen oder soziale Medien eignen."
+    },
+    "feature5": {
+      "title": "Schnelle Verarbeitung",
+      "content": "Erleben Sie eine zügige Videoverbesserung mit unserer optimierten KI-Verarbeitungspipeline, die Ihnen Zeit und Mühe spart."
+    },
+    "feature6": {
+      "title": "Universelle Kompatibilität",
+      "content": "Funktioniert mit verschiedenen Videoformaten und -längen und eignet sich daher perfekt für die Verbesserung persönlicher Videos, Marketinginhalte oder professioneller Projekte."
+    }
+  },
+  "guide": {
+    "title": "Umfassende Anleitung zur KI-Videoverbesserung",
+    "description": "Erfahren Sie alles über die Verbesserung der Videoqualität mit dem Video-Upscaler von KomikoAI KI. Erhalten Sie fundierte Antworten zu unserer Videoverbesserungstechnologie auf Basis von maschinellem Lernen und wie sie Ihre Inhalte transformieren kann."
+  },
+  "faq": {
+    "question1": "Was ist der KI-Video-Upscaler von KomikoAI?",
+    "answer1": "Der KI-Video-Upscaler von KomikoAI ist ein hochmodernes Tool, das KI verwendet, um die Videoqualität zu verbessern und die Auflösung zu erhöhen. Unsere KI-Video-Upscaling-Technologie verwandelt Videos mit geringer Auflösung automatisch in kristallklare FHD-, 2K- oder 4K-Inhalte, wobei natürliche Details und visuelle Wiedergabetreue erhalten bleiben.",
+    "question2": "Wie funktioniert unser KI-Video-Upscaling?",
+    "answer2": "Unser KI-Video-Upscaler verwendet fortschrittliche Modelle für maschinelles Lernen, die mit Millionen hochwertiger Videos trainiert wurden. Die KI analysiert jedes Bild, um die Videoqualität zu verbessern, die Auflösung zu erhöhen und die Gesamtqualität zu optimieren, während eine flüssige, natürlich wirkende Bewegung erhalten bleibt. Dieser KI-gestützte Videoverbesserungsprozess liefert im Vergleich zu herkömmlichen Hochskalierungsmethoden überlegene Ergebnisse.",
+    "question3": "Welche Vorteile bietet die KI-Video-Hochskalierung?",
+    "answer3": {
+      "point1": "Verwandeln Sie Videos mit niedriger Auflösung in kristallklare HD-Inhalte",
+      "point2": "Verbessern Sie die Videoqualität, während Sie die natürliche Bewegung beibehalten",
+      "point3": "Entfernen Sie Komprimierungsartefakte und Videorauschen",
+      "point4": "Wählen Sie aus verschiedenen Ausgabeauflösungen (FHD/2K/4K) für optimale Ergebnisse"
+    },
+    "question4": "Welche Videoformate und -größen werden unterstützt?",
+    "answer4": "Unser KI-Video-Upscaler funktioniert mit MP4-Videodateien jeder Größe. Sie können Ihre Videos je nach Ihren Qualitätsanforderungen auf FHD (1080p), 2K (1440p) oder 4K (2160p) Auflösung verbessern.",
+    "question5": "Ist der KI-Video-Upscaler kostenlos nutzbar?",
+    "answer5": "Beginnen Sie mit der kostenlosen Verbesserung Ihrer Videos mit den kostenlosen Zaps (Credits) von KomikoAI. Für professionelle Anforderungen bieten unsere kostenpflichtigen Pläne zusätzliche Zaps, schnellere Verarbeitungszeiten und Zugriff auf höhere Auflösungen.",
+    "question6": "Welche Auflösung sollte ich für mein Video wählen?",
+    "answer6": "Wählen Sie FHD (1080p) für eine hervorragende HD-Qualität, die für die meisten Online-Plattformen geeignet ist, 2K (1440p) für Premium-Videoinhalte oder 4K (2160p) für professionelle Ultra-High-Definition-Projekte. Höhere Auflösungen bieten eine bessere Qualität, erfordern aber mehr Verarbeitungszeit."
+  },
+  "modal": {
+    "deleteTitle": "Löschbestätigung",
+    "deleteConfirmation": "Möchten Sie dieses Video wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "cancel": "Abbrechen",
+    "delete": "Löschen"
+  },
+  "notifications": {
+    "deleteSuccess": "Löschen erfolgreich",
+    "deleteFailed": "Löschen fehlgeschlagen",
+    "upscaleSuccess": "Video-Hochskalierung erfolgreich",
+    "upscaleFailed": "Video-Hochskalierung fehlgeschlagen",
+    "downloadFailed": "Download fehlgeschlagen",
+    "noZaps": "Bitte kaufen Sie mehr Zaps"
+  },
+  "upscale_video": "Video hochskalieren"
+}

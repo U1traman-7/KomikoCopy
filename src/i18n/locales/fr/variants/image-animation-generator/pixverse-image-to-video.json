@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Pixverse Image to Video - KomikoAI",
+      "description": "Transformez une simple image en vidéo cinématique grâce à Pixverse Image to Video. Mouvement basé sur l'IA, mouvements de caméra, synchronisation labiale et animation de scène pour animés, mangas, manhwas et illustrations.",
+      "fullDescription": "Pixverse Image to Video est un générateur image-vers-vidéo alimenté par l'IA, qui transforme des images statiques en animations dynamiques et cinématiques. Ajoutez du mouvement, des panoramiques de caméra, un effet de parallaxe 3D, de la synchronisation labiale et des VFX à vos illustrations, mangas, manhwas, images d'animés, portraits, photos de produits, et bien plus encore. Il est idéal pour les créateurs souhaitant convertir des images en vidéos pour TikTok, YouTube Shorts, Instagram Reels, des bandes-annonces, des storyboards et le marketing de contenu.",
+      "keywords": "Pixverse Image to Video, IA image vers vidéo, générateur image vers vidéo, animation de photo, animer une image, générateur vidéo IA, animation d'image, image fixe vers vidéo, ajouter du mouvement à une photo, animer un animé, animer un manga, animer un manhwa, parallaxe 3D, mouvement de caméra, synchronisation labiale IA, vidéo à partir d'image, transformer une image en vidéo, mouvement IA, effets vidéo"
+    },
+    "hero": {
+      "title": "Pixverse Image to Video",
+      "description": "Animez instantanément n'importe quelle image en une vidéo cinématique grâce à un mouvement IA, des mouvements de caméra et de la synchronisation labiale. Parfait pour les animés, les mangas, les manhwas et les illustrations."
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que Pixverse Image to Video ?",
+      "description": "Pixverse Image to Video est un outil IA image-vers-vidéo qui convertit une simple image en une vidéo dynamique en prédisant le mouvement, en animant des éléments et en simulant des mouvements de caméra. Il améliore les visuels statiques avec des mouvements réalistes, de la profondeur, des expressions et des effets, ce qui le rend idéal pour transformer des œuvres d'art, des portraits de personnages et des planches de bande dessinée en courtes vidéos attrayantes."
+    },
+    "examples": {
+      "title": "Exemples Image vers Vidéo",
+      "description": "Découvrez comment une simple image se transforme en un plan dynamique avec de la profondeur, du mouvement et un mouvement de caméra cinématique, parfait pour les bandes-annonces, les Reels et les scènes d'histoires."
+    },
+    "howToUse": {
+      "title": "Comment utiliser Pixverse Image to Video",
+      "steps": [
+        {
+          "title": "Téléchargez votre image",
+          "content": "Téléchargez une image de haute qualité (œuvre d'art, image d'animé, planche de manga, page de manhwa ou photo) pour commencer l'animation."
+        },
+        {
+          "title": "Saisissez un prompt de mouvement",
+          "content": "Décrivez le mouvement et l'ambiance souhaités : panoramique de caméra, profondeur de parallaxe, mouvement des cheveux et des vêtements, clignement des yeux, synchronisation labiale, éclairage ou VFX. (prompt)"
+        },
+        {
+          "title": "Générez la vidéo",
+          "content": "Cliquez sur « Générer » pour créer une vidéo basée sur l'IA à partir de votre image, avec mouvement, profondeur et mouvement cinématique."
+        },
+        {
+          "title": "Téléchargez et partagez",
+          "content": "Exportez votre vidéo pour TikTok, Reels, Shorts ou vos projets. Partagez-la instantanément sur toutes les plateformes ou utilisez-la dans des montages et des bandes-annonces."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi utiliser Pixverse Image to Video ?",
+      "description": "Créez des vidéos captivantes à partir d'une simple image avec un mouvement IA, des mouvements de caméra et une animation expressive, sans qu'aucun keyframing manuel ne soit requis.",
+      "features": [
+        {
+          "title": "Mouvement IA à partir d'une image",
+          "content": "Générez un mouvement fluide et réaliste, des animations faciales subtiles aux mouvements environnementaux dynamiques.",
+          "icon": "🎞️"
+        },
+        {
+          "title": "Mouvements de caméra cinématiques",
+          "content": "Ajoutez des panoramiques, des zooms et une profondeur de parallaxe pour simuler la 3D, transformant l'art plat en plans immersifs.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Prêt pour l'animation pour les animés et les bandes dessinées",
+          "content": "Animez des images d'animés, des planches de mangas et des œuvres d'art de manhwas en bandes-annonces, intros et scènes en boucle.",
+          "icon": "📚"
+        },
+        {
+          "title": "Flux de travail convivial pour les créateurs",
+          "content": "Aucune compétence en animation n'est requise : indiquez le mouvement et obtenez une vidéo prête à être exportée en quelques secondes.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Sortie de haute qualité",
+          "content": "Produisez une vidéo nette et stable, adaptée aux réseaux sociaux, aux aperçus et au travail client.",
+          "icon": "✨"
+        },
+        {
+          "title": "Parfait pour les vidéos de courte durée",
+          "content": "Optimisez pour TikTok, YouTube Shorts et Reels afin d'augmenter la portée grâce à des publications animées.",
+          "icon": "📱"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Guide d'expert de Pixverse Image to Video",
+      "description": "Tout ce dont vous avez besoin pour animer des images en vidéos avec un mouvement IA et une profondeur cinématique.",
+      "q1": "Qu'est-ce que Pixverse Image to Video ?",
+      "a1": "Pixverse Image to Video est un générateur IA image-vers-vidéo qui anime une simple image avec du mouvement, de la profondeur et un mouvement de caméra pour des résultats cinématiques.",
+      "q2": "Comment fonctionne Pixverse Image to Video ?",
+      "a2": "Le système analyse l'image, prédit un mouvement plausible, sépare les calques pour la profondeur et restitue les images avec des mouvements de caméra, de la synchronisation labiale (si activée) et des VFX pour une vidéo fluide.",
+      "q3": "Quel contenu fonctionne le mieux ?",
+      "a3": "Les sujets clairs avec des bords définis (portraits de personnages, images d'animés, planches de manga/manhwa, photos de produits et illustrations stylisées) produisent les animations les plus stables.",
+      "q4": "Puis-je ajouter de la synchronisation labiale ou une animation faciale ?",
+      "a4": "Oui, ajoutez des prompts pour la synchronisation labiale, les clignements d'yeux, les mouvements de tête et les changements d'expression afin de donner vie aux personnages. (prompts)",
+      "q5": "Quels formats sont pris en charge ?",
+      "a5": "Les entrées courantes comme JPG et PNG sont prises en charge, et les sorties sont téléchargeables au format MP4 pour une publication et un montage faciles.",
+      "q6": "Ai-je besoin de compétences en animation ?",
+      "a6": "Non, il suffit de télécharger, de décrire le mouvement et de générer. L'IA gère l'interpolation, la simulation de caméra et le timing.",
+      "q7": "Comment puis-je obtenir des résultats plus fluides ?",
+      "a7": "Utilisez des images haute résolution, évitez les textes ou l'encombrement excessifs, gardez les sujets centrés et rédigez des prompts de mouvement précis avec le timing et les directions de la caméra. (prompts)",
+      "q8": "Puis-je utiliser les vidéos générées à des fins commerciales ?",
+      "a8": "Les vidéos peuvent être utilisées pour des projets personnels et commerciaux, sous réserve des conditions d'utilisation de la plateforme."
+    }
+  },
+  "originalKeyword": "Pixverse Image to Video",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modèle : Veo 3",
+      "description": "Prompt: A delicate feather rests on a fence post. A gust of wind lifts it, sending it dancing over rooftops. It floats and spins, finally caught in a spiderweb on a high balcony.",
+      "videoUrl": "/images/pages/veo3/example6.webm"
+    },
+    {
+      "id": 2,
+      "title": "Modèle : Anime Pro",
+      "description": "Prompt: Anime-style battle scene. A young warrior with a glowing sword clashes with a giant, demonic monster with glowing eyes and sharp teeth. Fast-paced swordfight, sparks fly, intense close-ups. Ends with the hero slaying the monster in a dramatic final strike. Dark background, cinematic lighting, glowing particles.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/monster.webm"
+    },
+    {
+      "id": 3,
+      "title": "Modèle : Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output4.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Modèle : Veo 3",
+      "description": "Prompt: A woman, classical violinist with intense focus plays a complex, rapid passage from a Vivaldi concerto in an ornate, sunlit baroque hall during a rehearsal. Their bow dances across the strings with virtuosic speed and precision. Audio: Bright, virtuosic violin playing, resonant acoustics of the hall, distant footsteps of crew, conductor's occasional soft count-in (muffled), rustling sheet music.",
+      "videoUrl": "/images/pages/veo3/example4.webm"
+    },
+    {
+      "id": 5,
+      "title": "Modèle : FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said “cute” using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    },
+    {
+      "id": 6,
+      "title": "Modèle : AniSora",
+      "description": "Prompt: The figures in the picture are sitting in a forward moving car waving to the rear, their hair swaying from side to side in the wind",
+      "videoUrl": "/images/pages/anisora/example1.webm"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "title": "OC Maker - KomikoAI",
+  "meta": {
+    "description": "Crea OCs con apariencias, personalidades e historias únicas. Diseña personajes originales para cómics, animaciones, juegos e historias con la magia de la IA.",
+    "keywords": "OC Maker, Personaje Original, Generador de OC, Generador de Personajes Originales, Creador de Personajes con IA, Diseño de OC Anime, Creador de Personajes de Juego, Generador de Personajes con IA"
+  },
+  "header": {
+    "title": "OC Maker",
+    "subtitle": "Crea tu personaje original (OC) con la magia de la IA: genera apariencias, personalidades e historias únicas."
+  },
+  "characterAppearance": {
+    "title": "Apariencia del Personaje",
+    "randomize": "Aleatorizar",
+    "placeholder": "Describe los detalles de tu OC (ej: 'chica gato, cabello azul, gafas, tímida')",
+    "placeholderVariant": "Diseña tu OC de {{variantTitle}}, por ejemplo, '{{examplePrompt}}'",
+    "aiOptimize": "Optimizar con IA",
+    "referenceImage": {
+      "title": "Imagen de Referencia (Opcional)",
+      "description": "Sube una imagen de retrato para crear un personaje con un rostro similar"
+    }
+  },
+  "gender": {
+    "male": "Masculino",
+    "female": "Femenino",
+    "other": "Otro"
+  },
+  "actions": {
+    "generateCharacter": "Generar personaje",
+    "generateMore": "Generar más",
+    "finalizeDesign": "Editar más",
+    "selectedCharacterOptions": "Acciones para el personaje escogido"
+  },
+  "results": {
+    "empty": {
+      "title": "Tus personajes aparecerán aquí",
+      "description": "Describe la apariencia de tu personaje y haz clic en \"Generar personaje\" para crear tu personaje original"
+    }
+  },
+  "whatIs": {
+    "title": "¿Qué es OC Maker?",
+    "description": "OC Maker es una herramienta de IA que te permite diseñar OCs con la magia de la IA, donde OC es la abreviatura de Personaje Original. Puedes crear personajes originales con apariencias y personalidades únicas."
+  },
+  "howItWorks": {
+    "title": "Crea OCs en 4 Sencillos Pasos",
+    "steps": {
+      "step1": {
+        "title": "Describe tu OC",
+        "content": "Describe la apariencia de tu personaje en detalle, incluyendo rasgos faciales, tipo de cuerpo, ropa y accesorios."
+      },
+      "step2": {
+        "title": "Sube una referencia",
+        "content": "Sube una imagen de retrato para crear un personaje con un rostro similar."
+      },
+      "step3": {
+        "title": "Generar personaje",
+        "content": "Haz clic en 'Generar personaje' para crear tu personaje original (OC)."
+      },
+      "step4": {
+        "title": "Finalizar diseño",
+        "content": "Selecciona tu personaje favorito y haz clic en 'Finalizar diseño' para acceder a la página de edición de información del OC."
+      }
+    }
+  },
+  "examples": {
+    "title": "Ejemplos de OC Maker",
+    "examples": {
+      "example1": {
+        "desc": "Apariencia: 1 chica, pelo rubio muy largo y rizado, ojos morados, sudadera con capucha morada, falda plisada negra, calcetines negros, zapatillas negras, alas negras, mirando al espectador."
+      },
+      "example2": {
+        "desc": "Apariencia: 1 chico, pelo rubio corto, ojos azules, bufanda amarilla, sudadera con capucha azul con cremallera, ropa casual, pantalones negros, mocasines negros, mirando al espectador."
+      },
+      "example3": {
+        "desc": "Apariencia: 1 chica con orejas de gato, ojos verdes, coletas, pelo menta largo, traje verde con motivo de hoja, medias hasta el muslo, accesorio de hoja, sosteniendo un arco, enredaderas, cola de gato, estilo Genshin Impact."
+      },
+      "example4": {
+        "desc": "Apariencia: 1 chico, pelo rojo y negro con corte inferior, ojos brillantes azules, brazo robótico, abrigo negro, espada, sosteniendo un arma, botas de combate, electricidad."
+      }
+    }
+  },
+  "features": {
+    "title": "Por Qué Usar OC Maker con IA",
+    "features": {
+      "feature1": {
+        "title": "✨ Resultados de Calidad Profesional",
+        "content": "Crea diseños de personajes con calidad de estudio sin necesidad de habilidades artísticas: nuestra IA comprende la composición, la iluminación y la consistencia del estilo."
+      },
+      "feature2": {
+        "title": "🎨 Libertad Creativa Ilimitada",
+        "content": "Experimenta con infinitas combinaciones de características, atuendos y estilos sin restricciones: perfecto para encontrar el diseño de personaje ideal."
+      },
+      "feature3": {
+        "title": "⚡ Eficiente en Tiempo y Costo",
+        "content": "Genera diseños de personajes originales completos en segundos en lugar de horas o días de trabajo manual, ahorrando tiempo y costos de encargo."
+      },
+      "feature4": {
+        "title": "🖼️ Soporte de Imagen de Referencia",
+        "content": "Sube imágenes de referencia para crear personajes con rasgos faciales similares, asegurando que tu OC coincida perfectamente con tu visión."
+      },
+      "feature5": {
+        "title": "🔄 Generación Multi-Estilo",
+        "content": "Crea personajes en varios estilos artísticos, desde anime y manga hasta realista y estilizado, todo con la misma interfaz sencilla."
+      },
+      "feature6": {
+        "title": "🌟 Desarrollo Completo de OC",
+        "content": "Más allá de la apariencia, desarrolla perfiles de personajes integrales que incluyen rasgos de personalidad, historias de fondo y habilidades únicas."
+      }
+    }
+  },
+  "howToUse": {
+    "title": "Cómo Usar El OC Maker",
+    "description": "Libera tu creatividad con nuestro AI OC Maker y diseña tus personajes originales con facilidad. Visualiza la apariencia de tu OC y úsalo para tus historias, animaciones, juegos y más."
+  },
+  "faq": {
+    "question1": "¿Qué estilos de personajes puedo crear con este OC Maker?",
+    "answer1": "Nuestro OC Maker es compatible con más de 50 estilos, incluyendo anime, manga, cómics, criaturas de fantasía, personajes de juegos y estilos híbridos, perfecto para contar historias, RPG y animaciones.",
+    "question2": "¿Puedo animar mis personajes creados?",
+    "answer2": "¡Sí! Puedes usar nuestras herramientas de animación de IA para dar vida a tus personajes con movimientos y expresiones dinámicas. Consulta https://komiko.app/image-animation-generator",
+    "question3": "¿Qué tan detallado puedo hacer mi personaje original?",
+    "answer3": "Personaliza más de 100 atributos, incluyendo rasgos faciales, tipo de cuerpo, texturas de ropa, accesorios y rasgos de personalidad a través de nuestra interfaz de lenguaje natural.",
+    "question4": "¿Cuál es la resolución de las imágenes de salida?",
+    "answer4": "Las imágenes de los personajes se generan a 768px × 1152px. Puedes usar AI Image Upscaler de KomikoAI para aumentar la resolución de la imagen para uso profesional.",
+    "question5": "¿Puedo usar estos personajes comercialmente?",
+    "answer5": "¡Sí! Puedes usar tus personajes creados para fines comerciales, incluyendo medios digitales e impresos."
+  },
+  "popButton": {
+    "style": "Estilo",
+    "age": "Edad",
+    "body": "Figura",
+    "hair": "Pelo",
+    "eyes": "Ojos",
+    "face": "Rostro",
+    "skin": "Piel",
+    "top": "Parte superior",
+    "bottom": "Parte inferior",
+    "set": "Conjunto",
+    "material": "Material",
+    "accessory": "Accesorio",
+    "gender": "Género"
+  },
+  "prompts": {
+    "male": "Hombre",
+    "female": "Mujer",
+    "other": "Otro",
+    "child": "Niño/a",
+    "teenager": "Adolescente",
+    "mature": "Maduro/a",
+    "middleAged": "De mediana edad",
+    "elderly": "Anciano/a",
+    "athletic": "Atlético/a",
+    "muscular": "Musculoso/a",
+    "curvy": "Curvilíneo/a",
+    "slim": "Delgado/a",
+    "petite": "Pequeño/a",
+    "stocky": "Robusto/a",
+    "tall": "Alto/a",
+    "short": "Bajo/a",
+    "scrawny": "Escuálido/a",
+    "chubby": "Regordete/a",
+    "blackHair": "Pelo negro",
+    "brownHair": "Pelo castaño",
+    "blondeHair": "Pelo rubio",
+    "redHair": "Pelo rojo",
+    "blueHair": "Pelo azul",
+    "greenHair": "Pelo verde",
+    "purpleHair": "Pelo púrpura",
+    "pinkHair": "Pelo rosa",
+    "grayHair": "Pelo gris",
+    "whiteHair": "Pelo blanco",
+    "maroonHair": "Pelo marrón oscuro",
+    "offWhiteHair": "Pelo blanco roto",
+    "silverHair": "Pelo plateado",
+    "straightHair": "Pelo liso",
+    "braids": "Trenzas",
+    "ponytail": "Cola de caballo",
+    "twintails": "Dos coletas",
+    "bun": "Moño",
+    "longHair": "Pelo largo",
+    "shortHair": "Pelo corto",
+    "wavyHair": "Pelo ondulado",
+    "curlyHair": "Pelo rizado",
+    "frizzyHair": "Pelo encrespado",
+    "pigtails": "Coletas",
+    "bald": "Calvo",
+    "sidePartedHair": "Pelo con raya al lado",
+    "undercut": "Rapado",
+    "mohawk": "Cresta",
+    "dreadlocks": "Rastas",
+    "spikyHair": "Pelo de punta",
+    "bobCut": "Corte bob",
+    "mullet": "Corte mullet",
+    "mushroomCut": "Corte de hongo",
+    "brownEyes": "Ojos marrones",
+    "blueEyes": "Ojos azules",
+    "greenEyes": "Ojos verdes",
+    "redEyes": "Ojos rojos",
+    "purpleEyes": "Ojos púrpura",
+    "pinkEyes": "Ojos rosados",
+    "grayEyes": "Ojos grises",
+    "freckles": "Pecas",
+    "dimple": "Hoyuelo",
+    "beard": "Barba",
+    "mustache": "Bigote",
+    "scar": "Cicatriz",
+    "tattoo": "Tatuaje",
+    "fairSkin": "Piel clara",
+    "tanSkin": "Piel bronceada",
+    "oliveSkin": "Piel oliva",
+    "darkSkin": "Piel oscura",
+    "paleSkin": "Piel pálida",
+    "tShirt": "Camiseta",
+    "vest": "Chaleco",
+    "plaidShirt": "Camisa a cuadros",
+    "stripedShirt": "Camisa de rayas",
+    "bohemianShirt": "Camisa bohemia",
+    "henleyShirt": "Camisa Henley",
+    "hoodie": "Sudadera con capucha",
+    "knittedCardigan": "Cárdigan de punto",
+    "labCoat": "Bata de laboratorio",
+    "leatherJacket": "Chaqueta de cuero",
+    "punkLeatherJacket": "Chaqueta de cuero punk",
+    "varsityJacket": "Chaqueta universitaria",
+    "outdoorAdventureJacket": "Chaqueta de aventura al aire libre",
+    "poloShirt": "Camisa polo",
+    "knittedVest": "Chaleco de punto",
+    "schoolVest": "Chaleco escolar",
+    "jeans": "Vaqueros",
+    "overalls": "Petos",
+    "suitPants": "Pantalones de traje",
+    "casualPants": "Pantalones casuales",
+    "cargoPants": "Pantalones cargo",
+    "capriPants": "Pantaloones capri",
+    "wideLegPants": "Pantalones de pierna ancha",
+    "pleatedSkirt": "Falda plisada",
+    "pencilSkirt": "Falda lápiz",
+    "denimSkirt": "Falda vaquera",
+    "beachShorts": "Shorts de playa",
+    "tracksuit": "Chándal",
+    "pajamas": "Pijama",
+    "downJacket": "Chaqueta de abrigo",
+    "schoolUniform": "Uniforme escolar",
+    "raincoat": "Impermeable",
+    "eveningDress": "Vestido de noche",
+    "littleBlackDress": "Vestido negro corto",
+    "suit": "Traje",
+    "tuxedo": "Esmoquin",
+    "spacesuit": "Traje espacial",
+    "divingSuit": "Traje de buceo",
+    "apron": "Delantal",
+    "studs": "Estoperoles",
+    "tassels": "Flecos",
+    "ruffles": "Volantes",
+    "lace": "Encaje",
+    "zebraPrint": "Estampado de cebra",
+    "plastic": "Plástico",
+    "headband": "Diadema",
+    "hairpin": "Horquilla",
+    "hairAccessory": "Accesorio para el pelo",
+    "crown": "Corona",
+    "corsage": "Ramillete",
+    "weddingVeil": "Velo de novia",
+    "angleWings": "Alas de ángel",
+    "tie": "Corbata",
+    "bowTie": "Pajarita",
+    "scarf": "Bufanda",
+    "bow": "Lazo",
+    "earrings": "Pendientes",
+    "necklace": "Collar",
+    "choker": "Choker",
+    "beret": "Boina",
+    "baseballCap": "Gorra de béisbol",
+    "knitHat": "Gorro de punto",
+    "topHat": "Sombrero de copa",
+    "sunHat": "Sombrero de sol",
+    "bucketHat": "Sombrero de pescador",
+    "featherHat": "Sombrero de plumas",
+    "cowboyHat": "Sombrero de vaquero",
+    "beanie": "Gorro",
+    "headscarf": "Pañuelo para la cabeza",
+    "jewelry": "Joyas",
+    "diamonds": "Diamantes",
+    "pearls": "Perlas",
+    "glasses": "Gafas",
+    "sunglasses": "Gafas de sol",
+    "steampunkGoggles": "Gafas steampunk",
+    "eyePatch": "Parche en el ojo",
+    "aviatorSunglasses": "Gafas de aviador",
+    "headphones": "Auriculares",
+    "bracelet": "Pulsera",
+    "kneeHighSocks": "Calcetines hasta la rodilla",
+    "boxingGloves": "Guantes de boxeo",
+    "foxEars": "Orejas de zorro",
+    "catEars": "Orejas de gato",
+    "rabbitEars": "Orejas de conejo",
+    "wolfEars": "Orejas de lobo",
+    "mechanicalWatch": "Reloj mecánico",
+    "digitalWatch": "Reloj digital",
+    "quartzWatch": "Reloj de cuarzo",
+    "animeColoring": "Coloreado de Anime",
+    "chibi": "Chibi",
+    "pastelColors": "Colores Pastel",
+    "celShading": "Sombreado de Celdas",
+    "impasto": "Impasto",
+    "watercolor": "Acuarela",
+    "realistic": "Realista",
+    "celluloid": "Celuloide",
+    "softServe": "Helado Suave",
+    "studioGhibli": "Studio Ghibli",
+    "lineart": "Dibujo Lineal",
+    "cartoon": "Caricatura",
+    "americanComic": "Cómic Estadounidense",
+    "pixelArt": "Arte Pixelado",
+    "cyberpunk": "Ciberpunk",
+    "genshinImpact": "Genshin Impact",
+    "jujutsuKaisen": "Jujutsu Kaisen",
+    "onePiece": "One Piece",
+    "naruto": "Naruto",
+    "demonSlayer": "Cazador de Demonios",
+    "myHeroAcademia": "My Hero Academia",
+    "dragonBall": "Dragon Ball",
+    "sonic": "Sonic",
+    "marvel": "Marvel",
+    "minecraft": "Minecraft",
+    "mario": "Mario",
+    "vintageComic": "Cómic Vintage",
+    "oilPainting": "Pintura al Óleo",
+    "furry": "Peludo",
+    "figurine": "Figura",
+    "vampire": "Vampiro",
+    "mermaid": "Sirena",
+    "elf": "Elfo",
+    "angel": "Ángel",
+    "demon": "Demonio"
+  }
+}

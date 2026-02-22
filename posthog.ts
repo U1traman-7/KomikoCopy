@@ -1,0 +1,19 @@
+import { PostHog } from "posthog-node"
+
+export default function PostHogClient() {
+  if (process.env.NODE_ENV === 'development') {
+    return {
+      capture: () => {},
+      identify: () => {},
+      flush: async () => {},
+      shutdown: async () => {},
+    } as any as PostHog
+  }
+
+  const posthogClient = new PostHog(process.env.NEXT_PUBLIC_POSTHOG_KEY!, {
+    host: "https://us.i.posthog.com",
+    flushAt: 1,
+    flushInterval: 0,
+  })
+  return posthogClient
+}

@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Luma Image to Video - KomikoAI",
+      "description": "Luma Image to VideoのAI技術で、静止画を魅力的なシネマティックビデオに変換。高品質、高速、かつ汎用性の高いビデオ制作をご体験ください。",
+      "keywords": "Luma Image to Video, AIビデオジェネレーター, AIアニメーションツール, シネマティックビデオAI, 画像からビデオAI, ニューラル放射場, 3DビデオAI, AIビデオ制作"
+    },
+    "hero": {
+      "title": "Luma Image to Video",
+      "description": "高度なAIの力を活用し、イラスト、コミック、マンガ、アニメなどの画像を、驚くほどの動きとリアリズムを備えた高品質ビデオへと変換します。"
+    },
+    "whatIs": {
+      "title": "Luma Image to Videoとは",
+      "description": "Luma Image to Videoは、最先端のAI技術を搭載したツールで、静止画をダイナミックで高精細なビデオに変換します。高度なニューラルネットワーク、Transformerアーキテクチャ、Neural Radiance Fields (NeRF) 技術を活用し、スムーズなシネマティックアニメーションと、リアルな動きと環境の一貫性を備えた3Dのような奥行きを実現します。コミック、アニメ、アニメーション業界のコンテンツクリエイター向けに設計されており、汎用性の高いカメラワークとカスタマイズ可能なアスペクト比をサポート。ソーシャルメディア、マーケティング、教育、エンターテインメントなど、幅広い用途に適した迅速かつスケーラブルなビデオ制作を可能にします。"
+    },
+    "examples": {
+      "title": "Luma Image to Videoの活用例",
+      "description": "Luma Image to Video AIで作成された印象的なビデオをご覧ください。静止したアニメ、マンガ、コミック画像が、スムーズなトランジション、自然なカメラワーク、そして鮮やかな映画のようなエフェクトによって、いかに簡単に生き生きと表現されるかをご確認ください。"
+    },
+    "howToUse": {
+      "title": "Luma Image to Videoの使い方",
+      "steps": [
+        {
+          "title": "画像のアップロード",
+          "content": "まず、アニメーション化したい静止画像をアップロードします。イラスト、コミックのコマ、マンガのアートワーク、アニメキャラクターのイラストなど、あらゆる画像をご利用いただけます。"
+        },
+        {
+          "title": "プロンプトの記述",
+          "content": "AIアニメーションを導くためのプロンプトを入力します。ビデオで表現したい具体的な動き、カメラワーク、アクションなどを記述してください。"
+        },
+        {
+          "title": "ビデオの生成",
+          "content": "「アニメーション生成」ボタンをクリックし、AIに画像とプロンプトの処理を実行させます。シネマティックなエフェクトと滑らかな動きが特徴的なダイナミックビデオが生成されます。"
+        },
+        {
+          "title": "ダウンロードと共有",
+          "content": "生成された高解像度ビデオをダウンロードし、ソーシャルメディアで共有したり、プロジェクトで使用したり、芸術的な作品として公開したりすることができます。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Luma Image to Videoを選ぶ理由",
+      "description": "Luma Image to Videoが、いかにクリエイティブワークフローを強化し、プロフェッショナルグレードのアニメーションを、容易さ、スピード、そして柔軟性をもって実現するかをご覧ください。",
+      "features": [
+        {
+          "title": "AIによる映画品質",
+          "content": "Transformerベースのニューラルネットワークを使用し、リアルなモーション、スムーズなトランジション、そして自然なカメラエフェクトを備えた高精細ビデオを生成します。",
+          "icon": "🎬"
+        },
+        {
+          "title": "迅速なビデオ制作",
+          "content": "ビデオを迅速に生成します（約2分で最大120フレーム）。これにより、時間を節約し、よりスピーディーな反復作業が可能です。",
+          "icon": "⚡"
+        },
+        {
+          "title": "高度なカメラモーション",
+          "content": "パン、オービット、ズーム、クレーンなど、多様なカメラワークをサポートし、ストーリーテリングとビデオの魅力を高めます。",
+          "icon": "📷"
+        },
+        {
+          "title": "汎用性の高いアスペクト比",
+          "content": "ソーシャルメディアフィードからワイドスクリーンプレゼンテーションまで、さまざまなプラットフォームに適した柔軟なビデオアスペクト比を提供します。",
+          "icon": "🖥️"
+        },
+        {
+          "title": "3Dの奥行きとリアリズム",
+          "content": "Neural Radiance Fields (NeRF) を利用して、生き生きとした奥行き、照明、そして反射を追加し、没入感のある3Dスタイルのビデオを作成します。",
+          "icon": "🕶️"
+        },
+        {
+          "title": "ユーザーフレンドリーなワークフロー",
+          "content": "アニメーションの専門知識は不要です。画像をアップロードし、プロンプトを入力するだけで、AIが複雑なビデオ生成をシームレスに処理します。",
+          "icon": "👌"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Luma Image to Video AI エキスパートガイド",
+      "description": "Luma AIを使用して画像を素晴らしいビデオに変換するために知っておくべきことのすべて。",
+      "q1": "Luma Image to Videoとは何ですか？",
+      "a1": "Luma Image to Videoは、高度なニューラルネットワークとTransformerアーキテクチャを使用し、静止画をダイナミックなビデオに変換するAIツールです。リアルなモーションと照明効果を備えた映画品質のアニメーションを提供します。",
+      "q2": "Luma Image to Videoはどのように機能しますか？",
+      "a2": "広範なビデオデータセットで学習させたAIモデルで静止画を処理します。画像分析とモーションシンセシスを使用してスムーズなビデオフレームを生成し、シーンを生き生きとさせるために滑らかなカメラワークを適用します。",
+      "q3": "どのようなタイプの画像が最適ですか？",
+      "a3": "明確なキャラクターデザインと要素を備えたアニメ、マンガ、コミックアート、その他のイラストや様式化された画像は、最高のアニメーション品質を生み出します。",
+      "q4": "アニメーションをカスタマイズできますか？",
+      "a4": "はい。モーション、カメラの方向、アクションなどを記述した詳細なプロンプトを入力することでAIを導き、あなたのビジョンに合わせたアニメーションを作成できます。",
+      "q5": "どのようなビデオ解像度と形式がサポートされていますか？",
+      "a5": "Luma Image to Videoは通常、オンラインプラットフォームとプロフェッショナルユースの両方に適した一般的な形式と互換性のある1080p高解像度ビデオを生成します。",
+      "q6": "特別なハードウェアやソフトウェアが必要ですか？",
+      "a6": "特別なハードウェアは必要ありません。AIはクラウドインフラストラクチャ上で実行されます。ツールを使用するには、インターネットアクセスとWebブラウザのみが必要です。",
+      "q7": "ビデオ生成プロセスはどれくらい高速ですか？",
+      "a7": "ビデオ生成は効率的で、約2分で約120フレームを作成できるため、コンテンツの迅速な制作と反復が可能です。",
+      "q8": "Luma Image to Videoで生成されたビデオは商用利用に適していますか？",
+      "a8": "はい。作成されたビデオは個人用および商用プロジェクトの両方で使用できますが、ライセンスの詳細については、各プラットフォームの利用規約をご確認ください。"
+    }
+  },
+  "originalKeyword": "Luma Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: Dragon breathing fire.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_11.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 3,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: Camera turn with beautiful lighting.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_08.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 6,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: Putting on sun glasses.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_05.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "whatIs",
+    "examples",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

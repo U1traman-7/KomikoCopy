@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "DomoAI",
+      "description": "正在寻找最佳 DomoAI 替代方案？我们提供先进的视频到视频 AI 风格迁移工具，可以将您的视频转换为动漫、漫画及卡通风格。",
+      "keywords": "DomoAI 替代方案, 视频转动漫转换器, 视频风格迁移, 动漫视频生成器, 漫画风格迁移, 卡通视频滤镜"
+    },
+    "hero": {
+      "title": "DomoAI"
+    },
+    "examples": {
+      "title": "视频转视频示例",
+      "description": "体验卓越的视频到视频转换效果，超越 DomoAI。我们提供更快的处理速度、更出色的运动一致性以及更多样化的风格选项，包括动漫、漫画、韩漫和卡通风格。"
+    },
+    "whatIs": {
+      "title": "什么是 DomoAI？",
+      "description": "DomoAI 是一款流行的 AI 驱动工具，以通过先进的视频风格迁移技术将视频转换为动漫和其他艺术风格而闻名。它使创作者能够将普通素材转换为受动漫、漫画和卡通启发的精美动画。正在寻找 DomoAI 替代方案？我们的 AI 工具提供强大的视频到视频风格迁移解决方案，其功能不仅可以媲美，而且通常超越 DomoAI。凭借超过 20 种艺术风格，包括吉卜力工作室动漫、韩国漫画和日本漫画，我们的工具能够完美地保留原始运动和时间，轻松提供专业质量的动画视频。"
+    },
+    "howToUse": {
+      "title": "如何使用我们的视频到视频 AI 工具",
+      "steps": [
+        {
+          "title": "上传您的视频",
+          "content": "首先上传任何视频文件（MP4、MOV、AVI），文件大小不得超过 50MB，时长不得超过 15 秒。超过 15 秒的视频将自动修剪，以确保最佳的风格迁移性能。"
+        },
+        {
+          "title": "选择您的艺术风格",
+          "content": "在“风格选择”部分中，从 20 多种预设风格中进行选择，包括动漫、卡通、漫画、韩国漫画，或者使用文本提示和参考图像为您的视频风格迁移创建自定义风格。"
+        },
+        {
+          "title": "风格预览和参考",
+          "content": "我们将提取第一帧并应用您选择的风格来创建风格化参考。此预览将展示您选择的风格如何应用于整个视频转换过程。"
+        },
+        {
+          "title": "生成风格化视频",
+          "content": "观看我们的 AI 如何使用风格化参考帧转换您的完整视频，同时保留所有原始运动、表情和时间，从而获得流畅、高质量的动漫或卡通动画效果。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "为什么要使用我们的视频到视频 AI 工具",
+      "description": "我们的 AI 工具凭借无与伦比的运动保留、多种艺术风格和专业级的视频输出效果（所有这些都具有透明的定价和易于使用的工作流程），成为最佳的 DomoAI 替代方案。",
+      "features": [
+        {
+          "title": "完美运动保留",
+          "content": "在应用动漫、漫画或卡通风格的同时，保持原始运动、面部表情和时间的每一个细节，并具有完美的帧一致性。",
+          "icon": "🎨"
+        },
+        {
+          "title": "丰富的风格选项",
+          "content": "访问 20 多种预设风格，包括吉卜力工作室、韩国漫画、日本漫画等。您还可以使用文本提示或参考图像自定义您的风格，以实现真正独特的视频转换效果。",
+          "icon": "⚡"
+        },
+        {
+          "title": "专业质量的结果",
+          "content": "生成具有流畅过渡、无闪烁和一致风格迁移应用的高清视频，从而获得精致的动画质量效果。",
+          "icon": "⭐"
+        },
+        {
+          "title": "简单透明的定价",
+          "content": "享受清晰透明的定价，风格迁移和视频生成单独收费，让您可以自由试验，而无需担心隐藏费用。",
+          "icon": "🌟"
+        },
+        {
+          "title": "智能视频优化",
+          "content": "自动视频优化包括格式转换、时长调整和质量增强，以确保您的动漫和卡通转换获得最佳效果。",
+          "icon": "🛠️"
+        },
+        {
+          "title": "多类别风格支持",
+          "content": "作为最佳的 DomoAI 替代方案，您可以访问多个类别的风格：风格迁移（动漫、卡通）、改变材质（粘土、骨骼）、改变环境（赛博朋克、水下）和 Cosplay 选项。",
+          "icon": "🎭"
+        }
+      ]
+    },
+    "faq": {
+      "title": "视频到视频 AI 常见问题解答",
+      "description": "关于我们的视频风格迁移工具、流程、定价和最佳实践的常见问题解答。",
+      "q1": "此 AI 工具与 DomoAI 相比如何？",
+      "a1": "我们的 AI 工具提供类似的视频风格迁移过程，但具有更多的风格选项、更好的运动保留和专业质量的输出效果，使其成为一款出色的 DomoAI 替代方案。",
+      "q2": "支持哪些视频格式和大小？",
+      "a2": "我们支持 MP4、MOV 和 AVI 格式，最大文件大小为 50MB。超过 15 秒的视频将自动修剪以进行最佳处理。",
+      "q3": "视频风格迁移需要多长时间？",
+      "a3": "整个过程大约需要 5-10 分钟，包括 1-3 分钟的风格迁移和 3-7 分钟的视频生成，并提供实时进度更新。",
+      "q4": "涉及哪些成本？",
+      "a4": "定价是透明的，并根据视频长度在风格迁移和视频生成之间进行拆分。您会提前看到成本，并且仅在成功进行风格迁移后才会被收费。",
+      "q5": "我可以创建自定义风格吗？",
+      "a5": "是的，您可以从 20 多个预设中选择，或者使用文本提示和参考图像创建自定义风格，以实现独特的视频转换效果。",
+      "q6": "什么因素使输入视频能够获得最佳效果？",
+      "a6": "具有清晰主体、良好光照、稳定运动和明确特征的视频效果最佳。请避免快速运动、黑暗或模糊的素材，以获得最佳的风格迁移效果。"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/fire-dj.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "火焰",
+      "description": "改变材质 | 将角色转换为火焰效果"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/korean-manhwa-girl.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "韩国漫画",
+      "description": "风格迁移 | 将原始视频更改为韩国漫画风格"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/snow-man.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "雪景",
+      "description": "改变环境 | 将背景转换为雪景环境"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cowboy-skiing.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "Cosplay",
+      "description": "Cosplay | 将原始视频角色的衣服更改为牛仔服装"
+    }
+  ],
+  "originalKeyword": "DomoAI | Best DomoAI Alternative For Video to Anime and Style Transfer",
+  "pageStructure": [
+    "示例",
+    "优势",
+    "使用方法",
+    "是什么",
+    "更多AITools",
+    "常见问题",
+    "行动号召"
+  ]
+}

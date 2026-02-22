@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan Video2Video",
+      "description": "Ubah video Anda dengan Wan Video2Video, didukung oleh model Wan 2.1. Transfer gaya video tingkat lanjut untuk gaya anime, kartun, manga, dan manhwa dengan pelestarian gerakan yang sempurna.",
+      "fullDescription": "Teknologi Wan Video2Video yang revolusioner didasarkan pada model Wan 2.1 Diffusion Transformer sumber terbuka. Ubah video biasa menjadi mahakarya bergaya anime, animasi kartun, visual ala manga, dan estetika manhwa sambil menjaga konsistensi gerakan. Mendukung pembuatan teks bilingual, output kualitas sinematik, dan berjalan efisien pada GPU konsumen dengan VRAM 8GB+.",
+      "keywords": "Wan Video2Video, AI Video to Video, Transfer Gaya Video, generator video anime, filter video kartun, transfer gaya manga, animasi manhwa, konverter video ke anime, alat animasi, pembuat video kartun, video gaya anime, pembuat video manga, stilisasi video, generator video animasi, filter video komik, transformasi anime, transfer gaya kartun, Wan 2.1"
+    },
+    "hero": {
+      "title": "Wan Video2Video"
+    },
+    "whatIs": {
+      "title": "Apa itu Wan Video2Video?",
+      "description": "Wan Video2Video adalah teknologi transformasi video tingkat lanjut yang didukung oleh model Wan 2.1 sumber terbuka, yang menampilkan arsitektur Diffusion Transformer dan Wan-VAE yang inovatif. Wan Video2Video unggul dalam mengubah video biasa menjadi animasi bergaya anime, kartun, manga, dan manhwa sambil mempertahankan konsistensi gerakan dan pengaturan waktu yang sempurna. Dengan kinerja terdepan di industri (skor VBench 84,7%+), Wan Video2Video mendukung berbagai alur kerja termasuk pembuatan reference-to-video, pengeditan video-to-video standar, dan pengeditan video bertopeng. Teknologi ini juga memiliki kemampuan pembuatan teks bilingual yang unik dan berjalan secara efisien pada GPU konsumen mulai dari VRAM 8GB."
+    },
+    "examples": {
+      "title": "Contoh Video ke Video",
+      "description": "Lihat bagaimana Video ke Video kami mengubah video menjadi gaya anime, kartun, manga, dan manhwa yang memukau, sambil mempertahankan konsistensi gerakan yang sempurna dengan teknologi transfer gaya tingkat lanjut seperti Wan Video2Video tetapi dengan fitur yang ditingkatkan."
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Wan Video2Video",
+      "steps": [
+        {
+          "title": "Unggah Video Anda",
+          "content": "Unggah berkas video apa pun (MP4, MOV, AVI) hingga 15 detik dan 50MB untuk pemrosesan Wan Video2Video. Video yang lebih panjang dari 15 detik akan dipangkas secara otomatis untuk kinerja optimal."
+        },
+        {
+          "title": "Pilih Jenis Alur Kerja",
+          "content": "Pilih antara pembuatan reference-to-video, pengeditan video-to-video standar, atau pengeditan video-to-video bertopeng untuk kontrol yang tepat dalam transformasi Wan Video2Video."
+        },
+        {
+          "title": "Pilih Gaya Artistik",
+          "content": "Pilih dari preset anime, manga, kartun, dan manhwa, atau buat gaya khusus dengan prompt teks dan gambar referensi untuk transformasi Wan Video2Video yang dipersonalisasi."
+        },
+        {
+          "title": "Hasilkan dengan Wan Video2Video",
+          "content": "Teknologi Wan Video2Video kami mengubah seluruh video Anda sambil mempertahankan semua gerakan, ekspresi, dan pengaturan waktu asli melalui pemrosesan Diffusion Transformer tingkat lanjut."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Keunggulan Menggunakan Wan Video2Video",
+      "description": "Wan Video2Video memberikan transfer gaya video terdepan di industri dengan pelestarian gerakan, output kualitas sinematik, dan pemrosesan yang efisien pada perangkat keras konsumen.",
+      "features": [
+        {
+          "title": "Pelestarian Gerakan Sempurna",
+          "content": "Wan Video2Video mempertahankan setiap detail gerakan asli, ekspresi wajah, dan pengaturan waktu saat menerapkan gaya anime, kartun, atau manga dengan konsistensi sempurna per frame menggunakan teknologi Diffusion Transformer.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Output Kualitas Sinematik",
+          "content": "Hasilkan video definisi tinggi dengan tekstur yang kaya, pencahayaan realistis, dan transisi yang mulus. Wan Video2Video memberikan hasil berkualitas film tanpa kedipan atau artefak.",
+          "icon": "✨"
+        },
+        {
+          "title": "Pilihan Gaya Serbaguna",
+          "content": "Pilih dari gaya anime, manga, kartun, dan manhwa, atau buat transformasi khusus dengan prompt teks dan gambar referensi menggunakan sistem alur kerja fleksibel Wan Video2Video.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Pemrosesan Efisien",
+          "content": "Didukung oleh arsitektur Wan-VAE yang inovatif, Wan Video2Video berjalan secara efisien pada GPU konsumen dengan VRAM 8GB+, membuat pembuatan video tingkat lanjut dapat diakses oleh semua orang.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Alur Kerja Pengeditan Tingkat Lanjut",
+          "content": "Opsi reference-to-video, video-to-video, dan pengeditan video bertopeng memungkinkan Anda mengontrol transformasi secara tepat dan mengganti objek tertentu dengan teknologi Wan Video2Video.",
+          "icon": "✂️"
+        },
+        {
+          "title": "Pembuatan Teks Bilingual",
+          "content": "Kemampuan unik untuk menghasilkan teks bilingual (Cina/Inggris) yang jelas dan dinamis dalam frame video, mendukung berbagai font dan efek dengan pemrosesan Wan Video2Video.",
+          "icon": "📝"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Wan Video2Video",
+      "description": "Pertanyaan umum seputar teknologi Wan Video2Video, kemampuan pemrosesan, persyaratan perangkat keras, dan alur kerja.",
+      "q1": "Apa itu Wan Video2Video?",
+      "a1": "Wan Video2Video adalah teknologi transformasi video yang didukung oleh model Wan 2.1 sumber terbuka, yang menampilkan arsitektur Diffusion Transformer dan Wan-VAE untuk transfer gaya video yang efisien dengan pelestarian gerakan yang sempurna.",
+      "q2": "Format video apa saja yang didukung Wan Video2Video?",
+      "a2": "Wan Video2Video menerima format MP4, MOV, dan AVI dengan ukuran berkas maksimum 50MB. Video dibatasi hingga 15 detik dan dipangkas secara otomatis jika melebihi durasi tersebut demi efisiensi pemrosesan yang optimal.",
+      "q3": "Berapa lama waktu yang dibutuhkan untuk pemrosesan Wan Video2Video?",
+      "a3": "Pemrosesan Wan Video2Video biasanya membutuhkan waktu 5-10 menit, tergantung pada panjang video dan alur kerja yang dipilih. Arsitektur Diffusion Transformer memastikan pembuatan yang efisien sambil mempertahankan kualitas.",
+      "q4": "Perangkat keras apa yang dibutuhkan untuk Wan Video2Video?",
+      "a4": "Wan Video2Video berjalan pada GPU konsumen dengan VRAM 8GB+ minimum. Model 1.3B yang ringan dioptimalkan untuk perangkat keras mainstream, sedangkan model 14B memerlukan GPU profesional untuk kinerja optimal.",
+      "q5": "Bisakah saya menyesuaikan gaya Wan Video2Video?",
+      "a5": "Tentu saja! Wan Video2Video mendukung pembuatan gaya khusus melalui prompt teks, gambar referensi, dan berbagai opsi preset termasuk estetika anime, manga, kartun, dan manhwa.",
+      "q6": "Apa yang membuat Wan Video2Video unik?",
+      "a6": "Wan Video2Video menampilkan pembuatan teks bilingual yang unik, pelestarian gerakan yang sempurna, output kualitas sinematik, dan pemrosesan yang efisien pada perangkat keras konsumen - semuanya didukung oleh model Wan 2.1 sumber terbuka."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-girl.webm",
+      "inputLabel": "Video Asli",
+      "outputLabel": "Gaya Claymation",
+      "description": "Ubah Material | Ubah video asli menjadi gaya clay"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "Video Asli",
+      "outputLabel": "Gaya Komik",
+      "description": "Transfer Gaya | Transfer video asli ke gaya komik"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-skiing2.webm",
+      "inputLabel": "Video Asli",
+      "outputLabel": "Gaya Kartun",
+      "description": "Transfer Gaya | Transfer video asli ke gaya kartun"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/anime-man.webm",
+      "inputLabel": "Video Asli",
+      "outputLabel": "Gaya Anime",
+      "description": "Transfer Gaya | Transfer video asli ke gaya anime"
+    }
+  ],
+  "originalKeyword": "Wan Video2Video Alternative"
+}

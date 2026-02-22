@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "KomikoAI Blog | Comics, Manhwa, Manga und Anime mit KI erstellen",
+    "description": "Erstelle Comics, Webtoons und visuelle Geschichten mit KI. Entwirf einzigartige Charaktere und entdecke unendliche Storywelten.",
+    "blog_post": "Blog-Artikel",
+    "keywords": {
+      "general": "KI-Comics, Manga, Anime, Charaktergestaltung, Webtoon, KI-Kunst, Comic-Generator, Manga-Ersteller",
+      "base_tags": [
+        "KI",
+        "Comics",
+        "Manga",
+        "Anime",
+        "Charaktergestaltung",
+        "Webtoon"
+      ]
+    }
+  },
+  "navigation": {
+    "see_all_posts": "Alle Artikel anzeigen"
+  },
+  "article": {
+    "published_on": "Veröffentlicht am",
+    "min_read": "Minuten Lesezeit",
+    "view_article": "Artikel lesen"
+  },
+  "sections": {
+    "latest_post": "Neuester Artikel",
+    "all_posts": "Alle Artikel"
+  }
+}

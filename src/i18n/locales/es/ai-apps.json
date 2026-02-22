@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "AI Apps | Komiko",
+    "description": "Explora todas las herramientas de creación de Komiko."
+  },
+  "sections": {
+    "favorites": {
+      "title": "Favoritos",
+      "description": "Accede rápidamente a tus herramientas preferidas.",
+      "empty": "Aún no tienes favoritos. Toca la estrella en una app para añadirla."
+    },
+    "allApps": {
+      "title": "Explorar Todas las Herramientas",
+      "description": "Filtra por tipo de creación para encontrar lo que necesitas."
+    }
+  },
+  "buttons": {
+    "addFavorite": "Añadir a favoritos",
+    "removeFavorite": "Eliminar de favoritos"
+  },
+  "hero": {
+    "eyebrow": "Kit de Herramientas para Creadores",
+    "title": "Aplicaciones de IA",
+    "description": "Conjunto todo-en-uno para dar vida a tus historias visuales."
+  },
+  "filters": {
+    "categories": {
+      "all": "Todas las herramientas",
+      "illustration": "Ilustración e Imagen",
+      "animation": "Animación y Vídeo",
+      "comic": "Cómics y Manga"
+    }
+  }
+}

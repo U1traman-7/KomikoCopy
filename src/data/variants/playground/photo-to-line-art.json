@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Photo to Line Art",
+      "description": "Transform your photos into stunning line art with AI. Create unique artworks instantly and share them easily. Start now for free!",
+      "keywords": "photo to line art, AI line art generator, artistic line art transformation, AI sketch converter, unique line art creation"
+    },
+    "hero": {
+      "title": "Photo to Line Art"
+    },
+    "whatIs": {
+      "title": "What is Photo to Line Art?",
+      "description": "Our Photo to Line Art AI Generator is a specialized tool that transforms your photos into striking line art illustrations. By using advanced AI technology, it converts images into outlined sketches that reflect the subject’s essence. Perfect for artists and creators, it simplifies the artistic process, making it accessible for all skill levels."
+    },
+    "examples": {
+      "title": "Photo to Line Art Examples",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "How to Use Photo to Line Art",
+      "steps": [
+        {
+          "title": "Step 1: Upload Your Photo",
+          "content": "Upload a clear and high-quality photo to achieve the best results. Just drag and drop your image into our streamlined interface."
+        },
+        {
+          "title": "Step 2: Select the Line Art Template",
+          "content": "Select the Line Art template to transform your photo with the line art style."
+        },
+        {
+          "title": "Step 3: Convert to Line Art",
+          "content": "Hit the 'Convert to Line Art' button to initiate the AI transformation. In mere seconds, watch as your image becomes a stunning line art masterpiece!"
+        },
+        {
+          "title": "Step 4: Download and Share Your Masterpiece",
+          "content": "Once your line art is generated, download it instantly to showcase on social media or integrate it seamlessly into your design projects."
+        }
+      ],
+      "subtitle": "Unlock your artistic vision with these simple steps!"
+    },
+    "benefits": {
+      "title": "Why Choose Photo to Line Art?",
+      "description": "Discover the unique advantages of our AI-powered tool.",
+      "features": [
+        {
+          "title": "🎨 Effortless Art Creation",
+          "content": "Convert your photos into exquisite line art with minimal effort. No artistry skills required—our robust AI handles it all!"
+        },
+        {
+          "title": "⚡ Fast and Efficient",
+          "content": "Experience quick processing, generating high-quality line art within seconds—ideal for fast-paced creators."
+        },
+        {
+          "title": "🖼️ Versatile Use Cases",
+          "content": "Perfect for digital art, marketing, personal gifts, and more, this generator adapts to various creative needs."
+        },
+        {
+          "title": "💻 Intuitive User Experience",
+          "content": "Navigate with ease through our user-friendly interface, crafted to facilitate your artistic journey."
+        },
+        {
+          "title": "🎯 High-Resolution Outputs",
+          "content": "Receive crisp, detailed line art suitable for prints or digital use, maintaining clarity in every line."
+        },
+        {
+          "title": "🚀 Instantly Share Your Art",
+          "content": "Download and share your stunning creations across social media or include them in your projects effortlessly."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Photo to Line Art FAQ",
+      "description": "",
+      "q1": "What is Photo to Line Art and how does it work?",
+      "a1": "Photo to Line Art uses intelligent AI algorithms to analyze and convert your images into outlined sketches, emphasizing contours for an artistic appeal.",
+      "q2": "How can I achieve the best results with Photo to Line Art?",
+      "a2": "Select well-lit, clear images to ensure the AI can accurately define outlines and details, yielding superior quality in your line art.",
+      "q3": "Is the Photo to Line Art generator free to use?",
+      "a3": "Yes! Try our free trial and experience the basics of the generator. Some advanced features may incur a fee.",
+      "q4": "What distinguishes Photo to Line Art from other filters?",
+      "a4": "Photo to Line Art focuses specifically on creating delineated effects, providing a fresh artistic perspective unlike typical soft filters.",
+      "q5": "Can I commercially use the line art generated?",
+      "a5": "Absolutely! Your creations are yours to use in personal or commercial projects. Please review our terms for usage rights."
+    },
+    "cta": {
+      "title": "Start Your Artistic Journey with Photo to Line Art",
+      "description": "Don’t miss out! Transform your favorite photos into stunning line art now. Enjoy a free trial and bring your artistic vision to life!",
+      "buttonText": "Transform My Photo to Line Art Free"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a captivating line art style",
+  "originalKeyword": "Photo to Line Art",
+  "defaultStyle": "line-art",
+  "examples": [
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_1.webp",
+      "prompt": "Style: Line Art",
+      "input": "/images/examples/photo-to-anime/input2.jpg"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_2.webp",
+      "prompt": "Style: Line Art",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_3.webp",
+      "prompt": "Style: Line Art",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-line-art/example_4.webp",
+      "prompt": "Style: Line Art",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp"
+    }
+  ]
+}

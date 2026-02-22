@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Image to Video Generator - KomikoAI",
+      "description": "Transform your static images into captivating videos with our AI Image to Video Generator. Bring your artwork, photos, and illustrations to life using cutting-edge AI technology.",
+      "fullDescription": "Experience the revolutionary AI Image to Video Generator that converts static images into dynamic videos with advanced AI algorithms. Perfect for content creators, artists, and animators, this tool makes the process of creating engaging video content easy and effective.",
+      "keywords": "AI Image to Video Generator, AI video generator, image to video, image to animation, image animation tool, video creation tool, AI transformation, static to dynamic video"
+    },
+    "hero": {
+      "title": "AI Image to Video Generator",
+      "description": "Transform your static images into captivating videos with our AI Image to Video Generator. Unleash creativity and bring your artwork to life using advanced AI technology."
+    },
+    "whatIs": {
+      "title": "What is the AI Image to Video Generator?",
+      "description": "The AI Image to Video Generator is an innovative tool that enables you to create stunning videos from your static images by harnessing the power of artificial intelligence. Whether you're an artist, content creator, or fan of digital art, this tool is designed to elevate your projects."
+    },
+    "examples": {
+      "title": "AI Image to Video Examples",
+      "description": "Discover a range of animations created with the AI Image to Video Generator. Watch how simple images can be transformed into engaging videos!"
+    },
+    "howToUse": {
+      "title": "How to use AI Image to Video Generator",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Begin by uploading the image you wish to animate. Whether it's artwork, a photograph, or an illustration, our AI Image to Video Generator can turn it into a captivating video."
+        },
+        {
+          "title": "Provide a Prompt",
+          "content": "Craft a prompt to guide the animation. Describe the desired motion, expressions, or actions you want the AI to create for your video."
+        },
+        {
+          "title": "Generate Video",
+          "content": "Click the 'Generate Animation' button and let our AI Image to Video Generator work its magic. See your image transformed into a dynamic and engaging video."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Once your video is generated, download it and share your creation! Ideal for social media posts, creative projects, and much more."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use AI Image to Video Generator?",
+      "description": "Explore the benefits of utilizing our AI Image to Video Generator for creating visually engaging videos from your static images. This innovative tool simplifies the animation process and brings artistic visions to life.",
+      "features": [
+        {
+          "title": "AI-Powered Video Creation",
+          "content": "Harness advanced AI technology to create engaging videos from images, allowing you to focus more on your creative ideas.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Dynamic Video Content",
+          "content": "Transform still images into lively animations, perfect for social media, marketing, and artistic presentations.",
+          "icon": "🎬"
+        },
+        {
+          "title": "User-Friendly Interface",
+          "content": "No technical skills are necessary! Simply upload your image, input your prompt, and watch as the AI Image to Video Generator produces stunning results.",
+          "icon": "👌"
+        },
+        {
+          "title": "Time-Saving Solutions",
+          "content": "Generate high-quality videos in a fraction of the time it typically takes, freeing you to pursue more creative projects.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Professional-Quality Output",
+          "content": "Our AI ensures that your videos maintain high standards of quality and realism, suitable for any audience.",
+          "icon": "✨"
+        },
+        {
+          "title": "Boost Your Creativity",
+          "content": "Utilize our AI technology to handle the technicalities, letting your imagination take the lead in content creation.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Expert Guide to the AI Image to Video Generator",
+      "description": "Find answers to common questions about using the AI Image to Video Generator for creating professional-quality animations.",
+      "q1": "What is the AI Image to Video Generator?",
+      "a1": "The AI Image to Video Generator is an innovative tool that utilizes artificial intelligence to convert static images into lively videos. With its advanced technology, it simulates natural movements and enhances the storytelling aspect of digital artwork.",
+      "q2": "How does the AI Image to Video Generator work?",
+      "a2": "Our AI analyzes the uploaded image alongside the provided prompt, generating frames that simulate motion, expressions, and atmosphere. This process creates a seamless transition from a static image to a dynamic video.",
+      "q3": "What are the advantages of using the AI Image to Video Generator?",
+      "a3": "The AI Image to Video Generator offers quick video creation, high-quality output, and accessibility for all skill levels, allowing everyone to transform their artwork into engaging video formats.",
+      "q4": "Can I use the videos generated for commercial purposes?",
+      "a4": "Yes, you are allowed to use the videos created with the AI Image to Video Generator for personal and commercial applications. Refer to our terms of service for specific guidelines.",
+      "q5": "What image formats and sizes does the AI Image to Video Generator support?",
+      "a5": "The tool accepts common formats such as JPG and PNG. For optimal results, use high-resolution images that clearly highlight the elements you want to animate.",
+      "q6": "What types of content are best suited for the AI Image to Video Generator?",
+      "a6": "Our AI is particularly effective for transforming illustrations, character designs, and stylized graphics into videos. Clear outlines and defined features greatly enhance the output quality.",
+      "q7": "Do I need any animation skills to use this tool?",
+      "a7": "No prior animation experience is required! The AI Image to Video Generator automatically converts your images into videos, making it an accessible tool for everyone.",
+      "q8": "Are there any limitations to using the AI Image to Video Generator?",
+      "a8": "While our tool is highly capable, extremely complex images may require additional processing time, and maintaining a consistent artistic style across frames can be challenging in certain scenarios. Be sure to use clear and well-defined images for the best results."
+    }
+  },
+  "originalKeyword": "AI Image to Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output4.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: Anime-style battle scene. A young warrior with a glowing sword clashes with a giant, demonic monster with glowing eyes and sharp teeth. Fast-paced swordfight, sparks fly, intense close-ups. Ends with the hero slaying the monster in a dramatic final strike. Dark background, cinematic lighting, glowing particles.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/monster.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: AniSora",
+      "description": "Prompt: The figures in the picture are sitting in a forward moving car waving to the rear, their hair swaying from side to side in the wind",
+      "videoUrl": "/images/pages/anisora/example1.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Midjourney",
+      "description": "Prompt: Pixel art surfer riding massive blue wave with white foam, dynamic surfing action, retro 8-bit style animation, ocean spray and water movement, bright blue sky with clouds, smooth wave motion",
+      "videoUrl": "/images/pages/midjourney/example4.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: Midjourney",
+      "description": "Prompt: Ethereal girl with flowing white hair walking gracefully through shallow water, sunlight creating dancing ripples, floating white lilies, gentle water movement with each step, serene forest pond, soft golden lighting",
+      "videoUrl": "/images/pages/midjourney/example6.webm"
+    },
+    {
+      "id": 6,
+      "title": "Model: Minimax",
+      "description": "Prompt: A man is talking angrily",
+      "videoUrl": "/images/examples/image-animation-generator/output3.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ]
+}

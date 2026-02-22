@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Luma Video Generator - KomikoAI",
+      "description": "Crie vídeos realistas e de alta qualidade a partir de suas imagens com o Luma Video Generator. Experimente a geração rápida e cinematográfica de vídeos com IA para marketing, redes sociais e narrativa.",
+      "keywords": "Luma Video Generator, geração de vídeo com IA, IA de imagem para vídeo, ferramenta de animação com IA, vídeos cinematográficos com IA, criação de vídeo com IA, Luma AI"
+    },
+    "hero": {
+      "title": "Luma Video Generator",
+      "description": "Transforme as suas imagens estáticas em vídeos dinâmicos e cinematográficos utilizando tecnologia avançada de IA. Desfrute de uma criação de vídeo rápida e realista, impulsionada pela Luma AI."
+    },
+    "whatIs": {
+      "title": "O que é o Luma Video Generator?",
+      "description": "O Luma Video Generator é uma ferramenta avançada, com tecnologia de IA, desenvolvida pela Luma Labs, que transforma imagens estáticas em vídeos curtos e altamente realistas. Utilizando redes neurais de ponta e a tecnologia proprietária Dream Machine, produz vídeos com qualidade cinematográfica, com movimento natural, transições suaves, efeitos de profundidade e dinâmicas de cena coerentes. Esta tecnologia automatiza a produção de vídeo, eliminando a necessidade de filmagem e edição tradicionais, tornando a criação de vídeo profissional acessível e escalável para criativos, profissionais de marketing e empresas em diversos setores."
+    },
+    "examples": {
+      "title": "Exemplos do Luma Video Generator",
+      "description": "Explore vídeos impressionantes criados com o Luma Video Generator, demonstrando os recursos de IA de imagem para vídeo. Veja como a arte estática se transforma em conteúdo de vídeo rico e envolvente, perfeito para campanhas de marketing, redes sociais e narrativa."
+    },
+    "howToUse": {
+      "title": "Como usar o Luma Video Generator",
+      "steps": [
+        {
+          "title": "Envie a sua imagem",
+          "content": "Comece por enviar a imagem estática que pretende animar e que descreve o conteúdo de vídeo desejado."
+        },
+        {
+          "title": "Insira o seu Prompt",
+          "content": "Descreva a cena, as ações ou o estilo que deseja no seu vídeo. Adicione detalhes sobre o movimento, o ângulo da câmara, o ambiente ou quaisquer efeitos específicos para orientar a IA."
+        },
+        {
+          "title": "Gere o seu vídeo",
+          "content": "Clique no botão 'Gerar' para permitir que a IA processe a sua entrada e crie um vídeo dinâmico e visualmente impressionante, com movimento cinematográfico e transições suaves."
+        },
+        {
+          "title": "Descarregue e partilhe",
+          "content": "Visualize o seu vídeo gerado, descarregue-o em formatos populares como MP4 ou GIF e partilhe-o nas suas redes sociais, canais de marketing ou projetos pessoais."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Por que usar o Luma Video Generator?",
+      "description": "Desbloqueie a poderosa criação de vídeo orientada por IA com o Luma Video Generator. Produza vídeos de nível profissional de forma rápida e fácil, perfeitos para projetos criativos, marketing e narrativa digital.",
+      "features": [
+        {
+          "title": "Qualidade cinematográfica com tecnologia de IA",
+          "content": "Aproveite modelos avançados de IA, como Dream Machine e Ray2, para gerar vídeos cinematográficos com iluminação realista, coerência de movimento e alta fidelidade visual.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Flexibilidade de imagem para vídeo",
+          "content": "Crie vídeos a partir de imagens estáticas, permitindo uma criação de conteúdo flexível e adaptada ao seu estilo e necessidades.",
+          "icon": "🖼️"
+        },
+        {
+          "title": "Geração rápida de vídeo",
+          "content": "Produza vídeos em segundos ou minutos, reduzindo drasticamente o tempo de produção em comparação com os fluxos de trabalho tradicionais de filmagem e edição.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Integração e acessibilidade perfeitas",
+          "content": "Aceda ao Luma Video Generator via web ou aplicações móveis e integre-o com APIs para criação automatizada de vídeo nas suas ferramentas e fluxos de trabalho existentes.",
+          "icon": "🔗"
+        },
+        {
+          "title": "Efeitos visuais envolventes",
+          "content": "Adicione transições cinematográficas, movimentos dinâmicos de câmara e efeitos de profundidade semelhantes a 3D para aprimorar a narrativa e o envolvimento do espectador.",
+          "icon": "✨"
+        },
+        {
+          "title": "Nenhuma experiência de edição necessária",
+          "content": "Concebido para todos os níveis de habilidade, os utilizadores podem criar vídeos impressionantes sem esforço, sem necessidade de animação ou experiência em edição de vídeo.",
+          "icon": "👌"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ sobre o Luma Video Generator",
+      "description": "Respostas a perguntas frequentes sobre o Luma Video Generator e como criar vídeos profissionais gerados por IA a partir de imagens.",
+      "q1": "O que é o Luma Video Generator?",
+      "a1": "O Luma Video Generator é uma ferramenta orientada por IA que cria vídeos curtos e de alta qualidade a partir de imagens estáticas. Impulsionado por redes neurais avançadas e tecnologia Dream Machine, gera movimento realista, transições cinematográficas e conteúdo de vídeo coerente.",
+      "q2": "Como a Luma AI gera vídeos a partir de imagens?",
+      "a2": "A Luma AI utiliza uma combinação de modelos de deep learning treinados em dados de vídeo para interpretar imagens de entrada. Sintetiza movimento e iluminação naturais, mantendo a consistência visual para produzir vídeos realistas automaticamente.",
+      "q3": "Que tipos de vídeos posso criar com o Luma Video Generator?",
+      "a3": "Pode produzir vídeos promocionais, conteúdo para redes sociais, demonstrações de produtos, storytelling animado, vídeos de recrutamento, tours imobiliários e muito mais, aproveitando os recursos de imagem para vídeo.",
+      "q4": "Preciso de habilidades de edição de vídeo para usar o Luma Video Generator?",
+      "a4": "Não são necessárias habilidades prévias de vídeo ou animação. A IA automatiza os aspetos criativos e técnicos, tornando mais fácil para utilizadores de todos os níveis produzirem vídeos profissionais sem esforço.",
+      "q5": "Quais formatos e durações de vídeo o Luma Video Generator suporta?",
+      "a5": "O Luma gera vídeos que normalmente variam de 5 a 10 segundos, com resolução de até 1080p, e exporta-os em formatos populares como MP4 e GIF, adequados para uso pessoal e comercial.",
+      "q6": "Posso usar vídeos gerados pelo Luma para fins comerciais?",
+      "a6": "Sim, os vídeos criados com o Luma Video Generator podem ser usados em projetos comerciais. Certifique-se de rever o licenciamento e os termos de uso da plataforma para obter detalhes específicos.",
+      "q7": "Existe um limite de uso ou velocidade de geração de vídeo?",
+      "a7": "A geração de vídeo é normalmente muito rápida, geralmente entre 10 e 60 segundos, dependendo da complexidade. Algumas plataformas ou planos podem ter limites diários ou níveis de assinatura para uso extensivo.",
+      "q8": "Como o Luma Video Generator é diferente de outras ferramentas de vídeo com IA?",
+      "a8": "O Luma destaca-se pela sua tecnologia de ponta Dream Machine, que permite visuais ultra realistas, coerência de movimento perfeita, opções flexíveis de entrada de imagem e criação rápida de vídeo, adaptadas para criadores e empresas."
+    }
+  },
+  "originalKeyword": "Luma Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: Dragon breathing fire.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_11.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: an explosion with camera shake",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/explosion_camera_shake_185cff.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky.",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 5,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 6,
+      "title": "Model: Luma Ray2",
+      "description": "Prompt: Putting on sun glasses.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_05.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "ค้นหา",
+  "placeholder": "ค้นหางาน, ตัวละคร, ผู้ใช้...",
+  "input_placeholder": "ค้นหา",
+  "history": "ประวัติการค้นหา",
+  "clear": "ล้างประวัติ",
+  "tags": "แท็ก",
+  "no_results": "ไม่พบผลลัพธ์",
+  "filter": {
+    "all": "ทั้งหมด",
+    "users": "ผู้ใช้",
+    "characters": "ตัวละคร",
+    "templates": "แม่แบบ",
+    "posts": "โพสต์",
+    "tags": "ป้ายกำกับ"
+  },
+  "see_all": "ดูทั้งหมด",
+  "followers": "ผู้ติดตาม",
+  "follow": "ติดตาม",
+  "following": "กำลังติดตาม"
+}

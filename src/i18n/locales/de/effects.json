@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "Lustige Effekte, die Anime-Ersteller lieben",
+    "description": "Finden Sie den Effekt, der Ihnen gefällt, und beginnen Sie sofort mit der Erstellung.",
+    "defaultDescription": "Erzeuge {{name}} {{type}}-Effekte mit KomikoAI. Lade ein Charakterbild hoch und erlebe die Kraft des AI {{name}} Generators in Sekunden.",
+    "eyebrow": "Effektgalerie"
+  },
+  "meta": {
+    "keywords": "KI-Effekte, Anime-Vorlagen, Videoeffekte, Tanzanimation, Bildstile, komiko",
+    "title": "Effekte | Komiko AI",
+    "description": "Entdecken Sie alle KI-Effekte und Vorlagen zur Anime-Erstellung. Bildstile, Videoeffekte, Tanzanimationen und mehr.",
+    "titleTemplate": "{{name}} Generator"
+  },
+  "categories": {
+    "trending": {
+      "description": "Die aktuell beliebtesten Effekte",
+      "title": "Trend"
+    },
+    "imageRestyle": {
+      "description": "Verwandeln Sie Ihre Bilder in verschiedene künstlerische Stile",
+      "title": "Bildneugestaltung"
+    },
+    "merch": {
+      "description": "Erstellen Sie sammelbare Merchandise-Designs aus Ihren Charakteren",
+      "title": "Merch-Studio"
+    },
+    "movie": {
+      "description": "Erstellen Sie Porträts im Filmstil",
+      "title": "Film"
+    },
+    "cosplay": {
+      "description": "Erstellen Sie atemberaubende Cosplay- und Outfit-Designs",
+      "title": "Cosplay & Outfits"
+    },
+    "dance": {
+      "description": "Erstellen Sie KI-basierte Tanzvideo-Bewegungen",
+      "title": "Tanz"
+    },
+    "featured": {
+      "title": "Empfohlen"
+    },
+    "art": {
+      "title": "Kunst",
+      "description": "Verwandeln Sie Porträts in professionelle Charakterdesigns"
+    },
+    "videoRestyle": {
+      "title": "Video-Neugestaltung",
+      "description": "Machen Sie aus Videomaterial stilisierte Animationen"
+    },
+    "game": {
+      "title": "Spiel",
+      "description": "Erstellen Sie Videos und Szenen im Spielstil"
+    },
+    "effects": {
+      "title": "Videoeffekte",
+      "description": "Wenden Sie dynamische Videoeffekte und Animationen an"
+    },
+    "characterExpression": {
+      "title": "Charakterausdrücke",
+      "description": "Verändern Sie Charakterausdruck dynamisch"
+    },
+    "funEffects": {
+      "title": "Spaß-Effekte",
+      "description": "Verspielte und unterhaltsame Videoeffekte"
+    }
+  },
+  "whatIs": {
+    "title": "Was ist der {{name}}-Generator",
+    "defaultDescription": "Der KI-{{name}}-Generator ist ein KI-Tool, das Effekte für {{name}}-{{type}} erstellt. Es ist eine von über 100 Vorlagen für KI-Effekte, die vom KomikoAI-Team entwickelt wurden. Laden Sie einfach ein Charakterbild hoch und lassen Sie die KI Magie wirken."
+  },
+  "howToUse": {
+    "step1Title": "Bild hochladen",
+    "step2Title": "Effekt auswählen",
+    "step3Title": "Erzeugen",
+    "step4Title": "Herunterladen",
+    "title": "So verwenden Sie",
+    "step1": "Laden Sie Ihr Charakterbild oben hoch",
+    "step2": "Der {{name}}-Effekt ist bereits für Sie ausgewählt",
+    "step3": "Klicken Sie auf \"Animation erzeugen\" und warten Sie auf Ihr Ergebnis",
+    "step4": "Laden Sie Ihre Kreation herunter oder teilen Sie sie"
+  },
+  "breadcrumb": {
+    "effects": "Effekte"
+  },
+  "buttons": {
+    "useTemplate": "Vorlage nutzen",
+    "preview": "Vorschau",
+    "close": "Schließen",
+    "seeAll": "Alle ansehen"
+  },
+  "empty": "Keine Effekte gefunden.",
+  "notFound": {
+    "title": "Effekt nicht gefunden",
+    "description": "Der Effekt \"{{name}}\" konnte nicht gefunden werden. Er wurde möglicherweise entfernt oder die URL ist nicht korrekt.",
+    "browseAll": "Alle Effekte durchsuchen"
+  },
+  "moreTools": {
+    "title": "Weitere KI-Effekte",
+    "description": "Entdecken Sie unsere komplette Sammlung von KI-Effekten und Vorlagen.",
+    "browseAll": "Alle Effekte durchsuchen"
+  },
+  "changeModal": {
+    "title": "Effekt wechseln"
+  },
+  "communityExamples": {
+    "title": "{{name}}-Effekt-Beispiele",
+    "description": "Alle Kreationen, die mit dem {{name}}-Effekt von der KomikoAI-Community erstellt wurden.",
+    "noExamples": "Noch keine Community-Beispiele verfügbar."
+  },
+  "types": {
+    "video": "Video",
+    "image": "Bild",
+    "dance": "Tanz"
+  }
+}

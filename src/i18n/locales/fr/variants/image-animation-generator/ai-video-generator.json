@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Générateur de Vidéos IA - KomikoAI",
+      "description": "Libérez la puissance de l'IA avec notre générateur de vidéos IA, transformant des images statiques en vidéos captivantes. Créez des animations dynamiques à partir de vos œuvres d'art, bandes dessinées, mangas ou illustrations, avec facilité et grâce à une technologie de pointe.",
+      "fullDescription": "Découvrez un générateur de vidéos IA innovant qui transforme des images statiques en vidéos dynamiques et réalistes, grâce à une technologie d'IA de pointe. Parfait pour les artistes, créateurs de contenu et passionnés d'animation, il est conçu pour donner vie à vos illustrations et œuvres d'art sans effort.",
+      "keywords": "Générateur de vidéos IA, générateur de vidéos, transformation d'images statiques en vidéos, générateur d'animation, outil vidéo alimenté par l'IA, création de vidéos dynamiques, créer une vidéo à partir d'images, générateur de vidéos d'anime, générateur de vidéos de bandes dessinées"
+    },
+    "hero": {
+      "title": "Générateur de Vidéos IA",
+      "description": "Libérez la puissance de l'IA avec notre générateur de vidéos IA, transformant des images statiques en vidéos captivantes. Créez des animations dynamiques à partir de vos œuvres d'art, bandes dessinées, mangas ou illustrations, avec facilité et grâce à une technologie de pointe."
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que le générateur de vidéos IA ?",
+      "description": "Le générateur de vidéos IA est un outil puissant qui vous permet de créer des vidéos impressionnantes à partir d'images statiques, grâce à une technologie d'IA avancée. Il est conçu pour les artistes et les créateurs qui cherchent à animer leurs œuvres d'art, leurs personnages et leurs scènes sans effort."
+    },
+    "examples": {
+      "title": "Exemples de vidéos IA",
+      "description": "Découvrez des exemples de vidéos créées avec notre générateur de vidéos IA. Observez la magie opérer lorsque vos images statiques se transforment en animations dynamiques et captivantes !"
+    },
+    "howToUse": {
+      "title": "Comment utiliser le générateur de vidéos IA",
+      "steps": [
+        {
+          "title": "Téléversez votre image",
+          "content": "Commencez par téléverser l'image que vous souhaitez convertir en vidéo. Qu'il s'agisse d'une illustration, d'un personnage d'anime ou d'une case de bande dessinée, notre générateur de vidéos IA animera votre création."
+        },
+        {
+          "title": "Saisissez votre prompt",
+          "content": "Fournissez un prompt descriptif pour guider l'animation. Détaillez les mouvements, les expressions ou les actions que vous imaginez pour votre image."
+        },
+        {
+          "title": "Générez votre vidéo",
+          "content": "Appuyez sur le bouton 'Générer l'animation' et regardez notre générateur de vidéos IA créer une animation captivante à partir de votre image statique en temps réel."
+        },
+        {
+          "title": "Téléchargez et partagez",
+          "content": "Une fois votre vidéo prête, téléchargez-la facilement et partagez-la sur les plateformes de médias sociaux ou avec votre public. C'est l'outil parfait pour présenter votre travail créatif !"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi utiliser le générateur de vidéos IA ?",
+      "description": "Découvrez les avantages de l'utilisation du générateur de vidéos IA pour créer des vidéos impressionnantes à partir de vos œuvres d'art, bandes dessinées et illustrations. Cet outil avancé rend l'animation accessible et facile pour tous les créateurs !",
+      "features": [
+        {
+          "title": "Animation alimentée par l'IA",
+          "content": "Tirez parti de la puissance de l'IA dans la génération de vidéos. Nos algorithmes intelligents analysent vos images et créent des vidéos dynamiques de manière fluide.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Création de contenu engageant",
+          "content": "Transformez des images statiques en vidéos captivantes, parfaites pour les médias sociaux, les présentations et les projets personnels.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Interface conviviale",
+          "content": "Aucune connaissance en animation n'est requise ! Téléversez simplement votre image, fournissez un prompt et laissez notre IA générer la vidéo.",
+          "icon": "👌"
+        },
+        {
+          "title": "Gain de temps considérable",
+          "content": "Réduisez considérablement le temps de production d'animation. Le générateur de vidéos IA produit des vidéos impressionnantes en quelques instants, vous épargnant ainsi des heures de travail manuel.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Production de haute qualité",
+          "content": "Créez des vidéos de qualité professionnelle. Notre IA assure des mouvements fluides et des animations réalistes, parfaites pour tout type de public.",
+          "icon": "✨"
+        },
+        {
+          "title": "Liberté de création",
+          "content": "Concentrez-vous sur vos idées créatives pendant que notre générateur de vidéos IA s'occupe du processus d'animation technique, vous permettant de libérer pleinement votre potentiel créatif.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Guide d'expert du générateur de vidéos IA",
+      "description": "Obtenez toutes les informations dont vous avez besoin sur la création de vidéos professionnelles avec notre générateur de vidéos IA.",
+      "q1": "Qu'est-ce que le générateur de vidéos IA ?",
+      "a1": "Le générateur de vidéos IA est un outil sophistiqué qui utilise l'intelligence artificielle pour animer vos images statiques. Il utilise des algorithmes avancés pour créer des vidéos immersives, parfaites pour les artistes et les créateurs numériques.",
+      "q2": "Comment fonctionne le générateur de vidéos IA ?",
+      "a2": "Notre technologie d'IA utilise des modèles d'apprentissage profond pour interpréter vos images et vos prompts. L'IA génère de nouvelles images, produisant des animations fluides, des expressions et des visuels dynamiques pour améliorer votre contenu.",
+      "q3": "Quels sont les avantages de l'utilisation du générateur de vidéos IA pour l'animation ?",
+      "a3": "Le générateur de vidéos IA offre de nombreux avantages : il accélère la production vidéo, permet de créer des vidéos de haute qualité sans nécessiter de compétences approfondies, facilite l'engagement du public avec du contenu animé et est idéal pour les créateurs novices et expérimentés.",
+      "q4": "Puis-je utiliser les vidéos générées par le générateur de vidéos IA à des fins commerciales ?",
+      "a4": "Oui, vous pouvez utiliser vos vidéos générées par l'IA pour des projets personnels et commerciaux. Veuillez consulter nos conditions d'utilisation pour obtenir des informations détaillées.",
+      "q5": "Quels formats d'image le générateur de vidéos IA prend-il en charge ?",
+      "a5": "Notre générateur de vidéos IA prend en charge les formats d'image courants tels que JPG et PNG. Pour de meilleurs résultats, utilisez des images haute résolution afin de représenter clairement l'animation souhaitée.",
+      "q6": "Quels types de contenu sont les plus adaptés au générateur de vidéos IA ?",
+      "a6": "Le générateur de vidéos IA excelle avec les illustrations, les animés, les mangas et les œuvres d'art stylisées. Des conceptions de personnages clairement définies améliorent la qualité de l'animation.",
+      "q7": "Ai-je besoin de compétences artistiques pour utiliser le générateur de vidéos IA ?",
+      "a7": "Aucune compétence artistique n'est requise ! Notre générateur de vidéos IA anime vos images existantes, le rendant accessible à tous, quel que soit leur niveau.",
+      "q8": "Y a-t-il des limitations au générateur de vidéos IA ?",
+      "a8": "Bien que notre générateur de vidéos IA soit puissant, il présente certaines limitations : les animations complexes peuvent nécessiter un temps de traitement supplémentaire, le maintien d'un style artistique cohérent peut être difficile dans certains cas, et les images haute résolution peuvent nécessiter davantage de ressources de calcul."
+    }
+  },
+  "originalKeyword": "AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modèle : Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 2,
+      "title": "Modèle : Veo 3",
+      "description": "Prompt: A medium shot, historical adventure setting: Warm lamplight illuminates a cartographer in a cluttered study, poring over an ancient, sprawling map spread across a large table. Cartographer: \"According to this old sea chart, the lost island isn't myth! We must prepare an expedition immediately!\"",
+      "videoUrl": "/images/pages/veo3/example8.webm"
+    },
+    {
+      "id": 3,
+      "title": "Modèle : Marey",
+      "description": "Prompt: Keyframing - Advanced keyframe animation and temporal control",
+      "videoUrl": "https://framerusercontent.com/assets/n2GMFj97mJ15e8X2Qulx9RRQNbs.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Modèle : AniSora",
+      "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+      "videoUrl": "/images/pages/anisora/example3.webm"
+    },
+    {
+      "id": 5,
+      "title": "Modèle : Midjourney",
+      "description": "Prompt: Anime maid girl in frilly black and white uniform walking toward camera carrying tea tray, warm cafe lighting, soft focus background with customers, golden hour sunlight through windows, gentle approach movement",
+      "videoUrl": "/images/pages/midjourney/example3.webm"
+    },
+    {
+      "id": 6,
+      "title": "Modèle : Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output4.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ]
+}

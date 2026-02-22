@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "AI Layer Splitter - KomikoAI",
+    "og": {
+      "title": "Layer Splitter - KomikoAI",
+      "description": "Tách các thành phần hình ảnh của bạn bằng AI. Tải ảnh lên và để AI tự động phân tách các thành phần khác nhau, lý tưởng cho hoạt hình và phát triển trò chơi.",
+      "url": "https://komiko.app/layer_splitter"
+    },
+    "twitter": {
+      "title": "Layer Splitter - KomikoAI",
+      "description": "Tách các thành phần hình ảnh của bạn bằng AI. Tải ảnh lên và để AI tự động phân tách các thành phần khác nhau, lý tưởng cho hoạt hình và phát triển trò chơi."
+    },
+    "description": "Tách các thành phần hình ảnh của bạn bằng AI. Tải ảnh lên và để AI tự động phân tách các thành phần khác nhau, lý tưởng cho hoạt hình và phát triển trò chơi."
+  },
+  "hero": {
+    "title": "AI Layer Splitter",
+    "description": "Dễ dàng tách hình ảnh thành các lớp riêng biệt nhờ AI. Chỉ cần tải lên một hình ảnh và nhận ngay các lớp thành phần riêng lẻ! AI mạnh mẽ của chúng tôi phân tích tác phẩm nghệ thuật và chia tách các yếu tố như nhân vật, hình nền, đối tượng,... thành các lớp riêng biệt. Hoàn hảo cho các nghệ sĩ, nhà làm phim hoạt hình và nhà phát triển trò chơi muốn tạo các lớp sẵn sàng cho hoạt hình."
+  },
+  "input": {
+    "title": "Đầu vào",
+    "upload": {
+      "label": "Tải ảnh lên",
+      "tooltip": "Tải ảnh lên để tách lớp"
+    }
+  },
+  "output": {
+    "title": "Kết quả tách lớp",
+    "empty": {
+      "title": "Kết quả tách lớp của bạn sẽ hiển thị ở đây",
+      "subtitle": "Hãy tải ảnh lên để bắt đầu"
+    }
+  },
+  "tutorial": {
+    "title": "Cách tách ảnh bằng AI",
+    "description": "Tự động chia hình ảnh của bạn thành các lớp riêng lẻ chỉ với một vài bước đơn giản bằng AI Layer Splitter của KomikoAI.",
+    "steps": {
+      "1": {
+        "title": "Bước 1: Tải ảnh lên",
+        "content": "Tải ảnh của bạn lên AI Layer Splitter. Hỗ trợ các định dạng JPG và PNG."
+      },
+      "2": {
+        "title": "Bước 2: Tách và tải xuống",
+        "content": "Nhấp vào 'Tách ảnh' và chờ AI xử lý hình ảnh. Tải xuống các lớp riêng lẻ cho dự án của bạn!"
+      }
+    }
+  },
+  "examples": {
+    "title": "Ví dụ về tách lớp AI",
+    "description": "Xem kết quả tách lớp AI được tạo bởi người dùng KomikoAI",
+    "labels": {
+      "original": "Ảnh gốc",
+      "split": "Lớp đã tách"
+    },
+    "captions": {
+      "1": "Lớp nền được tách ra khỏi nhân vật",
+      "2": "Lớp nhân vật được trích xuất từ hình ảnh gốc",
+      "3": "Nhiều lớp được tách ra từ một hình ảnh gốc duy nhất"
+    }
+  },
+  "features": {
+    "title": "Tại sao nên tách ảnh bằng AI?",
+    "description": "AI Layer Splitter của KomikoAI giúp việc tách các thành phần hình ảnh trở nên dễ dàng, phù hợp cho cả người mới bắt đầu và các nghệ sĩ, nhà phát triển trò chơi chuyên nghiệp.",
+    "items": {
+      "precise": {
+        "title": "Tách lớp chính xác",
+        "content": "AI của chúng tôi phát hiện và tách chính xác các thành phần khác nhau trong hình ảnh, tạo ra các lớp riêng lẻ rõ ràng cho từng thành phần."
+      },
+      "timeSaving": {
+        "title": "Tiết kiệm thời gian",
+        "content": "Không cần quá trình chọn và tạo mặt nạ thủ công tẻ nhạt. Nhận các lớp đã tách chỉ trong vài giây thay vì hàng giờ làm việc tỉ mỉ."
+      },
+      "flexible": {
+        "title": "Chỉnh sửa linh hoạt",
+        "content": "Dễ dàng chỉnh sửa riêng các thành phần riêng lẻ và kết hợp chúng lại, cho phép kiểm soát sáng tạo tối đa đối với hình ảnh của bạn."
+      },
+      "gameAssets": {
+        "title": "Tạo tài sản trò chơi",
+        "content": "Dễ dàng tạo các sprite và tài sản trò chơi riêng biệt từ các hình ảnh phức tạp. Lý tưởng cho các nhà phát triển trò chơi cần cô lập các nhân vật và đối tượng."
+      },
+      "animation": {
+        "title": "Sẵn sàng cho hoạt hình",
+        "content": "Nhận các lớp sẵn sàng cho hoạt hình, có thể được nhập trực tiếp vào phần mềm hoạt hình yêu thích của bạn."
+      },
+      "quality": {
+        "title": "Đầu ra chất lượng cao",
+        "content": "Tải xuống các lớp đã tách với chất lượng chuyên nghiệp, hoàn hảo cho các dự án thương mại."
+      },
+      "workflow": {
+        "title": "Quy trình làm việc hợp lý",
+        "content": "Tích hợp liền mạch tính năng tách lớp AI vào quy trình thiết kế, minh họa hoặc phát triển trò chơi, giúp tiết kiệm thời gian và tài nguyên."
+      },
+      "background": {
+        "title": "Xóa nền",
+        "content": "Dễ dàng tách các đối tượng ở tiền cảnh khỏi nền mà không cần các kỹ thuật tạo mặt nạ phức tạp hoặc phông xanh."
+      },
+      "creative": {
+        "title": "Tự do sáng tạo",
+        "content": "Trộn và kết hợp các yếu tố từ các hình ảnh khác nhau bằng cách tách chúng thành các lớp thành phần trước. Tạo ra những bố cục mới một cách dễ dàng."
+      }
+    }
+  },
+  "faq": {
+    "title": "Các câu hỏi thường gặp về tách lớp AI",
+    "description": "Tìm câu trả lời cho những câu hỏi thường gặp về việc tách hình ảnh thành các lớp bằng AI.",
+    "questions": {
+      "1": {
+        "question": "Tách lớp AI là gì?",
+        "answer": "Tách lớp AI là một quy trình sử dụng trí tuệ nhân tạo để tự động tách một hình ảnh thành các lớp thành phần riêng lẻ. Công cụ tách lớp AI của KomikoAI phân tích tác phẩm nghệ thuật của bạn và xác định các yếu tố khác nhau như nhân vật, hình nền và đối tượng, tạo ra các lớp riêng biệt có thể được chỉnh sửa độc lập."
+      },
+      "2": {
+        "question": "Làm cách nào để tách hình ảnh thành các lớp bằng AI?",
+        "answer": "Bạn có thể tách hình ảnh của mình bằng KomikoAI AI chỉ trong hai bước đơn giản:\n1. Tải hình ảnh của bạn lên AI Layer Splitter\n2. Nhấp vào nút 'Tách ảnh' để bắt đầu quá trình tách"
+      },
+      "3": {
+        "question": "Tôi có thể sử dụng AI để tách các yếu tố trong hình ảnh của mình không?",
+        "answer": "Có, bạn có thể sử dụng AI để tách các yếu tố trong hình ảnh của mình. Công cụ tách lớp AI của KomikoAI có thể phân tích hình ảnh của bạn và xác định các thành phần khác nhau, tạo các lớp riêng lẻ cho từng yếu tố. Điều này giúp bạn dễ dàng chỉnh sửa các phần cụ thể của hình ảnh mà không ảnh hưởng đến toàn bộ bố cục."
+      },
+      "4": {
+        "question": "Tách lớp AI hoạt động như thế nào?",
+        "answer": "Tách lớp AI sử dụng các mô hình học sâu tiên tiến được đào tạo trên hàng triệu hình ảnh để nhận diện các yếu tố khác nhau trong một hình ảnh. AI phân tích các mẫu, cạnh, màu sắc và ngữ cảnh để xác định pixel nào thuộc về đối tượng nào, sau đó tạo các lớp riêng biệt cho từng thành phần được xác định."
+      },
+      "5": {
+        "question": "Những lợi ích của việc tách lớp AI là gì?",
+        "answer": "Có rất nhiều lợi ích của việc tách hình ảnh bằng AI:\n- Tiết kiệm thời gian so với việc tạo mặt nạ và chọn thủ công\n- Tạo ra các lớp sạch, chất lượng cao với khả năng phát hiện cạnh chính xác\n- Cho phép dễ dàng chỉnh sửa các thành phần riêng lẻ\n- Hoàn hảo để tạo tài sản trò chơi và các yếu tố hoạt hình"
+      },
+      "6": {
+        "question": "Tôi có thể sử dụng các lớp tách AI cho mục đích thương mại không?",
+        "answer": "Có, bạn có thể sử dụng các lớp tách do AI tạo ra cho cả mục đích cá nhân và thương mại. Điều này làm cho nó trở nên lý tưởng cho phát triển trò chơi, các dự án thiết kế và tác phẩm nghệ thuật chuyên nghiệp. Tuy nhiên, hãy đảm bảo bạn tuân thủ các điều khoản dịch vụ của KomikoAI."
+      },
+      "7": {
+        "question": "Các định dạng và kích thước nào được hỗ trợ?",
+        "answer": "AI hỗ trợ hình ảnh ở định dạng JPG và PNG. Các lớp đầu ra sẽ duy trì độ phân giải ban đầu của hình ảnh để có chất lượng tối đa."
+      },
+      "8": {
+        "question": "Công cụ tách lớp AI có sử dụng miễn phí không?",
+        "answer": "KomikoAI cung cấp các zaps (tín dụng) miễn phí để bạn dùng thử công cụ. Bạn cũng có thể mua các gói trả phí để có thêm zaps nếu cần sử dụng nhiều hơn, cũng như các tính năng nâng cao như xử lý nhanh hơn và độ phân giải cao hơn."
+      },
+      "9": {
+        "question": "Tôi có cần thêm bất kỳ lời nhắc nào để tách lớp không?",
+        "answer": "Không giống như một số công cụ AI, AI Layer Splitter của chúng tôi không yêu cầu lời nhắc chi tiết. AI được đào tạo để xác định và tách các thành phần hình ảnh một cách thông minh và tự động. Chỉ cần tải hình ảnh của bạn lên và để AI thực hiện công việc."
+      },
+      "10": {
+        "question": "Những hạn chế của việc tách lớp AI là gì?",
+        "answer": "Mặc dù tách lớp AI là một công cụ mạnh mẽ, nhưng nó có một số hạn chế:\n- Cảnh phức tạp: Các hình ảnh quá bận rộn hoặc phức tạp có thể dẫn đến một số thành phần bị nhóm lại với nhau\n- Độ trong suốt: Một số chi tiết nhỏ như tóc hoặc lông có thể khó tách hoàn toàn\n- Các đối tượng chồng chéo: Các thành phần chồng chéo đáng kể có thể khó tách hoàn toàn\nMặc dù có những hạn chế này, tách lớp AI có thể tăng tốc đáng kể quy trình làm việc cho các nghệ sĩ, nhà thiết kế và nhà phát triển."
+      },
+      "11": {
+        "question": "Tôi có cần kỹ năng thiết kế để sử dụng tách lớp AI không?",
+        "answer": "Không, bạn không cần kỹ năng thiết kế nâng cao để sử dụng tách lớp AI.\n- Đối với nhà thiết kế: Nếu bạn là một chuyên gia, công cụ này có thể tăng tốc đáng kể quy trình làm việc của bạn\n- Đối với người mới bắt đầu: Bạn có thể dễ dàng tách các yếu tố hình ảnh mà không cần thành thạo các kỹ thuật lựa chọn phức tạp\nCông cụ này được thiết kế thân thiện với người dùng cho tất cả mọi người, cho dù bạn là một nhà thiết kế giàu kinh nghiệm hay chỉ mới bắt đầu."
+      },
+      "12": {
+        "question": "Những loại hình ảnh nào hoạt động tốt nhất với tách lớp AI?",
+        "answer": "AI Layer Splitter hoạt động tốt với nhiều loại hình ảnh khác nhau:\n- Tài sản trò chơi và thiết kế nhân vật\n- Hình minh họa và tác phẩm nghệ thuật\n- Ảnh có các yếu tố tiền cảnh và hậu cảnh riêng biệt\n- Hình ảnh sản phẩm\n- Hình ảnh theo phong cách hoạt hình và anime\n- Tác phẩm nghệ thuật kỹ thuật số với các thành phần rõ ràng\nĐể có kết quả tốt nhất, hãy sử dụng hình ảnh có độ tương phản tốt giữa các thành phần khác nhau."
+      },
+      "13": {
+        "question": "Làm cách nào để có được kết quả tốt nhất từ việc tách lớp AI?",
+        "answer": "Hãy làm theo các mẹo sau để tách lớp tối ưu:\n- Sử dụng hình ảnh có độ tương phản tốt giữa các thành phần\n- Đảm bảo hình ảnh của bạn có độ phân giải đủ\n- Hình ảnh có ranh giới rõ ràng giữa các thành phần hoạt động tốt nhất\n- Tránh các cảnh cực kỳ lộn xộn hoặc phức tạp khi có thể\n- Sử dụng định dạng PNG để có kết quả chất lượng tốt nhất"
+      },
+      "14": {
+        "question": "Tách lớp AI so với tách thủ công như thế nào?",
+        "answer": "Tách lớp AI giúp tiết kiệm thời gian đáng kể so với việc tạo mặt nạ và chọn thủ công, giảm thời gian từ hàng giờ làm việc xuống còn vài phút. Mặc dù nó có thể không hoàn toàn thay thế các kỹ thuật chuyên nghiệp cho các dự án phức tạp nhất, nhưng nó là một công cụ tuyệt vời để tạo tài sản nhanh chóng, phát triển trò chơi và quy trình thiết kế. AI hiểu ranh giới đối tượng và có thể tạo ra các phân tách sạch sẽ mà sẽ tốn rất nhiều thời gian và kỹ năng để đạt được theo cách thủ công."
+      },
+      "15": {
+        "question": "Tôi có thể chỉnh sửa các lớp tách AI không?",
+        "answer": "Có, bạn có thể chỉnh sửa và tinh chỉnh thêm các lớp do AI tạo ra bằng phần mềm thiết kế ưa thích của bạn. Các lớp do AI tạo ra đóng vai trò là điểm khởi đầu tuyệt vời mà bạn có thể cải thiện với các chi tiết hoặc chỉnh sửa bổ sung khi cần."
+      },
+      "16": {
+        "question": "Một số cách sáng tạo để sử dụng tách lớp AI là gì?",
+        "answer": "Tách lớp AI có thể được sử dụng cho:\n- Phát triển trò chơi: tạo sprite nhân vật và hậu cảnh riêng biệt\n- Hoạt hình: chuẩn bị các yếu tố cho đồ họa chuyển động\n- Thiết kế đồ họa: cô lập các thành phần cho bố cục sáng tạo\n- Chỉnh sửa ảnh: tách các đối tượng khỏi hậu cảnh\n- Thiết kế UI/UX: tạo các thành phần giao diện nhiều lớp\n- Nghệ thuật kỹ thuật số: chuẩn bị tác phẩm nghệ thuật cho các hiệu ứng động"
+      },
+      "17": {
+        "question": "Công nghệ tách lớp AI chính xác đến mức nào?",
+        "answer": "AI Layer Splitter của KomikoAI sử dụng công nghệ thị giác máy tính hiện đại để xác định và tách chính xác các thành phần hình ảnh. Công nghệ này đặc biệt hiệu quả với hình ảnh có các yếu tố riêng biệt và độ tương phản tốt. Mặc dù không có hệ thống AI nào là hoàn hảo, nhưng công nghệ của chúng tôi mang lại kết quả chất lượng chuyên nghiệp cho hầu hết các trường hợp sử dụng phổ biến, giúp tiết kiệm thời gian đáng kể so với các quy trình thủ công."
+      },
+      "18": {
+        "question": "Tôi có thể sử dụng tách lớp AI cho các dự án hoạt hình không?",
+        "answer": "Có, tách lớp AI là hoàn hảo cho các dự án hoạt hình:\n- Dễ dàng tách các nhân vật khỏi hậu cảnh để tạo hoạt hình độc lập\n- Tạo các bộ phận có thể di chuyển như chân tay, nét mặt hoặc đồ vật\n- Chuẩn bị tác phẩm nghệ thuật hiện có cho hoạt hình mà không cần bắt đầu lại từ đầu\n- Tạo các tệp nhiều lớp sẵn sàng để nhập vào phần mềm hoạt hình\nKhả năng này đặc biệt có giá trị đối với các nhà làm phim hoạt hình muốn mang tác phẩm nghệ thuật tĩnh vào cuộc sống hoặc để hợp lý hóa quy trình sản xuất của họ."
+      }
+    }
+  },
+  "delete": {
+    "title": "Xác nhận xóa",
+    "message": "Bạn có chắc chắn muốn xóa video này không? Hành động này không thể hoàn tác.",
+    "cancel": "Hủy",
+    "confirm": "Xóa"
+  },
+  "buttons": {
+    "split": "Tách ảnh"
+  },
+  "errors": {
+    "noZaps": "Vui lòng mua thêm zaps",
+    "splitFailed": "Tách ảnh không thành công",
+    "splitSuccess": "Tách ảnh thành công",
+    "deleteSuccess": "Xóa thành công",
+    "deleteFailed": "Xóa không thành công",
+    "downloadFailed": "Tải xuống không thành công"
+  }
+}

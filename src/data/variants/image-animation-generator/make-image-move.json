@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Make Image Move",
+      "description": "Discover how to make your static images move with our AI-powered Make Image Move tool. Transform photos, art, and illustrations into vibrant animations using KomikoAI technology.",
+      "keywords": "Make Image Move, AI animation tool, image movement, dynamic images, animate photos, AI-powered animations, KomikoAI"
+    },
+    "hero": {
+      "title": "Make Image Move",
+      "description": "Transform static images into moving masterpieces with KomikoAI's Make Image Move. Our AI tool breathes life into photos, comics, manga, and art, creating engaging animations effortlessly."
+    },
+    "whatIs": {
+      "title": "What is Make Image Move?",
+      "description": "Make Image Move is an AI-powered tool that transforms static images into dynamic animations. Ideal for comic enthusiasts, anime fans, and digital creators, our tool animates photos and art with lifelike movements."
+    },
+    "examples": {
+      "title": "Make Image Move Examples",
+      "description": "See how KomikoAI's Make Image Move breathes life into static images. Explore animated transformations that captivate your audience.",
+      "inputAlt": "Example Source Image",
+      "inputLabel": "Source Image",
+      "outputLabel": "Moving Animation Result"
+    },
+    "howToUse": {
+      "title": "How to use Make Image Move",
+      "steps": [
+        {
+          "title": "Select Your Image",
+          "content": "Start by selecting the image you wish to animate. From anime characters to vibrant illustrations, Make Image Move can handle it all."
+        },
+        {
+          "title": "Input Animation Prompt",
+          "content": "Enter a prompt to specify the animation style or actions. Describe the nuances and movements you desire."
+        },
+        {
+          "title": "Create Your Animation",
+          "content": "Click 'Create Animation' and allow our AI to bring your image to life. Watch it transform with fluid motion and expression."
+        },
+        {
+          "title": "Save and Share",
+          "content": "Easily download your animated creation and share it across platforms. Ideal for digital projects, social media, and more."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why use Make Image Move?",
+      "description": "Uncover the advantages of using Make Image Move, offering superior animation capabilities for manga, comics, and digital art.",
+      "features": [
+        {
+          "title": "Sophisticated AI Animation",
+          "content": "Experience advanced AI modeling that transforms still images into compelling animated content with precision.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Interactive Visual Content",
+          "content": "Convert static art into dynamic animations suitable for diverse projects, enhancing engagement and interaction.",
+          "icon": "🎬"
+        },
+        {
+          "title": "User-Friendly Interface",
+          "content": "No animation skills needed! Just upload, prompt, and let our AI handle the animation process with ease.",
+          "icon": "👌"
+        },
+        {
+          "title": "Efficiency and Speed",
+          "content": "Significantly reduce the time spent on animations. Our AI enables swift creation, saving you valuable time.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Professional-Grade Animations",
+          "content": "Achieve polished results seamlessly. Our technology ensures transitions are smooth and movements natural.",
+          "icon": "✨"
+        },
+        {
+          "title": "Fuel Your Creative Ideas",
+          "content": "Let your creativity flourish by focusing on concept development while our AI takes care of the technical details.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Get answers to common questions about using the Make Image Move tool and its features.",
+      "q1": "What is Make Image Move?",
+      "a1": "Make Image Move is an AI tool that transforms static images into animations, ideal for artists and creatives. It uses sophisticated algorithms to generate realistic movements and expressions, offering a versatile platform for creating dynamic content.",
+      "q2": "How to use Make Image Move?",
+      "a2": "Using Make Image Move is simple! First upload your image, then provide a detailed prompt for the desired movement, and click 'Create Animation'. The tool will quickly process the image, generating a moving animation calibrated to your instructions.",
+      "q3": "How does Make Image Move work?",
+      "a3": "Make Image Move uses cutting-edge machine learning technology to analyze input images and interpret animation prompts. It processes these inputs to synthesize movements and actions, producing compelling animations from static artwork.",
+      "q4": "What is the best image to animation tool?",
+      "a4": "KomikoAI provides the best image to animation tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Make Image Move, you can make images come alive with realistic motion, making it perfect for users who love crafting animations with ease.",
+      "q5": "Is the KomikoAI Make Image Move free online?",
+      "a5": "Yes, you can test out the Make Image Move on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Make Image Move?",
+      "a6": "You can use Make Image Move on KomikoAI to create animated scenes from static illustrations, inject life into portraits with animated expressions, and design interactive content suited for social media and presentations.",
+      "q7": "Can I use Make Image Move on my phone?",
+      "a7": "Yes, you can use Make Image Move as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Make Image Move?",
+      "a8": "Yes, KomikoAI's Make Image Move allows you to export your generation in various formats, such as MP4, GIF, WebM, for easy sharing.",
+      "q9": "Why should I use Make Image Move?",
+      "a9": "Using Make Image Move can enhance your digital content. Our tool allows you to animate still images with realistic effects, control the duration and intensity of animations, and produce high-quality videos, making it an essential resource for creative professionals."
+    },
+    "cta": {
+      "title": "Bring Images to Life for FREE with Our Make Image Move Today!",
+      "description": "Try our tool and transform your images into motion effortlessly.",
+      "buttonText": "Try Our Make Image Move Free"
+    }
+  },
+  "placeholderText": "Generate Make Image Move style artwork",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Marey",
+      "description": "Prompt: Keyframing - Advanced keyframe animation and temporal control",
+      "videoUrl": "https://framerusercontent.com/assets/n2GMFj97mJ15e8X2Qulx9RRQNbs.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: The boy slowly lean in, gently holds the girl’s face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Midjourney",
+      "description": "Prompt: Ethereal girl with flowing white hair walking gracefully through shallow water, sunlight creating dancing ripples, floating white lilies, gentle water movement with each step, serene forest pond, soft golden lighting",
+      "videoUrl": "/images/pages/midjourney/example6.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A cat turns into a tiger",
+      "videoUrl": "/images/pages/vidu/cat.webm"
+    }
+  ],
+  "originalKeyword": "Make Image Move",
+  "pageStructure": ["whatIs", "examples", "whyUse", "moreAITools", "howToUse", "faq", "cta"]
+}

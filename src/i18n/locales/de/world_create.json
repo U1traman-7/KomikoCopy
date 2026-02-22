@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Welt erstellen | KomikoAI",
+  "createWorld": "Welt erstellen",
+  "coverImage": "Titelbild",
+  "uploadCoverImage": "Titelbild hochladen",
+  "worldName": "Name der Welt",
+  "introduction": "Einleitung ({{length}}/250 Zeichen)",
+  "introductionPlaceholder": "Beschreibe kurz die Geschichte. Welche Abenteuer erwarten Spieler und Charakter? Verwende '{character}', um dich auf den Charakter zu beziehen.",
+  "storyline": "Handlung ({{length}}/5000 Zeichen)",
+  "storylinePlaceholder": "Beschreibe die Handlung detaillierter. Verwende '{character}' für den Charakter und 'Spieler' für den Spieler.",
+  "winningCondition": "Gewinnbedingung ({{length}}/250 Zeichen)",
+  "winningConditionPlaceholder": "Beschreibe, unter welchen Bedingungen das Spiel gewonnen wird.",
+  "rules": "Regeln ({{length}}/5000 Zeichen)",
+  "rulesPlaceholder": "Definiere die Spielregeln. Zum Beispiel: 'Der Spieler schlüpft in die Rolle von {character}' oder '{character} spricht den Spieler als \"Reisende/r\" an' oder 'Jede Zeile von {character} beginnt mit (Wahnsinn: X), wobei X zu Beginn auf 100 gesetzt ist.'",
+  "createWorldButton": "Welt erstellen",
+  "pleaseNote": "Bitte beachten:",
+  "nsfwWarning": "Öffentliche, nicht jugendfreie Inhalte (NSFW) sind in der KomikoAI-Community strengstens untersagt. Zuwiderhandlungen führen zur sofortigen Entfernung des Inhalts und können zum dauerhaften Ausschluss von unserer Plattform führen. Lasst uns gemeinsam für einen sauberen und sicheren Ort für alle sorgen! 🤗",
+  "errorWorldName": "Bitte gib einen Namen für die Welt ein.",
+  "errorIntroduction": "Bitte gib eine Einleitung ein.",
+  "errorStoryline": "Bitte gib eine Handlung ein.",
+  "errorCoverImage": "Bitte lade ein Titelbild hoch.",
+  "errorNSFW": "Nicht jugendfreie Inhalte (NSFW) sind in der KomikoAI-Community strengstens untersagt. Bitte hilf uns, einen sauberen und sicheren Ort für alle zu gewährleisten."
+}

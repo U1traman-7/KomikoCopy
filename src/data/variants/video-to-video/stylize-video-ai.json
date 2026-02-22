@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Stylize Video AI",
+      "description": "Enhance your videos with Stylize Video AI technology. This advanced AI tool converts any video to anime, cartoon, manga, and manhwa styles while preserving original motion and timing.",
+      "keywords": "Stylize Video AI, video style transformation, anime video creator, cartoon video style, manga style transformation, manhwa video styling, video to anime converter, animation tool, cartoon video maker, anime style video, manga video creator, video stylization"
+    },
+    "hero": {
+      "title": "Stylize Video AI"
+    },
+    "whatIs": {
+      "title": "What is Stylize Video AI?",
+      "description": "Stylize Video AI enables the transformation of ordinary videos into engaging anime, cartoon, manga, and manhwa-style animations using sophisticated style transformation technology. This two-step process first applies your selected style to a reference frame, then transforms the full video while maintaining original motion and timing. Choose from over 100 styles, including Studio Ghibli anime, Korean manhwa, Japanese manga, and popular cartoon aesthetics with our Stylize Video AI."
+    },
+    "examples": {
+      "title": "Stylize Video AI Examples",
+      "description": "Explore how our Stylize Video AI converts videos into visually striking anime, cartoon, manga, and manhwa styles while ensuring seamless motion consistency through advanced video style transformation.",
+      "style": "Applied Style"
+    },
+    "howToUse": {
+      "title": "How to Use Stylize Video AI",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Upload any video file (MP4, MOV, AVI) up to 15 seconds and 50MB for Stylize Video AI processing. Videos exceeding 15 seconds are automatically trimmed for optimal style transformation."
+        },
+        {
+          "title": "Define Style Reference",
+          "content": "Extract the first frame and apply your chosen anime, cartoon, or manga style to establish a reference framework for consistent transformation throughout the video."
+        },
+        {
+          "title": "Select Artistic Style",
+          "content": "Choose from over 100 preset styles such as Studio Ghibli anime, Korean manhwa, Japanese manga, or create custom styles using text prompts and reference images for your video transformation."
+        },
+        {
+          "title": "Generate with Stylize Video AI",
+          "content": "Stylize Video AI processes your entire video using the styled reference frame, preserving all original motion, expressions, and timing through cutting-edge video transformation technology."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Stylize Video AI",
+      "description": "Stylize Video AI offers unparalleled style transformation with motion preservation, extensive style options, and transparent pricing.",
+      "features": [
+        {
+          "title": "Preserves Motion Perfectly",
+          "content": "Stylize Video AI retains the intricacies of original motion, facial expressions, and timing while applying anime, cartoon, or manga styles with frame-perfect consistency.",
+          "icon": "🎬"
+        },
+        {
+          "title": "100+ Style Options",
+          "content": "Choose from styles like Studio Ghibli anime, Korean manhwa, Japanese manga, and create custom transformations using text prompts or reference images.",
+          "icon": "🎨"
+        },
+        {
+          "title": "High-Quality Output",
+          "content": "Produce high-definition anime and cartoon videos with coherent style application, smooth transitions, and no visual artifacts.",
+          "icon": "✨"
+        },
+        {
+          "title": "Cost-Effective System",
+          "content": "Transparent pricing structure with separate charges for style transformation and video generation. Experiment with different styles without accruing additional video costs.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Simplified Two-Step Process",
+          "content": "The workflow is easy: upload video, apply style to reference frame, generate full video. Real-time progress tracking with no technical expertise required.",
+          "icon": "👌"
+        },
+        {
+          "title": "Intelligent Optimization",
+          "content": "Smart processing with automatic trimming, format support for MP4, MOV, AVI, and cost-efficient duration-based pricing.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common queries about Stylize Video AI tool and its features.",
+      "q1": "What is Stylize Video AI?",
+      "a1": "Stylize Video AI is an AI tool that transforms regular videos into stunning anime, cartoon, manga, and manhwa-style animations by applying sophisticated style transformation techniques while preserving original motion and timing.",
+      "q2": "How to use Stylize Video AI?",
+      "a2": "Using Stylize Video AI is simple! First upload your video, then apply a style to the reference frame, and finally generate the full video. Customize with over 100 styles or create your own using prompts or reference images, all while tracking your progress in real-time.",
+      "q3": "How does Stylize Video AI work?",
+      "a3": "Stylize Video AI uses advanced style transformation technology to convert regular videos into artistic animations. It works by applying a selected style to a reference frame and then transforming the entire video, maintaining the integrity of motion and timing.",
+      "q4": "What is the best video style transformation tool?",
+      "a4": "KomikoAI provides the best video style transformation tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Stylize Video AI, you can transform videos into unique visual styles, making it perfect for content creators and enthusiasts looking for advanced visual effects.",
+      "q5": "Is the KomikoAI Stylize Video AI free online?",
+      "a5": "Yes, you can test out the Stylize Video AI on KomikoAI for free, without having to sign up to any subscription. Try our style transformation tool today!",
+      "q6": "What can I do with Stylize Video AI?",
+      "a6": "You can use Stylize Video AI on KomikoAI to create animated content by converting real-life video clips into anime, cartoon, manga, and manhwa styles. Transform live-action footage into unique art pieces and enhance your creative projects with customizable styling.",
+      "q7": "Can I use Stylize Video AI on my phone?",
+      "a7": "Yes, you can use Stylize Video AI as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Stylize Video AI?",
+      "a8": "Yes, KomikoAI's Stylize Video AI allows you to export your generation in various formats, such as MP4, MOV, AVI, for easy sharing.",
+      "q9": "Why should I use Stylize Video AI?",
+      "a9": "Using Stylize Video AI can revolutionize the way you create engaging video content. Our style transformation tool allows you to transform ordinary videos into expressive anime, cartoon, manga, and manhwa styles, preserving original motion and timing for high-quality artistic output."
+    },
+    "cta": {
+      "title": "Transform Videos for FREE with Our Stylize Video AI Today!",
+      "description": "Create compelling anime and cartoon-style videos using advanced style transformation technology.",
+      "buttonText": "Try Our Stylize Video AI Free"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon Style",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    },
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/anime-skiing.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Anime Style",
+      "description": "Style Transfer | Transfer original video to anime style"
+    }
+  ],
+  "originalKeyword": "Stylize Video AI",
+  "pageStructure": [
+    "examples",
+    "whyUse",
+    "whatIs",
+    "howToUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

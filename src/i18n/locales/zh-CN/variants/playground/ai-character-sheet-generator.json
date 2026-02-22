@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 角色设定图生成器",
+      "description": "立即使用我们的 AI 角色设定图生成器，从您的照片创作独一无二的角色设定图！免费试用，即刻释放您的创作灵感。",
+      "keywords": "AI 角色设定图生成器, AI 角色创建器, AI 角色设计, AI 动漫生成器, 数字艺术生成器"
+    },
+    "hero": {
+      "title": "AI 角色设定图生成器"
+    },
+    "whatIs": {
+      "title": "什么是 AI 角色设定图生成器？",
+      "description": "AI 角色设定图生成器是一款先进的工具，可以将您的照片转换为充满想象力的角色设定图。通过应用独特的艺术风格和运用复杂的算法，它能突出角色的鲜明特征，助力您进行故事叙述、游戏开发和视觉艺术创作。"
+    },
+    "examples": {
+      "title": "AI 角色设定图生成器示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用 AI 角色卡生成器",
+      "steps": [
+        {
+          "title": "步骤 1：上传您的照片",
+          "content": "上传您希望转换的高质量照片。您可以使用简单的拖放功能，或点击上传按钮。"
+        },
+        {
+          "title": "步骤 2：选择角色设定图模板",
+          "content": "选择您喜爱的角色设定图模板，将您的照片转换为相应的风格。"
+        },
+        {
+          "title": "步骤 3：转换为角色设定图",
+          "content": "点击“转换为角色设定图”按钮。我们的 AI 将处理您的图像，应用您选择的风格，并增强关键特征，以呈现引人注目的效果。"
+        },
+        {
+          "title": "步骤 4：下载并分享您的作品",
+          "content": "生成后，您可以下载您的角色设定图，并以您希望的方式进行分享：无论是社交媒体、艺术作品展示，还是个人项目！"
+        }
+      ],
+      "subtitle": "只需简单几步，即可创作出令人惊艳的角色设定图。"
+    },
+    "benefits": {
+      "title": "为什么使用 AI 角色卡生成器？",
+      "description": "了解我们的生成器在众多创作者中脱颖而出的原因。",
+      "features": [
+        {
+          "title": "🌟 独一无二的角色创作",
+          "content": "将您的照片转换为非凡且独特的角色设定图，非常适合用于故事创作、游戏设计，或者作为独立的艺术作品。"
+        },
+        {
+          "title": "⚡ 快速便捷",
+          "content": "瞬间生成您的角色设定图——我们的 AI 以其高效的速度促进快速设计迭代。"
+        },
+        {
+          "title": "🖥️ 直观的用户界面/用户体验",
+          "content": "专为各种技能水平的创作者设计，我们简洁明了的界面让您能够专注于设计本身，而无需为繁琐的操作所困扰。"
+        },
+        {
+          "title": "📊 多样化的风格选择",
+          "content": "探索我们多样化的模板，涵盖各种艺术流派，确保您的作品与您的创作愿景完美契合。"
+        },
+        {
+          "title": "💬 与创意社区互动",
+          "content": "加入一个充满活力的创作者社区。分享您的角色设定图，获取创作灵感，并在艺术道路上不断精进。"
+        },
+        {
+          "title": "🚀 适用于各种项目",
+          "content": "AI 角色设定图生成器非常适合专业、个人或充满想象力的项目，为每一项创意活动提供支持。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 角色设定图生成器 FAQ",
+      "description": "",
+      "q1": "AI 角色设定图生成器是如何工作的？",
+      "a1": "我们的 AI 技术利用复杂的算法将照片转换为精细的角色设定图，在增强人物特征的同时，保留角色的本质。",
+      "q2": "如何使用 AI 角色设定图生成器获得最佳效果？",
+      "a2": "使用高分辨率图像，并选择与您的角色概念产生共鸣的风格。勇于尝试不同的风格，以获得最佳设计效果。",
+      "q3": "AI 角色设定图生成器可以免费使用吗？",
+      "a3": "是的！基本功能可免费使用，高级用户可以选择更高级的风格和功能。",
+      "q4": "AI 角色设定图生成器与其他工具相比有什么优势？",
+      "a4": "我们专注于独特的角色设定图创作，同时拥有直观的用户体验和各种风格选择，这使得我们在数字艺术领域中脱颖而出。",
+      "q5": "我可以将生成的角色设定图用于商业用途吗？",
+      "a5": "当然可以！在遵守使用条款的前提下，您可以将 AI 生成的角色设定图用于商业项目。"
+    },
+    "cta": {
+      "title": "立即开始使用 AI 角色设定图生成器创作角色艺术！",
+      "description": "深入了解创作过程，并使用我们的 AI 角色设定图生成器设计出色的角色。您的创作之旅从这里启程！",
+      "buttonText": "免费转换为 AI 角色设定图"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into an AI Character Sheet",
+  "originalKeyword": "AI Character Sheet Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style:   Character Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Character Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Character Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-character-sheet-generator/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Character Sheet"
+    }
+  ]
+}

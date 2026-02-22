@@ -1,0 +1,51 @@
+{
+  "loading": "Загрузка...",
+  "postNotFound": "Запись не найдена",
+  "joinDiscussion": "Присоединяйтесь к обсуждению!",
+  "theEnd": "Конец",
+  "awkwardMessage": "Ой! Не удалось найти запись.",
+  "comments": "Комментарии",
+  "prompt": "Подсказка",
+  "following": "Читаю",
+  "follow": "Читать",
+  "aiAnimation": "AI Анимация",
+  "aiComic": "AI Комикс",
+  "aiArt": "AI Искусство",
+  "createdByWithName": "Создано {{name}} с использованием {{model}}",
+  "aiTechnology": "AI-технология",
+  "noDescription": "Описание отсутствует",
+  "createdBy": "Создано",
+  "contentDetails": "Подробности содержания",
+  "mediaInformation": "Информация о медиа",
+  "userInteraction": "Взаимодействие с пользователями",
+  "aboutThisArt": "Об этом искусстве",
+  "description": "Описание",
+  "creationPrompt": "Сигнал для создания",
+  "engagement": "Вовлечённость",
+  "defaultVideoDescription": "Анимация ИИ «{{title}}», созданная {{name}} с использованием генерации видео KomikoAI AI.",
+  "defaultImageDescription": "Искусство ИИ «{{title}}», созданное {{name}} с использованием генерации искусства KomikoAI AI.",
+  "defaultComicDescription": "Комикс ИИ «{{title}}», созданный {{name}} с использованием генерации комиксов KomikoAI AI.",
+  "common_keywords": [
+    "ИИ Искусство",
+    "Цифровое Искусство",
+    "Аниме",
+    "Иллюстрация",
+    "KomikoAI"
+  ],
+  "post_keywords": [
+    "Сгенерированное ИИ Изображение",
+    "Цифровое Искусство",
+    "Фэнтези Искусство"
+  ],
+  "video_keywords": [
+    "Анимация ИИ",
+    "Видео ИИ",
+    "Генерация Анимации ИИ",
+    "Генерация Видео ИИ",
+    "Генератор Анимации ИИ",
+    "Генератор Видео ИИ",
+    "Цифровая Анимация",
+    "Сгенерированная ИИ Анимация",
+    "KomikoAI"
+  ]
+}

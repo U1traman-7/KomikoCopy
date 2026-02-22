@@ -1,0 +1,138 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Fairy Filter",
+      "description": "Enhance your videos with the mystical AI Fairy Filter. Transform ordinary clips into enchanting fairy tale scenes using advanced AI techniques, while maintaining original motion and charm.",
+      "keywords": "AI Fairy Filter, fantasy video filter, fairy tale animation, magic video effects, video style transfer, fairy style video, enchanted video creation, mystical video generator, fantasy transformation, magic cartoon filter, AI-powered video style"
+    },
+    "hero": {
+      "title": "AI Fairy Filter"
+    },
+    "whatIs": {
+      "title": "What is AI Fairy Filter?",
+      "description": "AI Fairy Filter morphs ordinary videos into fantastical fairy tale animations using advanced AI style transfer technology. Our two-step process first infuses a reference frame with fairy tale charm, then seamlessly transforms your entire video while retaining original fluidity and emotion. Choose from 100+ enchanting styles, including magical landscapes and mythical aesthetics."
+    },
+    "examples": {
+      "title": "AI Fairy Filter Examples",
+      "description": "Witness how our AI Fairy Filter brings videos to life with captivating fairy tale transformations while maintaining flawless motion and intricate details."
+    },
+    "howToUse": {
+      "title": "How to Use AI Fairy Filter",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Select any video file (MP4, MOV, AVI) under 15 seconds and 50MB for the AI Fairy Filter. Longer videos will be auto-trimmed to ensure ideal transformation."
+        },
+        {
+          "title": "Fairy Style Reference",
+          "content": "We capture the initial frame to apply your selected fairy tale or mystical style, providing a visual guide for precise video transformation."
+        },
+        {
+          "title": "Select Enchanting Style",
+          "content": "Pick from countless preset styles like enchanted woods, moonlit nights, or craft personal styles with text inputs and image boundaries."
+        },
+        {
+          "title": "Generate with AI Fairy Filter",
+          "content": "AI Fairy Filter weaves magic into your full video, applying the styled reference for a fluent, lyrical transformation while preserving the essence of your original footage."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use AI Fairy Filter",
+      "description": "Experience the pinnacle of video stylizing with AI Fairy Filter, offering remarkable stylistic transformations, fluid motion preservation, and clear pricing.",
+      "features": [
+        {
+          "title": "Fluid Motion Preservation",
+          "content": "AI Fairy Filter ensures your video retains all the exquisite details of motion and expressions while applying fairy tale charm with precision.",
+          "icon": "🍃"
+        },
+        {
+          "title": "Over 100 Enchanting Styles",
+          "content": "Choose from a wide spectrum of styles from magical realms, or design bespoke transformations with text prompts and photo references.",
+          "icon": "🏞️"
+        },
+        {
+          "title": "High-Caliber Output",
+          "content": "Create enchanting and fluid fairy tale videos, free of flickers or artifacts, using our detailed and meticulous AI Fairy Filter technology.",
+          "icon": "✨"
+        },
+        {
+          "title": "Clear Cost Transparency",
+          "content": "Understand our pricing easily with individual charges for style application and video processing, enabling cost-effective experimenting.",
+          "icon": "💎"
+        },
+        {
+          "title": "Streamlined Two-Step Process",
+          "content": "Our intuitive AI Fairy Filter setup: simply upload your video, apply an enchanting reference, and let magic unfold—in real-time.",
+          "icon": "🧙♀️"
+        },
+        {
+          "title": "Optimized Process",
+          "content": "AI Fairy Filter handles automatic trimming, supports MP4, MOV, AVI formats, and calculates costs based on clip duration for optimal input.",
+          "icon": "📽️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Explore common inquiries about our AI Fairy Filter, its functions, costs, and best usage.",
+      "q1": "What is AI Fairy Filter?",
+      "a1": "AI Fairy Filter is an AI tool that transforms videos into fantasy and fairy tale inspired animations. It uses advanced style transfer techniques to ensure each transformation retains the video's original motion and emotional depth, while weaving a sense of magic into the visuals.",
+      "q2": "How to create videos with AI Fairy Filter?",
+      "a2": "Using AI Fairy Filter is simple! First upload your video, then apply a chosen fairy tale style, and generate the transformation. Customize with over 100 styles or create unique ones with text prompts or reference images to infuse your videos with magic.",
+      "q3": "How does AI Fairy Filter work?",
+      "a3": "AI Fairy Filter uses advanced AI style transfer technology to transform the stylized reference frame into delightful video updates, exchanging mundane visuals for magical wonders. It vigilantly preserves your video’s innate motion fluency throughout the process.",
+      "q4": "What is the best fantasy video transformation tool?",
+      "a4": "KomikoAI provides the best fantasy video transformation tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's AI Fairy Filter, you can create mesmerizing fairy tale videos, transporting viewers to whimsical realms, making it perfect for creators and dreamers seeking enchantment.",
+      "q5": "Is the KomikoAI AI Fairy Filter free online?",
+      "a5": "Yes, you can test out the AI Fairy Filter on KomikoAI for free, without having to sign up to any subscription. Try our enchanting tool today!",
+      "q6": "What can I do with AI Fairy Filter?",
+      "a6": "You can use AI Fairy Filter on KomikoAI to create scenes of wonder, transform live-action into fairy-tale enchantments, craft engaging fantasy content for social media, and blend real world footage with the charm of legendary tales.",
+      "q7": "Can I use AI Fairy Filter on my phone?",
+      "a7": "Yes, you can use AI Fairy Filter as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from AI Fairy Filter?",
+      "a8": "Yes, KomikoAI's AI Fairy Filter allows you to export your generation in various formats, such as MP4, AVI, MOV, for easy sharing.",
+      "q9": "Why should I use AI Fairy Filter?",
+      "a9": "Using AI Fairy Filter can transform videos into magical visual experiences. Our enchanting tool allows you to blend art with technology, effortlessly altering the ordinary into extraordinary with a few simple steps, ensuring high quality and captivating video results."
+    },
+    "cta": {
+      "title": "Discover Fortune and Fantasy for FREE with Our AI Fairy Filter Today!",
+      "description": "Unleash magic on your videos with our advanced fairy tale transformation tool.",
+      "buttonText": "Try Our AI Fairy Filter Free"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/outputs/style/miku-man.webm",
+      "output": "/images/examples/video-to-video/outputs/style/fairy-dancing.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Transferred Result",
+      "description": "Cosplay | Style: Tinkerbell"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/fairy-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Transferred Result",
+      "description": "Cosplay | Style: Tinkerbell"
+    }
+  ],
+  "config": {
+    "defaultStyle": "tinkerbell"
+  },
+  "pageStructure": [
+    "examples",
+    "whyUse",
+    "howToUse",
+    "whatIs",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

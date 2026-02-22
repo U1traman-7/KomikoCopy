@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "AI Layer Splitter - KomikoAI",
+    "og": {
+      "title": "Layer Splitter - KomikoAI",
+      "description": "Gunakan AI untuk memisahkan aset gambar Anda. Unggah gambar dan biarkan AI secara otomatis memisahkan berbagai komponennya, ideal untuk animasi dan pengembangan game.",
+      "url": "https://komiko.app/layer_splitter"
+    },
+    "twitter": {
+      "title": "Layer Splitter - KomikoAI",
+      "description": "Gunakan AI untuk memisahkan aset gambar Anda. Unggah gambar dan biarkan AI secara otomatis memisahkan berbagai komponennya, ideal untuk animasi dan pengembangan game."
+    },
+    "description": "Gunakan AI untuk memisahkan aset gambar Anda. Unggah gambar dan biarkan AI secara otomatis memisahkan berbagai komponennya, ideal untuk animasi dan pengembangan game."
+  },
+  "hero": {
+    "title": "AI Layer Splitter",
+    "description": "Pisahkan gambar menjadi layer terpisah dengan bantuan AI. Cukup unggah satu gambar dan dapatkan layer komponen individual secara instan! AI canggih kami akan menganalisis karya seni Anda dan memisahkan elemen seperti karakter, latar belakang, objek, dan lainnya ke dalam layer yang berbeda. Sangat cocok untuk seniman, animator, dan pengembang game yang membutuhkan layer siap animasi."
+  },
+  "input": {
+    "title": "Input",
+    "upload": {
+      "label": "Unggah Gambar",
+      "tooltip": "Unggah gambar untuk diproses oleh Layer Splitter"
+    }
+  },
+  "output": {
+    "title": "Hasil Split",
+    "empty": {
+      "title": "Hasil pemisahan akan ditampilkan di sini",
+      "subtitle": "Unggah gambar untuk memulai"
+    }
+  },
+  "tutorial": {
+    "title": "Cara Memisahkan Gambar dengan AI",
+    "description": "Pisahkan gambar secara otomatis menjadi layer individual dengan AI Layer Splitter KomikoAI dalam beberapa langkah mudah.",
+    "steps": {
+      "1": {
+        "title": "Langkah 1: Unggah Gambar",
+        "content": "Unggah gambar Anda ke AI Layer Splitter. Format JPG dan PNG didukung."
+      },
+      "2": {
+        "title": "Langkah 2: Split dan Unduh",
+        "content": "Klik 'Split Gambar' dan tunggu AI memproses gambar Anda. Unduh layer individual yang telah dipisahkan untuk proyek Anda!"
+      }
+    }
+  },
+  "examples": {
+    "title": "Contoh Pemisahan Layer dengan AI",
+    "description": "Lihat beberapa contoh hasil pemisahan layer yang dihasilkan oleh pengguna KomikoAI",
+    "labels": {
+      "original": "Gambar Asli",
+      "split": "Layer yang Dipisahkan"
+    },
+    "captions": {
+      "1": "Layer latar belakang dipisahkan dari karakter utama",
+      "2": "Layer karakter diekstraksi dari gambar masukan",
+      "3": "Beberapa layer dipisahkan dari satu gambar masukan"
+    }
+  },
+  "features": {
+    "title": "Mengapa Anda Harus Memisahkan Gambar dengan AI?",
+    "description": "AI Layer Splitter KomikoAI memudahkan pemisahan komponen gambar bagi siapa saja, mulai dari pemula hingga seniman profesional dan pengembang game.",
+    "items": {
+      "precise": {
+        "title": "Pemisahan yang Tepat",
+        "content": "AI kami secara akurat mendeteksi dan memisahkan elemen berbeda dalam gambar Anda, menghasilkan layer individual yang bersih untuk setiap komponen."
+      },
+      "timeSaving": {
+        "title": "Hemat Waktu",
+        "content": "Lewati proses pemilihan dan masking manual yang membosankan. Dapatkan layer yang dipisahkan dalam hitungan detik, bukan berjam-jam kerja keras."
+      },
+      "flexible": {
+        "title": "Fleksibilitas dalam Pengeditan",
+        "content": "Edit komponen individual secara terpisah dan gabungkan kembali untuk kontrol kreatif penuh atas gambar Anda."
+      },
+      "gameAssets": {
+        "title": "Pembuatan Aset Game",
+        "content": "Buat sprite dan aset game terpisah dengan mudah dari gambar yang kompleks. Sempurna untuk pengembang game yang perlu mengisolasi karakter dan objek."
+      },
+      "animation": {
+        "title": "Siap untuk Animasi",
+        "content": "Dapatkan layer yang siap animasi dan dapat langsung diimpor ke perangkat lunak animasi favorit Anda."
+      },
+      "quality": {
+        "title": "Output Berkualitas Tinggi",
+        "content": "Unduh layer yang dipisahkan dengan kualitas profesional, cocok untuk proyek komersial."
+      },
+      "workflow": {
+        "title": "Alur Kerja yang Efisien",
+        "content": "Integrasikan pemisahan layer AI ke dalam alur kerja desain, ilustrasi, atau pengembangan game Anda untuk menghemat waktu dan sumber daya."
+      },
+      "background": {
+        "title": "Penghapusan Latar Belakang",
+        "content": "Pisahkan subjek di latar depan dari latar belakang dengan mudah tanpa teknik masking yang rumit atau layar hijau."
+      },
+      "creative": {
+        "title": "Kebebasan Kreatif",
+        "content": "Padukan dan gabungkan elemen dari gambar yang berbeda dengan membaginya menjadi layer komponen terlebih dahulu. Buat komposisi baru dengan mudah."
+      }
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan Umum Tentang Pemisahan Layer dengan AI",
+    "description": "Temukan jawaban untuk pertanyaan yang sering diajukan tentang memisahkan gambar menjadi layer menggunakan AI.",
+    "questions": {
+      "1": {
+        "question": "Apa itu pemisahan layer dengan AI?",
+        "answer": "Pemisahan layer dengan AI adalah proses menggunakan kecerdasan buatan untuk secara otomatis memisahkan gambar menjadi layer komponen individual. Alat AI Layer Splitter KomikoAI menganalisis karya seni Anda dan mengidentifikasi elemen berbeda seperti karakter, latar belakang, dan objek, lalu membuat layer terpisah yang dapat diedit secara independen."
+      },
+      "2": {
+        "question": "Bagaimana cara memisahkan gambar menjadi layer dengan AI?",
+        "answer": "Anda dapat memisahkan gambar Anda dengan AI KomikoAI dalam dua langkah mudah:\n1. Unggah gambar Anda ke AI Layer Splitter.\n2. Klik tombol 'Split Gambar' untuk memulai proses pemisahan."
+      },
+      "3": {
+        "question": "Bisakah saya menggunakan AI untuk memisahkan elemen dalam gambar saya?",
+        "answer": "Ya, Anda dapat menggunakan AI untuk memisahkan elemen dalam gambar Anda. Alat AI Layer Splitter KomikoAI dapat menganalisis gambar Anda dan mengidentifikasi komponen yang berbeda, lalu membuat layer individual untuk setiap elemen. Ini memudahkan untuk mengedit bagian tertentu dari gambar Anda tanpa memengaruhi seluruh komposisi."
+      },
+      "4": {
+        "question": "Bagaimana cara kerja pemisahan layer dengan AI?",
+        "answer": "Pemisahan layer dengan AI menggunakan model deep learning canggih yang dilatih dengan jutaan gambar untuk mengenali elemen berbeda dalam sebuah gambar. AI menganalisis pola, tepi, warna, dan konteks untuk menentukan piksel mana yang termasuk dalam objek mana, lalu membuat layer terpisah untuk setiap komponen yang teridentifikasi."
+      },
+      "5": {
+        "question": "Apa manfaat dari pemisahan layer dengan AI?",
+        "answer": "Ada banyak manfaat memisahkan gambar dengan AI:\n- Menghemat waktu dibandingkan dengan masking dan pemilihan manual.\n- Menghasilkan layer berkualitas tinggi yang bersih dengan deteksi tepi yang tepat.\n- Memudahkan pengeditan komponen individual.\n- Sangat cocok untuk membuat aset game dan elemen animasi."
+      },
+      "6": {
+        "question": "Bisakah saya menggunakan layer yang dipisahkan dengan AI untuk tujuan komersial?",
+        "answer": "Ya, Anda dapat menggunakan layer yang dihasilkan AI untuk tujuan pribadi dan komersial. Ini membuatnya ideal untuk pengembangan game, proyek desain, dan karya seni profesional. Namun, pastikan Anda mematuhi persyaratan layanan KomikoAI."
+      },
+      "7": {
+        "question": "Format dan ukuran apa yang didukung?",
+        "answer": "AI mendukung gambar dalam format JPG dan PNG. Layer output akan mempertahankan resolusi asli gambar untuk kualitas maksimum."
+      },
+      "8": {
+        "question": "Apakah AI Layer Splitter gratis untuk digunakan?",
+        "answer": "KomikoAI menawarkan zaps (kredit) gratis agar Anda dapat mencoba alat ini. Anda juga dapat membeli paket berbayar untuk mendapatkan lebih banyak zaps jika Anda membutuhkan penggunaan lebih banyak, serta fitur canggih seperti pemrosesan lebih cepat dan resolusi lebih tinggi."
+      },
+      "9": {
+        "question": "Apakah saya perlu menambahkan prompt apa pun untuk pemisahan layer?",
+        "answer": "Tidak seperti beberapa alat AI lainnya, Layer Splitter kami tidak memerlukan prompt yang mendetail. AI dilatih untuk secara cerdas mengidentifikasi dan memisahkan komponen gambar secara otomatis. Cukup unggah gambar Anda dan biarkan AI yang bekerja."
+      },
+      "10": {
+        "question": "Apa batasan dari pemisahan layer dengan AI?",
+        "answer": "Meskipun pemisahan layer dengan AI adalah alat yang hebat, ia memiliki beberapa batasan:\n- Adegan Kompleks: Gambar yang sangat ramai atau kompleks dapat menyebabkan beberapa elemen dikelompokkan menjadi satu.\n- Transparansi: Beberapa detail halus seperti rambut atau bulu mungkin sulit untuk dipisahkan dengan sempurna.\n- Objek yang Tumpang Tindih: Elemen yang tumpang tindih secara signifikan mungkin sulit untuk dipisahkan sepenuhnya.\nTerlepas dari batasan ini, pemisahan layer dengan AI dapat secara signifikan mempercepat alur kerja seniman, desainer, dan pengembang."
+      },
+      "11": {
+        "question": "Apakah saya memerlukan keterampilan desain untuk menggunakan pemisahan layer dengan AI?",
+        "answer": "Tidak, Anda tidak memerlukan keterampilan desain tingkat lanjut untuk menggunakan pemisahan layer dengan AI.\n- Untuk Desainer: Jika Anda seorang profesional, alat ini dapat secara dramatis mempercepat alur kerja Anda.\n- Untuk Pemula: Anda dapat dengan mudah memisahkan elemen gambar tanpa perlu menguasai teknik pemilihan yang kompleks.\nAlat ini dirancang agar mudah digunakan untuk semua orang, baik Anda seorang desainer berpengalaman atau baru memulai."
+      },
+      "12": {
+        "question": "Jenis gambar apa yang paling cocok dengan pemisahan layer dengan AI?",
+        "answer": "AI Layer Splitter berfungsi dengan baik dengan berbagai jenis gambar:\n- Aset game dan desain karakter.\n- Ilustrasi dan karya seni.\n- Foto dengan elemen latar depan dan latar belakang yang berbeda.\n- Gambar produk.\n- Gambar bergaya kartun dan anime.\n- Karya seni digital dengan komponen yang jelas.\nUntuk hasil terbaik, gunakan gambar dengan kontras yang baik antara elemen yang berbeda."
+      },
+      "13": {
+        "question": "Bagaimana cara mendapatkan hasil terbaik dari pemisahan layer dengan AI?",
+        "answer": "Ikuti tips ini untuk pemisahan layer yang optimal:\n- Gunakan gambar dengan kontras yang baik antara elemen.\n- Pastikan gambar Anda memiliki resolusi yang cukup.\n- Gambar dengan batas yang jelas antar elemen akan berfungsi paling baik.\n- Hindari adegan yang sangat berantakan atau kompleks bila memungkinkan.\n- Gunakan format PNG untuk hasil kualitas terbaik."
+      },
+      "14": {
+        "question": "Bagaimana perbandingan pemisahan layer dengan AI dibandingkan dengan pemisahan manual?",
+        "answer": "Pemisahan layer dengan AI menawarkan penghematan waktu yang signifikan dibandingkan dengan masking dan pemilihan manual, mengurangi jam kerja menjadi menit. Meskipun mungkin tidak sepenuhnya menggantikan teknik profesional untuk proyek yang paling kompleks, ini adalah alat yang sangat baik untuk pembuatan aset cepat, pengembangan game, dan alur kerja desain. AI memahami batas objek dan dapat membuat pemisahan bersih yang membutuhkan waktu dan keterampilan yang cukup untuk dicapai secara manual."
+      },
+      "15": {
+        "question": "Bisakah saya mengedit layer yang dipisahkan oleh AI?",
+        "answer": "Ya, Anda dapat mengedit dan menyempurnakan layer yang dihasilkan AI lebih lanjut menggunakan perangkat lunak desain pilihan Anda. Layer yang dihasilkan AI berfungsi sebagai titik awal yang sangat baik yang dapat Anda tingkatkan dengan detail atau koreksi tambahan sesuai kebutuhan."
+      },
+      "16": {
+        "question": "Apa saja cara kreatif untuk menggunakan pemisahan layer dengan AI?",
+        "answer": "Pemisahan layer dengan AI dapat digunakan untuk:\n- Pengembangan game: Membuat sprite karakter dan latar belakang terpisah.\n- Animasi: Mempersiapkan elemen untuk grafik gerak.\n- Desain grafis: Mengisolasi komponen untuk komposisi kreatif.\n- Pengeditan foto: Memisahkan subjek dari latar belakang.\n- Desain UI/UX: Membuat elemen antarmuka berlapis.\n- Seni digital: Mempersiapkan karya seni untuk efek dinamis."
+      },
+      "17": {
+        "question": "Seberapa akurat teknologi pemisahan layer dengan AI?",
+        "answer": "AI Layer Splitter KomikoAI menggunakan teknologi visi komputer mutakhir untuk mengidentifikasi dan memisahkan komponen gambar secara akurat. Teknologi ini sangat efektif dengan gambar yang memiliki elemen berbeda dan kontras yang baik. Meskipun tidak ada sistem AI yang sempurna, teknologi kami memberikan hasil berkualitas profesional untuk sebagian besar kasus penggunaan umum, sehingga menghemat waktu yang signifikan dibandingkan dengan proses manual."
+      },
+      "18": {
+        "question": "Bisakah saya menggunakan pemisahan layer dengan AI untuk proyek animasi?",
+        "answer": "Ya, pemisahan layer dengan AI sangat cocok untuk proyek animasi:\n- Pisahkan karakter dari latar belakang dengan mudah untuk animasi independen.\n- Buat bagian yang dapat digerakkan seperti anggota badan, fitur wajah, atau objek.\n- Siapkan karya seni yang ada untuk animasi tanpa harus mulai dari awal.\n- Hasilkan file berlapis yang siap diimpor ke perangkat lunak animasi.\nKemampuan ini sangat berharga bagi animator yang ingin menghidupkan karya seni statis atau menyederhanakan alur kerja produksi mereka."
+      }
+    }
+  },
+  "delete": {
+    "title": "Konfirmasi Penghapusan",
+    "message": "Apakah Anda yakin ingin menghapus video ini? Tindakan ini tidak dapat dibatalkan.",
+    "cancel": "Batal",
+    "confirm": "Hapus"
+  },
+  "buttons": {
+    "split": "Split Gambar"
+  },
+  "errors": {
+    "noZaps": "Silakan beli lebih banyak zaps",
+    "splitFailed": "Pemisahan gambar gagal",
+    "splitSuccess": "Pemisahan gambar berhasil",
+    "deleteSuccess": "Penghapusan berhasil",
+    "deleteFailed": "Penghapusan gagal",
+    "downloadFailed": "Pengunduhan gagal"
+  }
+}

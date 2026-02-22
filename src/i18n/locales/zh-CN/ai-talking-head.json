@@ -1,0 +1,6 @@
+{
+  "upload": {
+    "imageSizeInfo": "最大尺寸：{{maxSize}}MB。超大图片将自动压缩。",
+    "audioSizeInfo": "音频最大大小：{{maxSize}}MB，最长2分钟。"
+  }
+}

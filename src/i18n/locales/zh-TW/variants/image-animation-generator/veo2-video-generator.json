@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Veo2 影片產生器 - KomikoAI",
+      "description": "使用 Veo 2 影片產生器，透過文字和圖片創建令人驚豔的 AI 影片。享受來自自然語言提示的高品質、高達 4K 解析度的電影級片段。",
+      "fullDescription": "Google 的 Veo2 影片產生器是一種尖端的 AI 工具，可將文字提示和圖片轉換為長達 8 秒、動態且逼真的影片片段。Veo2 影片產生器基於包括 Imagen Video 技術在內的先進機器學習模型，能生成具有精確控制的攝影機角度、光線和視覺效果的高解析度電影影片。Veo2 影片產生器非常適合行銷、內容創作、動畫和社群媒體等應用，提供快速影片生成、專業級品質和多樣化的使用情境。",
+      "keywords": "Veo 2 影片產生器、AI 影片創作、文字轉影片 AI、圖片轉影片 AI、Google Veo 2、高品質 AI 影片、電影級 AI 影片、AI 影片工具"
+    },
+    "hero": {
+      "title": "Veo2 影片產生器",
+      "description": "使用 Google 的 Veo 2 將您的文字提示和圖片轉換為高品質的電影級 AI 影片。立即生成具有專業細節的動態片段。"
+    },
+    "whatIs": {
+      "title": "什麼是 Veo2 影片產生器？",
+      "description": "Veo 2 是 Google 開發的一種先進的 AI 驅動影片生成工具，旨在根據自然語言文字提示和靜態圖像創建簡短、高品質的影片。 Veo 2 由 Imagen Video 等最先進的機器學習模型所驅動，可生成長達 8 秒、解析度高達 4K 的流暢、照片般逼真的影片。它結合了對真實世界物理學、電影攝影技術和人類動作的深入理解，以提供具有視覺吸引力的內容。此工具非常適合希望快速生成專業級影片內容，而無需傳統拍攝或後製編輯的創作者、行銷人員和開發人員。"
+    },
+    "examples": {
+      "title": "Veo 生成的影片範例",
+      "description": "探索使用 Veo 創建的影片範例。 了解文字提示和圖片如何轉變為動態、高品質的影片內容，非常適合社群媒體和專業專案。"
+    },
+    "howToUse": {
+      "title": "如何使用 Veo2 影片產生器",
+      "steps": [
+        {
+          "title": "上傳您的圖片",
+          "content": "首先上傳您想要製作動畫的圖片。無論是動漫角色、漫畫分格還是漫畫繪圖，我們的 AI 都將透過影片使您的作品栩栩如生。"
+        },
+        {
+          "title": "提供提示",
+          "content": "輸入描述性提示來指導影片的創建。 分享有關您希望 AI 描繪的動作、表情或活動的詳細資訊。"
+        },
+        {
+          "title": "創建影片",
+          "content": "只需點擊「產生影片」按鈕，觀看 AI 將您的靜態圖像轉變為生動的動畫影片。"
+        },
+        {
+          "title": "下載和自訂",
+          "content": "預覽產生的影片，下載您喜歡的版本，並可選擇新增背景音樂或音效來增強影片效果，非常適合在社群媒體或行銷活動中分享。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼選擇 Veo2 影片產生器？",
+      "description": "了解 Veo2 影片產生器如何透過 AI 驅動的功能簡化影片製作，從而提供專業品質、速度和創意靈活性。",
+      "features": [
+        {
+          "title": "高解析度影片輸出",
+          "content": "創建高達 4K 解析度的清晰、細緻影片，適合專業和電影應用。",
+          "icon": "🎥"
+        },
+        {
+          "title": "進階的文字轉影片和圖片轉影片",
+          "content": "直接從描述性文字產生影片，或透過將圖片轉換為動態影片片段來強化您的影像。",
+          "icon": "📝"
+        },
+        {
+          "title": "電影級控制",
+          "content": "指定攝影機角度、鏡頭類型、對焦技術和電影效果，以製作具有視覺吸引力的場景。",
+          "icon": "🎞️"
+        },
+        {
+          "title": "快速影片生成",
+          "content": "在幾分鐘內製作影片，大幅縮短與傳統影片製作相關的時間和成本。",
+          "icon": "⚡"
+        },
+        {
+          "title": "逼真的動作和物理",
+          "content": "AI 利用深度學習來模擬自然的人類運動、物理和環境效果，從而增強真實感。",
+          "icon": "🤖"
+        },
+        {
+          "title": "多樣化的使用情境",
+          "content": "非常適合需要快速、高品質影片內容，而無需大量資源的行銷人員、內容創作者、教育工作者和電影製作人。",
+          "icon": "🌟"
+        }
+      ]
+    },
+    "faq": {
+      "title": "有關 Veo2 影片產生器的常見問題",
+      "description": "有關 Veo2 影片產生器及其 AI 影片生成功能的常見問題解答。",
+      "q1": "什麼是 Veo2 影片產生器？",
+      "a1": "Veo2 影片產生器是 Google 提供的一種尖端 AI 工具，可使用先進的機器學習模型，從文字描述或圖像生成具有高解析度和電影品質的短片。",
+      "q2": "Veo2 影片產生器如何從文字或圖片創建影片？",
+      "a2": "Veo2 影片產生器使用深度學習技術來解讀自然語言提示和視覺輸入，以生成逼真的影片影格，模擬運動、攝影機效果和光線。",
+      "q3": "Veo2 影片產生器支援哪些影片長度和解析度？",
+      "a3": "Veo2 影片產生器產生的影片通常在 5 到 8 秒之間，並支援高達 4K 的解析度，適用於各種專業和社群媒體用途。",
+      "q4": "Veo2 影片產生器的主要使用情境是什麼？",
+      "a4": "常見應用包括社群媒體短片、產品廣告、動畫故事敘述、電影原型設計和教育內容創建。",
+      "q5": "我需要技術技能才能使用 Veo2 影片產生器嗎？",
+      "a5": "不需要任何技術或影片編輯技能。只需輸入文字或圖片，自訂基本設定，然後讓 AI 產生您的影片。",
+      "q6": "Veo2 影片產生器是否適合商業用途？",
+      "a6": "是的，Veo2 影片產生器產生的影片可以用於商業用途，但須遵守平台的條款和授權協議。",
+      "q7": "Veo2 影片產生器有哪些限制？",
+      "a7": "目前，Veo2 影片產生器針對短片進行了最佳化，可能不支援更長或高度複雜的影片合成。 頂級解析度輸出需要高運算資源。"
+    }
+  },
+  "originalKeyword": "Veo2 Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：Veo",
+      "description": "Prompt: A snow-covered plain of iridescent moon-dust under twilight skies. Thirty-foot crystalline flowers bloom, refracting light into slow-moving rainbows. A fur-cloaked figure walks between these colossal blossoms, leaving the only footprints in untouched dust..",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_veo_3_a-snow-covered-plain-of-iridescent-moon-dust-under-twilight-skie.mp4"
+    },
+    {
+      "id": 2,
+      "title": "模型：Veo",
+      "description": "Prompt:  A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_a-keyboard-whose-keys-are-made-of-different-types-of-candy-typin_1.mp4"
+    },
+    {
+      "id": 3,
+      "title": "模型：Veo",
+      "description": "Prompt:  Camping (Stop Motion): Camper: \"I'm one with nature now!\" Bear: \"Nature would prefer some personal space.\"",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/veo__veo-3__us_wm_camping-stop-motion-camper-i-m-one-with-nature-now-bear-nature-w.mp4"
+    },
+    {
+      "id": 4,
+      "title": "模型：Veo",
+      "description": "Prompt: a cute monster dancing.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_50d36a35-c64c-4992-a506-07cd6353b701_A_monster_walking_202505121621_1.mp4"
+    },
+    {
+      "id": 5,
+      "title": "模型：Veo",
+      "description": "Prompt: a cute monster swimming underwater.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_e88815cd-4ac3-4f94-95a9-c242f64f914a_Cute_monster_swimming_202505121603_1.mp4"
+    },
+    {
+      "id": 6,
+      "title": "模型：Veo",
+      "description": "Prompt: a cute monster walking in a candy wonderland.",
+      "videoUrl": "https://deepmind.google/api/blob/website/media/us_wm_0806b1b7-fc1f-4bba-8b90-febc755c3ba6_A_cute_monster_202505121604_0002_1.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "VEO"
+}

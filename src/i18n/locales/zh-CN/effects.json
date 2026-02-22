@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "深受动漫创作者喜爱的趣味特效",
+    "description": "找到你喜欢的特效，立即开始创作。",
+    "defaultDescription": "使用KomikoAI生成{{name}} {{type}}特效。上传角色图片，几秒钟内即可体验AI {{name}}生成器的强大功能。",
+    "eyebrow": "特效图库"
+  },
+  "meta": {
+    "keywords": "AI特效, 动漫模板, 视频特效, 舞蹈动画, 图像风格, komiko",
+    "title": "特效 | Komiko AI",
+    "description": "查看所有AI特效和动漫创作模板。包括图像风格、视频特效和舞蹈动画等。",
+    "titleTemplate": "{{name}}生成器"
+  },
+  "categories": {
+    "trending": {
+      "description": "当前非常流行的特效",
+      "title": "热门"
+    },
+    "imageRestyle": {
+      "description": "将你的图片转换为各种艺术风格",
+      "title": "图像重塑"
+    },
+    "merch": {
+      "description": "从你的角色生成可收藏的产品设计",
+      "title": "产品设计"
+    },
+    "movie": {
+      "description": "用电影风格重现人物肖像",
+      "title": "电影"
+    },
+    "cosplay": {
+      "description": "创建令人大为惊叹的角色扮演和服装设计",
+      "title": "角色扮演与服装"
+    },
+    "dance": {
+      "description": "创作AI舞蹈视频动作",
+      "title": "舞蹈"
+    },
+    "featured": {
+      "title": "精选推荐"
+    },
+    "art": {
+      "title": "艺术",
+      "description": "将头像转换为专业的角色设计"
+    },
+    "videoRestyle": {
+      "title": "视频重塑",
+      "description": "将视频素材转化为风格化的动画"
+    },
+    "game": {
+      "title": "游戏",
+      "description": "制作游戏风格的视频和场景"
+    },
+    "effects": {
+      "title": "视频特效",
+      "description": "应用动态视频特效和动画"
+    },
+    "characterExpression": {
+      "title": "角色表情",
+      "description": "动态改变角色表情"
+    },
+    "funEffects": {
+      "title": "趣味特效",
+      "description": "有趣娱乐的视频特效"
+    }
+  },
+  "types": {
+    "video": "视频",
+    "image": "图片",
+    "dance": "舞蹈"
+  },
+  "whatIs": {
+    "title": "什么是{{name}}生成器",
+    "defaultDescription": "AI {{name}}生成器是一款 AI 工具，可以生成{{name}} {{type}}效果。这是由 KomikoAI 团队设计的超过100种AI效果模板之一。只需上传角色图像，就能让 AI 展现出神奇的效果。"
+  },
+  "howToUse": {
+    "step1Title": "上传图片",
+    "step2Title": "选择特效",
+    "step3Title": "生成",
+    "step4Title": "下载",
+    "title": "使用方法",
+    "step1": "在上方上传你的角色图片",
+    "step2": "{{name}}特效已为你选中",
+    "step3": "点击\"生成动画\"，等待结果",
+    "step4": "下载或分享你的创作"
+  },
+  "breadcrumb": {
+    "effects": "特效"
+  },
+  "buttons": {
+    "useTemplate": "使用模板",
+    "preview": "预览",
+    "close": "关闭",
+    "seeAll": "查看全部"
+  },
+  "empty": "未找到任何特效。",
+  "notFound": {
+    "title": "特效未找到",
+    "description": "无法找到特效 \"{{name}}\"。它可能已被移除或链接有误。",
+    "browseAll": "浏览全部特效"
+  },
+  "moreTools": {
+    "title": "更多AI特效",
+    "description": "探索我们完整的AI特效与模板集合。",
+    "browseAll": "浏览全部特效"
+  },
+  "changeModal": {
+    "title": "切换特效"
+  },
+  "communityExamples": {
+    "title": "{{name}}特效示例",
+    "description": "由KomikoAI社区创建的使用{{name}}特效的所有作品。",
+    "noExamples": "目前还没有社区示例。"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "logo_alt": "komiko logo",
+  "login_button": "Login",
+  "join_discord": "Join Discord",
+  "modal": {
+    "create_account_or_signin": "Create an account or sign in",
+    "sign_in": "Sign In",
+    "trouble_signing_in": "Trouble signing in?"
+  },
+  "new_user_promotion": {
+    "title": "NEW USER EXCLUSIVE | 40% OFF Annual Plan! Ends in <time>{{deadline}}</time>",
+    "mobile_title": "40% OFF Annual Plan! Ends in <time>{{deadline}}</time>",
+    "mobile_days_title": "40% OFF Annual Plan! Ends in <time>{{days}} Day(s)</time>",
+    "days_title": "NEW USER EXCLUSIVE | 40% OFF Annual Plan! Ends in <time>{{days}} Day(s)</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "WEEKEND FLASH SALE: 30% OFF Annual Plan! Ends in <time>{{deadline}}</time>",
+    "mobile_title": "30% OFF Annual Plan! Ends in <time>{{deadline}}</time>",
+    "mobile_days_title": "30% OFF Annual Plan! Ends in <time>{{days}} Day(s)</time>",
+    "days_title": "WEEKEND FLASH SALE: 30% OFF Annual Plan! Ends in <time>{{days}} Day(s)</time>"
+  },
+  "promotion_offer": "LIMITED OFFER | Save 50% on Annual Plan! Discount expires in <time>{{deadline}}</time>",
+  "promotion_offer_mobile": "Save 50%! Discount expires in  <time>{{deadline}}</time>",
+  "promotion_offer_mobile_days": "Save 50%! Discount expires in <time>{{days}} Day(s)</time>",
+  "promotion_offer_days": "LIMITED OFFER | Save 50% on Annual Plan!  Discount expires in <time>{{days}} Day(s)</time>"
+}

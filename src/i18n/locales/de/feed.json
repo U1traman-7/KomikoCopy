@@ -1,0 +1,73 @@
+{
+  "tags": {
+    "trending": "Angesagt",
+    "newest": "Neueste",
+    "most_likes": "Am beliebtesten",
+    "following": "Folgen",
+    "ranking": "Rangliste",
+    "leaderboard": "Rangliste"
+  },
+  "loadMore": "Mehr laden",
+  "noMorePosts": "Keine weiteren Beiträge zum Laden",
+  "tryAgain": "Noch einmal versuchen",
+  "noPostsFound": "Keine Beiträge gefunden",
+  "actions": {
+    "loadMore": "Mehr laden",
+    "tryAgain": "Erneut versuchen",
+    "refresh": "Aktualisieren",
+    "retry": "Wiederholen",
+    "linkCopied": "Link zum Teilen kopiert!"
+  },
+  "states": {
+    "noMorePosts": "Keine weiteren Beiträge zu laden",
+    "noPostsFound": "Keine Beiträge gefunden"
+  },
+  "errors": {
+    "noResponse": "Daten konnten nicht abgerufen werden: Keine Antwort",
+    "unknownError": "Unbekannter Fehler",
+    "serverError": "Serverfehler {{status}}: {{statusText}}",
+    "loadFailed": "Feed konnte nicht geladen werden",
+    "timeout": "Zeitüberschreitung bei der Anfrage. Bitte versuchen Sie es erneut.",
+    "serverSlow": "Die Serverantwort ist langsam, bitte versuchen Sie es später noch einmal. Wenn das Problem weiterhin besteht, aktualisieren Sie bitte die Seite."
+  },
+  "labels": {
+    "sortBy": "Sortieren nach:",
+    "filterBy": "Filtern nach:"
+  },
+  "noRelatedPostDesc": "Sei der Erste, der Inhalte zu diesem Thema erstellt!",
+  "ranking": {
+    "postRanking": "Werke",
+    "creatorRanking": "Ersteller",
+    "characterRanking": "Charaktere",
+    "daily": "Täglich",
+    "weekly": "Wöchentlich",
+    "monthly": "Monatlich",
+    "loading": "Laden...",
+    "noData": "Keine Daten verfügbar",
+    "noPreview": "Keine Vorschau",
+    "fans": "Fans",
+    "posts": "Beiträge",
+    "follow": "Folgen",
+    "following": "Folgend",
+    "followSuccess": "Erfolgreich gefolgt",
+    "followFailed": "Folgen fehlgeschlagen",
+    "weeklyRules": "Wöchentliche Ranking-Regeln",
+    "weeklyRulesContent": "Die Rangliste basiert auf der Gesamtanzahl der „Likes“ der letzten Woche. Die Rangliste wird jeden Montag um 12:00 Uhr PST abgeschlossen, und Belohnungen wie Abzeichen und Zaps werden um 5:00 Uhr verteilt.\n1. Platz: 500 Zaps | 2. Platz: 300 Zaps | 3. Platz: 100 Zaps\nTeilnahmeberechtigt sowohl für wöchentliche als auch monatliche Belohnungen.",
+    "monthlyRules": "Monatliche Ranking-Regeln",
+    "monthlyRulesContent": "Die Rangliste basiert auf der Gesamtanzahl der „Likes“ des vorherigen Monats. Die Rangliste wird am 1. jedes Monats um 12:00 Uhr PST abgeschlossen, und Belohnungen wie Abzeichen und Zaps werden um 5:00 Uhr verteilt.\n1. Platz: 1.000 Zaps | 2. Platz: 800 Zaps | 3. Platz: 500 Zaps\nTeilnahmeberechtigt sowohl für wöchentliche als auch monatliche Belohnungen."
+  },
+  "tagOrder": {
+    "title": "Tags bearbeiten",
+    "description": "Ziehen Sie Tags per Drag & Drop, um die Reihenfolge Ihrer gefolgten Tags zu ändern",
+    "position": "Position {{position}}",
+    "noFollowedTags": "Noch keine gefolgten Tags. Folgen Sie einigen Tags, um deren Reihenfolge anzupassen!",
+    "saved": "Tag-Reihenfolge wurde erfolgreich gespeichert",
+    "subscribedTags": "Tags, denen Sie folgen",
+    "dragToReorder": "(zum Neusortieren ziehen)",
+    "presetTags": "Vorgeschlagene Tags",
+    "otherTags": "Weitere Tags",
+    "noTags": "Keine Tags verfügbar",
+    "saveFailed": "Änderungen konnten nicht gespeichert werden"
+  },
+  "search_tags_placeholder": "Nach beliebten Tags suchen..."
+}

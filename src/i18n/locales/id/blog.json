@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Blog KomikoAI | Bikin Komik, Manhwa, Manga & Anime dengan AI",
+    "description": "Buat komik, webtoon, dan cerita visual dengan AI. Rancang karakter orisinal dan jelajahi dunia cerita tanpa batas.",
+    "blog_post": "Artikel Blog",
+    "keywords": {
+      "general": "komik AI, manga, anime, pembuatan karakter, webtoon, seni AI, pembuat komik, pembuat manga",
+      "base_tags": [
+        "AI",
+        "komik",
+        "manga",
+        "anime",
+        "pembuatan karakter",
+        "webtoon"
+      ]
+    }
+  },
+  "navigation": {
+    "see_all_posts": "Lihat Semua Artikel"
+  },
+  "article": {
+    "published_on": "Terbit pada",
+    "min_read": "menit waktu baca",
+    "view_article": "Baca Artikel"
+  },
+  "sections": {
+    "latest_post": "Artikel Terbaru",
+    "all_posts": "Semua Artikel"
+  }
+}

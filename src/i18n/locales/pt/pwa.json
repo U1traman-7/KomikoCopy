@@ -1,0 +1,17 @@
+{
+  "install": {
+    "title": "Instalar KomikoAI",
+    "description": "Adicionar à tela inicial para uma melhor experiência",
+    "instruction": "Toque em Compartilhar e depois Adicionar à Tela Inicial",
+    "install_button": "Instalar",
+    "android_instruction": "Toque no botão de instalar acima",
+    "dismiss": "Mais tarde",
+    "step1": "Toque no botão de Compartilhar",
+    "step2": "Escolha \"Adicionar à Tela de Início\"",
+    "ios_note": "Você pode acessar o KomikoAI mais rapidamente pela tela inicial!",
+    "got_it": "Entendido!",
+    "android_step1": "Toque no menu do navegador (⋮)",
+    "android_step2": "Escolha a opção \"Adicionar à tela inicial\"",
+    "android_note": "Acesse o KomikoAI de forma mais rápida a partir da tela inicial!"
+  }
+}

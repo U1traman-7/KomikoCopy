@@ -1,0 +1,21 @@
+{
+  "title": "Buscar",
+  "placeholder": "Buscar obras, personajes, usuarios...",
+  "input_placeholder": "Buscar",
+  "history": "Historial de búsqueda",
+  "clear": "Borrar historial",
+  "tags": "Etiquetas",
+  "no_results": "Sin resultados encontrados",
+  "filter": {
+    "all": "Todo",
+    "users": "Usuarios",
+    "characters": "Personajes",
+    "templates": "Plantillas",
+    "posts": "Publicaciones",
+    "tags": "Etiquetas"
+  },
+  "see_all": "Ver todo",
+  "followers": "Seguidores",
+  "follow": "Seguir",
+  "following": "Siguiendo"
+}

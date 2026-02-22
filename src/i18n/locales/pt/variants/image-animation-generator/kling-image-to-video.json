@@ -1,0 +1,143 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Kling Image to Video - Gerador de Animação de Vídeo com IA",
+      "description": "Transforme imagens estáticas em vídeos dinâmicos com Kling Image to Video, uma ferramenta de animação com tecnologia de IA projetada para criadores. Dê vida às suas ilustrações, histórias em quadrinhos e fotografias utilizando tecnologia de IA avançada.",
+      "fullDescription": "Kling Image to Video é uma ferramenta avançada de animação com IA que converte imagens estáticas em vídeos envolventes, simulando movimentos naturais e efeitos cinematográficos. Ideal para ilustradores, criadores de conteúdo e animadores, esta ferramenta utiliza algoritmos de IA de ponta para gerar conteúdo de vídeo de alta qualidade, de forma simples, a partir de elementos visuais estáticos.",
+      "keywords": "Kling Image to Video, gerador de vídeo com IA, animação de imagem para vídeo, ferramenta de animação com IA, criação de vídeo a partir de imagens, animação de imagem dinâmica"
+    },
+    "hero": {
+      "title": "Kling Image to Video",
+      "description": "Dê vida às suas imagens estáticas, transformando-as em vídeos dinâmicos com a tecnologia de imagem para vídeo com IA da Kling."
+    },
+    "whatIs": {
+      "title": "O que é Kling Image to Video?",
+      "description": "Kling Image to Video é uma ferramenta de IA de ponta que transforma imagens estáticas em vídeos dinâmicos e de alta qualidade, adicionando movimentos e animações realistas. Utiliza aprendizado profundo para compreender o conteúdo da imagem, permitindo movimentos naturais como água corrente, árvores balançando ou ações de personagens, preservando os detalhes da imagem. Os usuários simplesmente carregam uma imagem, inserem *prompts* de animação e geram vídeos fluidos que duram, normalmente, de 5 a 10 segundos. A IA da Kling oferece suporte a personalização detalhada, como estilos de movimento, efeitos e proporções, tornando-a ideal para profissionais de marketing, criadores de conteúdo e contadores de histórias que buscam conteúdo de vídeo profissional e rápido a partir de imagens estáticas."
+    },
+    "examples": {
+      "title": "Exemplos de Imagem para Vídeo",
+      "description": "Explore exemplos de vídeos animados que demonstram o tipo de conteúdo que você pode criar usando Kling Image to Video, mostrando como transformar ilustrações, retratos e gráficos simples em vídeos animados visualmente atraentes, aprimorando a narrativa e o engajamento."
+    },
+    "howToUse": {
+      "title": "Como Usar Kling Image to Video",
+      "steps": [
+        {
+          "title": "Carregue a Sua Imagem Estática",
+          "content": "Comece carregando a imagem que pretende animar, como obras de arte, histórias em quadrinhos ou fotografias."
+        },
+        {
+          "title": "Escreva o *Prompt* de Animação",
+          "content": "Descreva o tipo de movimento, expressões ou efeitos que deseja que a IA gere no vídeo, utilizando um *prompt* de texto."
+        },
+        {
+          "title": "Gere o Vídeo",
+          "content": "Clique no botão 'Gerar Animação' para permitir que a IA da Kling processe a sua imagem e crie uma animação dinâmica e de alta qualidade."
+        },
+        {
+          "title": "Descarregue e Partilhe a Sua Criação",
+          "content": "Após o seu vídeo estar pronto, descarregue-o e partilhe-o nas redes sociais, apresentações ou projetos criativos."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Por que Escolher Kling Image to Video?",
+      "description": "Descubra as principais vantagens de usar Kling Image to Video para animar os seus elementos visuais estáticos de forma rápida e eficaz.",
+      "features": [
+        {
+          "title": "Criação de Animação com Tecnologia de IA",
+          "content": "A IA de ponta traduz imagens estáticas em vídeos fluidos e cativantes, aprimorando o seu conteúdo criativo sem esforço.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Movimento e Efeitos Personalizáveis",
+          "content": "Controle o estilo de animação, a duração e os efeitos visuais para adaptar os vídeos às suas necessidades criativas específicas.",
+          "icon": "⚙️"
+        },
+        {
+          "title": "Nenhuma Habilidade Técnica ou de Animação Necessária",
+          "content": "A interface amigável torna a animação de imagens acessível a todos os criadores, independentemente da experiência.",
+          "icon": "👌"
+        },
+        {
+          "title": "Geração Rápida de Vídeo",
+          "content": "Transforme imagens estáticas em vídeos envolventes em segundos, economizando tempo em comparação com as técnicas de animação manual.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Aplicações de Conteúdo Versátil",
+          "content": "Ideal para animadores, artistas de histórias em quadrinhos, profissionais de marketing e criadores de mídias sociais para adicionar movimento a obras de arte, fotografias e visuais de marca.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Saída de Vídeo de Qualidade Profissional",
+          "content": "Produza vídeos polidos de alta resolução adequados para uso comercial e diversas plataformas digitais.",
+          "icon": "✨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Kling Image to Video - Perguntas Frequentes",
+      "description": "Respostas a perguntas comuns sobre o uso da IA da Kling para converter imagens em vídeos animados.",
+      "q1": "O que é Kling Image to Video?",
+      "a1": "É uma ferramenta baseada em IA que transforma imagens estáticas em vídeos dinâmicos, gerando animações fluidas e efeitos cinematográficos utilizando aprendizado de máquina.",
+      "q2": "Como funciona o Kling Image to Video?",
+      "a2": "Kling analisa a sua imagem carregada e preferências de animação, então cria quadros de vídeo que imitam o movimento natural e a narrativa visual a partir de uma imagem estática.",
+      "q3": "Quais tipos de imagem são suportados?",
+      "a3": "Pode utilizar ilustrações, histórias em quadrinhos, fotografias ou gráficos para criar vídeos animados com Kling.",
+      "q4": "Preciso de habilidades de animação prévias para usar Kling?",
+      "a4": "Não, a ferramenta foi projetada com uma interface intuitiva que permite que qualquer pessoa gere vídeos sem experiência em animação.",
+      "q5": "Posso usar os vídeos comercialmente?",
+      "a5": "Sim, os vídeos criados com Kling Image to Video são adequados para projetos pessoais e comerciais, seguindo os termos de uso da ferramenta.",
+      "q6": "Quão personalizáveis são as animações?",
+      "a6": "Os usuários podem personalizar o estilo de movimento, a duração e os efeitos visuais por meio de *prompts* ou configurações para adaptar as animações aos seus projetos."
+    }
+  },
+  "originalKeyword": "Kling Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Kling",
+      "description": "Prompt: A girl is talking to herself peacefully",
+      "videoUrl": "/images/examples/image-animation-generator/output5.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said “cute” using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Midjourney",
+      "description": "Prompt: Ethereal girl with flowing white hair walking gracefully through shallow water, sunlight creating dancing ripples, floating white lilies, gentle water movement with each step, serene forest pond, soft golden lighting",
+      "videoUrl": "/images/pages/midjourney/example6.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A cat turns into a tiger",
+      "videoUrl": "/images/pages/vidu/cat.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 6,
+      "title": "Model: AniSora",
+      "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+      "videoUrl": "/images/pages/anisora/example3.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "KLING_V2"
+}

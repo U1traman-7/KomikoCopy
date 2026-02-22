@@ -1,0 +1,17 @@
+{
+  "install": {
+    "title": "KomikoAI をインストール",
+    "description": "より良い体験のためにホーム画面に追加してください",
+    "instruction": "共有をタップしてホーム画面に追加を選択",
+    "install_button": "インストール",
+    "android_instruction": "上の「インストール」ボタンをタップしてください",
+    "dismiss": "後で",
+    "step1": "共有ボタンをタップします",
+    "step2": "「ホーム画面に追加」を選択します",
+    "ios_note": "ホーム画面からKomikoAIにすぐにアクセスできます！",
+    "got_it": "わかりました！",
+    "android_step1": "ブラウザのメニュー (⋮) をタップしてください。",
+    "android_step2": "「ホーム画面に追加」を選択してください。",
+    "android_note": "ホーム画面からより速くKomikoAIにアクセスできます！"
+  }
+}

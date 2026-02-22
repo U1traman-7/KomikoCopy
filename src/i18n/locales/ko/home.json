@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "KomikoAI - AI 애니메이션 생성기 & OC 메이커",
+    "og_title": "KomikoAI - AI 애니메이션 생성기 & OC 메이커",
+    "twitter_title": "KomikoAI - AI 애니메이션 생성기 & OC 메이커",
+    "description": "KomikoAI로 원작 캐릭터, 애니메이션 및 만화를 만들어 보세요. 팬덤을 위한 100개 이상의 AI 도구 및 창작 템플릿을 탐색해 보세요.",
+    "keywords": "Komiko, KomikoAI, Komiko AI, Komiko 앱, komiko.ai, komiko.app, AI 애니메이션 생성기, OC 크리에이터, OC 생성기, 애니메이션 AI, AI 아트 생성기, AI 만화 생성기, AI 애니메이션 생성기, AI 비디오 효과, 애니메이션 캐릭터 생성기"
+  },
+  "hero": {
+    "title": "어떤 작품을 만들고 싶으세요?",
+    "community": "커뮤니티 창작"
+  },
+  "tabs": {
+    "for_you": "추천 작품",
+    "comic": "만화",
+    "illustration": "일러스트",
+    "animation": "애니메이션",
+    "all": "전체"
+  },
+  "sections": {
+    "for_you": "회원님을 위한 추천"
+  },
+  "create_section": {
+    "ai_art": "AI 아트",
+    "storytelling": "스토리텔링",
+    "create": "당신의 이야기를 만들어 보세요"
+  },
+  "carousel": {
+    "slide1_title": "AniGen 대회",
+    "slide1_desc": "$3,000 이상의 상금과 프로 구독권을 받을 수 있는 짧은 AI 애니메이션을 제작하세요!",
+    "check_it_out": "확인해보세요",
+    "slide2_title": "비디오 투 비디오 AI",
+    "slide2_desc": "원본 움직임을 유지하며 모든 비디오를 애니메이션, 만화, 만화영화 및 만화 스타일로 변환합니다.",
+    "check_it_out2": "지금 시도해 보세요"
+  },
+  "banner": {
+    "merch_title": "당신의 캐릭터를 상품으로 제작하세요",
+    "merch_description": "애니메이션 캐릭터로 봉제인형, 배지, 스탠드 등을 만들어보세요.",
+    "try_now": "지금 시도해보세요"
+  },
+  "activity_posts": {
+    "video_to_video": {
+      "title": "비디오에서 비디오로 AI",
+      "description": "AI 기술을 활용하여 동영상을 다른 스타일로 변환하세요. 비디오를 애니메이션, 만화, 만화책, 또는 만화 스타일로 바꿔보세요.",
+      "button": "지금 시도해보세요"
+    },
+    "character_merch": {
+      "title": "캐릭터 상품화",
+      "description": "좋아하는 캐릭터로 배지, 바디 필로우, 봉제 인형, 스탠디 등 다양한 상품을 만들어 보세요.",
+      "button": "지금 시도해보세요"
+    },
+    "ambassador": {
+      "title": "KomikoAI 대사로 참여하여 수익 창출하기💰",
+      "description": "KomikoAI 대사가 되어 추천을 통해 수익을 공유하세요. 오늘 바로 우리의 제휴 프로그램에 가입해 보세요!",
+      "button": "지금 가입"
+    },
+    "promoted": "프로모션",
+    "anishort": {
+      "title": "짧은 애니메이션을 발견하거나 직접 시리즈를 발행해 보세요!",
+      "button": "탐색 시작"
+    },
+    "ad": "광고",
+    "new-playground": {
+      "title": "✨ 100가지 이상의 재미있는 템플릿을 둘러보세요",
+      "description": "바이럴 템플릿으로 사진과 캐릭터를 변신시켜 보세요 — 치비 이모티콘과 캐릭터 시트, 현실적인 상품, Bankai 효과 등 다양하게 즐길 수 있습니다!",
+      "button": "지금 시도해보기"
+    },
+    "sora-2": {
+      "title": "Sora 2 이제 KomikoAI에서! #SoraAnimeChallenge에 참여하고 $1000 상금 풀에서 우승해 보세요!",
+      "button": "지금 참여하기"
+    }
+  },
+  "ai_apps_banner": {
+    "eyebrow": "AI 앱 허브",
+    "title": "당신의 도구가 이제 AI 앱 페이지에 있습니다",
+    "description": "선호하는 도구를 즐겨찾기에 추가하고 일러스트레이션, 애니메이션, 만화를 위한 AI 앱의 전체 카탈로그를 탐색하세요.",
+    "cta": "AI 앱 열기"
+  },
+  "generateArt": "아트 생성",
+  "generateTagArt": "{{tag}} 아트 생성"
+}

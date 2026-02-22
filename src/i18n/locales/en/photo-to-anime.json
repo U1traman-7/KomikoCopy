@@ -1,0 +1,157 @@
+{
+  "ui": {
+    "styleModes": {
+      "templates": "Templates",
+      "prompt": "Prompt",
+      "expression": "Expressions"
+    },
+    "prompt": {
+      "placeholder": "Describe your desired style transformation...",
+      "example": "Example: \"Replace the man with Naruto\", \"Turn this into a classic 90s anime style\", \"Dress the girl in a floral dress\""
+    },
+    "characterInfo": "Character Info",
+    "selectCharacter": "Select Character",
+    "selectCharacterPlaceholder": "Choose from your characters...",
+    "characterName": "Character Name",
+    "characterNamePlaceholder": "Enter character name...",
+    "occupation": "Occupation",
+    "occupationPlaceholder": "e.g., Uber Driver, Student, Detective...",
+    "language": "Language",
+    "characterInfoPlaceholder": "Enter character background, story, or description...",
+    "customInput": {
+      "hogwartsSorting": {
+        "q1": "Your OC stumbles upon a mysterious door in a dark forest. What do they do?",
+        "a1_1": "Kick it open. Whatever's inside better be ready.",
+        "a1_2": "Examine the lock first. There's always a way in without brute force.",
+        "a1_3": "Study the runes on the door. The answer is in the symbols.",
+        "a1_4": "Knock politely. You never know who might need help inside.",
+        "q2": "A powerful enemy appears! How does your character fight?",
+        "a2_1": "Head-on attack. Courage wins battles.",
+        "a2_2": "Strike their weakness. Victory requires strategy.",
+        "a2_3": "Analyze their pattern first. Knowledge is the ultimate weapon.",
+        "a2_4": "Protect allies first. No one fights alone.",
+        "q3": "Your OC enters a room with four magical items. Which calls to them?",
+        "a3_1": "A blazing sword that burns brighter when facing fear",
+        "a3_2": "An ancient crown that reveals others' true intentions",
+        "a3_3": "A book containing all the world's forgotten secrets.",
+        "a3_4": "A seed that can grow into anything the heart truly needs.",
+        "q4": "Your character overhears a dangerous secret. What do they do?",
+        "a4_1": "Expose it immediately. The truth must be known.",
+        "a4_2": "Keep it. Information is power for the right moment.",
+        "a4_3": "Investigate further. One piece isn't the whole puzzle.",
+        "a4_4": "Tell only those who need protection from it.",
+        "q5": "A magical being grants your OC one wish. What do they choose?",
+        "a5_1": "The strength to protect everyone I love.",
+        "a5_2": "The power to achieve my greatest ambitions.",
+        "a5_3": "The wisdom to understand all mysteries.",
+        "a5_4": "The ability to bring happiness to others."
+      }
+    },
+    "input": {
+      "image": {
+        "title": "Image"
+      }
+    }
+  },
+
+  "title": "Convert to Anime",
+  "infoTooltip": "Supports photos, 3D renders, screenshots & comic panels",
+  "styleSelection": {
+    "label": "Select Style"
+  },
+  "convertTitle": "Convert",
+  "button": {
+    "convert": "Convert",
+    "zaps": "-{{cost}}/{{credit}}",
+    "applyPrompt": "Apply Prompt"
+  },
+  "results": {
+    "title": "Conversion Results",
+    "empty": "Your anime conversions will appear here"
+  },
+  "deleteModal": {
+    "title": "Delete Confirmation",
+    "message": "Are you sure you want to delete this image? This action cannot be undone.",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "toast": {
+    "fetchFailed": "Fetch images failed",
+    "deleteSuccess": "Delete success",
+    "deleteFailed": "Delete failed",
+    "downloadFailed": "Download failed",
+    "purchaseZaps": "Please purchase more zaps",
+    "conversionDone": "Conversion done",
+    "conversionFailed": "Conversion failed",
+    "noZaps": "no zaps",
+    "generateFailed": "Generate Animation failed",
+    "mediaReceived": "Image received and loaded successfully"
+  },
+  "errors": {
+    "generateImageFailed": "Generate image failed",
+    "resourceExhausted": "Resource has been exhausted"
+  },
+  "styles": {
+    "anime": "Anime",
+    "ghibliAnime": "Ghibli Anime",
+    "koreanManhwa": "Korean Manhwa",
+    "cartoon": "Cartoon",
+    "manga": "Manga",
+    "inkWash": "Ink Wash Painting",
+    "chibi": "Chibi Stickers",
+    "spriteSheet": "Sprite Sheet",
+    "simpsons": "Simpsons",
+    "rickAndMorty": "Rick and Morty",
+    "southPark": "South Park",
+    "naruto": "Naruto",
+    "onePiece": "One Piece",
+    "myLittlePony": "My Little Pony",
+    "actionFigure": "Action Figure",
+    "figureInBox": "Figure Box",
+    "sticker": "Sticker",
+    "watercolor": "Watercolor",
+    "lineArt": "Line Art",
+    "origamiPaperArt": "Origami Paper Art",
+    "lego": "Lego",
+    "lowPoly": "Low Poly",
+    "clay": "Claymation",
+    "pixelArt": "Pixel Art",
+    "vaporwave": "Vaporwave",
+    "cyberpunk": "Cyberpunk",
+    "dollBox": "Figure Box 2",
+    "barbieDoll": "Barbie Doll",
+    "characterSheet": "Character Sheet",
+    "plushie": "Plushie",
+    "badge": "Badge",
+    "standee": "Standee",
+    "bodyPillow": "Body Pillow",
+    "cosplay": "Cosplay"
+  },
+  "styleDescriptions": {
+    "anime": "Classic Japanese animation style with vibrant colors and expressive features",
+    "ghibliAnime": "Whimsical and detailed animation style inspired by Studio Ghibli films",
+    "koreanManhwa": "Colorful webtoon style with flowing panels and detailed character designs",
+    "cartoon": "Simplified, exaggerated style with bold outlines and flat colors",
+    "manga": "Black and white Japanese comic style with distinctive panel layouts and expressive line work",
+    "inkWash": "Traditional East Asian painting style with flowing ink gradients",
+    "chibi": "Small, chibi character in different moods",
+    "simpsons": "The Simpsons style with bold outlines and flat colors",
+    "rickAndMorty": "Distinctive style from the popular adult animated sci-fi series",
+    "southPark": "Simple, cut-out paper style animation with basic shapes and bold colors",
+    "naruto": "Distinctive style from the popular anime series Naruto",
+    "onePiece": "Distinctive style from the popular anime series One Piece",
+    "myLittlePony": "Colorful and magical style inspired by the My Little Pony series, featuring vibrant characters and whimsical settings",
+    "actionFigure": "Stylized 3D toy-like appearance with glossy finish and articulated features",
+    "figureInBox": "Collectible figure style presented in packaging display box",
+    "sticker": "Flat, vibrant art style with bold outlines perfect for stickers and decals",
+    "watercolor": "Soft, translucent colors with gentle blending and artistic brush strokes",
+    "lineArt": "Clean, monochromatic outlines with minimal or no fill colors",
+    "origamiPaperArt": "Folded paper aesthetic with geometric shapes and clean edges",
+    "lego": "Blocky, plastic brick aesthetic with signature Lego minifigure styling",
+    "lowPoly": "Low-poly, blocky style with geometric shapes and clean edges",
+    "clay": "Textured, handcrafted appearance similar to claymation or sculpted figures",
+    "pixelArt": "Retro digital art style with visible pixels and limited color palettes",
+    "vaporwave": "Vaporwave style with pastel colors and retro aesthetics",
+    "cyberpunk": "Futuristic cyberpunk style with neon-lit environments and dark atmospheric mood"
+  }
+}

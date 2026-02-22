@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "title": "Tô Màu Hình Vẽ Bằng AI - KomikoAI",
+    "description": "Tô màu tự động cho hình vẽ đường nét đen trắng bằng AI. Tải lên bản phác thảo và để AI biến hóa."
+  },
+  "common": {
+    "new": "Mới",
+    "cancel": "Hủy",
+    "delete": "Xóa"
+  },
+  "hero": {
+    "title": "Tô Màu Hình Vẽ Bằng AI",
+    "description": "Tô màu tự động các bản phác thảo, hình vẽ hoặc trang truyện tranh bằng AI. Trải nghiệm tô màu tức thì, thêm màu sắc chỉ với một cú nhấp! Chuyển đổi bản phác thảo đen trắng với công cụ tô màu AI của Anitoon, có thể sử dụng ảnh tham khảo để định hướng phong cách. Hoàn hảo cho nghệ sĩ, nhà thiết kế và người đam mê truyện tranh muốn hiện thực hóa tác phẩm một cách dễ dàng."
+  },
+  "input": {
+    "title": "Đầu Vào",
+    "tooltip": "Tải lên hình vẽ để tô màu",
+    "lineArt": {
+      "label": "Hình Vẽ Đường Nét"
+    },
+    "referenceImage": {
+      "label": "Ảnh Tham Khảo (Tùy Chọn)",
+      "description": "Vui lòng tải lên phiên bản đầy đủ màu sắc của đối tượng để hỗ trợ AI tô màu cho bản vẽ của bạn."
+    },
+    "transparentBackground": "Nền Trong Suốt",
+    "prompt": {
+      "label": "Gợi Ý (Tùy Chọn)",
+      "placeholder": "Nhập gợi ý, ví dụ: 1boy, tóc đỏ, mắt xanh, nền trắng, v.v."
+    },
+    "model": {
+      "label": "Mô Hình AI",
+      "description": "Mô hình nâng cao đôi khi có thể không thành công do chính sách kiểm duyệt nội dung. Vui lòng thử lại với mô hình cơ bản nếu gặp sự cố.",
+      "placeholder": "Chọn mô hình",
+      "ariaLabel": "Chọn mô hình tô màu",
+      "options": {
+        "basic": "Cơ Bản",
+        "advanced": "Nâng Cao"
+      }
+    }
+  },
+  "output": {
+    "title": "Kết Quả Tô Màu",
+    "empty": {
+      "message": "Kết quả sẽ hiển thị ở đây",
+      "instruction": "Tải lên hình ảnh để bắt đầu"
+    }
+  },
+  "seo": {
+    "whatIs": {
+      "title": "Tô Màu Hình Vẽ là Gì?",
+      "description": "Tô màu hình vẽ là quá trình thêm màu sắc vào bản phác thảo hoặc hình vẽ. Đây là kỹ thuật phổ biến trong truyện tranh, cho phép nghệ sĩ thêm màu sắc sống động vào tác phẩm. Tô màu hình vẽ bằng AI là công cụ cho phép bạn tô màu ngay lập tức."
+    },
+    "howTo": {
+      "title": "Cách Tô Màu Hình Vẽ Bằng AI",
+      "description": "Tô màu tự động bản phác thảo, hình vẽ đen trắng hoặc trang truyện tranh bằng công cụ AI của KomikoAI chỉ trong vài bước."
+    },
+    "steps": {
+      "step1": {
+        "title": "Bước 1: Tải Lên Hình Vẽ",
+        "content": "Tải lên hình vẽ hoặc bản phác thảo đen trắng lên công cụ AI. Hỗ trợ JPG và PNG."
+      },
+      "step2": {
+        "title": "Bước 2: Thêm Ảnh Tham Khảo (Tùy Chọn)",
+        "content": "Tải lên ảnh tham khảo để hướng dẫn lựa chọn màu sắc và phong cách. Giúp đạt được kết quả chính xác hơn."
+      },
+      "step3": {
+        "title": "Bước 3: Nhập Gợi Ý (Tùy Chọn)",
+        "content": "Nhập gợi ý để mô tả màu sắc mong muốn. Ví dụ: 'tóc đỏ, mắt xanh'."
+      },
+      "step4": {
+        "title": "Bước 4: Tô Màu và Chia Sẻ",
+        "content": "Nhấp vào 'Tô Màu' và đợi AI thực hiện. Tải xuống và chia sẻ tác phẩm!"
+      }
+    }
+  },
+  "examples": {
+    "title": "Ví Dụ Tô Màu Bằng AI",
+    "description": "Xem kết quả tô màu AI do người dùng Anitoon tạo",
+    "inputLabel": "Hình Vẽ Đầu Vào",
+    "outputLabel": "Kết Quả Tô Màu",
+    "referenceLabel": "Ảnh Tham Khảo",
+    "example1": {
+      "inputAlt": "Hình vẽ đầu vào",
+      "outputAlt": "Hình ảnh đã tô màu",
+      "prompt": "Gợi ý: \"cô gái anime dễ thương mặc váy hầu gái đen trắng, nền trắng\""
+    },
+    "example2": {
+      "inputAlt": "Hình vẽ đầu vào",
+      "outputAlt": "Hình ảnh đã tô màu",
+      "prompt": "Gợi ý: \"1girl, tóc vàng, áo sơ mi trắng, khung truyện tranh\""
+    },
+    "example3": {
+      "inputAlt": "Hình vẽ đầu vào",
+      "referenceAlt": "Hình ảnh tham khảo",
+      "outputAlt": "Hình ảnh đã tô màu",
+      "prompt": "Gợi ý: \"Klee (Genshin Impact)\""
+    }
+  },
+  "whyUse": {
+    "title": "Tại Sao Nên Tô Màu Bằng AI?",
+    "description": "Công cụ tô màu AI của Anitoon đơn giản hóa việc tô màu cho mọi người, từ người mới bắt đầu đến họa sĩ chuyên nghiệp.",
+    "features": {
+      "referenceGuided": {
+        "title": "Tô Màu Dựa Trên Tham Khảo",
+        "content": "Tải ảnh tham khảo để hướng dẫn lựa chọn màu sắc và phong cách, đảm bảo tác phẩm phù hợp với tầm nhìn của bạn."
+      },
+      "specifyColors": {
+        "title": "Xác Định Màu Sắc",
+        "content": "Xác định màu sắc mong muốn bằng gợi ý như 'tóc đỏ, mắt xanh' hoặc ảnh tham khảo để kiểm soát chính xác hơn."
+      },
+      "customArtStyles": {
+        "title": "Phong Cách Nghệ Thuật Tùy Chỉnh",
+        "content": "Xác định phong cách mong muốn bằng gợi ý như 'truyện tranh', 'anime', 'manga', 'manhwa' hoặc tên nghệ sĩ."
+      },
+      "effortlessFilling": {
+        "title": "Điền Màu Dễ Dàng",
+        "content": "Tiết kiệm thời gian và công sức bằng cách để AI xử lý. AI sẽ tự động điền màu cho hình vẽ. Không cần tự điền từng chi tiết."
+      },
+      "smartColorization": {
+        "title": "Tô Màu Thông Minh",
+        "content": "Bằng cách hiểu sắc thái trong phong cách nghệ thuật, AI phân tích bố cục, cấu trúc và tính thẩm mỹ tổng thể. AI áp dụng màu sắc phù hợp và nâng cao hình minh họa."
+      },
+      "highQualityOutputs": {
+        "title": "Đầu Ra Chất Lượng Cao",
+        "content": "Tải xuống truyện tranh chất lượng chuyên nghiệp, hoàn hảo để chia sẻ hoặc in ấn."
+      },
+      "streamlinedWorkflow": {
+        "title": "Quy Trình Làm Việc Hợp Lý",
+        "content": "Việc tô màu bằng AI tích hợp liền mạch vào quy trình minh họa, truyện tranh, manhwa hoặc manga. Anitoon giải phóng bạn khỏi việc điền màu, để bạn tập trung vào sáng tạo."
+      },
+      "mangaPanelConsistency": {
+        "title": "Tính Nhất Quán Của Bảng Truyện Tranh",
+        "content": "Duy trì màu sắc nhất quán trên nhiều bảng và trang truyện tranh. Hoàn hảo cho nghệ sĩ manga và người sáng tạo truyện tranh."
+      },
+      "instantEnhancement": {
+        "title": "Cải Thiện Hình Vẽ Tức Thì",
+        "content": "Chuyển đổi bản phác thảo đen trắng thành hình minh họa sống động ngay lập tức. Cho dù bạn đang làm việc trên manga, truyện tranh hay hình vẽ, công cụ của chúng tôi sẽ mang tác phẩm vào cuộc sống đồng thời bảo tồn chất lượng ban đầu."
+      }
+    }
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp",
+    "description": "Tìm câu trả lời cho câu hỏi thường gặp về tô màu bằng AI.",
+    "what_is": {
+      "question": "Tô màu hình vẽ bằng AI là gì?",
+      "answer": "Tô màu hình vẽ bằng AI là quy trình sử dụng trí tuệ nhân tạo để tự động tô màu hình vẽ đen trắng. Công cụ của KomikoAI biến bản phác thảo, manga hoặc bất kỳ hình vẽ nào thành hình ảnh đầy màu sắc, tiết kiệm thời gian cho nghệ sĩ."
+    },
+    "how_to_color": {
+      "question": "Làm thế nào để tô màu hình vẽ đen trắng bằng AI?",
+      "answer": {
+        "intro": "Bạn có thể tô màu bằng KomikoAI AI trong bốn bước dễ dàng:",
+        "step1": "Tải lên hình vẽ lên công cụ AI",
+        "step2": "Nhập gợi ý để mô tả màu sắc mong muốn",
+        "step3": "Nhấp vào nút 'Tô Màu' để bắt đầu",
+        "step4": "Tải xuống hình ảnh đã tô màu và chia sẻ!"
+      }
+    },
+    "can_i_use_ai": {
+      "question": "Tôi có thể dùng AI để tô màu và đổ bóng không?",
+      "answer": "Có, bạn có thể. Công cụ của KomikoAI có thể tô màu hình vẽ đen trắng với màu sắc và bóng râm sống động. Bạn có thể tải lên hình vẽ và nhập gợi ý mô tả màu sắc. AI sẽ diễn giải ý định nghệ thuật của bạn."
+    },
+    "how_does_it_work": {
+      "question": "Tô màu bằng AI hoạt động như thế nào?",
+      "answer": "Tô màu bằng AI sử dụng mô hình AI được đào tạo trên hàng triệu hình ảnh để nhận dạng mẫu trong hình vẽ và áp dụng màu sắc nghệ thuật. Bạn tải lên bản phác thảo, thêm gợi ý màu sắc, và AI sẽ diễn giải ý định của bạn."
+    },
+    "benefits": {
+      "question": "Lợi ích của việc tô màu bằng AI là gì?",
+      "answer": {
+        "intro": "Có nhiều lợi ích khác nhau:",
+        "benefit1": "Tiết kiệm thời gian so với tô màu thủ công.",
+        "benefit2": "Tạo ra kết quả chất lượng cao, chuyên nghiệp.",
+        "benefit3": "Dễ dàng sử dụng cho người không phải nghệ sĩ.",
+        "benefit4": "Có thể tùy chỉnh với gợi ý để phù hợp với tầm nhìn."
+      }
+    },
+    "commercial_use": {
+      "question": "Tôi có thể sử dụng hình ảnh đã tô màu cho mục đích thương mại không?",
+      "answer": "Có, bạn có thể sử dụng hình ảnh do AI tạo ra cho mục đích cá nhân và thương mại. Tuy nhiên, hãy tuân thủ các điều khoản dịch vụ của KomikoAI."
+    },
+    "formats": {
+      "question": "Các định dạng và kích thước nào được hỗ trợ?",
+      "answer": "AI hỗ trợ JPG và PNG. Hình ảnh đầu ra sẽ có kích thước ban đầu."
+    },
+    "is_free": {
+      "question": "Công cụ này có miễn phí không?",
+      "answer": "KomikoAI cung cấp zaps (tín dụng) miễn phí để bạn dùng thử. Bạn có thể mua gói trả phí để có thêm zaps và các tính năng nâng cao."
+    },
+    "prompts": {
+      "question": "Tôi nên sử dụng gợi ý nào để có kết quả tốt nhất?",
+      "answer": "Sử dụng gợi ý rõ ràng và mô tả như \"tóc đỏ, mắt xanh, trang phục hiện đại.\" Tránh các thuật ngữ mơ hồ."
+    },
+    "limitations": {
+      "question": "Những hạn chế của việc tô màu bằng AI là gì?",
+      "answer": {
+        "intro": "Mặc dù là một công cụ mạnh mẽ, nhưng nó có một số hạn chế:",
+        "limitation1": "Phong Cách Nghệ Thuật: AI có thể không phải lúc nào cũng phù hợp với phong cách mong muốn.",
+        "limitation2": "Chi Tiết Phức Tạp: Hình vẽ phức tạp có thể tạo ra kết quả không mong muốn.",
+        "limitation3": "Tùy Chỉnh: Màu sắc được tạo ra dựa trên gợi ý, và gợi ý mơ hồ có thể không thỏa mãn.",
+        "conclusion": "Bất chấp những hạn chế, việc tô màu bằng AI có thể tăng tốc quy trình làm việc và nâng cao khả năng sáng tạo."
+      }
+    },
+    "need_to_draw": {
+      "question": "Tôi có cần biết vẽ để sử dụng công cụ này không?",
+      "answer": {
+        "intro": "Không, bạn không cần biết vẽ.",
+        "for_artists": "Đối với nghệ sĩ: Nếu bạn tạo bản phác thảo, công cụ này có thể mang chúng vào cuộc sống.",
+        "for_non_artists": "Đối với người không phải nghệ sĩ: Bạn có thể bắt đầu với hình vẽ có sẵn và để AI xử lý.",
+        "conclusion": "Công cụ này được thiết kế để thân thiện với người dùng, cho dù bạn là nghệ sĩ hay người mới bắt đầu."
+      }
+    },
+    "types_of_line_art": {
+      "question": "Tôi có thể tô màu những loại hình vẽ nào?",
+      "answer": {
+        "intro": "Công cụ hoạt động với nhiều loại hình vẽ:",
+        "type1": "Bản phác thảo và bản vẽ",
+        "type2": "Trang manga và truyện tranh",
+        "type3": "Thiết kế nhân vật",
+        "type4": "Hình minh họa",
+        "type5": "Thiết kế sản phẩm",
+        "type6": "Bản vẽ kiến trúc",
+        "conclusion": "Để có kết quả tốt nhất, hãy đảm bảo hình vẽ có đường nét rõ ràng và độ tương phản tốt."
+      }
+    },
+    "best_results": {
+      "question": "Làm thế nào tôi có thể có được kết quả tốt nhất?",
+      "answer": {
+        "intro": "Hãy làm theo các mẹo sau:",
+        "tip1": "Sử dụng hình vẽ sạch sẽ, có độ tương phản cao",
+        "tip2": "Viết gợi ý rõ ràng, cụ thể mô tả màu sắc và phong cách",
+        "tip3": "Thử nghiệm với các gợi ý khác nhau",
+        "tip4": "Xem xét bố cục tổng thể khi mô tả màu sắc",
+        "tip5": "Sử dụng ảnh tham khảo để hướng dẫn lựa chọn màu sắc"
+      }
+    },
+    "comparison": {
+      "question": "So sánh việc tô màu bằng AI với tô màu thủ công như thế nào?",
+      "answer": "Việc tô màu bằng AI giúp tiết kiệm thời gian, giảm hàng giờ làm việc xuống còn vài phút. Mặc dù nó có thể không thay thế hoàn toàn tô màu truyền thống, nhưng nó là công cụ tuyệt vời để tạo mẫu nhanh, trực quan hóa ý tưởng và tạo nhiều biến thể màu sắc. AI hiểu lý thuyết màu sắc và có thể đề xuất các kết hợp hài hòa."
+    },
+    "edit_results": {
+      "question": "Tôi có thể chỉnh sửa kết quả không?",
+      "answer": "Có, bạn có thể chỉnh sửa và tinh chỉnh thêm bằng phần mềm nghệ thuật kỹ thuật số. Kết quả do AI tạo ra là cơ sở tuyệt vời để bạn nâng cao."
+    },
+    "creative_uses": {
+      "question": "Một số cách sáng tạo để sử dụng AI là gì?",
+      "answer": {
+        "intro": "Tô màu bằng AI có thể được sử dụng cho:",
+        "use1": "Tạo mẫu nhanh thiết kế nhân vật",
+        "use2": "Tạo nhiều biến thể màu sắc cho khách hàng",
+        "use3": "Tô màu trang manga",
+        "use4": "Phát triển nghệ thuật ý tưởng",
+        "use5": "Mục đích giáo dục trong lớp học nghệ thuật",
+        "use6": "Làm sống lại hình minh họa cũ"
+      }
+    },
+    "reference_feature": {
+      "question": "Tính năng ảnh tham khảo hoạt động như thế nào?",
+      "answer": "Công cụ của KomikoAI có tính năng ảnh tham khảo mạnh mẽ, cho phép bạn hướng dẫn lựa chọn màu sắc của AI. Bằng cách tải lên ảnh tham khảo, AI sẽ phân tích bảng màu và phong cách nghệ thuật để tạo ra kết quả có mục tiêu hơn. Tính năng này đặc biệt có giá trị đối với nghệ sĩ manga và truyện tranh."
+    },
+    "good_reference": {
+      "question": "Điều gì tạo nên một ảnh tham khảo tốt?",
+      "answer": {
+        "intro": "Để có kết quả tối ưu, hãy chọn ảnh tham khảo phù hợp với tầm nhìn nghệ thuật của bạn. Ảnh tham khảo tốt nhất nên:",
+        "quality1": "Có màu sắc và ánh sáng rõ ràng, phù hợp với phong cách manga hoặc truyện tranh mong muốn",
+        "quality2": "Chia sẻ nội dung hoặc hướng nghệ thuật tương tự với hình vẽ của bạn (ví dụ: phong cách anime, phong cách truyện tranh)",
+        "quality3": "Thể hiện bảng màu cụ thể mà bạn muốn đạt được",
+        "quality4": "Được chiếu sáng tốt và có chất lượng cao để giúp AI phân tích màu sắc chính xác",
+        "conclusion": "Bạn có thể sử dụng nhiều loại tài liệu tham khảo, bao gồm nhân vật anime, ảnh chụp màn hình anime, bảng truyện tranh hoặc hình minh họa kỹ thuật số. Điều này cho phép các nghệ sĩ đạt được sự phù hợp màu sắc chính xác."
+      }
+    },
+    "items": [
+      {
+        "id": 1,
+        "question": "AI tô màu nghệ thuật đường nét là gì?",
+        "answer": "AI tô màu nghệ thuật đường nét là quá trình sử dụng trí tuệ nhân tạo để tự động tô màu các hình đen trắng. Công cụ này của Komiko AI biến đổi bản phác thảo, truyện tranh hoặc bất kỳ nghệ thuật đường nét nào thành hình ảnh đầy màu sắc, tiết kiệm thời gian cho cả nghệ sĩ lẫn người đam mê."
+      },
+      {
+        "id": 2,
+        "question": "Làm thế nào để tô màu các hình đen trắng bằng AI?",
+        "answer": "Bạn có thể sử dụng Komiko AI để tô màu hình của mình qua 4 bước đơn giản: 1. Tải ảnh nghệ thuật đường nét của bạn lên công cụ AI 2. Nhập mô tả về cách tô màu bạn muốn 3. Nhấn nút 'Tô màu hình ảnh' để bắt đầu quá trình tô 4. Tải xuống hình ảnh đã tô màu và chia sẻ với bạn bè!"
+      },
+      {
+        "id": 0,
+        "question": "Tôi có thể dùng AI để tô màu và tạo bóng không?",
+        "answer": "Có, bạn có thể sử dụng AI để tô màu và tạo bóng cho tác phẩm của mình. Công cụ của Komiko AI có thể tô màu đen trắng với sắc màu và bóng đổ lộng lẫy. Bạn chỉ cần tải ảnh lên và nhập mô tả về cách tô màu, AI sẽ tự động hiểu ý đồ nghệ thuật của bạn và tạo ra hình ảnh đã được tô màu."
+      },
+      {
+        "id": 3,
+        "question": "AI tô màu nghệ thuật đường nét hoạt động như thế nào?",
+        "answer": "AI này sử dụng mô hình trí tuệ nhân tạo hiện đại được đào tạo trên hàng triệu hình ảnh để nhận biết mẫu trong nghệ thuật đường nét và tô màu phù hợp. Bạn chỉ cần tải lên bản phác thảo, thêm mô tả màu sắc, và AI sẽ tạo ra hình ảnh đã tô màu dựa trên ý tưởng nghệ thuật của bạn."
+      },
+      {
+        "id": 4,
+        "question": "Lợi ích của việc tô màu nghệ thuật đường nét với AI là gì?",
+        "answer": "Lợi ích bao gồm: Tiết kiệm thời gian so với tô màu bằng tay, Kết quả chất lượng cao và chuyên nghiệp, Dễ sử dụng cho cả người không phải nghệ sĩ và người mới bắt đầu, Dễ dàng tùy chỉnh với mô tả theo ý tưởng sáng tạo của bạn."
+      },
+      {
+        "id": 5,
+        "question": "Tôi có thể sử dụng hình ảnh được tô màu bằng AI cho mục đích thương mại không?",
+        "answer": "Có, bạn có thể sử dụng hình ảnh từ AI cho cả mục đích cá nhân và thương mại, nhưng cần đảm bảo tuân thủ điều khoản dịch vụ của Komiko."
+      },
+      {
+        "id": 6,
+        "question": "Hỗ trợ các định dạng và kích thước nào?",
+        "answer": "AI hỗ trợ định dạng JPG và PNG cho nghệ thuật đường nét. Hình ảnh đầu ra sẽ giữ nguyên kích thước gốc của nó."
+      },
+      {
+        "id": 7,
+        "question": "Dùng công cụ AI tô màu nghệ thuật đường nét có miễn phí không?",
+        "answer": "Komiko AI cung cấp các zaps (tín dụng) miễn phí để bạn thử nghiệm công cụ. Bạn cũng có thể mua gói trả phí để có thêm zaps và những tính năng cao cấp như xử lý nhanh hơn, độ phân giải cao hơn."
+      },
+      {
+        "id": 8,
+        "question": "Làm sao để có kết quả tô màu AI tốt nhất?",
+        "answer": "Sử dụng các mô tả rõ ràng, chi tiết như \"tóc đỏ, mắt xanh, trang phục hiện đại.\" Tránh sử dụng từ ngữ mơ hồ."
+      },
+      {
+        "id": 9,
+        "question": "Hạn chế của việc tô màu nghệ thuật đường nét bằng AI là gì?",
+        "answer": "Dù mạnh mẽ, AI vẫn có vài điểm hạn chế: Có thể không phù hợp hoàn toàn với phong cách bạn muốn, Hình vẽ phức tạp có thể dẫn tới kết quả không như mong đợi, Kết quả phụ thuộc vào mô tả, mô tả không rõ ràng có thể không đạt kết quả như ý. Dù hạn chế, AI tô màu vẫn tăng tốc quy trình làm việc và giúp phát triển sáng tạo hơn."
+      },
+      {
+        "id": 10,
+        "question": "Tôi có cần biết vẽ để dùng công cụ AI không?",
+        "answer": "Không cần. Đối với Nghệ sĩ: Nếu bạn tự vẽ phác thảo, công cụ này sẽ làm chúng trở nên sống động. Đối với Người không phải Nghệ sĩ: Bạn có thể bắt đầu với nghệ thuật đường nét sẵn hoặc mẫu có sẵn và để AI tô màu. Công cụ được thiết kế dễ sử dụng cho tất cả mọi người, bất kể bạn là nghệ sĩ hay mới bắt đầu."
+      },
+      {
+        "id": 11,
+        "question": "AI có thể tô màu loại nghệ thuật đường nét nào?",
+        "answer": "AI colorizer hỗ trợ nhiều loại nghệ thuật: Bản phác thảo, manga, truyện tranh, thiết kế nhân vật, minh họa, thiết kế sản phẩm, bản vẽ kiến trúc. Để có kết quả tốt nhất, hãy đảm bảo nghệ thuật của bạn có đường nét rõ ràng và độ tương phản tốt."
+      },
+      {
+        "id": 12,
+        "question": "Làm thế nào để có kết quả tốt nhất từ AI tô màu?",
+        "answer": "Để tối ưu hóa kết quả, hãy: Sử dụng nghệ thuật đường nét sạch, tương phản cao, Viết mô tả rõ ràng, chi tiết, Thử nghiệm với các mô tả khác nhau, Xem xét tổng thể bố cục, Sử dụng hình ảnh tham khảo để hướng dẫn lựa chọn màu sắc."
+      },
+      {
+        "id": 13,
+        "question": "Làm sao AI colorization so với tô màu thủ công?",
+        "answer": "AI colorization tiết kiệm thời gian đáng kể, giảm hàng giờ làm việc xuống vài phút. Dù không thay thế hoàn toàn tô màu truyền thống cho các dự án phức tạp, nó là công cụ tuyệt vời cho việc tạo mẫu nhanh, hình dung ý tưởng và tạo ra nhiều phiên bản màu sắc nhanh chóng. AI hiểu lý thuyết màu sắc và gợi ý các kết hợp hài hòa mà bạn có thể chưa nghĩ tới."
+      },
+      {
+        "id": 14,
+        "question": "Tôi có thể chỉnh sửa kết quả đã tô màu bằng AI không?",
+        "answer": "Có, bạn có thể tiếp tục chỉnh sửa bằng phần mềm nghệ thuật kỹ thuật số bạn ưa thích. Kết quả từ AI là nền tảng tốt để bạn bổ sung nét nghệ thuật cá nhân."
+      },
+      {
+        "id": 15,
+        "question": "Có các cách sáng tạo nào để dùng AI tô màu nghệ thuật đường nét?",
+        "answer": "Bạn có thể dùng AI cho: Tạo mẫu thiết kế nhân vật nhanh, Tạo phiên bản màu sắc khác nhau cho khách hàng, Tô màu các trang manga, Phát triển nghệ thuật ý tưởng, Sử dụng trong lớp dạy vẽ, Khôi phục tranh minh họa đen trắng cũ."
+      },
+      {
+        "id": 16,
+        "question": "Tính năng hình ảnh tham khảo hoạt động ra sao trong công cụ AI của Komiko?",
+        "answer": "Công cụ của Komiko AI gồm tính năng hình ảnh tham khảo giúp hướng dẫn AI lựa chọn màu sắc cho manga, truyện tranh hoặc minh họa của bạn. Bằng cách tải hình tham khảo cùng nghệ thuật, AI sẽ phân tích bảng màu và phong cách để tạo kết quả cụ thể hơn. Đặc biệt hữu ích cho nghệ sĩ manga và truyện tranh muốn sự nhất quán trong tô màu. Công cụ dùng máy học để trích xuất bảng màu từ hình tham khảo và áp dụng vào nghệ thuật đường nét, giữ ý định nghệ thuật gốc."
+      },
+      {
+        "id": 17,
+        "question": "Thế nào là hình ảnh tham khảo tốt cho AI tô màu?",
+        "answer": "Để có kết quả tối ưu với Komiko AI, chọn hình ảnh tham khảo phù hợp với tầm nhìn nghệ thuật của bạn. Hình tham khảo tốt nhất nên có màu sắc rõ, phù hợp phong cách mong muốn, cùng hướng nội dung với nghệ thuật của bạn (ví dụ: phong cách anime), có bảng màu bạn muốn đạt được, và có chất lượng cao để AI phân tích chính xác. Bạn có thể dùng nhiều loại hình tham khảo, từ nhân vật anime, hình chụp màn hình, khung manga hay minh họa kỹ thuật số. Điều này giúp nghệ sĩ đạt phù hợp màu sắc chính xác và sự nhất quán trong các trang manga hoặc khung truyện."
+      }
+    ]
+  },
+  "deleteModal": {
+    "title": "Xác Nhận Xóa",
+    "message": "Bạn có chắc chắn muốn xóa video này không? Hành động này không thể hoàn tác."
+  },
+  "colorize_image": "Tô Màu"
+}

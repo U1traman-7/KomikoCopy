@@ -1,0 +1,26 @@
+{
+  "logo_alt": "โลโก้ KomikoAI",
+  "login_button": "เข้าสู่ระบบ",
+  "join_discord": "เข้าร่วม Discord",
+  "modal": {
+    "create_account_or_signin": "สร้างบัญชีใหม่ หรือ ลงชื่อเข้าใช้",
+    "sign_in": "ลงชื่อเข้าใช้",
+    "trouble_signing_in": "มีปัญหาในการเข้าสู่ระบบ?"
+  },
+  "promotion_offer": "ข้อเสนอพิเศษ | ประหยัดทันที 50% สำหรับแผนรายปี! รีบคว้าส่วนลดก่อนหมดอายุใน <time>{{deadline}}</time>",
+  "promotion_offer_mobile": "ประหยัดทันที 50%! รีบคว้าส่วนลดก่อนหมดอายุใน <time>{{deadline}}</time>",
+  "promotion_offer_mobile_days": "ประหยัด 50%! ส่วนลดนี้หมดอายุในอีก <time>{{days}} วัน</time>",
+  "promotion_offer_days": "ข้อเสนอมีเวลาจำกัด | ประหยัด 50% สำหรับแผนรายปี! ส่วนลดนี้หมดอายุในอีก <time>{{days}} วัน</time>",
+  "new_user_promotion": {
+    "title": "ข้อเสนอพิเศษสำหรับผู้ใช้ใหม่ | ลด 40% เมื่อสมัครแผนรายปี! หมดเขตใน <time>{{deadline}}</time>",
+    "mobile_title": "ลด 40% เมื่อสมัครแผนรายปี! หมดเขตใน <time>{{deadline}}</time>",
+    "mobile_days_title": "ลด 40% เมื่อสมัครแผนรายปี! หมดเขตใน <time>{{days}} วัน</time>",
+    "days_title": "ข้อเสนอพิเศษสำหรับผู้ใช้ใหม่ | ลด 40% เมื่อสมัครแผนรายปี! หมดเขตใน <time>{{days}} วัน</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "โปรลดราคากะพริบสุดสัปดาห์: แผนรายปีลด 30%! หมดเขตใน <time>{{deadline}}</time>",
+    "mobile_title": "แผนรายปีลด 30%! หมดเขตใน <time>{{deadline}}</time>",
+    "mobile_days_title": "แผนรายปีลด 30%! หมดเขตใน <time>{{days}} วัน</time>",
+    "days_title": "โปรลดราคากะพริบสุดสัปดาห์: แผนรายปีลด 30%! หมดเขตใน <time>{{days}} วัน</time>"
+  }
+}

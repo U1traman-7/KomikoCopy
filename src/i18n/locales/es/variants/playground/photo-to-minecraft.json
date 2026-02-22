@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Foto a Minecraft",
+      "description": "Transforme sus fotos en cautivadoras obras de arte al estilo Minecraft con IA. Experimente la magia de la transformación en pixel art. ¡Comience ahora!",
+      "keywords": "Foto a Minecraft, generador de arte Minecraft con IA, conversión de imagen a Minecraft, filtro de foto estilo Minecraft"
+    },
+    "hero": {
+      "title": "Foto a Minecraft"
+    },
+    "whatIs": {
+      "title": "¿Qué es Foto a Minecraft?",
+      "description": "El Generador de Foto a Minecraft con IA es una herramienta intuitiva que convierte sus imágenes en impresionantes obras de pixel art inspiradas en el universo de Minecraft. Mediante algoritmos de machine learning de última generación, este generador captura el encanto de Minecraft al tiempo que preserva la esencia de su fotografía. Ideal para creadores de contenido, jugadores y entusiastas de Minecraft. ¡Es hora de elevar sus fotos al divertido mundo de los bloques!"
+    },
+    "examples": {
+      "title": "Ejemplos de Foto a Minecraft",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cómo usar Foto a Minecraft",
+      "steps": [
+        {
+          "title": "Paso 1: Cargue su foto",
+          "content": "Seleccione una imagen nítida y con colores vibrantes para obtener los mejores resultados. Haga clic para cargar una imagen desde su dispositivo."
+        },
+        {
+          "title": "Paso 2: Seleccione la plantilla de Pixel Art",
+          "content": "Seleccione la plantilla de Pixel Art para transformar su foto al estilo pixel art."
+        },
+        {
+          "title": "Paso 3: Convierta a Pixel Art",
+          "content": "Haga clic en 'Convertir a Pixel Art' para ver cómo nuestra IA transforma su foto en una obra maestra de Minecraft perfecta en píxeles."
+        },
+        {
+          "title": "Paso 4: Descargue y comparta",
+          "content": "Guarde fácilmente su pixel art en su dispositivo y compártalo con sus amigos en las redes sociales. ¡Muestre sus creaciones únicas!"
+        }
+      ],
+      "subtitle": "¡Cree impresionantes diseños pixelados de Minecraft en cuatro sencillos pasos!"
+    },
+    "benefits": {
+      "title": "Por qué elegir Foto a Minecraft",
+      "description": "¡Descubra la magia de transformar fotos en arte de Minecraft!",
+      "features": [
+        {
+          "title": "🖌️ Carga Sencilla",
+          "content": "Cargue fácilmente diversos formatos de imagen, incluyendo JPG, PNG y WEBP."
+        },
+        {
+          "title": "🎨 Estética Única de Minecraft",
+          "content": "Cree imágenes que capturen la esencia pixelada y lúdica de Minecraft, despertando emoción y creatividad."
+        },
+        {
+          "title": "⚡ Procesamiento Rápido",
+          "content": "Experimente un renderizado rápido de su obra de arte con IA en cuestión de segundos, para que pueda crear y compartir al instante."
+        },
+        {
+          "title": "🌟 Salida de Alta Calidad",
+          "content": "Obtenga imágenes de alta resolución perfectas para compartir o imprimir, asegurando la nitidez en cada obra maestra pixelada."
+        },
+        {
+          "title": "🛠️ Interfaz Intuitiva",
+          "content": "Disfrute de una plataforma fácil de usar, ideal para todos los niveles de habilidad, desde principiantes hasta artistas experimentados."
+        },
+        {
+          "title": "🚀 Muestre Su Arte",
+          "content": "Comparta sus creaciones sin esfuerzo en las redes sociales para inspirar a otros fans de Minecraft."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foto a Minecraft FAQ",
+      "description": "",
+      "q1": "¿Qué implica la transformación de Foto a Minecraft?",
+      "a1": "Emplea algoritmos de IA que analizan su imagen y aplican un estilo de pixel art para crear una obra de arte inspirada en Minecraft, infundiendo a su foto original un toque divertido.",
+      "q2": "¿Cómo puedo lograr los mejores resultados con los estilos de Foto a Minecraft?",
+      "a2": "Utilice imágenes vibrantes con características distintivas y explore diversos estilos y configuraciones para una transformación óptima.",
+      "q3": "¿Es gratuita la transformación de Foto a Minecraft?",
+      "a3": "¡Sí! Nuestro generador le permite crear y descargar obras de arte sin costo alguno.",
+      "q4": "¿Qué diferencia a Foto a Minecraft de otros generadores de arte?",
+      "a4": "Se centra específicamente en capturar la estética de píxeles de Minecraft, ofreciendo resultados atractivos y distintivamente diferentes de los filtros convencionales.",
+      "q5": "¿Puedo usar mi arte de Minecraft generado comercialmente?",
+      "a5": "El arte generado normalmente se puede compartir o utilizar personalmente. Consulte nuestros términos de servicio para obtener directrices comerciales."
+    },
+    "cta": {
+      "title": "Comience su viaje de Foto a Minecraft hoy mismo",
+      "description": "Dé vida a sus fotos como impresionantes obras de arte al estilo Minecraft utilizando nuestro potente generador. ¡Comience a transformar sus imágenes en pixel art hoy mismo!",
+      "buttonText": "Transforme su foto en arte de Minecraft"
+    }
+  },
+  "config": {},
+  "placeholderText": "Create your Minecraft-style artwork now",
+  "originalKeyword": "Photo to Minecraft",
+  "examples": [
+    {
+      "image": "/images/examples/playground/photo-to-minecraft/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Pixel Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-minecraft/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Pixel Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-minecraft/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Pixel Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-minecraft/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Pixel Art"
+    }
+  ]
+}

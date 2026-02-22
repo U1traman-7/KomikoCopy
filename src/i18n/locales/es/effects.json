@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "Efectos Divertidos Preferidos por los Creadores de Anime",
+    "description": "Encuentra el efecto que te encanta y comienza a crear de inmediato.",
+    "defaultDescription": "Genera efectos de {{name}} {{type}} con KomikoAI. Sube una imagen de un personaje y experimenta el poder del Generador de {{name}} de IA en segundos.",
+    "eyebrow": "Galería de Efectos"
+  },
+  "meta": {
+    "keywords": "efectos de IA, plantillas de anime, efectos de video, animación de baile, estilos de imagen, komiko",
+    "title": "Efectos | Komiko AI",
+    "description": "Descubre todos los efectos y plantillas de IA para la creación de anime. Estilos de imágenes, efectos de video, animaciones de baile y más.",
+    "titleTemplate": "Creador de {{name}}"
+  },
+  "categories": {
+    "trending": {
+      "description": "Los efectos más populares en este momento",
+      "title": "Tendencias"
+    },
+    "imageRestyle": {
+      "description": "Convierte tus imágenes en varios estilos artísticos",
+      "title": "Restilización de Imágenes"
+    },
+    "merch": {
+      "description": "Genera diseños de mercancías coleccionables de tus personajes",
+      "title": "Estudio de Mercancías"
+    },
+    "movie": {
+      "description": "Recrea retratos en estilos cinematográficos de películas",
+      "title": "Cine"
+    },
+    "cosplay": {
+      "description": "Crea impresionantes diseños de cosplay y vestuarios",
+      "title": "Cosplay y Vestuario"
+    },
+    "dance": {
+      "description": "Crea movimientos de Danza AI para videos",
+      "title": "Baile"
+    },
+    "featured": {
+      "title": "Destacados"
+    },
+    "art": {
+      "title": "Arte",
+      "description": "Transforma retratos en diseños de personajes profesionales"
+    },
+    "videoRestyle": {
+      "title": "Restilización de Videos",
+      "description": "Transforma metraje de video en animaciones estilizadas"
+    },
+    "game": {
+      "title": "Juego",
+      "description": "Crea videos y escenas con estilo de videojuegos"
+    },
+    "effects": {
+      "title": "Efectos de Video",
+      "description": "Aplica efectos de video dinámicos y animaciones"
+    },
+    "characterExpression": {
+      "title": "Expresión de Personajes",
+      "description": "Modifica las expresiones de los personajes de forma dinámica"
+    },
+    "funEffects": {
+      "title": "Efectos Divertidos",
+      "description": "Efectos de video lúdicos y entretenidos"
+    }
+  },
+  "whatIs": {
+    "title": "¿Qué es el Generador de {{name}}?",
+    "defaultDescription": "El Generador de {{name}} AI es una herramienta de inteligencia artificial que crea efectos de {{name}} {{type}}. Es una de las más de 100 plantillas de efectos de IA diseñadas por el equipo de KomikoAI. Simplemente sube una imagen de un personaje y deja que la IA haga su magia."
+  },
+  "howToUse": {
+    "step1Title": "Subir Imagen",
+    "step2Title": "Seleccionar Efecto",
+    "step3Title": "Generar",
+    "step4Title": "Descargar",
+    "title": "Cómo Usar",
+    "step1": "Sube la imagen de tu personaje arriba",
+    "step2": "El efecto {{name}} ya está seleccionado para ti",
+    "step3": "Haz clic en \"Generar Animación\" y espera tu resultado",
+    "step4": "Descarga o comparte tu creación"
+  },
+  "breadcrumb": {
+    "effects": "Efectos"
+  },
+  "buttons": {
+    "useTemplate": "Usar Plantilla",
+    "preview": "Vista Previa",
+    "close": "Cerrar",
+    "seeAll": "Ver Todos"
+  },
+  "empty": "No se encontraron efectos.",
+  "notFound": {
+    "title": "Efecto No Encontrado",
+    "description": "El efecto \"{{name}}\" no se pudo encontrar. Puede haber sido eliminado o la URL es incorrecta.",
+    "browseAll": "Explorar Todos los Efectos"
+  },
+  "moreTools": {
+    "title": "Más Efectos de IA",
+    "description": "Explora nuestra colección completa de efectos y plantillas de IA.",
+    "browseAll": "Explorar Todos los Efectos"
+  },
+  "changeModal": {
+    "title": "Cambiar Efecto"
+  },
+  "communityExamples": {
+    "title": "Ejemplos del Efecto {{name}}",
+    "description": "Todas las creaciones hechas con el efecto {{name}} por la comunidad de KomikoAI.",
+    "noExamples": "Todavía no hay ejemplos disponibles de la comunidad."
+  },
+  "types": {
+    "video": "vídeo",
+    "image": "imagen",
+    "dance": "danza"
+  }
+}

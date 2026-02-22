@@ -1,0 +1,103 @@
+{
+  "title": "Runway Aleph",
+  "description": "Runway Aleph: tecnologia revolucionária de IA para edição de vídeo. Um modelo de vídeo avançado, ciente do contexto, que edita, transforma e gera conteúdo de vídeo profissional, com recursos multitarefas de geração visual.",
+  "meta": {
+    "title": "Runway Aleph",
+    "description": "Runway Aleph: tecnologia revolucionária de IA para edição de vídeo. Um modelo de vídeo avançado, ciente do contexto, que edita, transforma e gera conteúdo de vídeo profissional, com recursos multitarefas de geração visual.",
+    "fullDescription": "Descubra o poder de ponta do Runway Aleph, o modelo de vídeo ciente do contexto que redefine a IA para edição de vídeo. Nossa plataforma avançada de geração visual multitarefas permite transformações perfeitas, manipulação inteligente de objetos, controle dinâmico de câmera e recursos de edição fluida. Ideal para cineastas, criadores de conteúdo e profissionais de vídeo que buscam ferramentas de edição de vídeo com IA de última geração, oferecendo resultados de qualidade profissional com simplicidade conversacional.",
+    "keywords": "Runway Aleph, modelo de vídeo ciente do contexto, IA para edição de vídeo, editar transformar gerar vídeo, geração visual multitarefas, editor de vídeo com IA, ferramenta de transformação de vídeo, edição de IA conversacional, edição fluida, manipulação de vídeo, remoção de objetos com IA, controle de câmera com IA, modificação de estilo de vídeo, edição de vídeo profissional, geração de vídeo com IA, IA de pós-produção de vídeo, parceiro criativo de vídeo, edição de vídeo inteligente"
+  },
+  "whatIs": {
+    "title": "O que é Runway Aleph?",
+    "description": "Runway Aleph representa a próxima evolução na IA para edição de vídeo: um modelo revolucionário, ciente do contexto, que combina geração visual multitarefas com inteligência conversacional. Este editor de vídeo com IA transforma filmagens comuns através de manipulação inteligente de objetos, controle dinâmico de câmera e modificação de estilo perfeita. Diferente das ferramentas de vídeo tradicionais, o Runway Aleph opera como um parceiro criativo, entendendo o contexto visual para proporcionar experiências de edição fluidas que editam, transformam e geram conteúdo de vídeo profissional sem esforço."
+  },
+  "examples": {
+    "title": "Exemplos do Runway Aleph",
+    "description": "Descubra como o Runway Aleph revoluciona a criação de vídeo através da edição inteligente ciente do contexto e recursos multitarefas de geração visual.",
+    "originalVideo": "Vídeo Original",
+    "generatedOutput": "Resultado Gerado",
+    "generateCameraAngles": "Geração de Ângulos de Câmera: gere novas perspectivas e tomadas de câmera a partir de suas filmagens originais, com técnicas profissionais de cinematografia.",
+    "generateNextShot": "Geração da Próxima Tomada: crie tomadas de acompanhamento perfeitas que dão continuidade à sua narrativa com compreensão inteligente da cena.",
+    "styleTransfer": "Transferência de Estilo: transforme o estilo visual do seu vídeo, mantendo a integridade original do movimento e do conteúdo.",
+    "changeEnvironment": "Mudanças de Ambiente: adicione elementos atmosféricos como chuva, neve ou modificações ambientais para aprimorar suas cenas.",
+    "addThings": "Adicionar Objetos: integre perfeitamente novos elementos, como fogos de artifício, adereços ou recursos ambientais, em filmagens existentes.",
+    "removeThings": "Remover Objetos: elimine elementos indesejados, como fumaça, reflexos ou objetos que distraem, mantendo a continuidade da cena.",
+    "generateStyleTransfer": "Transferência de Estilo: transforme qualquer vídeo com a estética desejada. Com o Runway Aleph, você pode facilmente aplicar qualquer estilo às suas filmagens, bastando solicitá-lo.",
+    "generateChangeObject": "Change Object - Runway Aleph permite que você retexturize ou substitua facilmente objetos, sujeitos e mais em vídeos já existentes. Use um prompt de texto ou uma imagem de referência do que você gostaria de alterar no vídeo.",
+    "promptStyleTransfer": "Prompt: Transfira o estilo do vídeo",
+    "promptChangeObject": "Prompt: Mude o material da bola para lava",
+    "promptAddRain": "Prompt: Adicione chuva",
+    "promptAddFireworks": "Prompt: Adicione fogos de artifício",
+    "promptCameraAngle": "Prompt: Gere uma tomada média do sujeito",
+    "promptRemoveSmoke": "Prompt: Remova a fumaça"
+  },
+  "howTo": {
+    "title": "Como Usar o Runway Aleph"
+  },
+  "steps": {
+    "step1": {
+      "title": "Carregue Suas Filmagens",
+      "content": "Importe qualquer arquivo de vídeo (MP4, MOV, AVI) de até 15 segundos e 50 MB para o processamento do Runway Aleph. Vídeos que excedam 15 segundos são otimizados automaticamente para análise eficiente do modelo de vídeo ciente do contexto."
+    },
+    "step2": {
+      "title": "Análise Ciente do Contexto",
+      "content": "O Runway Aleph analisa suas filmagens usando algoritmos avançados de geração visual multitarefas, extraindo o primeiro quadro para estabelecer o contexto visual para uma edição consistente com IA em todo o seu vídeo."
+    },
+    "step3": {
+      "title": "Selecione o Modo de Aprimoramento",
+      "content": "Escolha entre mais de 20 opções de transformação inteligentes, incluindo manipulação de objetos, controle de câmera, modificação de estilo, ou use prompts conversacionais com imagens de referência para edições personalizadas com o Runway Aleph."
+    },
+    "step4": {
+      "title": "Gere Vídeo Aprimorado",
+      "content": "O Runway Aleph transforma suas filmagens completas usando inteligência de modelo de vídeo ciente do contexto, preservando o movimento, as expressões e o tempo originais através de tecnologia sofisticada de edição fluida."
+    }
+  },
+  "benefits": {
+    "title": "Por Que Escolher o Runway Aleph",
+    "description": "O Runway Aleph oferece a mais avançada tecnologia de modelo de vídeo ciente do contexto com geração visual multitarefas inteligente, edição de IA conversacional e resultados de nível profissional."
+  },
+  "features": {
+    "feature1": {
+      "title": "Preservação Inteligente de Movimento",
+      "content": "O Runway Aleph mantém a continuidade perfeita do movimento, as expressões faciais e a consistência temporal ao aplicar transformações através da análise avançada do modelo de vídeo ciente do contexto e da precisão da edição fluida, quadro a quadro."
+    },
+    "feature2": {
+      "title": "Mais de 20 Estilos Visuais Multitarefas",
+      "content": "Acesse diversas opções de transformação, incluindo aprimoramentos cinematográficos, estilos artísticos, manipulação de objetos e mudanças ambientais. Crie edições personalizadas usando prompts conversacionais ou imagens de referência com o Runway Aleph."
+    },
+    "feature3": {
+      "title": "Qualidade de Saída de Nível Profissional",
+      "content": "Gere vídeos com qualidade de cinema com geração visual multitarefas consistente, transições perfeitas e resultados sem artefatos através do sofisticado processamento do modelo de vídeo ciente do contexto do Runway Aleph."
+    },
+    "feature4": {
+      "title": "Sistema de Fluxo de Trabalho Transparente",
+      "content": "Estrutura de preços clara, com cobranças separadas para as fases de análise e geração. Experimente diferentes opções de aprimoramento sem custos adicionais de processamento, usando o sistema flexível do Runway Aleph."
+    },
+    "feature5": {
+      "title": "Interface de IA Conversacional",
+      "content": "Fluxo de trabalho intuitivo do Runway Aleph: carregue filmagens, aplique análise ciente do contexto, gere vídeo aprimorado. Nenhuma experiência técnica é necessária, com monitoramento de progresso em tempo real e orientação de edição de IA conversacional."
+    },
+    "feature6": {
+      "title": "Otimização Automática Inteligente",
+      "content": "Processamento inteligente do Runway Aleph com otimização automática de formato, cálculos baseados na duração e manipulação inteligente de arquivos para geração visual multitarefas perfeita em todos os formatos suportados."
+    }
+  },
+  "faq": {
+    "title": "Perguntas Frequentes sobre o Runway Aleph",
+    "description": "Informações essenciais sobre a tecnologia de modelo de vídeo ciente do contexto do Runway Aleph, recursos de geração visual multitarefas e processo de edição de IA conversacional.",
+    "q1": "Como o Runway Aleph funciona?",
+    "a1": "O Runway Aleph utiliza tecnologia avançada de modelo de vídeo ciente do contexto através de processamento inteligente em duas fases: 1) Análise contextual de suas filmagens, com avaliação da geração visual multitarefas; 2) Transformação de edição fluida, preservando o movimento e o tempo. Isso garante uma edição consistente com IA conversacional em todos os quadros.",
+    "q2": "Quais formatos de vídeo o Runway Aleph suporta?",
+    "a2": "O Runway Aleph suporta formatos MP4, MOV e AVI com tamanho máximo de arquivo de 50 MB para processamento do modelo de vídeo ciente do contexto. Os vídeos são limitados a 15 segundos e otimizados automaticamente para uma geração visual multitarefas eficiente e custo-benefício.",
+    "q3": "Quanto tempo leva o processamento do Runway Aleph?",
+    "a3": "A transformação completa com o Runway Aleph leva de 5 a 10 minutos: análise ciente do contexto (1-3 minutos) e geração visual multitarefas (3-7 minutos). Monitore o progresso da edição de IA conversacional em tempo real através da nossa interface inteligente.",
+    "q4": "Quais são os detalhes de preços do Runway Aleph?",
+    "a4": "Cobranças separadas para análise ciente do contexto e geração de vídeo, com base na duração. Os custos do Runway Aleph são exibidos de forma transparente antes do processamento, e os créditos são deduzidos apenas após a conclusão bem-sucedida da geração visual multitarefas.",
+    "q5": "Posso criar transformações personalizadas com o Runway Aleph?",
+    "a5": "Absolutamente! Escolha entre mais de 20 modelos predefinidos, escreva prompts conversacionais ou carregue imagens de referência para uma geração visual multitarefas exclusiva com a tecnologia do modelo de vídeo ciente do contexto do Runway Aleph.",
+    "q6": "O que gera resultados ideais com o Runway Aleph?",
+    "a6": "A melhor geração visual multitarefas ocorre com assuntos claros, iluminação adequada, movimento estável e recursos bem definidos. Evite movimentos rápidos ou filmagens escuras para otimizar o processamento do modelo de vídeo ciente do contexto do Runway Aleph. Filmagens com menos de 5 segundos e com assuntos distintos funcionam excepcionalmente bem."
+  },
+  "metaTitle": "Runway Aleph",
+  "keywords": "Runway Aleph, modelo de vídeo Aleph, modelo de vídeo em contexto, AI do Runway Aleph, geração visual multitarefas, edição de vídeo avançada, modo de chat do Runway Aleph, IA para edição de vídeo, geração de vídeo por IA, edição de vídeo automatizada, efeitos visuais por IA, ferramenta de transformação de vídeo, processamento de vídeo com IA"
+}

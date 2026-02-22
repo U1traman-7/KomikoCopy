@@ -1,0 +1,59 @@
+{
+  "ui": {
+    "styleModes": {
+      "templates": "Mẫu",
+      "prompt": "Lời nhắc",
+      "expression": "Biểu hiện"
+    },
+    "prompt": {
+      "placeholder": "Mô tả sự thay đổi phong cách mà bạn mong muốn...",
+      "example": "Ví dụ: \"Thay người đàn ông bằng Naruto\", \"Biến cái này thành phong cách anime cổ điển thập niên 90\", \"Cho cô gái mặc một chiếc váy hoa\""
+    },
+    "characterInfo": "Thông Tin Nhân Vật",
+    "selectCharacter": "Chọn Nhân Vật",
+    "selectCharacterPlaceholder": "Chọn từ nhân vật của bạn...",
+    "characterName": "Tên Nhân Vật",
+    "characterNamePlaceholder": "Nhập tên nhân vật...",
+    "occupation": "Nghề Nghiệp",
+    "occupationPlaceholder": "Ví dụ, Tài xế Uber, Sinh viên, Thám tử...",
+    "language": "Ngôn Ngữ",
+    "characterInfoPlaceholder": "Nhập tiểu sử, câu chuyện hoặc mô tả nhân vật...",
+    "input": {
+      "image": {
+        "title": "Hình Ảnh"
+      }
+    },
+    "customInput": {
+      "hogwartsSorting": {
+        "q1": "Nhân vật OC của bạn phát hiện một cánh cửa bí ẩn trong khu rừng tối. Bạn sẽ làm gì?",
+        "a1_1": "Đá cửa để mở. Dù gì bên trong là gì cũng nên sẵn sàng đối mặt.",
+        "a1_2": "Kiểm tra cửa có khóa không. Luôn có cách vào mà không cần dùng sức.",
+        "a1_3": "Quan sát các biểu tượng trên cửa. Đáp án nằm trong ký hiệu.",
+        "a1_4": "Gõ cửa lịch sự. Bạn không biết ai đó có thể cần giúp đỡ bên trong.",
+        "q2": "Một kẻ thù mạnh mẽ xuất hiện! Nhân vật của bạn sẽ đối đầu như thế nào?",
+        "a2_1": "Tấn công trực diện. Lòng can đảm giúp giành chiến thắng.",
+        "a2_2": "Nhắm vào điểm yếu của họ. Muốn chiến thắng cần có chiến lược.",
+        "a2_3": "Phân tích cách tấn công của đối thủ trước. Kiến thức là vũ khí mạnh nhất.",
+        "a2_4": "Bảo vệ đồng đội trước tiên. Không ai nên chiến đấu một mình.",
+        "q3": "Nhân vật OC của bạn bước vào một căn phòng chứa bốn vật phẩm phép thuật. Bạn sẽ chọn vật phẩm nào?",
+        "a3_1": "Thanh kiếm rực cháy sáng hơn khi đối mặt với nỗi sợ.",
+        "a3_2": "Chiếc vương miện cổ xưa tiết lộ ý định thật của người khác.",
+        "a3_3": "Quyển sách lưu giữ mọi bí mật bị lãng quên của thế giới.",
+        "a3_4": "Hạt giống có thể phát triển thành bất cứ thứ gì trái tim mong muốn.",
+        "q4": "Nhân vật của bạn nghe lén được một bí mật nguy hiểm. Họ sẽ làm gì?",
+        "a4_1": "Tiết lộ ngay. Sự thật cần phải được biết.",
+        "a4_2": "Giữ im lặng. Thông tin là sức mạnh, chờ thời cơ thích hợp.",
+        "a4_3": "Điều tra thêm. Một mảnh ghép không phải là toàn bộ câu đố.",
+        "a4_4": "Chỉ nói với những người cần bảo vệ khỏi nó.",
+        "q5": "Một sinh vật phép thuật ban cho OC của bạn một điều ước. Bạn sẽ ước gì?",
+        "a5_1": "Sức mạnh bảo vệ tất cả những người tôi yêu.",
+        "a5_2": "Sức mạnh để đạt được tham vọng lớn nhất.",
+        "a5_3": "Trí tuệ để hiểu thấu mọi bí ẩn.",
+        "a5_4": "Khả năng mang lại hạnh phúc cho người khác."
+      }
+    }
+  },
+  "button": {
+    "convert": "Chuyển"
+  }
+}

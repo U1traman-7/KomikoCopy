@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Badge Generator",
+      "description": "Effortlessly create stunning badges from your images using AI technology. Experience creativity like never before! Start generating today!",
+      "keywords": "AI Badge Generator, AI photography badges, custom badge designs, AI badge creator, unique badge generator, artistic photo badge"
+    },
+    "hero": {
+      "title": "AI Badge Generator"
+    },
+    "whatIs": {
+      "title": "What is the AI Badge Generator?",
+      "description": "The AI Badge Generator is a user-friendly tool that effortlessly converts your images into distinctive badge styles. By utilizing advanced AI algorithms, this tool reinterprets elements from your photos into artistic badge representations, perfect for creators looking to elevate their visual projects quickly and easily."
+    },
+    "examples": {
+      "title": "AI Badge Generator Examples",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "How to Use the AI Badge Generator",
+      "steps": [
+        {
+          "title": "Step 1: Upload Your Photo",
+          "content": "Select your desired photo (JPG, PNG, WEBP) and upload it here. Higher resolution images yield better results!"
+        },
+        {
+          "title": "Step 2: Select the Badge Template",
+          "content": "Select the Badge template to transform your photo with the badge style."
+        },
+        {
+          "title": "Step 3: Convert to Badge",
+          "content": "Click 'Convert to Badge' to apply your chosen style. The AI processes your image and creates a visually stunning badge."
+        },
+        {
+          "title": "Step 4: Download and Share",
+          "content": "Preview your new badge! If you love it, download it for sharing on social media or incorporating it into your projects."
+        }
+      ],
+      "subtitle": "Create stunning badge transformations in just a few easy steps!"
+    },
+    "benefits": {
+      "title": "Why Choose the AI Badge Generator?",
+      "description": "Discover the features that elevate your creative expression.",
+      "features": [
+        {
+          "title": "🎨 Unique Artistic Styles",
+          "content": "Enjoy a variety of badge styles that cater to different themes and vibes—perfect for both online and offline projects!"
+        },
+        {
+          "title": "⚡ Quick Processing Times",
+          "content": "Experience rapid image processing, allowing your creativity to flow without interruptions."
+        },
+        {
+          "title": "🖼️ High-Resolution Downloads",
+          "content": "Get badge-style images in high resolution without loss of quality—ideal for every application."
+        },
+        {
+          "title": "💫 Intuitive User Experience",
+          "content": "Easily navigate our platform, designed for everyone from beginners to experienced designers."
+        },
+        {
+          "title": "🎯 Customizable Designs",
+          "content": "Create unique badge designs for any event, branding, or personal use, reflecting your individual taste."
+        },
+        {
+          "title": "🚀 Regular Feature Enhancements",
+          "content": "Stay updated with new styles and features, continuously inspiring your creative journey."
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI Badge Generator FAQ",
+      "description": "",
+      "q1": "What does the AI Badge Generator do?",
+      "a1": "The AI Badge Generator allows you to transform your photos into unique badge styles using machine learning. It analyzes your images and creates artistic designs based on advanced algorithms.",
+      "q2": "How can I maximize the effects of the AI Badge Generator?",
+      "a2": "Use clear, high-resolution photos, select styles that complement your images, and test various transformations to find the best fit.",
+      "q3": "Is using the AI Badge Generator free?",
+      "a3": "Yes, our AI Badge Generator is free to use! Explore premium options for advanced styles.",
+      "q4": "What separates the AI Badge Generator from other tools?",
+      "a4": "Our AI Badge Generator employs advanced machine learning models specifically designed for creating unique badge art, delivering high-quality transformations.",
+      "q5": "Can I commercialize the artworks created with the AI Badge Generator?",
+      "a5": "Yes, you can use your badge-style creations commercially, such as for merchandise, as long as you follow our usage guidelines."
+    },
+    "cta": {
+      "title": "Start Creating with the AI Badge Generator Today",
+      "description": "Don't wait! Unleash your creativity and craft stunning badge artwork from your photos in mere minutes. Join a community of creators reshaping their visuals with AI!",
+      "buttonText": "Create Your AI Badge Art Free"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique badge style",
+  "originalKeyword": "AI Badge Generator",
+  "defaultStyle": "badge",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-badge-generator/tanjiro-output.webp",
+      "prompt": "Style: Badge",
+      "input": "/images/examples/playground/ai-badge-generator/tanjiro-input.webp"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/demon-output.webp",
+      "prompt": "Style: Badge",
+      "input": "/images/examples/playground/ai-badge-generator/demon-input.webp"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/naruto-output.webp",
+      "prompt": "Style: Badge",
+      "input": "/images/examples/playground/ai-cosplay-generator/naruto-input.webp"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/dn-output.webp",
+      "prompt": "Style: Badge",
+      "input": "/images/examples/playground/ai-badge-generator/dn-input.webp"
+    }
+  ]
+}

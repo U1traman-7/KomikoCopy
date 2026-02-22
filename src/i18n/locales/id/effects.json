@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "Efek Seru yang Disukai Para Pembuat Anime",
+    "description": "Temukan efek yang Anda suka dan mulai berkreasi sekarang juga.",
+    "defaultDescription": "Ciptakan efek {{name}} {{type}} dengan KomikoAI. Unggah gambar karakter dan rasakan kekuatan Generator AI {{name}} dalam hitungan detik.",
+    "eyebrow": "Galeri Efek"
+  },
+  "meta": {
+    "keywords": "efek AI, template anime, efek video, animasi tari, gaya gambar, komiko",
+    "title": "Efek | Komiko AI",
+    "description": "Jelajahi berbagai efek dan template AI untuk pembuatan anime. Mulai dari gaya gambar, efek video, animasi tari, dan masih banyak lagi.",
+    "titleTemplate": "Generator {{name}}"
+  },
+  "categories": {
+    "trending": {
+      "description": "Efek paling populer saat ini",
+      "title": "Tren"
+    },
+    "imageRestyle": {
+      "description": "Transformasikan gambar Anda menjadi berbagai gaya artistik",
+      "title": "Gaya Ulang Gambar"
+    },
+    "merch": {
+      "description": "Ciptakan desain barang koleksi dari karakter Anda",
+      "title": "Studio Barang Dagangan"
+    },
+    "movie": {
+      "description": "Rekreasikan potret dalam gaya sinematik film",
+      "title": "Film"
+    },
+    "cosplay": {
+      "description": "Ciptakan desain cosplay dan pakaian yang menakjubkan",
+      "title": "Cosplay & Pakaian"
+    },
+    "dance": {
+      "description": "Buat gerakan Video Tari AI",
+      "title": "Tari"
+    },
+    "featured": {
+      "title": "Unggulan"
+    },
+    "art": {
+      "title": "Seni",
+      "description": "Ubah potret menjadi desain karakter profesional"
+    },
+    "videoRestyle": {
+      "title": "Gaya Ulang Video",
+      "description": "Ubah rekaman video menjadi animasi dengan gaya unik"
+    },
+    "game": {
+      "title": "Permainan",
+      "description": "Buat video dan adegan dengan gaya permainan"
+    },
+    "effects": {
+      "title": "Efek Video",
+      "description": "Tambahkan efek video dan animasi yang dinamis"
+    },
+    "characterExpression": {
+      "title": "Ekspresi Karakter",
+      "description": "Ubah ekspresi karakter secara dinamis"
+    },
+    "funEffects": {
+      "title": "Efek Seru",
+      "description": "Efek video yang menyenangkan dan menghibur"
+    }
+  },
+  "whatIs": {
+    "title": "Apa itu Generator {{name}}",
+    "defaultDescription": "AI {{name}} Generator adalah alat AI yang menciptakan efek {{name}} {{type}}. Ini merupakan salah satu dari lebih 100 template efek AI yang dirancang oleh tim KomikoAI. Cukup unggah gambar karakter dan biarkan AI bekerja dengan magis."
+  },
+  "howToUse": {
+    "step1Title": "Unggah Gambar",
+    "step2Title": "Pilih Efek",
+    "step3Title": "Hasilkan",
+    "step4Title": "Unduh",
+    "title": "Cara Menggunakan",
+    "step1": "Unggah gambar karakter Anda di atas",
+    "step2": "Efek {{name}} sudah dipilih untuk Anda",
+    "step3": "Klik \"Hasilkan Animasi\" dan tunggu hasilnya",
+    "step4": "Unduh atau bagikan hasil kreasi Anda"
+  },
+  "breadcrumb": {
+    "effects": "Efek"
+  },
+  "buttons": {
+    "useTemplate": "Gunakan Template",
+    "preview": "Pratinjau",
+    "close": "Tutup",
+    "seeAll": "Lihat Semua"
+  },
+  "empty": "Tidak ada efek yang ditemukan.",
+  "notFound": {
+    "title": "Efek Tidak Ditemukan",
+    "description": "Efek \"{{name}}\" tidak dapat ditemukan. Mungkin sudah dihapus atau URL-nya salah.",
+    "browseAll": "Telusuri Semua Efek"
+  },
+  "moreTools": {
+    "title": "Lebih Banyak Efek AI",
+    "description": "Jelajahi koleksi lengkap efek dan template AI kami.",
+    "browseAll": "Telusuri Semua Efek"
+  },
+  "changeModal": {
+    "title": "Ganti Efek"
+  },
+  "communityExamples": {
+    "title": "Contoh Efek {{name}}",
+    "description": "Berbagai kreasi yang dibuat dengan efek {{name}} oleh komunitas KomikoAI.",
+    "noExamples": "Belum ada contoh dari komunitas yang tersedia."
+  },
+  "types": {
+    "video": "video",
+    "image": "gambar",
+    "dance": "dansa"
+  }
+}

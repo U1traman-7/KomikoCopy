@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Action Figure Generator",
+      "description": "Turn your favorite photos into unique action figure art in an instant. Experience the transformation with our AI-powered tool. Create yours today!",
+      "keywords": "AI Action Figure Generator, AI anime generator, AI character creator, action figure art generator, custom action figures"
+    },
+    "hero": {
+      "title": "AI Action Figure Generator"
+    },
+    "whatIs": {
+      "title": "What is AI Action Figure Generator?",
+      "description": "The AI Action Figure Generator is a state-of-the-art platform that leverages AI technology to transform ordinary images into vivid action figure styles. From nostalgic designs to contemporary aesthetics, this tool provides diverse options allowing for unique artistic expression in each creation."
+    },
+    "examples": {
+      "title": "Inspirational Examples from the AI Action Figure Generator",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "How to Use AI Action Figure Generator",
+      "steps": [
+        {
+          "title": "Step 1: Upload Your Photo",
+          "content": "Choose a clear and high-resolution photo for the best transformation results. Simply drag your file into the upload area or select it from your device."
+        },
+        {
+          "title": "Step 2: Select the Action Figure Template",
+          "content": "Select the Action Figure template to transform your photo with the action figure style."
+        },
+        {
+          "title": "Step 3: Convert to Action Figure",
+          "content": "Press 'Convert to Action Figure' and let our AI do the magic! It will analyze your photo and apply the chosen style to create a stunning action figure artwork in real time."
+        },
+        {
+          "title": "Step 4: Download and Share Your Creation",
+          "content": "Once your action figure art is ready, download it in high-resolution formats. Share your creations on social platforms or print them for display."
+        }
+      ],
+      "subtitle": "Transform your images into action figures effortlessly in four simple steps!"
+    },
+    "benefits": {
+      "title": "Why Use AI Action Figure Generator?",
+      "description": "Explore the unique benefits of transforming your photos into engaging action figure art.",
+      "features": [
+        {
+          "title": "🎨 Distinctive Style Options",
+          "content": "Access a variety of exclusive action figure styles tailored to reflect your individual tastes. Discover how each unique design can elevate your personal projects."
+        },
+        {
+          "title": "⚡ Fast and Efficient Creation",
+          "content": "Experience quick transformations that allow you to produce artwork swiftly, making it easy to create multiple high-quality pieces without losing artistic value."
+        },
+        {
+          "title": "🖼️ High-Resolution Output",
+          "content": "Generate high-resolution images that excel for digital use, social media, or print, ensuring your artwork maintains maximum visual impact."
+        },
+        {
+          "title": "💻 Easy-to-Use Interface",
+          "content": "Navigate our user-friendly platform with zero tech hurdles, allowing your creativity to flow freely without distraction."
+        },
+        {
+          "title": "🎯 Suitable for All Creatives",
+          "content": "Ideal for both seasoned artists and newcomers, the AI Action Figure Generator equips everyone with the tools to explore and express their creativity."
+        },
+        {
+          "title": "🚀 Share Your Art with the World",
+          "content": "Easily export and share your creations across various platforms, making it simple to connect with like-minded artists and showcase your work."
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI Action Figure Generator FAQ",
+      "description": "",
+      "q1": "What is AI Action Figure art transformation?",
+      "a1": "Our AI Action Figure Generator employs advanced algorithms to seamlessly analyze and convert your photos into custom action figure styles, making it user-friendly for everyone.",
+      "q2": "How do I achieve the best results with my images?",
+      "a2": "Select clear, well-lit images and explore different action figure styles to find the look that suits your vision best.",
+      "q3": "Is there a charge for using the AI Action Figure Generator?",
+      "a3": "Yes, you can start using the AI Action Figure Generator for free! Premium features are available for those looking for more options.",
+      "q4": "What sets the AI Action Figure Generator apart from other art tools?",
+      "a4": "Focusing solely on action figure styles, our generator offers a unique approach to art transformation, providing specialized frameworks tailored for this style.",
+      "q5": "Can I use the artwork created commercially?",
+      "a5": "Absolutely! You're allowed to use your generated action figures commercially, provided you adhere to our terms and conditions."
+    },
+    "cta": {
+      "title": "Start Crafting Your AI Action Figure Art Today",
+      "description": "Join the revolution of digital artistry! Transform your images into captivating action figure masterpieces with ease. Rediscover your creativity and share your unique creations with others.",
+      "buttonText": "Transform Your Image to Action Figure Free"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into stunning action figure art!",
+  "originalKeyword": "AI Action Figure Generator",
+  "defaultStyle": "action-figure",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_1.webp",
+      "prompt": "Style: Action Figure",
+      "input": "/images/examples/photo-to-anime/input2.jpg"
+    },
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_2.webp",
+      "prompt": "Style: Action Figure",
+      "input": "/images/examples/playground/ai-action-figure-generator/input2.webp"
+    },
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_3.webp",
+      "prompt": "Style: Action Figure",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/ai-action-figure-generator/example_4.webp",
+      "prompt": "Style: Action Figure",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp"
+    }
+  ]
+}

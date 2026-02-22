@@ -1,0 +1,69 @@
+{
+  "search_tags_placeholder": "Search popular tags...",
+  "tags": {
+    "trending": "Trending",
+    "newest": "Newest",
+    "most_likes": "Most Likes",
+    "following": "Following",
+    "leaderboard": "Leaderboard"
+  },
+  "labels": {
+    "sortBy": "Sort by:",
+    "filterBy": "Filter by:"
+  },
+  "actions": {
+    "loadMore": "Load More",
+    "tryAgain": "Try Again",
+    "refresh": "Refresh",
+    "retry": "Retry",
+    "linkCopied": "Sharing link copied!"
+  },
+  "states": {
+    "noMorePosts": "No more posts to load",
+    "noPostsFound": "No posts found"
+  },
+  "errors": {
+    "noResponse": "Failed to fetch data: No response",
+    "unknownError": "Unknown error",
+    "serverError": "Server error {{status}}: {{statusText}}",
+    "loadFailed": "Failed to load feed",
+    "timeout": "Request timeout. Please try again.",
+    "serverSlow": "Server response is slow, please try again later. If the problem persists, please refresh the page."
+  },
+  "noPostsFound": "No posts found",
+  "noRelatedPostDesc": "Be the first to create content with this character!",
+  "ranking": {
+    "postRanking": "Works",
+    "creatorRanking": "Creators",
+    "characterRanking": "Characters",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "noPreview": "No preview",
+    "fans": "Fans",
+    "posts": "Posts",
+    "follow": "Follow",
+    "following": "Following",
+    "followSuccess": "Followed successfully",
+    "followFailed": "Follow failed",
+    "weeklyRules": "Weekly Ranking Rules",
+    "weeklyRulesContent": "Ranked by total likes over the past week. Leaderboard locks at 12:00 AM PST every Monday, with badges and Zaps rewards distributed at 5:00 AM.\n1st Place: 500 Zaps | 2nd Place: 300 Zaps | 3rd Place: 100 Zaps\nEligible for both weekly and monthly rewards.",
+    "monthlyRules": "Monthly Ranking Rules",
+    "monthlyRulesContent": "Ranked by total likes over the past month. Leaderboard locks at 12:00 AM PST on the 1st of each month, with badges and Zaps rewards distributed at 5:00 AM.\n1st Place: 1,000 Zaps | 2nd Place: 800 Zaps | 3rd Place: 500 Zaps\nEligible for both weekly and monthly rewards."
+  },
+  "tagOrder": {
+    "title": "Manage Tags",
+    "description": "Drag and drop to reorder your followed tags",
+    "position": "Position {{position}}",
+    "noFollowedTags": "No followed tags yet. Follow some tags to customize their order!",
+    "saved": "Tag order saved successfully",
+    "subscribedTags": "Tags you follow",
+    "dragToReorder": "( drag to reorder)",
+    "presetTags": "Recommended Tags",
+    "otherTags": "Other Tags",
+    "noTags": "No tags available",
+    "saveFailed": "Failed to save changes"
+  }
+}

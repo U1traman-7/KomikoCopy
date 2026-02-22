@@ -1,0 +1,222 @@
+{
+  "pageTitle": "KI-Bild-Neu-Beleuchtung - KomikoAI",
+  "ogTitle": "KI-Bild-Neu-Beleuchtung - KomikoAI",
+  "ogDescription": "Beleuchte deine Bilder mit KI neu. Lade dein Bild hoch und lass die KI es für dich neu beleuchten.",
+  "twitterTitle": "KI-Bild-Neu-Beleuchtung - KomikoAI",
+  "twitterDescription": "Beleuchte deine Bilder mit KI neu. Lade dein Bild hoch und lass die KI es für dich neu beleuchten.",
+  "metaDescription": "Verwandle deine Anime-, Manga- und Comicbilder mit unserem KI-Neu-Beleuchtungstool. Verbessere Farben, passe die Beleuchtung an und erwecke deine Kunstwerke mühelos zum Leben.",
+  "metaKeywords": "KI-Bild-Neu-Beleuchtung, Anime-Beleuchtung, Comic-Verbesserung, Manga-Kunst, Animationstools",
+  "title": "KI-Bild-Neu-Beleuchtung",
+  "description": "Verändere die Stimmung und Atmosphäre deiner Anime-, Manga- und Comic-Kunst mit KI-Bild-Neu-Beleuchtung. Verwende ein Referenz-Hintergrundbild, um die Beleuchtung in deinen Szenen mühelos zu ändern, die visuelle Erzählung zu verbessern und deiner Kunst Tiefe zu verleihen. Perfekt für Künstler, Designer und Enthusiasten, die ihre Kreationen mit atemberaubenden Lichteffekten zum Leben erwecken möchten.",
+  "inputSection": {
+    "title": "Eingabebild",
+    "subjectImage": {
+      "title": "Motivbild",
+      "description": "Das Bild, das neu beleuchtet werden soll"
+    },
+    "backgroundImage": {
+      "title": "Hintergrundbild",
+      "description": "Das Bild, das als Referenz für die Neu-Beleuchtung des Motivbilds dient"
+    },
+    "prompt": {
+      "title": "Prompt",
+      "description": "Eine Textbeschreibung, die den Neu-Beleuchtungs- und Generierungsprozess leitet.",
+      "placeholder": "Gib deinen Prompt ein... Frau, detailliertes Gesicht, Sci-Fi RGB-Lichter, Cyberpunk usw."
+    }
+  },
+  "outputSection": {
+    "title": "Ergebnisse der Neu-Beleuchtung",
+    "emptyState": "Ergebnisse werden hier angezeigt"
+  },
+  "deleteModal": {
+    "title": "Löschbestätigung",
+    "message": "Bist du sicher, dass du dieses Video löschen möchtest? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "cancelButton": "Abbrechen",
+    "deleteButton": "Löschen"
+  },
+  "seoSection": {
+    "whatIs": {
+      "title": "Was ist KI-Bild-Neu-Beleuchtung?",
+      "description": "KI-Bild-Neu-Beleuchtung ist eine hochmoderne Technik, die künstliche Intelligenz verwendet, um den Hintergrund und die Beleuchtung in Bildern zu verändern. Dieser Prozess kann die Stimmung und Umgebung einer Szene dramatisch verändern, indem er die Lichtquellen, Schatten und das Gesamtambiente anpasst. Er ermöglicht es Urhebern, einfach mit verschiedenen Beleuchtungsszenarien zu experimentieren, ohne ganze Panels neu zeichnen oder malen zu müssen."
+    },
+    "howTo": {
+      "title": "So beleuchtest du deine Bilder mit KI neu",
+      "description": "Verändere auf einfache Weise die Beleuchtung in deiner Anime-, Manga- oder Comic-Kunst mit KI-Bild-Neu-Beleuchtung. Befolge diese einfachen Schritte, um deine visuelle Erzählung zu verbessern und deiner Kunst Tiefe zu verleihen."
+    },
+    "steps": {
+      "step1": {
+        "title": "Schritt 1: Vordergrundbild hochladen",
+        "content": "Lade das Hauptbild hoch, das du neu beleuchten möchtest. Dies könnte ein Charakter, ein Panel oder eine Szene aus deinem Comic oder Anime sein."
+      },
+      "step2": {
+        "title": "Schritt 2: Hintergrundbild hochladen",
+        "content": "Lade ein Hintergrundbild hoch, um die Neu-Beleuchtungsauswahl der KI zu leiten. Die KI verwendet die Beleuchtung und Farbpalette aus diesem Bild, um den Vordergrund neu zu beleuchten."
+      },
+      "step3": {
+        "title": "Schritt 3: Prompt eingeben (Optional)",
+        "content": "Gib einen Prompt ein, um den gewünschten Beleuchtungseffekt zu beschreiben. Zum Beispiel 'weiches Sonnenuntergangslicht' oder 'Cyberpunk-Neonlichter'."
+      },
+      "step4": {
+        "title": "Schritt 4: Neu beleuchten und teilen",
+        "content": "Klicke auf 'Bild neu beleuchten' und warte, bis die KI ihre Magie wirkt. Lade deine neu beleuchtete Kreation herunter und teile sie!"
+      }
+    },
+    "examples": {
+      "title": "Beispiele für KI-Bild-Neu-Beleuchtung",
+      "description": "Entdecke die atemberaubenden Ergebnisse, die von Benutzern erzielt wurden, die KI-Bild-Neu-Beleuchtung für ihre Anime-, Manga- und Comic-Kunstwerke verwenden.",
+      "example1": {
+        "subjectAlt": "Eingegebenes Motivbild",
+        "subjectCaption": "Eingegebenes Motivbild",
+        "backgroundAlt": "Eingegebenes Referenzbild",
+        "backgroundCaption": "Eingegebenes Hintergrundbild",
+        "outputAlt": "Ausgegebenes, neu beleuchtetes Bild",
+        "outputCaption": "Ausgegebenes, neu beleuchtetes Bild"
+      },
+      "example2": {
+        "subjectAlt": "Eingegebenes Motivbild",
+        "subjectCaption": "Eingegebenes Motivbild",
+        "backgroundAlt": "Eingegebenes Referenzbild",
+        "backgroundCaption": "Eingegebenes Hintergrundbild",
+        "outputAlt": "Ausgegebenes, neu beleuchtetes Bild",
+        "outputCaption": "Ausgegebenes, neu beleuchtetes Bild"
+      },
+      "example3": {
+        "subjectAlt": "Eingegebenes Motivbild",
+        "subjectCaption": "Eingegebenes Motivbild",
+        "backgroundAlt": "Eingegebenes Referenzbild",
+        "backgroundCaption": "Eingegebenes Hintergrundbild",
+        "outputAlt": "Ausgegebenes, neu beleuchtetes Bild",
+        "outputCaption": "Ausgegebenes, neu beleuchtetes Bild"
+      }
+    },
+    "benefits": {
+      "title": "Warum du deine Anime und Comics mit KI neu beleuchten solltest",
+      "description": "KI-Bild-Neu-Beleuchtung vereinfacht den Prozess der Beleuchtungsänderung für jedermann, vom Anfänger bis zum professionellen Illustrator. Sieh, wie KI deine Anime-, Manga-, Comic- und Manhwa-Kreationen verbessern kann.",
+      "benefit1": {
+        "title": "Referenzbasierte Neu-Beleuchtung",
+        "content": "Lade Hintergrundbilder hoch, um die Beleuchtungsauswahl und den Stil der KI zu leiten und sicherzustellen, dass dein neu beleuchtetes Kunstwerk perfekt zu deiner Vision passt."
+      },
+      "benefit2": {
+        "title": "Gib deine Beleuchtung an",
+        "content": "Gib die Beleuchtungseffekte an, die du in deinem Kunstwerk wünschst, mit Prompts wie 'weicher Sonnenuntergang' oder verwende Referenzbilder für eine präzisere Steuerung."
+      },
+      "benefit3": {
+        "title": "Benutzerdefinierte Kunststile",
+        "content": "Verbessere verschiedene Kunststile mit KI, einschließlich 'Comic', 'Anime', 'Manga' und 'Manhwa'. Füge deinen Illustrationen mühelos Tiefe und Stimmung hinzu."
+      },
+      "benefit4": {
+        "title": "Mühelose Neu-Beleuchtung",
+        "content": "Spare Zeit und Mühe, indem du die KI den Neu-Beleuchtungsprozess übernehmen lässt. Die KI passt automatisch die Beleuchtung und das Ambiente deiner Szenen an. Keine Notwendigkeit, die Beleuchtung für jedes Detail manuell anzupassen."
+      },
+      "benefit5": {
+        "title": "Intelligente Beleuchtung",
+        "content": "Durch das Verständnis der Nuancen deines künstlerischen Stils analysiert die KI die Komposition, Struktur und Gesamtästhetik deiner Zeichnung. Die KI wendet die Beleuchtung so an, dass sie nicht nur zu deiner Illustration passt, sondern sie auch verbessert."
+      },
+      "benefit6": {
+        "title": "Hochwertige Ausgaben",
+        "content": "Lade Bilder in professioneller Qualität herunter, perfekt zum Teilen oder Drucken deiner Comics, Mangas und Anime-Kunstwerke."
+      },
+      "benefit7": {
+        "title": "Optimierter Workflow",
+        "content": "KI-Bild-Neu-Beleuchtung lässt sich nahtlos in deinen Illustrations-, Comic-, Manhwa- oder Manga-Workflow integrieren. Die KI befreit dich von komplexen Beleuchtungsanpassungen, sodass du dich auf den kreativen Kern deines Kunstwerks konzentrieren kannst."
+      },
+      "benefit8": {
+        "title": "Panel-Konsistenz",
+        "content": "Sorge für eine konsistente Beleuchtung über mehrere Manga-Panels und Seiten hinweg. Perfekt für Manga-Künstler und Comic-Ersteller, die eine durchgängige Beleuchtungskontinuität in ihren Geschichten und Charakterdesigns gewährleisten müssen."
+      },
+      "benefit9": {
+        "title": "Sofortige visuelle Verbesserung",
+        "content": "Verwandle deine Szenen sofort mit lebendiger Beleuchtung. Egal, ob du an Mangas, Comics oder Strichzeichnungen arbeitest, unser KI-Neu-Beleuchter erweckt dein Kunstwerk zum Leben und bewahrt gleichzeitig die Originalqualität."
+      }
+    },
+    "faq": {
+      "title": "Häufige Fragen zur KI-Bild-Neu-Beleuchtung",
+      "description": "Finde Antworten auf häufig gestellte Fragen zur Neu-Beleuchtung von Bildern und Skizzen mit KI für Anime, Manga und Comics."
+    }
+  },
+  "faq": {
+    "question1": "Was ist KI-Bild-Neu-Beleuchtung für Anime und Comics?",
+    "answer1": "KI-Bild-Neu-Beleuchtung ist eine hochmoderne Technik, die künstliche Intelligenz verwendet, um die Beleuchtung in Bildern zu verändern, insbesondere für Anime, Manga, Comics und Manhwa. Dieser Prozess kann die Stimmung und Umgebung einer Szene dramatisch verändern, indem er die Lichtquellen, Schatten und das Gesamtambiente anpasst. Er ermöglicht es Urhebern, einfach mit verschiedenen Beleuchtungsszenarien zu experimentieren, ohne ganze Panels neu zeichnen oder malen zu müssen.",
+    "question2": "Wie funktioniert KI-Neu-Beleuchtung?",
+    "answer2": {
+      "intro": "KI-Neu-Beleuchtung umfasst ausgefeilte Algorithmen, die ein Bild analysieren und seine verschiedenen Elemente identifizieren, wie z. B. Charaktere, Hintergründe und Objekte. Die KI verwendet diese Informationen dann, um realistisch neue Lichteffekte basierend auf Benutzerprompts oder Referenzbildern anzuwenden. So verwendest du das KI-Neu-Beleuchtungstool:",
+      "step1": "Lade dein Basisbild hoch (z. B. Comic-Panel oder Anime-Frame).",
+      "step2": "Lade ein Hintergrundbild hoch, das zum Neu-Beleuchten des Vordergrundbilds verwendet wird.",
+      "step3": "Gib optional einen Prompt ein, um den gewünschten Beleuchtungseffekt zu beschreiben (z. B. „weiches Sonnenuntergangslicht“, „harte Cyberpunk-Neonlichter“).",
+      "step4": "Klicke auf die Schaltfläche „Bild neu beleuchten“, um das Bild zu verarbeiten.",
+      "step5": "Lade das neu beleuchtete Bild herunter und integriere es in dein Projekt."
+    },
+    "question3": "Kann ich KI verwenden, um meinen Comic-Panels dramatische Lichteffekte hinzuzufügen?",
+    "answer3": "Ja, KI kann verwendet werden, um deinen Comic-Panels dramatische Lichteffekte hinzuzufügen. Mit dem KI-Bild-Neu-Beleuchtungstool kannst du ein Comic-Panel hochladen und einen Beleuchtungsstil angeben oder ein Referenzbild hochladen. Die KI passt dann die Beleuchtung in deinem Panel an den angegebenen Stil an und verbessert so die Stimmung und die visuelle Wirkung deines Kunstwerks.",
+    "question4": "Was sind die Vorteile der Verwendung von KI für die Neu-Beleuchtung?",
+    "answer4": {
+      "intro": "Die Verwendung von KI für die Neu-Beleuchtung in Anime und Comics bietet zahlreiche Vorteile:",
+      "benefit1": "Spart Zeit: KI-Neu-Beleuchtung kann die Zeit, die für die manuelle Anpassung der Beleuchtung in jedem Panel oder Frame aufgewendet wird, erheblich reduzieren.",
+      "benefit2": "Fördert die Kreativität: Experimentiere schnell und einfach mit verschiedenen Beleuchtungsszenarien, was eine kreativere Erkundung ermöglicht.",
+      "benefit3": "Gewährleistet Konsistenz: Sorge für einen konsistenten Beleuchtungsstil über mehrere Panels oder Frames hinweg, was für die visuelle Erzählung von entscheidender Bedeutung ist.",
+      "benefit4": "Barrierefreiheit: KI-Tools machen fortschrittliche Beleuchtungstechniken für Künstler aller Fähigkeitsstufen zugänglich."
+    },
+    "question5": "Welche Arten von Bildern funktionieren am besten mit KI-Neu-Beleuchtung?",
+    "answer5": {
+      "intro": "KI-Neu-Beleuchtung funktioniert gut mit einer Vielzahl von Bildern, aber die besten Ergebnisse werden in der Regel mit Folgendem erzielt:",
+      "type1": "Anime-Frames: Verbessere die Stimmung und das Drama von Schlüsselszenen mit dynamischer Beleuchtung.",
+      "type2": "Manga-Panels: Füge Schwarzweiß-Manga-Panels Tiefe und Atmosphäre hinzu.",
+      "type3": "Comic-Kunst: Erstelle atemberaubende visuelle Effekte für Superhelden-Comics und Graphic Novels.",
+      "type4": "Manhwa-Illustrationen: Erwecke Webtoons mit lebendiger und konsistenter Beleuchtung zum Leben."
+    },
+    "question6": "Kann ich KI-neu beleuchtete Bilder für kommerzielle Zwecke verwenden?",
+    "answer6": "Ja, du kannst KI-generierte, neu beleuchtete Bilder sowohl für persönliche als auch für kommerzielle Zwecke verwenden. Stelle jedoch immer sicher, dass du die Nutzungsbedingungen der Plattform in Bezug auf KI-generierte Inhalte einhältst.",
+    "question7": "Welche Dateiformate werden für die KI-Neu-Beleuchtung unterstützt?",
+    "answer7": "Das KI-Neu-Beleuchtungstool unterstützt gängige Bildformate wie JPG und PNG. Diese Formate sind in der Anime- und Comic-Industrie weit verbreitet und gewährleisten die Kompatibilität mit den meisten Workflows.",
+    "question8": "Ist das KI-Bild-Neu-Beleuchtungstool kostenlos?",
+    "answer8": "KomikoAI bietet eine kostenlose Anzahl von Zaps (Credits) an, mit denen du das Tool ausprobieren kannst. Du kannst auch kostenpflichtige Pläne für mehr Zaps erwerben, wenn du mehr Nutzung benötigst, sowie erweiterte Funktionen wie schnellere Verarbeitung und höhere Auflösungen.",
+    "question9": "Welche Art von Prompts sollte ich für die besten Ergebnisse verwenden?",
+    "answer9": "Verwende für optimale KI-Neu-Beleuchtungsergebnisse klare und beschreibende Prompts. Versuche es zum Beispiel mit Prompts wie: „weiches Sonnenuntergangslicht“, „intensive Neon-Cyberpunk-Lichter“ oder „unheimliches Mondlicht“. Je genauer du bist, desto besser kann die KI deine Vision interpretieren.",
+    "question10": "Gibt es Einschränkungen bei der KI-Bild-Neu-Beleuchtung?",
+    "answer10": {
+      "intro": "Obwohl die KI-Bild-Neu-Beleuchtung ein leistungsstarkes Werkzeug ist, hat sie einige Einschränkungen:",
+      "limitation1": "Künstlerischer Stil: Die KI stimmt möglicherweise nicht immer perfekt mit deinem gewünschten künstlerischen Stil überein.",
+      "limitation2": "Komplexe Szenen: Extrem komplexe Szenen mit zahlreichen Lichtquellen können zu weniger vorhersehbaren Ergebnissen führen.",
+      "limitation3": "Prompt-Interpretation: Übermäßig vage oder unklare Prompts können zu unbefriedigenden Ergebnissen führen.",
+      "conclusion": "Trotz dieser Einschränkungen kann die KI-Neu-Beleuchtung dein Kunstwerk erheblich verbessern und deinen kreativen Prozess beschleunigen."
+    },
+    "question11": "Muss ich ein erfahrener Künstler sein, um die KI-Bild-Neu-Beleuchtung zu verwenden?",
+    "answer11": "Nein, du musst kein erfahrener Künstler sein, um die KI-Bild-Neu-Beleuchtung zu verwenden. Dieses Tool ist so konzipiert, dass es für jedermann benutzerfreundlich ist, egal ob du ein professioneller Künstler oder ein Anfänger bist, der kreative Optionen erkundet. Die KI kümmert sich um die technischen Aspekte der Beleuchtung, sodass du dich auf deine künstlerische Vision konzentrieren kannst.",
+    "question12": "Wie sorgt KI-Neu-Beleuchtung für Konsistenz über mehrere Panels hinweg?",
+    "answer12": {
+      "intro": "Befolge diese Tipps, um die Konsistenz über mehrere Panels hinweg aufrechtzuerhalten:",
+      "tip1": "Verwende die gleichen Prompts: Wende auf jedes Panel die gleichen Beleuchtungsprompts an, um einen einheitlichen Stil zu gewährleisten.",
+      "tip2": "Referenzbilder: Verwende für mehrere Panels die gleichen Referenzbilder, um die Farb- und Beleuchtungsauswahl der KI zu leiten.",
+      "tip3": "Iterieren und verfeinern Sie: Überprüfe die neu beleuchteten Panels und nimm geringfügige Anpassungen vor, um sicherzustellen, dass sie mit deiner Gesamtvision übereinstimmen.",
+      "tip4": "Erstelle konsistente Charaktere: Stelle sicher, dass die Merkmale der Charaktere, wie z. B. die Augenfarbe, konsistent sind."
+    },
+    "question13": "Kann die KI-Neu-Beleuchtung bei Schwarzweiß-Manga-Panels helfen?",
+    "answer13": "Ja, die KI-Neu-Beleuchtung kann bei Schwarzweiß-Manga-Panels unglaublich effektiv sein. Durch das Hinzufügen subtiler Verläufe und Highlights kann die KI ein Gefühl von Tiefe und Atmosphäre erzeugen und die Panels optisch ansprechender gestalten. Experimentiere mit Prompts, die verschiedene Tageszeiten oder Wetterbedingungen nahelegen, um zu sehen, wie die KI dein Manga-Kunstwerk verbessern kann.",
+    "question14": "Wie kann ich die KI-Neu-Beleuchtung verwenden, um in meinen Comics unterschiedliche Stimmungen zu erzeugen?",
+    "answer14": "Die KI-Neu-Beleuchtung eignet sich hervorragend, um in deinen Comics unterschiedliche Stimmungen zu erzeugen. Verwende beispielsweise warmes, weiches Licht für eine romantische Szene oder hartes, kühles Licht für einen spannungsgeladenen Moment. Experimentiere mit Farbpaletten und Lichtrichtung, um die gewünschten Emotionen in deinen Lesern hervorzurufen. Referenzbilder können auch verwendet werden, um die KI in Richtung bestimmter Stimmungen und Stile zu lenken.",
+    "question15": "Ist es möglich, die KI-neu beleuchteten Ergebnisse zu bearbeiten?",
+    "answer15": "Ja, du kannst die KI-neu beleuchteten Bilder mit deiner bevorzugten Digital-Art-Software weiter bearbeiten und verfeinern. Das KI-generierte Ergebnis dient als hervorragende Basis, die du mit deiner persönlichen künstlerischen Note verbessern kannst. Du kannst Farben anpassen, Details verfeinern und zusätzliche Effekte hinzufügen, um den gewünschten Look zu erzielen.",
+    "question16": "Was sind einige kreative Möglichkeiten, die KI-Bild-Neu-Beleuchtung zu nutzen?",
+    "answer16": {
+      "intro": "Die KI-Bild-Neu-Beleuchtung kann verwendet werden für:",
+      "use1": "Erstellen dramatischer Szenen in Superhelden-Comics",
+      "use2": "Hinzufügen von Atmosphäre zu Manga-Panels",
+      "use3": "Verbessern des visuellen Reizes von Webtoons",
+      "use4": "Experimentieren mit verschiedenen Beleuchtungsstilen für das Charakterdesign",
+      "use5": "Pädagogische Zwecke im Kunstunterricht",
+      "use6": "Revitalisieren alter Schwarzweiß-Illustrationen"
+    },
+    "question17": "Wie funktioniert die Hintergrundbildfunktion im KomikoAI KI-Neu-Beleuchter?",
+    "answer17": "Der KI-Neu-Beleuchter von KomikoAI verfügt über eine leistungsstarke Hintergrundbildfunktion, mit der du die Beleuchtungsauswahl der KI für deine Mangas, Comics oder Illustrationen steuern kannst. Durch das Hochladen eines Hintergrundbilds zusammen mit deinen Strichzeichnungen analysiert die KI die Farbpalette und den künstlerischen Stil, um gezieltere Neu-Beleuchtungsergebnisse zu erzielen. Diese Funktion ist besonders wertvoll für Manga-Künstler und Comic-Ersteller, die eine konsistente Beleuchtung in ihren Kunstwerken beibehalten möchten. Der KI-Neu-Beleuchter verwendet fortschrittliches maschinelles Lernen, um Farbschemata aus deinem Hintergrundbild zu extrahieren und sie auf intelligente Weise auf dein Vordergrundbild anzuwenden, während die ursprüngliche künstlerische Absicht erhalten bleibt.",
+    "question18": "Was macht ein gutes Hintergrundbild für die KI-Linien-Art-Neu-Beleuchtung aus?",
+    "answer18": {
+      "intro": "Für optimale Ergebnisse mit dem KI-Linien-Art-Neu-Beleuchter von KomikoAI wähle Referenzbilder, die mit deiner künstlerischen Vision für Mangas, Comics oder Illustrationen übereinstimmen. Die besten Hintergrundbilder sollten:",
+      "tip1": "Klare, gut definierte Farben und Beleuchtung aufweisen, die mit deinem gewünschten Manga- oder Comic-Stil übereinstimmen",
+      "tip2": "Ähnliche Inhalte oder eine ähnliche künstlerische Ausrichtung mit deinem Vordergrundbild teilen (z. B. Anime-Stil, Comic-Stil)",
+      "tip3": "Die spezifische Farbpalette zeigen, die du in deinem Kunstwerk erreichen möchtest",
+      "tip4": "Gut beleuchtet und von hoher Qualität sein, damit die KI Farben genau analysieren kann",
+      "conclusion": "Du kannst verschiedene Arten von Referenzen verwenden, einschließlich vorhandener Anime-Charaktere, Anime-Screenshots, Manga-Panels oder digitaler Illustrationen. Diese Flexibilität ermöglicht es Künstlern, eine präzise Farbabstimmung zu erzielen und die Konsistenz über ihre Manga-Seiten oder Comic-Panels hinweg aufrechtzuerhalten."
+    }
+  },
+  "relight_image": "Bild neu beleuchten"
+}

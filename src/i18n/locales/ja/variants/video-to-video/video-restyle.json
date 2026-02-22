@@ -1,0 +1,156 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Video Restyle",
+      "description": "Video Restyleで、あなたのビデオを新たな表現で生まれ変わらせましょう。AI技術を活用し、元の動きはそのままに、アニメ、カートゥーン、マンガ、マンファ風のスタイルに手軽に変換できます。",
+      "keywords": "Video Restyle, AI Video Restyle, アニメスタイル変換ツール, カートゥーンビデオ変換, マンガスタイル変換, マンファアニメーション変換, ビデオアニメ化, ビデオ変換ツール, アニメ風ビデオ作成, マンガ風ビデオ作成, ビデオスタイル変換, アニメーションビデオ作成, コミック風ビデオ作成, アニメ変換, カートゥーン変換"
+    },
+    "hero": {
+      "title": "Video Restyle"
+    },
+    "whatIs": {
+      "title": "Video Restyleとは？",
+      "description": "Video Restyleは、最先端のAI技術でビデオをアニメ、カートゥーン、マンガ、マンファといった様々なスタイルに変換する革新的なツールです。独自のAIが、まず選択したスタイルを参照フレームに適用し、そのスタイルを基に、元の動きやタイミングを忠実に再現しながらビデオ全体を変換します。スタジオジブリ風、韓国マンファ風、日本マンガ風など、100種類以上のスタイルから自由に選択可能です。"
+    },
+    "examples": {
+      "title": "Video Restyleの活用例",
+      "description": "Video Restyleの高度な技術によって、動きの自然さを保ちつつ、ビデオを魅力的なアニメ、カートゥーン、マンガ、マンファ風に生まれ変わらせる力を体験してください。"
+    },
+    "howToUse": {
+      "title": "Video Restyleの使い方",
+      "steps": [
+        {
+          "title": "ビデオをアップロード",
+          "content": "変換したいビデオファイル（MP4、MOV、AVI）をアップロードします。最大15秒、50MBまで対応。15秒を超えるビデオは、システム処理のためトリミングされます。"
+        },
+        {
+          "title": "参照フレームの選択",
+          "content": "ビデオの最初のフレームを選択し、適用したいアニメ、カートゥーン、マンガスタイルを適用します。これが、変換の一貫性を保つための設計図となります。"
+        },
+        {
+          "title": "アートスタイルの選択",
+          "content": "スタジオジブリ風、韓国マンファ風、日本マンガ風など、100種類以上のプリセットスタイルから選択。テキストプロンプトや参照画像を使って、独自のカスタムスタイルを作成することも可能です。"
+        },
+        {
+          "title": "Video Restyleを実行",
+          "content": "選択したスタイルを基に、Video Restyleがビデオ全体を変換します。元の動き、表情、タイミングはそのままに、高度な技術で自然な仕上がりを実現します。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Video Restyleを選ぶ理由",
+      "description": "Video Restyleは、優れた動きの再現性、豊富なスタイル、そして明瞭な価格設定で、最先端のビデオ変換技術を提供します。",
+      "features": [
+        {
+          "title": "卓越したモーション保持",
+          "content": "Video Restyleは、元の動き、表情、タイミングの細部まで忠実に再現。フレーム単位で一貫性のあるスタイルを適用し、アニメ、カートゥーン、マンガ風に変換します。",
+          "icon": "🎬"
+        },
+        {
+          "title": "100種類以上のスタイル",
+          "content": "スタジオジブリ、韓国マンファ、日本マンガ、ディズニー風カートゥーンなど、豊富なスタイルにアクセス可能。テキストプロンプトや参照画像を使って、オリジナルのスタイルを作成することもできます。",
+          "icon": "🎨"
+        },
+        {
+          "title": "プロレベルの品質",
+          "content": "ちらつきやノイズのない、高解像度のアニメーションビデオを生成。スムーズなトランジションと、プロフェッショナルな仕上がりを実現します。",
+          "icon": "✨"
+        },
+        {
+          "title": "透明性の高い価格設定",
+          "content": "ビデオ処理と生成にかかる費用が明確で、安心して利用できます。様々なスタイルを試しても、追加料金は発生しません。",
+          "icon": "⚡"
+        },
+        {
+          "title": "簡単2ステップ",
+          "content": "ビデオをアップロードし、スタイルを選択するだけのシンプルなプロセス。リアルタイムで進捗状況を確認でき、専門知識は不要です。",
+          "icon": "👌"
+        },
+        {
+          "title": "自動最適化",
+          "content": "自動トリミング、幅広いファイル形式（MP4、MOV、AVI）への対応、最適な結果を得るための期間ベースのコストアルゴリズムなど、スマートな処理を実現します。",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくあるご質問",
+      "description": "Video Restyleとその技術に関する、よくある質問への回答です。",
+      "q1": "Video Restyleとは？",
+      "a1": "Video Restyleは、高度な技術でモーションの整合性を保ちながら、ビデオをアニメ、カートゥーン、マンガ、マンファなど、様々なスタイルに変換するAIツールです。",
+      "q2": "Video Restyleの使い方は？",
+      "a2": "使い方はとても簡単です。ビデオをアップロードし、好きなアートスタイルを選ぶだけで、ビデオが変換されます。カスタマイズ可能なオプションで、手軽にクリエイティブなプロセスを楽しめます。",
+      "q3": "Video Restyleの仕組みは？",
+      "a3": "Video Restyleは、高度なスタイル変換技術を使って、アートスタイルをビデオに適用します。まず参照フレームを処理し、それをすべてのフレームに適用することで、視覚的な精度とモーションを維持します。",
+      "q4": "おすすめのビデオ変換ツールは？",
+      "a4": "KomikoAIは、最高のビデオ変換ツールを提供することを目指しています。プロレベルの品質、パワフルで楽しいカスタマイズ、直感的なワークフローを無料で試せる、主要なAIプラットフォームとなることを目標としています。Video Restyleを使えば、様々なスタイルを探索でき、新しいクリエイティブなアプローチを求めるユーザーに最適です。",
+      "q5": "KomikoAI Video Restyleは無料で利用できますか？",
+      "a5": "はい、KomikoAIでVideo Restyleを無料で試すことができます。サブスクリプション登録は不要です。今すぐお試しください！",
+      "q6": "Video Restyleで何ができますか？",
+      "a6": "KomikoAIのVideo Restyleを使えば、鮮やかなアニメ、印象的なカートゥーンスタイル、エレガントなマンガ変換、そしてモーションの忠実度を保ったユニークなマンファ風のビデオを作成できます。",
+      "q7": "Video Restyleはスマートフォンでも使えますか？",
+      "a7": "はい、Video Restyleはスマートフォンやコンピューターなど、様々なデバイスでウェブアプリとして利用可能です。",
+      "q8": "変換した作品はダウンロードできますか？",
+      "a8": "はい、KomikoAIのVideo Restyleでは、MP4、MOV、AVIなど、様々な形式で作品をエクスポートできます。",
+      "q9": "Video Restyleを選ぶメリットは？",
+      "a9": "Video Restyleを使えば、クリエイティブなプロジェクトをレベルアップできます。新しい芸術的表現を探索し、高い技術品質を維持し、ビデオスタイルの選択を効果的にパーソナライズできます。"
+    },
+    "cta": {
+      "title": "Video Restyleで今すぐ無料でビデオを変換しましょう！",
+      "description": "AI Video Restyleツールで、創造的なビデオ変換を体験してください。",
+      "buttonText": "Video Restyleを無料で試す"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-girl.webm",
+      "inputLabel": "オリジナルビデオ",
+      "outputLabel": "カートゥーンスタイル",
+      "description": "スタイル転送 | オリジナルビデオをカートゥーンスタイルに変換"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-dj.webm",
+      "inputLabel": "オリジナルビデオ",
+      "outputLabel": "スケッチスタイル",
+      "description": "スタイル転送 | オリジナルビデオをスケッチスタイルに変換"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/drum-set.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/the-simpsons.webm",
+      "inputLabel": "オリジナルビデオ",
+      "outputLabel": "変換結果",
+      "description": "映画/番組 | スタイル: ザ・シンプソンズ"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/skateboard.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/minfecraft.webm",
+      "inputLabel": "オリジナルビデオ",
+      "outputLabel": "変換結果",
+      "description": "ゲーム | スタイル: Minecraft"
+    }
+  ],
+  "originalKeyword": "Video Restyle",
+  "pageStructure": [
+    "whyUse",
+    "examples",
+    "whatIs",
+    "howToUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

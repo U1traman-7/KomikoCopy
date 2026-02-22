@@ -1,0 +1,21 @@
+{
+  "title": "搜尋",
+  "placeholder": "搜尋作品、角色、使用者...",
+  "input_placeholder": "搜索",
+  "history": "搜尋紀錄",
+  "clear": "清除",
+  "tags": "標籤",
+  "no_results": "沒有搜尋結果",
+  "filter": {
+    "all": "全部",
+    "users": "使用者",
+    "characters": "角色",
+    "templates": "範本",
+    "posts": "作品",
+    "tags": "標籤"
+  },
+  "see_all": "查看全部",
+  "followers": "粉絲",
+  "follow": "關注",
+  "following": "已關注"
+}

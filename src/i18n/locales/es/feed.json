@@ -1,0 +1,73 @@
+{
+  "tags": {
+    "trending": "Tendencias",
+    "newest": "Más recientes",
+    "most_likes": "Con más 'Me gusta'",
+    "following": "Seguidos",
+    "ranking": "Clasificación",
+    "leaderboard": "Clasificación"
+  },
+  "loadMore": "Cargar más",
+  "noMorePosts": "No hay más publicaciones para cargar",
+  "tryAgain": "Intenta de nuevo",
+  "noPostsFound": "No se han encontrado publicaciones",
+  "actions": {
+    "loadMore": "Cargar más",
+    "tryAgain": "Intentar de nuevo",
+    "refresh": "Actualizar",
+    "retry": "Reintentar",
+    "linkCopied": "¡Enlace para compartir copiado!"
+  },
+  "states": {
+    "noMorePosts": "No hay más publicaciones para mostrar",
+    "noPostsFound": "No se encontraron publicaciones"
+  },
+  "errors": {
+    "noResponse": "Error al obtener datos: Sin respuesta",
+    "unknownError": "Error desconocido",
+    "serverError": "Error del servidor {{status}}: {{statusText}}",
+    "loadFailed": "Error al cargar la fuente",
+    "timeout": "Se agotó el tiempo de espera de la solicitud. Por favor, inténtelo de nuevo.",
+    "serverSlow": "La respuesta del servidor es lenta, por favor intente de nuevo más tarde. Si el problema persiste, actualice la página."
+  },
+  "labels": {
+    "sortBy": "Ordenar por:",
+    "filterBy": "Filtrar por:"
+  },
+  "noRelatedPostDesc": "¡Sé el primero en crear contenido con este personaje!",
+  "ranking": {
+    "postRanking": "Obras",
+    "creatorRanking": "Creadores",
+    "characterRanking": "Personajes",
+    "daily": "Diario",
+    "weekly": "Semanal",
+    "monthly": "Mensual",
+    "loading": "Cargando...",
+    "noData": "No hay datos disponibles",
+    "noPreview": "Sin vista previa",
+    "fans": "Seguidores",
+    "posts": "Publicaciones",
+    "follow": "Seguir",
+    "following": "Siguiendo",
+    "followSuccess": "Seguido con éxito",
+    "followFailed": "Error al seguir",
+    "weeklyRules": "Reglas de la clasificación semanal",
+    "weeklyRulesContent": "La clasificación se basa en el total de 'me gusta' de la última semana. El puntaje se cierra a las 12:00 AM PST todos los lunes, y las insignias y recompensas en Zaps se distribuyen a las 5:00 AM.\n1er Lugar: 500 Zaps | 2do Lugar: 300 Zaps | 3er Lugar: 100 Zaps\nElegible para recompensas semanales y mensuales.",
+    "monthlyRules": "Reglas de la clasificación mensual",
+    "monthlyRulesContent": "La clasificación se basa en el total de 'me gusta' del último mes. El puntaje se cierra a las 12:00 AM PST el 1 de cada mes, y las insignias y recompensas en Zaps se distribuyen a las 5:00 AM.\n1er Lugar: 1,000 Zaps | 2do Lugar: 800 Zaps | 3er Lugar: 500 Zaps\nElegible para recompensas semanales y mensuales."
+  },
+  "tagOrder": {
+    "title": "Gestionar etiquetas",
+    "description": "Arrastra y suelta para reorganizar tus etiquetas seguidas",
+    "position": "Posición {{position}}",
+    "noFollowedTags": "Todavía no sigues ninguna etiqueta. ¡Sigue algunas para personalizar su orden!",
+    "saved": "Orden de etiquetas guardado con éxito",
+    "subscribedTags": "Etiquetas que sigues",
+    "dragToReorder": "(arrastrar para reordenar)",
+    "presetTags": "Etiquetas recomendadas",
+    "otherTags": "Otras etiquetas",
+    "noTags": "No hay etiquetas disponibles",
+    "saveFailed": "Error al guardar los cambios"
+  },
+  "search_tags_placeholder": "Buscar etiquetas populares..."
+}

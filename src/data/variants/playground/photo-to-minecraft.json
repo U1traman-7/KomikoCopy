@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Photo to Minecraft",
+      "description": "Turn your photos into captivating Minecraft-style artwork with AI. Experience the joy of pixel art transformation. Start now!",
+      "keywords": "Photo to Minecraft, AI Minecraft art generator, image to Minecraft conversion, Minecraft-style photo filter"
+    },
+    "hero": {
+      "title": "Photo to Minecraft"
+    },
+    "whatIs": {
+      "title": "What is Photo to Minecraft?",
+      "description": "The Photo to Minecraft AI Generator is a user-friendly tool that turns your images into impressive pixel art inspired by the Minecraft universe. Utilizing cutting-edge machine learning algorithms, this generator captures the whimsical charm of Minecraft while preserving the essence of your photo. Ideal for content creators, gamers, and Minecraft enthusiasts, it's time to elevate your photos into the joyful world of blocks!"
+    },
+    "examples": {
+      "title": "Photo to Minecraft Examples",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "How to Use Photo to Minecraft",
+      "steps": [
+        {
+          "title": "Step 1: Upload Your Photo",
+          "content": "Select a vibrant, clear image for best results. Click to upload an image from your device."
+        },
+        {
+          "title": "Step 2: Select the Pixel Art Template",
+          "content": "Select the Pixel Art template to transform your photo with the pixel art style."
+        },
+        {
+          "title": "Step 3: Convert to Pixel Art",
+          "content": "Click 'Convert to Pixel Art' to see your photo transform into a pixel-perfect Minecraft masterpiece thanks to our AI."
+        },
+        {
+          "title": "Step 4: Download and Share",
+          "content": "Easily save your pixel art to your device and share with friends on social media. Show off your unique creations!"
+        }
+      ],
+      "subtitle": "Craft stunning Minecraft pixels in four straightforward steps!"
+    },
+    "benefits": {
+      "title": "Why Choose Photo to Minecraft",
+      "description": "Unlock the magic of transforming photos into Minecraft art!",
+      "features": [
+        {
+          "title": "🖌️ Seamless Upload",
+          "content": "Upload various image formats, including JPG, PNG, and WEBP, easily."
+        },
+        {
+          "title": "🎨 Unique Minecraft Aesthetic",
+          "content": "Craft images that embrace the playful pixelated essence of Minecraft, sparking excitement and creativity."
+        },
+        {
+          "title": "⚡ Quick Processing",
+          "content": "Experience fast AI rendering of your artwork in seconds, so you can create and share without delay."
+        },
+        {
+          "title": "🌟 High Output Quality",
+          "content": "Receive high-resolution images perfect for sharing or printing, ensuring clarity in every pixelated masterpiece."
+        },
+        {
+          "title": "🛠️ Intuitive Interface",
+          "content": "Enjoy an easy-to-use platform perfect for all skill levels, from beginners to seasoned artists."
+        },
+        {
+          "title": "🚀 Showcase Your Art",
+          "content": "Share your creations effortlessly on social media to inspire fellow Minecraft fans."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Photo to Minecraft FAQ",
+      "description": "",
+      "q1": "What does the Photo to Minecraft transformation involve?",
+      "a1": "It employs AI algorithms that analyze your image and apply a pixel art style to create a Minecraft-inspired artwork, infusing your original photo with playfulness.",
+      "q2": "How can I achieve the best results with Photo to Minecraft styles?",
+      "a2": "Use vibrant images with distinct features, and explore various styles and settings for optimal transformation.",
+      "q3": "Is the Photo to Minecraft transformation free?",
+      "a3": "Yes! Our generator allows you to create and download artwork at no cost.",
+      "q4": "What sets Photo to Minecraft apart from other art generators?",
+      "a4": "It focuses explicitly on capturing Minecraft's pixel aesthetic, delivering engaging outcomes distinctly different from conventional filters.",
+      "q5": "Can I use my generated Minecraft art commercially?",
+      "a5": "Generated art can typically be shared or used personally. Please consult our terms of service for commercial guidelines."
+    },
+    "cta": {
+      "title": "Start Your Photo to Minecraft Journey Today",
+      "description": "Bring your photos to life as stunning Minecraft-style artworks using our powerful generator. Start transforming your images into pixel art today!",
+      "buttonText": "Transform Your Photo to Minecraft Art"
+    }
+  },
+  "config": {},
+  "placeholderText": "Create your Minecraft-style artwork now",
+  "originalKeyword": "Photo to Minecraft",
+  "defaultStyle": "pixel-art",
+  "examples": [
+    {
+      "image": "/images/examples/playground/photo-to-minecraft/example_1.webp",
+      "prompt": "Style: Pixel Art",
+      "input": "/images/examples/photo-to-anime/input2.jpg"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-minecraft/example_2.webp",
+      "prompt": "Style: Pixel Art",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-minecraft/example_3.webp",
+      "prompt": "Style: Pixel Art",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-minecraft/example_4.webp",
+      "prompt": "Style: Pixel Art",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp"
+    }
+  ]
+}

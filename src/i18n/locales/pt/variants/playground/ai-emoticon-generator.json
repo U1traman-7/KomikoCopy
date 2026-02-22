@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Gerador de Emoticons com IA",
+      "description": "Transforme as suas fotos em emoticons exclusivos com IA. Crie arte divertida instantaneamente e dê vida às suas imagens! Experimente gratuitamente hoje mesmo!",
+      "keywords": "Gerador de Emoticons com IA, gerador de arte de emoticon, foto para emoticon com IA, gerador de fotos criativas"
+    },
+    "hero": {
+      "title": "Gerador de Emoticons com IA"
+    },
+    "whatIs": {
+      "title": "O que é o Gerador de Emoticons com IA?",
+      "description": "O Gerador de Emoticons com IA é uma ferramenta inovadora que transforma as suas fotos em arte de emoticon original. Envie qualquer foto, selecione um estilo de emoticon da nossa diversificada biblioteca e veja como a nossa IA cria uma peça vibrante que reflete a sua personalidade. É perfeito para artistas, influenciadores e qualquer pessoa que queira adicionar um toque divertido às suas imagens, preservando a essência das suas fotos originais."
+    },
+    "examples": {
+      "title": "Exemplos do Gerador de Emoticons com IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como Usar o Gerador de Emoticons com IA",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a Sua Foto",
+          "content": "Selecione uma imagem nítida para enviar, garantindo que seja apelativa para obter resultados ideais. Aceitamos formatos JPG, PNG e WEBP, para sua flexibilidade."
+        },
+        {
+          "title": "Passo 2: Selecione o Modelo de Autocolantes Chibi",
+          "content": "Selecione o modelo de autocolantes Chibi para transformar a sua foto com o estilo Chibi."
+        },
+        {
+          "title": "Passo 3: Converter para Autocolantes Chibi",
+          "content": "Clique em ‘Converter’ para iniciar o processo de transformação da IA. Em apenas alguns instantes, veja a sua foto transformada em arte de emoticon divertida, mesclando o familiar com o lúdico."
+        },
+        {
+          "title": "Passo 4: Descarregue e Partilhe",
+          "content": "Depois que a sua arte de emoticon estiver pronta, descarregue a imagem e partilhe com amigos ou use nos seus projetos. Deixe a sua criatividade brilhar!"
+        }
+      ],
+      "subtitle": "Passos simples para criar a sua arte de emoticon personalizada."
+    },
+    "benefits": {
+      "title": "Por que Usar o Gerador de Emoticons com IA?",
+      "description": "Liberte o potencial da arte de emoticon para as suas imagens!",
+      "features": [
+        {
+          "title": "🎉 Estilos de Emoticon Únicos",
+          "content": "Aceda a diversos estilos de emoticon para garantir que cada criação seja exclusivamente sua e capture perfeitamente a sua intenção criativa."
+        },
+        {
+          "title": "⚡ Rápido e Eficiente",
+          "content": "Desfrute de transformações de imagem rápidas sem sacrificar a qualidade – gere arte de emoticon impressionante com apenas alguns cliques."
+        },
+        {
+          "title": "🖼️ Interface de Utilizador Intuitiva",
+          "content": "Navegue facilmente pela ferramenta, adequada tanto para artistas experientes quanto para utilizadores casuais. A criação de emoticons nunca foi tão fácil!"
+        },
+        {
+          "title": "💡 Saídas de Alta Qualidade",
+          "content": "Descarregue a sua arte de emoticon em alta resolução, perfeita para partilhar nas redes sociais ou exibir nas suas apresentações."
+        },
+        {
+          "title": "🚀 Infinitas Oportunidades Criativas",
+          "content": "Abrace a versatilidade da sua arte de emoticon – ideal para autocolantes, merchandise e conteúdo de redes sociais. Deixe a sua imaginação guiá-lo!"
+        },
+        {
+          "title": "📱 Acessível em Todos os Dispositivos",
+          "content": "Esteja em casa ou em viagem, a nossa plataforma é compatível com dispositivos móveis, permitindo que crie arte de emoticon a qualquer hora, em qualquer lugar."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Gerador de Emoticons com IA FAQ",
+      "description": "",
+      "q1": "O que é o Gerador de Emoticons com IA e como funciona?",
+      "a1": "O Gerador de Emoticons com IA usa algoritmos avançados de Machine Learning para criar versões de emoticon divertidas das suas imagens, mantendo os principais elementos enquanto adiciona um toque divertido e artístico.",
+      "q2": "Como posso aprimorar as minhas criações do Gerador de Emoticons com IA?",
+      "a2": "Escolha imagens com assuntos definidos e cores fortes. Experimente diferentes estilos de emoticon para descobrir o que ressoa com o seu público.",
+      "q3": "Usar o Gerador de Emoticons com IA é gratuito?",
+      "a3": "Sim, os nossos recursos básicos são gratuitos – permitindo que aproveite a criação sem barreiras financeiras.",
+      "q4": "O que diferencia o Gerador de Emoticons com IA de outras ferramentas?",
+      "a4": "Ao contrário dos filtros de imagem genéricos, o Gerador de Emoticons com IA captura exclusivamente a essência da sua foto original, ao mesmo tempo que introduz um estilo de emoticon divertido, oferecendo liberdade criativa incomparável.",
+      "q5": "Posso usar as minhas criações para fins comerciais?",
+      "a5": "Sim, a arte de emoticon criada com a nossa ferramenta pode ser usada comercialmente. Consulte os nossos termos de serviço para obter diretrizes específicas."
+    },
+    "cta": {
+      "title": "Comece a Criar Arte de Emoticon Hoje Mesmo!",
+      "description": "Junte-se ao movimento criativo e transforme as suas fotos em arte de emoticon expressiva. Experimente a alegria de criar com a nossa ferramenta de IA – experimente agora!",
+      "buttonText": "Transforme Fotos em Emoticons Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into emoticon art with our AI generator",
+  "originalKeyword": "AI Emoticon Generator",
+  "defaultStyle": "character-expression-sheet",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-emoticon-generator/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoticon-generator/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoticon-generator/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Chibi"
+    }
+  ]
+}

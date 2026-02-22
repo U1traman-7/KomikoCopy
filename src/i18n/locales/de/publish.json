@@ -1,0 +1,86 @@
+{
+  "pageTitle": "Beitrag | KomikoAI",
+  "shareStory": "Geschichte teilen",
+  "enterStoryTitle": "Gib den Titel deiner Geschichte ein",
+  "addMoreDescription": "Füge eine weitere Beschreibung hinzu",
+  "post": "Veröffentlichen",
+  "pleaseNote": "Bitte beachte:",
+  "nsfwWarning": "Bitte kennzeichne alle unangemessenen Inhalte als \"NSFW\". Beiträge ohne Markierung können entfernt werden, und wiederholte Verstöße können zu einem Bann führen. Illegale Inhalte (einschließlich solcher, die Minderjährige involvieren) sind strengstens verboten und führen zu einem permanenten Bann.",
+  "imageDownloadSuccess": "Bild erfolgreich heruntergeladen! Teile es jetzt mit deinen Freunden!",
+  "pleaseEnterTitle": "Bitte gib einen Titel ein.",
+  "pleaseCreateStory": "Bitte erstelle eine Geschichte.",
+  "failedToPost": "Fehler beim Veröffentlichen",
+  "defaultTitles": {
+    "character": "Meine Charaktererstellung",
+    "anime": "Mein Foto im Anime-Stil",
+    "animation": "Meine Animation",
+    "creation": "Meine Kreation"
+  },
+  "addTags": "Tag hinzufügen",
+  "tagPlaceholder": "#Tag eingeben",
+  "tagCount": "Tags ({{current}}/{{max}})",
+  "recommendedTags": "Empfohlene Tags",
+  "popularTags": "Beliebte Tags",
+  "activity": "Aktivität",
+  "share": "Teilen",
+  "uploadMedia": "Medien hochladen",
+  "dragDropOrClick": "Dateien hierher ziehen und ablegen oder klicken, um auszuwählen",
+  "dropFileHere": "Dateien hier ablegen",
+  "uploading": "Wird hochgeladen",
+  "storyTitle": "Geschichtstitel",
+  "description": "Beschreibung",
+  "titleLengthWarning": "Der Titel ist zu lang",
+  "characters": "Zeichen",
+  "pleasePublishFirst": "Bitte veröffentlichen Sie den Inhalt zuerst, bevor Sie ihn teilen",
+  "pinPost": "Diesen Beitrag im Trend-Feed oben anheften",
+  "fileUpload": {
+    "title": "Medien hochladen",
+    "subtitle": "Dateien hierher ziehen und ablegen oder klicken, um auszuwählen",
+    "dropHere": "Dateien hier ablegen",
+    "supportedFormats": "Unterstützte Formate",
+    "imageFormats": "JPG, PNG, WEBP",
+    "videoFormats": "MP4, MOV, AVI",
+    "maxSize": "Bilder: Maximal {{size}} MB",
+    "videoMaxSize": "Videos: Maximal {{size}}MB, {{duration}}Minuten",
+    "processing": "Datei wird verarbeitet...",
+    "uploading": "Wird hochgeladen...",
+    "success": "Hochladen erfolgreich!",
+    "error": "Hochladen fehlgeschlagen. Bitte versuchen Sie es erneut."
+  },
+  "mediaPreview": {
+    "image": "Bild",
+    "video": "Video",
+    "download": "Herunterladen",
+    "share": "Teilen",
+    "clear": "Löschen"
+  },
+  "validation": {
+    "titleRequired": "Bitte geben Sie einen Titel ein",
+    "contentRequired": "Bitte verfassen Sie eine Geschichte",
+    "fileRequired": "Bitte wählen Sie eine Datei aus",
+    "fileTooLarge": "Datei ist zu groß. Maximale Größe: {{size}} MB",
+    "unsupportedFormat": "Nicht unterstütztes Dateiformat",
+    "uploadFailed": "Hochladen fehlgeschlagen. Bitte versuchen Sie es erneut."
+  },
+  "actions": {
+    "publish": "Veröffentlichen",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "clear": "Alles löschen",
+    "download": "Herunterladen",
+    "share": "Teilen"
+  },
+  "preppingPost": "Bereite deinen Beitrag vor ...",
+  "drawer": {
+    "action": {
+      "newPost": "Neuer Beitrag",
+      "newCharacter": "Neuer Charakter",
+      "generateImage": "Bild erstellen",
+      "generateVideo": "Video erstellen",
+      "generateComic": "Comic erstellen"
+    },
+    "description": {
+      "newPost": "Teile deine Kreationen mit der Community."
+    }
+  }
+}

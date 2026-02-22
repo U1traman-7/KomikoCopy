@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Transferência de Estilo com IA",
+      "description": "Transforme as suas imagens em obras de arte únicas num instante com a nossa ferramenta de Transferência de Estilo com IA. Crie arte impressionante hoje! Experimente gratuitamente.",
+      "keywords": "Transferência de estilo com IA, gerador de arte com IA, foto para arte, transformação artística de fotos, aprimoramento de imagem com IA"
+    },
+    "hero": {
+      "title": "Transferência de Estilo com IA"
+    },
+    "whatIs": {
+      "title": "O que é a Transferência de Estilo com IA?",
+      "description": "A Transferência de Estilo com IA utiliza o aprendizado de máquina avançado para analisar as suas fotografias e aplicar uma variedade de estilos artísticos. De pinturas a óleo clássicas à arte digital vibrante, veja as suas imagens evoluírem para interpretações artísticas impressionantes, personalizadas à sua visão e gosto."
+    },
+    "examples": {
+      "title": "Exemplos de Transferência de Estilo com IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como Utilizar a Transferência de Estilo com IA",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a Sua Fotografia",
+          "content": "Escolha uma fotografia de alta resolução que gostaria de transformar. Clique no botão de envio para selecionar uma imagem do seu dispositivo."
+        },
+        {
+          "title": "Passo 2: Selecione um Estilo Artístico",
+          "content": "Navegue por uma extensa galeria de estilos artísticos gerados por IA, do impressionismo aos vetores modernos. Escolha aquele que melhor se identifica com a sua visão artística."
+        },
+        {
+          "title": "Passo 3: Gere a Sua Obra de Arte",
+          "content": "Clique no botão 'Transformar' e veja a sua fotografia a ser transformada em tempo real num instante!"
+        },
+        {
+          "title": "Passo 4: Descarregue e Partilhe",
+          "content": "Publique a sua obra de arte recém-estilizada online, partilhe-a com os seus entes queridos ou utilize-a nos seus projetos. Descarregue a sua obra-prima com um único clique."
+        }
+      ],
+      "subtitle": "Um guia simples para transformar as suas imagens de forma perfeita."
+    },
+    "benefits": {
+      "title": "Por que Utilizar a Transferência de Estilo com IA?",
+      "description": "Explore as vantagens únicas da transformação artística.",
+      "features": [
+        {
+          "title": "🎨 Diversos Estilos Artísticos",
+          "content": "Escolha entre uma seleção com curadoria de estilos artísticos, garantindo um toque pessoal a cada transformação."
+        },
+        {
+          "title": "⚡ Rápido e Fácil de Usar",
+          "content": "Experimente transformações rápidas com uma interface projetada para utilizadores de todos os níveis de experiência."
+        },
+        {
+          "title": "🖼️ Saídas de Alta Resolução",
+          "content": "Mantenha a qualidade dos seus originais com uma saída premium perfeita para impressão."
+        },
+        {
+          "title": "💫 Liberte a Sua Criatividade",
+          "content": "Incentive a exploração artística e ultrapasse os limites da sua fotografia."
+        },
+        {
+          "title": "🎯 Acessibilidade Contínua",
+          "content": "Crie arte a partir de qualquer lugar com acesso à internet — perfeito para criatividade espontânea."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Transferência de Estilo com IA FAQ",
+      "description": "",
+      "q1": "O que é a Transferência de Estilo com IA e como funciona?",
+      "a1": "A Transferência de Estilo com IA emprega algoritmos sofisticados para analisar as suas fotografias e aplicar características artísticas, combinando os dois para criar uma nova obra de arte que ecoa os estilos escolhidos.",
+      "q2": "Como posso obter os melhores resultados ao utilizar a Transferência de Estilo com IA?",
+      "a2": "Para obter resultados ideais, utilize imagens com pontos focais claros e experimente diferentes estilos para encontrar a sua estética ideal.",
+      "q3": "É gratuito utilizar a Transferência de Estilo com IA?",
+      "a3": "Sim, os nossos recursos básicos são gratuitos! Explore as opções premium para estilos avançados.",
+      "q4": "O que diferencia a Transferência de Estilo com IA dos filtros?",
+      "a4": "A Transferência de Estilo com IA utiliza *deep learning* para recriar estilos artísticos sutis, oferecendo exclusividade e profundidade para além de simples filtros de cor.",
+      "q5": "Posso comercializar as minhas criações de Transferência de Estilo com IA?",
+      "a5": "Sim, as imagens transformadas podem ser utilizadas comercialmente, embora recomendemos rever os nossos termos relativamente a trabalhos derivados."
+    },
+    "cta": {
+      "title": "Crie a Sua Obra de Arte com a Transferência de Estilo com IA Hoje Mesmo",
+      "description": "Mergulhe num mundo de criatividade e transforme as suas fotografias em obras de arte impressionantes com a nossa ferramenta de Transferência de Estilo com IA. Comece a sua jornada artística agora!",
+      "buttonText": "Experimente a Transferência de Estilo com IA Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique AI artwork",
+  "originalKeyword": "AI Style Transfer",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Korean Manhwa"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Anime"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Line Art"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Cyberpunk"
+    }
+  ]
+}

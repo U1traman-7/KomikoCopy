@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "Aplikasi AI | Komiko",
+    "description": "Jelajahi semua alat kreasi dari Komiko."
+  },
+  "sections": {
+    "favorites": {
+      "title": "Favorit",
+      "description": "Akses cepat ke alat yang telah Anda tandai.",
+      "empty": "Belum ada aplikasi favorit. Ketuk ikon bintang pada aplikasi untuk menambahkannya."
+    },
+    "allApps": {
+      "title": "Jelajahi Semua Alat",
+      "description": "Filter berdasarkan jenis kreasi untuk menemukan apa yang Anda butuhkan."
+    }
+  },
+  "buttons": {
+    "addFavorite": "Tambahkan ke Favorit",
+    "removeFavorite": "Hapus dari Favorit"
+  },
+  "hero": {
+    "eyebrow": "Perangkat Kreator",
+    "title": "Aplikasi AI",
+    "description": "Satu set alat lengkap untuk mewujudkan cerita visual Anda."
+  },
+  "filters": {
+    "categories": {
+      "all": "Semua Alat",
+      "illustration": "Ilustrasi & Gambar",
+      "animation": "Animasi & Video",
+      "comic": "Komik & Manga"
+    }
+  }
+}

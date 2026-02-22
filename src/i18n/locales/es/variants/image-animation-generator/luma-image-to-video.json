@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Luma Image to Video - KomikoAI",
+      "description": "Transforme sus imágenes estáticas en impresionantes vídeos cinematográficos con la tecnología de IA de Luma Image to Video. Experimente una creación de vídeo versátil, rápida y de alta calidad.",
+      "keywords": "Luma Image to Video, generador de vídeo con IA, herramienta de animación con IA, vídeo cinematográfico con IA, imagen a vídeo con IA, campos de radiancia neuronal, vídeo 3D con IA, creación de vídeo con IA"
+    },
+    "hero": {
+      "title": "Luma Image to Video",
+      "description": "Desbloquee el poder de la IA avanzada para convertir sus dibujos, cómics, manhwa, manga e imágenes de anime en vídeos de alta calidad con un movimiento y realismo sorprendentes."
+    },
+    "whatIs": {
+      "title": "¿Qué es Luma Image to Video?",
+      "description": "Luma Image to Video es una herramienta de vanguardia impulsada por IA que transforma imágenes estáticas en vídeos dinámicos de alta fidelidad. Aprovechando redes neuronales avanzadas, arquitectura de transformadores y la tecnología de Campos de Radiancia Neuronal (NeRF), crea animaciones cinematográficas fluidas y profundidad similar a 3D con movimiento realista y consistencia ambiental. Diseñado para creadores de contenido en las industrias del cómic, anime y animación, permite una producción de vídeo rápida y escalable con soporte para movimientos de cámara versátiles y relaciones de aspecto personalizables, lo que lo hace adecuado para redes sociales, marketing, educación y entretenimiento."
+    },
+    "examples": {
+      "title": "Ejemplos de Luma Image to Video",
+      "description": "Explore impresionantes vídeos creados con la IA de Luma Image to Video. Observe con qué facilidad las imágenes estáticas de anime, manga y cómics cobran vida con transiciones suaves, movimientos de cámara naturales y efectos cinematográficos vívidos."
+    },
+    "howToUse": {
+      "title": "Cómo usar Luma Image to Video",
+      "steps": [
+        {
+          "title": "Cargue su imagen",
+          "content": "Comience cargando la imagen estática que desea animar. Esta puede ser cualquier dibujo, panel de cómic, obra de arte de manga o ilustración de personaje de anime."
+        },
+        {
+          "title": "Proporcione un *prompt* descriptivo",
+          "content": "Introduzca un *prompt* para guiar la animación de la IA. Describa movimientos específicos, movimientos de cámara o acciones que quiere que represente el vídeo."
+        },
+        {
+          "title": "Genere su vídeo",
+          "content": "Haga clic en el botón 'Generar animación' y deje que la IA procese su imagen y *prompt*. La herramienta producirá un vídeo dinámico con efectos cinematográficos y movimiento fluido."
+        },
+        {
+          "title": "Descargue y comparta",
+          "content": "Una vez generado, descargue su vídeo de alta resolución para compartirlo en redes sociales, usarlo en proyectos o mostrar sus creaciones artísticas."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "¿Por qué usar Luma Image to Video?",
+      "description": "Descubra cómo Luma Image to Video mejora su flujo de trabajo creativo, permitiendo una animación de calidad profesional con facilidad, velocidad y flexibilidad.",
+      "features": [
+        {
+          "title": "Calidad cinematográfica con IA",
+          "content": "Produzca vídeos de alta fidelidad con movimiento realista, transiciones suaves y efectos de cámara naturales utilizando redes neuronales basadas en transformadores.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Producción rápida de vídeo",
+          "content": "Genere vídeos rápidamente, hasta 120 fotogramas en unos 2 minutos, lo que le ayuda a ahorrar tiempo e iterar más rápido.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Movimientos de cámara avanzados",
+          "content": "Admite diversos movimientos de cámara, como barridos, órbitas, zooms y movimientos de grúa, para mejorar la narración y el atractivo del vídeo.",
+          "icon": "📷"
+        },
+        {
+          "title": "Relaciones de aspecto versátiles",
+          "content": "Ofrece relaciones de aspecto de vídeo flexibles adecuadas para diversas plataformas, desde *feeds* de redes sociales hasta presentaciones de pantalla ancha.",
+          "icon": "🖥️"
+        },
+        {
+          "title": "Profundidad 3D y realismo",
+          "content": "Utiliza Campos de Radiancia Neuronal (NeRF) para agregar profundidad, iluminación y reflejos realistas, creando vídeos inmersivos de estilo 3D.",
+          "icon": "🕶️"
+        },
+        {
+          "title": "Flujo de trabajo fácil de usar",
+          "content": "No se necesita experiencia en animación: cargue imágenes, introduzca *prompts* y deje que la IA gestione la generación compleja de vídeos sin problemas.",
+          "icon": "👌"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Guía experta de Luma Image to Video AI",
+      "description": "Todo lo que necesita saber sobre el uso de Luma AI para transformar imágenes en vídeos impresionantes.",
+      "q1": "¿Qué es Luma Image to Video?",
+      "a1": "Luma Image to Video es una herramienta de IA que convierte imágenes estáticas en vídeos dinámicos utilizando redes neuronales avanzadas y arquitecturas de transformadores, ofreciendo animaciones de calidad cinematográfica con movimiento realista y efectos de iluminación.",
+      "q2": "¿Cómo funciona Luma Image to Video?",
+      "a2": "Procesa su imagen estática con modelos de IA entrenados en amplios conjuntos de datos de vídeo. Utilizando el análisis de imágenes y la síntesis de movimiento, genera fotogramas de vídeo fluidos y aplica movimientos de cámara fluidos para dar vida a la escena.",
+      "q3": "¿Qué tipos de imágenes funcionan mejor?",
+      "a3": "El anime, el manga, el arte cómico y otras imágenes ilustradas o estilizadas con diseños de personajes claros y elementos distintos producen la mejor calidad de animación.",
+      "q4": "¿Puedo personalizar la animación?",
+      "a4": "Sí, proporcionando *prompts* detallados que describan el movimiento, la dirección de la cámara y las acciones, puede guiar a la IA para crear animaciones adaptadas a su visión.",
+      "q5": "¿Qué resoluciones y formatos de vídeo admite?",
+      "a5": "Luma Image to Video normalmente produce vídeos de alta definición de 1080p compatibles con formatos comunes adecuados tanto para plataformas en línea como para uso profesional.",
+      "q6": "¿Se requiere hardware o software especial?",
+      "a6": "No se necesita hardware especial; la IA se ejecuta en la infraestructura de la nube. Solo necesita acceso a Internet y un navegador web para usar la herramienta.",
+      "q7": "¿Qué tan rápido es el proceso de generación de vídeo?",
+      "a7": "La generación de vídeo es eficiente, con la capacidad de crear aproximadamente 120 fotogramas en alrededor de 2 minutos, lo que permite una producción e iteración de contenido rápidas.",
+      "q8": "¿Son los vídeos generados por Luma Image to Video adecuados para uso comercial?",
+      "a8": "Sí, los vídeos creados se pueden utilizar tanto para proyectos personales como comerciales; sin embargo, los usuarios deben revisar los términos específicos de la plataforma para obtener detalles sobre las licencias."
+    }
+  },
+  "originalKeyword": "Luma Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modelo: Luma Ray2",
+      "description": "Prompt: Dragon breathing fire.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_11.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Modelo: Luma Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 3,
+      "title": "Modelo: Luma Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Modelo: Luma Ray2",
+      "description": "Prompt: Camera turn with beautiful lighting.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_08.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Modelo: Luma Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 6,
+      "title": "Modelo: Luma Ray2",
+      "description": "Prompt: Putting on sun glasses.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_05.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "whatIs",
+    "examples",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

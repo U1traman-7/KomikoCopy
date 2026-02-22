@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Gerador de Insígnias com IA",
+      "description": "Crie insígnias impressionantes a partir das suas imagens, sem esforço, com a tecnologia de IA. Experimente a criatividade como nunca antes! Comece a gerar hoje mesmo!",
+      "keywords": "Gerador de Insígnias com IA, insígnias de fotografia com IA, designs de insígnias personalizados, criador de insígnias com IA, gerador de insígnias exclusivo, insígnia de foto artística"
+    },
+    "hero": {
+      "title": "Gerador de Insígnias com IA"
+    },
+    "whatIs": {
+      "title": "O que é o Gerador de Insígnias com IA?",
+      "description": "O Gerador de Insígnias com IA é uma ferramenta intuitiva que converte as suas imagens em estilos de insígnias distintos, de forma simples. Ao utilizar algoritmos avançados de IA, esta ferramenta reinterpreta elementos das suas fotos em representações artísticas de insígnias, sendo perfeita para criadores que procuram elevar os seus projetos visuais de forma rápida e fácil."
+    },
+    "examples": {
+      "title": "Exemplos do Gerador de Insígnias com IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como usar o Gerador de Insígnias com IA",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a Sua Foto",
+          "content": "Selecione a foto desejada (JPG, PNG, WEBP) e faça o upload aqui. Imagens de maior resolução produzem melhores resultados!"
+        },
+        {
+          "title": "Passo 2: Selecione o Template da Insígnia",
+          "content": "Selecione o template da insígnia para transformar a sua foto com o estilo de insígnia desejado."
+        },
+        {
+          "title": "Passo 3: Converter para Insígnia",
+          "content": "Clique em 'Converter para Insígnia' para aplicar o estilo escolhido. A IA processará a sua imagem e criará uma insígnia visualmente impressionante."
+        },
+        {
+          "title": "Passo 4: Descarregue e Partilhe",
+          "content": "Visualize a sua nova insígnia! Se estiver satisfeito, descarregue-a para partilhar nas redes sociais ou incorporá-la nos seus projetos."
+        }
+      ],
+      "subtitle": "Crie transformações de insígnias impressionantes em apenas alguns passos fáceis!"
+    },
+    "benefits": {
+      "title": "Por que escolher o Gerador de Insígnias com IA?",
+      "description": "Descubra os recursos que elevam a sua expressão criativa.",
+      "features": [
+        {
+          "title": "🎨 Estilos Artísticos Únicos",
+          "content": "Desfrute de uma variedade de estilos de insígnias que se adequam a diferentes temas e ambientes - perfeito para projetos online e offline!"
+        },
+        {
+          "title": "⚡ Tempos de Processamento Rápidos",
+          "content": "Experimente o processamento rápido de imagens, permitindo que a sua criatividade flua sem interrupções."
+        },
+        {
+          "title": "🖼️ Downloads em Alta Resolução",
+          "content": "Obtenha imagens no estilo de insígnia em alta resolução, sem perda de qualidade - ideal para todas as aplicações."
+        },
+        {
+          "title": "💫 Experiência de Utilizador Intuitiva",
+          "content": "Navegue facilmente na nossa plataforma, projetada para todos, desde iniciantes até designers experientes."
+        },
+        {
+          "title": "🎯 Designs Personalizáveis",
+          "content": "Crie designs de insígnias exclusivos para qualquer evento, branding ou uso pessoal, refletindo o seu gosto individual."
+        },
+        {
+          "title": "🚀 Aprimoramentos Regulares de Recursos",
+          "content": "Mantenha-se atualizado com novos estilos e recursos, inspirando continuamente a sua jornada criativa."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Gerador de Insígnias com IA FAQ",
+      "description": "",
+      "q1": "O que faz o Gerador de Insígnias com IA?",
+      "a1": "O Gerador de Insígnias com IA permite que transforme as suas fotos em estilos de insígnias exclusivos, utilizando aprendizagem automática. Ele analisa as suas imagens e cria designs artísticos baseados em algoritmos avançados.",
+      "q2": "Como posso maximizar os efeitos do Gerador de Insígnias com IA?",
+      "a2": "Utilize fotos nítidas e de alta resolução, selecione estilos que complementem as suas imagens e teste várias transformações para encontrar o melhor resultado.",
+      "q3": "Usar o Gerador de Insígnias com IA é gratuito?",
+      "a3": "Sim, o nosso Gerador de Insígnias com IA é gratuito! Explore opções premium para estilos avançados.",
+      "q4": "O que distingue o Gerador de Insígnias com IA de outras ferramentas?",
+      "a4": "O nosso Gerador de Insígnias com IA emprega modelos avançados de aprendizagem automática, projetados especificamente para criar arte de insígnias exclusivas, oferecendo transformações de alta qualidade.",
+      "q5": "Posso comercializar as obras de arte criadas com o Gerador de Insígnias com IA?",
+      "a5": "Sim, pode usar as suas criações no estilo de insígnia comercialmente, como para merchandising, desde que siga as nossas diretrizes de uso."
+    },
+    "cta": {
+      "title": "Comece a Criar com o Gerador de Insígnias com IA Hoje Mesmo",
+      "description": "Não espere mais! Liberte a sua criatividade e crie obras de arte de insígnias impressionantes a partir das suas fotos em poucos minutos. Junte-se a uma comunidade de criadores que estão a remodelar os seus visuais com IA!",
+      "buttonText": "Crie a Sua Arte de Insígnia com IA Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique badge style",
+  "originalKeyword": "AI Badge Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-badge-generator/tanjiro-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/tanjiro-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/demon-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/demon-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/naruto-output.webp",
+      "input": "/images/examples/playground/ai-cosplay-generator/naruto-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/dn-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/dn-input.webp",
+      "prompt": "Style: Badge"
+    }
+  ]
+}

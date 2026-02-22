@@ -1,0 +1,135 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Vidu Image to Video Generator - KomikoAI",
+      "description": "Bring your static images to life with Vidu Image to Video Generator. Create stunning animated videos from photos, artwork, and illustrations using advanced AI technology.",
+      "fullDescription": "Vidu Image to Video Generator is a cutting-edge AI-powered tool designed to transform your still images into dynamic and cinematic videos effortlessly. Perfect for artists, content creators, and marketers, this tool elevates your visuals with smooth motion, realistic lighting, and expressive animations in seconds.",
+      "keywords": "Vidu Image to Video, AI video generator, image to video, AI animation tool, video creation AI, static image animation, cinematic video generation, AI-powered video"
+    },
+    "hero": {
+      "title": "Vidu Image to Video Generator",
+      "description": "Easily convert static images into cinematic videos with Vidu Image to Video Generator. Animate artwork, photos, and illustrations in just seconds with AI."
+    },
+    "whatIs": {
+      "title": "What is Vidu Image to Video Generator?",
+      "description": "Vidu Image to Video Generator leverages advanced artificial intelligence to convert static images into fluid, high-quality videos. It uses AI algorithms to animate photos, drawings, and digital art with smooth transitions, realistic motion, and cinematic effects."
+    },
+    "examples": {
+      "title": "Vidu Image to Video Examples",
+      "description": "Discover examples of vivid videos created with Vidu Image to Video Generator. See how simple images transform into engaging animations with rich storytelling features."
+    },
+    "howToUse": {
+      "title": "How to use Vidu Image to Video Generator",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Start by uploading the image you want to animate. This can be a drawing, photo, or any static visual content that you wish to bring to life."
+        },
+        {
+          "title": "Enter Your Animation Prompt",
+          "content": "Describe the movement, style, or story you want the AI to create from your image. Include details about motion, lighting, or expressions for best results."
+        },
+        {
+          "title": "Generate Your Video",
+          "content": "Click the generate button and watch as the AI produces a high-quality video with smooth transitions and cinematic effects from your static image."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Once your video is generated, download it easily to share on social media, use in projects, or showcase your animated artwork."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Vidu Image to Video Generator?",
+      "description": "Explore the powerful benefits of using Vidu's AI-driven video creation tool to transform images into captivating videos quickly and effortlessly.",
+      "features": [
+        {
+          "title": "High-Resolution Video Output",
+          "content": "Produce videos in HD up to 1280×720 resolution with detailed visuals and crisp motion.",
+          "icon": "📺"
+        },
+        {
+          "title": "Smooth and Cinematic Animations",
+          "content": "Generate movies with fluid transitions, camera movements, and lifelike lighting effects for a polished look.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Versatile Style Options",
+          "content": "Supports a diverse range of styles including anime, photorealistic, surreal, and illustrated animations.",
+          "icon": "🎨"
+        },
+        {
+          "title": "User-Friendly Experience",
+          "content": "No animation expertise needed—simply upload images, enter a prompt, and create impressive videos in seconds.",
+          "icon": "👌"
+        },
+        {
+          "title": "Consistent Facial and Motion Details",
+          "content": "Maintains continuity and consistency for faces and movements throughout the video sequence.",
+          "icon": "🙂"
+        },
+        {
+          "title": "Ideal for Creators and Marketers",
+          "content": "Perfect for social media content, product showcases, storytelling, and creative video production.",
+          "icon": "🚀"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions About Vidu Image to Video Generator",
+      "description": "Your guide to common questions about using the Vidu Image to Video tool for creating professional AI-generated videos.",
+      "q1": "What is Vidu Image to Video Generator?",
+      "a1": "It is an AI-powered tool that transforms static images into dynamic, high-quality videos with cinematic effects and smooth animation.",
+      "q2": "How does Vidu Image to Video Generator work?",
+      "a2": "The AI analyzes your uploaded image along with your prompt, generating frames that simulate motion, lighting, and expressions to create a fluid video sequence.",
+      "q3": "What types of images can I use?",
+      "a3": "You can use photos, digital artwork, sketches, and any static images that have clear subjects for best animation results.",
+      "q4": "Can I use the generated videos commercially?",
+      "a4": "Yes, the videos produced with Vidu Image to Video Generator can be used for both personal and commercial projects under the platform’s terms of use.",
+      "q5": "How long does it take to generate a video?",
+      "a5": "Videos typically take around 10 to 30 seconds to generate, depending on the chosen resolution and complexity of the animation.",
+      "q6": "Do I need video editing skills to use it?",
+      "a6": "No prior skills are necessary. The AI handles all animation and video creation based on your prompt and image upload.",
+      "q7": "What styles does Vidu support?",
+      "a7": "It supports a wide range from anime and illustrated styles to photorealistic and surreal videos, letting you tailor the video’s look.",
+      "q8": "Can I preview and edit the video before downloading?",
+      "a8": "Yes, you can preview the generated video and adjust prompts or try different settings to refine the output before downloading."
+    }
+  },
+  "originalKeyword": "Vidu Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A fairy sits in the blossom as the petals open",
+      "videoUrl": "/images/pages/vidu/flower.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A cat turns into a tiger",
+      "videoUrl": "/images/pages/vidu/cat.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: The camera quickly zooms in on the man from a distance",
+      "videoUrl": "/images/pages/vidu/man.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "VIDU_Q2"
+}

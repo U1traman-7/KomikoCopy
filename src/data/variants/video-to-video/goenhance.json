@@ -1,0 +1,144 @@
+{
+  "seo": {
+    "meta": {
+      "title": "GoEnhance AI",
+      "description": "Discover the best alternative to GoEnhance AI for video-to-video and anime style transformation. Transform your videos with advanced AI style transfer today.",
+      "keywords": "GoEnhance AI alternative, best video to video transformation, anime style video converter, video style transfer, video to anime AI"
+    },
+    "hero": {
+      "title": "GoEnhance AI"
+    },
+    "examples": {
+      "title": "Video to Video Examples",
+      "description": "Experience superior video-to-video transformation that outperforms GoEnhance AI with faster processing, better motion consistency, and more diverse style options including anime, manga, manhwa, and cartoon styles."
+    },
+    "whatIs": {
+      "title": "What is GoEnhance AI?",
+      "description": "GoEnhance AI is a cutting-edge video enhancement and style transfer tool known for transforming ordinary videos into stunning anime, cartoon, and artistic styles while preserving motion and detail. If you're searching for a GoEnhance AI alternative that delivers equally impressive or superior video-to-video and anime style transformations, our AI tool offers a powerful solution. It uses advanced Video Style Transfer technology to convert your videos into over 20 unique styles—including Studio Ghibli anime, Korean manhwa, and Japanese manga—while maintaining perfect motion consistency and high-definition output. Whether you're a content creator, animator, or artist, this AI tool is designed to provide professional-quality anime and cartoon video transformations with ease and flexibility."
+    },
+    "howToUse": {
+      "title": "How to Use Our Video to Video AI Tool",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Start by uploading your video file in MP4, MOV, or AVI format. The tool supports videos up to 15 seconds and 50MB. If your video is longer, it will be automatically trimmed to ensure optimal style transfer performance."
+        },
+        {
+          "title": "Select Your Artistic Style",
+          "content": "Choose from more than 20 preset styles such as Studio Ghibli anime, Korean manhwa, Japanese manga, or popular cartoon aesthetics. You can also customize styles using text prompts or upload your own reference images for a truly unique look."
+        },
+        {
+          "title": "Style Preview & Reference",
+          "content": "Our AI extracts the first frame of your video and applies your chosen anime, cartoon, or manga style to create a styled reference. This preview shows how your selected style will transform the entire video."
+        },
+        {
+          "title": "Generate Your Transformed Video",
+          "content": "Once your style is set, the AI processes the full video, applying the style transfer while preserving all original motion, facial expressions, and timing. The result is a smooth, high-quality anime or cartoon-style video ready to share."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Our Video-to-Video as the Best GoEnhance AI Alternative",
+      "description": "Our AI tool offers the most advanced video-to-video style transfer technology, combining perfect motion preservation with a wide range of artistic styles and professional-quality output—all at transparent pricing.",
+      "features": [
+        {
+          "title": "Flawless Motion Preservation",
+          "content": "Maintain every detail of your video's original motion, expressions, and timing while transforming it into anime, cartoon, or manga styles with frame-perfect consistency.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Extensive Style Library",
+          "content": "Access over 20 preset styles including Studio Ghibli anime, Korean manhwa, Japanese manga, Disney cartoons, and more. Customize your style with text prompts or reference images for unique video transformations.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Professional-Grade Video Output",
+          "content": "Generate high-definition videos with smooth transitions, no flickering, and artifact-free style transfer, ensuring your content looks polished and ready for any platform.",
+          "icon": "⭐"
+        },
+        {
+          "title": "Transparent and Smart Pricing",
+          "content": "Benefit from clear, separate pricing for style transfer and video generation. Experiment freely with different styles without incurring extra video processing costs.",
+          "icon": "🌟"
+        },
+        {
+          "title": "Lightning-Fast Processing",
+          "content": "Experience rapid video transformation with optimized processing speeds that deliver results in minutes, not hours. Our efficient pipeline ensures quick turnaround without compromising quality.",
+          "icon": "⚡"
+        },
+        {
+          "title": "User-Friendly Interface",
+          "content": "Navigate through the transformation process effortlessly with our intuitive design. No technical expertise required—simply upload, select style, and generate your transformed video.",
+          "icon": "👌"
+        }
+      ]
+    },
+    "faq": {
+      "title": "GoEnhance AI Alternative FAQ",
+      "description": "Answers to common questions about our video-to-video and anime style transformation tool, including usage, formats, costs, and best practices.",
+      "q1": "How does this AI tool compare to GoEnhance AI?",
+      "a1": "This AI tool offers a similar two-step video style transfer process as GoEnhance AI but with a broader style selection, superior motion preservation, and transparent pricing, making it an excellent alternative.",
+      "q2": "What video formats and sizes are supported?",
+      "a2": "We support MP4, MOV, and AVI formats with a maximum file size of 50MB. Videos longer than 15 seconds are automatically trimmed for optimal processing.",
+      "q3": "How long does the video style transfer take?",
+      "a3": "The entire process typically takes 5-10 minutes, including 1-3 minutes for style transfer on the reference frame and 3-7 minutes for full video generation, with real-time progress updates.",
+      "q4": "What are the costs involved?",
+      "a4": "Pricing is transparent and split between style transfer and video generation based on video length. You see costs upfront and are only charged after successful style transfer completion.",
+      "q5": "Can I create custom anime or cartoon styles?",
+      "a5": "Yes, you can choose from over 20 presets or create custom styles using text prompts or your own reference images for personalized video transformations.",
+      "q6": "What kind of videos work best for style transfer?",
+      "a6": "Videos with clear subjects, good lighting, stable motion, and well-defined features yield the best results. Avoid fast movements, low light, or blurry footage for optimal output."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Claymation Style",
+      "description": "Change Material | Transform original video into clay style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/watercolor.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Watercolor Style",
+      "description": "Style Transfer | Transfer original video to watercolor style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Sketch Style",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/outer-space-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Outer Space Environment",
+      "description": "Change Environment | Change the background of the original video to outer space"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

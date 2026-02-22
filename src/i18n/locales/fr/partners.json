@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Partenaires | KomikoAI",
+    "description": "Unissez vos forces à KomikoAI et développez-vous ensemble."
+  },
+  "hero": {
+    "title": "Nos Partenaires",
+    "description": "En tant que plateforme leader de bandes dessinées et d'animations basées sur l'IA, nous collaborons avec les meilleurs innovateurs en intelligence artificielle pour révolutionner la production de contenu créatif dans les domaines du design et du divertissement."
+  },
+  "technologyPartners": {
+    "title": "Partenaires Technologiques",
+    "description": "Collaborer avec les leaders de l'industrie pour repousser les limites de la créativité de l'IA",
+    "partners": {
+      "mathosAI": {
+        "name": "Mathos AI",
+        "description": "Mathos AI est un puissant solveur mathématique alimenté par l'IA, conçu pour vous aider à résoudre des problèmes mathématiques complexes."
+      },
+      "collovAI": {
+        "name": "Collov AI",
+        "description": "Collov AI propose une mise en scène virtuelle IA de pointe pour transformer les annonces immobilières avec des designs époustouflants et photoréalistes. Optimisez votre marketing immobilier grâce à une mise en scène rapide et rentable."
+      },
+      "altpageAI": {
+        "name": "altpage.ai",
+        "description": "altpage.ai est un agent d'IA qui crée des pages de comparaison optimisées pour le référencement en capturant le trafic des marques concurrentes. Il analyse les données, met en avant vos avantages et déploie des pages pour atteindre un bon classement — aucune compétence technique n'est requise."
+      },
+      "easysiteAI": {
+        "name": "EasySite",
+        "description": "Créez des sites web et des applications basés sur des bases de données avec l'IA en quelques secondes. Caractéristiques : base de données intégrée, conversion mobile, widgets de chat, analyses. Prêt pour WordPress et Netlify."
+      },
+      "newoaksAI": {
+        "name": [
+          "AI Chatbot Builder",
+          "AI Agent Builder"
+        ],
+        "description": "NewOaks AI gère les conversations client sur tous vos canaux et remplit votre agenda de rendez-vous. Concentrez-vous sur la conclusion des affaires plutôt que sur la prospection !"
+      },
+      "komiko": {
+        "name": "KomikoAI",
+        "description": "KomikoAI : Plateforme IA tout-en-un pour l'Art, l'Anime et la Bande dessinée. Les puissants outils IA de KomikoAI facilitent la vie des artistes et des conteurs pour donner vie à leurs idées. Que ce soit pour la colorisation d'art linéaire, la génération d'anime IA ou la création de bandes dessinées IA, nous avons tout ce qu'il vous faut. Créez des illustrations, des bandes dessinées, des mangas et des animations en quelques minutes, pas en jours."
+      },
+      "kuaAI": {
+        "name": "kua.ai",
+        "description": "Agent d'IA pour l'e-commerce"
+      },
+      "vidAU": {
+        "name": "VidAU",
+        "description": "VidAU AI vous permet de créer des vidéos attrayantes en quelques minutes. Fournissez simplement un lien produit ou une brève description et notre plateforme générera des vidéos de haute qualité avec des avatars IA réalistes parlant plusieurs langues et accents. Que ce soit pour TikTok, YouTube, des campagnes marketing ou des sessions de formation, VidAU AI est à votre service. De vidéos courtes et engageantes à des explications professionnelles, notre plateforme de création vidéo IA facile à utiliser vous aide à produire du contenu convaincant rapidement, améliorant ainsi votre présence de marque et racontant votre histoire avec impact."
+      },
+      "bikaAI": {
+        "name": "Bika.AI",
+        "description": "Bika.ai, espace de travail IA tout-en-un pour créer des agents IA commerciaux, combine chatbot IA, automatisation, bases de données, tableaux de bord et wikis, et gère et automatise d'innombrables processus commerciaux. Pas besoin de dialoguer constamment avec l'IA. Bika.ai automatise les tâches répétitives et exécute de manière transparente à travers les fonctions pour votre marketing, vos ventes et vos projets, vous permettant de vous concentrer sur le travail stratégique."
+      }
+    }
+  },
+  "partnershipCTA": {
+    "title": "Développez Votre Activité Avec Nous",
+    "description": "Devenez partenaire de KomikoAI pour étendre votre portée sur le marché. Nous sommes ravis de collaborer avec des entreprises des secteurs créatifs connexes.",
+    "button": "Contacter Notre Équipe"
+  },
+  "productLines": {
+    "title": "Gamme de Produits",
+    "description": "Explorez nos solutions innovantes qui redéfinissent l'avenir des outils créatifs basés sur l'IA",
+    "aiComicGeneration": {
+      "title": "Génération de Bandes Dessinées par IA",
+      "description": "Créez instantanément de superbes bandes dessinées grâce à notre technologie d'IA avancée",
+      "items": [
+        "Conception de Personnages",
+        "Génération de Scènes de BD",
+        "Narration Multi-panneaux",
+        "Contrôle de Style Personnalisé"
+      ]
+    },
+    "imageProcessing": {
+      "title": "Traitement d'Image",
+      "description": "Outils d'image IA professionnels pour rationaliser votre flux de travail créatif",
+      "items": [
+        "Suppression d'Arrière-Plan",
+        "Colorisation d'Image",
+        "Super-résolution d'Image",
+        "Coloration de Dessin Au Trait"
+      ]
+    },
+    "videoEnhancement": {
+      "title": "Amélioration Vidéo",
+      "description": "Des outils vidéo performants pour donner vie à vos créations",
+      "items": [
+        "Interpolation d'Images Vidéo",
+        "Super-résolution Vidéo",
+        "Animation Vidéo IA",
+        "Génération de Mouvement de Personnage"
+      ]
+    }
+  },
+  "solutions": {
+    "title": "Solutions",
+    "description": "Approches personnalisées pour divers segments de marché",
+    "professionals": {
+      "title": "Professionnels",
+      "description": "Outils optimisés pour les professionnels de la création",
+      "items": [
+        "Artistes de Bandes Dessinées",
+        "Créateurs de Contenu",
+        "Concepteurs de Jeux",
+        "Illustrateurs"
+      ]
+    },
+    "enterprises": {
+      "title": "Entreprises",
+      "description": "Solutions d'IA évolutives pour les entreprises",
+      "items": [
+        "Établissements d'Enseignement",
+        "Industrie du Divertissement",
+        "Maisons d'Édition",
+        "Agences de Publicité"
+      ]
+    }
+  }
+}

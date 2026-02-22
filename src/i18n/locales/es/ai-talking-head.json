@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "title": "Cabeza Parlante AI - KomikoAI",
+    "description": "Crea videos realistas de cabezas parlantes a partir de imágenes y audio",
+    "fullDescription": "Crea videos realistas de cabezas parlantes a partir de imágenes fijas utilizando IA. Sube una foto y añade audio para generar un video parlante realista.",
+    "keywords": "Cabeza parlante con IA, generación de video, imagen a video, audio a video, animación con IA, retrato parlante"
+  },
+  "title": "Cabeza Parlante AI",
+  "description": "Crea videos realistas de cabezas parlantes a partir de imágenes. Sube una foto y añade audio para que cobre vida.",
+  "cost": "Costo",
+  "upload": {
+    "image": "Subir Imagen",
+    "title": "Subir Imagen",
+    "click": "Haz clic para subir una imagen",
+    "supports": "Admite JPEG, PNG, WebP",
+    "dropHere": "Arrastra la imagen aquí",
+    "orClick": "o haz clic para subir",
+    "fileSize": "Tamaño máximo del archivo: 10MB",
+    "tooltip": "Sube una imagen de retrato y audio",
+    "imageSizeInfo": "Tamaño máximo: {{maxSize}} MB. Las imágenes de gran tamaño se comprimirán automáticamente.",
+    "audioSizeInfo": "Tamaño máximo de audio: {{maxSize}} MB. Duración máxima: 2 minutos."
+  },
+  "model": {
+    "select": "Seleccionar Modelo",
+    "placeholder": "Elige un modelo",
+    "loading": "Cargando modelos...",
+    "credits": "créditos",
+    "default": "Modelo predeterminado",
+    "description": "Diferentes modelos ofrecen varios estilos y niveles de calidad",
+    "aspectRatio": "Relación de Aspecto",
+    "resolution": "Resolución",
+    "duration": "Duración",
+    "zaps": "zaps",
+    "textToSpeech": "Texto a Voz",
+    "supportsTTS": "Admite Texto a Voz",
+    "noTTS": "Se requiere Subir Audio"
+  },
+  "textToSpeech": {
+    "title": "Texto a Voz",
+    "description": "Algunos modelos permiten generar voz a partir de texto. Para los modelos sin soporte de Texto a Voz, se requiere subir audio.",
+    "input": "Ingresa texto para voz",
+    "placeholder": "Escribe el texto que quieres que diga el personaje",
+    "language": "Idioma de Voz",
+    "voiceType": "Tipo de Voz",
+    "speed": "Velocidad de Voz",
+    "note": "Nota: La calidad de Texto a Voz varía según el modelo y el idioma",
+    "estimatedDuration": "Audio estimado de {{duration}}s: {{zaps}} Zaps",
+    "defaultDuration": "Los Zaps se calculan según la longitud del texto (predeterminado: 10s)"
+  },
+  "style": {
+    "prompt": "Indicación (Opcional)",
+    "placeholder": "Describe el estilo o el ambiente del video de la cabeza parlante",
+    "examples": "Ejemplos:",
+    "example1": "Portavoz corporativo profesional",
+    "example2": "Entusiasta y enérgico",
+    "example3": "Calmado y tranquilizador"
+  },
+  "quality": {
+    "title": "Alta Calidad",
+    "standard": "Estándar",
+    "high": "Alta",
+    "standardDesc": "Buena calidad para uso general",
+    "highDesc": "Mejor sincronización labial y expresión facial",
+    "costs": {
+      "standard": "Estándar: {{cost}} créditos",
+      "high": "Alta: {{cost}} créditos"
+    }
+  },
+  "audioInput": {
+    "label": "Entrada de Audio",
+    "click": "Haz clic para subir audio",
+    "supports": "Admite MP3, WAV",
+    "fileSize": "Tamaño máximo del archivo: 10MB",
+    "duration": "Duración máxima: 60 segundos",
+    "tips": "Consejos para obtener los mejores resultados:",
+    "tip1": "Utiliza audio claro con el mínimo ruido de fondo",
+    "tip2": "Mantén el audio por debajo de 60 segundos para obtener la mejor calidad",
+    "tip3": "Las grabaciones de una sola voz funcionan mejor",
+    "orUseText": "O usa texto a voz si es compatible con el modelo seleccionado",
+    "detectedDuration": "Audio detectado de {{duration}}s: {{zaps}} Zaps",
+    "defaultDuration": "Los Zaps se calculan según la longitud del audio (predeterminado: 10s)",
+    "uploadTab": "Subir",
+    "recordTab": "Grabar"
+  },
+  "buttons": {
+    "generate": "Generar Cabeza Parlante",
+    "generating": "Generando...",
+    "reset": "Restablecer",
+    "download": "Descargar Video",
+    "share": "Compartir",
+    "tryAgain": "Intentar de Nuevo",
+    "saveToGallery": "Guardar en la Galería"
+  },
+  "result": {
+    "title": "Cabeza Parlante Generada",
+    "processing": "Procesando tu video...",
+    "videoReady": "Tus resultados de video aparecerán aquí",
+    "shareText": "Comparte este video de cabeza parlante",
+    "downloadTip": "Descarga para guardar en tu dispositivo",
+    "videoStats": "{{duration}} segundos, resolución de {{resolution}}"
+  },
+  "loading": {
+    "preparing": "Preparando recursos...",
+    "processing": "Procesando tu solicitud...",
+    "analyzing": "Analizando imagen...",
+    "generating": "Generando video...",
+    "finalizing": "Finalizando tu video..."
+  },
+  "toasts": {
+    "login": "Inicia sesión para usar esta función",
+    "imageRequired": "Selecciona una imagen",
+    "audioRequired": "Selecciona un archivo de audio",
+    "invalidImage": "Selecciona un archivo de imagen válido (JPEG, PNG, WebP)",
+    "invalidAudio": "Selecciona un archivo de audio válido (MP3, WAV)",
+    "audioSelected": "Archivo de audio seleccionado",
+    "success": "Video de cabeza parlante generado con éxito",
+    "failure": "No se pudo generar el video",
+    "downloadFailed": "No se pudo descargar el video",
+    "noCredit": "Créditos insuficientes",
+    "imageTooLarge": "El tamaño de la imagen excede el límite de 10MB",
+    "audioTooLarge": "El tamaño del audio excede el límite de 10MB",
+    "processingQueued": "Tu solicitud está en cola. Te notificaremos cuando esté lista.",
+    "savedToGallery": "Video guardado en tu galería",
+    "modelRequired": "Selecciona un modelo",
+    "modelsFetchFailed": "No se pudieron obtener los modelos",
+    "usingFallbackModel": "Usando el modelo predeterminado - no se pudieron obtener los modelos del servidor",
+    "fetchFailed": "No se pudieron obtener los videos",
+    "deleteFailed": "No se pudo eliminar el video",
+    "deleteSuccess": "Video eliminado con éxito",
+    "textRequired": "Ingresa texto para la generación de voz"
+  },
+  "credit": {
+    "remaining": "Quedan {{amount}} créditos",
+    "required": "Se requieren {{amount}} créditos",
+    "insufficientCredits": "Necesitas {{required}} créditos más",
+    "getPremium": "Obtén Premium para más créditos"
+  },
+  "errors": {
+    "imageProcessing": "Error al procesar la imagen",
+    "audioProcessing": "Error al procesar el audio",
+    "serverError": "Error del servidor, inténtalo de nuevo más tarde",
+    "networkError": "Error de red, comprueba tu conexión",
+    "invalidRequest": "Parámetros de solicitud no válidos",
+    "timeout": "Tiempo de espera agotado, inténtalo de nuevo"
+  },
+  "modal": {
+    "deleteTitle": "Confirmar Eliminación",
+    "deleteMessage": "¿Estás seguro de que quieres eliminar este video? Esta acción no se puede deshacer.",
+    "cancel": "Cancelar",
+    "delete": "Eliminar"
+  },
+  "examples": {
+    "title": "Ejemplos de Cabeza Parlante AI",
+    "description": "Mira la Cabeza Parlante AI en acción con estos ejemplos de antes y después. Son una muestra de cómo las imágenes estáticas se transforman en vídeos parlantes realistas.",
+    "inputCaption": "Imagen de entrada",
+    "outputCaption1": "Video de cabeza parlante generado por IA con voz sincronizada en japonés",
+    "outputCaption2": "Video de cabeza parlante generado por IA con voz sincronizada en japonés",
+    "outputCaption3": "Video de cabeza parlante generado por IA con voz sincronizada en español",
+    "outputCaption4": "Video de cabeza parlante generado por IA con voz sincronizada en inglés",
+    "model": "Modelo",
+    "transcript": "Transcripción",
+    "inputAlt": "Imagen de retrato de entrada de muestra"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Descubre las preguntas más comunes sobre nuestra Cabeza Parlante AI, incluyendo sus características, capacidades y cómo puede revolucionar tu proceso de creación de vídeos.",
+    "q1": "¿Cómo grabo audio directamente en el navegador?",
+    "a1": "Solo tienes que hacer clic en la pestaña 'Grabar' en la sección de entrada de audio, luego presionar el botón del micrófono para comenzar a grabar. Verás un temporizador contando la duración de tu grabación. Haz clic en el botón de detener cuando termines, y podrás previsualizar tu grabación antes de usarla en tu vídeo de cabeza parlante.",
+    "q2": "¿Qué tipos de imágenes funcionan mejor?",
+    "a2": "Los retratos frontales claros funcionan mejor. El rostro debe estar bien iluminado, sin obstrucciones y mirando directamente a la cámara. Las expresiones neutras suelen producir los mejores resultados.",
+    "q3": "¿Cuánto tiempo puede durar mi audio?",
+    "a3": "Para obtener los mejores resultados, mantén tu audio por debajo de 60 segundos. Un contenido más largo puede resultar en una calidad inferior o problemas de sincronización.",
+    "q4": "¿Cuál es la diferencia entre calidad estándar y alta?",
+    "a4": "El procesamiento de alta calidad utiliza modelos de IA más avanzados para crear movimientos faciales más realistas y una mejor sincronización labial. Cuesta más créditos, pero produce resultados de aspecto más natural.",
+    "q5": "¿Puedo usar los videos generados comercialmente?",
+    "a5": "Eres responsable de asegurarte de tener el permiso apropiado para usar tanto la imagen de entrada como el video resultante. Siempre obtén el consentimiento adecuado de la persona en la imagen antes de crear o compartir un video de cabeza parlante.",
+    "q6": "¿Puedo editar el vídeo después de que se haya generado?",
+    "a6": "El vídeo generado se puede descargar y luego editar con cualquier software de edición de vídeo que prefieras.",
+    "q7": "¿Almacenamos mis imágenes o audio?",
+    "a7": "Procesamos temporalmente tus medios para generar el vídeo de cabeza parlante, pero no almacenamos permanentemente tus imágenes originales o archivos de audio.",
+    "q8": "¿Qué formatos de audio son compatibles?",
+    "a8": "Actualmente soportamos los formatos de audio MP3 y WAV.",
+    "q9": "¿Por qué mi vídeo generado se ve poco natural?",
+    "a9": "La calidad depende de la calidad de la imagen de entrada, la iluminación, el ángulo, la expresión facial y la calidad del audio. Intenta usar una foto de retrato más clara con buena iluminación y una expresión neutral para obtener los mejores resultados.",
+    "q10": "¿Por qué mi video generado se ve poco natural?",
+    "a10": "La calidad depende de la calidad de la imagen de entrada, la iluminación, el ángulo, la expresión facial y la calidad del audio. Intenta usar una foto de retrato más clara con buena iluminación y una expresión neutra para obtener los mejores resultados."
+  },
+  "tips": {
+    "title": "Consejos para Obtener los Mejores Resultados",
+    "imageQuality": "Usa una foto de retrato de alta calidad con buena iluminación",
+    "facialExpression": "Elige una imagen con una expresión facial neutra",
+    "framing": "Asegúrate de que el rostro esté centrado y completamente visible en el encuadre",
+    "audioQuality": "Usa audio claro con el mínimo ruido de fondo",
+    "audioLength": "Mantén el audio por debajo de 60 segundos para una mejor sincronización",
+    "resolution": "Las imágenes de mayor resolución producen mejores resultados"
+  },
+  "whatIsSection": {
+    "title": "¿Qué es la Cabeza Parlante AI?",
+    "description": "AI Talking Head crea vídeos hablantes realistas a partir de imágenes fijas. Anima las características faciales para coincidir con los patrones de habla utilizando tecnología avanzada de IA. ¡Simplemente sube una foto de retrato, graba audio o sube un archivo de audio, y observa cómo la imagen cobra vida!",
+    "recordingCaption": "Graba tu audio directamente en el navegador"
+  },
+  "whyChoose": {
+    "title": "Por qué elegir nuestra Cabeza Parlante AI",
+    "description": "Nuestra Cabeza Parlante AI ofrece varias ventajas que la convierten en la opción preferida para crear vídeos parlantes realistas a partir de imágenes estáticas."
+  },
+  "howToSection": {
+    "title": "Cómo usar la Cabeza Parlante AI"
+  },
+  "steps": {
+    "step1": {
+      "title": "Subir Imagen",
+      "content": "Sube una foto de retrato clara con buena iluminación y una expresión neutra."
+    },
+    "step2": {
+      "title": "Agregar Voz",
+      "content": "Graba audio directamente en tu navegador o sube un archivo de audio para hacer que tu imagen hable."
+    },
+    "step3": {
+      "title": "Personalizar Opciones",
+      "content": "Añade una indicación opcional y elige tu relación de aspecto y resolución deseadas."
+    },
+    "step4": {
+      "title": "Generar y Descargar",
+      "content": "Haz clic en generar, espera a que se procese y descarga tu video de cabeza parlante."
+    }
+  },
+  "features": {
+    "feature1": {
+      "title": "Sincronización Labial Realista",
+      "content": "La IA avanzada asegura una sincronización precisa entre los movimientos de los labios y el habla para obtener resultados de aspecto natural."
+    },
+    "feature2": {
+      "title": "Grabar Audio en Vivo",
+      "content": "Graba tu voz directamente en el navegador o sube audio pregrabado para una flexibilidad total."
+    },
+    "feature3": {
+      "title": "Opción de Alta Calidad",
+      "content": "Elige entre renderizado de calidad estándar y alta según tus necesidades y preferencias."
+    },
+    "feature4": {
+      "title": "Procesamiento Rápido",
+      "content": "Nuestra IA optimizada genera videos de cabeza parlante rápidamente sin comprometer la calidad."
+    },
+    "feature5": {
+      "title": "Fácil de Usar",
+      "content": "La interfaz simple facilita que cualquiera cree videos de cabeza parlante de aspecto profesional sin experiencia técnica."
+    },
+    "feature6": {
+      "title": "Personalización de Estilo",
+      "content": "Añade indicaciones para guiar a la IA en la creación de videos con estados de ánimo o estilos de presentación específicos."
+    }
+  },
+  "aspectRatio": {
+    "label": "Relación de Aspecto",
+    "landscape": "Horizontal",
+    "portrait": "Vertical",
+    "square": "Cuadrado"
+  },
+  "resolution": {
+    "label": "Resolución"
+  },
+  "zapReminder": "Los Zaps se calculan basándose en la duración del audio (predeterminado: 10s)"
+}

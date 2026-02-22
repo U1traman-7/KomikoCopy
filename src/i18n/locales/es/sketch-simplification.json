@@ -1,0 +1,231 @@
+{
+  "ui": {
+    "title": "Simplificación de Bocetos con IA",
+    "description": "Transforma tus bocetos a mano alzada en arte lineal limpio y simplificado gracias a la IA. ¡Experimenta la simplificación instantánea de bocetos que perfecciona tus dibujos con un solo clic! Ideal para artistas, diseñadores y entusiastas del manga que buscan optimizar su proceso creativo.",
+    "input": {
+      "title": "Entrada",
+      "tooltip": "Sube un boceto para simplificar",
+      "sketchImage": "Imagen del Boceto",
+      "aiModel": "Modelo de IA",
+      "models": {
+        "basic": "Básico",
+        "advanced": "Avanzado"
+      },
+      "selectModel": "Selecciona un modelo"
+    },
+    "buttons": {
+      "simplifyImage": "Simplificar Imagen"
+    },
+    "output": {
+      "title": "Resultados de Simplificación",
+      "emptyState": "Aquí aparecerán tus resultados de simplificación",
+      "uploadPrompt": "Sube una imagen para comenzar"
+    },
+    "toast": {
+      "fetchImagesFailed": "Error al obtener las imágenes",
+      "deleteSuccess": "Eliminado correctamente",
+      "deleteFailed": "Error al eliminar",
+      "downloadFailed": "Error al descargar",
+      "simplifySuccess": "Imagen simplificada correctamente",
+      "simplifyFailed": "Error al simplificar la imagen",
+      "createImageFailed": "Error al crear la imagen"
+    },
+    "examples": {
+      "inputSketch": "Boceto Original",
+      "simplifiedResult": "Resultado Simplificado",
+      "example1": "boceto a mano alzada transformado en arte lineal limpio",
+      "example2": "Boceto a mano alzada refinado en arte lineal pulido"
+    },
+    "modal": {
+      "deleteTitle": "Confirmación de Eliminación",
+      "deleteMessage": "¿Estás seguro de que quieres eliminar esta imagen? Esta acción es irreversible.",
+      "cancel": "Cancelar",
+      "delete": "Eliminar"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Simplificación de Bocetos con IA - KomikoAI",
+      "description": "Transforma bocetos complejos en arte lineal limpio y simplificado con IA. Sube tu boceto y deja que la IA lo refine por ti.",
+      "keywords": "Simplificación de bocetos con IA, boceto a arte lineal, arte lineal con IA, refinamiento de bocetos, boceto manga, boceto cómic, herramienta de dibujo con IA, limpieza de bocetos, generador de arte lineal"
+    },
+    "hero": {
+      "title": "Simplificación de Bocetos con IA"
+    },
+    "howToUse": {
+      "title": "Cómo simplificar tus bocetos con IA",
+      "description": "Transforma tus bocetos a mano alzada en arte lineal limpio y simplificado con la herramienta de Simplificación de bocetos con IA de Komiko en tan solo unos pasos.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Paso 1: Subir Imagen del Boceto",
+          "content": "Sube tu boceto o dibujo a mano alzada a la herramienta de Simplificación de IA. Se admiten los formatos JPG y PNG."
+        },
+        {
+          "step": 2,
+          "title": "Paso 2: Simplificar y Compartir",
+          "content": "Haz clic en 'Simplificar Imagen' y espera a que la IA haga su magia. ¡Descarga y comparte tu creación simplificada!"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Ejemplos de Simplificación de Bocetos con IA",
+      "description": "Echa un vistazo a los resultados de simplificación de bocetos generados por los usuarios de Anitoon"
+    },
+    "cta": {
+      "title": "¡Transforma tus Bocetos con IA hoy mismo!",
+      "description": "Comienza a simplificar tus bocetos con nuestra avanzada tecnología de IA.",
+      "buttonText": "Prueba la Simplificación de Bocetos Gratis"
+    },
+    "benefits": {
+      "title": "Por qué deberías simplificar tus bocetos con IA",
+      "description": "La herramienta de Simplificación de bocetos con IA de Anitoon ayuda a los artistas a transformar bocetos a mano alzada en arte lineal limpio y refinado, optimizando tu proceso creativo.",
+      "features": [
+        {
+          "title": "Arte Lineal Limpio",
+          "content": "Transforma bocetos desordenados en arte lineal limpio y profesional, con grosores de trazo consistentes y una claridad mejorada.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Consistencia de Estilo",
+          "content": "Mantén un estilo de arte lineal consistente en todos tus dibujos gracias a la simplificación impulsada por IA.",
+          "icon": "🖌️"
+        },
+        {
+          "title": "Ahorro de Tiempo",
+          "content": "Ahorra horas de refinamiento manual del arte lineal dejando que la IA se encargue del proceso de simplificación.",
+          "icon": "💎"
+        },
+        {
+          "title": "Claridad Mejorada",
+          "content": "Mejora la claridad y legibilidad de tus bocetos eliminando detalles innecesarios y ruido.",
+          "icon": "💪"
+        },
+        {
+          "title": "Simplificación Inteligente",
+          "content": "La IA analiza la estructura de tu boceto y lo simplifica de forma inteligente, preservando los detalles importantes.",
+          "icon": "🧠"
+        },
+        {
+          "title": "Calidad Profesional",
+          "content": "Obtén arte lineal de calidad profesional listo para entintar o colorear digitalmente.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Optimización del Flujo de Trabajo",
+          "content": "Optimiza tu proceso creativo automatizando la fase de refinamiento del boceto.",
+          "icon": "💫"
+        },
+        {
+          "title": "Selección de Modelo",
+          "content": "Elige entre los modelos de IA Básico y Avanzado para que se ajusten a tus necesidades específicas.",
+          "icon": "📚"
+        },
+        {
+          "title": "Refinamiento Instantáneo",
+          "content": "Transforma bocetos a mano alzada en arte lineal pulido al instante, perfecto para manga, cómics e ilustraciones.",
+          "icon": "⚡️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes Sobre la Simplificación de Bocetos con IA",
+      "description": "Encuentra respuestas a las preguntas más frecuentes sobre la simplificación de bocetos con IA.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "¿Qué es la Simplificación de Bocetos con IA?",
+          "answer": "La Simplificación de Bocetos con IA es un proceso que utiliza inteligencia artificial para transformar bocetos a mano alzada en arte lineal limpio y refinado. La herramienta de Simplificación de Bocetos con IA de Komiko ayuda a los artistas a optimizar su proceso creativo refinando y simplificando automáticamente sus dibujos, manteniendo los detalles esenciales."
+        },
+        {
+          "id": 2,
+          "question": "¿Cómo simplificar bocetos con IA?",
+          "answer": "Puedes simplificar tus bocetos con Komiko AI en dos sencillos pasos:\n1. Sube tu imagen de boceto a la herramienta de Simplificación de IA\n2. Haz clic en 'Simplificar Imagen' y espera a que la IA refine tu dibujo"
+        },
+        {
+          "id": 3,
+          "question": "¿Cómo funciona la Simplificación de Bocetos con IA?",
+          "answer": "La Simplificación de Bocetos con IA utiliza modelos avanzados de IA entrenados con millones de imágenes para analizar la estructura de tu boceto y simplificarla de forma inteligente. La IA identifica líneas y detalles importantes, a la vez que elimina el ruido y la complejidad innecesarios, lo que resulta en arte lineal limpio y profesional."
+        },
+        {
+          "id": 4,
+          "question": "¿Cuáles son los beneficios de la Simplificación de Bocetos con IA?",
+          "answer": "Existen varios beneficios al simplificar bocetos con IA:\n• Ahorra tiempo en comparación con el refinamiento manual del arte lineal\n• Produce arte lineal consistente y de calidad profesional\n• Mantiene los detalles importantes, a la vez que elimina el ruido\n• Perfecto para manga, cómics e ilustraciones"
+        },
+        {
+          "id": 5,
+          "question": "¿Puedo usar bocetos simplificados con IA para fines comerciales?",
+          "answer": "Sí, puedes usar bocetos simplificados generados por IA para fines personales y comerciales. Sin embargo, asegúrate de cumplir con los términos de servicio de Komiko."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué formatos y tamaños son compatibles?",
+          "answer": "La IA admite bocetos en formatos JPG y PNG. Las imágenes de salida mantendrán su tamaño original durante la simplificación."
+        },
+        {
+          "id": 7,
+          "question": "¿Es gratuita la Simplificación de Bocetos con IA?",
+          "answer": "Komiko ofrece zaps (créditos) gratuitos para que pruebes la herramienta. También puedes comprar planes de pago para obtener más zaps si necesitas más uso, así como funciones avanzadas como procesamiento más rápido y resoluciones más altas."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué tipos de bocetos puedo simplificar con IA?",
+          "answer": "La herramienta de Simplificación de IA funciona con varios tipos de bocetos:\n• Bocetos a mano alzada y garabatos\n• Diseños de personajes\n• Páginas de manga y cómic\n• Diseños de productos\n• Dibujos arquitectónicos\n• Arte conceptual\nPara obtener los mejores resultados, asegúrate de que tus bocetos tengan líneas claras y bien definidas, y un buen contraste."
+        },
+        {
+          "id": 9,
+          "question": "¿Cuáles son las limitaciones de la Simplificación de Bocetos con IA?",
+          "answer": "Aunque la Simplificación de Bocetos con IA es una herramienta poderosa, tiene algunas limitaciones:\n• Detalles Complejos: Los bocetos muy intrincados o altamente detallados pueden perder algunos detalles finos\n• Consistencia de Estilo: Es posible que la IA no coincida perfectamente con tu estilo artístico deseado\n• Calidad: La calidad de la simplificación depende de la calidad del boceto de entrada\nA pesar de estas limitaciones, la simplificación con IA puede acelerar significativamente tu flujo de trabajo y mejorar tu proceso creativo."
+        },
+        {
+          "id": 10,
+          "question": "¿Necesito saber dibujar para usar la Simplificación de Bocetos con IA?",
+          "answer": "No, no necesitas ser un artista experto para usar la Simplificación de Bocetos con IA.\n• Para Artistas: Si creas tus propios bocetos, esta herramienta puede ayudarte a refinar y limpiar tu trabajo\n• Para No Artistas: Puedes comenzar con bocetos o plantillas existentes y dejar que la IA se encargue de la simplificación\nEsta herramienta está diseñada para ser fácil de usar para todos, tanto si eres un artista experimentado como si eres un principiante que explora la creatividad."
+        },
+        {
+          "id": 11,
+          "question": "¿Cómo puedo obtener los mejores resultados de la Simplificación de Bocetos con IA?",
+          "answer": "Sigue estos consejos para una simplificación óptima:\n• Utiliza bocetos claros y bien definidos con buen contraste\n• Asegúrate de que tu boceto tenga líneas y formas distintas\n• Elige el modelo de IA adecuado para tus necesidades\n• Considera la posibilidad de utilizar la opción de fondo transparente cuando sea necesario"
+        },
+        {
+          "id": 12,
+          "question": "¿Cómo se compara la Simplificación con IA con el refinamiento manual?",
+          "answer": "La Simplificación de Bocetos con IA ofrece un ahorro de tiempo significativo en comparación con el refinamiento manual, reduciendo horas de trabajo a minutos. Si bien es posible que no reemplace por completo el refinamiento tradicional para proyectos artísticos complejos, es una excelente herramienta para la creación rápida de prototipos, la visualización de conceptos y la creación rápida de múltiples variaciones. La IA comprende los principios del arte lineal y puede sugerir mejoras que quizás no hayas considerado."
+        },
+        {
+          "id": 13,
+          "question": "¿Puedo editar los resultados simplificados con IA?",
+          "answer": "Sí, puedes editar y refinar aún más los bocetos simplificados con IA utilizando tu software de arte digital preferido. El resultado generado por la IA sirve como una base excelente que puedes mejorar con tu toque artístico personal."
+        },
+        {
+          "id": 14,
+          "question": "¿Cuáles son algunas formas creativas de usar la Simplificación de Bocetos con IA?",
+          "answer": "La Simplificación de Bocetos con IA se puede usar para:\n• Creación rápida de prototipos de diseños de personajes\n• Creación de arte lineal limpio para cómics y manga\n• Refinamiento de bocetos a mano alzada en ilustraciones pulidas\n• Desarrollo de arte conceptual\n• Fines educativos en clases de arte\n• Conversión de dibujos a mano alzada en arte lineal simple"
+        }
+      ]
+    }
+  },
+  "examples": [
+    {
+      "input": "/images/examples/sketch_simplifier/input2.webp",
+      "output": "/images/examples/sketch_simplifier/output2.webp",
+      "inputLabel": "Boceto Original",
+      "outputLabel": "Resultado Simplificado",
+      "prompt": "boceto a mano alzada transformado en arte lineal limpio"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input1.webp",
+      "output": "/images/examples/sketch_simplifier/output1.webp",
+      "inputLabel": "Boceto Original",
+      "outputLabel": "Resultado Simplificado",
+      "prompt": "Boceto a mano alzada refinado en arte lineal pulido"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input3.webp",
+      "output": "/images/examples/sketch_simplifier/output3.webp",
+      "inputLabel": "Boceto Original",
+      "outputLabel": "Resultado Simplificado",
+      "prompt": "Boceto a mano alzada refinado en arte lineal pulido"
+    }
+  ]
+}

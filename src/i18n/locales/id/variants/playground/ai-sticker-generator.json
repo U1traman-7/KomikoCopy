@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Generator Stiker AI",
+      "description": "Hasilkan karya seni stiker yang memukau dari foto Anda menggunakan Generator Stiker AI kami. Gaya unik dan hasil cepat—coba gratis sekarang!",
+      "keywords": "Generator Stiker AI, pembuatan stiker gambar AI, ubah foto menjadi stiker, alat seni stiker, stiker AI khusus"
+    },
+    "hero": {
+      "title": "Generator Stiker AI"
+    },
+    "whatIs": {
+      "title": "Apa itu Generator Stiker AI?",
+      "description": "Generator Stiker AI adalah platform inovatif yang mengubah foto Anda menjadi gambar bergaya stiker yang luar biasa. Ideal untuk desainer grafis dan pengguna umum, platform ini menawarkan antarmuka yang sederhana untuk menjelajahi berbagai gaya artistik yang dirancang untuk menyempurnakan gambar Anda. Rasakan kekuatan transformatif dari AI kami saat mengubah foto biasa menjadi karya seni stiker luar biasa yang cocok untuk platform digital dan cetak."
+    },
+    "examples": {
+      "title": "Contoh Inspiratif dari Generator Stiker AI",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Generator Stiker AI",
+      "steps": [
+        {
+          "title": "Langkah 1: Unggah Foto Anda",
+          "content": "Cukup unggah foto Anda dalam format yang jelas (JPG, PNG, WEBP) untuk hasil transformasi terbaik."
+        },
+        {
+          "title": "Langkah 2: Pilih Template Stiker",
+          "content": "Pilih template Stiker untuk mengubah foto Anda dengan gaya stiker yang diinginkan."
+        },
+        {
+          "title": "Langkah 3: Konversi ke Stiker",
+          "content": "Klik 'Konversi ke Stiker' untuk membiarkan AI kami membuat versi stiker yang menakjubkan dari gambar Anda dalam sekejap."
+        },
+        {
+          "title": "Langkah 4: Unduh atau Bagikan",
+          "content": "Unduh stiker yang baru dibuat atau bagikan langsung di media sosial—ciptakan karya seni yang mudah diakses!"
+        }
+      ],
+      "subtitle": "Ikuti langkah-langkah berikut untuk mengubah foto Anda menjadi karya seni stiker yang memukau."
+    },
+    "benefits": {
+      "title": "Mengapa Memilih Generator Stiker AI?",
+      "description": "Temukan fitur-fitur unggulan yang membedakan alat kami untuk seniman dan kreator.",
+      "features": [
+        {
+          "title": "🎨 Gaya Stiker Kustom",
+          "content": "Nikmati berbagai gaya artistik yang menghidupkan foto Anda, memenuhi setiap selera kreatif dari yang unik hingga yang canggih."
+        },
+        {
+          "title": "⚡ Pembuatan Seni Cepat",
+          "content": "AI kami menghasilkan hasil yang menakjubkan secara *real-time*, menjadikannya ideal untuk desain dan iterasi yang cepat."
+        },
+        {
+          "title": "🖼️ Navigasi Mudah",
+          "content": "Navigasi generator dengan mudah, dirancang untuk pengguna dari semua tingkat keahlian untuk membuat karya seni stiker yang indah."
+        },
+        {
+          "title": "💫 Kualitas yang Dapat Anda Percayai",
+          "content": "Dapatkan karya seni stiker beresolusi tinggi yang siap untuk penggunaan *online* dan cetak, memastikan semua kreasi Anda tampil menonjol."
+        },
+        {
+          "title": "🎯 Kreasi Serbaguna",
+          "content": "Sangat cocok untuk proyek pribadi, pembuatan materi pemasaran, atau hadiah unik, Generator Stiker AI beradaptasi dengan kebutuhan Anda!"
+        },
+        {
+          "title": "🚀 Opsi Berbagi Mudah",
+          "content": "Unduh dalam format yang diinginkan yang memungkinkan berbagi atau integrasi yang mudah ke dalam proyek Anda tanpa komplikasi."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Generator Stiker AI FAQ",
+      "description": "",
+      "q1": "Apa itu Generator Stiker AI dan bagaimana cara kerjanya?",
+      "a1": "Generator Stiker AI menggunakan algoritma canggih untuk menganalisis gambar Anda dan menerapkan gaya artistik yang unik, merekonstruksinya menjadi bentuk stiker yang menakjubkan yang mempertahankan karakteristik penting.",
+      "q2": "Bagaimana saya bisa mencapai hasil terbaik dengan Generator Stiker AI?",
+      "a2": "Untuk transformasi optimal, gunakan gambar yang jelas dan kontras tinggi, serta jelajahi berbagai gaya stiker kami, masing-masing dengan efek yang berbeda.",
+      "q3": "Apakah Generator Stiker AI gratis untuk digunakan?",
+      "a3": "Ya! Mulai dengan uji coba gratis untuk menjelajahi fitur-fitur luar biasa dan membuat transformasi stiker pertama Anda.",
+      "q4": "Apakah keluaran Generator Stiker AI berbeda dari filter biasa?",
+      "a4": "Tentu saja! AI kami sepenuhnya merekonstruksi gambar Anda dalam gaya yang dipilih, menghasilkan karya seni stiker unik yang mempertahankan esensi foto asli Anda.",
+      "q5": "Bisakah saya menggunakan stiker yang dihasilkan untuk tujuan komersial?",
+      "a5": "Ya, Anda dapat menggunakan kreasi Anda dalam usaha komersial dengan mengikuti panduan lisensi kami—hasilkan karya seni dan pendapatan!"
+    },
+    "cta": {
+      "title": "Mulai Membuat dengan Generator Stiker AI Sekarang",
+      "description": "Jangan tunda—buka potensi artistik Anda hari ini dengan Generator Stiker AI! Ubah foto Anda menjadi karya seni stiker yang berbeda dan selami kreativitas tanpa batas.",
+      "buttonText": "Buat Seni Stiker AI Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform a photo into unique sticker art",
+  "originalKeyword": "AI Sticker Generator",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "image": "/images/examples/playground/ai-sticker-generator/example_1.webp",
+      "prompt": "ai-sticker-generator style transformation example 1 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_2.webp",
+      "prompt": "ai-sticker-generator style transformation example 2 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_3.webp",
+      "prompt": "ai-sticker-generator style transformation example 3 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_4.webp",
+      "prompt": "ai-sticker-generator style transformation example 4 (chibi style)"
+    }
+  ]
+}

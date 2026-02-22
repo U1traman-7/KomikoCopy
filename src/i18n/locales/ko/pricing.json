@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "title": "가격 | KomikoAI | AI 기반 만화, 웹툰, 망가 및 애니메이션 제작",
+    "description": "KomikoAI의 AI 기반 도구로 만화, 웹툰, 망가 및 애니메이션을 제작하여 창의력을 마음껏 펼쳐보세요. 최적의 요금제를 선택하세요."
+  },
+  "page": {
+    "title": "KomikoAI 요금제 선택",
+    "zapPacksTitle": "Zap 팩",
+    "description": "완벽한 계획을 찾아 오늘 시작하세요. KomikoAI는 캐릭터, 예술, 애니메이션, 만화를 제작하는 데 필요한 모든 것을 제공합니다. 신규 사용자는 500회의 무료 zaps를 받습니다!",
+    "zapPacksDescription": "구독 없이 Zap이 더 필요하신가요? 일회성 Zap 팩을 구매하여 창작 활동을 이어가세요.",
+    "monthly": "월별",
+    "annual": "연간",
+    "save": "17% 절약",
+    "faq": "자주 묻는 질문",
+    "one_time_pack": "일회성 Zap 팩",
+    "upgrade_plan": "요금제 업그레이드",
+    "save50": "50% 할인",
+    "join_now": "50% 할인! 새해 분위기와 축제의 놀라움을 위해 KomikoAI에 가입하세요! 제안은 1월 6일에 종료됩니다!",
+    "save_amount": "{{amount}}% 할인"
+  },
+  "plans": {
+    "free": {
+      "name": "무료",
+      "price": "$0",
+      "zaps": "작업 완료로 Zap 획득",
+      "description": "가볍게 사용하거나 테스트 용도로 적합",
+      "includes": [
+        "작업 완료로 Zap 획득",
+        "최대 50개 이미지"
+      ]
+    },
+    "starter": {
+      "name": "스타터",
+      "price": {
+        "monthly": "$9.99",
+        "annual": "$99.90"
+      },
+      "zaps": "한 달에 5,000 Zaps",
+      "description": "취미로 AI를 즐기는 분들을 위해",
+      "includes": [
+        "매일 100 Zaps 체크인 보너스",
+        "최대 800 이미지 또는 40 비디오",
+        "동시 3개 비디오 생성",
+        "워터마크 없음",
+        "다중 참조 이미지 지원"
+      ]
+    },
+    "plus": {
+      "name": "플러스",
+      "price": {
+        "monthly": "$19.99",
+        "annual": "$199.90"
+      },
+      "zaps": "한 달에 15,000 Zaps",
+      "description": "숙련된 창작자를 위한 요금제",
+      "includes": [
+        "매일 120 Zaps 체크인 보너스",
+        "최대 1,860 이미지 또는 93 비디오",
+        "동시 5개 비디오 생성",
+        "Starter의 모든 상품 포함",
+        "신규 기능에 대한 조기 접근"
+      ]
+    },
+    "premium": {
+      "name": "프리미엄",
+      "price": {
+        "monthly": "$49.99",
+        "annual": "$499.90"
+      },
+      "zaps": "한 달에 50,000 Zaps",
+      "description": "전문가를 위한 최적의 선택",
+      "includes": [
+        "매일 160 Zaps 체크인 보너스",
+        "최대 5,480 이미지 또는 274 비디오",
+        "동시 10개 비디오 생성",
+        "Plus의 모든 상품 포함"
+      ],
+      "popular": "가장 인기 있는 요금제"
+    },
+    "enterprise": {
+      "name": "엔터프라이즈",
+      "price": "문의하기",
+      "zaps": "문의하기",
+      "description": "스튜디오 및 기업 고객 맞춤형",
+      "includes": [
+        "맞춤형 Zaps 수량",
+        "맞춤형 기능 및 제한",
+        "우선 고객 지원",
+        "기타 등등..."
+      ]
+    }
+  },
+  "buttons": {
+    "upgrade": "업그레이드",
+    "downgrade": "다운그레이드",
+    "currentPlan": "현재 요금제",
+    "contactSales": "영업팀 문의",
+    "cancelSubscription": "구독 취소",
+    "doNotCancel": "취소 안 함",
+    "takeMeBack": "돌아가기",
+    "buyNow": "지금 구매",
+    "manageSubscription": "구독 관리"
+  },
+  "labels": {
+    "active": "활성",
+    "perMonth": "/월",
+    "billedAnnually": "{{price}}에 연간 청구",
+    "oneTimePurchase": "일회성 구매",
+    "subscriberBonuses": "구독자 혜택:",
+    "bonusZaps": "{{amount}} Zap 추가"
+  },
+  "zapPacks": {
+    "medium": "Zap 미니팩",
+    "large": "Zap 메가팩",
+    "packs": [
+      {
+        "name": "800 Zap",
+        "price": "$0.99",
+        "label": "oneTimeOffer",
+        "bonuses": [
+          {
+            "plan": "시작",
+            "amount": "100"
+          },
+          {
+            "plan": "플러스",
+            "amount": "200"
+          },
+          {
+            "plan": "프리미엄",
+            "amount": "500"
+          }
+        ]
+      },
+      {
+        "name": "2,000 Zap",
+        "price": "$4.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "시작",
+            "amount": "300"
+          },
+          {
+            "plan": "플러스",
+            "amount": "1,700"
+          },
+          {
+            "plan": "프리미엄",
+            "amount": "3,000"
+          }
+        ]
+      },
+      {
+        "name": "9,000 Zap",
+        "price": "$19.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "시작",
+            "amount": "1,000"
+          },
+          {
+            "plan": "플러스",
+            "amount": "6,000"
+          },
+          {
+            "plan": "프리미엄",
+            "amount": "11,000"
+          }
+        ]
+      },
+      {
+        "name": "20,000 Zap",
+        "price": "$39.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "시작",
+            "amount": "1,000"
+          },
+          {
+            "plan": "플러스",
+            "amount": "10,000"
+          },
+          {
+            "plan": "프리미엄",
+            "amount": "20,000"
+          }
+        ]
+      },
+      {
+        "name": "52,500 Zap",
+        "price": "$99.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "시작",
+            "amount": "2,500"
+          },
+          {
+            "plan": "플러스",
+            "amount": "22,000"
+          },
+          {
+            "plan": "프리미엄",
+            "amount": "47,000"
+          }
+        ]
+      },
+      {
+        "name": "221,500 Zap",
+        "price": "$399.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "시작",
+            "amount": "9,800"
+          },
+          {
+            "plan": "플러스",
+            "amount": "78,000"
+          },
+          {
+            "plan": "프리미엄",
+            "amount": "178,000"
+          }
+        ]
+      }
+    ],
+    "title": "KomikoAI Zap 팩",
+    "subtitle": "구독 없이도 더 많은 zap가 필요하신가요? 창의력을 발휘하기 위해 1회성 zap 팩을 구매하세요.",
+    "subscriberBonuses": "구독자 혜택:",
+    "buyNow": "지금 구매하기",
+    "oneTimePurchase": "1회성 구매",
+    "oneTimeOffer": "1회성 특별 제공 (신규 사용자 전용)",
+    "bonusZaps": "+{{amount}} 보너스 zap",
+    "alreadyPurchased": "이미 구입한 항목",
+    "checking": "점검 중..."
+  },
+  "modals": {
+    "cancel": {
+      "title": "정말로 구독을 취소하시겠습니까?",
+      "message": "구독을 취소하시면 이번 달 말에 프리미엄 기능과 {{zaps}} Zap에 대한 액세스 권한이 종료됩니다.",
+      "confirm": "구독 취소"
+    }
+  },
+  "toasts": {
+    "subscriptionNotCancelled": "구독 취소가 완료되지 않았습니다.",
+    "subscriptionCancelled": "구독이 성공적으로 취소되었습니다.",
+    "failedToCancel": "구독 취소에 실패했습니다.",
+    "failedToCreateZapPack": "일회성 Zap 팩 생성에 실패했습니다.",
+    "failedToFindSubscription": "구독 정보를 찾을 수 없습니다"
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "items": [
+      {
+        "question": "이번 달에 zap이 다 떨어지면 어떻게 되나요?",
+        "answer": "KomikoAI의 AI 도구 사용이 제한되며, 이미지 생성 및 비디오 생성 기능도 제약을 받게 됩니다. 더 많은 zap을 얻으려면 일일 과제를 완료해보세요. 아니면 무료 플랜에서 유료 플랜으로 업그레이드하실 수 있습니다. 사용량에 맞는 최적의 플랜을 선택하세요."
+      },
+      {
+        "question": "내 플랜을 업그레이드할 수 있나요?",
+        "answer": "네, 가능합니다. 현재로서는 무료 플랜에서 유료 플랜으로의 업그레이드만 허용됩니다. 유료 플랜 간의 업그레이드는 현재 제공되지 않지만, 필요한 경우 Discord를 통해 맞춤형 지원을 문의하세요."
+      },
+      {
+        "question": "사용하지 않은 zap은 다음 달로 이월되나요?",
+        "answer": "아니요, 사용하지 않은 zap은 다음 달로 이월되지 않으며, zap은 매 청구 주기가 시작되면 새로 갱신됩니다."
+      },
+      {
+        "question": "어떤 결제 방식을 받나요?",
+        "answer": "Visa, MasterCard, American Express 등 모든 주요 신용 카드와 Line, Apple Pay를 받습니다. 결제는 우리의 결제 제공업체를 통해 안전하게 처리됩니다."
+      },
+      {
+        "question": "무료 플랜이 있나요?",
+        "answer": "네, KomikoAI의 AI 도구를 체험할 수 있는 무료 zap을 제공합니다. 추가 zap은 일일 과제를 완료하여 얻을 수 있습니다."
+      },
+      {
+        "question": "언제든지 내 구독을 취소할 수 있나요?",
+        "answer": "네, 언제든지 구독을 취소할 수 있습니다. 취소 후에도 현재 청구 기간 동안은 플랜의 모든 기능에 접근할 수 있습니다. 부분 환불은 제공되지 않습니다."
+      },
+      {
+        "question": "구독에 대한 환불을 받을 수 있나요?",
+        "answer": "아니요, 부분 환불은 제공되지 않습니다. 그러나 서비스에 만족하지 않으시면 Discord를 통해 문의하시면 최선을 다해 도움을 드리겠습니다."
+      },
+      {
+        "question": "유료 플랜에만 독점적으로 제공되는 기능이 있나요?",
+        "answer": "네, 유료 플랜에는 워터마크 없음, 높은 zap 한도, 우선 생성 등의 독점 기능이 포함되어 있습니다. 자세한 정보는 기능 섹션을 참고하세요."
+      },
+      {
+        "question": "생성이 실패하면 zap을 다시 받을 수 있나요?",
+        "answer": "네! 생성이 실패한 경우 zap은 차감되지 않습니다."
+      }
+    ]
+  },
+  "productHunt": "Product Hunt에서 자랑스럽게 상위 제품으로 선정되었습니다.",
+  "bonus": "보너스",
+  "custom": "맞춤형"
+}

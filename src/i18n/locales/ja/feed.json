@@ -1,0 +1,69 @@
+{
+  "tags": {
+    "trending": "トレンド",
+    "newest": "新着",
+    "most_likes": "いいね順",
+    "following": "フォロー中",
+    "leaderboard": "ランキング"
+  },
+  "labels": {
+    "sortBy": "並び替え：",
+    "filterBy": "絞り込み："
+  },
+  "actions": {
+    "loadMore": "もっと見る",
+    "tryAgain": "再試行",
+    "refresh": "更新",
+    "retry": "リトライ",
+    "linkCopied": "共有リンクをコピーしました！"
+  },
+  "states": {
+    "noMorePosts": "これ以上投稿はありません",
+    "noPostsFound": "投稿が見つかりません"
+  },
+  "errors": {
+    "noResponse": "データ取得に失敗しました：応答がありません",
+    "unknownError": "不明なエラー",
+    "serverError": "サーバーエラー {{status}}：{{statusText}}",
+    "loadFailed": "フィードの読み込みに失敗しました",
+    "timeout": "リクエストがタイムアウトしました。もう一度お試しください。",
+    "serverSlow": "サーバーの応答が遅れています。しばらく待ってから再試行してください。改善しない場合はページを更新してください。"
+  },
+  "noPostsFound": "投稿が見つかりません",
+  "noRelatedPostDesc": "このキャラクターを使った最初の作品を作ってみましょう！",
+  "ranking": {
+    "postRanking": "作品",
+    "creatorRanking": "クリエイター",
+    "characterRanking": "キャラクター",
+    "daily": "デイリー",
+    "weekly": "ウィークリー",
+    "monthly": "マンスリー",
+    "loading": "読み込み中…",
+    "noData": "データがありません",
+    "noPreview": "プレビューなし",
+    "fans": "ファン",
+    "posts": "投稿",
+    "follow": "フォロー",
+    "following": "フォロー中",
+    "followSuccess": "フォローしました",
+    "followFailed": "フォローに失敗しました",
+    "weeklyRules": "週間ランキングのルール",
+    "weeklyRulesContent": "過去1週間の「いいね」の合計数で順位を決定します。ランキングは毎週月曜日の午前12時（PST）に確定し、バッジとZapsの報酬は午前5時に配布されます。\n\n1位: 500 Zaps | 2位: 300 Zaps | 3位: 100 Zaps\n週刊および月間の両方の報酬が適用されます。",
+    "monthlyRules": "月間ランキングのルール",
+    "monthlyRulesContent": "過去1ヶ月の「いいね」の合計数で順位を決定します。ランキングは毎月1日の午前12時（PST）に確定し、バッジとZapsの報酬は午前5時に配布されます。\n\n1位: 1,000 Zaps | 2位: 800 Zaps | 3位: 500 Zaps\n週刊および月間の両方の報酬が適用されます。"
+  },
+  "tagOrder": {
+    "title": "タグの管理",
+    "description": "ドラッグ＆ドロップでフォロー中のタグの順序を変更できます",
+    "position": "位置 {{position}}",
+    "noFollowedTags": "フォロー中のタグがありません。順序をカスタマイズするには、いくつかのタグをフォローしてください。",
+    "saved": "タグの順序を保存しました",
+    "subscribedTags": "フォロー中のタグ",
+    "dragToReorder": "（ドラッグして順序を変更）",
+    "presetTags": "おすすめタグ",
+    "otherTags": "その他のタグ",
+    "noTags": "タグがありません",
+    "saveFailed": "変更を保存できませんでした"
+  },
+  "search_tags_placeholder": "人気タグを検索..."
+}

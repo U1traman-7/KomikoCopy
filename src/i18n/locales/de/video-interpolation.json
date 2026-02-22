@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "KI-Frame-Interpolation - KomikoAI",
+    "description": "Verwandeln Sie Ihre Videos mit der KI-Frame-Interpolationstechnologie von KomikoAI. Verbessern Sie die Videoqualität, erhöhen Sie die FPS und erzielen Sie ultra-flüssige Bewegungen mit unseren professionellen Videoverbesserungstools. Ideal für Content-Ersteller, die höchste Videoqualität anstreben.",
+    "keywords": "KI-Frame-Interpolation, Frame-Interpolation, Videoverbesserung, FPS erhöhen, Videoqualität verbessern, KI-Videoverbesserung"
+  },
+  "title": "KI-Frame-Interpolation",
+  "description": "Optimieren Sie Ihre Videos mit fortschrittlicher KI-Frame-Interpolation. Erzeugen Sie ultra-flüssige Bewegungen durch intelligente Frame-Generierung und Erhöhung der FPS. Perfekt für Content-Ersteller, die mit KI-Videoverbesserung und Frame-Rate-Erhöhung eine herausragende Videoqualität erreichen möchten.",
+  "input": {
+    "title": "Eingabevideo",
+    "uploadPrompt": "Zum Hochladen tippen oder Video hierher ziehen",
+    "framesPerSecond": "Bilder pro Sekunde (FPS)",
+    "framesPerSecondRange": "(min: 1, max: 60)",
+    "interpolationSteps": "Interpolationsschritte",
+    "interpolationStepsRange": "(min: 1, max: 10)",
+    "submitButton": "Video interpolieren",
+    "from_other_tools": "Video von {{source}} empfangen"
+  },
+  "results": {
+    "title": "Videoergebnisse",
+    "emptyState": "Hier werden die Ergebnisse angezeigt"
+  },
+  "deleteModal": {
+    "title": "Löschbestätigung",
+    "message": "Möchten Sie dieses Video wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "cancelButton": "Abbrechen",
+    "deleteButton": "Löschen"
+  },
+  "toasts": {
+    "fetchFailed": "Videos konnten nicht geladen werden",
+    "deleteSuccess": "Erfolgreich gelöscht",
+    "deleteFailed": "Löschen fehlgeschlagen",
+    "downloadFailed": "Download fehlgeschlagen",
+    "interpolationSuccess": "Frame-Interpolation erfolgreich",
+    "interpolationFailed": "Frame-Interpolation fehlgeschlagen",
+    "noZaps": "Bitte kaufen Sie mehr Zaps"
+  },
+  "seo": {
+    "whatIs": {
+      "title": "Was ist Frame-Interpolation?",
+      "description": "Frame-Interpolation ist eine Technik zur Erhöhung der Bildrate eines Videos, indem neue Frames zwischen bestehende Frames eingefügt werden. Dieser Prozess ermöglicht flüssigere Bewegungen und höhere Bildraten, ohne das Video neu aufnehmen zu müssen. KI-Frame-Interpolation ist eine moderne Videoverbesserungstechnologie, die künstliche Intelligenz nutzt, um zusätzliche Frames zu erzeugen. Dies führt zu geschmeidigeren Bewegungen und höheren Bildraten und verbessert die Videoqualität und das Seherlebnis erheblich."
+    },
+    "transform": {
+      "title": "Transformieren Sie Ihre Videos mit fortschrittlicher KI-Frame-Interpolationstechnologie",
+      "description": "Erzielen Sie professionelle Videoverbesserung mit unseren hochmodernen KI-Videoverbesserungstools. Unsere Frame-Interpolationssoftware analysiert und generiert mit fortschrittlicher KI neue Frames, wodurch unmittelbar nahtlose Bewegungen und höhere Bildraten entstehen."
+    },
+    "steps": [
+      {
+        "step": 1,
+        "title": "Video hochladen",
+        "content": "Beginnen Sie mit einer beliebigen Videodatei – unsere KI-Videobild-Interpolationstechnologie unterstützt verschiedene Formate und Qualitäten."
+      },
+      {
+        "step": 2,
+        "title": "Frame-Rate konfigurieren",
+        "content": "Wählen Sie die gewünschte Ziel-FPS und Interpolationseinstellungen für optimale Ergebnisse der Videoverbesserung."
+      },
+      {
+        "step": 3,
+        "title": "KI-Verarbeitung",
+        "content": "Unsere fortschrittlichen KI-Videoverbesserungsalgorithmen generieren neue Frames für flüssigere Bewegungen."
+      },
+      {
+        "step": 4,
+        "title": "Verbessertes Video herunterladen",
+        "content": "Laden Sie Ihr Video mit erhöhter Bildrate und fließender Bewegung herunter, unterstützt durch KI-Frame-Interpolation."
+      }
+    ],
+    "example": {
+      "title": "Frame-Interpolationsbeispiel",
+      "description": "Sehen Sie sich KI-Frame-Interpolationsergebnisse an, die von KomikoAI-Benutzern generiert wurden",
+      "inputLabel": "Beispiel für ein Eingabevideo",
+      "outputLabel": "Beispiel für ein hochskaliertes Ausgabevideo"
+    },
+    "benefits": {
+      "title": "Warum Sie Ihre Videos mit KI-Interpolation verbessern sollten",
+      "description": "Die KI-Frame-Interpolation von KomikoAI vereinfacht die Videoverbesserung für jeden, vom Content-Ersteller bis zum professionellen Videografen.",
+      "features": [
+        {
+          "title": "Fortschrittliche KI-Frame-Interpolation",
+          "content": "Erleben Sie modernste KI-Videoverbesserungstechnologie, die ruckeliges Filmmaterial durch intelligente Frame-Generierung und Video-Frame-Rate-Erhöhung in flüssige Videos in professioneller Qualität verwandelt."
+        },
+        {
+          "title": "Intelligente FPS-Erhöhung",
+          "content": "Nutzen Sie die Videobild-Interpolationstools von KomikoAI KI, um die FPS Ihrer Videos zu erhöhen, ohne sie neu aufnehmen zu müssen. Konvertieren Sie Standardmaterial mit unserer KI-Videoverbesserungstechnologie in flüssige 60+ FPS-Videos."
+        },
+        {
+          "title": "Automatisierte Videoverbesserung",
+          "content": "Unsere KI-Videobild-Interpolationssoftware übernimmt die komplexe Frame-Generierung automatisch. Erleben Sie professionelle Videoverbesserung ohne manuelle Bearbeitung oder komplizierte Tools."
+        },
+        {
+          "title": "Intelligente Frame-Generierung",
+          "content": "Die KI-Videotools von KomikoAI analysieren Bewegungsmuster, um natürlich aussehende Zwischenframes zu erstellen, die durch fortschrittliche Videobild-Interpolationstechniken eine gleichbleibende Qualität gewährleisten."
+        },
+        {
+          "title": "Professionelle Videoverbesserung",
+          "content": "Exportieren Sie hochwertige Videos, die mit unserer KI-Frame-Interpolationstechnologie verbessert wurden, perfekt für Content-Ersteller, die eine hervorragende Videoverbesserung und Frame-Rate-Optimierung fordern."
+        },
+        {
+          "title": "Effiziente KI-Videoverarbeitung",
+          "content": "Integrieren Sie unsere Frame-Interpolations-KI-Tools nahtlos in Ihren Workflow. Überlassen Sie die technischen Aspekte der KI-Videobildgenerierung von KomikoAI, während Sie sich auf Ihre Kreativität konzentrieren."
+        }
+      ]
+    },
+    "expertGuide": {
+      "title": "Expertenratgeber zur KI-Frame-Interpolation",
+      "description": "Erfahren Sie alles über die Verbesserung Ihrer Videos mit KI-gestützter Frame-Interpolationstechnologie. Erhalten Sie kompetente Antworten auf häufige Fragen zur Videoverbesserung und Frame-Rate-Verbesserung."
+    }
+  },
+  "faq": {
+    "question1": "Was ist KI-Frame-Interpolation?",
+    "answer1": "KI-Frame-Interpolation ist eine moderne Videoverbesserungstechnologie, die künstliche Intelligenz nutzt, um zusätzliche Frames zwischen bestehende Frames zu generieren. Dies führt zu flüssigeren Bewegungen und höheren Bildraten und verbessert die Videoqualität und das Seherlebnis erheblich.",
+    "question2": "Wie funktioniert die KI-Videobild-Interpolation?",
+    "answer2": "Unsere KI-Videobild-Interpolationssoftware analysiert die Bewegung zwischen bestehenden Frames und verwendet fortschrittliche Algorithmen für maschinelles Lernen, um neue Zwischenframes zu generieren. Dieser Prozess erhöht die FPS (Frames Per Second) des Videos und erhält gleichzeitig natürliche Bewegungen und eine hohe Qualität.",
+    "question3": "Welche Vorteile bietet die Frame-Interpolation?",
+    "answer3": [
+      "Flüssigere Bewegungen und Animationen",
+      "Höhere Frame-Raten ohne Neuaufnahme",
+      "Verbesserte Videoqualität",
+      "Bessere Zeitlupeneffekte"
+    ],
+    "question4": "Welche Videoformate werden unterstützt?",
+    "answer4": "Die KI unterstützt das MP4-Videoformat. Für beste Ergebnisse empfehlen wir die Verwendung von Videos mit klaren Bewegungen und guter Qualität.",
+    "question5": "Wie wähle ich die richtigen Einstellungen aus?",
+    "answer5": "Wählen Sie bei den Bildern pro Sekunde (FPS) die für Ihre Anforderungen passende Option: 24-30 FPS für Standardvideos, 60 FPS für flüssige Bewegungen. Die Interpolationsschritte bestimmen, wie viele Bilder zwischen bestehenden Bildern hinzugefügt werden sollen – höhere Werte erzeugen flüssigere Bewegungen, dauern aber länger in der Verarbeitung.",
+    "question6": "Gibt es eine Beschränkung der Videolänge oder -größe?",
+    "answer6": "Ja, um eine optimale Verarbeitung zu gewährleisten, gibt es einige Einschränkungen. Wir empfehlen Videos mit einer Länge von unter 30 Sekunden und einer Größe von unter 100 MB für beste Ergebnisse. Längere Videos können in Segmenten verarbeitet werden."
+  }
+}

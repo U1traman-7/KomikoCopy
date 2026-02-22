@@ -1,0 +1,140 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Ray2 Image to Video - KomikoAI",
+      "description": "Transform your static images into ultra-realistic, dynamic videos with Ray2 Image to Video. Experience cutting-edge AI video generation technology with natural motion and cinematic quality.",
+      "keywords": "Ray2, Image to Video, AI video generation, realistic AI videos, AI animation, video generation technology, AI video tool, Luma AI Ray2"
+    },
+    "hero": {
+      "title": "Ray2 Image to Video",
+      "description": "Harness the power of advanced AI to convert your static images into vivid, realistic video sequences. Ray2 delivers cinematic quality videos with natural motion and precise physics, transforming the way you bring visuals to life."
+    },
+    "whatIs": {
+      "title": "What is Ray2 Image to Video?",
+      "description": "Ray2 Image to Video is a state-of-the-art AI video generative model developed by Luma Labs. It transforms single static images into dynamic video sequences by introducing natural, coherent motion and ultra-realistic physical interactions. Built on a cutting-edge multi-modal transformer architecture, Ray2 leverages 10 times the computational power of its predecessor to deliver seamless, production-ready video outputs with cinematic quality. This technology interprets both visual and textual inputs to generate videos that maintain logical event sequences, accurate physics simulation, and rich detail, making it ideal for applications across entertainment, marketing, design, and more."
+    },
+    "examples": {
+      "title": "Ray2 Image to Video Examples",
+      "description": "See Ray2 in action across entertainment, marketing, design, and creative projects - transforming static images into professional video content."
+    },
+    "howToUse": {
+      "title": "How to Use Ray2 Image to Video",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Select and upload the static image you want to animate. This can be artwork, illustrations, photographs, or any visual content you want to transform into video."
+        },
+        {
+          "title": "Enter a Detailed Prompt",
+          "content": "Provide a descriptive prompt to guide the AI animation. Specify motions, actions, scene details, or camera angles to help Ray2 generate the desired video narrative."
+        },
+        {
+          "title": "Generate Your Video",
+          "content": "Initiate the video generation process by clicking the generate button. Ray2 will process the image and prompt to create a seamless, realistic video sequence."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Once the video is ready, download the high-quality cinematic clip. Use it for social media, presentations, marketing campaigns, or creative projects."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Ray2 Image to Video",
+      "description": "Discover how Ray2 empowers creators and professionals with cutting-edge AI video generation technology that combines speed, quality, and versatility to bring static visuals to life.",
+      "features": [
+        {
+          "title": "AI-Driven Natural Motion",
+          "content": "Captures realistic human, animal, and object movement with fluid, coherent motion improving storytelling and engagement.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Ultra-Realistic Video Quality",
+          "content": "Delivers 1080p resolution videos with stunning detail, accurate physics simulations, and cinematic visuals.",
+          "icon": "✨"
+        },
+        {
+          "title": "Versatile Input and Control",
+          "content": "Supports both image and video inputs, with customizable camera angles, zooms, and scene extensions for creative flexibility.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Fast and Production-Ready",
+          "content": "Generates videos in seconds with high success rates, suitable for immediate use in professional content creation.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Wide Industry Applications",
+          "content": "Ideal for entertainment, marketing, architecture, education, and artistic projects to create immersive and engaging video content.",
+          "icon": "🏢"
+        },
+        {
+          "title": "Easy to Use for All Skill Levels",
+          "content": "No need for advanced animation skills; intuitive prompts empower anyone to create dynamic videos from static images.",
+          "icon": "👌"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Ray2 Image to Video FAQ",
+      "description": "Learn everything you need to know about creating stunning AI-generated videos from images with Ray2.",
+      "q1": "What is Ray2 Image to Video?",
+      "a1": "Ray2 Image to Video is a next-generation AI model that converts static images into dynamic video sequences featuring natural motion, realistic physics, and cinematic quality. It uses a large-scale multi-modal transformer architecture trained on extensive compute power to achieve professional-grade video outputs.",
+      "q2": "How does Ray2 generate videos from images?",
+      "a2": "Ray2 analyzes the input image and user-provided text prompts to understand scene elements, motion, and events. It generates consecutive frames that simulate realistic movement and environmental interactions, producing a coherent video that maintains visual and physical consistency.",
+      "q3": "What types of images work best with Ray2 Image to Video?",
+      "a3": "Ray2 performs best with clear, high-resolution images that have defined subjects and visual details. It is especially effective with artworks, photographs, product images, and scenes where motion can be logically implied or creatively guided by prompts.",
+      "q4": "Can I use Ray2 videos for commercial projects?",
+      "a4": "Yes, videos generated with Ray2 can be used for both personal and commercial applications, including marketing, advertising, entertainment, and educational content, subject to the tool’s licensing terms.",
+      "q5": "What video quality and length does Ray2 Image to Video support?",
+      "a5": "Ray2 outputs videos up to 1080p resolution, typically generating clips ranging from 3 to 10 seconds depending on the input and prompt specifications, with options to extend or loop videos for longer presentations.",
+      "q6": "Is technical knowledge required to use Ray2 Image to Video?",
+      "a6": "No technical or animation expertise is needed. The platform’s intuitive prompt-based interface allows users to easily transform images into videos by simply uploading visuals and describing desired motions or scenes.",
+      "q7": "What industries benefit most from Ray2 Image to Video?",
+      "a7": "Ray2 is widely used in entertainment, marketing, architecture, education, and art. It streamlines video content creation, enabling professionals to save time and costs while producing high-quality, engaging video assets.",
+      "q8": "Are there any limitations to Ray2 Image to Video?",
+      "a8": "While powerful, Ray2 may have difficulty with extremely complex or highly detailed scenes that require extensive frame-to-frame consistency. High-resolution inputs require more processing resources, and prompts are currently supported in English only."
+    }
+  },
+  "originalKeyword": "Ray2 Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky.",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 2,
+      "title": "Model: Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+
+    {
+      "id": 3,
+      "title": "Model: Ray2",
+      "description": "Prompt: Putting on sun glasses.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_05.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Ray2",
+      "description": "Prompt: Dragon breathing fire.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_11.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Model: Ray2",
+      "description": "Prompt: an explosion with camera shake",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/explosion_camera_shake_185cff.mp4"
+    },
+    {
+      "id": 6,
+      "title": "Model: Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    }
+  ],
+  "pageStructure": ["whatIs", "examples", "howToUse", "benefits", "moreAITools", "faq"],
+  "model": "RAY"
+}

@@ -1,0 +1,503 @@
+{
+  "title": "影片轉影片 AI",
+  "description": "運用影片轉影片 AI 技術，輕鬆轉換您的影片。我們先進的影片風格轉換技術，能將任何影片轉換為動畫、卡通、漫畫及韓漫風格，同時完美保留原始動作與時間軸。",
+  "meta": {
+    "title": "影片轉影片 AI | 最佳影片風格轉換",
+    "description": "運用影片轉影片 AI 技術，輕鬆轉換您的影片。我們先進的影片風格轉換技術，能將任何影片轉換為動畫、卡通、漫畫及韓漫風格，同時完美保留原始動作與時間軸。",
+    "fullDescription": "劃時代的影片轉影片 AI 工具，能將普通影片轉化為動漫傑作、卡通動畫、漫畫風格視覺效果與韓漫畫美學。我們先進的影片風格轉換技術，在應用各種藝術風格轉換時（包括吉卜力工作室動畫、韓國漫畫、日本漫畫、水彩動畫與卡通風格），能確保動作的連貫性。非常適合尋求專業級影片風格轉換的內容創作者、動畫師與藝術家。",
+    "keywords": "影片轉影片 AI, 影片風格轉換, 動漫影片產生器, 卡通影片濾鏡, 漫畫風格轉換, 韓漫畫動畫, 影片轉動漫轉換器, 動畫工具, 卡通影片製作器, 動漫風格影片, 漫畫影片創作者, 影片風格化, 動畫影片產生器, 漫畫影片濾鏡, 動漫轉換, 卡通風格轉換"
+  },
+  "ui": {
+    "title": "影片轉影片 AI",
+    "tooltip": "使用影片轉影片 AI 和影片風格轉換技術，轉換您的影片",
+    "generatedVideos": "已產生的風格化影片",
+    "emptyState": "您動漫和卡通風格的影片將會顯示在此",
+    "steps": {
+      "uploadVideo": "1. 上傳影片",
+      "styleSelection": "風格選擇",
+      "generateVideo": "3. 產生影片"
+    },
+    "upload": {
+      "dragText": "點擊上傳或將您的影片拖曳至此",
+      "formatInfo": "支援 MP4, MOV, AVI 格式 • 最長 15 秒 • 最大 50MB",
+      "extractFrameManually": "手動提取首幀",
+      "bestResultsTip": "為獲得最佳效果，請使用單一場景的影片 - 最好以單一鏡頭拍攝。",
+      "safariFormatInfo": "支援 MP4, MOV, AVI 格式 • 最長 15 秒 • 最大 50MB",
+      "safariNotice": "Safari 使用者提示",
+      "safariLimitWarning": "影片長度限制為 15 秒或以內。如需較長影片或自訂時長控制，請使用 Chrome 瀏覽器。",
+      "bestResultsTip1": "為獲得最佳效果，請使用一次連續拍攝的影片。",
+      "bestResultsTip2": "如影片中有角色，請確保第一幀顯示正面。理想情況下，影片應集中於一位主要角色，並至少包含完整的上半身。"
+    },
+    "duration": {
+      "title": "持續時間",
+      "description": "選擇影片產生的持續時間。較長的持續時間會消耗更多 Zaps。",
+      "originalDuration": "原始：{{duration}} 秒",
+      "tooLong": "過長",
+      "willBeTrimmed": "將從 {{original}} 秒修剪為 {{target}} 秒",
+      "originalLength": "原始長度",
+      "safariNote": "檢測到 Safari：使用原始視頻長度以確保最佳兼容性",
+      "chromeAdvice": "如需自定義時長控制，請使用 Chrome 瀏覽器",
+      "safariUseOriginal": "Safari 使用者：視頻將使用原始時長以確保最佳兼容性"
+    },
+    "videoMode": {
+      "title": "產生模式",
+      "human": "人像影片模式",
+      "humanDescription": "針對人物主體與人像影片進行最佳化",
+      "general": "通用模式",
+      "generalDescription": "適用於任何主體與場景類型"
+    },
+    "videoPrompt": {
+      "title": "訊息提示",
+      "placeholder": "例如：跳舞的動漫女孩",
+      "description": "新增更多細節以引導影片產生過程",
+      "optional": "（選填）"
+    },
+    "framePreview": {
+      "original": "原始",
+      "styled": "已風格化",
+      "applyingStyle": "正在套用風格...",
+      "awaitingStyle": "等待風格",
+      "selectStyleBelow": "請在上方選擇一個樣式",
+      "beforeAfterComparison": "風格轉換前後比較",
+      "applyingStyleToFrame": "正在將您選擇的風格套用於幀...",
+      "frameReferenceText": "此幀將作為影片風格轉換的參考",
+      "styleTooltip": "此風格化的幀將引導整個影片轉換。"
+    },
+    "styleModes": {
+      "templates": "範本",
+      "prompt": "提示",
+      "reference": "參考"
+    },
+    "styleTemplates": {
+      "anime": "動漫",
+      "ghibliAnime": "吉卜力動漫",
+      "koreanManhwa": "韓國漫畫",
+      "cartoon": "卡通",
+      "manga": "漫畫",
+      "inkWash": "水墨",
+      "watercolor": "水彩",
+      "lineArt": "線條藝術",
+      "lowPoly": "低多邊形",
+      "clay": "黏土動畫",
+      "pixelArt": "像素藝術",
+      "origami": "摺紙",
+      "lego": "樂高",
+      "vaporwave": "蒸氣波",
+      "rickAndMorty": "瑞克和莫蒂",
+      "southPark": "南方公園",
+      "simpsons": "辛普森家庭",
+      "naruto": "火影忍者",
+      "onePiece": "航海王",
+      "myLittlePony": "彩虹小馬",
+      "comic": "漫畫",
+      "miku": "未來",
+      "barbie": "芭比",
+      "goku": "悟空",
+      "trump": "川普",
+      "princess": "公主 / 王子",
+      "kimono": "和服 / 浴衣",
+      "superhero": "超級英雄",
+      "magicalGirl": "魔法少女/少年",
+      "hogwarts": "霍格華茲",
+      "cowboy": "牛仔",
+      "sailorUniform": "水手服",
+      "pixar": "皮克斯",
+      "apocalypse": "末日",
+      "magicalWorld": "魔法世界",
+      "dreamland": "夢境",
+      "cyberpunk": "賽博朋克",
+      "kpopIdol": "韓流偶像",
+      "cloud": "雲朵",
+      "mars": "火星",
+      "outerSpace": "外太空",
+      "sailorMoon": "美少女戰士",
+      "pencilSketch": "鉛筆畫",
+      "retroGame": "復古遊戲",
+      "mobileGame": "手機遊戲",
+      "psGame": "PS 遊戲",
+      "underwater": "水下世界",
+      "snow": "冰雪",
+      "toyBricks": "積木風格",
+      "skeleton": "骷髏造型",
+      "fire": "火焰效果",
+      "muscle": "肌肉線條",
+      "metal": "金屬質感",
+      "crystal": "水晶透明",
+      "westernAnimation": "西方動畫風格",
+      "vanGogh": "梵高風格",
+      "oilPainting": "油畫效果",
+      "ice": "冰霜",
+      "mikuCosplay": "初音未來角色扮演",
+      "gokuCosplay": "悟空角色扮演",
+      "narutoCosplay": "火影忍者角色扮演",
+      "sailorMoonCosplay": "美少女戰士角色扮演",
+      "digitalIllustration": "數位插畫",
+      "xRay": "X光透視",
+      "neonSign": "霓虹招牌",
+      "gta": "俠盜獵車手",
+      "callOfDuty": "使命召喚",
+      "minecraft": "我的世界",
+      "theLegendOfZelda": "薩爾達傳說",
+      "harryPotter": "哈利·波特",
+      "starWars": "星際大戰",
+      "avatar": "阿凡達",
+      "dune": "沙丘",
+      "theLordOfTheRings": "魔戒",
+      "frozen": "冰雪奇緣",
+      "catGirlorBoy": "貓女孩/少年",
+      "maiden": "少女",
+      "bunnyGirlorBoy": "兔女孩/少年",
+      "samurai": "武士",
+      "ninja": "忍者",
+      "foxGirlorBoy": "狐女孩/少年",
+      "elf": "精靈",
+      "idol": "偶像",
+      "mechaPilot": "機甲駕駛員",
+      "playdoh": "橡皮泥",
+      "yarn": "毛線",
+      "marble": "大理石",
+      "christmas": "聖誕節",
+      "wizardingWorld": "魔法世界",
+      "heaven": "天堂",
+      "hell": "地獄",
+      "captainAmerican": "美國隊長",
+      "maleficent": "黑魔女",
+      "tinkerbell": "小仙女",
+      "robot": "機器人",
+      "angel": "天使",
+      "zombie": "殭屍",
+      "pirate": "海盜",
+      "medieval": "中世紀",
+      "knight": "騎士",
+      "goblin": "哥布林",
+      "monkeyDLuffy": "蒙其·D·魯夫",
+      "gojoSatoru": "五條悟",
+      "wolfGirlorBoy": "狼人女孩/男孩",
+      "vampire": "吸血鬼",
+      "werewolf": "狼人",
+      "iosEmoji": "iOS 表情符號",
+      "theSimpsons": "辛普森一家",
+      "animeCharacter": "動漫角色",
+      "cyborg": "賽博格",
+      "beagle": "米格魯犬",
+      "poodle": "貴賓犬",
+      "orangeCat": "橘貓",
+      "sphynxCat": "無毛貓"
+    },
+    "prompt": {
+      "placeholder": "描述您想要的風格轉換...",
+      "example": "範例：「將這個男人變成鳴人」、「將這個變成經典的 90 年代動漫風格」、「讓這個女孩穿上花裙」"
+    },
+    "reference": {
+      "uploadText": "上傳您預先風格化的幀作為參考",
+      "formatInfo": "支援 JPG, PNG, JPEG, WEBP • 最大 10MB",
+      "compositionWarning": "請確保參考影像與原始影片第一幀的構圖完全一致。"
+    },
+    "buttons": {
+      "applying": "正在套用...",
+      "useNewReference": "使用新的參考",
+      "applyNewStyle": "套用新的風格",
+      "useReference": "使用參考",
+      "applyStyle": "套用風格",
+      "generateVideo": "產生影片",
+      "generatingVideo": "正在產生影片...",
+      "generateMore": "產生更多影片",
+      "createAnother": "建立另一個影片",
+      "applyStyleWithName": "套用{{style}}樣式",
+      "applyNewStyleWithName": "套用新的{{style}}樣式"
+    },
+    "separators": {
+      "readyToGenerate": "準備好產生影片"
+    },
+    "styleCategories": {
+      "tStyleTransfer": "風格轉換",
+      "changeMaterial": "材質變換",
+      "changeEnvironment": "環境變換",
+      "cosplay": "角色扮演",
+      "gameRender": "遊戲渲染",
+      "switchScene": "切換場景",
+      "replaceCharacter": "更換角色",
+      "movieWorld": "電影世界",
+      "animeWorld": "動畫世界",
+      "game": "遊戲",
+      "movie": "電影/影集",
+      "anime": "動畫",
+      "animal": "動物"
+    },
+    "styleTemplatesTitle": "樣式範本",
+    "viewAll": "檢視全部",
+    "selectAStyle": "請選擇一個風格",
+    "selected": "已選取",
+    "all": "全部",
+    "trending": "熱門",
+    "model": {
+      "label": "模型",
+      "placeholder": "選擇模型",
+      "ariaLabel": "選擇模型",
+      "options": {
+        "rayFlash": "V2V 通用",
+        "actTwo": "V2V 人物視頻（需清楚可見面部）",
+        "aleph": "V2V 專業版",
+        "v2vHuman": "V2V Human 影片（臉部必須清晰可見）",
+        "v2vGeneral": "V2V 一般版",
+        "v2vPro": "V2V 專業版",
+        "wanAnimate": "畫動畫（適合角色動畫）"
+      },
+      "descriptions": {
+        "rayFlash": "快速風格轉換，適用於任何影片（無論是人物或非人物內容）。在單鏡頭情境下效果最佳。",
+        "actTwo": "適用於背景靜止的人像影片。能夠複製面部表情和身體動作。",
+        "aleph": "高品質、多功能的影片轉換。",
+        "v2vHuman": "適合背景靜止的人物影片。可複製面部表情及身體動作。",
+        "v2vGeneral": "快速風格轉換適用於任何影片（人物或非人物）。最適合單鏡頭長時間拍攝。",
+        "v2vPro": "高畫質及多功能的影片轉影片轉換。",
+        "wanAnimate": "適用於靜態背景的角色動畫影片。可複製面部表情及身體動作，最適合用於3D動畫。"
+      },
+      "zapsPerSecond": "zaps/s"
+    },
+    "ratioSelector": {
+      "label": "輸出長寬比",
+      "ariaLabel": "選擇長寬比"
+    },
+    "actTwo": {
+      "bodyControl": "身體控制",
+      "bodyControlDesc": "啟用後，角色將反映非面部的動作及手勢。",
+      "expressionIntensity": "表情強度",
+      "expressionIntensityDesc": "較高的值會增強角色表情的強度。",
+      "ratioDesc": "輸出影片的解析度。",
+      "actTwoVideoTooShort": "行動二的參考影片必須至少有 {{min}} 秒。",
+      "videoTooShort": "關於V2V人類視頻，參考視頻至少需為{{min}}秒。"
+    },
+    "uploadTips": {
+      "title": "為確保獲得最佳效果（否則質量可能會有所不同）",
+      "tip1": "1. 使用單一連續鏡頭（建議將多鏡頭影片拆分並分別轉換）。",
+      "tip2": "2. 請確保畫面中僅有一人，且人物在畫面中清晰可見。"
+    }
+  },
+  "whatIs": {
+    "title": "什麼是影片轉影片 AI？",
+    "description": "影片轉影片 AI 運用先進的影片風格轉換技術，將普通影片轉換為動畫、卡通、漫畫與韓漫畫風格的動畫。我們的兩步驟流程首先將您選擇的風格套用於參考幀，然後使用此風格化的幀來轉換您的整個影片，同時保留原始動作與時間軸。透過我們的影片風格轉換，從 20 多種風格中選擇，包括吉卜力工作室動畫、韓國漫畫、日本漫畫與流行的卡通美學。"
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/dancing-input.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/fox-boy.webm",
+      "inputLabel": "原影片",
+      "outputLabel": "轉換結果",
+      "description": "動漫 | 風格: 狐狸女孩/男孩"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/drum-set.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/the-simpsons.webm",
+      "inputLabel": "原影片",
+      "outputLabel": "轉換結果",
+      "description": "電影/節目 | 風格: 辛普森一家"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/skateboard.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/minfecraft.webm",
+      "inputLabel": "原影片",
+      "outputLabel": "轉換結果",
+      "description": "遊戲 | 風格: 我的世界"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "原影片",
+      "outputLabel": "漫畫風格",
+      "description": "風格轉換 | 風格: 漫畫",
+      "isSpecial": true
+    },
+    {
+      "id": 5,
+      "layout": "single",
+      "type": "video",
+      "output": "/images/examples/video-to-video/dog.webm",
+      "label": "動漫轉換",
+      "description": "將現實生活中的狗轉換成動漫風格，展示現實寵物轉換為動畫角色"
+    }
+  ],
+  "howTo": {
+    "title": "如何使用影片轉影片 AI"
+  },
+  "steps": {
+    "step1": {
+      "title": "上傳您的影片",
+      "content": "上傳任何影片檔案（MP4, MOV, AVI），長度最長 15 秒且不超過 50MB，以進行影片到影片的 AI 處理。超過 15 秒的影片將自動裁剪，以達到最佳的影片風格轉換效果。"
+    },
+    "step2": {
+      "title": "影片風格轉換參考",
+      "content": "我們提取第一幀並套用您選擇的動畫、卡通或漫畫風格，以建立一個參考指南，用於一致的影片風格轉換。"
+    },
+    "step3": {
+      "title": "選擇藝術風格",
+      "content": "從 20 多種預設風格中選擇，例如吉卜力工作室動畫、韓國漫畫、日本漫畫，或使用文字提示與參考影像建立自訂風格，以進行影片風格轉換。"
+    },
+    "step4": {
+      "title": "產生影片轉影片 AI",
+      "content": "我們的影片轉影片 AI 使用風格化的參考幀轉換您的完整影片，同時透過先進的影片風格轉換，保留所有原始動作、表情與時間軸。"
+    }
+  },
+  "benefits": {
+    "title": "為什麼要使用影片轉影片 AI",
+    "description": "我們的影片轉影片 AI 提供最先進的影片風格轉換，具備動作保留、廣泛的風格選項與透明的定價。"
+  },
+  "features": {
+    "feature1": {
+      "title": "完美的動作保留",
+      "content": "影片轉影片 AI 在套用動畫、卡通或漫畫風格時，透過幀完美的影片風格轉換一致性，維持原始動作、面部表情與時間軸的每個細節。"
+    },
+    "feature2": {
+      "title": "20 多種影片風格轉換選項",
+      "content": "從吉卜力工作室動畫、韓國漫畫、日本漫畫、迪士尼卡通、火影忍者風格等選擇。使用影片轉影片 AI，透過文字提示或參考影像建立自訂影片風格轉換。"
+    },
+    "feature3": {
+      "title": "專業品質輸出",
+      "content": "使用我們的影片轉影片 AI，產生具有一致的影片風格轉換應用、平滑過渡且無閃爍或瑕疵的高畫質動畫與卡通影片。"
+    },
+    "feature4": {
+      "title": "智慧成本系統",
+      "content": "透明的定價，影片風格轉換與影片產生分別收費。使用影片轉影片 AI，在不增加額外影片成本的情況下，試驗不同的風格。"
+    },
+    "feature5": {
+      "title": "簡單的兩步驟流程",
+      "content": "簡單的影片轉影片 AI 工作流程：上傳影片，將影片風格轉換套用於參考幀，產生完整影片。無需技術專業知識，並具有即時進度追蹤。"
+    },
+    "feature6": {
+      "title": "自動最佳化",
+      "content": "智慧影片轉影片 AI 處理，具有自動修剪、格式支援 (MP4, MOV, AVI) 與基於持續時間的成本計算，以實現最佳影片風格轉換。"
+    }
+  },
+  "faq": {
+    "title": "影片轉影片 AI 常見問題",
+    "description": "有關我們的影片轉影片 AI 和影片風格轉換工具、流程、成本與最佳實踐的常見問題。",
+    "q1": "影片轉影片 AI 如何運作？",
+    "a1": "我們的影片轉影片 AI 使用兩步驟的影片風格轉換流程：1) 提取參考幀並套用您選擇的動畫/卡通風格，2) 使用此風格化的幀轉換整個影片，同時保留原始動作與時間軸。這確保所有幀上一致的影片風格轉換應用。",
+    "q2": "影片轉影片 AI 的影片格式要求是什麼？",
+    "a2": "我們支援 MP4, MOV 和 AVI 格式，檔案大小上限為 50MB，適用於影片到影片的 AI 處理。影片限制為 15 秒，若超過將自動裁剪，以達到最佳影片風格轉換效果和成本效益。",
+    "q3": "影片風格轉換需要多長時間？",
+    "a3": "總共的影片轉影片 AI 處理需要 5-10 分鐘：影片風格轉換 (1-3 分鐘) 與影片產生 (3-7 分鐘)。您可以即時監控影片風格轉換的進度。",
+    "q4": "影片轉影片 AI 的費用是多少？",
+    "a4": "影片風格轉換與影片產生根據持續時間分別收費。在處理之前，會即時顯示影片轉影片 AI 的成本，並且僅在成功完成影片風格轉換後才會扣除積分。",
+    "q5": "我可以建立自訂影片風格轉換風格嗎？",
+    "a5": "可以！從 20 多個預設範本（吉卜力工作室、韓國漫畫、日本漫畫等）中選擇，編寫自訂文字提示，或上傳參考影像，以使用我們的影片轉影片 AI 進行獨特的影片風格轉換。",
+    "q6": "什麼樣的輸入影片適合影片轉影片 AI？",
+    "a6": "透過清晰的主體、良好的光照、穩定的動作與明確定義的特徵，獲得最佳的影片風格轉換效果。避免快速移動、黑暗或模糊的鏡頭，以實現最佳的影片轉影片 AI 處理。少於 5 秒且帶有人物或清晰物體的影片最適合影片風格轉換。"
+  },
+  "seo": {
+    "meta": {
+      "title": "視頻轉視頻 AI | 最佳視頻風格遷移",
+      "description": "使用視頻轉視頻 AI 技術轉換您的視頻。我們先進的視頻風格遷移在保留原有動作和時序的同時，將任何視頻轉換為動漫、卡通、漫畫和韓漫風格。",
+      "fullDescription": "革命性的视频转视频 AI 工具，可以将普通视频转化为动漫杰作、卡通动画、漫画风格视觉效果和韩漫美学。我们先进的视频风格迁移技术在应用艺术变换（包括吉卜力工作室动漫、韩国韩漫、日本漫画、水彩动画和卡通风格）的同时，保留运动一致性。适合寻求专业质量视频风格迁移的内容创作者、动画师和艺术家。",
+      "keywords": "視頻轉視頻 AI, 視頻風格遷移, 動漫視頻生成器, 卡通視頻濾鏡, 漫畫風格遷移, 韓漫動畫, 視頻轉動漫轉換器, 動畫工具, 卡通視頻製作, 動漫風格視頻, 漫畫視頻創作者, 視頻風格化, 動畫視頻生成器, 動漫變換, 卡通風格遷移"
+    },
+    "hero": {
+      "title": "視頻轉視頻 AI"
+    },
+    "whatIs": {
+      "title": "什麼是視頻轉視頻 AI？",
+      "description": "視頻轉視頻 AI 使用先進的视频风格迁移技術，將普通視頻轉化為動漫、卡通、漫畫和韓漫風格的動畫。我們的兩步過程首先將您選擇的風格應用於參考幀，然後使用此風格化幀轉換整個視頻，同時保留原有的動作和時序。通過我們的視頻風格遷移從20多種風格中選擇，包括吉卜力工作室動漫、韓國韓漫、日本漫畫和流行的卡通美學。"
+    },
+    "examples": {
+      "title": "視頻轉視頻 AI 示例",
+      "description": "看看我們的視頻轉視頻 AI 如何在保持完美運動一致性的同時，將視頻轉化為令人驚嘆的動漫、卡通、漫畫和韓漫風格。使用先進的视频风格迁移技術。",
+      "style": "應用風格"
+    },
+    "howToUse": {
+      "title": "如何使用視頻轉視頻 AI",
+      "steps": [
+        {
+          "title": "上傳您的影片",
+          "content": "上傳任何影片檔案（MP4、MOV、AVI），音樂長度限制為 15 秒且不超過 50MB，進行影片至影片的 AI 處理。超過 15 秒的影片將自動剪輯，以達到最佳的影片風格轉換效果。"
+        },
+        {
+          "title": "影片風格轉換參考",
+          "content": "我們會提取第一幀並應用您選擇的動漫、卡通或漫畫風格，用作轉換的一致性影片風格參考指南。"
+        },
+        {
+          "title": "選擇藝術風格",
+          "content": "選擇超過 20 種預設風格，如吉卜力工作室的動漫、韓國漫畫、日本漫畫，或使用文字提示和參考圖片創建自定義風格，進行影片風格轉換。"
+        },
+        {
+          "title": "生成影片至影片 AI",
+          "content": "我們的影片至影片 AI 演算法利用風格化的參考畫面轉換您的完整影片，保留所有原始動作、表情和時間軸，並進行高級影片風格轉換。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼使用視頻轉視頻 AI",
+      "description": "我們的視頻轉視頻 AI 提供最先進的视频风格迁移，具有運動保留、廣泛的風格選擇和透明的價格。",
+      "features": [
+        {
+          "title": "完美保留動作細節",
+          "content": "影片至影片 AI 在應用動漫、卡通或漫畫風格時，保持原始動作、面部表情和時間的每個細節，以精確的一致性實現影片風格轉換。",
+          "icon": "🎬"
+        },
+        {
+          "title": "超過 20 種影片風格選項",
+          "content": "選擇吉卜力工作室動漫、韓國漫畫、日本漫畫、迪士尼卡通、火影忍者風格等。透過影片至影片 AI 使用文字提示或參考圖片創建自定義影片風格轉換。",
+          "icon": "🎨"
+        },
+        {
+          "title": "專業品質的輸出",
+          "content": "生成高解析度的動漫和卡通影片，以一致的影片風格轉換應用、平滑的過渡，無閃爍或瑕疵的效果與我們的影片至影片 AI。",
+          "icon": "✨"
+        },
+        {
+          "title": "智慧成本系統",
+          "content": "透明定價，影片風格轉換與影片生成分別計費。使用影片至影片 AI 可以嘗試不同風格而不需額外影片成本。",
+          "icon": "⚡"
+        },
+        {
+          "title": "簡單的兩步驟流程",
+          "content": "簡易影片至影片 AI 工作流程：上傳影片，將影片風格轉換應用到參考畫面，生成完整影片。無需技術專業知識，並提供即時進度追蹤。",
+          "icon": "👌"
+        },
+        {
+          "title": "自動最佳化",
+          "content": "智慧的影片至影片 AI 處理，具有自動剪輯、格式支持（MP4、MOV、AVI），以及基於時長的成本計算，以實現最佳影片風格轉換。",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "視頻轉視頻 AI 常見問題",
+      "description": "關於我們的视频转视频 AI 和视频风格迁移工具、過程、成本和最佳實踐的常見問題。",
+      "q1": "視頻轉視頻 AI 是如何工作的？",
+      "a1": "我們的视频转视频 AI 使用兩步视频风格迁移過程：1）提取參考幀並應用您選擇的動漫/卡通風格，2）使用此風格化幀轉換整個視頻，確保在所有幀中應用一致的视频风格迁移。",
+      "q2": "視頻轉視頻 AI 的視頻格式要求是什麼？",
+      "a2": "我們支持 MP4、MOV 和 AVI 格式，视频转视频 AI 處理的最大文件大小為50MB。視頻限制為15秒，如果超過，則自動剪切以優化视频风格迁移處理和成本效率。",
+      "q3": "視頻風格遷移需要多長時間？",
+      "a3": "整個视频转视频 AI 處理需要5-10分鐘：视频风格迁移（1-3分鐘）和視頻生成（3-7分鐘）。您可以實時監控视频风格迁移進度。",
+      "q4": "視頻轉視頻 AI 的成本是多少？",
+      "a4": "根據持續時間，對视频风格迁移和視頻生成分別收費。视频转视频 AI 的成本在處理前實時顯示，只有在成功完成视频风格迁移後才扣除積分。",
+      "q5": "我可以創建自定義视频风格迁移風格嗎？",
+      "a5": "可以！選擇20多種預設模板（吉卜力工作室、韓國韓漫、日本漫畫等），編寫自定義文本提示，或上傳參考圖片，使用我們的视频转视频 AI 進行獨特的视频风格迁移轉變。",
+      "q6": "什麼樣的視頻輸入適合视频转视频 AI？",
+      "a6": "對於最佳视频风格迁移效果，建議使用主題清晰、光線良好、運動穩定和特徵明晰的視頻。避免快速運動、黑暗或模糊的視頻，以優化视频转视频 AI 處理。5秒以內，以人或明確物體為主題的視頻在视频风格迁移中效果最佳。"
+    },
+    "cta": {
+      "title": "立即使用我們的 Video to Video AI 免費轉換影片！",
+      "description": "利用先進的影片風格轉換技術，創造令人驚艷的動畫及卡通風格影片。",
+      "buttonText": "免費體驗我們的 Video to Video AI"
+    }
+  },
+  "toast": {
+    "video": {
+      "styleTransfer": {
+        "actTwoVideoTooShort": "第二幕的參考影片長度至少需要 {{min}} 秒。"
+      }
+    }
+  }
+}

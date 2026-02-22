@@ -1,0 +1,73 @@
+{
+  "tags": {
+    "trending": "Em alta",
+    "newest": "Mais recentes",
+    "most_likes": "Mais curtidas",
+    "following": "A seguir",
+    "ranking": "Classificações",
+    "leaderboard": "Classificação"
+  },
+  "loadMore": "Carregar mais",
+  "noMorePosts": "Não há mais publicações para carregar",
+  "tryAgain": "Tente novamente",
+  "noPostsFound": "Nenhuma publicação encontrada",
+  "actions": {
+    "loadMore": "Carregar mais",
+    "tryAgain": "Tentar novamente",
+    "refresh": "Atualizar",
+    "retry": "Repetir",
+    "linkCopied": "Link copiado!"
+  },
+  "states": {
+    "noMorePosts": "Não há mais postagens para carregar",
+    "noPostsFound": "Nenhuma postagem encontrada"
+  },
+  "errors": {
+    "noResponse": "Falha ao obter dados: nenhuma resposta",
+    "unknownError": "Erro desconhecido",
+    "serverError": "Erro do servidor {{status}}: {{statusText}}",
+    "loadFailed": "Falha ao carregar o feed",
+    "timeout": "Tempo de requisição esgotado. Por favor, tente novamente.",
+    "serverSlow": "A resposta do servidor está lenta, por favor, tente novamente mais tarde. Se o problema persistir, atualize a página."
+  },
+  "labels": {
+    "sortBy": "Ordenar por:",
+    "filterBy": "Filtrar por:"
+  },
+  "noRelatedPostDesc": "Seja o primeiro a criar conteúdo com este personagem!",
+  "ranking": {
+    "postRanking": "Obras",
+    "creatorRanking": "Criadores",
+    "characterRanking": "Personagens",
+    "daily": "Diário",
+    "weekly": "Semanal",
+    "monthly": "Mensal",
+    "loading": "A carregar...",
+    "noData": "Sem dados disponíveis",
+    "noPreview": "Sem pré-visualização",
+    "fans": "Fãs",
+    "posts": "Publicações",
+    "follow": "Seguir",
+    "following": "A seguir",
+    "followSuccess": "Seguido com sucesso",
+    "followFailed": "Erro ao seguir",
+    "weeklyRules": "Regras Semanais de Classificação",
+    "weeklyRulesContent": "Classificação baseada no total de curtidas da semana passada. O placar fecha às 12:00 AM PST toda segunda-feira, com distribuição de recompensas em distintivos e Zaps às 5:00 AM.\n1º Lugar: 500 Zaps | 2º Lugar: 300 Zaps | 3º Lugar: 100 Zaps\nElegível para recompensas semanais e mensais.",
+    "monthlyRules": "Regras Mensais de Classificação",
+    "monthlyRulesContent": "Classificação baseada no total de curtidas do último mês. O placar fecha às 12:00 AM PST no 1º dia de cada mês, com distribuição de recompensas em distintivos e Zaps às 5:00 AM.\n1º Lugar: 1,000 Zaps | 2º Lugar: 800 Zaps | 3º Lugar: 500 Zaps\nElegível para recompensas semanais e mensais."
+  },
+  "tagOrder": {
+    "title": "Gerenciar Marcadores",
+    "description": "Arraste e solte para reorganizar suas etiquetas seguidas",
+    "position": "Posição {{position}}",
+    "noFollowedTags": "Ainda não há etiquetas seguidas. Siga algumas etiquetas para personalizar a ordem delas!",
+    "saved": "Ordem das etiquetas salva com sucesso",
+    "subscribedTags": "Tags que você segue",
+    "dragToReorder": "(arraste para reordenar)",
+    "presetTags": "Tags recomendadas",
+    "otherTags": "Outras tags",
+    "noTags": "Nenhuma tag disponível",
+    "saveFailed": "Falha ao salvar as alterações"
+  },
+  "search_tags_placeholder": "Procurar por tags populares..."
+}

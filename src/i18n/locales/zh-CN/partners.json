@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "合作伙伴 | KomikoAI",
+    "description": "与 KomikoAI 携手合作，共创未来。"
+  },
+  "hero": {
+    "title": "我们的合作伙伴",
+    "description": "作为领先的 AI 漫画和动画平台，我们与顶尖的 AI 创新者强强联手，共同革新设计和娱乐领域的创意内容制作。"
+  },
+  "technologyPartners": {
+    "title": "技术合作伙伴",
+    "description": "携手行业翘楚，突破 AI 创意边界",
+    "partners": {
+      "mathosAI": {
+        "name": "Mathos AI",
+        "description": "Mathos AI 是一款强大的 AI 驱动的数学解算器，助您轻松解决复杂的数学难题。"
+      },
+      "collovAI": {
+        "name": "Collov AI",
+        "description": "Collov AI 提供领先的 AI 虚拟家装解决方案，通过令人惊艳的逼真设计，焕新房产列表。 快速、经济高效地提升房地产营销效果。"
+      },
+      "altpageAI": {
+        "name": "altpage.ai",
+        "description": "altpage.ai是一个AI代理，专门创建SEO优化的比较页面，以捕捉竞争对手的品牌流量。它能分析数据，突出你的优势，无需任何技术技能即可部署页面以获得较高排名。"
+      },
+      "easysiteAI": {
+        "name": "易站AI",
+        "description": "利用AI在数秒内构建数据库驱动的网站和应用。特点包括内置数据库、移动优化、聊天小部件和分析功能。支持WordPress和Netlify。"
+      },
+      "newoaksAI": {
+        "name": "AI 聊天机器人构建器; AI 代理构建器",
+        "description": "NewOaks AI为您处理所有渠道的客户对话并安排会议。专注于达成交易，而不是寻找潜在客户！"
+      },
+      "komiko": {
+        "name": "KomikoAI",
+        "description": "KomikoAI: 一站式的AI平台，专为艺术、动漫和漫画而设计。KomikoAI强大的AI工具让艺术家和故事创作者轻松实现创意。从线稿上色到AI动漫生成和AI漫画生成，一应俱全。短短几分钟内即可创作插图、漫画、动漫和动画。"
+      },
+      "kuaAI": {
+        "name": "kua.ai",
+        "description": "专为电子商务服务的AI代理。"
+      },
+      "vidAU": {
+        "name": "VidAU",
+        "description": "VidAU AI 可以在几分钟内批量生成吸引眼球的视频。您只需通过产品链接或描述，就能轻松创建视频，使用逼真的 AI 数字人用多种语言和口音进行讲解，适用于 TikTok、YouTube、市场营销、培训视频等多种场景。不论您需要的是吸引观众的短视频，还是专业的讲解内容，VidAU AI 都能为您快速生成。通过我们全能易用的AI视频创作平台，您可以高效地创作出具有感染力的视频内容，提升品牌影响力，传达您的故事。"
+      },
+      "bikaAI": {
+        "name": "Bika.AI",
+        "description": "Bika.ai是一种全能的AI工作空间，可用于创建商业AI代理，集成AI聊天机器人、自动化、数据库、仪表板和维基，实现无限的业务流程管理和自动化。无需频繁与AI互动，Bika.ai能自动化重复性任务，并在不同职能间无缝执行，助力您的市场营销、销售和项目，让您专注于战略工作。"
+      }
+    }
+  },
+  "partnershipCTA": {
+    "title": "与我们共同发展您的业务",
+    "description": "与 KomikoAI 合作，扩大您的市场影响力。 我们诚挚欢迎与创意产业相关的企业开展合作。",
+    "button": "联系我们"
+  },
+  "productLines": {
+    "title": "产品线",
+    "description": "探索我们正在重塑创意 AI 工具未来的创新解决方案",
+    "aiComicGeneration": {
+      "title": "AI 漫画生成",
+      "description": "利用我们先进的 AI 技术，即刻创作令人惊艳的漫画作品",
+      "items": [
+        "角色设计",
+        "漫画场景生成",
+        "多格漫画故事叙述",
+        "自定义风格控制"
+      ]
+    },
+    "imageProcessing": {
+      "title": "图像处理",
+      "description": "专业的 AI 图像工具，简化您的创意工作流程",
+      "items": [
+        "背景移除",
+        "图像着色",
+        "图像超分辨率",
+        "线条艺术着色"
+      ]
+    },
+    "videoEnhancement": {
+      "title": "视频增强",
+      "description": "强大的视频工具，让您的创意变为现实",
+      "items": [
+        "视频帧插值",
+        "视频超分辨率",
+        "AI 视频动画",
+        "角色动作生成"
+      ]
+    }
+  },
+  "solutions": {
+    "title": "解决方案",
+    "description": "为不同细分市场量身定制的解决方案",
+    "professionals": {
+      "title": "专业人士",
+      "description": "为创意专业人士提供的便捷工具",
+      "items": [
+        "漫画艺术家",
+        "内容创作者",
+        "游戏设计师",
+        "插画家"
+      ]
+    },
+    "enterprises": {
+      "title": "企业",
+      "description": "适用于企业的大规模 AI 解决方案",
+      "items": [
+        "教育机构",
+        "娱乐产业",
+        "出版社",
+        "广告公司"
+      ]
+    }
+  }
+}

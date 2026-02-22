@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "Ampliación de Imágenes con IA - KomikoAI",
+    "description": "Transforme sus imágenes con el avanzado amplificador de imágenes de IA de KomikoAI. Nuestra tecnología de mejora de imágenes con IA utiliza superresolución para ampliar y mejorar sus fotos de forma inteligente, ofreciendo resultados profesionales con claridad y detalle excepcionales.",
+    "fullDescription": "Transforme sus imágenes con el avanzado amplificador de imágenes de IA de KomikoAI. Nuestra tecnología de mejora de imágenes con IA utiliza superresolución para ampliar y mejorar sus fotos de forma inteligente. Ya sea que necesite ampliar imágenes a 4K, reducir el ruido o mejorar la calidad de la imagen, nuestro potenciador de fotos con IA ofrece resultados profesionales con una claridad y detalle excepcionales.",
+    "keywords": "Amplificador de imágenes con IA, mejora de imágenes, superresolución, potenciador de fotos con IA, ampliación de imágenes 4K, mejora de la calidad de imagen, reducción de ruido, reparación de imágenes, mejora de imágenes profesional, ampliación con aprendizaje automático"
+  },
+  "title": "Ampliación de Imágenes con IA",
+  "description": "Transforme sus imágenes con el avanzado amplificador de imágenes de IA de KomikoAI. Nuestra tecnología de mejora de imágenes con IA utiliza superresolución para ampliar y mejorar sus fotos, imágenes de anime y contenido de manga. Ya sea que necesite ampliar imágenes a 4K, mejorar paneles de manga, crear fondos de pantalla de anime de alta calidad o mejorar la calidad general de la imagen, nuestro potenciador de fotos con IA ofrece resultados profesionales con una claridad y detalle excepcionales.",
+  "inputImage": "Imagen de entrada",
+  "scaleFactor": "Factor de ampliación",
+  "imageResults": "Resultados de la imagen",
+  "resultsPlaceholder": "Los resultados se mostrarán aquí",
+  "whatIsSection": {
+    "title": "¿Qué es la ampliación de imágenes?",
+    "description": "La ampliación de imágenes es el proceso de aumentar la resolución de una imagen. Permite a los artistas crear imágenes de alta calidad con más detalles y claridad. La ampliación de imágenes con IA es una herramienta que le permite ampliar imágenes al instante utilizando la IA."
+  },
+  "howToSection": {
+    "title": "¿Cómo ampliar una imagen con el amplificador de imágenes con IA?",
+    "description": "Descubra cómo el amplificador de imágenes de KomikoAI AI utiliza el aprendizaje automático avanzado para mejorar sus fotos. Nuestro potenciador de fotos con IA hace que la ampliación de imágenes de calidad profesional sea accesible para todos."
+  },
+  "steps": {
+    "step1": {
+      "title": "Paso 1: Suba una imagen",
+      "content": "Suba cualquier foto que desee mejorar con nuestro amplificador de imágenes con IA. Admitimos formatos JPG, PNG y WebP."
+    },
+    "step2": {
+      "title": "Paso 2: Elija el factor de ampliación",
+      "content": "Elija el factor de aumento que desee: mejore la resolución de su imagen hasta 10 veces con la tecnología de Súper Resolución."
+    },
+    "step3": {
+      "title": "Paso 3: Procese la imagen",
+      "content": "Haga clic en 'Ampliar imagen' para comenzar el proceso de mejora de la imagen con IA."
+    },
+    "step4": {
+      "title": "Paso 4: Descargue los resultados",
+      "content": "¡Descargue su foto mejorada con calidad y resolución mejoradas!"
+    }
+  },
+  "examples": {
+    "title": "Ejemplos de ampliación de imágenes con IA",
+    "description": "Vea resultados reales de mejora de imágenes con IA generados por usuarios de KomikoAI",
+    "inputAlt1": "Ejemplo de imagen de entrada",
+    "inputCaption1": "Ejemplo de imagen de entrada 1",
+    "outputAlt1": "Ejemplo de imagen ampliada",
+    "outputCaption1": "Salida de imagen ampliada 4x 1",
+    "inputAlt2": "Ejemplo de imagen de entrada",
+    "inputCaption2": "Ejemplo de imagen de entrada 2",
+    "outputAlt2": "Ejemplo de imagen ampliada",
+    "outputCaption2": "Salida de imagen ampliada 4x 2",
+    "inputAlt3": "Ejemplo de imagen de entrada",
+    "inputCaption3": "Ejemplo de imagen de entrada 3",
+    "outputAlt3": "Ejemplo de imagen ampliada",
+    "outputCaption3": "Salida de imagen ampliada 4x 3"
+  },
+  "whyChoose": {
+    "title": "¿Por qué elegir nuestro amplificador de imágenes con IA?",
+    "description": "El amplificador de imágenes con IA de KomikoAI transforma sus fotos de baja resolución en impresionantes imágenes de alta calidad, perfectas para uso personal y profesional."
+  },
+  "features": {
+    "feature1": {
+      "title": "Mejora de fotos con IA avanzada",
+      "content": "Nuestra tecnología de mejora de la calidad de imagen ofrece resultados excepcionales al analizar y mejorar de forma inteligente cada detalle de sus fotos e imágenes de anime."
+    },
+    "feature2": {
+      "title": "Ampliación de anime profesional",
+      "content": "Perfecto para crear fondos de pantalla de anime de alta calidad y ampliar personajes de anime, conservando el estilo artístico y los detalles."
+    },
+    "feature3": {
+      "title": "Mejora de manga",
+      "content": "Mejore los paneles de manga y cómics con nuestra tecnología de reparación de imágenes con IA profesional, manteniendo líneas nítidas y texto claro."
+    },
+    "feature4": {
+      "title": "Escalado de resolución excepcional",
+      "content": "Convierta imágenes de baja resolución en fotos nítidas con nuestro amplificador de imágenes con IA, que admite ampliaciones de hasta 10x."
+    },
+    "feature5": {
+      "title": "Reducción de ruido inteligente",
+      "content": "Nuestra tecnología de reparación de imágenes con IA elimina automáticamente el ruido y los artefactos, a la vez que conserva los detalles importantes."
+    },
+    "feature6": {
+      "title": "Ampliación de imágenes 4K",
+      "content": "Amplíe las imágenes a calidad 4K con nuestro avanzado algoritmo de superresolución para obtener resultados de nivel profesional."
+    }
+  },
+  "guide": {
+    "title": "Guía completa de ampliación de imágenes con IA",
+    "description": "Aprenda todo sobre cómo mejorar la calidad de la imagen con el amplificador de imágenes de KomikoAI AI. Obtenga respuestas de expertos sobre nuestra tecnología de mejora de imágenes basada en el aprendizaje automático y cómo puede transformar sus fotos."
+  },
+  "faq": {
+    "question1": "¿Qué es el amplificador de imágenes con IA de KomikoAI?",
+    "answer1": "El amplificador de imágenes con IA de KomikoAI es una herramienta de mejora de imágenes de vanguardia que utiliza tecnología de IA avanzada para aumentar la resolución y la calidad de la imagen. Nuestro potenciador de fotos con IA convierte automáticamente imágenes de baja calidad en fotos nítidas de alta resolución, al tiempo que conserva los detalles naturales y la fidelidad visual. Es particularmente eficaz para ampliar imágenes de anime, paneles de manga y obras de arte digitales.",
+    "question2": "¿Cómo funciona la mejora de imágenes con IA?",
+    "answer2": "Nuestro amplificador de imágenes con IA utiliza modelos de aprendizaje automático avanzados entrenados con millones de imágenes de alta calidad, incluido contenido de anime y manga. La IA analiza cada píxel para mejorar la calidad de la imagen, aumentar la resolución y mejorar la claridad general. Esta tecnología de superresolución ofrece resultados superiores en comparación con los métodos de ampliación tradicionales.",
+    "question3": "¿Cuáles son los beneficios de la ampliación de imágenes con IA?",
+    "answer3": {
+      "point1": "Convierte fotos de baja resolución en imágenes 4K nítidas",
+      "point2": "Mejora la calidad de la imagen manteniendo los detalles naturales",
+      "point3": "Elimina el ruido de la imagen y los artefactos de compresión",
+      "point4": "Amplía imágenes hasta 10 veces su tamaño original utilizando la IA",
+      "point5": "Perfecto para ampliar fondos de pantalla de anime y paneles de manga"
+    },
+    "question4": "¿Qué formatos de imagen son compatibles?",
+    "answer4": "Nuestro amplificador de imágenes con IA funciona con imágenes JPG, PNG y WebP. Puede utilizar nuestra tecnología de mejora de la calidad de imagen para mejorar fotos a cualquier tamaño manteniendo la calidad.",
+    "question5": "¿Es gratuito el amplificador de imágenes con IA?",
+    "answer5": "Comience a mejorar sus imágenes de forma gratuita con los zaps (créditos) gratuitos de KomikoAI. Para las necesidades profesionales de mejora de la calidad de la imagen, nuestros planes de pago ofrecen zaps adicionales y acceso a salidas de mayor resolución.",
+    "question6": "¿Qué factor de ampliación debo elegir?",
+    "answer6": "Elija 2x para una buena mejora de la calidad, 4x para una calidad superior o un factor más alto para obtener la máxima resolución. Nuestra tecnología de reparación de imágenes con IA garantiza resultados óptimos a cualquier escala.",
+    "question7": "¿Qué tan bien funciona para ampliar contenido de anime y manga?",
+    "answer7": "Nuestro amplificador de imágenes con IA está especialmente optimizado para la ampliación de imágenes de anime y la mejora de manga. Ya sea que desee ampliar personajes de anime, crear fondos de pantalla de anime de alta resolución o mejorar paneles de manga, nuestra tecnología conserva el estilo artístico único al tiempo que mejora la calidad.",
+    "question8": "¿Puedo usarlo para fotos y contenido de anime/manga?",
+    "answer8": "¡Sí! Nuestro potenciador de fotos con IA es lo suficientemente potente como para manejar fotos reales y contenido ilustrado. Es igualmente eficaz para ampliar fotos, imágenes de anime, paneles de manga y obras de arte digitales, manteniendo las características únicas de cada medio.",
+    "question9": "¿Qué diferencia a KomikoAI AI de otros amplificadores?",
+    "answer9": "KomikoAI AI combina tecnología de superresolución de vanguardia con un entrenamiento especializado en contenido fotográfico e ilustrado. Esto lo hace particularmente eficaz para ampliar imágenes de anime y cómics, al tiempo que ofrece resultados excepcionales para fotos normales.",
+    "question10": "¿Cómo obtengo los mejores resultados al ampliar imágenes de manga o anime?",
+    "answer10": "Para obtener los mejores resultados al procesar contenido de manga o anime con nuestra herramienta de ampliación de imágenes, recomendamos comenzar con una imagen fuente limpia y utilizar un factor de ampliación de 2x o 4x para una óptima conservación de los detalles. Nuestra tecnología de reparación de imágenes con IA es particularmente eficaz para mantener la nitidez de las líneas y la precisión del color en el contenido ilustrado."
+  },
+  "deleteModal": {
+    "title": "Confirmación de eliminación",
+    "message": "¿Está seguro de que desea eliminar esta imagen? Esta acción no se puede deshacer.",
+    "cancel": "Cancelar",
+    "delete": "Eliminar"
+  },
+  "toasts": {
+    "deleteSuccess": "Eliminación exitosa",
+    "deleteFailed": "Eliminación fallida",
+    "downloadFailed": "Descarga fallida",
+    "upscaleSuccess": "Imagen ampliada con éxito",
+    "upscaleFailed": "Error al ampliar la imagen",
+    "noZaps": "Por favor, compre más zaps",
+    "mediaReceived": "Medios recibidos exitosamente",
+    "purchaseMoreZaps": "Zaps insuficientes, por favor compra más",
+    "imageTooLarge": "¡Vaya! La resolución de la imagen es demasiado alta para que la IA la procese. Por favor, intenta subir una imagen más pequeña."
+  },
+  "upscaleImage": "Ampliar imagen"
+}

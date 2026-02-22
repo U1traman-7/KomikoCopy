@@ -1,0 +1,22 @@
+{
+  "title": "Search",
+  "placeholder": "Search works, characters, users...",
+  "input_placeholder": "Search",
+  "history": "Search History",
+  "clear": "Clear",
+  "tags": "Tags",
+  "no_results": "No results",
+  "see_all": "See All",
+  "followers": "followers",
+  "follow": "Follow",
+  "following": "Following",
+  "filter": {
+    "all": "All",
+    "users": "Users",
+    "characters": "Characters",
+    "templates": "Templates",
+    "tags": "Tags",
+    "posts": "Posts"
+  }
+}
+

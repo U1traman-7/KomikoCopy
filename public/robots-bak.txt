@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Canonical domain
+Host: https://komiko.app
+
+Sitemap: https://komiko.app/api/sitemap.xml
+Sitemap: https://komiko.app/api/sitemap-addon.xml

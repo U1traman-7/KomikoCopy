@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Pixverse Image to Video - KomikoAI",
+      "description": "Pixverse Image to Videoで、一枚の画像を映画のような動画に変換。AI搭載のモーション、カメラワーク、リップシンク、シーンアニメーションで、アニメ、コミック、マンガ、イラストを生き生きと表現します。",
+      "fullDescription": "Pixverse Image to Videoは、AIを活用した画像から動画への変換ジェネレーターです。静止画像を、ダイナミックで映画のようなアニメーションに変換します。アートワーク、コミック、マンガ、アニメのフレーム、ポートレート、製品ショットなどに、モーション、カメラパン、3D視差、リップシンク、VFXなどを加えることができます。TikTok、YouTube Shorts、Instagram Reels、予告編、ストーリーボード、コンテンツマーケティングなど、画像を動画に変換したいクリエイターに最適です。",
+      "keywords": "Pixverse Image to Video, AI画像から動画生成, 画像から動画ジェネレーター, 写真アニメーション, 画像アニメーション, AI動画ジェネレーター, イメージアニメーション, 静止画から動画へ, 写真に動きを追加, アニメアニメーション, コミックアニメーション, マンガアニメーション, 3D視差, カメラモーション, リップシンクAI, 画像から動画, 写真を動画に, AIモーション, 動画エフェクト"
+    },
+    "hero": {
+      "title": "Pixverse Image to Video",
+      "description": "AIモーション、カメラワーク、リップシンクを活用し、あらゆる画像を瞬時に映画のような動画にアニメーション化。アニメ、コミック、マンガ、イラストに最適です。"
+    },
+    "whatIs": {
+      "title": "Pixverse Image to Videoとは",
+      "description": "Pixverse Image to Videoは、AIを活用した画像から動画への変換ツールです。単一のフレームから、モーションを予測し、要素をアニメーション化し、カメラワークをシミュレートすることで、ダイナミックな動画を生成します。静的なビジュアルを、生き生きとした動き、奥行き、表情、エフェクトで強化し、アートワーク、キャラクターポートレート、パネルなどを魅力的な短尺動画に変換するのに最適です。"
+    },
+    "examples": {
+      "title": "Image to Videoの例",
+      "description": "一枚の画像が、奥行き、動き、映画のようなカメラワークを備えたダイナミックな映像へとどのように変化するかをご覧ください。予告編、リール、ストーリーシーンなどに最適です。"
+    },
+    "howToUse": {
+      "title": "Pixverse Image to Videoの使い方",
+      "steps": [
+        {
+          "title": "画像をアップロード",
+          "content": "アニメーションを開始するには、高品質の画像（アートワーク、アニメのフレーム、コミックのコマ、マンガのページ、写真など）をアップロードしてください。"
+        },
+        {
+          "title": "モーションプロンプトを入力",
+          "content": "モーションと雰囲気を記述します。カメラパン、視差、髪や布の動き、目の瞬き、リップシンク、照明、VFXなど、詳細な指示を入力してください。"
+        },
+        {
+          "title": "動画を生成",
+          "content": "「生成」をクリックすると、モーション、奥行き、映画のような動きを備えた、AI搭載の動画が画像から作成されます。"
+        },
+        {
+          "title": "ダウンロードと共有",
+          "content": "TikTok、Reels、Shortsなど、様々なプラットフォームやプロジェクト用に動画をエクスポートします。プラットフォーム間で即座に共有したり、編集や予告編に使用することも可能です。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pixverse Image to Videoを利用するメリット",
+      "description": "AIモーション、カメラワーク、表現力豊かなアニメーションを活用して、一枚の画像から思わず見入ってしまうような動画を生成します。手動でのキーフレーム設定は不要です。",
+      "features": [
+        {
+          "title": "一枚の画像からAIモーション",
+          "content": "繊細な顔のアニメーションから、ダイナミックな環境の動きまで、滑らかでリアルな動きを生成します。",
+          "icon": "🎞️"
+        },
+        {
+          "title": "映画のようなカメラワーク",
+          "content": "パン、ズーム、視差を追加して3Dをシミュレートし、平面的なアートを没入感のある映像へと変換します。",
+          "icon": "🎥"
+        },
+        {
+          "title": "アニメとコミックに対応",
+          "content": "アニメの静止画、コミックのコマ、マンガのアートワークを、予告編、イントロ、ループシーンなどにアニメーションとして活用できます。",
+          "icon": "📚"
+        },
+        {
+          "title": "クリエイターフレンドリーなワークフロー",
+          "content": "アニメーションの専門知識は不要です。モーションをプロンプトで指示するだけで、数秒でエクスポート可能な動画を入手できます。",
+          "icon": "⚡"
+        },
+        {
+          "title": "高品質なアウトプット",
+          "content": "ソーシャルメディア、プレビュー、クライアントワークなど、様々な用途に適した、鮮明で安定した動画を生成します。",
+          "icon": "✨"
+        },
+        {
+          "title": "短尺動画に最適",
+          "content": "TikTok、YouTube Shorts、Reels向けに最適化されており、アニメーション動画によるリーチ拡大に貢献します。",
+          "icon": "📱"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pixverse Image to Video エキスパートガイド",
+      "description": "AIモーションと映画のような奥行きを活用して、画像を動画にアニメーション化するために必要な情報がすべて揃っています。",
+      "q1": "Pixverse Image to Videoとは何ですか？",
+      "a1": "Pixverse Image to Videoは、AI画像から動画への変換ジェネレーターです。一枚の画像をモーション、奥行き、カメラワークでアニメーション化し、映画のような映像を生成します。",
+      "q2": "Pixverse Image to Videoはどのように機能しますか？",
+      "a2": "システムは画像を分析し、自然なモーションを予測し、奥行きのためにレイヤーを分離し、カメラワーク、リップシンク（可能な場合）、VFXなどを適用してフレームをレンダリングし、スムーズな動画を作成します。",
+      "q3": "どのようなコンテンツが最適ですか？",
+      "a3": "明確なエッジを持つ被写体（キャラクターのポートレート、アニメのフレーム、コミック/マンガのコマ、製品写真、様式化されたイラストなど）は、最も安定したアニメーションを生成します。",
+      "q4": "リップシンクや顔のアニメーションを追加できますか？",
+      "a4": "はい、リップシンク、目の瞬き、頭の向き、表情の変化に関するプロンプトを追加することで、キャラクターに生命を吹き込むことができます。",
+      "q5": "どのような形式がサポートされていますか？",
+      "a5": "一般的な入力形式であるJPGやPNGをサポートしており、出力はMP4としてダウンロードできるため、容易に投稿や編集が可能です。",
+      "q6": "アニメーションのスキルは必要ですか？",
+      "a6": "いいえ、画像をアップロードし、モーションを記述して生成するだけです。AIが補間、カメラシミュレーション、タイミングなどを自動的に処理します。",
+      "q7": "よりスムーズな結果を得るにはどうすればよいですか？",
+      "a7": "高解像度の画像を使用し、大量のテキストや複雑な要素を避け、被写体を中央に配置し、タイミングとカメラの方向を具体的に指示するなど、的確なモーションプロンプトを作成してください。",
+      "q8": "生成された動画を商用利用できますか？",
+      "a8": "生成された動画は、プラットフォームの利用規約に従い、個人および商用プロジェクトにご利用いただけます。"
+    }
+  },
+  "originalKeyword": "Pixverse Image to Video",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Veo 3",
+      "description": "Prompt: A delicate feather rests on a fence post. A gust of wind lifts it, sending it dancing over rooftops. It floats and spins, finally caught in a spiderweb on a high balcony.",
+      "videoUrl": "/images/pages/veo3/example6.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: Anime-style battle scene. A young warrior with a glowing sword clashes with a giant, demonic monster with glowing eyes and sharp teeth. Fast-paced swordfight, sparks fly, intense close-ups. Ends with the hero slaying the monster in a dramatic final strike. Dark background, cinematic lighting, glowing particles.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/monster.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output4.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Veo 3",
+      "description": "Prompt: A woman, classical violinist with intense focus plays a complex, rapid passage from a Vivaldi concerto in an ornate, sunlit baroque hall during a rehearsal. Their bow dances across the strings with virtuosic speed and precision. Audio: Bright, virtuosic violin playing, resonant acoustics of the hall, distant footsteps of crew, conductor's occasional soft count-in (muffled), rustling sheet music.",
+      "videoUrl": "/images/pages/veo3/example4.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said “cute” using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    },
+    {
+      "id": 6,
+      "title": "Model: AniSora",
+      "description": "Prompt: The figures in the picture are sitting in a forward moving car waving to the rear, their hair swaying from side to side in the wind",
+      "videoUrl": "/images/pages/anisora/example1.webm"
+    }
+  ]
+}

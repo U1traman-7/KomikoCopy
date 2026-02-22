@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AIバッジジェネレーター",
+      "description": "AI技術を活用し、画像から手軽に魅力的なバッジを作成。これまでにない創造性を体験いただけます。今すぐ生成を開始しましょう。",
+      "keywords": "AIバッジジェネレーター, AIフォトバッジ, カスタムバッジデザイン, AIバッジクリエイター, ユニークバッジジェネレーター, アーティスティックフォトバッジ"
+    },
+    "hero": {
+      "title": "AIバッジジェネレーター"
+    },
+    "whatIs": {
+      "title": "AIバッジジェネレーターとは",
+      "description": "AIバッジジェネレーターは、画像を特徴的なバッジスタイルへと容易に変換する、ユーザーフレンドリーなツールです。高度なAIアルゴリズムを利用し、写真の要素を再解釈して、アーティスティックなバッジ表現を生成します。ビジュアルプロジェクトを手軽に、かつ迅速に向上させたいクリエイターに最適です。"
+    },
+    "examples": {
+      "title": "AIバッジジェネレーターの作例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "AIバッジジェネレーターの使い方",
+      "steps": [
+        {
+          "title": "ステップ1：写真のアップロード",
+          "content": "お好みの写真（JPG、PNG、WEBP）を選択し、こちらにアップロードしてください。高解像度の画像ほど、より良い結果が得られます。"
+        },
+        {
+          "title": "ステップ2：バッジテンプレートの選択",
+          "content": "バッジテンプレートを選択し、写真にバッジスタイルを適用します。"
+        },
+        {
+          "title": "ステップ3：バッジへの変換",
+          "content": "「バッジに変換」をクリックして、選択したスタイルを適用します。AIが画像を処理し、視覚的に魅力的なバッジを作成します。"
+        },
+        {
+          "title": "ステップ4：ダウンロードと共有",
+          "content": "作成されたバッジをプレビューしてください。気に入ったらダウンロードし、ソーシャルメディアで共有したり、プロジェクトに組み込んだりできます。"
+        }
+      ],
+      "subtitle": "簡単なステップで、素晴らしいバッジを作成しましょう。"
+    },
+    "benefits": {
+      "title": "AIバッジジェネレーターを選ぶ理由",
+      "description": "創造的な表現をさらに高める機能をご紹介します。",
+      "features": [
+        {
+          "title": "🎨 ユニークなアーティスティックスタイル",
+          "content": "様々なテーマや雰囲気に合わせた豊富なバッジスタイルをお楽しみください。オンライン・オフラインを問わず、あらゆるプロジェクトに最適です。"
+        },
+        {
+          "title": "⚡ 迅速な処理時間",
+          "content": "高速な画像処理により、創造性を途切れさせることなく、スムーズに作業を進められます。"
+        },
+        {
+          "title": "🖼️ 高解像度ダウンロード",
+          "content": "品質を損なうことなく、高解像度のバッジスタイル画像を入手できます。あらゆる用途に最適です。"
+        },
+        {
+          "title": "💫 直感的なUI/UX",
+          "content": "初心者から経験豊富なデザイナーまで、誰もが使いやすいように設計されたプラットフォームを快適にご利用いただけます。"
+        },
+        {
+          "title": "🎯 カスタマイズ可能なデザイン",
+          "content": "あらゆるイベント、ブランディング、または個人的な用途に合わせ、個性を反映したユニークなバッジデザインを作成できます。"
+        },
+        {
+          "title": "🚀 定期的な機能強化",
+          "content": "新しいスタイルや機能で常に最新の状態に保ち、創造的な探求を刺激し続けます。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AIバッジジェネレーター FAQ",
+      "description": "",
+      "q1": "AIバッジジェネレーターでは何ができますか？",
+      "a1": "AIバッジジェネレーターは、機械学習を用いて写真をユニークなバッジスタイルに変換します。画像を解析し、高度なアルゴリズムに基づいてアーティスティックなデザインを生成します。",
+      "q2": "AIバッジジェネレーターの効果を最大限に引き出すには？",
+      "a2": "鮮明で高解像度の写真を使用し、画像を引き立てるスタイルを選択し、様々な変換を試して最適な結果を見つけてください。",
+      "q3": "AIバッジジェネレーターは無料で利用できますか？",
+      "a3": "はい、AIバッジジェネレーターは無料でお使いいただけます。より高度なスタイルをご利用いただけるプレミアムオプションもご用意しております。",
+      "q4": "AIバッジジェネレーターと他のツールとの違いは？",
+      "a4": "当社のAIバッジジェネレーターは、ユニークなバッジアートを作成するために特別に設計された、高度な機械学習モデルを採用しています。これにより、高品質な変換を実現しています。",
+      "q5": "AIバッジジェネレーターで作成したアートワークを商用利用できますか？",
+      "a5": "はい、当社の利用規約を遵守していただければ、商品など、バッジスタイルの作品を商用利用することが可能です。"
+    },
+    "cta": {
+      "title": "今すぐAIバッジジェネレーターで作成を始めましょう",
+      "description": "創造性を解き放ち、写真から素晴らしいバッジアートワークを手軽に作成しましょう。AIでビジュアルを再構築するクリエイターのコミュニティにご参加ください。",
+      "buttonText": "AIバッジアートを無料で作成"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique badge style",
+  "originalKeyword": "AI Badge Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-badge-generator/tanjiro-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/tanjiro-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/demon-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/demon-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/naruto-output.webp",
+      "input": "/images/examples/playground/ai-cosplay-generator/naruto-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/dn-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/dn-input.webp",
+      "prompt": "Style: Badge"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "seo": {
+    "meta": {
+      "title": "影片風格轉換",
+      "description": "使用我們最先進的 AI 影片風格轉換技術，為您的影片進行風格轉換。將普通影片轉換為動畫、卡通、漫畫及韓漫風格，同時保留原始的動作與時間軸。",
+      "fullDescription": "探索 AI 影片風格轉換，這是一個最先進的工具，可將普通影片轉換為生動的動畫、卡通、漫畫和韓漫影片。我們先進的影片風格轉換過程可維持動作的一致性，讓您能從超過 20 種藝術風格中進行選擇，包含吉卜力工作室和韓漫風格。非常適合內容創作者、數位藝術家，以及任何渴望以獨特藝術風格賦予影片新生命的使用者。",
+      "keywords": "影片風格轉換, 最佳影片轉影片 AI, 影片風格轉換工具, 動畫影片風格轉換, 動畫影片產生器, 卡通影片風格轉換, 漫畫影片風格轉換, 韓漫影片風格轉換, 影片轉換工具, 漫畫影片產生器, 動畫增強器, 影片風格轉換器, 創意影片解決方案"
+    },
+    "hero": {
+      "title": "影片風格轉換"
+    },
+    "whatIs": {
+      "title": "什麼是影片風格轉換？",
+      "description": "AI 影片風格轉換採用先進的影片風格轉換技術，將您的影片轉換為令人驚豔的動畫、卡通、漫畫和韓漫影片。這項創新工具使用兩步驟流程，首先將您選擇的風格應用於參考影格，然後轉換整個影片，同時完美地保留原始動作與時間軸。透過我們的影片風格轉換解決方案，探索超過 20 種藝術選項，例如吉卜力工作室和流行的卡通風格。"
+    },
+    "examples": {
+      "title": "影片風格轉換範例",
+      "description": "了解 AI 影片風格轉換如何將普通影片轉換為令人嘆為觀止的動畫、卡通、漫畫和韓漫風格，同時透過我們先進的影片風格轉換，始終如一地維持動作與表情。",
+      "style": "套用風格"
+    },
+    "howToUse": {
+      "title": "如何使用影片風格轉換",
+      "steps": [
+        {
+          "title": "上傳您的影片",
+          "content": "首先上傳您的影片檔案（MP4、MOV、AVI），以進行 AI 影片風格轉換處理。我們的工具支援長達 15 秒及 50MB 的影片，並將自動修剪任何長度過長的影片，以確保最佳效果。"
+        },
+        {
+          "title": "選擇您的藝術風格",
+          "content": "在「風格選擇」區塊中，從超過 20 種預設風格中進行選擇，包含動畫、卡通、漫畫、韓漫，或使用文字提示 (prompt) 和參考圖片建立自訂風格，以打造您專屬的影片風格轉換體驗。"
+        },
+        {
+          "title": "風格預覽與參考",
+          "content": "我們會提取第一幀，並套用您選擇的風格來建立風格化的參考影格。此預覽會顯示您選擇的風格將如何應用於整個影片。"
+        },
+        {
+          "title": "產生您轉換後的影片",
+          "content": "AI 影片風格轉換會使用風格化的參考影格來處理您的整個影片，確保在整個轉換過程中，精確地保留所有原始動作、表情和時間軸。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為何要使用影片風格轉換",
+      "description": "AI 影片風格轉換是首屈一指的工具，提供先進的影片風格轉換，可專業地保留動作，並提供多樣化的藝術選項，且價格透明。",
+      "features": [
+        {
+          "title": "無與倫比的動作保留",
+          "content": "透過 AI 影片風格轉換，在應用藝術風格轉換時，將保留原始動作、面部表情和時間軸的每個細節，確保完美的影片風格轉換體驗。",
+          "icon": "🎬"
+        },
+        {
+          "title": "多樣化的藝術風格",
+          "content": "探索各種風格，包含吉卜力工作室、韓漫、日本漫畫、迪士尼等。 使用文字提示 (prompt) 或參考圖片，方便地建立自訂風格轉換。",
+          "icon": "🎨"
+        },
+        {
+          "title": "專業品質的輸出",
+          "content": "使用我們可靠的影片風格轉換工具，製作具有無縫過渡和一致風格應用程式的高畫質風格轉換影片，消除閃爍或瑕疵。",
+          "icon": "✨"
+        },
+        {
+          "title": "透明的成本結構",
+          "content": "AI 影片風格轉換以清晰的定價運作，針對每個影片風格轉換過程單獨收費，讓您可以試驗各種風格，而不會產生額外費用。",
+          "icon": "⚡"
+        },
+        {
+          "title": "使用者友善的兩步驟流程",
+          "content": "享受簡化的工作流程：上傳您的影片，將所需的風格應用於參考影格，然後產生最終轉換的影片 - 無需任何技術技能！",
+          "icon": "👌"
+        },
+        {
+          "title": "自動優化",
+          "content": "體驗具有智慧優化功能的智慧處理，支援 MP4、MOV 和 AVI 格式，並具有自動修剪和基於持續時間的定價，從而提高您的影片風格轉換效率。",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "影片風格轉換 常見問題",
+      "description": "查找有關我們的 AI 影片風格轉換工具、其流程、成本和最佳實務的常見問題解答。",
+      "q1": "AI 影片風格轉換 的運作方式為何？",
+      "a1": "AI 影片風格轉換 採用兩步驟的影片風格轉換流程：首先，我們提取參考影格，並應用您選擇的藝術風格；其次，我們會根據此風格化的影格來轉換整個影片，同時保留原始動作和時間軸，以確保一致性。",
+      "q2": "AI 影片風格轉換 中對影片格式有哪些要求？",
+      "a2": "我們的工具支援 MP4、MOV 和 AVI 格式，最大檔案大小為 50MB 以供處理。影片必須限制在 15 秒內，長度過長的影片將自動修剪，以獲得最佳效果。",
+      "q3": "風格轉換過程需要多長時間？",
+      "a3": "整個 AI 影片風格轉換 處理通常需要 5-10 分鐘，包含 1-3 分鐘的影片風格轉換，以及 3-7 分鐘的影片產生。您可以即時追蹤進度。",
+      "q4": "使用 AI 影片風格轉換 的費用是多少？",
+      "a4": "使用 AI 影片風格轉換 的費用根據持續時間分別應用於風格轉換和影片產生。定價會在處理前即時顯示，且僅在成功完成轉換後才會扣除點數。",
+      "q5": "我可以為風格轉換建立自訂風格嗎？",
+      "a5": "當然！您可以從超過 20 種預設風格中進行選擇，或使用文字提示 (prompt) 或參考圖片製作自訂轉換，以獲得獨特的影片風格轉換結果。",
+      "q6": "哪些類型的影片最適合 AI 影片風格轉換？",
+      "a6": "為了獲得最佳效果，請選擇具有清晰主體、足夠照明、穩定動作和明確特徵的影片。最佳實務包括使用 5 秒以下的影片，其中包含人物或不同的物件，因為這些會產生最佳的風格轉換效果。"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-dj.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "卡通",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/korean-manhwa-girl.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "韓漫",
+      "description": "Style Transfer | Transfer original video to Korean manhwa style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/miku-man.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "角色扮演",
+      "description": "Cosplay | Transform original video character into Miku cosplay"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/skeleton-skiing.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "骷髏",
+      "description": "Change Material | Transform original video character into skeleton"
+    }
+  ],
+  "originalKeyword": "Modify Video | Best Video to Video AI",
+  "pageStructure": [
+    "如何使用",
+    "範例",
+    "優點",
+    "更多 AI 工具",
+    "什麼是",
+    "常見問題",
+    "行動呼籲"
+  ]
+}

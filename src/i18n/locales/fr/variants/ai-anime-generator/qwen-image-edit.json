@@ -1,0 +1,157 @@
+{
+  "seo": {
+    "title": "Qwen Image Edit",
+    "description": "Édition d'image Qwen en ligne et gratuite — Modifications visuelles et textuelles précises grâce à l'IA",
+    "keywords": "Qwen Image Edit, édition d'image IA, édition de texte multilingue, modification d'image, édition de photo en ligne, outil d'édition visuelle, éditeur d'image basé sur l'IA, IA d'édition de texte, amélioration d'image, transformation d'image"
+  },
+  "content": {
+    "header": {
+      "title": "Qwen Image Edit",
+      "subtitle": "Édition d'image Qwen en ligne et gratuite — Modifications visuelles et textuelles précises grâce à l'IA"
+    },
+    "sections": {
+      "whatIs": {
+        "title": "Qu'est-ce que Qwen Image Edit ?",
+        "description": "Qwen Image Edit est un modèle transformateur de diffusion multimodale avancé, doté de 20 milliards de paramètres, conçu pour l'édition d'images de haute précision et le rendu de texte. Il prend en charge l'édition de texte bilingue, permettant l'ajout, la suppression et la modification de texte tout en préservant les polices, les tailles et les styles d'origine. Il est idéal pour les professionnels et les créatifs à la recherche d'une intégration transparente de modifications complexes et de mises en page de texte élaborées."
+      },
+      "howToUse": {
+        "title": "Comment utiliser Qwen Image Edit",
+        "subtitle": "Générez et gérez facilement vos images avec Qwen Image Edit.",
+        "steps": [
+          {
+            "title": "Étape 1 : Choisissez un modèle d'image IA",
+            "content": "Sélectionnez un modèle de génération d'image parmi ceux disponibles afin de définir le style et le type de votre résultat."
+          },
+          {
+            "title": "Étape 2 : Définissez les proportions et la quantité",
+            "content": "Choisissez les proportions souhaitées pour vos images ainsi que le nombre d'images que vous souhaitez générer."
+          },
+          {
+            "title": "Étape 3 : Générer des images",
+            "content": "Cliquez sur « Générer » pour laisser l'IA créer vos images en fonction de vos sélections."
+          },
+          {
+            "title": "Étape 4 : Post-traiter les images",
+            "content": "Une fois la génération terminée, cliquez sur une image pour supprimer son arrière-plan, l'agrandir ou créer une vidéo à partir de celle-ci."
+          }
+        ]
+      },
+      "whyUse": {
+        "title": "Pourquoi utiliser Qwen Image Edit",
+        "subtitle": "Découvrez les avantages de l'édition d'image basée sur l'IA grâce à l'accès gratuit et illimité de Qwen Image Edit.",
+        "features": [
+          {
+            "title": "Utilisation illimitée gratuite",
+            "content": "Profitez de fonctionnalités complètes pour l'édition avancée d'images et de textes sans frais, sans qu'aucun abonnement ne soit requis."
+          },
+          {
+            "title": "Édition de texte multilingue précise",
+            "content": "Gérez les mises en page de texte complexes de manière impeccable, en prenant en charge l'anglais, le chinois, le japonais, et bien d'autres langues, pour les affiches, les infographies et les supports visuels de marque."
+          },
+          {
+            "title": "Édition instantanée rapide",
+            "content": "Effectuez des modifications rapides et obtenez des résultats en quelques secondes, éliminant ainsi les temps d'attente et les retouches manuelles."
+          },
+          {
+            "title": "Compatibilité de style variée",
+            "content": "Passez facilement de l'anime à l'illustration, et à d'autres styles, afin de correspondre à votre vision créative."
+          },
+          {
+            "title": "Suite d'édition intégrée",
+            "content": "Modifiez les objets, les arrière-plans et le texte dans une interface unifiée basée sur l'IA, rationalisant ainsi votre flux de travail."
+          },
+          {
+            "title": "Licence commerciale",
+            "content": "Toutes les créations sont autorisées pour des projets personnels ou commerciaux, ce qui est idéal pour le marketing, la conception de produits et l'image de marque."
+          }
+        ]
+      },
+      "examples": {
+        "title": "Exemples d'utilisation de Qwen Image Edit",
+        "description": "Explorez un large éventail de modifications d'images améliorées par l'IA grâce à Qwen Image Edit. De la transformation d'objets aux ajustements de style, en passant par les modifications de texte bilingues et l'amélioration des détails complexes."
+      },
+      "applications": {
+        "title": "Applications de Qwen Image Edit",
+        "items": [
+          {
+            "title": "Affiches de films et supports visuels de divertissement",
+            "content": "Développez des affiches et des supports visuels de divertissement convaincants grâce à une intégration de texte complexe et à des effets cinématographiques."
+          },
+          {
+            "title": "Présentations d'entreprise et contenu de marque",
+            "content": "Créez des diapositives, des infographies et du matériel de présentation soignés comportant des logos d'entreprise et du contenu multilingue."
+          },
+          {
+            "title": "Supports visuels de vente au détail et de vitrine",
+            "content": "Générez des présentations de vente au détail réalistes et des images axées sur les produits pour le commerce électronique et le marketing en magasin."
+          },
+          {
+            "title": "Œuvres d'art culturelles et traditionnelles",
+            "content": "Créez des œuvres d'art culturellement significatives avec de la calligraphie, des distiques et des éléments patrimoniaux."
+          },
+          {
+            "title": "Affiches éducatives et infographies",
+            "content": "Concevez des supports visuels éducatifs détaillés et des infographies avec des explications textuelles et des diagrammes superposés."
+          },
+          {
+            "title": "Créations multilingues et interculturelles",
+            "content": "Mélangez harmonieusement le chinois, l'anglais et d'autres langues dans des œuvres d'art pour une communication mondiale."
+          }
+        ]
+      },
+      "tips": {
+        "title": "Conseils de pro pour Qwen Image Edit",
+        "items": [
+          "Fournissez des descriptions détaillées de la scène et du texte, y compris les styles de police et le libellé exact, pour obtenir de meilleurs résultats.",
+          "Utilisez des références de style et des palettes de couleurs claires pour guider l'orientation créative de l'IA.",
+          "Expérimentez avec des prompts bilingues pour tirer parti des capacités d'édition de texte multilingue."
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Qu'est-ce que Qwen Image Edit ?",
+        "answer": "Qwen Image Edit est un outil d'IA qui vous permet de créer et de modifier des images sans effort. Il vous permet de choisir parmi différents modèles d'IA, de définir des proportions et de générer plusieurs variations d'images. Vous pouvez également améliorer vos créations avec des outils tels que la suppression de l'arrière-plan, l'agrandissement et la conversion d'image en vidéo."
+      },
+      {
+        "question": "Comment utiliser Qwen Image Edit ?",
+        "answer": "L'utilisation de Qwen Image Edit est simple ! Tout d'abord, sélectionnez un modèle de génération d'IA, puis choisissez les proportions et le nombre d'images que vous souhaitez créer. Une fois la génération terminée, vous pouvez affiner davantage vos images en supprimant l'arrière-plan, en les agrandissant ou même en les convertissant en vidéos."
+      },
+      {
+        "question": "Comment fonctionne Qwen Image Edit ?",
+        "answer": "Qwen Image Edit utilise une technologie de génération d'IA avancée pour créer des images à partir de vos entrées. Son fonctionnement repose sur la combinaison de différents modèles d'IA et de méthodes de rendu, ce qui vous permet d'obtenir des résultats de haute qualité en quelques clics."
+      },
+      {
+        "question": "Quel est le meilleur outil d'édition d'image ?",
+        "answer": "KomikoAI fournit le meilleur outil d'édition d'image IA. Notre objectif est d'être la principale plateforme de création d'IA en offrant des résultats de qualité professionnelle, une personnalisation puissante et amusante, ainsi qu'un flux de travail intuitif, le tout étant entièrement gratuit à l'essai. Grâce à Qwen Image Edit de KomikoAI, vous pouvez générer, affiner et améliorer les supports visuels, ce qui le rend parfait pour les créateurs, les concepteurs et les spécialistes du marketing."
+      },
+      {
+        "question": "Qwen Image Edit de KomikoAI est-il gratuit en ligne ?",
+        "answer": "Oui, vous pouvez tester Qwen Image Edit sur KomikoAI gratuitement, sans avoir à vous inscrire à un abonnement. Essayez-le dès aujourd'hui et découvrez la créativité basée sur l'IA !"
+      },
+      {
+        "question": "Que puis-je faire avec Qwen Image Edit ?",
+        "answer": "Vous pouvez utiliser Qwen Image Edit sur KomikoAI pour générer de nouvelles images, ajuster les proportions, créer plusieurs variations, supprimer les arrière-plans, améliorer la qualité de l'image et même transformer des images en courtes vidéos."
+      },
+      {
+        "question": "Puis-je utiliser Qwen Image Edit sur mon téléphone ?",
+        "answer": "Oui, vous pouvez utiliser Qwen Image Edit comme application web sur différents appareils, y compris les smartphones et les ordinateurs, ce qui la rend accessible à tous."
+      },
+      {
+        "question": "Puis-je télécharger ma génération à partir de Qwen Image Edit ?",
+        "answer": "Oui, Qwen Image Edit de KomikoAI vous permet d'exporter vos images générées dans des formats courants tels que JPG et PNG, ce qui facilite l'enregistrement et le partage de vos créations."
+      },
+      {
+        "question": "Pourquoi devrais-je utiliser Qwen Image Edit ?",
+        "answer": "L'utilisation de Qwen Image Edit peut vous faire gagner du temps et de l'énergie dans la création de supports visuels de haute qualité. Notre outil d'IA vous permet de générer des résultats professionnels, de personnaliser les rendus et d'améliorer vos images grâce à des fonctionnalités supplémentaires, le tout dans un flux de travail facile à utiliser."
+      }
+    ],
+    "cta": {
+      "title": "Commencez à utiliser Qwen Image Edit gratuitement dès maintenant",
+      "description": "Découvrez l'édition d'image de niveau supérieur grâce à la précision et à la créativité basées sur l'IA. Générez votre première image modifiée en quelques secondes, sans inscription requise !",
+      "buttonText": "Créer avec Qwen Image Edit"
+    }
+  },
+  "originalKeyword": "Qwen Image Edit",
+  "placeholderText": "Upload your image as reference and describe edits to transform visuals with AI-powered precision."
+}

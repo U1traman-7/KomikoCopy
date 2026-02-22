@@ -1,0 +1,59 @@
+{
+  "ui": {
+    "styleModes": {
+      "templates": "Template",
+      "prompt": "Prompt",
+      "expression": "Ekspresi"
+    },
+    "prompt": {
+      "placeholder": "Jelaskan transformasi gaya yang Anda inginkan...",
+      "example": "Contoh: \"Gantikan pria itu dengan Naruto\", \"Ubah ini menjadi gaya anime klasik tahun 90-an\", \"Kenakan gaun bunga pada gadis itu\""
+    },
+    "characterInfo": "Informasi Karakter",
+    "selectCharacter": "Pilih Karakter",
+    "selectCharacterPlaceholder": "Pilih dari karakter Anda...",
+    "characterName": "Nama Karakter",
+    "characterNamePlaceholder": "Masukkan nama karakter...",
+    "occupation": "Pekerjaan",
+    "occupationPlaceholder": "contohnya, Sopir Uber, Pelajar, Detektif...",
+    "language": "Bahasa",
+    "characterInfoPlaceholder": "Masukkan latar belakang, cerita, atau deskripsi karakter...",
+    "input": {
+      "image": {
+        "title": "Gambar"
+      }
+    },
+    "customInput": {
+      "hogwartsSorting": {
+        "q1": "OC Anda menemukan sebuah pintu misterius di hutan gelap. Apa yang akan mereka lakukan?",
+        "a1_1": "Tendang pintunya. Apapun yang ada di dalam harus siap.",
+        "a1_2": "Periksa kuncinya dulu. Selalu ada cara masuk tanpa menggunakan kekerasan.",
+        "a1_3": "Pelajari simbol-simbol di pintu. Jawabannya ada di simbol-simbol tersebut.",
+        "a1_4": "Ketuk dengan sopan. Anda tidak pernah tahu siapa yang mungkin membutuhkan pertolongan di dalam.",
+        "q2": "Musuh yang kuat muncul! Bagaimana karakter Anda bertarung?",
+        "a2_1": "Serangan langsung. Keberanian memenangkan pertempuran.",
+        "a2_2": "Serang kelemahan mereka. Kemenangan memerlukan strategi.",
+        "a2_3": "Analisis pola mereka dulu. Pengetahuan adalah senjata terbaik.",
+        "a2_4": "Lindungi sekutu terlebih dahulu. Tidak ada yang berperang sendirian.",
+        "q3": "OC Anda memasuki ruangan dengan empat benda ajaib. Mana yang memanggil mereka?",
+        "a3_1": "Pedang menyala yang bersinar lebih terang saat menghadapi ketakutan.",
+        "a3_2": "Mahkota kuno yang mengungkapkan niat sebenarnya orang lain.",
+        "a3_3": "Buku yang berisi semua rahasia dunia yang terlupakan.",
+        "a3_4": "Benih yang dapat tumbuh menjadi apapun yang benar-benar dibutuhkan hati.",
+        "q4": "Karakter Anda mendengar sebuah rahasia berbahaya. Apa yang mereka lakukan?",
+        "a4_1": "Ungkapkan segera. Kebenaran harus diketahui.",
+        "a4_2": "Simpan. Informasi adalah kekuatan di saat yang tepat.",
+        "a4_3": "Selidiki lebih lanjut. Satu bagian bukanlah keseluruhan teka-teki.",
+        "a4_4": "Beritahu hanya mereka yang perlu dilindungi darinya.",
+        "q5": "Sebuah makhluk ajaib memberikan satu permintaan kepada OC Anda. Apa yang mereka pilih?",
+        "a5_1": "Kekuatan untuk melindungi semua yang saya cintai.",
+        "a5_2": "Kekuatan untuk mencapai ambisi terbesar saya.",
+        "a5_3": "Kebijaksanaan untuk memahami semua misteri.",
+        "a5_4": "Kemampuan untuk membawa kebahagiaan bagi orang lain."
+      }
+    }
+  },
+  "button": {
+    "convert": "Konversi"
+  }
+}

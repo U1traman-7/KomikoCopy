@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "KI-Comic-Generator - KomikoAI",
+    "description": "Der KI-Comic-Generator, mit dem du aus einer einfachen Story-Idee Comics erstellen kannst. Nutze den KI-Comic-Generator von KomikoAI, um Comics, Mangas und Manhwas mithilfe von KI zu generieren."
+  },
+  "form": {
+    "title": "KI-Comic-Generator",
+    "subtitle": "Verwandle deine Ideen mit KI in fesselnde Comics, Mangas oder Manhwas. Gib einfach eine Story-Idee ein, wähle einen Stil und überlass dem KI-Comic-Generator den Rest.",
+    "idea_label": "Deine Comic-Idee",
+    "idea_placeholder": "Gib hier deine Comic-Idee ein...",
+    "style_label": "Comic-Stil",
+    "style_placeholder": "Comic-Stil auswählen",
+    "styles": {
+      "anime": "Anime",
+      "manga": "Manga",
+      "manhwa": "Manhwa",
+      "american": "Amerikanisch",
+      "cartoon": "Cartoon",
+      "realistic": "Realistisch"
+    },
+    "type_label": "Comic-Typ",
+    "type_placeholder": "Comic-Typ auswählen",
+    "types": {
+      "normal": "Normal",
+      "funny": "Lustig",
+      "meme": "Meme"
+    },
+    "layout_label": "Comic-Layout",
+    "mode_label": "Generierungsmodus",
+    "modes": {
+      "gemini": "Gemini",
+      "gemini_cost": "{{cost}} Zaps pro Panel",
+      "flux": "Flux",
+      "flux_cost": "{{cost}} Zaps pro Panel"
+    },
+    "narration_checkbox": "Erzählung hinzufügen",
+    "generate_button": "Comic generieren"
+  },
+  "buttons": {
+    "edit": "Bearbeiten",
+    "download": "Herunterladen",
+    "share": "Teilen"
+  },
+  "preview_alt": "Comic-Vorschau",
+  "preview_text": "Gib deine Comic-Idee ein und klicke auf „Generieren“, um deinen Comic zu erstellen.",
+  "narration": "Erzählung",
+  "idea_input": {
+    "label": "Was ist deine Story-Idee?",
+    "custom_placeholder": "Gib deine Story-Idee ein und nenne einen passenden Kunststil"
+  },
+  "login_to_generate": "Generieren",
+  "edit_button": "Bearbeiten",
+  "comics_generated": "{{count}} von KomikoAI-Nutzern erstellte Comics",
+  "comic_type": {
+    "normal": {
+      "label": "🙂 Normal",
+      "text": "Normal"
+    },
+    "meme": {
+      "label": "🤣 Meme",
+      "text": "Meme"
+    }
+  },
+  "comic_style": {
+    "anime": "Anime",
+    "american": "Amerikanisch",
+    "manga": "Manga",
+    "manhwa": "Manhwa",
+    "custom": "Benutzerdefiniert"
+  },
+  "seo": {
+    "main_heading": "Was ist ein KI-Comic-Generator?",
+    "main_description": "Der KI-Comic-Generator ist ein KI-gestütztes Tool, mit dem Kreative ihre Ideen mit minimalem Aufwand in fesselnde Comics, Mangas und Memes verwandeln können. Egal, ob du Künstler oder ein begeisterter Geschichtenerzähler bist, erwecke deine Fantasie mit KI-generierten Bildern und Erzählungen zum Leben. Gib einfach eine Story-Idee ein, wähle deinen Stil und überlass den Rest dem KI-Comic-Generator von KomikoAI. Profitiere von einer besseren KI-Comic-Generierung als bei der AI Comic Factory auf Hugging Face."
+  },
+  "how_to_use": {
+    "heading": "So verwendest du den KI-Comic-Generator",
+    "step1": {
+      "title": "Schritt 1: Gib deine Idee ein",
+      "content": "Gib ein Konzept, eine Story-Idee oder eine Meme-Inspiration ein. Schreibe einen kurzen Satz oder beschreibe deine Story im Detail."
+    },
+    "step2": {
+      "title": "Schritt 2: Passe deinen Stil an",
+      "content": "Wähle einen Stil wie Manga, Anime, Amerikanisch oder passe deinen eigenen Kunststil an."
+    },
+    "step3": {
+      "title": "Schritt 3: KI-Generierung",
+      "content": "Klicke auf die Schaltfläche „Comic generieren“. Warte, bis der KI-Comic-Generator von KomikoAI Panels, Zeichnungen, Sprechblasen und Erzählungen basierend auf deinen Eingaben erstellt hat. Dein Comic wird in wenigen Sekunden generiert."
+    },
+    "step4": {
+      "title": "Schritt 4: Exportieren und teilen",
+      "content": "Lade hochwertige Comic-Dateien herunter, um sie in sozialen Medien zu teilen oder für private Projekte zu verwenden."
+    }
+  },
+  "why_use": {
+    "heading": "Warum du Comics mit dem KI-Comic-Generator erstellen solltest",
+    "description": "Der KI-Comic-Generator von KomikoAI vereinfacht die Comic-Erstellung für jeden, vom Anfänger bis zum Profi, und bietet unübertroffene Anpassungsmöglichkeiten und Zugänglichkeit.",
+    "features": {
+      "beginner_friendly": {
+        "title": "Anfängerfreundlich",
+        "content": "Keine Zeichenkenntnisse? Kein Problem! Gib einfach deine Idee ein und der KI-Comic-Generator zeichnet deinen Comic mit einem Klick."
+      },
+      "custom_art": {
+        "title": "Benutzerdefinierte Kunststile",
+        "content": "Wähle aus Kunststilen wie Amerikanisch, Manga, Manhwa oder Anime oder passe deinen eigenen Kunststil an, indem du ihn in den Prompts angibst."
+      },
+      "amazing_layouts": {
+        "title": "Fantastische Layouts",
+        "content": "Wähle aus unseren gut gestalteten Comic-Layouts, um deinem Comic einen fantastischen Look zu verleihen. Dein Comic wird so generiert, wie du ihn dir vorstellst."
+      },
+      "tell_story": {
+        "title": "Erzähl deine Geschichte",
+        "content": "Der KI-Comic-Maker von KomikoAI fügt deinen Comics automatisch Sprechblasen, Dialoge und Erzählungen hinzu. Lass deine Charaktere sprechen und aufregende Geschichten erzählen!"
+      },
+      "ai_efficiency": {
+        "title": "KI-gestützte Effizienz",
+        "content": "Spare Stunden manueller Arbeit, indem du die KI die Visuals, Erzählungen und das Layout übernehmen lässt."
+      },
+      "high_quality": {
+        "title": "Hochwertige Ausgaben",
+        "content": "Lade Comics in professioneller Qualität herunter, die sich perfekt zum Teilen oder Ausdrucken eignen."
+      },
+      "creative_freedom": {
+        "title": "Kreative Freiheit",
+        "content": "Experimentiere mit Ideen, passe Details an und verfeinere deine Comics, um deine Geschichte zu erzählen. Nicht zufrieden mit deinem Comic? Versuche es einfach noch einmal mit dem KI-Comic-Generator."
+      },
+      "accessible": {
+        "title": "Jederzeit zugänglich",
+        "content": "Der KI-Comic-Generator ist cloudbasiert, sodass du Comics von überall und auf jedem Gerät erstellen kannst."
+      },
+      "share_comics": {
+        "title": "Teile deine Comics",
+        "content": "Teile deine Comics auf Social-Media-Plattformen wie Instagram, Twitter und Facebook. Der KI-Comic-Generator von KomikoAI macht es auch einfach, Memes zu erstellen, die auf das Teilen zugeschnitten sind."
+      }
+    }
+  },
+  "faq": {
+    "heading": "FAQs zum KI-Comic-Generator",
+    "description": "Erfahre mehr darüber, wie der KI-Comic-Generator von KomikoAI funktioniert und welche Vorteile er bietet.",
+    "edit_after_creation": {
+      "question": "Kann ich meinen Comic bearbeiten, nachdem der KI-Comic-Generator ihn erstellt hat?",
+      "answer": "Ja! Wenn du das Bild ändern, die Sprechblasen bearbeiten oder das Comic-Layout anpassen möchtest, klicke oben rechts im Comic auf die Schaltfläche „Bearbeiten“. Du wirst dann zur KI-Canvas-Seite weitergeleitet, wo du den Comic bearbeiten kannst."
+    },
+    "what_is_comic_generator": {
+      "question": "Was ist der KI-Comic-Generator?",
+      "answer": "Der KI-Comic-Generator ist ein innovatives Tool, das KI verwendet, um automatisch Comics zu erstellen. Gib deine Idee ein, wähle einen Comic-Stil und lass die KI in Sekundenschnelle einen Comic erstellen! Er vereinfacht den kreativen Prozess, indem er automatisch Bilder und Dialoge basierend auf deinen Eingaben generiert. Du kannst alle Arten von Comic-Geschichten erstellen, z. B. lustige Geschichten, Abenteuer oder coole Superheldengeschichten, ohne zeichnen zu müssen!"
+    },
+    "what_is_manga_generator": {
+      "question": "Was ist der KI-Manga-Generator?",
+      "answer": "Der KI-Manga-Generator ist ein innovatives Tool, das KI verwendet, um automatisch Mangas zu erstellen. Gib deine Idee ein, wähle den Manga-Stil und lass die KI in Sekundenschnelle einen Manga erstellen! Er vereinfacht den kreativen Prozess, indem er automatisch Bilder und Dialoge basierend auf deinen Eingaben generiert. Du kannst alle Arten von Mangas erstellen, z. B. Shounen, Shoujo, Seinen, Isekai usw."
+    },
+    "what_is_manhwa_generator": {
+      "question": "Was ist der KI-Manhwa-Generator?",
+      "answer": "Der KI-Manhwa-Generator ist ein innovatives Tool, das KI verwendet, um automatisch Manhwas zu erstellen. Gib deine Idee ein, wähle einen Manhwa-Stil und lass die KI in Sekundenschnelle eine Manhwa erstellen! Er vereinfacht den kreativen Prozess, indem er automatisch Bilder und Dialoge basierend auf deinen Eingaben generiert. Du kannst alle Arten von Manhwas erstellen, z. B. Action, Romance, Comedy, Horror, Isekai usw."
+    },
+    "how_to_make_comics": {
+      "question": "Wie erstelle ich Comics mit dem KI-Comic-Generator?",
+      "answer": "Einen Comic mit dem KI-Comic-Generator zu erstellen ist super einfach! Gib einfach eine Story-Idee für deinen Comic ein und der KI-Comic-Generator verwandelt deine Idee in einen fantastischen Comic. Er fügt auch automatisch Sprechblasen hinzu und ordnet deine Comic-Panels an."
+    },
+    "how_it_works": {
+      "question": "Wie funktioniert der KI-Comic-Generator?",
+      "answer": "Gib einfach deine Idee oder dein Konzept ein, wähle einen Kunststil (Anime, Manga oder benutzerdefinierter Stil) und lass die KI von KomikoAI einen vollständig gestalteten Comic-Strip erstellen. Die KI analysiert deine Eingabe, um detaillierte Bilder und überzeugende Dialoge für jedes Panel zu generieren."
+    },
+    "art_styles": {
+      "question": "Welche Kunststile werden unterstützt?",
+      "answer": "KomikoAI unterstützt eine Reihe von Stilen, darunter Anime, Manga, amerikanische Comics und benutzerdefinierte Kunststile basierend auf deinen Prompts."
+    },
+    "what_comics_can_i_generate": {
+      "question": "Welche Arten von Comics kann ich mit dem KI-Comic-Generator generieren?",
+      "answer": "Du kannst jede Art von Comic, Manga, Manhwa generieren: Superhelden-Geschichten, japanische Anime, Isekai, Regression, Shounen, Shoujo, Seinen, jede Art von Geschichte, die du dir vorstellen kannst. Der KI-Comic-Generator hilft dir, deine Ideen zum Leben zu erwecken!"
+    },
+    "commercial_use": {
+      "question": "Kann ich die generierten Comics kommerziell nutzen?",
+      "answer": "Ja! Mit KomikoAI erstellte Comics können für persönliche oder kommerzielle Zwecke verwendet werden, vorbehaltlich unserer Nutzungsbedingungen."
+    },
+    "need_drawing_skills": {
+      "question": "Muss ich zeichnen können, um den KI-Comic-Generator zu verwenden?",
+      "answer": "Überhaupt nicht! Der KI-Comic-Generator von KomikoAI ist für jeden gedacht, von professionellen Künstlern bis hin zu kompletten Anfängern. Bring einfach deine Ideen mit und der KI-Comic-Generator erledigt den Rest."
+    },
+    "for_memes": {
+      "question": "Kann ich den KI-Comic-Generator für Memes verwenden?",
+      "answer": "Absolut! Der KI-Comic-Generator von KomikoAI ist perfekt für die Erstellung von urkomischen und viralen Memes. Wähle einfach den Modus „Meme“ und lass die KI die Arbeit erledigen."
+    },
+    "is_free": {
+      "question": "Ist der KI-Comic-Generator kostenlos?",
+      "answer": "KomikoAI bietet einen kostenlosen Plan mit einer begrenzten Anzahl an Zaps (Credits) an. Weitere Funktionen und höhere Nutzungslimits findest du in unseren Preisplänen."
+    },
+    "share_online": {
+      "question": "Kann ich meine Comics online teilen?",
+      "answer": "Ja, du kannst deine Comics herunterladen und sie auf Social-Media-Plattformen wie Instagram, Twitter und Facebook teilen. KomikoAI macht es auch einfach, Memes zu erstellen, die für das Teilen optimiert sind."
+    },
+    "custom_art_styles": {
+      "question": "Kann ich mit dem KI-Comic-Generator benutzerdefinierte Kunststile erstellen?",
+      "answer": "Ja, mit dem benutzerdefinierten Modus von KomikoAI kannst du deinen eigenen Kunststil, Farbschemata und visuelle Details festlegen, um einzigartige Comics zu erstellen, die auf deine Vision zugeschnitten sind."
+    },
+    "title": "Häufig gestellte Fragen"
+  },
+  "examples": {
+    "title": "Beispiel-Comics"
+  },
+  "auto_post": "Automatischer Beitrag",
+  "date": {
+    "today": "Heute",
+    "yesterday": "Gestern"
+  }
+}

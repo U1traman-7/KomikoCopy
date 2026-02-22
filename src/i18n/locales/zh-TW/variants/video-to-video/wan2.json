@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan Video2Video",
+      "description": "運用 Wan 2.1 模型驅動的 Wan Video2Video，轉換您的影片。此先進的影片風格轉換技術，適用於動畫、卡通、漫畫及韓漫風格，並能完美保留動作。",
+      "fullDescription": "體驗基於開源 Wan 2.1 Diffusion Transformer 模型的 Wan Video2Video 革命性技術。將您的普通影片轉化為動畫傑作、卡通動畫、漫畫風格視覺效果及韓漫美學，同時維持動作的一致性。支援雙語文字生成、電影級品質輸出，並可在具備 8GB 以上 VRAM 的消費級 GPU 上高效運行。",
+      "keywords": "Wan Video2Video, 影片轉影片 AI, 影片風格轉換, 動畫影片生成器, 卡通影片濾鏡, 漫畫風格轉換, 韓漫動畫, 影片轉動畫轉換器, 動畫工具, 卡通影片製作器, 動畫風格影片, 漫畫影片創建器, 影片風格化, 動畫影片生成器, 漫畫影片濾鏡, 動畫轉換, 卡通風格轉換, Wan 2.1"
+    },
+    "hero": {
+      "title": "Wan Video2Video"
+    },
+    "whatIs": {
+      "title": "什麼是 Wan Video2Video？",
+      "description": "Wan Video2Video 是一項先進的影片轉換技術，由開源 Wan 2.1 模型驅動，採用 Diffusion Transformer 架構與創新的 Wan-VAE。 Wan Video2Video 擅長將普通影片轉換為動畫、卡通、漫畫及韓漫風格的動畫，同時保持完美的動作一致性與時間掌握。憑藉業界領先的效能 (VBench 分數 84.7% 以上)，Wan Video2Video 支援各種工作流程，包括參考影片生成、標準影片到影片編輯及遮罩影片編輯。此技術還具有獨特的雙語文字生成功能，並可在 8GB VRAM 起始的消費級 GPU 上高效運行。"
+    },
+    "examples": {
+      "title": "影片轉影片範例",
+      "description": "了解我們的影片轉影片功能如何將影片轉換為令人驚豔的動畫、卡通、漫畫及韓漫風格，同時保持完美的動作一致性，採用先進的風格轉換技術，例如 Wan Video2Video，並具有增強的功能。"
+    },
+    "howToUse": {
+      "title": "如何使用 Wan Video2Video",
+      "steps": [
+        {
+          "title": "上傳您的影片",
+          "content": "上傳任何影片檔案（MP4、MOV、AVI），最大 15 秒及 50MB，以進行 Wan Video2Video 處理。長度超過 15 秒的影片將會自動修剪，以達到最佳效能。"
+        },
+        {
+          "title": "選擇工作流程類型",
+          "content": "在參考影片生成、標準影片到影片編輯或遮罩影片到影片編輯之間進行選擇，以利用 Wan Video2Video 轉換進行精確的控制。"
+        },
+        {
+          "title": "選擇藝術風格",
+          "content": "從動畫、漫畫、卡通及韓漫預設中進行選擇，或使用文字 prompt 及參考圖像創建自定義風格，以實現個人化的 Wan Video2Video 轉換。"
+        },
+        {
+          "title": "使用 Wan Video2Video 生成",
+          "content": "我們的 Wan Video2Video 技術會轉換您的完整影片，同時透過先進的 Diffusion Transformer 處理，保留所有原始動作、表情及時間掌握。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為何使用 Wan Video2Video",
+      "description": "Wan Video2Video 提供業界領先的影片風格轉換，具有動作保留、電影級品質輸出，以及在消費級硬體上的高效處理。",
+      "features": [
+        {
+          "title": "完美動作保留",
+          "content": "Wan Video2Video 保持原始動作、面部表情及時間掌握的每個細節，同時使用 Diffusion Transformer 技術，以完美的幀一致性應用動畫、卡通或漫畫風格。",
+          "icon": "🎬"
+        },
+        {
+          "title": "電影級品質輸出",
+          "content": "生成具有豐富紋理、逼真光照及流暢過渡的高畫質影片。 Wan Video2Video 提供電影品質的成果，沒有閃爍或失真。",
+          "icon": "✨"
+        },
+        {
+          "title": "多樣的風格選項",
+          "content": "從動畫、漫畫、卡通及韓漫風格中進行選擇，或使用 Wan Video2Video 靈活的工作流程系統，透過文字 prompt 及參考圖像創建自定義轉換。",
+          "icon": "🎨"
+        },
+        {
+          "title": "高效處理",
+          "content": "由創新的 Wan-VAE 架構提供支援，Wan Video2Video 可在具備 8GB 以上 VRAM 的消費級 GPU 上高效運行，使每個人都能使用先進的影片生成技術。",
+          "icon": "⚡"
+        },
+        {
+          "title": "進階編輯工作流程",
+          "content": "參考影片、影片到影片及遮罩影片編輯選項讓您可以精確控制轉換，並使用 Wan Video2Video 技術替換特定物件。",
+          "icon": "✂️"
+        },
+        {
+          "title": "雙語文字生成",
+          "content": "獨特的功能可在影片幀內生成清晰、動態的雙語（中文/英文）文字，支援各種字體與效果，並透過 Wan Video2Video 處理。",
+          "icon": "📝"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Wan Video2Video 常見問題",
+      "description": "有關 Wan Video2Video 技術、處理能力、硬體需求及工作流程的常見問題。",
+      "q1": "什麼是 Wan Video2Video？",
+      "a1": "Wan Video2Video 是一項影片轉換技術，由開源 Wan 2.1 模型驅動，採用 Diffusion Transformer 架構與 Wan-VAE，可實現高效的影片風格轉換，並完美保留動作。",
+      "q2": "Wan Video2Video 支援哪些影片格式？",
+      "a2": "Wan Video2Video 接受 MP4、MOV 及 AVI 格式，最大檔案大小為 50MB。影片限制為 15 秒，如果長度超過，則會自動修剪，以達到最佳處理效率。",
+      "q3": "Wan Video2Video 處理需要多長時間？",
+      "a3": "Wan Video2Video 處理通常需要 5-10 分鐘，具體取決於影片長度及所選的工作流程。Diffusion Transformer 架構可確保高效生成，同時保持品質。",
+      "q4": "Wan Video2Video 需要哪些硬體？",
+      "a4": "Wan Video2Video 在具備 8GB 以上 VRAM 最低要求的消費級 GPU 上運行。輕量級 1.3B 模型針對主流硬體進行了優化，而 14B 模型則需要專業 GPU 才能獲得最佳效能。",
+      "q5": "我可以自定義 Wan Video2Video 風格嗎？",
+      "a5": "當然可以！Wan Video2Video 支援透過文字 prompt、參考圖像及各種預設選項（包括動畫、漫畫、卡通及韓漫美學）創建自定義風格。",
+      "q6": "是什麼讓 Wan Video2Video 如此獨特？",
+      "a6": "Wan Video2Video 具有獨特的雙語文字生成、完美動作保留、電影級品質輸出，以及在消費級硬體上的高效處理 - 全部由開源 Wan 2.1 模型提供支援。"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-girl.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "黏土動畫風格",
+      "description": "變更材質 | 將原始影片轉換為黏土風格"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "漫畫風格",
+      "description": "風格轉換 | 將原始影片轉換為漫畫風格"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-skiing2.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "卡通風格",
+      "description": "風格轉換 | 將原始影片轉換為卡通風格"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/anime-man.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "動畫風格",
+      "description": "風格轉換 | 將原始影片轉換為動畫風格"
+    }
+  ],
+  "originalKeyword": "Wan Video2Video Alternative"
+}

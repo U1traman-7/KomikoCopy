@@ -1,0 +1,176 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan Animate",
+      "description": "Anime personagens e substitua pessoas em vídeos com Wan Animate. Transfira movimentos de personagens de forma avançada, integre-os ao ambiente e crie animações de personagens perfeitas em segundos.",
+      "keywords": "Wan Animate, animação de personagens com IA, substituição de personagens, transferência de movimento, animador de personagens, personagem de vídeo com IA, gerador de personagens animados, captura de movimento de personagens, troca de personagens em vídeo, criador de personagens com IA, síntese de vídeo de personagens, replicação de movimento, ferramenta de animação de personagens, substituição de personagens com IA"
+    },
+    "hero": {
+      "title": "Wan Animate"
+    },
+    "whatIs": {
+      "title": "O que é Wan Animate?",
+      "description": "Wan Animate é uma ferramenta avançada de animação e substituição de personagens que transforma imagens estáticas de personagens em animações de vídeo dinâmicas. Usando sinais de esqueleto alinhados espacialmente e características faciais implícitas, Wan Animate replica com precisão expressões e movimentos de vídeos de referência para gerar animações de personagens de alta fidelidade. Este poderoso animador de personagens pode animar personagens de forma independente ou substituir perfeitamente personagens existentes em vídeos, mantendo a iluminação do ambiente e a integração do tom de cor. Construído sobre tecnologia de transferência de movimento de ponta, Wan Animate permite a captura de movimento de personagens sem esforço e a síntese de animação de personagens realista com resultados de nível profissional.",
+      "media": [
+        {
+          "caption": "Wan-Animate pode animar qualquer personagem com base no vídeo de um ator, replicando com precisão as expressões faciais e os movimentos do ator para gerar vídeos de personagens altamente realistas.",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/%E8%A7%92%E8%89%B2%E5%90%88%E9%9B%86_%E5%B8%A6%E5%8E%9F%E5%9E%8B.mp4",
+          "type": "video"
+        },
+        {
+          "caption": "Wan-Animate pode substituir personagens em um vídeo por personagens animados, preservando suas expressões e movimentos, ao mesmo tempo que replica a iluminação e o tom de cor originais para uma integração ambiental perfeita.",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/rep_shots.mp4",
+          "type": "video"
+        },
+        {
+          "title": "Método",
+          "caption": "Visão geral do Wan-Animate, que é construído sobre Wan-I2V. Modificamos sua formulação de entrada para unificar a entrada de imagem de referência, orientação de quadro temporal e informações ambientais (para compatibilidade de modo duplo) sob uma representação simbólica comum. Para controle de movimento corporal, usamos sinais de esqueleto que são mesclados por meio do alinhamento espacial. Para controle de expressão facial, aproveitamos os recursos implícitos extraídos de imagens faciais como o sinal de condução. Além disso, para substituição de personagens, treinamos um Relighting LoRA auxiliar para melhorar a integração do personagem com o novo ambiente.",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/arch.png",
+          "type": "image"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Exemplos de Wan Animate",
+      "description": "Descubra como Wan Animate revoluciona a animação de personagens com tecnologia de transferência de movimento, criando substituições de personagens perfeitas e animações dinâmicas a partir de imagens estáticas."
+    },
+    "howToUse": {
+      "title": "Como Usar Wan Animate",
+      "steps": [
+        {
+          "title": "Carregar Imagem do Personagem e Vídeo de Referência",
+          "content": "Carregue a imagem do seu personagem e o vídeo de referência (MP4, MOV, AVI) de até 15 segundos e 50 MB para o processamento do Wan Animate. Vídeos com mais de 15 segundos serão automaticamente cortados para uma geração ideal de animação de personagens."
+        },
+        {
+          "title": "Quadro de Referência para Animação do Personagem",
+          "content": "Wan Animate extrai o primeiro quadro do seu vídeo e aplica a substituição do personagem para criar um guia de referência para uma transferência consistente da animação do personagem em toda a sua sequência de vídeo."
+        },
+        {
+          "title": "Selecionar Modo de Animação do Personagem",
+          "content": "Escolha entre modelos de animação de personagens, prompts de animação personalizados ou carregue imagens de personagens de referência. Selecione entre animação de personagem autônoma ou modos de substituição de personagem para o processamento do Wan Animate."
+        },
+        {
+          "title": "Gerar Vídeo de Animação do Personagem",
+          "content": "Wan Animate transforma seu vídeo completo usando o quadro de referência do personagem, preservando o movimento, as expressões e o tempo originais por meio de tecnologia avançada de animação de personagens."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Por que Usar Wan Animate",
+      "description": "Wan Animate oferece animação e substituição de personagens de última geração com preservação de movimento, integração ambiental e síntese de personagens de nível profissional.",
+      "features": [
+        {
+          "title": "Tecnologia Avançada de Transferência de Movimento",
+          "content": "Wan Animate utiliza sinais de esqueleto alinhados espacialmente e características faciais implícitas para obter uma replicação precisa do movimento do personagem, garantindo movimento natural e transferência de expressão.",
+          "icon": "🎭"
+        },
+        {
+          "title": "Modos de Animação Dupla",
+          "content": "O modo de animação de personagem cria personagens animados independentes, enquanto o modo de substituição integra perfeitamente os personagens em vídeos existentes usando a adaptação ambiental do Wan Animate.",
+          "icon": "🔄"
+        },
+        {
+          "title": "Integração Ambiental",
+          "content": "Wan Animate apresenta tecnologia avançada Relighting LoRA que preserva a aparência do personagem enquanto se adapta à iluminação da cena e ao tom de cor para uma integração de vídeo perfeita.",
+          "icon": "💡"
+        },
+        {
+          "title": "Síntese de Personagem de Alta Fidelidade",
+          "content": "Gere animações de personagens de qualidade profissional com captura de movimento precisa, transições suaves e iluminação ambiental consistente usando os algoritmos avançados do Wan Animate.",
+          "icon": "✨"
+        },
+        {
+          "title": "Fluxo de Trabalho de Animação de Personagens Intuitivo",
+          "content": "Processo simples de duas entradas: carregue a imagem do personagem e o vídeo de referência. Wan Animate lida com análise de movimento complexa, mapeamento de esqueleto e síntese de personagem automaticamente.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Animação de Personagem Controlável",
+          "content": "Controle total sobre as expressões e movimentos do personagem com o sistema avançado de transferência de movimento do Wan Animate, permitindo personalização e refinamento precisos da animação do personagem.",
+          "icon": "🎮"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Perguntas comuns sobre os recursos, processos e práticas recomendadas de animação e substituição de personagens do Wan Animate.",
+      "q1": "O que é Wan Animate?",
+      "a1": "Wan Animate é uma ferramenta avançada de animação e substituição de personagens que transforma imagens estáticas de personagens em animações de vídeo dinâmicas usando tecnologia de transferência de movimento. Ele replica com precisão expressões e movimentos de vídeos de referência, mantendo a integração da iluminação ambiental.",
+      "q2": "Como usar Wan Animate?",
+      "a2": "Usar Wan Animate é simples! Primeiro, carregue a imagem do seu personagem e o vídeo de referência, selecione o modo de animação ou substituição e gere sua animação de personagem. A ferramenta lida automaticamente com análise de movimento, mapeamento de esqueleto e síntese de personagem para resultados profissionais.",
+      "q3": "Como funciona Wan Animate?",
+      "a3": "Wan Animate usa sinais de esqueleto alinhados espacialmente e características faciais implícitas para analisar vídeos de referência. Ele extrai padrões de movimento e os aplica às imagens dos personagens por meio de tecnologia avançada de transferência de movimento, criando animações de personagens perfeitas com integração ambiental.",
+      "q4": "Qual é a melhor ferramenta de animação de personagens com IA?",
+      "a4": "KomikoAI fornece a melhor ferramenta de animação de personagens. Nosso objetivo é ser a plataforma de criação de IA líder, fornecendo resultados de qualidade profissional, personalização poderosa e divertida e um fluxo de trabalho intuitivo - totalmente gratuito para experimentar. Com o Wan Animate da KomikoAI, você pode criar animações e substituições de personagens impressionantes, tornando-o perfeito para criadores de conteúdo, cineastas e artistas digitais.",
+      "q5": "O KomikoAI Wan Animate é gratuito online?",
+      "a5": "Sim, você pode testar o Wan Animate no KomikoAI gratuitamente, sem ter que se inscrever em nenhuma assinatura. Experimente nossa ferramenta de animação de personagens hoje!",
+      "q6": "O que posso fazer com Wan Animate?",
+      "a6": "Você pode usar Wan Animate no KomikoAI para criar animações de personagens para mídia social, substituir personagens em vídeos, animar imagens de personagens estáticas, gerar efeitos de transferência de movimento e produzir conteúdo de personagens profissional para marketing, entretenimento e projetos criativos.",
+      "q7": "Posso usar Wan Animate no meu telefone?",
+      "a7": "Sim, você pode usar Wan Animate como um aplicativo da web em diferentes dispositivos, incluindo smartphones e computadores, tornando-o conveniente para todos.",
+      "q8": "Posso baixar minha geração do Wan Animate?",
+      "a8": "Sim, o Wan Animate da KomikoAI permite que você exporte sua geração em vários formatos, como MP4, MOV e AVI, para fácil compartilhamento e distribuição.",
+      "q9": "Por que devo usar Wan Animate?",
+      "a9": "Usar Wan Animate pode transformar seu fluxo de trabalho de animação de personagens com tecnologia avançada de transferência de movimento. Nossa ferramenta permite que você crie animações de personagens profissionais, substituições de personagens perfeitas e efeitos dinâmicos de captura de movimento com integração ambiental e preservação consistente da iluminação."
+    },
+    "cta": {
+      "title": "Crie Animações de Personagens GRATUITAMENTE com Wan Animate Hoje!",
+      "description": "Transforme personagens estáticos em animações dinâmicas e substitua pessoas em vídeos sem esforço com tecnologia avançada de transferência de movimento.",
+      "buttonText": "Experimente Wan Animate Grátis"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/res921.mp4",
+      "description": "Animação Humana Expressiva"
+    },
+    {
+      "id": 2,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/res2.mp4",
+      "description": "Animação de Personagem Arbitrária Generalizável"
+    },
+    {
+      "id": 3,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/resfull1.mp4",
+      "description": "Movimento Dinâmico e Câmera"
+    },
+    {
+      "id": 4,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/rep/rep2.mp4",
+      "description": "Replicação Consistente de Iluminação e Tom de Cor"
+    },
+    {
+      "id": 5,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/rep/rep6.mp4",
+      "description": "Substituição de Personagem com Integração Ambiental Perfeita"
+    },
+    {
+      "id": 6,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/com/comp1.mp4",
+      "description": "Comparações Qualitativas"
+    }
+  ],
+  "originalKeyword": "Wan Animate",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

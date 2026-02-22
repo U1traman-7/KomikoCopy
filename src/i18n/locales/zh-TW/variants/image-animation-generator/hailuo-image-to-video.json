@@ -1,0 +1,135 @@
+{
+  "seo": {
+    "meta": {
+      "title": "海螺圖像轉影片 – KomikoAI",
+      "description": "使用海螺圖像轉影片將任何靜態圖像轉換為動態影片。我們由 AI 驅動的圖像動畫工具能讓照片、插圖和藝術作品栩栩如生。",
+      "fullDescription": "海螺圖像轉影片運用先進的 AI 動畫演算法，將您的靜態圖像（藝術作品、照片、草圖）轉換為引人入勝的影片。 這款圖像轉影片 AI 工具非常適合創作者、行銷人員和故事敘述者，讓製作電影般的動態效果變得輕鬆又快速。",
+      "keywords": "海螺圖像轉影片, AI 圖像轉影片, 圖像動畫 AI, 照片動畫工具, 圖像轉影片轉換器, 動畫圖像轉影片, 從圖像生成 AI 影片"
+    },
+    "hero": {
+      "title": "海螺圖像轉影片",
+      "description": "透過海螺的 AI 圖像動畫，將您的圖像轉換為引人入勝的影片。 立即讓藝術作品、照片和插圖栩栩如生。"
+    },
+    "whatIs": {
+      "title": "什麼是海螺圖像轉影片？",
+      "description": "海螺圖像轉影片 (由 MiniMax 提供) 是一款尖端的 AI 影片產生器，可將靜態圖像轉換為具有電影品質的動態 6-10 秒影片片段。 它以其卓越的運動合成和 1080p 輸出而聞名，擅長保留面部表情、添加自然的相機運動以及創建無縫過渡。 我們的海螺圖像轉影片工具利用 MiniMax 的先進 Video-01 演算法（針對照片、數位藝術和插圖進行了最佳化），以專業級效果為您的視覺效果添加動畫。 體驗閃電般快速的生成速度（低於 90 秒）、卓越的視覺一致性以及對每個動畫序列的直觀創意控制。"
+    },
+    "examples": {
+      "title": "海螺圖像轉影片範例",
+      "description": "探索使用海螺圖像轉影片製作的動畫。 了解簡單的圖像如何透過逼真的運動和電影風格變成動態影片片段！"
+    },
+    "howToUse": {
+      "title": "如何使用海螺圖像轉影片",
+      "steps": [
+        {
+          "title": "上傳您的圖像",
+          "content": "選擇您要添加動畫的照片、插圖或藝術作品。 海螺支援高達 10 MB 的 JPG、PNG 和 WebP 格式。"
+        },
+        {
+          "title": "新增您的動畫提示",
+          "content": "描述您想要的運動效果—相機縮放、平移、角色移動或環境效果。 提供速度、方向或情境等詳細資訊以獲得最佳效果。"
+        },
+        {
+          "title": "產生您的影片",
+          "content": "點擊「動畫」按鈕，讓 AI 圖像轉影片演算法創建流暢的影片。 預覽您的片段並根據需要調整任何設定。"
+        },
+        {
+          "title": "下載和分享",
+          "content": "儲存您的影片檔案，並在社群媒體上分享、嵌入到您的專案中，或用於行銷活動。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼要使用海螺圖像轉影片？",
+      "description": "了解使用我們的 AI 圖像動畫工具將靜態圖像轉換為引人入勝的影片內容的優勢。",
+      "features": [
+        {
+          "title": "無縫圖像動畫",
+          "content": "透過 AI 驅動的運動效果將任何靜態圖像轉換為動態影片—無需手動關鍵影格。",
+          "icon": "🎬"
+        },
+        {
+          "title": "AI 驅動的轉換器",
+          "content": "利用在數百萬個影格上訓練的最新神經網路來自動產生逼真的動畫。",
+          "icon": "🤖"
+        },
+        {
+          "title": "使用者友善的工作流程",
+          "content": "無需技術或動畫技能—只需上傳、描述效果，然後點擊以建立您的影片。",
+          "icon": "👌"
+        },
+        {
+          "title": "快速周轉",
+          "content": "在幾秒鐘內產生高品質的影片片段，從而加快內容創建速度並縮短製作時間。",
+          "icon": "⚡"
+        },
+        {
+          "title": "多功能輸出",
+          "content": "以 HD 格式匯出影片，以便在社群媒體、網站、簡報等中使用。",
+          "icon": "✨"
+        },
+        {
+          "title": "提高參與度",
+          "content": "透過移動的視覺效果吸引注意力，在社群動態和行銷材料上的表現優於靜態圖像。",
+          "icon": "📈"
+        }
+      ]
+    },
+    "faq": {
+      "title": "海螺圖像轉影片常見問題",
+      "description": "尋找有關使用海螺圖像轉影片進行無縫圖像動畫的常見問題解答。",
+      "q1": "海螺圖像轉影片支援哪些格式？",
+      "a1": "海螺接受常見的圖像格式，如 JPG、PNG 和 WebP。 為了獲得最佳效果，請使用具有清晰細節的高解析度圖像。",
+      "q2": "產生影片需要多長時間？",
+      "a2": "由於經過最佳化的 AI 處理和雲端伺服器，大多數影片會在 5-10 秒內準備就緒。",
+      "q3": "我可以自訂動畫樣式嗎？",
+      "a3": "可以。 您可以指定相機移動（平移、縮放、傾斜）、運動速度以及 3D 視差或細微角色運動等效果。",
+      "q4": "我需要動畫經驗嗎？",
+      "a4": "不需要。 海螺的直觀介面和 AI 演算法讓每個人都能輕鬆進行影片創建，從初學者到專業人士皆可。",
+      "q5": "產生的影片是否免版稅？",
+      "a5": "您使用海螺建立的所有影片均已根據我們的服務條款獲准用於個人和商業用途。",
+      "q6": "我可以在一個專案中為多個圖像添加動畫嗎？",
+      "a6": "當然可以。 上傳一系列圖像以建立多場景影片或故事板動畫。",
+      "q7": "上傳的檔案大小是否有限制？",
+      "a7": "每個圖像必須小於 10 MB。 對於較大的專案，請最佳化您的檔案或將其分割成較小的批次。",
+      "q8": "如何開始？",
+      "a8": "只需點擊「上傳」，選擇您的圖像，新增提示，然後點擊「動畫」。 就這麼簡單！"
+    }
+  },
+  "originalKeyword": "Hailuo Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：海螺",
+      "description": "Prompt: A cute little rabbit with dragonfly wings flies in the blue sky.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/38.webm"
+    },
+    {
+      "id": 2,
+      "title": "模型：海螺",
+      "description": "Prompt: A blue furry creature in the scene is constantly stirring a steaming pot of soup. Then, the blue creature blows on the pot, causing the soup in the bowl in front of it to freeze into a block of ice.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/26.webm"
+    },
+    {
+      "id": 3,
+      "title": "模型：海螺",
+      "description": "Prompt: In the scene, a small dog emits a blue light from its eyes. The messy clothes in front of the dog also begin to glow blue and slowly float into the air, folding neatly on their own before landing in front of the dog. Afterward, the blue light in the dog's eyes fades away.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/25.webm"
+    },
+    {
+      "id": 4,
+      "title": "模型：海螺",
+      "description": "Prompt: A cat in the scene runs quickly toward the camera, with white electric sparks emanating from its eyes. Its entire body becomes surrounded by electricity as it runs faster and faster. The scenery on both sides rushes backward rapidly, creating motion blur that transforms into a glowing white time tunnel.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/27.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "MINIMAX"
+}

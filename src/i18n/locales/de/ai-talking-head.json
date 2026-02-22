@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "title": "AI-sprechender Kopf - KomikoAI",
+    "description": "Erstellen Sie lebensechte Videos von sprechenden Köpfen aus Bildern und Audio.",
+    "fullDescription": "Erstellen Sie mit KI realistische Videos von sprechenden Köpfen aus Fotos. Laden Sie ein Bild hoch und fügen Sie Audio hinzu, um ein natürlich wirkendes, sprechendes Video zu generieren.",
+    "keywords": "KI-Sprechender Kopf, Videogenerierung, Bild zu Video, Audio zu Video, KI-Animation, sprechendes Porträt"
+  },
+  "title": "AI-sprechender Kopf",
+  "description": "Erstellen Sie lebensechte Videos von sprechenden Köpfen aus Bildern. Laden Sie ein Foto hoch und geben Sie Audio an, um es zum Sprechen zu bringen.",
+  "cost": "Kostenlos",
+  "upload": {
+    "image": "Bild hochladen",
+    "title": "Bild hochladen",
+    "click": "Klicken Sie hier, um ein Bild hochzuladen",
+    "supports": "Unterstützt JPEG, PNG, WebP",
+    "dropHere": "Bild hierher ziehen",
+    "orClick": "oder zum Hochladen hier klicken",
+    "fileSize": "Maximale Dateigröße: 10 MB",
+    "tooltip": "Laden Sie ein Porträtbild und Audio hoch.",
+    "imageSizeInfo": "Maximale Bildgröße: {{maxSize}}MB. Große Bilder werden automatisch komprimiert.",
+    "audioSizeInfo": "Maximale Dateigröße für Audio: {{maxSize}}MB. Maximale Dauer: 2 Minuten."
+  },
+  "model": {
+    "select": "Modell auswählen",
+    "placeholder": "Modell auswählen",
+    "loading": "Modelle werden geladen...",
+    "credits": "Credits",
+    "default": "Standardmodell",
+    "description": "Verschiedene Modelle bieten unterschiedliche Stile und Qualitätsstufen.",
+    "aspectRatio": "Seitenverhältnis",
+    "resolution": "Auflösung",
+    "duration": "Dauer",
+    "zaps": "Zaps",
+    "textToSpeech": "Text-to-Speech",
+    "supportsTTS": "Unterstützt Text-to-Speech",
+    "noTTS": "Audio-Upload erforderlich"
+  },
+  "textToSpeech": {
+    "title": "Text-to-Speech",
+    "description": "Einige Modelle unterstützen die Sprachsynthese aus Text. Für Modelle ohne Text-to-Speech-Unterstützung ist ein Audio-Upload erforderlich.",
+    "input": "Text für die Sprachausgabe eingeben",
+    "placeholder": "Geben Sie den Text ein, den die Figur sprechen soll.",
+    "language": "Sprache",
+    "voiceType": "Stimmtyp",
+    "speed": "Sprechgeschwindigkeit",
+    "note": "Hinweis: Die Qualität der Text-to-Speech-Funktion variiert je nach Modell und Sprache.",
+    "estimatedDuration": "Geschätzte Audiolänge: {{duration}} s, Kosten: {{zaps}} Zaps",
+    "defaultDuration": "Zaps werden anhand der Textlänge berechnet (Standard: 10 s)."
+  },
+  "style": {
+    "prompt": "Aufforderung (optional)",
+    "placeholder": "Beschreiben Sie den Stil oder die Stimmung des sprechenden Kopfes.",
+    "examples": "Beispiele:",
+    "example1": "Professioneller Unternehmenssprecher",
+    "example2": "Enthusiastisch und energiegeladen",
+    "example3": "Ruhig und beruhigend"
+  },
+  "quality": {
+    "title": "Hohe Qualität",
+    "standard": "Standard",
+    "high": "Hoch",
+    "standardDesc": "Gute Qualität für den allgemeinen Gebrauch",
+    "highDesc": "Bessere Lippensynchronisation und Mimik",
+    "costs": {
+      "standard": "Standard: {{cost}} Credits",
+      "high": "Hoch: {{cost}} Credits"
+    }
+  },
+  "audioInput": {
+    "label": "Audioeingang",
+    "click": "Klicken Sie hier, um Audio hochzuladen",
+    "supports": "Unterstützt MP3, WAV",
+    "fileSize": "Maximale Dateigröße: 10 MB",
+    "duration": "Maximale Dauer: 60 Sekunden",
+    "tips": "Tipps für optimale Ergebnisse:",
+    "tip1": "Verwenden Sie klares Audio mit minimalen Hintergrundgeräuschen.",
+    "tip2": "Beschränken Sie die Audiolänge auf 60 Sekunden, um die beste Qualität zu erzielen.",
+    "tip3": "Einzelne Sprachaufnahmen funktionieren am besten.",
+    "orUseText": "Oder verwenden Sie Text-to-Speech, sofern vom ausgewählten Modell unterstützt.",
+    "detectedDuration": "Erkannte Audiolänge: {{duration}} s, Kosten: {{zaps}} Zaps",
+    "defaultDuration": "Zaps werden anhand der Audiolänge berechnet (Standard: 10 s).",
+    "uploadTab": "Hochladen",
+    "recordTab": "Aufnehmen"
+  },
+  "buttons": {
+    "generate": "Sprechenden Kopf generieren",
+    "generating": "Generierung läuft...",
+    "reset": "Zurücksetzen",
+    "download": "Video herunterladen",
+    "share": "Teilen",
+    "tryAgain": "Erneut versuchen",
+    "saveToGallery": "In Galerie speichern"
+  },
+  "result": {
+    "title": "Generierter sprechender Kopf",
+    "processing": "Ihr Video wird verarbeitet...",
+    "videoReady": "Ihre Videoergebnisse werden hier angezeigt.",
+    "shareText": "Teilen Sie dieses sprechende Kopf-Video.",
+    "downloadTip": "Zum Speichern auf Ihr Gerät herunterladen",
+    "videoStats": "{{duration}} Sekunden, Auflösung: {{resolution}}"
+  },
+  "loading": {
+    "preparing": "Ressourcen werden vorbereitet...",
+    "processing": "Ihre Anfrage wird bearbeitet...",
+    "analyzing": "Bild wird analysiert...",
+    "generating": "Video wird generiert...",
+    "finalizing": "Ihr Video wird finalisiert..."
+  },
+  "toasts": {
+    "login": "Bitte melden Sie sich an, um diese Funktion zu nutzen.",
+    "imageRequired": "Bitte wählen Sie ein Bild aus.",
+    "audioRequired": "Bitte wählen Sie eine Audiodatei aus.",
+    "invalidImage": "Bitte wählen Sie eine gültige Bilddatei aus (JPEG, PNG, WebP).",
+    "invalidAudio": "Bitte wählen Sie eine gültige Audiodatei aus (MP3, WAV).",
+    "audioSelected": "Audiodatei ausgewählt",
+    "success": "Sprechendes Kopf-Video erfolgreich generiert.",
+    "failure": "Fehler beim Generieren des Videos.",
+    "downloadFailed": "Fehler beim Herunterladen des Videos.",
+    "noCredit": "Nicht genügend Credits.",
+    "imageTooLarge": "Die Bildgröße überschreitet das Limit von 10 MB.",
+    "audioTooLarge": "Die Audiogröße überschreitet das Limit von 10 MB.",
+    "processingQueued": "Ihre Anfrage ist in der Warteschlange. Wir benachrichtigen Sie, sobald sie fertig ist.",
+    "savedToGallery": "Video in Ihrer Galerie gespeichert.",
+    "modelRequired": "Bitte wählen Sie ein Modell aus.",
+    "modelsFetchFailed": "Fehler beim Abrufen von Modellen.",
+    "usingFallbackModel": "Verwende Standardmodell – Modelle konnten nicht vom Server abgerufen werden.",
+    "fetchFailed": "Fehler beim Abrufen von Videos.",
+    "deleteFailed": "Fehler beim Löschen des Videos.",
+    "deleteSuccess": "Video erfolgreich gelöscht.",
+    "textRequired": "Bitte geben Sie Text für die Sprachgenerierung ein."
+  },
+  "credit": {
+    "remaining": "Verbleibende Credits: {{amount}}",
+    "required": "Erforderliche Credits: {{amount}}",
+    "insufficientCredits": "Sie benötigen {{required}} weitere Credits.",
+    "getPremium": "Holen Sie sich Premium für mehr Credits."
+  },
+  "errors": {
+    "imageProcessing": "Fehler beim Verarbeiten des Bildes.",
+    "audioProcessing": "Fehler beim Verarbeiten des Audios.",
+    "serverError": "Serverfehler. Bitte versuchen Sie es später erneut.",
+    "networkError": "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung.",
+    "invalidRequest": "Ungültige Anfrageparameter.",
+    "timeout": "Anfrage ist abgelaufen. Bitte versuchen Sie es erneut."
+  },
+  "modal": {
+    "deleteTitle": "Löschen bestätigen",
+    "deleteMessage": "Möchten Sie dieses Video wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "cancel": "Abbrechen",
+    "delete": "Löschen"
+  },
+  "examples": {
+    "title": "Beispiele für den AI-sprechenden Kopf",
+    "description": "Sehen Sie sich den AI-sprechenden Kopf in Aktion an mit diesen Vorher-Nachher-Beispielen. Diese zeigen, wie aus Standbildern realistische sprechende Videos entstehen.",
+    "inputCaption": "Eingabebild",
+    "outputCaption1": "KI-generiertes sprechendes Kopf-Video mit japanischer Synchronisation",
+    "outputCaption2": "KI-generiertes sprechendes Kopf-Video mit japanischer Synchronisation",
+    "outputCaption3": "KI-generiertes sprechendes Kopf-Video mit spanischer Synchronisation",
+    "outputCaption4": "KI-generiertes sprechendes Kopf-Video mit englischer Synchronisation",
+    "model": "Modell",
+    "transcript": "Abschrift",
+    "inputAlt": "Beispielhaftes Porträtbild"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Erfahren Sie mehr über häufig gestellte Fragen zu unserem AI-sprechenden Kopf, einschließlich seiner Funktionen, Fähigkeiten und wie er Ihren Videoprozess revolutionieren kann.",
+    "q1": "Wie nehme ich Audio direkt im Browser auf?",
+    "a1": "Klicken Sie einfach auf die Registerkarte 'Aufnehmen' im Bereich Audioeingang und drücken Sie die Mikrofontaste, um die Aufnahme zu starten. Ein Timer zeigt die Dauer Ihrer Aufnahme an. Klicken Sie auf die Stopp-Taste, wenn Sie fertig sind, und hören Sie sich Ihre Aufnahme an, bevor Sie sie für Ihr sprechendes Kopfvideo verwenden.",
+    "q2": "Welche Arten von Bildern funktionieren am besten?",
+    "a2": "Klare Frontalporträts funktionieren am besten. Das Gesicht sollte gut beleuchtet sein, ohne Hindernisse und direkt in die Kamera blicken. Neutrale Ausdrücke erzielen in der Regel die besten Ergebnisse.",
+    "q3": "Wie lang darf mein Audio sein?",
+    "a3": "Für optimale Ergebnisse sollte Ihr Audio nicht länger als 60 Sekunden sein. Längere Inhalte können zu geringerer Qualität oder Synchronisationsproblemen führen.",
+    "q4": "Was ist der Unterschied zwischen Standard- und hoher Qualität?",
+    "a4": "Die hochwertige Verarbeitung verwendet fortschrittlichere KI-Modelle, um realistischere Gesichtsbewegungen und eine bessere Lippensynchronisation zu erzielen. Sie kostet mehr Credits, liefert aber natürlichere Ergebnisse.",
+    "q5": "Kann ich die generierten Videos kommerziell nutzen?",
+    "a5": "Sie sind dafür verantwortlich, sicherzustellen, dass Sie die entsprechende Erlaubnis haben, sowohl das Eingabebild als auch das resultierende Video zu verwenden. Holen Sie immer die Zustimmung der Person auf dem Bild ein, bevor Sie ein sprechendes Kopf-Video erstellen oder teilen.",
+    "q6": "Kann ich das Video nach der Erstellung bearbeiten?",
+    "a6": "Das erstellte Video kann heruntergeladen und anschließend mit einer beliebigen Videobearbeitungssoftware Ihrer Wahl bearbeitet werden.",
+    "q7": "Speichern Sie meine Bilder oder Audiodateien?",
+    "a7": "Wir verarbeiten Ihre Medien vorübergehend, um das sprechende Kopfvideo zu erstellen, speichern jedoch Ihre Originalbilder oder Audiodateien nicht dauerhaft.",
+    "q8": "Welche Audioformate werden unterstützt?",
+    "a8": "Derzeit unterstützen wir die Audioformate MP3 und WAV.",
+    "q9": "Warum sieht mein generiertes Video unnatürlich aus?",
+    "a9": "Die Qualität hängt von der Qualität des Eingabebildes, der Beleuchtung, dem Winkel, dem Gesichtsausdruck und der Audioqualität ab. Verwenden Sie ein klareres Porträtfoto mit guter Beleuchtung und neutralem Ausdruck, um die besten Ergebnisse zu erzielen.",
+    "q10": "Warum sieht mein generiertes Video unnatürlich aus?",
+    "a10": "Die Qualität hängt von der Qualität des Eingangsbildes, der Beleuchtung, dem Winkel, dem Gesichtsausdruck und der Audioqualität ab. Verwenden Sie am besten ein klareres Porträtfoto mit guter Beleuchtung und einem neutralen Ausdruck."
+  },
+  "tips": {
+    "title": "Tipps für optimale Ergebnisse",
+    "imageQuality": "Verwenden Sie ein hochwertiges Porträtfoto mit guter Beleuchtung.",
+    "facialExpression": "Wählen Sie ein Bild mit einem neutralen Gesichtsausdruck.",
+    "framing": "Stellen Sie sicher, dass das Gesicht zentriert und vollständig im Bild sichtbar ist.",
+    "audioQuality": "Verwenden Sie klares Audio mit minimalen Hintergrundgeräuschen.",
+    "audioLength": "Beschränken Sie die Audiolänge auf 60 Sekunden, um eine bessere Synchronisation zu erzielen.",
+    "resolution": "Bilder mit höherer Auflösung erzielen bessere Ergebnisse."
+  },
+  "whatIsSection": {
+    "title": "Was ist der AI-sprechende Kopf?",
+    "description": "AI Talking Head erstellt lebensechte Sprechvideos aus Standbildern. Es animiert Gesichtszüge, um Sprachmuster mit fortschrittlicher KI-Technologie nachzuahmen. Laden Sie einfach ein Porträtfoto hoch, nehmen Sie Audio auf oder laden Sie eine Audiodatei hoch und sehen Sie zu, wie das Bild zum Leben erweckt wird!",
+    "recordingCaption": "Nehmen Sie Ihr Audio direkt im Browser auf"
+  },
+  "whyChoose": {
+    "title": "Warum unseren AI-sprechenden Kopf wählen",
+    "description": "Unser AI-sprechender Kopf bietet zahlreiche Vorteile, die ihn zur bevorzugten Wahl für die Erstellung realistischer sprechender Videos aus Standbildern machen."
+  },
+  "howToSection": {
+    "title": "Wie man den AI-sprechenden Kopf verwendet"
+  },
+  "steps": {
+    "step1": {
+      "title": "Bild hochladen",
+      "content": "Laden Sie ein klares Porträtfoto mit guter Beleuchtung und einem neutralen Ausdruck hoch."
+    },
+    "step2": {
+      "title": "Stimme hinzufügen",
+      "content": "Nehmen Sie Audio direkt in Ihrem Browser auf oder laden Sie eine Audiodatei hoch, um Ihr Bild zum Sprechen zu bringen."
+    },
+    "step3": {
+      "title": "Optionen anpassen",
+      "content": "Fügen Sie eine optionale Aufforderung hinzu und wählen Sie das gewünschte Seitenverhältnis und die Auflösung aus."
+    },
+    "step4": {
+      "title": "Generieren & Herunterladen",
+      "content": "Klicken Sie auf „Generieren“, warten Sie auf die Verarbeitung und laden Sie Ihr sprechendes Kopf-Video herunter."
+    }
+  },
+  "features": {
+    "feature1": {
+      "title": "Realistische Lippensynchronisation",
+      "content": "Fortschrittliche KI sorgt für eine präzise Synchronisation zwischen Lippenbewegungen und Sprache, um natürlich wirkende Ergebnisse zu erzielen."
+    },
+    "feature2": {
+      "title": "Audio live aufnehmen",
+      "content": "Nehmen Sie Ihre Stimme direkt im Browser auf oder laden Sie vorab aufgenommenes Audio für maximale Flexibilität hoch."
+    },
+    "feature3": {
+      "title": "Option für hohe Qualität",
+      "content": "Wählen Sie je nach Bedarf und Präferenz zwischen Standard- und hochwertiger Wiedergabe."
+    },
+    "feature4": {
+      "title": "Schnelle Verarbeitung",
+      "content": "Unsere optimierte KI generiert schnell sprechende Kopf-Videos, ohne die Qualität zu beeinträchtigen."
+    },
+    "feature5": {
+      "title": "Einfache Bedienung",
+      "content": "Die einfache Oberfläche macht es jedem leicht, professionell aussehende sprechende Kopf-Videos ohne technisches Fachwissen zu erstellen."
+    },
+    "feature6": {
+      "title": "Stilanpassung",
+      "content": "Fügen Sie Aufforderungen hinzu, um die KI bei der Erstellung von Videos mit bestimmten Stimmungen oder Präsentationsstilen zu leiten."
+    }
+  },
+  "aspectRatio": {
+    "label": "Seitenverhältnis",
+    "landscape": "Querformat",
+    "portrait": "Hochformat",
+    "square": "Quadratisch"
+  },
+  "resolution": {
+    "label": "Auflösung"
+  },
+  "zapReminder": "Zaps werden basierend auf der Audiolänge berechnet (Standard: 10s)"
+}

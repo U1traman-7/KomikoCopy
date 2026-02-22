@@ -1,0 +1,438 @@
+{
+  "ui": {
+    "title": "Generador de Animación por IA",
+    "tooltip": "Convierte tus imágenes estáticas en animaciones fascinantes con el Generador de Animación por IA",
+    "input": {
+      "title": "Entrada",
+      "tooltip": "Sube la imagen que deseas animar",
+      "prompt": {
+        "label": "Indicación",
+        "placeholder": "Describe cómo quieres que se anime la imagen..."
+      },
+      "model": {
+        "label": "Modelo de IA",
+        "placeholder": "Selecciona un modelo",
+        "ariaLabel": "Selecciona un modelo de animación"
+      },
+      "aspectRatio": {
+        "label": "Relación de aspecto",
+        "placeholder": "Elige la relación de aspecto"
+      },
+      "duration": {
+        "label": "Duración",
+        "placeholder": "Elige una duración",
+        "sections": "{{sections}} segundos"
+      },
+      "style": {
+        "label": "Estilo",
+        "placeholder": "Elige un estilo",
+        "anime": "Anime",
+        "default": "Predeterminado"
+      },
+      "resolution": {
+        "label": "Resolución",
+        "placeholder": "Elige una resolución"
+      },
+      "ratio": "Relación",
+      "addEndFrame": "Añadir fotograma final",
+      "startFrame": "Fotograma inicial",
+      "endFrame": "Fotograma final",
+      "image": {
+        "title": "Imagen",
+        "description": "Sube imágenes JPG/PNG/WEBP de hasta 10MB, con un ancho/alto mínimo de 300px.",
+        "label": {
+          "required": "Agregar referencia (Obligatorio)",
+          "optional": "Agregar referencia (Opcional)",
+          "image": "Cargar imagen (Opcional)",
+          "imageRequired": "Sube una imagen",
+          "more": "Agregar más referencias (Opcional)",
+          "endFrame": "Añadir fotograma final (Opcional)",
+          "firstFrame": "Fotograma inicial"
+        }
+      },
+      "addOC": "Añadir personajes",
+      "singleOCOnly": "Solo se permite un personaje. Use Vidu Q1 para varios personajes.",
+      "maxOCsReached": "Se permiten un máximo de {{max}} personajes. Solo Vidu Q1 admite varios personajes.",
+      "config": "Información Adicional"
+    },
+    "output": {
+      "title": "Resultados de la animación",
+      "empty": {
+        "line1": "Aquí aparecerán tus resultados de animación",
+        "line2": "Sube una imagen y proporciona una indicación para comenzar"
+      }
+    },
+    "deleteModal": {
+      "title": "Confirmar eliminación",
+      "message": "¿Estás seguro de que quieres eliminar esta animación? Esta acción no se puede deshacer.",
+      "cancelButton": "Cancelar",
+      "deleteButton": "Eliminar"
+    },
+    "toasts": {
+      "deleteSuccess": "Eliminación exitosa",
+      "deleteFailed": "Error al eliminar",
+      "generateSuccess": "Animación generada correctamente",
+      "generateFailed": "Error al generar la animación",
+      "downloadFailed": "Error al descargar",
+      "fetchFailed": "Error al obtener el video",
+      "noZaps": "Por favor, compra más Zaps",
+      "generatingSticker": "Generando sticker...",
+      "stickerGenerated": "Sticker generado con éxito",
+      "stickerGeneratedFailed": "Error al generar el sticker",
+      "generatingStickerFailed": "Error en la generación del sticker",
+      "imageTooSmall": "La imagen es demasiado pequeña. El tamaño mínimo es de 240x240 píxeles."
+    },
+    "modelOptions": {
+      "kling": {
+        "name": "Kling 1.6",
+        "description": "Movimientos más realistas",
+        "timeCost": "2 minutos",
+        "fps": "30fps"
+      },
+      "minimax": {
+        "name": "Hailuo 02",
+        "description": "Salida HD con contenido visualmente enriquecido",
+        "timeCost": "3 minutos",
+        "fps": "25fps"
+      },
+      "ray": {
+        "name": "Luma Ray 2",
+        "description": "Modelo a gran escala para efectos visuales realistas",
+        "timeCost": "2 minutos",
+        "fps": "24fps"
+      },
+      "pixverse": {
+        "name": "PixVerse v3.5",
+        "description": "Movimiento y coherencia mejorados",
+        "timeCost": "2 minutos",
+        "fps": "30fps"
+      },
+      "veo": {
+        "name": "Veo3 (Google)",
+        "description": "La más alta calidad de video",
+        "timeCost": "1 minuto",
+        "fps": "24fps"
+      },
+      "wan": {
+        "name": "Wan 2.6",
+        "description": "Vídeos de alta calidad y diversidad de movimientos",
+        "timeCost": "1 min",
+        "fps": "24 fps"
+      },
+      "wan_pro": {
+        "name": "Wan Pro",
+        "description": "Calidad visual excepcional y diversidad de movimientos",
+        "timeCost": "5 min",
+        "fps": "30 fps"
+      },
+      "ray_flash_v2": {
+        "name": "Luma Ray Flash 2",
+        "description": "Modelo a gran escala para visuales realistas",
+        "timeCost": "30 s",
+        "fps": "24 fps"
+      },
+      "kling_v2": {
+        "name": "Kling 2.1",
+        "description": "Movimientos más realistas",
+        "timeCost": "2 min",
+        "fps": "30 fps"
+      },
+      "frame_pack": {
+        "name": "FramePack",
+        "description": "Genera videos de manera autorregresiva",
+        "timeCost": "1 min",
+        "fps": "30 fps"
+      },
+      "vidu": {
+        "name": "Vidu Q1",
+        "description": "Consistencia y animaciones 2D fluidas",
+        "timeCost": "1 min",
+        "fps": "24fps"
+      },
+      "vidu_base": {
+        "name": "Anime Komiko",
+        "description": "Generación de animaciones altamente rentable",
+        "timeCost": "1 min",
+        "fps": "24fps"
+      },
+      "anisora": {
+        "name": "AniSora",
+        "description": "Generación de video de anime de código abierto",
+        "timeCost": "1 min",
+        "fps": "30 fps"
+      },
+      "magi_1": {
+        "name": "Magi-1",
+        "description": "Entendimiento del movimiento físico y la composición cinematográfica",
+        "timeCost": "2 min",
+        "fps": "24 fps"
+      },
+      "mj_video": {
+        "name": "Anime Pro",
+        "description": "Ideal para crear anime y animaciones",
+        "timeCost": "1 min",
+        "fps": "24 fps"
+      },
+      "seedance": {
+        "name": "Seedance 1.5 Pro",
+        "description": "El primer modelo del mundo para generación de vídeo multi-shot",
+        "timeCost": "1min",
+        "fps": "24fps"
+      },
+      "sora": {
+        "name": "Sora 2",
+        "description": "Generación impresionante de vídeo multicanal con audio",
+        "timeCost": "1 min",
+        "fps": "30 fps"
+      },
+      "sora_pro": {
+        "name": "Sora 2 Pro",
+        "description": "Generación impresionante de vídeo multicanal con audio",
+        "timeCost": "1 min",
+        "fps": "30 fps"
+      },
+      "sora_stable": {
+        "name": "Sora 2 Estable",
+        "description": "Generación estable de video en múltiples tomas con sonido",
+        "timeCost": "1 min",
+        "fps": "30 fps"
+      },
+      "sora_pro_stable": {
+        "name": "Sora 2 Pro Estable",
+        "description": "Generación estable de video de alta calidad con sonido",
+        "timeCost": "1 min",
+        "fps": "30 fps"
+      },
+      "vidu_q2": {
+        "name": "Vidu Q2",
+        "description": "Animación de imagen a vídeo ultra rápida y altamente consistente",
+        "timeCost": "1 min",
+        "fps": "24 fps"
+      },
+      "vidu_q2_pro": {
+        "name": "Vidu Q2 Pro",
+        "description": "Versión profesional con detalles mejorados y movimiento avanzado",
+        "timeCost": "1 min",
+        "fps": "24 fps"
+      },
+      "wan_22_turbo": {
+        "name": "Wan 2.2 Turbo",
+        "description": "La mejor relación calidad-precio",
+        "timeCost": "1min",
+        "fps": "24fps"
+      }
+    },
+    "buttons": {
+      "generateAnimation": "Generar animación",
+      "seconds5": "5 segundos",
+      "seconds8": "8 segundos",
+      "seconds10": "10 segundos",
+      "default": "Predeterminado",
+      "anime": "Anime",
+      "landscape": "16:9 (Horizontal)",
+      "portrait": "9:16 (Vertical)",
+      "square": "1:1 (Cuadrado)"
+    },
+    "resolutions": {
+      "360p": "360p",
+      "540p": "540p",
+      "720p": "720p",
+      "1080p": "1080p"
+    },
+    "styleModes": {
+      "effect": "Efecto",
+      "prompt": "Indicación",
+      "motion": "Movimiento",
+      "dance": "Danza",
+      "templates": "Plantillas"
+    },
+    "audio": {
+      "label": "Audio Opcional (MP3/WAV, 3-30s, ≤15MB)",
+      "upload": "Subir",
+      "record": "Grabar",
+      "invalidFormat": "Formato de audio no válido. Por favor, utilice MP3 o WAV",
+      "missing": "Por favor, suba un archivo de audio (MP3/WAV)",
+      "durationRange": "La duración del audio debe ser entre 3s y 30s",
+      "processFailed": "Error al procesar el archivo de audio"
+    },
+    "characterName": "Nombre del Personaje",
+    "characterNamePlaceholder": "Introduce el nombre del personaje...",
+    "importFromCharacter": "Importar desde personaje",
+    "characterProfileOptional": "Perfil del Personaje (Opcional)",
+    "characterProfilePlaceholder": "Nombre del personaje, su personalidad, tema y otros detalles",
+    "bankaiEffectTitle": "Efecto deseado del Bankai",
+    "bankaiEffectPlaceholder": "Describe los efectos de la transformación Bankai, los poderes, los cambios visuales, etc.",
+    "sec": "seg",
+    "multiShots": {
+      "label": "Disparos múltiples",
+      "tooltip": "Cuando está habilitado, segmenta inteligentemente el vídeo en múltiples tomas para mejorar la narración"
+    },
+    "cameraFixed": {
+      "label": "Cámara fija",
+      "tooltip": "Mantener fija la posición de la cámara durante el video"
+    }
+  },
+  "seo": {
+    "examples": {
+      "title": "Ejemplos del Generador de Animación por IA",
+      "description": "Descubre el poder de nuestro Generador de Animación por IA a través de estos impresionantes ejemplos. ¡Observa cómo nuestra tecnología transforma imágenes estáticas en videos dinámicos y atractivos!",
+      "inputAlt": "Imagen de entrada de ejemplo",
+      "inputLabel": "Imagen de entrada",
+      "outputLabel": "Resultado de la animación",
+      "videoNotSupported": "Tu navegador no admite la etiqueta de video.",
+      "example1": {
+        "details": "Modelo: Veo | Indicación: 'Una chica bailando y cantando'"
+      },
+      "example2": {
+        "details": "Modelo: Minimax | Indicación: 'Un hombre hablando con rabia'"
+      },
+      "example3": {
+        "details": "Modelo: Ray | Indicación: 'Una chica hablando con tristeza'"
+      },
+      "example4": {
+        "details": "Modelo: Kling | Indicación: 'Una chica hablándose a sí misma con calma'"
+      },
+      "example5": {
+        "details": "Model: Anime Pro | Prompt: \"Escena de batalla estilo anime. Un joven guerrero con una espada deslumbrante se enfrenta a un monstruo demoníaco gigante con ojos resplandecientes y dientes afilados. Duelo de espadas veloz, chispas volando, primeros planos intensos. Concluye con el héroe derrotando al monstruo con un golpe final dramático. Fondo oscuro, iluminación cinematográfica y partículas brillantes.\""
+      },
+      "example6": {
+        "details": "Model: Anime Pro | Prompt: \"Chico anime saca de repente una pistola y dispara con un destello de luz, expresión intensa, ángulo de cámara dramático. Acto seguido, se da la vuelta y corre por la calle.\""
+      },
+      "example7": {
+        "details": "Model: Anime Pro | Prompt: \"Chica anime patinando velozmente por un callejón iluminado con neones por la noche, haciendo giros cerrados, viento en su cabello, seguida desde atrás. Los letreros brillantes se reflejan en el pavimento húmedo mientras atraviesa a toda velocidad los callejones estrechos.\""
+      },
+      "example8": {
+        "details": "Model: Anime Pro | Prompt: \"Escena de batalla estilo anime. Un joven guerrero con una espada deslumbrante se enfrenta a un monstruo demoníaco gigante con ojos resplandecientes y dientes afilados. Duelo de espadas veloz, chispas volando, primeros planos intensos. Concluye con el héroe derrotando al monstruo con un golpe final dramático. Fondo oscuro, iluminación cinematográfica y partículas brillantes.\""
+      }
+    },
+    "meta": {
+      "title": "Generador de Animación por IA - KomikoAI",
+      "description": "Convierte imágenes estáticas en animaciones fascinantes con nuestro Generador de Animación por IA. Crea videos dinámicos de anime, manga y cómics sin esfuerzo. La avanzada tecnología de animación IA da vida a tu arte en minutos.",
+      "keywords": "generador de animación IA, generador de anime IA, animación de video IA, imagen a animación, generador de animación de anime, creador de animación de manga, herramienta de animación IA, generar animación a partir de imagen, generador de video IA, creador de video animado"
+    },
+    "hero": {
+      "title": "Generador de Animación por IA",
+      "description": "Transforma imágenes estáticas en animaciones fascinantes con nuestro potente Generador de Animación por IA. Crea impresionantes videos de anime, manga y cómics sin esfuerzo. Nuestra avanzada tecnología de animación IA analiza tu obra de arte y genera animaciones dinámicas, de calidad profesional, en minutos."
+    },
+    "whatIs": {
+      "title": "¿Qué es el Generador de Animación por IA?",
+      "description": "El Generador de Animación por IA es una herramienta inteligente que crea automáticamente animaciones impresionantes a partir de tus imágenes estáticas. Nuestro Generador de Animación por IA utiliza algoritmos avanzados de aprendizaje profundo para dar vida al arte de anime, manga y cómics, haciendo que la animación profesional sea accesible para todos sin requerir habilidades técnicas o experiencia en animación."
+    },
+    "howToUse": {
+      "title": "Cómo usar el Generador de Animación por IA",
+      "steps": [
+        {
+          "title": "Sube tu imagen",
+          "content": "Sube la imagen que deseas animar. Ya sea un personaje de anime, un cómic o una ilustración de manga, nuestra IA puede darle vida."
+        },
+        {
+          "title": "Introduce una indicación",
+          "content": "Proporciona una indicación para guiar la animación. Describe el movimiento, la expresión o la acción que deseas que genere la IA."
+        },
+        {
+          "title": "Genera la animación",
+          "content": "Haz clic en el botón 'Generar animación' y deja que nuestra IA haga su magia. Observa cómo tu imagen se transforma en un video dinámico."
+        },
+        {
+          "title": "Descarga y comparte",
+          "content": "¡Descarga tu animación generada por IA y compártela con el mundo! Ideal para redes sociales, proyectos personales y mucho más."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "¿Por qué usar el Generador de Animación por IA?",
+      "description": "Descubre por qué nuestro Generador de Animación por IA es la mejor opción para crear animaciones profesionales de anime, manga y cómics. ¡Experimenta el futuro de la tecnología de animación con potentes funciones diseñadas para creadores de todos los niveles de habilidad!",
+      "features": [
+        {
+          "title": "Tecnología de Animación IA Avanzada",
+          "content": "Nuestro Generador de Animación por IA utiliza modelos de aprendizaje profundo de vanguardia para crear animaciones de calidad profesional. La IA analiza inteligentemente tus imágenes y genera movimientos suaves y realistas automáticamente.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Crea Animaciones Profesionales al Instante",
+          "content": "Transforma arte estático en videos animados dinámicos perfectos para redes sociales, YouTube, presentaciones y proyectos creativos. Nuestro Generador de Animación por IA ofrece resultados de calidad de estudio.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Herramienta de Animación IA Fácil de Usar",
+          "content": "¡No se necesitan habilidades de animación! Nuestro Generador de Animación por IA está diseñado para todos. Simplemente sube tu imagen, escribe un aviso y deja que la IA cree animaciones impresionantes para ti.",
+          "icon": "👌"
+        },
+        {
+          "title": "Ahorra Horas de Tiempo de Producción",
+          "content": "Nuestro Generador de Animación por IA crea animaciones en minutos en lugar de horas o días. Reduce el tiempo de producción hasta en un 90% en comparación con los métodos de animación tradicionales.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Calidad de Animación de Grado Profesional",
+          "content": "El Generador de Animación por IA produce resultados de alta calidad con transiciones suaves, movimientos naturales y tasas de cuadros consistentes. Perfecto para uso profesional y comercial.",
+          "icon": "✨"
+        },
+        {
+          "title": "Posibilidades Creativas Ilimitadas",
+          "content": "Concéntrate en tu visión creativa mientras nuestro Generador de Animación por IA se encarga del trabajo técnico complejo. Crea cualquier estilo de animación, desde escenas de acción hasta momentos emocionales.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes sobre el Generador de Animación por IA - Todo lo que Necesitas Saber",
+      "description": "Aprende cómo crear animaciones profesionales con nuestro Generador de Animación por IA. Obtén respuestas a preguntas comunes sobre tecnología de animación IA, características y mejores prácticas.",
+      "q1": "¿Qué es el Generador de Animación por IA?",
+      "a1": "El Generador de Animación por IA es una herramienta IA que transforma imágenes estáticas en videos animados dinámicos. Usando algoritmos avanzados de aprendizaje profundo, analiza tu obra de arte y genera automáticamente animaciones suaves y de calidad profesional con movimientos y expresiones realistas, perfecto para la creación de contenidos de anime, manga y cómics.",
+      "q2": "¿Cómo usar el Generador de Animación por IA?",
+      "a2": "¡Usar el Generador de Animación por IA es sencillo! Primero, sube tu imagen estática (arte de anime, manga o cómic). Luego, ingresa un aviso detallado describiendo el movimiento, expresiones o acciones que deseas. A continuación, haz clic en 'Generar Animación' y deja que la IA cree tu video. Finalmente, descarga y comparte tu animación en redes sociales, YouTube o cualquier plataforma.",
+      "q3": "¿Cómo funciona el Generador de Animación por IA?",
+      "a3": "El Generador de Animación por IA utiliza tecnología avanzada de aprendizaje profundo para analizar tus imágenes. Funciona identificando elementos clave, comprendiendo la composición y generando marcos intermedios para crear un movimiento suave. La IA interpreta tu aviso de texto para producir movimientos, expresiones faciales y ángulos de cámara que dan vida automáticamente a tu arte estático.",
+      "q4": "¿Cuál es el mejor generador de animación por IA?",
+      "a4": "KomikoAI ofrece la mejor herramienta de generador de animación por IA. Nuestro objetivo es ser la plataforma de creación IA líder al ofrecer resultados de calidad profesional, personalización poderosa y divertida, y un flujo de trabajo intuitivo, completamente gratuito para probar. Con el Generador de Animación por IA de KomikoAI, puedes transformar imágenes de anime, manga y cómics en videos impresionantes con movimientos realistas, crear contenido atractivo para redes sociales y YouTube, y acceder a múltiples modelos IA avanzados, lo que lo hace perfecto para usuarios que desean animación profesional sin habilidades técnicas o software costoso.",
+      "q5": "¿Es gratuito el Generador de Animación por IA de KomikoAI en línea?",
+      "a5": "Sí, puedes probar el Generador de Animación por IA en KomikoAI de forma gratuita, sin necesidad de suscribirte a ninguna suscripción. ¡Prueba nuestra herramienta hoy mismo!",
+      "q6": "¿Qué puedo hacer con el Generador de Animación por IA?",
+      "a6": "Puedes utilizar el Generador de Animación por IA en KomikoAI para crear videos animados de personajes de anime con movimientos dinámicos, transformar paneles de manga en secuencias de historias atractivas, dar vida a ilustraciones de cómics con acción y emoción, generar contenido para redes sociales que capture la atención, producir videos de YouTube y materiales promocionales, crear animaciones de personajes para proyectos de juegos o narración de historias, y desarrollar presentaciones profesionales con visuales animados.",
+      "q7": "¿Puedo usar el Generador de Animación por IA en mi teléfono?",
+      "a7": "Sí, puedes usar el Generador de Animación por IA como una aplicación web en diferentes dispositivos, incluidos teléfonos inteligentes y computadoras, lo que lo hace conveniente para todos.",
+      "q8": "¿Puedo descargar mi creación del Generador de Animación por IA?",
+      "a8": "Sí, el Generador de Animación por IA de KomikoAI te permite exportar tu creación en varios formatos, como MP4 y otros formatos de video, para facilitar el compartir.",
+      "q9": "¿Por qué debería usar el Generador de Animación por IA?",
+      "a9": "Usar el Generador de Animación por IA puede ahorrarte el 90% del tiempo de producción de animación, crear videos de calidad profesional sin experiencia en animación y transformar tu visión creativa en realidad al instante. Nuestra herramienta te permite dar vida a arte estático con movimientos realistas, generar contenido atractivo para redes sociales y YouTube, acceder a múltiples modelos IA avanzados para diferentes estilos de animación, y crear animaciones completamente gratuitas para probar."
+    },
+    "cta": {
+      "title": "¡Crea Animaciones Impresionantes GRATIS con Nuestro Generador de Animación por IA Hoy!",
+      "description": "Convierte tus imágenes estáticas en videos animados fascinantes en minutos. ¡Comienza a crear ahora!",
+      "buttonText": "Prueba Nuestro Generador de Animación por IA Gratis"
+    }
+  },
+  "examples": {
+    "title": "Ejemplos de animación de anime y manga con IA",
+    "description": "Explora ejemplos de animaciones creadas con nuestro generador de animación de imágenes con IA. ¡Descubre cómo puedes transformar imágenes estáticas en videos dinámicos!",
+    "inputAlt": "Imagen de entrada de ejemplo",
+    "inputLabel": "Imagen de entrada",
+    "outputLabel": "Resultado de la animación",
+    "videoNotSupported": "Tu navegador no admite la etiqueta de video.",
+    "example1": {
+      "details": "Modelo: Veo | Indicación: 'Una chica bailando y cantando'"
+    },
+    "example2": {
+      "details": "Modelo: Minimax | Indicación: 'Un hombre hablando con rabia'"
+    },
+    "example3": {
+      "details": "Modelo: Ray | Indicación: 'Una chica hablando con tristeza'"
+    },
+    "example4": {
+      "details": "Modelo: Kling | Indicación: 'Una chica hablándose a sí misma con calma'"
+    },
+    "example5": {
+      "details": "Model: Anime Pro | Prompt: \"Escena de batalla estilo anime. Un joven guerrero con una espada deslumbrante se enfrenta a un monstruo demoníaco gigante con ojos resplandecientes y dientes afilados. Duelo de espadas veloz, chispas volando, primeros planos intensos. Concluye con el héroe derrotando al monstruo con un golpe final dramático. Fondo oscuro, iluminación cinematográfica y partículas brillantes.\""
+    },
+    "example6": {
+      "details": "Model: Anime Pro | Prompt: \"Chico anime saca de repente una pistola y dispara con un destello de luz, expresión intensa, ángulo de cámara dramático. Acto seguido, se da la vuelta y corre por la calle.\""
+    },
+    "example7": {
+      "details": "Model: Anime Pro | Prompt: \"Chica anime patinando velozmente por un callejón iluminado con neones por la noche, haciendo giros cerrados, viento en su cabello, seguida desde atrás. Los letreros brillantes se reflejan en el pavimento húmedo mientras atraviesa a toda velocidad los callejones estrechos.\""
+    },
+    "example8": {
+      "details": "Model: Anime Pro | Prompt: \"Escena de batalla estilo anime. Un joven guerrero con una espada deslumbrante se enfrenta a un monstruo demoníaco gigante con ojos resplandecientes y dientes afilados. Duelo de espadas veloz, chispas volando, primeros planos intensos. Concluye con el héroe derrotando al monstruo con un golpe final dramático. Fondo oscuro, iluminación cinematográfica y partículas brillantes.\""
+    }
+  }
+}

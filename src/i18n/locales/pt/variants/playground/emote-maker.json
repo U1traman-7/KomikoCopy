@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Emote Maker",
+      "description": "Crie emoticons com IA usando o nosso Emote Maker. Crie emoticons únicos a partir das suas fotos, experimente gratuitamente e expresse-se com variações artísticas hoje mesmo!",
+      "keywords": "Emote Maker, Criar Emoticons com IA, criador de emoticons com IA, transformação de arte com IA, gerador de emoticons únicos, emoticons artísticos, gerador de avatar digital"
+    },
+    "hero": {
+      "title": "Emote Maker"
+    },
+    "whatIs": {
+      "title": "O que é o Emote Maker?",
+      "description": "O Emote Maker é uma ferramenta especializada, concebida para transformar as suas fotografias em emoticons apelativos e artísticos. Utilizando algoritmos de IA sofisticados, analisa e otimiza as suas imagens, aplicando filtros que incorporam emoções divertidas e dinâmicas. Ideal para criar avatares, stickers digitais ou gráficos expressivos, o Emote Maker simplifica o processo artístico com apenas alguns cliques."
+    },
+    "examples": {
+      "title": "Exemplos do Emote Maker",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como Utilizar o Emote Maker",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a Sua Fotografia",
+          "content": "Selecione e carregue uma fotografia no formato JPG ou PNG que deseja transformar num emoticon."
+        },
+        {
+          "title": "Passo 2: Selecione o Modelo de Stickers Chibi",
+          "content": "Selecione o modelo de Stickers Chibi para transformar a sua fotografia com o estilo de stickers chibi."
+        },
+        {
+          "title": "Passo 3: Converter para Stickers Chibi",
+          "content": "Pressione 'Converter para Emote' e veja a IA dar vida à sua fotografia no estilo escolhido em instantes."
+        },
+        {
+          "title": "Passo 4: Descarregue e Partilhe a Sua Criação",
+          "content": "Após estar satisfeito, descarregue o seu emoticon e partilhe-o nas redes sociais ou utilize-o nos seus projetos digitais."
+        }
+      ],
+      "subtitle": "Passos rápidos para começar a criar os seus emoticons personalizados."
+    },
+    "benefits": {
+      "title": "Por Que Escolher o Gerador de IA Emote Maker?",
+      "description": "Explore os benefícios adaptados às suas necessidades criativas.",
+      "features": [
+        {
+          "title": "🎉 Criação Rápida e Divertida",
+          "content": "Crie emoticons distintos que valorizam os seus projetos criativos em questão de minutos."
+        },
+        {
+          "title": "✨ Estilos de Emoticon Únicos",
+          "content": "Aceda a uma variedade de expressões e temas, garantindo que os seus emoticons são tão únicos quanto você."
+        },
+        {
+          "title": "📷 Resultados de Alta Qualidade",
+          "content": "Obtenha emoticons de alta resolução, perfeitos para qualquer plataforma, mantendo a qualidade em impressões e designs digitais."
+        },
+        {
+          "title": "🔄 Aplicações Abrangentes",
+          "content": "Desde stickers digitais a avatares de jogos, o Emote Maker satisfaz diversas necessidades artísticas."
+        },
+        {
+          "title": "🤖 Alimentado por IA Avançada",
+          "content": "Experimente transformações de fotografias perfeitas através da nossa poderosa tecnologia de IA, produzindo emoticons de qualidade profissional."
+        },
+        {
+          "title": "🌟 Junte-se a uma Comunidade Criativa",
+          "content": "Conecte-se com outros criadores, partilhe os seus emoticons e encontre inspiração na comunidade Emote Maker."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Emote Maker FAQ",
+      "description": "",
+      "q1": "O que implica a transformação de estilo do Emote Maker?",
+      "a1": "A transformação de estilo do Emote Maker utiliza IA para transformar as suas fotografias em gráficos emotivos que destacam as expressões faciais e as nuances artísticas.",
+      "q2": "Como posso obter os melhores resultados do Emote Maker?",
+      "a2": "Para otimizar os seus resultados, certifique-se de que as suas imagens são nítidas e experimente vários estilos para descobrir as opções de emoticon mais apelativas.",
+      "q3": "O uso do Emote Maker é gratuito?",
+      "a3": "Sim, o nosso Emote Maker é gratuito! Explore opções premium para estilos avançados.",
+      "q4": "Como o Emote Maker difere de outros filtros gráficos?",
+      "a4": "A singularidade do Emote Maker reside no seu foco na criação de transformações emotivas que refletem tanto o estilo artístico quanto o sentimento pessoal.",
+      "q5": "Posso usar comercialmente as minhas criações do Emote Maker?",
+      "a5": "Pode usar os seus emoticons comercialmente, mas verifique os termos de utilização com base no seu nível de subscrição."
+    },
+    "cta": {
+      "title": "Crie Emoticons com IA e Crie a Sua Obra-Prima Hoje",
+      "description": "Junte-se à diversão e liberte o seu potencial artístico com o Emote Maker. Transforme as suas imagens em emoticons únicos e vibrantes e expresse o seu estilo sem esforço. Comece agora – é rápido, fácil e gratuito!",
+      "buttonText": "Criar Emoticons com IA Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Generate emotes with AI from your photo",
+  "originalKeyword": "Emote Maker",
+  "examples": [
+    {
+      "image": "/images/examples/playground/emote-maker/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/emote-maker/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Chibi"
+    }
+  ]
+}

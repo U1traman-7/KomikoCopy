@@ -1,0 +1,503 @@
+{
+  "title": "Video zu Video KI",
+  "description": "Verwandeln Sie Ihre Videos mit der Kraft der Video-zu-Video-KI. Unsere fortschrittliche Technologie zum Übertragen von Videostilen konvertiert jedes Video in Anime-, Cartoon-, Manga- oder Manhwa-Stile, wobei die ursprüngliche Bewegung und das Timing erhalten bleiben.",
+  "meta": {
+    "title": "Video zu Video KI | Der beste Video-Stiltransfer",
+    "description": "Verwandeln Sie Ihre Videos mit der Kraft der Video-zu-Video-KI. Unsere fortschrittliche Technologie zum Übertragen von Videostilen konvertiert jedes Video in Anime-, Cartoon-, Manga- oder Manhwa-Stile, wobei die ursprüngliche Bewegung und das Timing erhalten bleiben.",
+    "fullDescription": "Revolutionäres Video-zu-Video-KI-Tool, das gewöhnliche Videos in Anime-Meisterwerke, Cartoon-Animationen, Manga-artige Grafiken und Manhwa-Ästhetik verwandelt. Unsere fortschrittliche Video-Stiltransfer-Technologie bewahrt die Bewegungskonsistenz und wendet gleichzeitig künstlerische Transformationen an, darunter Studio Ghibli-Anime, koreanische Manhwa, japanische Manga, Aquarellanimation und Cartoon-Stile. Perfekt für Content-Ersteller, Animatoren und Künstler, die einen professionellen Video-Stiltransfer suchen.",
+    "keywords": "Video zu Video KI, Video-Stiltransfer, Anime-Video-Generator, Cartoon-Video-Filter, Manga-Stiltransfer, Manhwa-Animation, Video zu Anime-Konverter, Animationstool, Cartoon-Video-Maker, Anime-Stil-Video, Manga-Video-Ersteller, Videostilisierung, animierter Video-Generator, Comic-Video-Filter, Anime-Transformation, Cartoon-Stiltransfer"
+  },
+  "ui": {
+    "title": "Video zu Video KI",
+    "tooltip": "Verwandeln Sie Ihr Video mit der Video-zu-Video-KI- und Video-Stiltransfer-Technologie",
+    "generatedVideos": "Gestylte Videos",
+    "emptyState": "Ihre gestylten Anime- und Cartoon-Videos werden hier angezeigt",
+    "steps": {
+      "uploadVideo": "1. Video hochladen",
+      "styleSelection": "Stilauswahl",
+      "generateVideo": "3. Video generieren"
+    },
+    "upload": {
+      "dragText": "Zum Hochladen tippen oder Video hierher ziehen",
+      "formatInfo": "Unterstützt MP4, MOV, AVI • Maximal 15 Sekunden • Maximal 50MB",
+      "extractFrameManually": "Ersten Frame manuell extrahieren",
+      "bestResultsTip": "Für optimale Ergebnisse verwenden Sie ein Video mit einer einzigen Szene – idealerweise in einer einzigen, ununterbrochenen Aufnahme.",
+      "safariFormatInfo": "Unterstützt MP4, MOV, AVI • Maximal 15 Sekunden • Maximal 50MB",
+      "safariNotice": "Hinweis für Safari-Nutzer",
+      "safariLimitWarning": "Videolänge ist auf 15 Sekunden oder weniger beschränkt. Für längere Videos oder eine benutzerdefinierte Steuerung der Dauer nutzen Sie bitte den Chrome-Browser.",
+      "bestResultsTip1": "Für optimale Ergebnisse verwenden Sie ein Video, das in einer durchgängigen Aufnahme gedreht wurde.",
+      "bestResultsTip2": "Wenn ein Schauspieler zu sehen ist, sollte der erste Frame eine frontale Ansicht zeigen. Idealerweise das Video auf einen Hauptdarsteller beschränken und mindestens den gesamten Oberkörper zeigen."
+    },
+    "duration": {
+      "title": "Dauer",
+      "description": "Wählen Sie die Dauer für die Videogenerierung. Längere Dauern verbrauchen mehr Zaps.",
+      "originalDuration": "Original: {{duration}}s",
+      "tooLong": "Zu lang",
+      "willBeTrimmed": "Wird von {{original}}s auf {{target}}s gekürzt",
+      "originalLength": "Ursprüngliche Länge",
+      "safariNote": "Safari erkannt: Originale Videolänge wird für beste Kompatibilität verwendet.",
+      "chromeAdvice": "Für erweiterte Kontrollmöglichkeiten über die Dauer verwenden Sie bitte den Chrome-Browser.",
+      "safariUseOriginal": "Safari-Nutzer: Das Video behält seine ursprüngliche Dauer für optimale Kompatibilität."
+    },
+    "videoMode": {
+      "title": "Generierungsmodus",
+      "human": "Human-Video-Modus",
+      "humanDescription": "Optimiert für menschliche Motive und Porträtvideos",
+      "general": "Allgemeiner Modus",
+      "generalDescription": "Funktioniert mit jedem Motiv- und Szenentyp"
+    },
+    "videoPrompt": {
+      "title": "Eingabeaufforderung",
+      "placeholder": "z.B. Anime-Mädchen tanzt",
+      "description": "Fügen Sie weitere Details hinzu, um den Videogenerierungsprozess zu steuern",
+      "optional": "(Optional)"
+    },
+    "framePreview": {
+      "original": "Original",
+      "styled": "Gestylt",
+      "applyingStyle": "Stil wird angewendet...",
+      "awaitingStyle": "Warte auf Stil",
+      "selectStyleBelow": "Wählen Sie unten einen Stil aus",
+      "beforeAfterComparison": "Vorher-Nachher-Vergleich des Stiltransfers",
+      "applyingStyleToFrame": "Wende den gewählten Stil auf den Frame an...",
+      "frameReferenceText": "Dieser Frame dient als Referenz für den Video-Stiltransfer",
+      "styleTooltip": "Dieser gestylte Frame dient als Leitfaden für die gesamte Videotransformation."
+    },
+    "styleModes": {
+      "templates": "Vorlagen",
+      "prompt": "Prompt",
+      "reference": "Referenz"
+    },
+    "styleTemplates": {
+      "anime": "Anime",
+      "ghibliAnime": "Ghibli Anime",
+      "koreanManhwa": "Koreanische Manhwa",
+      "cartoon": "Cartoon",
+      "manga": "Manga",
+      "inkWash": "Tuschmalerei",
+      "watercolor": "Aquarell",
+      "lineArt": "Strichzeichnung",
+      "lowPoly": "Low Poly",
+      "clay": "Knetanimation",
+      "pixelArt": "Pixel Art",
+      "origami": "Origami-Papier",
+      "lego": "Lego",
+      "vaporwave": "Vaporwave",
+      "rickAndMorty": "Rick and Morty",
+      "southPark": "South Park",
+      "simpsons": "Simpsons",
+      "naruto": "Naruto",
+      "onePiece": "One Piece",
+      "myLittlePony": "My Little Pony",
+      "comic": "Komisch",
+      "miku": "Miku",
+      "barbie": "Barbie",
+      "goku": "Goku",
+      "trump": "Donald Trump",
+      "princess": "Prinzessin / Prinz",
+      "kimono": "Kimono / Yukata",
+      "superhero": "Superheld",
+      "magicalGirl": "Magisches Mädchen/Junge",
+      "hogwarts": "Hogwarts",
+      "cowboy": "Cowboy",
+      "sailorUniform": "Matrosenuniform",
+      "pixar": "Pixar",
+      "apocalypse": "Apokalypse",
+      "magicalWorld": "Magische Welt",
+      "dreamland": "Traumland",
+      "cyberpunk": "Cyberpunk",
+      "kpopIdol": "K-Pop-Idol",
+      "cloud": "Wolke",
+      "mars": "Mars",
+      "outerSpace": "Weltraum",
+      "sailorMoon": "Sailor Moon",
+      "pencilSketch": "Bleistiftskizze",
+      "retroGame": "Retro-Spiel",
+      "mobileGame": "Mobilspiel",
+      "psGame": "PS-Spiel",
+      "underwater": "Unterwasserwelt",
+      "snow": "Schneelandschaft",
+      "toyBricks": "Bausteine",
+      "skeleton": "Skelett",
+      "fire": "Feuer",
+      "muscle": "Muskeln",
+      "metal": "Metall",
+      "crystal": "Kristall",
+      "westernAnimation": "Westliche Animation",
+      "vanGogh": "Van Gogh",
+      "oilPainting": "Ölgemälde",
+      "ice": "Eiskalt",
+      "mikuCosplay": "Miku-Cosplay",
+      "gokuCosplay": "Goku-Cosplay",
+      "narutoCosplay": "Naruto-Cosplay",
+      "sailorMoonCosplay": "Sailor-Moon-Cosplay",
+      "digitalIllustration": "Digitale Illustration",
+      "xRay": "Röntgen",
+      "neonSign": "Neonschild",
+      "gta": "GTA",
+      "callOfDuty": "Call of Duty",
+      "minecraft": "Minecraft",
+      "theLegendOfZelda": "Die Legende von Zelda",
+      "harryPotter": "Harry Potter",
+      "starWars": "Star Wars",
+      "avatar": "Avatar",
+      "dune": "Dune",
+      "theLordOfTheRings": "Der Herr der Ringe",
+      "frozen": "Die Eiskönigin",
+      "catGirlorBoy": "Katzenmädchen/Junge",
+      "maiden": "Jungfrau",
+      "bunnyGirlorBoy": "Hasenmädchen/Junge",
+      "samurai": "Samurai",
+      "ninja": "Ninja",
+      "foxGirlorBoy": "Fuchsmädchen/Junge",
+      "elf": "Elf",
+      "idol": "Idol",
+      "mechaPilot": "Mecha-Pilot",
+      "playdoh": "Knete",
+      "yarn": "Garn",
+      "marble": "Marmor",
+      "christmas": "Weihnachten",
+      "wizardingWorld": "Zaubererwelt",
+      "heaven": "Himmel",
+      "hell": "Hölle",
+      "captainAmerican": "Captain America",
+      "maleficent": "Maleficent",
+      "tinkerbell": "Tinker Bell",
+      "robot": "Roboter",
+      "angel": "Engel",
+      "zombie": "Zombie",
+      "pirate": "Pirat",
+      "medieval": "Mittelalterlich",
+      "knight": "Ritter",
+      "goblin": "Kobold",
+      "monkeyDLuffy": "Monkey D. Ruffy",
+      "gojoSatoru": "Gojo Satoru",
+      "wolfGirlorBoy": "Wolf Mädchen/Junge",
+      "vampire": "Vampir",
+      "werewolf": "Werwolf",
+      "iosEmoji": "iOS-Emoji",
+      "theSimpsons": "Die Simpsons",
+      "animeCharacter": "Anime-Charakter",
+      "cyborg": "Cyborg",
+      "beagle": "Beagle",
+      "poodle": "Pudel",
+      "orangeCat": "Orangefarbene Katze",
+      "sphynxCat": "Sphynx-Katze"
+    },
+    "prompt": {
+      "placeholder": "Beschreiben Sie Ihre gewünschte Stiltransformation...",
+      "example": "Beispiel: \"Ersetze den Mann durch Naruto\", \"Verwandle dies in einen klassischen 90er-Jahre-Anime-Stil\", \"Kleide das Mädchen in ein Blumenkleid\""
+    },
+    "reference": {
+      "uploadText": "Laden Sie Ihren vorgestylten Frame als Referenz hoch",
+      "formatInfo": "Unterstützt JPG, PNG, JPEG, WEBP • Max. 10MB",
+      "compositionWarning": "Stellen Sie sicher, dass das Referenzbild in der Komposition genau mit dem ersten Frame des Originalvideos übereinstimmt."
+    },
+    "buttons": {
+      "applying": "Wird angewendet...",
+      "useNewReference": "Neue Referenz verwenden",
+      "applyNewStyle": "Neuen Stil anwenden",
+      "useReference": "Referenz verwenden",
+      "applyStyle": "Stil anwenden",
+      "generateVideo": "Video generieren",
+      "generatingVideo": "Video wird generiert...",
+      "generateMore": "Weitere Videos generieren",
+      "createAnother": "Weiteres Video erstellen",
+      "applyStyleWithName": "{{style}}-Stil anwenden",
+      "applyNewStyleWithName": "Neuen {{style}}-Stil anwenden"
+    },
+    "separators": {
+      "readyToGenerate": "Bereit zum Generieren des Videos"
+    },
+    "styleCategories": {
+      "tStyleTransfer": "Stilübertragung",
+      "changeMaterial": "Material ändern",
+      "changeEnvironment": "Umgebung ändern",
+      "cosplay": "Kostümspiel",
+      "gameRender": "Spiel-Rendering",
+      "switchScene": "Szene wechseln",
+      "replaceCharacter": "Charakter ersetzen",
+      "movieWorld": "Filmwelt",
+      "animeWorld": "Anime-Welt",
+      "game": "Spiel",
+      "movie": "Film/Serie",
+      "anime": "Anime",
+      "animal": "Tier"
+    },
+    "styleTemplatesTitle": "Stilvorlagen",
+    "viewAll": "Alle anzeigen",
+    "selectAStyle": "Wählen Sie einen Stil",
+    "selected": "Ausgewählt",
+    "all": "Alle",
+    "trending": "Angesagt",
+    "model": {
+      "label": "Modell",
+      "placeholder": "Modell auswählen",
+      "ariaLabel": "Modell auswählen",
+      "options": {
+        "rayFlash": "V2V Allgemein",
+        "actTwo": "V2V Menschliches Video (Gesicht muss deutlich sichtbar sein)",
+        "aleph": "V2V Pro",
+        "v2vHuman": "V2V Human Video (Gesicht muss deutlich sichtbar sein)",
+        "v2vGeneral": "V2V Allgemein",
+        "v2vPro": "V2V Professionell",
+        "wanAnimate": "Wan Animate (Am besten geeignet für Charakteranimationen)"
+      },
+      "descriptions": {
+        "rayFlash": "Schnelle Stilübertragung für jedes Video (menschlich oder nicht-menschlich). Funktioniert besonders gut bei fortlaufenden Aufnahmen.",
+        "actTwo": "Für menschliche Videos mit statischen Hintergründen. Repliziert Gesichtsausdrücke und Körperbewegungen.",
+        "aleph": "Hochwertige und vielseitige Transformation von Video zu Video.",
+        "v2vHuman": "Für Videos mit Menschen und statischen Hintergründen. Repliziert Gesichtsausdrücke und Körperbewegungen.",
+        "v2vGeneral": "Schnelle Stilübertragung für jedes Video (menschlich oder nicht-menschlich). Funktioniert am besten mit einer durchgehenden Aufnahme.",
+        "v2vPro": "Hochwertige und vielseitige Video-zu-Video-Transformation.",
+        "wanAnimate": "Für Charaktervideos mit statischen Hintergründen. Repliziert Ausdrücke und Körperbewegungen. Am besten geeignet für 3D-Animationen."
+      },
+      "zapsPerSecond": "Zaps/s"
+    },
+    "ratioSelector": {
+      "label": "Ausgabe-Seitenverhältnis",
+      "ariaLabel": "Seitenverhältnis auswählen"
+    },
+    "actTwo": {
+      "bodyControl": "Körperkontrolle",
+      "bodyControlDesc": "Wenn aktiviert, werden zusätzlich zu den Gesichtsausdrücken auch nicht-gesichtliche Bewegungen und Gesten auf die Figur angewendet.",
+      "expressionIntensity": "Intensität des Gesichtsausdrucks",
+      "expressionIntensityDesc": "Ein größerer Wert erhöht die Intensität des Gesichtsausdrucks der Figur.",
+      "ratioDesc": "Die Auflösung des Ausgabevideos.",
+      "actTwoVideoTooShort": "Für Akt Zwei muss das Referenzvideo mindestens {{min}} Sekunden dauern.",
+      "videoTooShort": "Für ein V2V-Human-Video muss das Referenzvideo mindestens {{min}} Sekunden lang sein."
+    },
+    "uploadTips": {
+      "title": "Für optimale Ergebnisse (Qualität kann variieren)",
+      "tip1": "1. Verwenden Sie eine einzelne, durchgängige Aufnahme (teilen Sie Mehrfachaufnahmen auf und konvertieren Sie diese separat).",
+      "tip2": "2. Beziehen Sie nur eine Person mit ein und achten Sie darauf, dass sie groß genug im Bild ist."
+    }
+  },
+  "whatIs": {
+    "title": "Was ist Video zu Video KI?",
+    "description": "Video zu Video KI verwandelt gewöhnliche Videos mit fortschrittlicher Video-Stiltransfer-Technologie in Anime-, Cartoon-, Manga- und Manhwa-Animationen. Unser zweistufiger Prozess wendet zuerst den von Ihnen gewählten Stil auf einen Referenzframe an und verwendet diesen gestylten Frame dann, um Ihr gesamtes Video zu transformieren, wobei die ursprüngliche Bewegung und das Timing erhalten bleiben. Wählen Sie aus über 20 Stilen, darunter Studio Ghibli-Anime, koreanische Manhwa, japanische Manga und beliebte Cartoon-Ästhetiken mit unserem Video-Stiltransfer."
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/dancing-input.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/fox-boy.webm",
+      "inputLabel": "Originalvideo",
+      "outputLabel": "Übertragener Effekt",
+      "description": "Anime | Stil: Fuchs Mädchen/Junge"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/drum-set.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/the-simpsons.webm",
+      "inputLabel": "Originalvideo",
+      "outputLabel": "Übertragener Effekt",
+      "description": "Film/Show | Stil: Die Simpsons"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/skateboard.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/minfecraft.webm",
+      "inputLabel": "Originalvideo",
+      "outputLabel": "Übertragener Effekt",
+      "description": "Spiel | Stil: Minecraft"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "Originalvideo",
+      "outputLabel": "Comicstil",
+      "description": "Stiltransfer | Stil: Comic",
+      "isSpecial": true
+    },
+    {
+      "id": 5,
+      "layout": "single",
+      "type": "video",
+      "output": "/images/examples/video-to-video/dog.webm",
+      "label": "Anime-Transformation",
+      "description": "Verwandlung eines realen Hundes in Animestil zeigt einen realistischen Hund, der in eine animierte Figur umgewandelt wird"
+    }
+  ],
+  "howTo": {
+    "title": "So verwenden Sie Video zu Video KI"
+  },
+  "steps": {
+    "step1": {
+      "title": "Laden Sie Ihr Video hoch",
+      "content": "Laden Sie eine Videodatei (MP4, MOV, AVI) mit einer Dauer von bis zu 15 Sekunden und einer Größe von maximal 50MB für die Video-zu-Video-KI-Verarbeitung hoch. Videos, die länger als 15 Sekunden sind, werden für einen optimalen Video Style Transfer automatisch gekürzt."
+    },
+    "step2": {
+      "title": "Video-Stiltransfer-Referenz",
+      "content": "Wir extrahieren den ersten Frame und wenden Ihren gewählten Anime-, Cartoon- oder Manga-Stil an, um eine Referenz für eine konsistente Video-Stiltransfer-Transformation zu erstellen."
+    },
+    "step3": {
+      "title": "Wählen Sie einen künstlerischen Stil",
+      "content": "Wählen Sie aus über 20 voreingestellten Stilen wie Studio Ghibli-Anime, koreanische Manhwa, japanische Manga oder erstellen Sie benutzerdefinierte Stile mit Text-Prompts und Referenzbildern für den Video-Stiltransfer."
+    },
+    "step4": {
+      "title": "Video zu Video KI generieren",
+      "content": "Unsere Video zu Video KI transformiert Ihr komplettes Video mithilfe des gestylten Referenzframes und bewahrt dabei alle Originalbewegungen, -ausdrücke und -zeitabläufe durch fortschrittlichen Video-Stiltransfer."
+    }
+  },
+  "benefits": {
+    "title": "Warum Video zu Video KI verwenden",
+    "description": "Unsere Video zu Video KI bietet den fortschrittlichsten Video-Stiltransfer mit Bewegungserhaltung, umfangreichen Stiloptionen und transparenter Preisgestaltung."
+  },
+  "features": {
+    "feature1": {
+      "title": "Perfekte Bewegungserhaltung",
+      "content": "Video zu Video KI behält jedes Detail der Originalbewegung, der Gesichtsausdrücke und des Timings bei, während Anime-, Cartoon- oder Manga-Stile mit frameperfekter Video-Stiltransfer-Konsistenz angewendet werden."
+    },
+    "feature2": {
+      "title": "Über 20 Video-Stiltransfer-Optionen",
+      "content": "Wählen Sie aus Studio Ghibli-Anime, koreanischer Manhwa, japanischem Manga, Disney-Cartoon, Naruto-Stil und mehr. Erstellen Sie benutzerdefinierte Video-Stiltransfers mit Text-Prompts oder Referenzbildern mit Video zu Video KI."
+    },
+    "feature3": {
+      "title": "Ausgabe in Profi-Qualität",
+      "content": "Generieren Sie hochauflösende Anime- und Cartoon-Videos mit konsistenter Video-Stiltransfer-Anwendung, reibungslosen Übergängen und ohne Flimmern oder Artefakte mit unserer Video zu Video KI."
+    },
+    "feature4": {
+      "title": "Intelligentes Kostensystem",
+      "content": "Transparente Preisgestaltung mit separaten Gebühren für Video-Stiltransfer und Videogenerierung. Experimentieren Sie mit verschiedenen Stilen ohne zusätzliche Videokosten mit Video zu Video KI."
+    },
+    "feature5": {
+      "title": "Einfacher zweistufiger Prozess",
+      "content": "Einfacher Video-zu-Video-KI-Workflow: Video hochladen, Video-Stiltransfer auf Referenzframe anwenden, vollständiges Video generieren. Keine technischen Vorkenntnisse erforderlich mit Echtzeit-Fortschrittsverfolgung."
+    },
+    "feature6": {
+      "title": "Automatische Optimierung",
+      "content": "Intelligente Video zu Video KI-Verarbeitung mit automatischer Kürzung, Formatunterstützung (MP4, MOV, AVI) und dauerbasierter Kostenberechnung für optimalen Video-Stiltransfer."
+    }
+  },
+  "faq": {
+    "title": "Video zu Video KI FAQ",
+    "description": "Häufige Fragen zu unserem Video-zu-Video-KI- und Video-Stiltransfer-Tool, Prozess, Kosten und Best Practices.",
+    "q1": "Wie funktioniert Video zu Video KI?",
+    "a1": "Unsere Video zu Video KI verwendet einen zweistufigen Video-Stiltransfer-Prozess: 1) Extrahieren Sie einen Referenzframe und wenden Sie Ihren gewählten Anime-/Cartoon-Stil an, 2) Transformieren Sie das gesamte Video mithilfe dieses gestylten Frames, wobei die ursprüngliche Bewegung und das Timing erhalten bleiben. Dies gewährleistet eine konsistente Video-Stiltransfer-Anwendung über alle Frames hinweg.",
+    "q2": "Was sind die Videoformatanforderungen für Video zu Video KI?",
+    "a2": "Wir unterstützen die Formate MP4, MOV und AVI mit einer maximalen Dateigröße von 50MB für die Video-zu-Video-KI-Verarbeitung. Videos sind auf 15 Sekunden begrenzt und werden bei Überschreitung dieser Länge automatisch gekürzt, um eine optimale Verarbeitung und Kosteneffizienz beim Video Style Transfer zu gewährleisten.",
+    "q3": "Wie lange dauert der Video-Stiltransfer?",
+    "a3": "Die gesamte Video-zu-Video-KI-Verarbeitung dauert 5-10 Minuten: Video-Stiltransfer (1-3 Minuten) und Videogenerierung (3-7 Minuten). Sie können den Video-Stiltransfer-Fortschritt in Echtzeit überwachen.",
+    "q4": "Was kostet Video zu Video KI?",
+    "a4": "Separate Gebühren für Video-Stiltransfer und Videogenerierung basierend auf der Dauer. Die Video zu Video KI-Kosten werden vor der Verarbeitung in Echtzeit angezeigt, und Guthaben werden erst nach erfolgreichem Abschluss des Video-Stiltransfers abgezogen.",
+    "q5": "Kann ich benutzerdefinierte Video-Stiltransfer-Stile erstellen?",
+    "a5": "Ja! Wählen Sie aus über 20 voreingestellten Vorlagen (Studio Ghibli, koreanische Manhwa, japanische Manga usw.), schreiben Sie benutzerdefinierte Text-Prompts oder laden Sie Referenzbilder für einzigartige Video-Stiltransfer-Transformationen mit unserer Video zu Video KI hoch.",
+    "q6": "Was macht gute Eingangsvideos für Video zu Video KI aus?",
+    "a6": "Beste Video-Stiltransfer-Ergebnisse erzielen Sie mit klaren Motiven, guter Beleuchtung, stabiler Bewegung und gut definierten Merkmalen. Vermeiden Sie schnelle Bewegungen, dunkles oder unscharfes Filmmaterial für eine optimale Video-zu-Video-KI-Verarbeitung. Videos unter 5 Sekunden mit Personen oder klaren Objekten funktionieren am besten für den Video-Stiltransfer."
+  },
+  "seo": {
+    "meta": {
+      "title": "Video zu Video KI | Bester Video-Stiltransfer",
+      "description": "Verwandeln Sie Ihre Videos mit unserer Video-zu-Video KI-Technologie. Der fortschrittliche Video-Stiltransfer konvertiert jede Aufnahme in Anime-, Cartoon-, Manga- und Manhwa-Stile, wobei die ursprüngliche Bewegung und das Timing bewahrt bleiben.",
+      "fullDescription": "Entdecken Sie das revolutionäre Video-zu-Video KI-Tool, das gewöhnliche Videos in Anime-Meisterwerke, Cartoon-Animationen, Manga-Style-Visuals und Manhwa-Ästhetik transformiert. Unsere fortschrittliche Video-Stiltransfer-Technologie sichert die Bewegungsstabilität, während künstlerische Umwandlungen wie Studio Ghibli Anime, koreanischer Manhwa, japanischer Manga, Aquarellanimation und Cartoon-Stile angewendet werden. Perfekt für Content Creator, Animatoren und Künstler, die professionellen Video-Stiltransfer benötigen.",
+      "keywords": "Video zu Video KI, Video-Stiltransfer, Anime-Video-Generator, Cartoon-Video-Filter, Manga-Stiltransfer, Manhwa-Animation, Video zu Anime-Konverter, Animationstool, Cartoon-Video-Macher, Anime-Stil-Video, Manga-Video-Ersteller, Video-Stilisierung, Animierter Video-Generator, Comic-Video-Filter, Anime-Transformation, Cartoon-Stiltransfer"
+    },
+    "hero": {
+      "title": "Video zu Video KI"
+    },
+    "whatIs": {
+      "title": "Was ist Video zu Video KI?",
+      "description": "Video zu Video KI verwandelt gewöhnliche Videos in Anime-, Cartoon-, Manga- und Manhwa-Stil-Animationen mithilfe fortschrittlicher Video-Stiltransfer-Technologie. Unser zweistufiger Prozess wendet zuerst Ihren gewählten Stil auf einen Referenzrahmen an und nutzt diesen, um Ihr gesamtes Video umzuwandeln, während die ursprüngliche Bewegung und das Timing erhalten bleiben. Wählen Sie aus über 20 Stilen, darunter Studio Ghibli Anime, koreanischer Manhwa, japanischer Manga und beliebte Cartoon-Ästhetiken mit unserem Video-Stiltransfer."
+    },
+    "examples": {
+      "title": "Video-zu-Video KI-Beispiele",
+      "description": "Erleben Sie, wie unsere Video-zu-Video KI Videos in beeindruckende Anime-, Cartoon-, Manga- und Manhwa-Stile verwandelt, während eine perfekte Bewegungskonsistenz durch fortschrittlichen Video-Stiltransfer beibehalten wird.",
+      "style": "Verwendeter Stil"
+    },
+    "howToUse": {
+      "title": "Wie man Video zu Video KI benutzt",
+      "steps": [
+        {
+          "title": "Laden Sie Ihr Video hoch",
+          "content": "Laden Sie eine Videodatei (MP4, MOV, AVI) mit einer Länge von bis zu 15 Sekunden und einer Größe von bis zu 50 MB zur Video-zu-Video-AI-Verarbeitung hoch. Videos, die länger als 15 Sekunden sind, werden automatisch für einen optimalen Video-Stiltransfer zugeschnitten."
+        },
+        {
+          "title": "Video-Stiltransfer-Referenz",
+          "content": "Wir extrahieren den ersten Frame und wenden den von Ihnen gewählten Anime-, Cartoon- oder Manga-Stil an, um eine Referenz für eine konsistente Video-Stiltransformation zu erstellen."
+        },
+        {
+          "title": "Wählen Sie einen künstlerischen Stil",
+          "content": "Wählen Sie aus über 20 voreingestellten Stilen wie Studio Ghibli Anime, koreanisches Manhwa oder japanisches Manga oder erstellen Sie eigene Stile mit Textvorgaben und Referenzbildern für den Video-Stiltransfer."
+        },
+        {
+          "title": "Generieren Sie Video-zu-Video AI",
+          "content": "Unsere Video-zu-Video-AI transformiert Ihr komplettes Video anhand des gestylten Referenzframes und bewahrt dabei alle ursprünglichen Bewegungen, Ausdrücke und das Timing durch fortschrittlichen Video-Stiltransfer."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Warum Video-zu-Video KI verwenden",
+      "description": "Unsere Video-zu-Video KI bietet den fortschrittlichsten Video-Stiltransfer mit Bewegungserhaltung, umfangreichen Stilmöglichkeiten und transparenter Preisgestaltung.",
+      "features": [
+        {
+          "title": "Perfekte Bewegungserhaltung",
+          "content": "Die Video-zu-Video-AI erhält jedes Detail der ursprünglichen Bewegung, Gesichtsausdrücke und das Timing, während Anime-, Cartoon- oder Manga-Stile durchgehend konsistent im Video-Stiltransfer angewendet werden.",
+          "icon": "🎬"
+        },
+        {
+          "title": "20+ Video-Stiltransfer-Optionen",
+          "content": "Wählen Sie aus Studio Ghibli Anime, koreanisches Manhwa, japanisches Manga, Disney Cartoon, Naruto-Stil und mehr. Erstellen Sie benutzerdefinierte Video-Stiltransfers mit Textvorgaben oder Referenzbildern mit der Video-zu-Video-AI.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professionelle Ausgabequalität",
+          "content": "Erstellen Sie hochauflösende Anime- und Cartoon-Videos mit konsistenter Anwendung des Video-Stiltransfers, fließenden Übergängen und ohne Flackern oder Artefakte mit unserer Video-zu-Video-AI.",
+          "icon": "✨"
+        },
+        {
+          "title": "Intelligentes Preissystem",
+          "content": "Transparente Preisgestaltung mit separaten Kosten für den Video-Stiltransfer und die Videogenerierung. Experimentieren Sie mit verschiedenen Stilen ohne zusätzliche Videokosten mit der Video-zu-Video-AI.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Einfacher Zwei-Schritte-Prozess",
+          "content": "Einfacher Video-zu-Video-AI-Workflow: Video hochladen, Video-Stiltransfer auf Referenzframe anwenden, komplettes Video generieren. Keine technischen Fachkenntnisse erforderlich mit Echtzeit-Fortschrittsverfolgung.",
+          "icon": "👌"
+        },
+        {
+          "title": "Automatische Optimierung",
+          "content": "Intelligente Video-zu-Video-AI-Verarbeitung mit automatischem Zuschneiden, Formatunterstützung (MP4, MOV, AVI) und kostenbasierter Kalkulation zur Dauer für optimalen Video-Stiltransfer.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Video-zu-Video KI FAQ",
+      "description": "Häufige Fragen zu unserem Video-zu-Video KI-Tool, dem Video-Stiltransfer-Prozess, den Kosten und Best Practices.",
+      "q1": "Wie funktioniert Video-zu-Video KI?",
+      "a1": "Unsere Video-zu-Video KI verwendet einen zweistufigen Video-Stiltransfer-Prozess: 1) Einen Referenzrahmen extrahieren und Ihren gewählten Anime-/Cartoon-Stil anwenden, 2) Das gesamte Video mit diesem stilisierten Rahmen transformieren, während die ursprüngliche Bewegung und das Timing erhalten bleiben. Dies gewährleistet eine konsistente Anwendung des Video-Stiltransfers über alle Frames.",
+      "q2": "Welche Videoformatanforderungen gibt es für die Video-zu-Video KI?",
+      "a2": "Wir unterstützen die Formate MP4, MOV und AVI mit einer maximalen Dateigröße von 50 MB für die Video-zu-Video KI-Verarbeitung. Videos sind auf 15 Sekunden begrenzt und werden automatisch gekürzt, wenn sie länger sind, um einen optimalen Video-Stiltransfer-Prozess und Kosteneffizienz zu gewährleisten.",
+      "q3": "Wie lange dauert der Video-Stiltransfer?",
+      "a3": "Die gesamte Video-zu-Video KI-Verarbeitung dauert 5-10 Minuten: Video-Stiltransfer (1-3 Minuten) und Videoerstellung (3-7 Minuten). Sie können den Fortschritt des Video-Stiltransfers in Echtzeit überwachen.",
+      "q4": "Welche Kosten entstehen für die Video-zu-Video KI?",
+      "a4": "Es entstehen separate Gebühren für den Video-Stiltransfer und die Videoerstellung, basierend auf der Dauer. Die Kosten für die Video-zu-Video KI werden in Echtzeit vor der Verarbeitung angezeigt, und Credits werden erst nach erfolgreicher Video-Stiltransfer-Vervollständigung abgezogen.",
+      "q5": "Kann ich benutzerdefinierte Video-Stiltransfer-Stile erstellen?",
+      "a5": "Ja! Wählen Sie aus über 20 voreingestellten Vorlagen (Studio Ghibli, koreanischer Manhwa, japanischer Manga, etc.), schreiben Sie benutzerdefinierte Textprompts oder laden Sie Referenzbilder für einzigartige Video-Stiltransfer-Transformationen mit unserer Video-zu-Video KI hoch.",
+      "q6": "Was sind gute Eingabevideos für die Video-zu-Video KI?",
+      "a6": "Die besten Ergebnisse beim Video-Stiltransfer erhalten Sie mit klaren Motiven, guter Beleuchtung, stabilen Bewegungen und gut definierten Merkmalen. Vermeiden Sie schnelle Bewegungen, dunkles oder verschwommenes Filmmaterial für eine optimale Verarbeitung der Video-zu-Video KI. Videos unter 5 Sekunden mit Personen oder klaren Objekten funktionieren am besten für den Video-Stiltransfer."
+    },
+    "cta": {
+      "title": "Verwandle Videos HEUTE KOSTENLOS mit unserer Video-zu-Video-KI!",
+      "description": "Erstelle beeindruckende Anime- und Cartoon-Videos mit fortschrittlicher Videostil-Transfertechnologie.",
+      "buttonText": "Teste unsere Video-zu-Video-KI kostenlos"
+    }
+  },
+  "toast": {
+    "video": {
+      "styleTransfer": {
+        "actTwoVideoTooShort": "Für den zweiten Akt muss das Referenzvideo mindestens {{min}} Sekunden lang sein."
+      }
+    }
+  }
+}

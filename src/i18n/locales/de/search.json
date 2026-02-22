@@ -1,0 +1,21 @@
+{
+  "title": "Suche",
+  "placeholder": "Suche nach Werken, Charakteren, Benutzern...",
+  "input_placeholder": "Suchen",
+  "history": "Suchverlauf",
+  "clear": "Löschen",
+  "tags": "Schlagwörter",
+  "no_results": "Keine Ergebnisse gefunden",
+  "filter": {
+    "all": "Alle",
+    "users": "Benutzer",
+    "characters": "Charaktere",
+    "templates": "Vorlagen",
+    "posts": "Beiträge",
+    "tags": "Tags"
+  },
+  "see_all": "Alle anzeigen",
+  "followers": "Abonnenten",
+  "follow": "Folgen",
+  "following": "Abonniert"
+}

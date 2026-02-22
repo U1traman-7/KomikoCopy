@@ -1,0 +1,161 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Texto a Video",
+      "description": "Transforma texto en videos impresionantes sin esfuerzo con tecnología avanzada de IA. Crea videos dinámicos y de alta calidad a partir de indicaciones de texto utilizando la generación de video con IA de vanguardia.",
+      "fullDescription": "Descubre el futuro de la creación de videos con generadores de texto a video impulsados por IA, diseñados para creadores de todos los estilos e industrias. Convierte tu texto descriptivo en videos vibrantes de alta definición con modelos de IA que interpretan elementos narrativos y producen secuencias cinematográficas. Aprovecha las herramientas de texto a video con IA para acelerar la producción, potenciar la creatividad y generar contenido de video atractivo, ideal para redes sociales, marketing, narración y proyectos profesionales. Esta tecnología de IA permite a los usuarios crear videos visualmente ricos rápidamente sin necesidad de habilidades avanzadas de edición de video.",
+      "keywords": "texto a video, IA texto a video, generador de video IA, animación IA, texto a video animado, creación de video IA, generación de video basada en texto, producción de video IA, creador de video IA, video generado por texto, video a partir de texto, creación de contenido IA, software de video IA, generación de video automatizada, tecnología de video IA"
+    },
+    "hero": {
+      "title": "Texto a Video",
+      "description": "Convierte tus textos en videos cautivadores y de calidad profesional sin esfuerzo. Utiliza la tecnología de IA para crear videos animados rápidos, expresivos y visualmente impactantes a partir de descripciones textuales."
+    },
+    "whatIs": {
+      "title": "¿Qué es Texto a Video?",
+      "description": "La tecnología de texto a video utiliza el aprendizaje profundo y el procesamiento del lenguaje natural para transformar indicaciones de texto detalladas en videos completos. Esta avanzada tecnología de video con IA comprende las descripciones narrativas y produce automáticamente contenido de video fluido y atractivo que da vida a historias e ideas."
+    },
+    "examples": {
+      "title": "Ejemplos de Texto a Video",
+      "description": "Explora una amplia gama de videos generados por IA a partir de indicaciones de texto. Observa cómo la IA interpreta tu escritura y la transforma en secuencias con movimiento dinámico, efectos realistas y una narrativa cinematográfica.",
+      "inputAlt": "Ejemplo de entrada de texto para video de IA",
+      "inputLabel": "Indicación de texto",
+      "outputLabel": "Video generado",
+      "videoNotSupported": "Tu navegador no admite la reproducción de video.",
+      "example1": {
+        "details": "Indicación: 'Un horizonte urbano futurista al atardecer con coches voladores y luces de neón, tomas panorámicas cinematográficas y transiciones suaves.'"
+      },
+      "example2": {
+        "details": "Indicación: 'Una escena de bosque sereno con vida silvestre animada, luz solar suave filtrándose a través de los árboles y sonidos ambientales naturales.'"
+      },
+      "example3": {
+        "details": "Indicación: 'Escena de batalla épica entre caballeros y dragones, reflejos detallados de armadura y efectos dramáticos en cámara lenta.'"
+      },
+      "example4": {
+        "details": "Indicación: 'Escena romántica junto al océano al atardecer con olas rompiendo suavemente y linternas brillantes flotando en el cielo.'"
+      }
+    },
+    "howToUse": {
+      "title": "Cómo usar Texto a Video",
+      "steps": [
+        {
+          "title": "Escribe una descripción de texto detallada",
+          "content": "Redacta una indicación de texto vívida que describa la escena, los personajes, las acciones y las emociones que deseas capturar visualmente en tu video."
+        },
+        {
+          "title": "Elige un modelo de generación de video con IA",
+          "content": "Selecciona el modelo de IA que mejor se adapte al estilo y la calidad de video que deseas para generar tu video."
+        },
+        {
+          "title": "Genera el video",
+          "content": "Inicia el proceso de IA para transformar tu texto en un video animado fluido y cautivador."
+        },
+        {
+          "title": "Descarga y comparte",
+          "content": "Exporta tu video generado en formatos populares como MP4 y compártelo en plataformas como redes sociales, presentaciones y campañas de marketing."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "¿Por qué usar Texto a Video?",
+      "description": "Descubre las potentes ventajas de la tecnología de IA para crear contenido de video atractivo de forma rápida y eficiente. Perfecto para creadores, profesionales del marketing y narradores que buscan mejorar la producción de medios visuales.",
+      "features": [
+        {
+          "title": "Generación de video con IA de vanguardia",
+          "content": "Aprovecha la tecnología de aprendizaje profundo de última generación para generar videos con calidad cinematográfica, movimiento suave y efectos visuales detallados.",
+          "icon": "🤖"
+        },
+        {
+          "title": "No se necesitan habilidades técnicas de video",
+          "content": "Crea videos profesionales simplemente proporcionando entradas de texto. La IA se encarga automáticamente de la edición y animación de video complejas.",
+          "icon": "👌"
+        },
+        {
+          "title": "Tiempo de producción acelerado",
+          "content": "Reduce significativamente el tiempo de creación de videos, lo que permite una entrega de contenido más rápida y mantenerse al día con las demandas de contenido de ritmo rápido.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Aumenta la participación de la audiencia",
+          "content": "Produce contenido de video cautivador optimizado para redes sociales, publicidad, marketing digital y narración para atraer y retener a los espectadores.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Amplía las posibilidades creativas",
+          "content": "Céntrate en la narrativa y la creatividad mientras la IA transforma las ideas en videos de alta calidad, fomentando la innovación y la experimentación.",
+          "icon": "✨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Texto a Video",
+      "description": "Encuentra respuestas a preguntas frecuentes sobre la tecnología de IA para crear videos, que ayudan a los creadores a comprender y aprovechar al máximo esta potente herramienta.",
+      "q1": "¿Qué es Texto a Video?",
+      "a1": "Texto a video es una tecnología innovadora que transforma el texto descriptivo en contenido de video animado utilizando inteligencia artificial y algoritmos de aprendizaje automático.",
+      "q2": "¿Cómo creo videos usando texto a video?",
+      "a2": "Simplemente proporciona descripciones textuales detalladas de tus escenas, selecciona un modelo de generación de video con IA y deja que la IA cree el video por ti.",
+      "q3": "¿Qué tipo de videos puede crear texto a video?",
+      "a3": "La IA puede generar una amplia gama de videos, desde animaciones cinematográficas hasta clips para redes sociales, guiones gráficos, videos explicativos y más, todo basado en tus indicaciones de texto.",
+      "q4": "¿Necesito habilidades de edición de video para usar texto a video?",
+      "a4": "No se necesita experiencia previa en edición de video, ya que la IA se encarga de todos los aspectos de animación y producción en función de tu entrada de texto.",
+      "q5": "¿Es rápida la tecnología de texto a video?",
+      "a5": "Sí, las herramientas de IA pueden producir videos de alta calidad en minutos, lo que acelera enormemente los flujos de trabajo de producción de video.",
+      "q6": "¿Puedo descargar y compartir videos generados por IA?",
+      "a6": "Sí, los videos se pueden exportar en formatos comunes como MP4 para compartirlos fácilmente en canales sociales, presentaciones y plataformas de marketing.",
+      "q7": "¿Puedo usar texto a video en dispositivos móviles?",
+      "a7": "Muchas plataformas de texto a video con IA admiten el acceso web o de aplicaciones en teléfonos inteligentes y tabletas para un uso conveniente en cualquier lugar.",
+      "q8": "¿Qué debo incluir en mis indicaciones de texto?",
+      "a8": "Incluye descripciones vívidas de personajes, escenarios, acciones, emociones y estilos visuales para guiar a la IA en la creación de videos detallados y atractivos.",
+      "q9": "¿Por qué es beneficioso el texto a video?",
+      "a9": "Permite una creación de video más rápida, rentable y accesible, lo que permite a los creadores producir imágenes profesionales sin software o habilidades complejas."
+    },
+    "placeholder": "Describe el video o la animación que te gustaría generar."
+  },
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modelo: Seedance Pro",
+      "description": "Indicación: Toma de cabina POV de un avión volando rápido\n[corte] toma lateral en primer plano de la cara de un piloto\n [corte] toma sobre el hombro - frente al piloto - cabina del avión",
+      "videoUrl": "/images/pages/text-to-video/pilot.webm"
+    },
+    {
+      "id": 2,
+      "title": "Modelo: Seedance Pro",
+      "description": "Indicación: Bebés flamencos aprendiendo a caminar.",
+      "videoUrl": "/images/pages/text-to-video/bird.webm"
+    },
+    {
+      "id": 3,
+      "title": "Modelo: Vidu Q1",
+      "description": "Indicación: Una chica camina por una calle de Tokio iluminada con luces de neón por la noche, lluvia cayendo, iluminación cinematográfica, estilo anime",
+      "videoUrl": "/images/pages/text-to-video/walking.webm"
+    },
+    {
+      "id": 4,
+      "title": "Modelo: Vidu Q1",
+      "description": "Indicación: Elegante mujer indonesia joven con una cola de caballo larga, negra y elegante, y aretes colgantes",
+      "videoUrl": "/images/pages/text-to-video/girl.webm"
+    },
+    {
+      "id": 5,
+      "title": "Modelo: Hailuo 02",
+      "description": "Indicación: Toma estilo anime: dos guerreros chocan en el centro de la arena: los puños vuelan, las patadas aterrizan, el suelo se agrieta debajo de ellos. La cámara tiembla con cada impacto mientras la pelea explota en un borrón de movimiento. Las ondas de choque se propagan por el aire, los escombros se dispersan y la arena tiembla bajo la fuerza de sus golpes. Sin pausas, sin palabras, solo un combate implacable de alta velocidad desde todos los ángulos.",
+      "videoUrl": "/images/pages/text-to-video/solider.webm"
+    },
+    {
+      "id": 6,
+      "title": "Modelo: Hailuo 02",
+      "description": "Indicación: Una empresaria entra en un ascensor, presiona un botón y, cuando las puertas se cierran, el espacio interior comienza a girar y desplegarse como un origami, revelando un descenso en caída libre a través de capas de entornos simbólicos (oficina, jungla, templo), cada uno cambiando rápidamente, filmado con un movimiento de cámara de simulación de una sola toma y transiciones de paralaje rápidas, bajo una iluminación abstracta parpadeante y un diseño de sonido surrealista, estableciendo un estado de ánimo de ensueño subconsciente de alto concepto.",
+      "videoUrl": "/images/pages/text-to-video/woman.webm"
+    }
+  ],
+  "originalKeyword": "Text to Video",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

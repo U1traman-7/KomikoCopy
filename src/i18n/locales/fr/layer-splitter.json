@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "AI Layer Splitter - KomikoAI",
+    "og": {
+      "title": "Layer Splitter - KomikoAI",
+      "description": "Séparez vos images avec l'IA. Téléchargez votre image et laissez l'intelligence artificielle dissocier automatiquement les différents éléments pour l'animation et le développement de jeux.",
+      "url": "https://komiko.app/layer_splitter"
+    },
+    "twitter": {
+      "title": "Layer Splitter - KomikoAI",
+      "description": "Séparez vos images avec l'IA. Téléchargez votre image et laissez l'intelligence artificielle dissocier automatiquement les différents éléments pour l'animation et le développement de jeux."
+    },
+    "description": "Séparez vos images avec l'IA. Téléchargez votre image et laissez l'intelligence artificielle dissocier automatiquement les différents éléments pour l'animation et le développement de jeux."
+  },
+  "hero": {
+    "title": "AI Layer Splitter",
+    "description": "Dissociez vos images en calques distincts grâce à l'IA. Téléchargez une seule image et obtenez instantanément des calques de composants individuels ! Notre IA puissante analyse vos illustrations et sépare les éléments tels que les personnages, les arrière-plans, les objets, etc., en calques distincts. Idéal pour les artistes, les animateurs et les développeurs de jeux qui souhaitent créer des calques prêts pour l'animation."
+  },
+  "input": {
+    "title": "Entrée",
+    "upload": {
+      "label": "Téléverser une image",
+      "tooltip": "Téléverser une image vers le séparateur de calques"
+    }
+  },
+  "output": {
+    "title": "Résultats de la séparation",
+    "empty": {
+      "title": "Vos résultats de séparation apparaîtront ici",
+      "subtitle": "Téléversez une image pour commencer"
+    }
+  },
+  "tutorial": {
+    "title": "Comment séparer votre image avec l'IA",
+    "description": "Séparez automatiquement vos images en calques individuels grâce au séparateur de calques IA de KomikoAI en quelques étapes simples.",
+    "steps": {
+      "1": {
+        "title": "Étape 1 : Téléverser l'image",
+        "content": "Téléversez votre image dans le séparateur de calques IA. Les formats JPG et PNG sont pris en charge."
+      },
+      "2": {
+        "title": "Étape 2 : Séparer et télécharger",
+        "content": "Cliquez sur « Séparer l’image » et attendez que l’IA segmente votre image. Téléchargez les calques individuels pour votre projet !"
+      }
+    }
+  },
+  "examples": {
+    "title": "Exemples de séparation de calques avec l'IA",
+    "description": "Découvrez les résultats de la séparation de calques avec l'IA générés par les utilisateurs de KomikoAI",
+    "labels": {
+      "original": "Image originale",
+      "split": "Calque séparé"
+    },
+    "captions": {
+      "1": "Calque d'arrière-plan séparé du personnage",
+      "2": "Calque de personnage extrait de l'image d'entrée",
+      "3": "Plusieurs calques séparés d'une seule image d'entrée"
+    }
+  },
+  "features": {
+    "title": "Pourquoi séparer vos images avec l'IA",
+    "description": "Le séparateur de calques IA de KomikoAI facilite la dissociation des composants d'image pour tous, des débutants aux artistes professionnels et aux développeurs de jeux.",
+    "items": {
+      "precise": {
+        "title": "Séparation précise",
+        "content": "Notre IA détecte et sépare avec précision les différents éléments de votre image, créant ainsi des calques individuels nets pour chaque composant."
+      },
+      "timeSaving": {
+        "title": "Gain de temps",
+        "content": "Évitez le processus fastidieux de sélection et de masquage manuel. Obtenez des calques séparés en quelques secondes au lieu d'heures de travail minutieux."
+      },
+      "flexible": {
+        "title": "Montage flexible",
+        "content": "Modifiez les composants individuels séparément et recombinez-les pour un contrôle créatif optimal de vos images."
+      },
+      "gameAssets": {
+        "title": "Création d'éléments de jeu",
+        "content": "Créez facilement des sprites et des éléments de jeu distincts à partir d'images complexes. Parfait pour les développeurs de jeux qui ont besoin d'isoler les personnages et les objets."
+      },
+      "animation": {
+        "title": "Prêt pour l'animation",
+        "content": "Obtenez des calques prêts pour l'animation qui peuvent être immédiatement importés dans votre logiciel d'animation préféré."
+      },
+      "quality": {
+        "title": "Sorties de haute qualité",
+        "content": "Téléchargez des calques séparés de qualité professionnelle, parfaits pour les projets commerciaux."
+      },
+      "workflow": {
+        "title": "Flux de travail simplifié",
+        "content": "Intégrez de manière transparente la séparation de calques par l'IA dans votre flux de travail de conception, d'illustration ou de développement de jeux pour gagner du temps et des ressources."
+      },
+      "background": {
+        "title": "Suppression de l'arrière-plan",
+        "content": "Séparez facilement les sujets de premier plan des arrière-plans sans techniques de masquage complexes ni écrans verts."
+      },
+      "creative": {
+        "title": "Liberté de création",
+        "content": "Mélangez et associez des éléments provenant de différentes images en les divisant d'abord en calques de composants. Créez de nouvelles compositions en toute simplicité."
+      }
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes sur la séparation de calques avec l'IA",
+    "description": "Trouvez des réponses aux questions fréquemment posées sur la séparation des images en calques avec l'IA.",
+    "questions": {
+      "1": {
+        "question": "Qu'est-ce que la séparation de calques par l'IA ?",
+        "answer": "La séparation de calques par l'IA est un processus qui utilise l'intelligence artificielle pour séparer automatiquement une image en calques de composants individuels. L'outil de séparation de calques par l'IA de KomikoAI analyse vos illustrations et identifie différents éléments tels que les personnages, les arrière-plans et les objets, créant ainsi des calques distincts qui peuvent être modifiés indépendamment."
+      },
+      "2": {
+        "question": "Comment séparer des images en calques avec l'IA ?",
+        "answer": "Vous pouvez séparer vos images avec l'IA de KomikoAI en deux étapes faciles :\n1. Téléversez votre image dans le séparateur de calques IA\n2. Cliquez sur le bouton « Séparer l'image » pour lancer le processus de séparation"
+      },
+      "3": {
+        "question": "Puis-je utiliser l'IA pour séparer des éléments dans mes images ?",
+        "answer": "Oui, vous pouvez utiliser l'IA pour séparer des éléments dans vos images. L'outil de séparation de calques par l'IA de KomikoAI peut analyser vos images et identifier différents composants, créant ainsi des calques individuels pour chaque élément. Il est ainsi facile de modifier des parties spécifiques de votre image sans affecter l'ensemble de la composition."
+      },
+      "4": {
+        "question": "Comment fonctionne la séparation de calques par l'IA ?",
+        "answer": "La séparation de calques par l'IA utilise des modèles d'apprentissage profond avancés entraînés sur des millions d'images pour reconnaître différents éléments dans une image. L'IA analyse les motifs, les bords, les couleurs et le contexte pour déterminer quels pixels appartiennent à quels objets, puis crée des calques distincts pour chaque composant identifié."
+      },
+      "5": {
+        "question": "Quels sont les avantages de la séparation de calques par l'IA ?",
+        "answer": "La séparation des images avec l'IA présente divers avantages :\n- Gain de temps par rapport au masquage et à la sélection manuels\n- Produit des calques nets et de haute qualité avec une détection précise des bords\n- Permet de modifier facilement les composants individuels\n- Idéal pour créer des éléments de jeu et des éléments d'animation"
+      },
+      "6": {
+        "question": "Puis-je utiliser des calques séparés par l'IA à des fins commerciales ?",
+        "answer": "Oui, vous pouvez utiliser des calques séparés générés par l'IA à des fins personnelles et commerciales. Cela le rend idéal pour le développement de jeux, les projets de conception et les illustrations professionnelles. Cependant, assurez-vous de respecter les conditions d'utilisation de KomikoAI."
+      },
+      "7": {
+        "question": "Quels formats et tailles sont pris en charge ?",
+        "answer": "L'IA prend en charge les images aux formats JPG et PNG. Les calques de sortie conserveront la résolution d'origine de l'image pour une qualité maximale."
+      },
+      "8": {
+        "question": "Le séparateur de calques par l'IA est-il gratuit ?",
+        "answer": "KomikoAI offre des zaps (crédits) gratuits pour que vous puissiez essayer l'outil. Vous pouvez également acheter des forfaits payants pour obtenir plus de zaps si vous avez besoin de plus d'utilisation, ainsi que des fonctionnalités avancées telles qu'un traitement plus rapide et des résolutions plus élevées."
+      },
+      "9": {
+        "question": "Dois-je ajouter des invites pour la séparation des calques ?",
+        "answer": "Contrairement à certains outils d'IA, notre séparateur de calques ne nécessite pas d'invites détaillées. L'IA est entraînée pour identifier et séparer intelligemment les composants de l'image automatiquement. Téléversez simplement votre image et laissez l'IA faire le travail."
+      },
+      "10": {
+        "question": "Quelles sont les limites de la séparation de calques par l'IA ?",
+        "answer": "Bien que la séparation de calques par l'IA soit un outil puissant, elle présente certaines limites :\n- Scènes complexes : Les images très chargées ou complexes peuvent entraîner le regroupement de certains éléments\n- Transparence : Certains détails fins comme les cheveux ou la fourrure peuvent être difficiles à séparer parfaitement\n- Chevauchement d'objets : Les éléments qui se chevauchent de manière significative peuvent être difficiles à séparer complètement\nMalgré ces limites, la séparation de calques par l'IA peut accélérer considérablement les flux de travail des artistes, des concepteurs et des développeurs."
+      },
+      "11": {
+        "question": "Ai-je besoin de compétences en conception pour utiliser la séparation de calques par l'IA ?",
+        "answer": "Non, vous n'avez pas besoin de compétences avancées en conception pour utiliser la séparation de calques par l'IA.\n- Pour les concepteurs : Si vous êtes un professionnel, cet outil peut accélérer considérablement votre flux de travail\n- Pour les débutants : Vous pouvez facilement séparer les éléments d'image sans avoir besoin de maîtriser des techniques de sélection complexes\nCet outil est conçu pour être convivial pour tous, que vous soyez un concepteur expérimenté ou que vous débutiez."
+      },
+      "12": {
+        "question": "Quels types d'images fonctionnent le mieux avec la séparation de calques par l'IA ?",
+        "answer": "Le séparateur de calques par l'IA fonctionne bien avec différents types d'images :\n- Éléments de jeu et conceptions de personnages\n- Illustrations et œuvres d'art\n- Photos avec des éléments de premier plan et d'arrière-plan distincts\n- Images de produits\n- Images de style dessin animé et animé\n- Œuvres d'art numériques avec des composants clairs\nPour de meilleurs résultats, utilisez des images avec un bon contraste entre les différents éléments."
+      },
+      "13": {
+        "question": "Comment puis-je obtenir les meilleurs résultats de la séparation de calques par l'IA ?",
+        "answer": "Suivez ces conseils pour une séparation optimale des calques :\n- Utilisez des images avec un bon contraste entre les éléments\n- Assurez-vous que votre image a une résolution suffisante\n- Les images avec des limites claires entre les éléments fonctionnent mieux\n- Évitez les scènes extrêmement encombrées ou complexes lorsque cela est possible\n- Utilisez le format PNG pour obtenir les meilleurs résultats de qualité"
+      },
+      "14": {
+        "question": "Comment la séparation de calques par l'IA se compare-t-elle à la séparation manuelle ?",
+        "answer": "La séparation de calques par l'IA offre un gain de temps considérable par rapport au masquage et à la sélection manuels, réduisant ainsi des heures de travail à quelques minutes. Bien qu'elle ne puisse pas remplacer complètement les techniques professionnelles pour les projets les plus complexes, c'est un excellent outil pour la création rapide d'éléments, le développement de jeux et les flux de travail de conception. L'IA comprend les limites des objets et peut créer des séparations nettes qui prendraient beaucoup de temps et de compétences à réaliser manuellement."
+      },
+      "15": {
+        "question": "Puis-je modifier les calques séparés par l'IA ?",
+        "answer": "Oui, vous pouvez modifier et affiner davantage les calques générés par l'IA à l'aide de votre logiciel de conception préféré. Les calques générés par l'IA constituent un excellent point de départ que vous pouvez améliorer avec des détails ou des corrections supplémentaires au besoin."
+      },
+      "16": {
+        "question": "Quelles sont les façons créatives d'utiliser la séparation de calques par l'IA ?",
+        "answer": "La séparation de calques par l'IA peut être utilisée pour :\n- Développement de jeux - création de sprites de personnages et d'arrière-plans distincts\n- Animation - préparation des éléments pour les animations graphiques\n- Conception graphique - isolation des composants pour la composition créative\n- Retouche photo - séparation des sujets des arrière-plans\n- Conception UI/UX - création d'éléments d'interface en couches\n- Art numérique - préparation d'œuvres d'art pour des effets dynamiques"
+      },
+      "17": {
+        "question": "Quelle est la précision de la technologie de séparation de calques par l'IA ?",
+        "answer": "Le séparateur de calques par l'IA de KomikoAI utilise une technologie de vision par ordinateur de pointe pour identifier et séparer avec précision les composants d'image. La technologie est particulièrement efficace avec les images qui ont des éléments distincts et un bon contraste. Bien qu'aucun système d'IA ne soit parfait, notre technologie offre des résultats de qualité professionnelle pour la plupart des cas d'utilisation courants, ce qui permet de gagner beaucoup de temps par rapport aux processus manuels."
+      },
+      "18": {
+        "question": "Puis-je utiliser la séparation de calques par l'IA pour des projets d'animation ?",
+        "answer": "Oui, la séparation de calques par l'IA est idéale pour les projets d'animation :\n- Séparez facilement les personnages des arrière-plans pour une animation indépendante\n- Créez des parties mobiles comme des membres, des traits du visage ou des objets\n- Préparez les illustrations existantes pour l'animation sans partir de zéro\n- Générez des fichiers en couches prêts à être importés dans un logiciel d'animation\nCette capacité est particulièrement précieuse pour les animateurs qui cherchent à donner vie à des illustrations statiques ou à rationaliser leur pipeline de production."
+      }
+    }
+  },
+  "delete": {
+    "title": "Confirmation de suppression",
+    "message": "Êtes-vous sûr de vouloir supprimer cette vidéo ? Cette action est irréversible.",
+    "cancel": "Annuler",
+    "confirm": "Supprimer"
+  },
+  "buttons": {
+    "split": "Séparer l'image"
+  },
+  "errors": {
+    "noZaps": "Veuillez acheter plus de zaps",
+    "splitFailed": "Échec de la séparation de l'image",
+    "splitSuccess": "Séparation de l'image réussie",
+    "deleteSuccess": "Suppression réussie",
+    "deleteFailed": "Échec de la suppression",
+    "downloadFailed": "Échec du téléchargement"
+  }
+}

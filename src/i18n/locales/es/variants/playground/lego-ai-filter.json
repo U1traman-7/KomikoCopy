@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Filtro de IA de Lego",
+      "description": "Experimente la magia de transformar sus imágenes en vibrante arte de Lego con nuestro potente generador de IA. ¡Comience a crear arte de Lego único y gratuito ahora!",
+      "keywords": "Filtro de IA de Lego, generador de arte de Lego, transformación de fotos con IA, generador de estilo Lego, arte de Lego creado por IA, arte digital lúdico"
+    },
+    "hero": {
+      "title": "Filtro de IA de Lego"
+    },
+    "whatIs": {
+      "title": "¿Qué es el Filtro de IA de Lego?",
+      "description": "El Filtro de IA de Lego es una innovadora herramienta impulsada por IA que transforma cualquier fotografía en una alegre obra de arte con temática de Lego. A través de algoritmos avanzados, captura y recrea su imagen en una estética lúdica y de bloques que evoca los diseños de Lego."
+    },
+    "examples": {
+      "title": "Ejemplos del Filtro de IA de Lego",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cómo usar el Filtro de IA de Lego",
+      "steps": [
+        {
+          "title": "Paso 1: Suba su fotografía",
+          "content": "Comience subiendo una imagen clara y vibrante que le gustaría convertir en arte de Lego. Puede arrastrar y soltar fácilmente el archivo o hacer clic para seleccionar su imagen."
+        },
+        {
+          "title": "Paso 2: Seleccione la plantilla de Lego",
+          "content": "Seleccione la plantilla de Lego para transformar su fotografía con el estilo característico de Lego."
+        },
+        {
+          "title": "Paso 3: Convertir a Lego",
+          "content": "Haga clic en el botón ‘Transformar a estilo Lego’. La IA trabajará rápidamente para producir una divertida representación de su imagen inspirada en Lego."
+        },
+        {
+          "title": "Paso 4: Descargue y comparta",
+          "content": "Una vez completada la transformación, descargue su vibrante creación de Lego. ¡Compártala con amigos o en las redes sociales para mostrar su imaginativo arte de Lego!"
+        }
+      ],
+      "subtitle": "¡Crear un arte encantador al estilo Lego es muy sencillo!"
+    },
+    "benefits": {
+      "title": "¿Por qué elegir el Filtro de IA de Lego?",
+      "description": "Dé vida a su imaginación con obras de arte de Lego únicas.",
+      "features": [
+        {
+          "title": "🎨 Transformaciones fotográficas sencillas",
+          "content": "Transforme imágenes ordinarias en llamativo arte de Lego sin esfuerzo, gracias a nuestra plataforma intuitiva."
+        },
+        {
+          "title": "🌈 Obras de arte divertidas y coloridas",
+          "content": "Disfrute de la interacción lúdica de colores y formas que solo Lego puede ofrecer, haciéndolo atractivo para todas las edades."
+        },
+        {
+          "title": "⚡ Rápido y eficiente",
+          "content": "Experimente un procesamiento rápido con nuestra IA avanzada, que produce su arte de Lego en segundos, perfecto para proyectos creativos inmediatos."
+        },
+        {
+          "title": "💎 Descargas en alta resolución",
+          "content": "Obtenga sus imágenes transformadas en alta calidad. Ya sea para redes sociales o impresiones, sus obras de arte conservan claridad y viveza."
+        },
+        {
+          "title": "🎈 Ideal para proyectos creativos",
+          "content": "Perfecto para artistas, diseñadores y todos aquellos que deseen agregar un toque divertido a sus obras de arte."
+        },
+        {
+          "title": "🗣️ Atrae e inspira",
+          "content": "¡Comparta su obra de arte de Lego y conéctese con una comunidad que celebra la creatividad y el arte!"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Filtro de IA de Lego FAQ",
+      "description": "",
+      "q1": "¿Cuál es el proceso de transformación del Filtro de IA de Lego?",
+      "a1": "El Filtro de IA de Lego emplea algoritmos avanzados de IA para analizar y convertir su fotografía en una obra de arte con temática de Lego, mejorando sus características con texturas de bloques lúdicas y colores brillantes.",
+      "q2": "¿Cuáles son las mejores prácticas para maximizar los resultados del Filtro de IA de Lego?",
+      "a2": "Seleccione imágenes claras con sujetos definidos y colores vibrantes para obtener efectos óptimos de arte de Lego.",
+      "q3": "¿Es gratis el Filtro de IA de Lego?",
+      "a3": "¡Sí! Puede disfrutar del servicio de Filtro de IA de Lego de forma gratuita y dar rienda suelta a su creatividad sin ningún costo.",
+      "q4": "¿Cómo se distingue el Filtro de IA de Lego de otros filtros?",
+      "a4": "El Filtro de IA de Lego captura de manera única la esencia del espíritu lúdico de Lego, transformando sus imágenes en arte humorístico y atractivo, a diferencia de los filtros estándar.",
+      "q5": "¿Puedo usar mis creaciones del Filtro de IA de Lego con fines comerciales?",
+      "a5": "¡Absolutamente! Sus creaciones del Filtro de IA de Lego se pueden utilizar tanto para fines personales como comerciales, siempre y cuando posea los derechos de las imágenes originales."
+    },
+    "cta": {
+      "title": "Comience su viaje con el Filtro de IA de Lego hoy mismo",
+      "description": "¡Sumérjase en el mundo de la creatividad! Comience a transformar sus fotografías en deliciosas obras maestras de Lego ahora y experimente la magia del arte de la IA.",
+      "buttonText": "Transformar a Filtro de IA de Lego Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into Lego AI Filter style",
+  "originalKeyword": "Lego AI Filter",
+  "examples": [
+    {
+      "image": "/images/examples/playground/lego-ai-filter/example_1.webp ",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Lego"
+    },
+    {
+      "image": "/images/examples/playground/lego-ai-filter/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Lego"
+    },
+    {
+      "image": "/images/examples/playground/lego-ai-filter/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Lego"
+    },
+    {
+      "image": "/images/examples/playground/lego-ai-filter/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Lego"
+    }
+  ]
+}

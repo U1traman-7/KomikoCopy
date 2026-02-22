@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Modèles | Komiko AI",
+    "description": "Explorez des préréglages optimisés pour l'anime, adaptés à Playground, aux effets vidéo, à la vidéo vers vidéo et aux outils de danse. Accédez directement aux paramètres parfaits préconfigurés en sélectionnant un modèle.",
+    "keywords": "galerie de modèles d'anime, préréglages Komiko, modèles d'effets vidéo, modèles de cosplay"
+  },
+  "hero": {
+    "eyebrow": "Modèles",
+    "title": "Modèles sélectionnés avec soin et approuvés par les créateurs d'anime",
+    "description": "Trouvez le modèle idéal et lancez-vous dans votre création."
+  },
+  "buttons": {
+    "useTemplate": "Utiliser ce modèle",
+    "preview": "Aperçu",
+    "close": "Fermer",
+    "seeAll": "Voir tout"
+  },
+  "categories": {
+    "featured": {
+      "title": "À la une"
+    },
+    "art": {
+      "title": "Sélection de personnages",
+      "description": "Transformez des portraits en créations professionnelles de personnages - croquis, chibi, sprites, planches d'expression, visions à 360°, et plus encore."
+    },
+    "style": {
+      "title": "Transfert de style",
+      "description": "Préréglages intemporels pour Playground, permettant de transformer des portraits en rendus anime, aquarelle ou cyberpunk soignés."
+    },
+    "imageRestyle": {
+      "title": "Restyliser l'image",
+      "description": "Transformez des images en styles artistiques tels que l'anime, Pixar, manga, aquarelle, néon et plus de 15 autres styles."
+    },
+    "videoRestyle": {
+      "title": "Restyliser la vidéo",
+      "description": "Transformez des séquences vidéo en styles animés comme l'anime, cartoon, croquis, emoji et d'autres styles animés. Transformez des vidéos du monde réel en contenus stylisés."
+    },
+    "merch": {
+      "title": "Studio de produits dérivés",
+      "description": "Générez des images de figurines, de peluches et des planches de personnages prêtes à être exposées, conçues pour les collectionneurs."
+    },
+    "game": {
+      "title": "Jeu",
+      "description": "Créez des vidéos et scènes à l'esthétique jeu, y compris des bandes-annonces de Genshin Impact, des jeux rétro pixel, des évolutions Pokémon, des simulations de rencontres, et bien d'autres esthétiques de jeu."
+    },
+    "movie": {
+      "title": "Film",
+      "description": "Recréez des portraits dans des styles artistiques issus de films et séries - des animations aux films fantastiques et au-delà."
+    },
+    "cosplay": {
+      "title": "Cosplay et tenues",
+      "description": "Préréglages recréant des promos de cosplay, des bandes-annonces et des scènes de cosplay. Inclut également des tenues pour personnages."
+    },
+    "effects": {
+      "title": "Effets vidéo et animations",
+      "description": "Appliquez des effets dynamiques, y compris des animations Live2D avec brise, des visions de personnages à 360°, des transformations de magical girl, des power-ups Super Saiyan, et des clips vidéos stylisés anime/manga."
+    },
+    "dance": {
+      "title": "Danse",
+      "description": "Mouvements vidéo de danse IA optimisés pour la K-pop, les tendances virales TikTok et les chorégraphies de robots stylisées."
+    },
+    "christmas": {
+      "title": "Noël",
+      "description": "Créez des scènes de Noël enchanteuses avec des préréglages magiques pour des personnages festifs et des environnements de fêtes."
+    }
+  }
+}

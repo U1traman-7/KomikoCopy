@@ -1,0 +1,51 @@
+{
+  "loading": "A carregar...",
+  "postNotFound": "Publicação Não Encontrada | KomikoAI",
+  "joinDiscussion": "Participe na discussão!",
+  "theEnd": "- Fim -",
+  "awkwardMessage": "Isto é estranho. Não consigo encontrar a sua publicação.",
+  "comments": "Comentários",
+  "prompt": "Prompt",
+  "following": "A seguir",
+  "follow": "Seguir",
+  "aiAnimation": "Animação com IA",
+  "aiComic": "Quadrinho com IA",
+  "aiArt": "Arte com IA",
+  "createdByWithName": "Criado por {{name}} utilizando {{model}}",
+  "aiTechnology": "Tecnologia com IA",
+  "noDescription": "Descrição não disponível",
+  "createdBy": "Criado por",
+  "contentDetails": "Detalhes do Conteúdo",
+  "mediaInformation": "Informações da Mídia",
+  "userInteraction": "Interação com o Usuário",
+  "aboutThisArt": "Sobre esta Obra com IA",
+  "description": "Descrição",
+  "creationPrompt": "Prompt de Criação",
+  "engagement": "Envolvimento",
+  "defaultVideoDescription": "Animação de IA '{{title}}' criada por {{name}} utilizando a geração de vídeos da KomikoAI AI.",
+  "defaultImageDescription": "Arte de IA '{{title}}' criada por {{name}} utilizando a geração de arte da KomikoAI AI.",
+  "defaultComicDescription": "HQ de IA '{{title}}' criada por {{name}} utilizando a geração de quadrinhos da KomikoAI AI.",
+  "common_keywords": [
+    "Arte de IA",
+    "Arte Digital",
+    "Anime",
+    "Ilustração",
+    "KomikoAI"
+  ],
+  "post_keywords": [
+    "Imagem Gerada por IA",
+    "Arte Digital",
+    "Arte Fantástica"
+  ],
+  "video_keywords": [
+    "Animação de IA",
+    "Vídeo de IA",
+    "Geração de Animação de IA",
+    "Geração de Vídeo de IA",
+    "Gerador de Animação de IA",
+    "Gerador de Vídeo de IA",
+    "Animação Digital",
+    "Animação Gerada por IA",
+    "KomikoAI"
+  ]
+}

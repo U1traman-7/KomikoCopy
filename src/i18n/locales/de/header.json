@@ -1,0 +1,26 @@
+{
+  "logo_alt": "KomikoAI-Logo",
+  "login_button": "Anmelden",
+  "join_discord": "Discord beitreten",
+  "modal": {
+    "create_account_or_signin": "Konto erstellen oder Anmelden",
+    "sign_in": "Anmelden",
+    "trouble_signing_in": "Probleme mit der Anmeldung?"
+  },
+  "promotion_offer": "LIMITIERTES ANGEBOT | Sparen Sie 50 % mit dem Jahresplan! Der Rabatt endet in <time>{{deadline}}</time>",
+  "promotion_offer_mobile": "Sparen Sie 50 %! Der Rabatt endet in <time>{{deadline}}</time>",
+  "promotion_offer_mobile_days": "Sparen Sie 50%! Das Angebot verfällt in <time>{{days}} Tag(en)</time>",
+  "promotion_offer_days": "LIMITIERTES ANGEBOT | Sparen Sie 50% auf den Jahresplan! Das Angebot verfällt in <time>{{days}} Tag(en)</time>",
+  "new_user_promotion": {
+    "title": "EXKLUSIV FÜR NEUE NUTZER | 40 % RABATT auf den Jahresplan! Endet in <time>{{deadline}}</time>",
+    "mobile_title": "40 % RABATT auf den Jahresplan! Endet in <time>{{deadline}}</time>",
+    "mobile_days_title": "40 % RABATT auf den Jahresplan! Endet in <time>{{days}} Tag(e)</time>",
+    "days_title": "EXKLUSIV FÜR NEUE NUTZER | 40 % RABATT auf den Jahresplan! Endet in <time>{{days}} Tag(e)</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "WOCHENEND-BLITZVERKAUF: 30 % RABATT auf den Jahresplan! Endet in <time>{{deadline}}</time>",
+    "mobile_title": "30 % RABATT auf den Jahresplan! Endet in <time>{{deadline}}</time>",
+    "mobile_days_title": "30 % RABATT auf den Jahresplan! Endet in <time>{{days}} Tag(e)</time>",
+    "days_title": "WOCHENEND-BLITZVERKAUF: 30 % RABATT auf den Jahresplan! Endet in <time>{{days}} Tag(e)</time>"
+  }
+}

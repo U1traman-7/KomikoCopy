@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clear Service Worker</title>
+    <meta charset="utf-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        .status {
+            margin: 20px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+    </style>
+</head>
+<body>
+    <h1>Service Worker 清理工具</h1>
+    <p>如果您的网站在开发环境中出现不断刷新的问题，可以使用此工具清理 Service Worker。</p>
+    
+    <button onclick="clearServiceWorkers()">清理所有 Service Workers</button>
+    <button onclick="clearCaches()">清理所有缓存</button>
+    <button onclick="clearAll()">清理所有数据 (自动刷新)</button>
+    <button onclick="clearAll(false)">清理所有数据 (手动刷新)</button>
+    
+    <div id="status"></div>
+    
+    <script>
+        function showStatus(message, isError = false) {
+            const statusDiv = document.getElementById('status');
+            statusDiv.innerHTML = `<div class="${isError ? 'error' : 'success'}">${message}</div>`;
+        }
+        
+        async function clearServiceWorkers() {
+            try {
+                if ('serviceWorker' in navigator) {
+                    const registrations = await navigator.serviceWorker.getRegistrations();
+                    
+                    if (registrations.length === 0) {
+                        showStatus('没有找到已注册的 Service Workers');
+                        return;
+                    }
+                    
+                    for (let registration of registrations) {
+                        await registration.unregister();
+                        console.log('SW unregistered:', registration);
+                    }
+                    
+                    showStatus(`成功清理了 ${registrations.length} 个 Service Workers`);
+                } else {
+                    showStatus('您的浏览器不支持 Service Workers', true);
+                }
+            } catch (error) {
+                console.error('Error clearing service workers:', error);
+                showStatus('清理 Service Workers 时出错: ' + error.message, true);
+            }
+        }
+        
+        async function clearCaches() {
+            try {
+                if ('caches' in window) {
+                    const cacheNames = await caches.keys();
+                    
+                    if (cacheNames.length === 0) {
+                        showStatus('没有找到缓存数据');
+                        return;
+                    }
+                    
+                    for (let cacheName of cacheNames) {
+                        await caches.delete(cacheName);
+                        console.log('Cache deleted:', cacheName);
+                    }
+                    
+                    showStatus(`成功清理了 ${cacheNames.length} 个缓存`);
+                } else {
+                    showStatus('您的浏览器不支持 Cache API', true);
+                }
+            } catch (error) {
+                console.error('Error clearing caches:', error);
+                showStatus('清理缓存时出错: ' + error.message, true);
+            }
+        }
+        
+        let refreshTimeout = null;
+        
+        async function clearAll(autoRefresh = true) {
+            try {
+                await clearServiceWorkers();
+                await clearCaches();
+                
+                // 清理 localStorage 和 sessionStorage
+                localStorage.clear();
+                sessionStorage.clear();
+                
+                if (autoRefresh) {
+                    showAutoRefreshCountdown();
+                } else {
+                    showStatus('成功清理所有数据！请手动刷新页面。');
+                }
+            } catch (error) {
+                console.error('Error clearing all data:', error);
+                showStatus('清理数据时出错: ' + error.message, true);
+            }
+        }
+        
+        function showAutoRefreshCountdown() {
+            let countdown = 3;
+            const statusDiv = document.getElementById('status');
+            
+            function updateCountdown() {
+                statusDiv.innerHTML = `
+                    <div class="success">
+                        成功清理所有数据！页面将在 ${countdown} 秒后自动刷新
+                        <br><br>
+                        <button onclick="cancelAutoRefresh()" style="background: #dc3545; margin-top: 10px;">
+                            取消自动刷新
+                        </button>
+                    </div>
+                `;
+                
+                if (countdown > 0) {
+                    countdown--;
+                    refreshTimeout = setTimeout(updateCountdown, 1000);
+                } else {
+                    window.location.reload();
+                }
+            }
+            
+            updateCountdown();
+        }
+        
+        function cancelAutoRefresh() {
+            if (refreshTimeout) {
+                clearTimeout(refreshTimeout);
+                refreshTimeout = null;
+            }
+            showStatus('已取消自动刷新。请手动刷新页面以确保更改生效。');
+        }
+        
+        // 页面加载时检查当前状态
+        window.addEventListener('load', async () => {
+            try {
+                if ('serviceWorker' in navigator) {
+                    const registrations = await navigator.serviceWorker.getRegistrations();
+                    console.log('Current SW registrations:', registrations);
+                }
+                
+                if ('caches' in window) {
+                    const cacheNames = await caches.keys();
+                    console.log('Current caches:', cacheNames);
+                }
+            } catch (error) {
+                console.error('Error checking current state:', error);
+            }
+        });
+    </script>
+</body>
+</html>

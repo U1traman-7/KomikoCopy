@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI画像からアニメーションビデオを生成 - KomikoAI",
+      "description": "AIを活用して、静止画像を魅力的なアニメーションビデオに変換します。写真、アートワーク、イラストから、まるで生きているかのようなアニメーションを数秒で作成可能です。",
+      "keywords": "画像からアニメーション, AIアニメーションジェネレーター, 写真アニメーション, 画像からビデオ, AIビデオクリエイター"
+    },
+    "hero": {
+      "title": "AI画像アニメーションジェネレーター",
+      "subtitle": "AI搭載技術で、静止画像を躍動感あふれるアニメーションビデオに変換"
+    },
+    "whatIs": {
+      "title": "画像アニメーションとは？",
+      "description": "画像アニメーションとは、AI技術を用いて静止画像をダイナミックで生き生きとしたビデオへと変換する技術です。高度なAIが写真、アートワーク、イラストを解析し、自然な動き、呼吸効果、繊細なアニメーションを生成することで、画像に息吹を与え、魅力的な動きで表現します。"
+    },
+    "howToUse": {
+      "title": "画像アニメーションの作成方法",
+      "steps": [
+        {
+          "title": "画像のアップロード",
+          "content": "アニメーションを加えたい写真、アートワーク、イラストを選択してアップロードしてください。"
+        },
+        {
+          "title": "アニメーションの説明",
+          "content": "画像に表現させたい動きの種類をプロンプトで記述してください。"
+        },
+        {
+          "title": "設定の選択",
+          "content": "ビデオのアニメーション時間、スタイル、品質など、お好みの設定を選択してください。"
+        },
+        {
+          "title": "生成とダウンロード",
+          "content": "AIによるアニメーションビデオの生成後、高品質な成果物をダウンロードしてください。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "画像アニメーションジェネレーターを使用するメリット",
+      "description": "複雑なソフトウェアやアニメーションスキルがなくても、静止画像からプロフェッショナルなアニメーションコンテンツを作成できます。",
+      "features": [
+        {
+          "title": "AI搭載のアニメーション",
+          "content": "高度なAI技術により、あらゆる静止画像から自然で生き生きとした動きを生成します。",
+          "icon": "🤖"
+        },
+        {
+          "title": "多様な画像タイプ",
+          "content": "写真、デジタルアート、イラスト、ポートレートなど、様々な画像形式に対応しています。",
+          "icon": "🖼️"
+        },
+        {
+          "title": "自然な動き",
+          "content": "リアルな呼吸、まばたき、髪の動き、繊細な表情のアニメーションを生成します。",
+          "icon": "💫"
+        },
+        {
+          "title": "高品質な出力",
+          "content": "最大1080pの高解像度で、滑らかでプロ品質のアニメーションビデオを作成します。",
+          "icon": "⭐"
+        },
+        {
+          "title": "使いやすさ",
+          "content": "簡単なアップロードと生成プロセスで、アニメーションの経験は不要です。",
+          "icon": "✨"
+        },
+        {
+          "title": "高速処理",
+          "content": "画像のアニメーション化を、数時間単位ではなく、数分で完了します。",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "画像アニメーションジェネレーターに関するFAQ",
+      "description": "静止画像からアニメーションを作成する際によくあるご質問",
+      "q1": "アニメーションに適した画像の種類は？",
+      "a1": "被写体が明確な高画質の画像が最適です。写真、デジタルアート、ポートレート、イラストは、解像度が高く特徴が明確であれば、優れた結果が得られます。",
+      "q2": "アニメーションビデオの長さはどのくらいにできますか？",
+      "a2": "5～10秒程度の範囲でアニメーションを作成可能です。ソーシャルメディアコンテンツ、プレゼンテーションなど、視覚的に訴求力のある表現に最適です。",
+      "q3": "どのようなアニメーション効果を作成できますか？",
+      "a3": "当社のAIは、呼吸、まばたき、髪の動き、表情、そして流れる水や動く雲などの環境効果を含む、様々な効果を生成できます。",
+      "q4": "どのような画像形式がサポートされていますか？",
+      "a4": "最適な処理とアニメーション品質のために、最大10MBまでのJPG、PNG、WEBP形式のファイルなど、一般的な画像形式をサポートしています。",
+      "q5": "アニメーションはどの程度リアルに見えますか？",
+      "a5": "当社のAIは、不自然さを感じさせず、画像をより魅力的に引き立てる、自然なアニメーションを生成します。繊細で生き生きとした動きをご体験ください。",
+      "q6": "アニメーションのスタイルを制御できますか？",
+      "a6": "はい、詳細なプロンプトを通じて、リアルな動き、アーティスティックなエフェクト、様式化されたアニメーションなど、ご希望のアニメーションの種類をご指定いただけます。"
+    }
+  },
+  "content": {
+    "header": {
+      "title": "AI画像アニメーションジェネレーター",
+      "subtitle": "AIで静止画像を魅力的なアニメーションビデオに変換"
+    },
+    "examples": [
+      {
+        "id": 1,
+        "title": "モデル: Veo 3",
+        "description": "Prompt: A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+        "videoUrl": "/images/pages/veo3/example7.webm"
+      },
+      {
+        "id": 2,
+        "title": "モデル: AniSora",
+        "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+        "videoUrl": "/images/pages/anisora/example3.webm"
+      },
+      {
+        "id": 3,
+        "title": "モデル: Anime Pro",
+        "description": "Prompt: Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+      },
+      {
+        "id": 4,
+        "title": "モデル: Marey",
+        "description": "Prompt: Motion Transfer - Advanced motion capture and animation techniques",
+        "videoUrl": "https://framerusercontent.com/assets/G6g5UNTx9dlKbMGdS8Iag4Xas.mp4"
+      },
+      {
+        "id": 5,
+        "title": "モデル: Marey",
+        "description": "Prompt: Dynamic Motion - Fluid and dynamic character animation",
+        "videoUrl": "https://framerusercontent.com/assets/vgdQZ2zcFZsxMSqZv8s2kwwKJ8.mp4"
+      },
+      {
+        "id": 6,
+        "title": "モデル: Anime Pro",
+        "description": "Prompt: The boy slowly lean in, gently holds the girl’s face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+      }
+    ]
+  },
+  "originalKeyword": "Image Animation Generator",
+  "placeholderText": "A beautiful portrait with gentle breathing animation, subtle eye movement, and natural facial expressions"
+}

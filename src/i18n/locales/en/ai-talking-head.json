@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "title": "AI Talking Head - KomikoAI",
+    "description": "Create lifelike talking head videos from images and audio",
+    "fullDescription": "Create lifelike talking head videos from still images using AI. Upload a photo and add audio to generate a realistic talking video.",
+    "keywords": "AI talking head, video generation, image to video, audio to video, AI animation, talking portrait"
+  },
+  "title": "AI Talking Head",
+  "description": "Create lifelike talking head videos from images. Upload a photo and provide audio to make it speak.",
+  "cost": "Cost",
+  "upload": {
+    "image": "Upload Image",
+    "title": "Upload Image",
+    "click": "Click to upload an image",
+    "supports": "Supports JPEG, PNG, WebP",
+    "dropHere": "Drop image here",
+    "orClick": "or click to upload",
+    "fileSize": "Maximum file size: 10MB",
+    "tooltip": "Upload a portrait image and audio",
+    "imageSizeInfo": "Maximum size: {{maxSize}}MB. Large images will be automatically compressed.",
+    "audioSizeInfo": "Maximum audio size: {{maxSize}}MB. Maximum duration: 2 minutes."
+  },
+  "model": {
+    "select": "Select Model",
+    "placeholder": "Choose a model",
+    "loading": "Loading models...",
+    "credits": "credits",
+    "default": "Default model",
+    "description": "Different models offer various styles and quality levels",
+    "aspectRatio": "Aspect Ratio",
+    "resolution": "Resolution",
+    "duration": "Duration",
+    "zaps": "zaps"
+  },
+  "style": {
+    "prompt": "Prompt(Optional)",
+    "placeholder": "Describe the character's emotions and gestures",
+    "examples": "Examples:",
+    "example1": "Professional corporate spokesperson",
+    "example2": "Enthusiastic and energetic",
+    "example3": "Calm and reassuring"
+  },
+  "quality": {
+    "title": "High Quality",
+    "standard": "Standard",
+    "high": "High",
+    "standardDesc": "Good quality for general use",
+    "highDesc": "Better lip synchronization and facial expression",
+    "costs": {
+      "standard": "Standard: {{cost}} credits",
+      "high": "High: {{cost}} credits"
+    }
+  },
+  "zapReminder": "Zaps are calculated based on audio length (default: 10s)",
+  "audioInput": {
+    "label": "Audio Input",
+    "uploadTab": "Upload",
+    "recordTab": "Record",
+    "click": "Click to upload audio",
+    "supports": "Supports MP3, WAV",
+    "fileSize": "Maximum file size: 10MB",
+    "duration": "Maximum duration: 60 seconds",
+    "tips": "Tips for best results:",
+    "tip1": "Use clear audio with minimal background noise",
+    "tip2": "Keep audio under 60 seconds for best quality",
+    "tip3": "Single voice recordings work best",
+    "detectedDuration": "Detected {{duration}}s audio: {{zaps}} Zaps",
+    "defaultDuration": "Zaps are calculated based on audio length (default: 10s)"
+  },
+  "buttons": {
+    "generate": "Generate Talking Head",
+    "generating": "Generating...",
+    "reset": "Reset",
+    "download": "Download Video",
+    "share": "Share",
+    "tryAgain": "Try Again",
+    "saveToGallery": "Save to Gallery"
+  },
+  "result": {
+    "title": "Generated Talking Head",
+    "processing": "Processing your video...",
+    "videoReady": "Your video results will appear here",
+    "shareText": "Share this talking head video",
+    "downloadTip": "Download to save on your device",
+    "videoStats": "{{duration}} seconds, {{resolution}} resolution"
+  },
+  "loading": {
+    "preparing": "Preparing resources...",
+    "processing": "Processing your request...",
+    "analyzing": "Analyzing image...",
+    "generating": "Generating video...",
+    "finalizing": "Finalizing your video..."
+  },
+  "toasts": {
+    "login": "Please sign in to use this feature",
+    "imageRequired": "Please select an image",
+    "audioRequired": "Please select an audio file",
+    "invalidImage": "Please select a valid image file (JPEG, PNG, WebP)",
+    "invalidAudio": "Please select a valid audio file (MP3, WAV)",
+    "audioSelected": "Audio file selected",
+    "success": "Talking head video generated successfully",
+    "failure": "Failed to generate video",
+    "downloadFailed": "Failed to download video",
+    "noCredit": "Insufficient credits",
+    "imageTooLarge": "Image size exceeds the limit of 10MB",
+    "audioTooLarge": "Audio size exceeds the limit of 10MB",
+    "processingQueued": "Your request is in queue. We'll notify you when it's ready.",
+    "savedToGallery": "Video saved to your gallery",
+    "modelRequired": "Please select a model",
+    "modelsFetchFailed": "Failed to fetch models",
+    "usingFallbackModel": "Using default model - couldn't fetch models from server",
+    "fetchFailed": "Failed to fetch videos",
+    "deleteFailed": "Failed to delete video",
+    "deleteSuccess": "Video deleted successfully"
+  },
+  "credit": {
+    "remaining": "{{amount}} credits remaining",
+    "required": "{{amount}} credits required",
+    "insufficientCredits": "You need {{required}} more credits",
+    "getPremium": "Get Premium for more credits"
+  },
+  "errors": {
+    "imageProcessing": "Error processing image",
+    "audioProcessing": "Error processing audio",
+    "serverError": "Server error, please try again later",
+    "networkError": "Network error, please check your connection",
+    "invalidRequest": "Invalid request parameters",
+    "timeout": "Request timed out, please try again"
+  },
+  "modal": {
+    "deleteTitle": "Confirm Delete",
+    "deleteMessage": "Are you sure you want to delete this video? This action cannot be undone.",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "examples": {
+    "title": "AI Talking Head Examples",
+    "description": "See the AI Talking Head in action with these before and after examples. These showcase how still images are transformed into realistic talking videos.",
+    "inputCaption": "Input image",
+    "outputCaption1": "AI-generated talking head video with Japanese synchronized speech",
+    "outputCaption2": "AI-generated talking head video with Japanese synchronized speech",
+    "outputCaption3": "AI-generated talking head video with Spanish synchronized speech",
+    "outputCaption4": "AI-generated talking head video with English synchronized speech",
+    "model": "Model",
+    "transcript": "Transcript",
+    "inputAlt": "Sample input portrait image"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Explore common questions about our AI Talking Head, including its features, capabilities, and how it can revolutionize your video creation process.",
+    "q1": "How do I record audio directly in the browser?",
+    "a1": "Simply click on the 'Record' tab in the audio input section, then press the microphone button to start recording. You'll see a timer counting the duration of your recording. Click the stop button when finished, and you can preview your recording before using it for your talking head video.",
+    "q2": "What types of images work best?",
+    "a2": "Clear frontal portraits work best. The face should be well-lit, with no obstructions, and looking directly at the camera. Neutral expressions typically produce the best results.",
+    "q3": "How long can my audio be?",
+    "a3": "For best results, keep your audio under 60 seconds. Longer content may result in lower quality or synchronization issues.",
+    "q4": "What's the difference between standard and high quality?",
+    "a4": "High quality processing uses more advanced AI models to create more realistic facial movements and better lip-sync. It costs more credits but produces more natural-looking results.",
+    "q5": "Can I use the generated videos commercially?",
+    "a5": "You are responsible for ensuring you have appropriate permission to use both the input image and the resulting video. Always get proper consent from the person in the image before creating or sharing a talking head video.",
+    "q6": "Can I edit the video after it's generated?",
+    "a6": "The generated video can be downloaded and then edited with any video editing software of your choice.",
+    "q7": "Do you store my images or audio?",
+    "a7": "We temporarily process your media to generate the talking head video, but we don't permanently store your original images or audio files.",
+    "q8": "What audio formats are supported?",
+    "a8": "Currently we support MP3 and WAV audio formats.",
+    "q9": "Why does my generated video look unnatural?",
+    "a9": "The quality depends on the input image quality, lighting, angle, facial expression, and audio quality. Try using a clearer portrait photo with good lighting and a neutral expression for best results."
+  },
+  "tips": {
+    "title": "Tips for Best Results",
+    "imageQuality": "Use a high-quality portrait photo with good lighting",
+    "facialExpression": "Choose an image with a neutral facial expression",
+    "framing": "Ensure the face is centered and fully visible in the frame",
+    "audioQuality": "Use clear audio with minimal background noise",
+    "audioLength": "Keep audio under 60 seconds for better synchronization",
+    "resolution": "Higher resolution images produce better results"
+  },
+  "whatIsSection": {
+    "title": "What is AI Talking Head?",
+    "description": "AI Talking Head creates lifelike speaking videos from still images. It animates facial features to match speech patterns using advanced AI technology. Simply upload a portrait photo, record audio or upload an audio file, and watch as the image comes to life!",
+    "recordingCaption": "Record your audio directly in browser"
+  },
+  "whyChoose": {
+    "title": "Why Choose Our AI Talking Head",
+    "description": "Our AI Talking Head offers several advantages that make it the preferred choice for creating realistic talking videos from still images."
+  },
+  "howToSection": {
+    "title": "How to Use AI Talking Head"
+  },
+  "steps": {
+    "step1": {
+      "title": "Upload Image",
+      "content": "Upload a clear portrait photo with good lighting and a neutral expression."
+    },
+    "step2": {
+      "title": "Add Voice",
+      "content": "Record audio directly in your browser or upload an audio file to make your image speak."
+    },
+    "step3": {
+      "title": "Customize Options",
+      "content": "Add an optional prompt and choose your desired aspect ratio and resolution."
+    },
+    "step4": {
+      "title": "Generate & Download",
+      "content": "Click generate, wait for processing, and download your talking head video."
+    }
+  },
+  "features": {
+    "feature1": {
+      "title": "Realistic Lip Sync",
+      "content": "Advanced AI ensures precise synchronization between lip movements and speech for natural-looking results."
+    },
+    "feature2": {
+      "title": "Record Audio Live",
+      "content": "Record your voice directly in the browser or upload pre-recorded audio for ultimate flexibility."
+    },
+    "feature3": {
+      "title": "High Quality Option",
+      "content": "Choose between standard and high quality rendering depending on your needs and preferences."
+    },
+    "feature4": {
+      "title": "Fast Processing",
+      "content": "Our optimized AI generates talking head videos quickly without compromising on quality."
+    },
+    "feature5": {
+      "title": "Easy to Use",
+      "content": "Simple interface makes it easy for anyone to create professional-looking talking head videos without technical expertise."
+    },
+    "feature6": {
+      "title": "Style Customization",
+      "content": "Add prompts to guide the AI in creating videos with specific moods or presentation styles."
+    }
+  },
+  "aspectRatio": {
+    "label": "Aspect Ratio",
+    "landscape": "Landscape",
+    "portrait": "Portrait",
+    "square": "Square"
+  },
+  "resolution": {
+    "label": "Resolution"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Claymation AI Generator | Create Stunning Claymation Animations",
+      "description": "Transform your videos with the Claymation AI Generator. Our advanced technology turns any video into a clay-style animation while preserving original motion and timing.",
+      "fullDescription": "Unleash your creativity with the revolutionary Claymation AI Generator, which converts ordinary videos into captivating clay-style animations. Utilizing advanced Video Style Transfer technology, this tool maintains motion consistency while providing a unique artistic transformation. Perfect for content creators, animators, and artists looking to imbue their projects with a distinct claymation flair.",
+      "keywords": "Claymation AI Generator, clay animation maker, animated clay videos, claymation video tool, clay animated video creator, clay video transformation, clay style transfer, animation tool, video to claymation, creative clay animations, video stylization, animation generator"
+    },
+    "hero": {
+      "title": "Claymation AI Generator"
+    },
+    "whatIs": {
+      "title": "What is the Claymation AI Generator?",
+      "description": "The Claymation AI Generator transforms ordinary videos into mesmerizing clay-style animations using advanced Video Style Transfer technology. With a streamlined two-step process, the tool first applies your chosen clay style to a reference frame and then transforms the entire video while ensuring original motion and timing are preserved. Choose from various clay aesthetics that evoke both nostalgia and creativity."
+    },
+    "examples": {
+      "title": "Claymation AI Generator Examples",
+      "description": "Explore how the Claymation AI Generator transforms videos into stunning clay-style animations while maintaining perfect motion consistency through advanced Video Style Transfer.",
+      "style": "Applied Clay Style"
+    },
+    "howToUse": {
+      "title": "How to Use the Claymation AI Generator",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Upload any video file (MP4, MOV, AVI) up to 15 seconds and 50MB for the Claymation AI Generator processing. Videos longer than 15 seconds are automatically trimmed for optimal clay animation transformation."
+        },
+        {
+          "title": "Select Clay Style",
+          "content": "In the Style Selection section, go to the Change Material category and choose the Claymation style. You can also create custom clay styles using text prompts and reference images."
+        },
+        {
+          "title": "Clay Style Preview & Reference",
+          "content": "We extract the first frame and apply your chosen clay style to create a styled reference. This preview shows how your selected clay style will be applied to the entire video."
+        },
+        {
+          "title": "Generate Claymation Animation",
+          "content": "Our Claymation AI Generator transforms your complete video using the styled reference frame while preserving all original motion, expressions, and timing through advanced animation technology."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use the Claymation AI Generator",
+      "description": "The Claymation AI Generator offers an innovative approach to video transformations, allowing for rich, artistic clay representations with motion preservation, extensive style options, and transparent pricing.",
+      "features": [
+        {
+          "title": "Perfect Motion Preservation",
+          "content": "The Claymation AI Generator maintains every detail of the original motion, facial expressions, and timing while applying clay styles for frame-perfect animation consistency.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Clay Style Customization",
+          "content": "Claymation AI Generator offers clay style transformation, plus the ability to create custom clay styles using text prompts and reference images for personalized claymation effects.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professional Quality Output",
+          "content": "Generate high-definition clay animation videos with smooth transitions and consistent application of clay style transformations, ensuring no flickering or artifacts with the Claymation AI Generator.",
+          "icon": "✨"
+        },
+        {
+          "title": "Smart Cost System",
+          "content": "Enjoy transparent pricing with separate charges for clay style transformation and animation generation. Experiment with different clay aesthetics without incurring unnecessary costs.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Easy Two-Step Process",
+          "content": "Our user-friendly workflow: upload your video, apply clay style transformation to the reference frame, and generate the final animation. No technical expertise is needed, and progress can be tracked in real-time.",
+          "icon": "👌"
+        },
+        {
+          "title": "Automatic Optimization",
+          "content": "The Claymation AI Generator includes automatic trimming and format support (MP4, MOV, AVI) with duration-based cost calculation for seamless animation processing.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Claymation AI Generator FAQ",
+      "description": "Common questions about our Claymation AI Generator and video transformation process, costs, and best practices.",
+      "q1": "How does the Claymation AI Generator work?",
+      "a1": "The Claymation AI Generator uses a two-step process: 1) Extract a reference frame and apply your chosen clay style, 2) Transform the entire video using this styled frame while preserving original motion and timing. This ensures consistent results across all frames.",
+      "q2": "What are the video format requirements for the Claymation AI Generator?",
+      "a2": "We support MP4, MOV, and AVI formats with a maximum file size of 50MB for processing. Videos are limited to 15 seconds and will be trimmed if longer for optimal clay animation performance.",
+      "q3": "How long does the animation process take?",
+      "a3": "Total processing with the Claymation AI Generator takes 5-10 minutes: clay style transformation (1-3 minutes) and video generation (3-7 minutes). You can monitor the progress in real-time.",
+      "q4": "What are the costs associated with the Claymation AI Generator?",
+      "a4": "Charges for clay style transformation and animation generation are based on video duration. Costs are displayed in real-time before processing, and credits are only deducted after successful completion.",
+      "q5": "Can I create custom clay styles?",
+      "a5": "Yes! You can use the clay style, create custom text prompts, or upload reference images to create unique clay animations with the Claymation AI Generator.",
+      "q6": "What makes a good input video for the Claymation AI Generator?",
+      "a6": "For best results, use videos with clear subjects, good lighting, stable motion, and well-defined features. Avoid fast movements, dark or blurry footage for optimal processing. Videos under 5 seconds with clear objects work best."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Claymation Style",
+      "description": "Change Material | Transform original video into clay style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-skiing.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Claymation Style",
+      "description": "Change Material | Transform original video into clay style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Claymation Style",
+      "description": "Change Material | Transform original video into clay style"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Claymation Style",
+      "description": "Change Material | Transform original video into clay style"
+    }
+  ],
+  "originalKeyword": "Claymation AI Generator",
+  "config": {
+    "defaultStyle": "clay"
+  },
+  "pageStructure": [
+    "examples",
+    "benefits",
+    "whatIs",
+    "howToUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

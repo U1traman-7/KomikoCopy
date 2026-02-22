@@ -1,0 +1,26 @@
+{
+  "logo_alt": "Logo KomikoAI",
+  "login_button": "Masuk",
+  "join_discord": "Bergabung dengan Discord",
+  "modal": {
+    "create_account_or_signin": "Buat Akun atau Masuk",
+    "sign_in": "Masuk",
+    "trouble_signing_in": "Ada masalah saat masuk?"
+  },
+  "promotion_offer": "PENAWARAN TERBATAS | Hemat 50% untuk Paket Tahunan! Diskon berakhir dalam waktu <time>{{deadline}}</time>",
+  "promotion_offer_mobile": "Hemat 50%! Diskon berakhir dalam waktu <time>{{deadline}}</time>",
+  "promotion_offer_mobile_days": "Hemat 50%! Penawaran berakhir dalam <time>{{days}} hari</time>",
+  "promotion_offer_days": "PENAWARAN TERBATAS | Hemat 50% untuk Paket Tahunan! Penawaran berakhir dalam <time>{{days}} hari</time>",
+  "new_user_promotion": {
+    "title": "UNTUK PENGGUNA BARU | DISKON 40% Paket Tahunan! Berlaku hingga <time>{{deadline}}</time>",
+    "mobile_title": "DISKON 40% Paket Tahunan! Berlaku hingga <time>{{deadline}}</time>",
+    "mobile_days_title": "DISKON 40% Paket Tahunan! Berlaku hingga <time>{{days}} Hari</time>",
+    "days_title": "UNTUK PENGGUNA BARU | DISKON 40% Paket Tahunan! Berlaku hingga <time>{{days}} Hari</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "PROMO FLASH AKHIR PEKAN: Diskon 30% untuk Paket Tahunan! Berakhir dalam <time>{{deadline}}</time>",
+    "mobile_title": "Diskon 30% untuk Paket Tahunan! Berakhir dalam <time>{{deadline}}</time>",
+    "mobile_days_title": "Diskon 30% untuk Paket Tahunan! Berakhir dalam <time>{{days}} Hari</time>",
+    "days_title": "PROMO FLASH AKHIR PEKAN: Diskon 30% untuk Paket Tahunan! Berakhir dalam <time>{{days}} Hari</time>"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 스프라이트 생성기",
+      "description": "KomikoAI의 AI 스프라이트 생성기로 멋진 스프라이트 아트를 즉시 제작해 보세요! 사진을 개성 넘치는 비주얼로 변환하여 영감을 얻고 공유할 수 있습니다.",
+      "keywords": "AI 스프라이트 생성기, AI 픽셀 아트 생성기, AI 캐릭터 생성기, 스프라이트 아트 생성기, 디지털 아트 변환"
+    },
+    "hero": {
+      "title": "AI 스프라이트 생성기"
+    },
+    "whatIs": {
+      "title": "AI 스프라이트 생성기란?",
+      "description": "AI 스프라이트 생성기는 아티스트와 아마추어 모두가 일반 이미지를 독창적인 스프라이트 아트로 변환할 수 있도록 설계된 전문 도구입니다. 고도화된 AI 알고리즘을 통해 사진을 업로드하고 다양한 스프라이트 스타일 필터를 적용하여 고전 게임의 향수를 불러일으키는 시각적으로 인상적인 작품을 만들 수 있습니다. 사용하기 쉬운 인터페이스를 통해 누구나 고품질 결과물을 간편하게 얻을 수 있습니다."
+    },
+    "examples": {
+      "title": "AI 스프라이트 생성기 예시",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "AI 스프라이트 생성기 사용 방법",
+      "steps": [
+        {
+          "title": "1단계: 사진 업로드",
+          "content": "기기에서 선명하고 고해상도 이미지를 선택하십시오. AI는 대비가 뚜렷하고 윤곽선이 명확한 이미지에서 최적의 결과를 보여줍니다."
+        },
+        {
+          "title": "2단계: 스프라이트 시트 템플릿 선택",
+          "content": "사진을 스프라이트 시트 스타일로 변환할 템플릿을 선택하십시오."
+        },
+        {
+          "title": "3단계: 스프라이트 시트로 변환",
+          "content": "'스프라이트 아트로 변환' 버튼을 클릭하여 AI가 이미지를 생생한 스프라이트 작품으로 변환하도록 합니다. 변환된 이미지는 검토 및 조정할 수 있습니다."
+        },
+        {
+          "title": "4단계: 다운로드 및 공유",
+          "content": "결과가 만족스러우면 스프라이트 아트를 다운로드하십시오! 소셜 미디어에 작품을 공유하여 다른 제작자들과 소통해 보세요."
+        }
+      ],
+      "subtitle": "몇 단계만으로 사진을 멋진 스프라이트 아트로 바꿔보세요."
+    },
+    "benefits": {
+      "title": "AI 스프라이트 생성기를 사용해야 하는 이유",
+      "description": "모든 수준의 크리에이터를 위해 설계된 뛰어난 기능을 경험해 보세요.",
+      "features": [
+        {
+          "title": "🎨 독창적인 아트 스타일",
+          "content": "다양한 스프라이트 아트 스타일을 통해 예술적 비전과 프로젝트 요구 사항에 맞춰 작품을 자유롭게 사용자 정의할 수 있습니다."
+        },
+        {
+          "title": "⚡ 빠르고 효율적인 작업",
+          "content": "이미지를 신속하게 변환하십시오. KomikoAI의 AI 스프라이트 생성기는 품질 저하 없이 빠른 처리 속도를 보장합니다."
+        },
+        {
+          "title": "🖼️ 간편한 사용법",
+          "content": "빠른 크리에이티브 솔루션을 찾는 초보자부터 숙련된 디지털 아티스트까지, 누구나 쉽게 사용할 수 있는 인터페이스를 즐겨보세요."
+        },
+        {
+          "title": "💫 고품질 결과물",
+          "content": "인쇄, 온라인 공유 또는 모든 예술 프로젝트에 적합한 고해상도 이미지를 생성합니다."
+        },
+        {
+          "title": "🎯 창작 커뮤니티",
+          "content": "작품을 공유하고, 영감을 얻고, 다른 사용자와 교류할 수 있는 활발한 스프라이트 아트 커뮤니티에 참여하십시오."
+        },
+        {
+          "title": "🚀 지속적인 업데이트",
+          "content": "창의적인 탐구를 지원하기 위해 꾸준히 업데이트되는 새로운 스타일과 기능을 통해 지속적인 개선을 경험하십시오."
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 스프라이트 생성기 FAQ",
+      "description": "",
+      "q1": "AI 스프라이트 생성기는 어떤 이미지 형식을 지원하나요?",
+      "a1": "JPG, PNG 및 WEBP 형식을 지원합니다. 사용자는 고해상도 결과물을 간편하게 업로드하고 다운로드할 수 있습니다.",
+      "q2": "AI 스프라이트 생성기는 어떻게 스프라이트 아트를 생성하나요?",
+      "a2": "다양한 아트 스타일로 학습된 고급 머신 러닝 알고리즘을 활용하여 사실적인 스프라이트 변환을 생성합니다.",
+      "q3": "변환할 수 있는 이미지 수에 제한이 있나요?",
+      "a3": "제한은 없습니다! 원하는 만큼 이미지를 변환하여 창의력을 자유롭게 발휘해 보세요.",
+      "q4": "생성된 스프라이트 아트를 상업적으로 이용할 수 있나요?",
+      "a4": "물론입니다! 생성하신 스프라이트 아트는 상업적인 프로젝트에 자유롭게 활용하여 작품의 가치를 높일 수 있습니다.",
+      "q5": "AI 스프라이트 생성기는 무료로 사용할 수 있나요?",
+      "a5": "예, KomikoAI의 AI 스프라이트 생성기는 무료로 사용하실 수 있습니다! 더 다양한 스타일을 위한 프리미엄 옵션도 살펴보세요."
+    },
+    "cta": {
+      "title": "지금 AI 스프라이트 생성기로 창작을 시작해 보세요!",
+      "description": "KomikoAI의 AI 스프라이트 생성기로 픽셀 아트의 세계를 경험하고, 사진을 독창적인 스프라이트 아트로 변환하여 여러분의 창의적인 재능을 마음껏 펼쳐 보세요. 지금 바로 예술 여정을 시작하십시오!",
+      "buttonText": "AI 스프라이트 생성기 무료로 사용해 보기"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into stunning sprite art",
+  "originalKeyword": "AI Sprite Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/boy-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/4_portrait-2-3_9129.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/girl-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/3_portrait-2-3_274.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/girl2-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/1_portrait-2-3_9842.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/ganyu-output.webp",
+      "input": "/images/examples/playground/ai-sprite-generator/ganyu-input.webp",
+      "prompt": "Style: Sprite Sheet"
+    }
+  ]
+}

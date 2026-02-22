@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "Interpolasi Bingkai AI - KomikoAI",
+    "description": "Ubah video Anda dengan teknologi interpolasi bingkai AI KomikoAI. Tingkatkan kualitas video, tingkatkan FPS, dan buat gerakan super mulus dengan alat peningkatan video profesional kami. Sempurna untuk pembuat konten yang mencari kualitas video terbaik.",
+    "keywords": "Interpolasi Bingkai AI, Interpolasi Bingkai, Penghalusan Video, Peningkatan FPS, Peningkatan Kualitas Video, Peningkatan Video AI"
+  },
+  "title": "Interpolasi Bingkai AI",
+  "description": "Tingkatkan video Anda dengan interpolasi bingkai AI tingkat lanjut. Ubah video Anda melalui pembuatan bingkai cerdas, tingkatkan FPS, dan buat gerakan super mulus. Sempurna untuk pembuat konten yang mencari kualitas video luar biasa melalui penghalusan video AI dan peningkatan kecepatan bingkai.",
+  "input": {
+    "title": "Video Masukan",
+    "uploadPrompt": "Klik untuk mengunggah atau seret video Anda ke sini",
+    "framesPerSecond": "Bingkai/detik",
+    "framesPerSecondRange": "(Min: 1, Maks: 60)",
+    "interpolationSteps": "Langkah Interpolasi",
+    "interpolationStepsRange": "(Min: 1, Maks: 10)",
+    "submitButton": "Interpolasi Video",
+    "from_other_tools": "Video diterima dari {{source}}"
+  },
+  "results": {
+    "title": "Hasil Video",
+    "emptyState": "Hasil akan ditampilkan di sini"
+  },
+  "deleteModal": {
+    "title": "Konfirmasi Penghapusan",
+    "message": "Anda yakin ingin menghapus video ini? Tindakan ini tidak dapat diurungkan.",
+    "cancelButton": "Batal",
+    "deleteButton": "Hapus"
+  },
+  "toasts": {
+    "fetchFailed": "Gagal mengambil video",
+    "deleteSuccess": "Berhasil dihapus",
+    "deleteFailed": "Gagal dihapus",
+    "downloadFailed": "Gagal mengunduh",
+    "interpolationSuccess": "Interpolasi bingkai berhasil",
+    "interpolationFailed": "Interpolasi bingkai gagal",
+    "noZaps": "Silakan beli lebih banyak zaps"
+  },
+  "seo": {
+    "whatIs": {
+      "title": "Apa Itu Interpolasi Bingkai?",
+      "description": "Interpolasi bingkai adalah teknik untuk meningkatkan kecepatan bingkai video dengan menghasilkan bingkai baru di antara bingkai yang ada. Proses ini dapat digunakan untuk membuat gerakan yang lebih halus dan kecepatan bingkai yang lebih tinggi tanpa perlu merekam video. Interpolasi bingkai AI adalah teknologi peningkatan video canggih yang menggunakan kecerdasan buatan untuk menghasilkan bingkai tambahan di antara bingkai yang ada, menghasilkan gerakan yang lebih halus dan kecepatan bingkai yang lebih tinggi. Proses penghalusan video AI ini secara signifikan meningkatkan kualitas video dan pengalaman menonton."
+    },
+    "transform": {
+      "title": "Ubah Video Anda dengan Teknologi Interpolasi Bingkai AI Tingkat Lanjut",
+      "description": "Buka penghalusan video berkualitas profesional dengan alat peningkatan video AI tercanggih kami. Perangkat lunak interpolasi bingkai kami menggunakan AI tingkat lanjut untuk menganalisis dan menghasilkan bingkai baru, langsung menciptakan gerakan yang mulus dan kecepatan bingkai yang lebih tinggi."
+    },
+    "steps": [
+      {
+        "step": 1,
+        "title": "Unggah Video Anda",
+        "content": "Mulai dengan file video apa pun - teknologi interpolasi bingkai video AI kami menerima berbagai format dan kualitas."
+      },
+      {
+        "step": 2,
+        "title": "Konfigurasikan Kecepatan Bingkai",
+        "content": "Pilih FPS target dan pengaturan interpolasi Anda untuk penghalusan video yang optimal."
+      },
+      {
+        "step": 3,
+        "title": "Pemrosesan AI",
+        "content": "Algoritma peningkatan video AI canggih kami menghasilkan bingkai baru untuk mencapai gerakan yang lebih halus."
+      },
+      {
+        "step": 4,
+        "title": "Unduh Video yang Ditingkatkan",
+        "content": "Dapatkan video dengan kecepatan bingkai yang lebih tinggi dan gerakan yang halus, didukung oleh interpolasi bingkai AI."
+      }
+    ],
+    "example": {
+      "title": "Contoh Interpolasi Bingkai",
+      "description": "Lihat hasil interpolasi bingkai AI yang dihasilkan pengguna KomikoAI",
+      "inputLabel": "Contoh Video Masukan",
+      "outputLabel": "Video Keluaran yang Ditingkatkan"
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan Interpolasi AI untuk Meningkatkan Video Anda",
+      "description": "Interpolasi bingkai AI KomikoAI menyederhanakan peningkatan video untuk semua orang, dari pembuat konten hingga videografer profesional.",
+      "features": [
+        {
+          "title": "Interpolasi Bingkai AI Tingkat Lanjut",
+          "content": "Rasakan teknologi penghalusan video AI tercanggih yang mengubah rekaman yang patah-patah menjadi video berkualitas profesional yang halus melalui pembuatan bingkai cerdas dan peningkatan kecepatan bingkai video."
+        },
+        {
+          "title": "Peningkatan FPS Cerdas",
+          "content": "Manfaatkan alat interpolasi bingkai video AI KomikoAI untuk meningkatkan FPS video Anda tanpa perlu merekam ulang. Ubah rekaman standar menjadi video 60+ FPS yang mulus dengan teknologi peningkatan video AI kami."
+        },
+        {
+          "title": "Peningkatan Kualitas Video Otomatis",
+          "content": "Perangkat lunak interpolasi bingkai video AI kami mengotomatiskan proses pembuatan bingkai yang kompleks. Rasakan penghalusan video profesional tanpa pengeditan manual atau alat yang rumit."
+        },
+        {
+          "title": "Pembuatan Bingkai Cerdas",
+          "content": "Alat video AI KomikoAI menganalisis pola gerakan untuk membuat bingkai tengah yang tampak alami, memastikan kualitas yang konsisten melalui teknologi interpolasi bingkai video tingkat lanjut."
+        },
+        {
+          "title": "Peningkatan Video Profesional",
+          "content": "Ekspor video berkualitas tinggi yang ditingkatkan oleh teknologi interpolasi bingkai AI kami, sempurna untuk pembuat konten yang membutuhkan penghalusan video dan optimasi kecepatan bingkai yang luar biasa."
+        },
+        {
+          "title": "Pemrosesan Video AI yang Efisien",
+          "content": "Integrasikan alat interpolasi bingkai AI kami dengan mulus ke alur kerja Anda. Biarkan pembuatan bingkai video AI KomikoAI menangani aspek teknisnya, sementara Anda fokus pada kreativitas."
+        }
+      ]
+    },
+    "expertGuide": {
+      "title": "Panduan Pakar untuk Interpolasi Bingkai AI",
+      "description": "Pelajari semua yang perlu Anda ketahui tentang meningkatkan video menggunakan teknologi interpolasi bingkai bertenaga AI. Dapatkan jawaban ahli untuk pertanyaan umum tentang penghalusan video dan peningkatan kecepatan bingkai."
+    }
+  },
+  "faq": {
+    "question1": "Apa Itu Interpolasi Bingkai AI?",
+    "answer1": "Interpolasi bingkai AI adalah teknologi peningkatan video canggih yang menggunakan kecerdasan buatan untuk menghasilkan bingkai tambahan di antara bingkai yang ada, menghasilkan gerakan yang lebih halus dan kecepatan bingkai yang lebih tinggi. Proses penghalusan video AI ini secara signifikan meningkatkan kualitas video dan pengalaman menonton.",
+    "question2": "Bagaimana Cara Kerja Interpolasi Bingkai Video AI?",
+    "answer2": "Perangkat lunak interpolasi bingkai video AI kami menganalisis gerakan antara bingkai yang ada dan menggunakan algoritma pembelajaran mesin tingkat lanjut untuk menghasilkan bingkai tengah baru. Proses ini meningkatkan FPS (bingkai per detik) video sambil mempertahankan gerakan alami dan kualitas tinggi.",
+    "question3": "Apa Manfaat Interpolasi Bingkai?",
+    "answer3": [
+      "Gerakan dan animasi yang lebih halus",
+      "Kecepatan bingkai lebih tinggi tanpa perlu merekam ulang",
+      "Peningkatan kualitas video",
+      "Efek gerakan lambat yang lebih baik"
+    ],
+    "question4": "Format Video Apa yang Didukung?",
+    "answer4": "AI mendukung format video MP4. Kami merekomendasikan penggunaan video dengan gerakan yang jelas dan kualitas yang baik untuk hasil terbaik.",
+    "question5": "Bagaimana Cara Memilih Pengaturan yang Tepat?",
+    "answer5": "Untuk Bingkai Per Detik (FPS), pilih berdasarkan kebutuhan Anda: 24-30 FPS untuk video standar, 60 FPS untuk gerakan halus. Langkah Interpolasi menentukan berapa banyak bingkai yang ditambahkan di antara bingkai yang ada - nilai yang lebih tinggi menghasilkan gerakan yang lebih halus tetapi membutuhkan waktu lebih lama untuk diproses.",
+    "question6": "Apakah Ada Batasan Panjang atau Ukuran Video?",
+    "answer6": "Ya, ada batasan untuk memastikan pemrosesan optimal. Kami merekomendasikan agar video berdurasi kurang dari 30 detik dan ukuran kurang dari 100MB untuk hasil terbaik. Video yang lebih panjang dapat diproses secara bertahap."
+  }
+}

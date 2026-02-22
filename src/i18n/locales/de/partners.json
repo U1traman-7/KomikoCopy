@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Partner | KomikoAI",
+    "description": "Werden Sie Partner von KomikoAI und wachsen Sie gemeinsam mit uns."
+  },
+  "hero": {
+    "title": "Unsere Partner",
+    "description": "Als führende KI-Comic- und Animationsplattform arbeiten wir mit den besten KI-Innovatoren zusammen, um die kreative Content-Produktion in Design und Unterhaltung zu revolutionieren."
+  },
+  "technologyPartners": {
+    "title": "Technologiepartner",
+    "description": "Gemeinsam mit Branchenführern verschieben wir die Grenzen der KI-Kreativität",
+    "partners": {
+      "mathosAI": {
+        "name": "Mathos AI",
+        "description": "Mathos AI ist ein leistungsstarker KI-gestützter Mathe-Löser, der Sie bei komplexen mathematischen Problemen unterstützt."
+      },
+      "collovAI": {
+        "name": "Collov AI",
+        "description": "Collov AI bietet modernste KI-basierte virtuelle Inszenierung, um Immobilienangebote in atemberaubende, fotorealistische Designs zu verwandeln. Verbessern Sie Ihr Immobilienmarketing mit schneller und kostengünstiger Inszenierung."
+      },
+      "altpageAI": {
+        "name": "altpage.ai",
+        "description": "altpage.ai ist ein KI-Agent, der SEO-optimierte Vergleichsseiten erstellt, um den Markenverkehr von Wettbewerbern zu erfassen. Er analysiert Daten, hebt Ihre Vorteile hervor und bietet Seiten an, die ohne technische Kenntnisse ein hohes Ranking erzielen."
+      },
+      "easysiteAI": {
+        "name": "EasySite",
+        "description": "Erstellen Sie in Sekunden datenbankbasierte Websites und Apps mit KI. Funktionen: Eingebaute Datenbank, mobile Anpassung, Chat-Widgets, Analysen. Bereit für WordPress/Netlify."
+      },
+      "newoaksAI": {
+        "name": "AI Chatbot Builder; AI Agent Builder",
+        "description": "NewOaks AI verwaltet Kundeninteraktionen über alle Ihre Kanäle und füllt Ihren Kalender mit Terminen. Konzentrieren Sie sich auf den Geschäftsabschluss, anstatt Leads nachzuverfolgen!"
+      },
+      "komiko": {
+        "name": "KomikoAI",
+        "description": "KomikoAI: All-in-One KI-Plattform für Kunst, Anime und Comics. Mit KomikoAIs leistungsstarken KI-Tools können Künstler und Geschichtenerzähler ihre Ideen leicht umsetzen. Von der Kolorierung von Zeichnungen bis zum KI-gestützten Anime- und Comic-Generator bieten wir alles. Erstellen Sie in Minuten Illustrationen, Comics, Manga und Animationen, nicht in Tagen."
+      },
+      "kuaAI": {
+        "name": "kua.ai",
+        "description": "KI-Agent für E-Commerce"
+      },
+      "vidAU": {
+        "name": "VidAU",
+        "description": "VidAU AI ermöglicht es Ihnen, in wenigen Minuten beeindruckende Videos zu erstellen. Geben Sie einfach einen Produktlink oder eine kurze Beschreibung ein, und unsere Plattform generiert hochwertige Videos mit lebensechten KI-Avataren, die in mehreren Sprachen und Akzenten sprechen. Egal, ob Sie Inhalte für TikTok, YouTube, Marketingkampagnen oder Schulungen erstellen, VidAU AI unterstützt Sie. Unsere benutzerfreundliche All-in-One KI-Videoplattform hilft Ihnen, schnell überzeugende Inhalte zu produzieren: von ansprechenden Kurzvideos bis zu professionellen Erklärvideos - verbessern Sie Ihre Markenpräsenz und erzählen Sie Ihre Geschichte mit Wirkung."
+      },
+      "bikaAI": {
+        "name": "Bika.AI",
+        "description": "Bika.ai ist ein All-in-One KI-Arbeitsbereich zur Erstellung von GeschäftskI-Agenten. Er integriert KI-Chatbot, Automatisierung, Datenbanken, Dashboards und Wikis, verwaltet und automatisiert unzählige Geschäftsprozesse. Kein ständiges Interagieren mit der KI nötig. Bika.ai automatisiert repetitive Aufgaben und führt nahtlos funktionsübergreifende Abläufe für Ihr Marketing, Ihren Vertrieb und Ihre Projekte aus, sodass Sie sich auf strategische Arbeit konzentrieren können."
+      }
+    }
+  },
+  "partnershipCTA": {
+    "title": "Steigern Sie Ihr Geschäft mit uns",
+    "description": "Werden Sie Partner von KomikoAI und erweitern Sie Ihre Marktreichweite. Wir freuen uns auf die Zusammenarbeit mit Unternehmen aus verwandten Kreativbranchen.",
+    "button": "Kontaktieren Sie unser Team"
+  },
+  "productLines": {
+    "title": "Produktlinien",
+    "description": "Entdecken Sie unsere innovativen Lösungen, die die Zukunft der kreativen KI-Tools neu gestalten",
+    "aiComicGeneration": {
+      "title": "KI-Comic-Erstellung",
+      "description": "Erstellen Sie im Handumdrehen beeindruckende Comics mit unserer fortschrittlichen KI-Technologie",
+      "items": [
+        "Charakterdesign",
+        "Comic-Szenen-Generierung",
+        "Mehrteiliges Storytelling",
+        "Benutzerdefinierte Stilkontrolle"
+      ]
+    },
+    "imageProcessing": {
+      "title": "Bildverarbeitung",
+      "description": "Professionelle KI-Bildbearbeitungswerkzeuge zur Optimierung Ihres kreativen Workflows",
+      "items": [
+        "Hintergrundentfernung",
+        "Bildkolorierung",
+        "Bild-Superauflösung",
+        "Strichzeichnungen-Kolorierung"
+      ]
+    },
+    "videoEnhancement": {
+      "title": "Videoverbesserung",
+      "description": "Leistungsstarke Videobearbeitungswerkzeuge, um Ihre Kreationen zum Leben zu erwecken",
+      "items": [
+        "Video-Frame-Interpolation",
+        "Video-Superauflösung",
+        "KI-Videoanimation",
+        "Charakterbewegungsgenerierung"
+      ]
+    }
+  },
+  "solutions": {
+    "title": "Lösungen",
+    "description": "Maßgeschneiderte Ansätze für verschiedene Marktsegmente",
+    "professionals": {
+      "title": "Profis",
+      "description": "Optimierte Tools für Kreativprofis",
+      "items": [
+        "Comiczeichner",
+        "Content-Ersteller",
+        "Spieledesigner",
+        "Illustratoren"
+      ]
+    },
+    "enterprises": {
+      "title": "Unternehmen",
+      "description": "Skalierbare KI-Lösungen für Unternehmen",
+      "items": [
+        "Bildungseinrichtungen",
+        "Unterhaltungsindustrie",
+        "Verlage",
+        "Werbeagenturen"
+      ]
+    }
+  }
+}

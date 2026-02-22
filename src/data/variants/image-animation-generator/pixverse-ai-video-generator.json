@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Pixverse AI Video Generator - KomikoAI",
+      "description": "Transform still images into immersive videos effortlessly with Pixverse AI Video Generator. Harness advanced AI technology to animate your comics, manga, manhwa, and artwork into vivid video content.",
+      "fullDescription": "Experience the power of Pixverse AI Video Generator to convert static images into dynamic videos. Perfect for creators and artists seeking to bring their illustrations, comics, and animations to life with the latest AI-driven video generation technology. Produce captivating, high-quality video content from your drawings and designs with ease and speed.",
+      "keywords": "Pixverse AI Video Generator, AI video generator, image to video animation, AI animation tool, comic video generator, manga to video, manhwa animation, AI content creator, video creation AI, AI animation technology"
+    },
+    "hero": {
+      "title": "Pixverse AI Video Generator",
+      "description": "Bring your static images to life and create stunning animated videos with Pixverse AI Video Generator. Leverage cutting-edge AI to turn your artwork, comics, and illustrations into vibrant video content."
+    },
+    "whatIs": {
+      "title": "What is Pixverse AI Video Generator?",
+      "description": "Pixverse AI Video Generator is an innovative AI-powered tool designed to transform your static images into vivid, animated videos. Whether you create manga, manhwa, comics, or anime-style art, this technology breathes life into your creations, making video production straightforward and accessible to everyone."
+    },
+    "examples": {
+      "title": "Examples of AI Video Generator",
+      "description": "Explore inspiring videos similar to what you can create with Pixverse AI Video Generator. These examples showcase the kind of image-to-animation results possible with advanced AI video tools."
+    },
+    "howToUse": {
+      "title": "How to Use the Pixverse AI Video Generator",
+      "steps": [
+        {
+          "title": "Enter Your Image",
+          "content": "Start by uploading the image or artwork you want to animate. Whether it’s a comic panel, manga sketch, or illustration, Pixverse AI Video Generator supports it all."
+        },
+        {
+          "title": "Describe Your Animation",
+          "content": "Type in a detailed prompt to guide the AI on how the animation should move or appear. Include character actions, moods, and stylistic preferences to achieve the best results."
+        },
+        {
+          "title": "Generate Your Video",
+          "content": "Hit the generate button and allow the AI to transform your static drawing into a lively, dynamic video in seconds."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Once completed, download your high-quality video animation to share across social media, web platforms, or personal projects."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Choose Pixverse AI Video Generator?",
+      "description": "Unlock numerous advantages with Pixverse AI Video Generator, making it the preferred choice for creators who want engaging animations from static images.",
+      "features": [
+        {
+          "title": "Effortless Animation Creation",
+          "content": "Turn your still images into eye-catching videos without any prior animation skills or software.",
+          "icon": "✨"
+        },
+        {
+          "title": "Fast and Efficient",
+          "content": "Generate smooth AI-powered video animations within seconds, drastically cutting down production time.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Versatile Style Options",
+          "content": "Animate comics, manga, manhwa, anime art, and other styles with ease, tailoring your videos to your unique aesthetic.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Perfect For Content Creators",
+          "content": "Ideal for social media posts, digital storytelling, promotional videos, and multimedia art projects.",
+          "icon": "📱"
+        },
+        {
+          "title": "High-Quality Output",
+          "content": "Create polished, professional-grade video animations suitable for commercial and personal use.",
+          "icon": "🏆"
+        },
+        {
+          "title": "Unleash Your Creative Vision",
+          "content": "Explore new storytelling possibilities by animating scenes, characters, and backgrounds with AI precision.",
+          "icon": "🚀"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions About Pixverse AI Video Generator",
+      "description": "Answers to common questions about using the Pixverse AI Video Generator to turn static images into animated videos.",
+      "q1": "What is Pixverse AI Video Generator?",
+      "a1": "Pixverse AI Video Generator is an advanced AI tool that transforms static images into animated videos. It’s designed for creators who want to bring their comics, manga, anime art, and illustrations to life with seamless AI-powered animation.",
+      "q2": "How does Pixverse AI Video Generator work?",
+      "a2": "It analyzes your uploaded image along with your animation prompt to generate dynamic movement and effects, turning still artwork into engaging video content using machine learning models trained on various art styles.",
+      "q3": "Can I animate any type of image?",
+      "a3": "Yes, Pixverse supports a wide range of art styles including comic panels, manga drawings, anime characters, and illustrations. Clear, high-quality images generally produce the best animations.",
+      "q4": "Do I need animation skills to use this tool?",
+      "a4": "No, the tool is designed to be user-friendly for all skill levels. Simply upload an image and provide a description; Pixverse AI handles the complex animation process.",
+      "q5": "Can I use the generated videos for commercial purposes?",
+      "a5": "Yes, videos created with Pixverse AI Video Generator can be used commercially, subject to the platform’s terms and conditions, making it suitable for professional content creation.",
+      "q6": "How can I improve the animation quality?",
+      "a6": "Providing detailed prompts that describe motion, expression, and scene details will enhance the output. Experiment with different styles and animation cues to get the best results.",
+      "q7": "Are there any limitations on video length or number of creations?",
+      "a7": "Usage limits depend on your subscription plan, with options for free limited use and premium plans offering extended video length and higher generation limits.",
+      "q8": "What formats are supported for downloads?",
+      "a8": "Animations can be downloaded in standard video formats compatible with most playback devices and social media platforms, ensuring flexibility for your projects."
+    }
+  },
+  "originalKeyword": "Pixverse AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Veo 3",
+      "description": "Prompt: A detective interrogates a nervous-looking rubber duck. \"Where were you on the night of the bubble bath?!\" he quacks. Audio: Detective's stern quack, nervous squeaks from rubber duck.",
+      "videoUrl": "/images/pages/veo3/example2.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said “cute” using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: Anime-style battle scene. A young warrior with a glowing sword clashes with a giant, demonic monster with glowing eyes and sharp teeth. Fast-paced swordfight, sparks fly, intense close-ups. Ends with the hero slaying the monster in a dramatic final strike. Dark background, cinematic lighting, glowing particles.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/monster.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: The boy slowly lean in, gently holds the girl’s face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A fairy sits in the blossom as the petals open",
+      "videoUrl": "/images/pages/vidu/flower.webm"
+    },
+    {
+      "id": 6,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A cat turns into a tiger",
+      "videoUrl": "/images/pages/vidu/cat.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ]
+}

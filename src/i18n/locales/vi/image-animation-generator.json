@@ -1,0 +1,438 @@
+{
+  "ui": {
+    "title": "Trình tạo Hoạt hình AI",
+    "tooltip": "Biến hình ảnh tĩnh của bạn thành hoạt hình hấp dẫn với Trình tạo Hoạt hình AI",
+    "input": {
+      "title": "Đầu Vào",
+      "tooltip": "Tải ảnh lên để tạo hoạt hình",
+      "prompt": {
+        "label": "Lời Nhắc",
+        "placeholder": "Mô tả chi tiết cách bạn muốn hoạt hình ảnh..."
+      },
+      "model": {
+        "label": "Mô Hình AI",
+        "placeholder": "Chọn một mô hình",
+        "ariaLabel": "Chọn mô hình hoạt hình"
+      },
+      "aspectRatio": {
+        "label": "Tỷ Lệ Khung Hình",
+        "placeholder": "Chọn tỉ lệ khung hình"
+      },
+      "duration": {
+        "label": "Thời Lượng",
+        "placeholder": "Chọn thời lượng",
+        "sections": "{{sections}} giây"
+      },
+      "style": {
+        "label": "Phong Cách",
+        "placeholder": "Chọn kiểu dáng",
+        "anime": "Anime",
+        "default": "Mặc định"
+      },
+      "resolution": {
+        "label": "Độ Phân Giải",
+        "placeholder": "Chọn độ phân giải"
+      },
+      "ratio": "Tỉ lệ",
+      "addEndFrame": "Thêm khung kết thúc",
+      "startFrame": "Khung bắt đầu",
+      "endFrame": "Khung kết thúc",
+      "image": {
+        "title": "Hình ảnh",
+        "description": "Tải ảnh định dạng JPG/PNG/WEBP có dung lượng tối đa 10MB, với chiều rộng/chiều cao tối thiểu là 300px.",
+        "label": {
+          "required": "Bắt buộc thêm tham chiếu",
+          "optional": "Có thể thêm tham chiếu",
+          "image": "Tải lên hình ảnh (Không bắt buộc)",
+          "imageRequired": "Vui lòng tải lên ảnh",
+          "more": "Thêm tài liệu tham khảo khác (Không bắt buộc)",
+          "endFrame": "Thêm khung kết thúc (không bắt buộc)",
+          "firstFrame": "Khung đầu tiên"
+        }
+      },
+      "addOC": "Thêm nhân vật",
+      "singleOCOnly": "Chỉ cho phép một nhân vật. Vui lòng sử dụng Vidu Q1 nếu có nhiều nhân vật.",
+      "maxOCsReached": "Tối đa {{max}} nhân vật được phép. Chỉ Vidu Q1 hỗ trợ nhiều nhân vật.",
+      "config": "Thông Tin Bổ Sung"
+    },
+    "output": {
+      "title": "Kết Quả Hoạt Hình",
+      "empty": {
+        "line1": "Kết quả hoạt hình của bạn sẽ hiển thị ở đây",
+        "line2": "Tải ảnh lên và nhập lời nhắc để bắt đầu"
+      }
+    },
+    "deleteModal": {
+      "title": "Xác Nhận Xóa",
+      "message": "Bạn có chắc chắn muốn xóa hoạt hình này không? Hành động này không thể hoàn tác.",
+      "cancelButton": "Hủy",
+      "deleteButton": "Xóa"
+    },
+    "toasts": {
+      "deleteSuccess": "Xóa thành công",
+      "deleteFailed": "Xóa thất bại",
+      "generateSuccess": "Tạo Hoạt Hình thành công",
+      "generateFailed": "Tạo Hoạt Hình thất bại",
+      "downloadFailed": "Tải xuống thất bại",
+      "fetchFailed": "Không thể tải video",
+      "noZaps": "Vui lòng mua thêm lượt tạo video",
+      "generatingSticker": "Đang tạo sticker...",
+      "stickerGenerated": "Tạo sticker thành công",
+      "stickerGeneratedFailed": "Tạo sticker không thành công",
+      "generatingStickerFailed": "Đã xảy ra lỗi khi tạo sticker",
+      "imageTooSmall": "Hình ảnh quá nhỏ. Kích thước tối thiểu là 240x240 pixel."
+    },
+    "modelOptions": {
+      "kling": {
+        "name": "Kling 1.6",
+        "description": "Chuyển động chân thực hơn",
+        "timeCost": "2 phút",
+        "fps": "30fps"
+      },
+      "minimax": {
+        "name": "Hải Lưu 02",
+        "description": "Đầu ra HD với nội dung trực quan phong phú",
+        "timeCost": "3 phút",
+        "fps": "25fps"
+      },
+      "ray": {
+        "name": "Luma Ray 2",
+        "description": "Mô hình quy mô lớn cho hình ảnh chân thực",
+        "timeCost": "2 phút",
+        "fps": "24fps"
+      },
+      "pixverse": {
+        "name": "PixVerse v3.5",
+        "description": "Cải thiện chuyển động và tính mạch lạc",
+        "timeCost": "2 phút",
+        "fps": "30fps"
+      },
+      "veo": {
+        "name": "Veo3 (Google)",
+        "description": "Chất lượng video hàng đầu",
+        "timeCost": "1 phút",
+        "fps": "24fps"
+      },
+      "wan": {
+        "name": "Wan 2.6",
+        "description": "Video chất lượng cao với nhiều chuyển động",
+        "timeCost": "1 phút",
+        "fps": "24 khung hình/giây"
+      },
+      "wan_pro": {
+        "name": "Wan Pro",
+        "description": "Chất lượng hình ảnh tuyệt vời cùng nhiều chuyển động",
+        "timeCost": "5 phút",
+        "fps": "30 khung hình/giây"
+      },
+      "ray_flash_v2": {
+        "name": "Luma Ray Flash 2",
+        "description": "Mô hình quy mô lớn cho hình ảnh chân thực",
+        "timeCost": "30 giây",
+        "fps": "24 khung hình/giây"
+      },
+      "kling_v2": {
+        "name": "Kling 2.1",
+        "description": "Chuyển động chân thực hơn",
+        "timeCost": "2 phút",
+        "fps": "30 khung hình mỗi giây"
+      },
+      "frame_pack": {
+        "name": "FramePack",
+        "description": "Tự động tạo video bằng phương pháp hồi quy",
+        "timeCost": "1 phút",
+        "fps": "30 khung hình/giây"
+      },
+      "vidu": {
+        "name": "Vidu Q1",
+        "description": "Hoạt hình 2D mượt mà và đồng nhất",
+        "timeCost": "1 phút",
+        "fps": "24 fps"
+      },
+      "vidu_base": {
+        "name": "Komiko Hoạt Hình",
+        "description": "Tạo hoạt hình với chi phí cực thấp",
+        "timeCost": "1 phút",
+        "fps": "24 fps"
+      },
+      "anisora": {
+        "name": "AniSora",
+        "description": "Dự án mã nguồn mở tạo video anime",
+        "timeCost": "1 phút",
+        "fps": "30 fps"
+      },
+      "magi_1": {
+        "name": "Magi-1",
+        "description": "Tích hợp chuyển động vật lý và kỹ thuật quay phim",
+        "timeCost": "2 phút",
+        "fps": "24 fps"
+      },
+      "mj_video": {
+        "name": "Anime Chuyên Nghiệp",
+        "description": "Tuyệt vời nhất để tạo anime và hoạt hình",
+        "timeCost": "1 phút",
+        "fps": "24 fps"
+      },
+      "seedance": {
+        "name": "Seedance 1.5 Pro",
+        "description": "Mô hình video đa cảnh đầu tiên trên thế giới",
+        "timeCost": "1 phút",
+        "fps": "24 fps"
+      },
+      "sora": {
+        "name": "Sora 2",
+        "description": "Tạo video tuyệt đẹp với nhiều cảnh và âm thanh sống động",
+        "timeCost": "1ph",
+        "fps": "30fps"
+      },
+      "sora_pro": {
+        "name": "Sora 2 Pro",
+        "description": "Tạo video tuyệt đẹp với nhiều cảnh và âm thanh sống động",
+        "timeCost": "1ph",
+        "fps": "30fps"
+      },
+      "sora_stable": {
+        "name": "Sora 2 Ổn định",
+        "description": "Tạo video nhiều cảnh ổn định với âm thanh",
+        "timeCost": "1 phút",
+        "fps": "30 khung hình/giây"
+      },
+      "sora_pro_stable": {
+        "name": "Sora 2 Pro Ổn định",
+        "description": "Tạo video chất lượng cao, ổn định với âm thanh",
+        "timeCost": "1 phút",
+        "fps": "30 khung hình/giây"
+      },
+      "vidu_q2": {
+        "name": "Vidu Q2",
+        "description": "Hoạt hình cực nhanh từ hình ảnh sang video, đảm bảo độ nhất quán cao",
+        "timeCost": "1 phút",
+        "fps": "24 fps"
+      },
+      "vidu_q2_pro": {
+        "name": "Vidu Q2 Pro",
+        "description": "Phiên bản dành cho chuyên gia với chi tiết nâng cao và chuyển động mượt mà",
+        "timeCost": "1 phút",
+        "fps": "24 fps"
+      },
+      "wan_22_turbo": {
+        "name": "Wan 2.2 Turbo",
+        "description": "Giá trị tốt nhất cho chất lượng và chi phí",
+        "timeCost": "1 phút",
+        "fps": "24fps"
+      }
+    },
+    "buttons": {
+      "generateAnimation": "Tạo Hoạt Hình",
+      "seconds5": "5 giây",
+      "seconds8": "8 giây",
+      "seconds10": "10 giây",
+      "default": "Mặc định",
+      "anime": "Anime",
+      "landscape": "16:9 (Ngang)",
+      "portrait": "9:16 (Dọc)",
+      "square": "1:1 (Hình vuông)"
+    },
+    "resolutions": {
+      "360p": "360p",
+      "540p": "540p",
+      "720p": "720p",
+      "1080p": "1080p"
+    },
+    "styleModes": {
+      "effect": "Hiệu ứng",
+      "prompt": "Đề xuất",
+      "motion": "Chuyển động",
+      "dance": "Khiêu vũ",
+      "templates": "Mẫu thiết kế"
+    },
+    "audio": {
+      "label": "Âm thanh không bắt buộc (MP3/WAV, 3-30 giây, ≤15MB)",
+      "upload": "Tải tệp lên",
+      "record": "Ghi lại",
+      "invalidFormat": "Định dạng tệp âm thanh không hợp lệ. Vui lòng sử dụng định dạng MP3 hoặc WAV",
+      "missing": "Vui lòng tải tệp âm thanh lên (MP3/WAV)",
+      "durationRange": "Âm thanh phải có độ dài từ 3 giây đến 30 giây",
+      "processFailed": "Xử lý tệp âm thanh không thành công"
+    },
+    "characterName": "Tên nhân vật",
+    "characterNamePlaceholder": "Nhập tên nhân vật...",
+    "importFromCharacter": "Nhập từ nhân vật",
+    "characterProfileOptional": "Hồ sơ nhân vật (Tùy chọn)",
+    "characterProfilePlaceholder": "Tên nhân vật, tính cách, chủ đề và các chi tiết khác",
+    "bankaiEffectTitle": "Hiệu ứng Bankai mong muốn",
+    "bankaiEffectPlaceholder": "Mô tả các hiệu ứng biến đổi của Bankai, sức mạnh, các thay đổi về ngoại hình, v.v.",
+    "sec": "giây",
+    "multiShots": {
+      "label": "Nhiều cảnh quay",
+      "tooltip": "Khi bật, đoạn video sẽ được chia thành nhiều cảnh quay thông minh để kể chuyện tốt hơn"
+    },
+    "cameraFixed": {
+      "label": "Camera cố định",
+      "tooltip": "Giữ vị trí camera cố định khi quay video"
+    }
+  },
+  "seo": {
+    "examples": {
+      "title": "Ví dụ về Trình tạo Hoạt hình AI",
+      "description": "Khám phá sức mạnh của Trình tạo Hoạt hình AI của chúng tôi thông qua những ví dụ tuyệt đẹp này. Xem cách công nghệ của chúng tôi biến các hình ảnh tĩnh thành những video động và thú vị!",
+      "inputAlt": "Ảnh Đầu Vào Ví Dụ",
+      "inputLabel": "Ảnh Đầu Vào",
+      "outputLabel": "Kết Quả Hoạt Hình",
+      "videoNotSupported": "Trình duyệt của bạn không hỗ trợ thẻ video.",
+      "example1": {
+        "details": "Mô hình: Veo | Lời nhắc: \"Cô gái đang nhảy múa và ca hát\""
+      },
+      "example2": {
+        "details": "Mô hình: Minimax | Lời nhắc: \"Một người đàn ông đang tức giận và tranh cãi\""
+      },
+      "example3": {
+        "details": "Mô hình: Ray | Lời nhắc: \"Một cô gái đang buồn bã và tâm sự\""
+      },
+      "example4": {
+        "details": "Mô hình: Kling | Lời nhắc: \"Một cô gái đang thầm thì một mình trong yên bình\""
+      },
+      "example5": {
+        "details": "Model: Anime Pro | Prompt: \"Cảnh chiến đấu giống anime. Một chiến binh trẻ với thanh kiếm phát sáng đang đối mặt với một con quái vật khổng lồ, ác quỷ có đôi mắt sáng và răng sắc. Cuộc đấu kiếm diễn ra nhanh, tia lửa bay, cận cảnh mãnh liệt. Kết thúc bằng cảnh anh hùng chém quái vật bằng một đòn cuối cùng đầy kịch tính. Phông nền tối, ánh sáng như điện ảnh, các hạt sáng lấp lánh.\""
+      },
+      "example6": {
+        "details": "Model: Anime Pro | Prompt: \"Một cậu bé anime bất ngờ rút súng và bắn khiến tia sáng lóe lên, khuôn mặt căng thẳng và góc quay ấn tượng. Ngay sau đó, cậu quay lưng và chạy xuống phố.\""
+      },
+      "example7": {
+        "details": "Model: Anime Pro | Prompt: \"Cô gái anime trượt ván nhanh qua con hẻm sáng rực đèn neon ban đêm, thực hiện những khúc quanh gấp. Gió làm tóc cô bay, được theo dõi từ phía sau. Các biển hiệu phát sáng phản chiếu trên mặt đường ẩm ướt khi cô lướt qua nhiều con hẻm hẹp.\""
+      },
+      "example8": {
+        "details": "Model: Anime Pro | Prompt: \"Cảnh chiến đấu giống anime. Một chiến binh trẻ với thanh kiếm phát sáng đang đối mặt với một con quái vật khổng lồ, ác quỷ có đôi mắt sáng và răng sắc. Cuộc đấu kiếm diễn ra nhanh, tia lửa bay, cận cảnh mãnh liệt. Kết thúc bằng cảnh anh hùng chém quái vật bằng một đòn cuối cùng đầy kịch tính. Phông nền tối, ánh sáng như điện ảnh, các hạt sáng lấp lánh.\""
+      }
+    },
+    "meta": {
+      "title": "AI Animation Generator - KomikoAI",
+      "description": "Biến hình ảnh tĩnh thành hoạt hình hấp dẫn với Trình tạo Hoạt hình AI của chúng tôi. Tạo video anime, manga và truyện tranh động một cách dễ dàng. Công nghệ hoạt hình AI tiên tiến mang tác phẩm nghệ thuật của bạn trở thành hiện thực chỉ trong vài phút.",
+      "keywords": "Trình tạo hoạt hình AI, Trình tạo anime AI, Hoạt hình video AI, hình ảnh thành hoạt hình, Trình tạo hoạt hình anime, Trình tạo hoạt hình manga, Công cụ hoạt hình AI, tạo hoạt hình từ hình ảnh, Trình tạo video AI, làm video hoạt hình"
+    },
+    "hero": {
+      "title": "Trình tạo Hoạt hình AI",
+      "description": "Biến hình ảnh tĩnh thành hoạt hình cuốn hút với Trình tạo Hoạt hình AI mạnh mẽ của chúng tôi. Tạo video anime, manga và truyện tranh tuyệt đẹp một cách dễ dàng. Công nghệ hoạt hình AI tiên tiến của chúng tôi phân tích tác phẩm nghệ thuật của bạn và tạo ra các hoạt hình chuyên nghiệp chỉ trong vài phút."
+    },
+    "whatIs": {
+      "title": "Trình tạo Hoạt hình AI là gì?",
+      "description": "Trình tạo Hoạt hình AI là một công cụ thông minh tự động tạo các hoạt hình tuyệt đẹp từ hình ảnh tĩnh của bạn. Trình tạo Hoạt hình AI của chúng tôi sử dụng các thuật toán học sâu tiên tiến để hiện thực hoá các tác phẩm anime, manga và truyện tranh, giúp mọi người tiếp cận hoạt hình chuyên nghiệp mà không cần kỹ năng kỹ thuật hoặc kinh nghiệm hoạt hình."
+    },
+    "howToUse": {
+      "title": "Cách sử dụng Trình tạo Hoạt hình AI",
+      "steps": [
+        {
+          "title": "Tải Ảnh Lên",
+          "content": "Tải lên hình ảnh bạn muốn biến thành hoạt hình. Dù là nhân vật anime, khung manga hay hình minh họa truyện tranh, AI của chúng tôi sẽ thổi hồn vào nó."
+        },
+        {
+          "title": "Nhập Lời Nhắc",
+          "content": "Cung cấp lời nhắc chi tiết để định hướng hoạt hình. Mô tả chuyển động, biểu cảm hoặc hành động mà bạn muốn AI tạo ra."
+        },
+        {
+          "title": "Tạo Hoạt Hình",
+          "content": "Nhấp vào nút 'Tạo Hoạt Hình' và để AI của chúng tôi thực hiện phép màu. Chứng kiến hình ảnh của bạn biến thành video sống động."
+        },
+        {
+          "title": "Tải Xuống và Chia Sẻ",
+          "content": "Tải xuống hoạt hình do AI tạo ra và chia sẻ với mọi người! Tuyệt vời để đăng lên mạng xã hội, thực hiện các dự án cá nhân và hơn thế nữa."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Tại sao sử dụng Trình tạo Hoạt hình AI?",
+      "description": "Khám phá lý do tại sao Trình tạo Hoạt hình AI của chúng tôi là lựa chọn tốt nhất để tạo ra các hoạt hình anime, manga và truyện tranh chuyên nghiệp. Trải nghiệm tương lai của công nghệ hoạt hình với các tính năng mạnh mẽ được thiết kế cho mọi cấp độ kỹ năng!",
+      "features": [
+        {
+          "title": "Công nghệ Hoạt hình AI Tiên tiến",
+          "content": "Trình tạo Hoạt hình AI của chúng tôi sử dụng các mô hình học sâu tiên tiến để tạo ra các hoạt hình chất lượng chuyên nghiệp. AI phân tích hình ảnh của bạn một cách thông minh và tự động tạo ra các chuyển động mượt mà và chân thực.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Tạo Hoạt hình Chuyên nghiệp Nhanh chóng",
+          "content": "Biến tác phẩm nghệ thuật tĩnh thành video hoạt hình động hoàn hảo cho mạng xã hội, YouTube, thuyết trình và các dự án sáng tạo. Trình tạo Hoạt hình AI của chúng tôi mang lại kết quả chất lượng giống như ở studio.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Công cụ Hoạt hình AI Thân thiện với Người dùng",
+          "content": "Không cần kỹ năng hoạt hình! Trình tạo Hoạt hình AI của chúng tôi được thiết kế cho mọi người. Chỉ cần tải lên hình ảnh của bạn, nhập một lời nhắc, và để AI tạo ra các hoạt hình tuyệt đẹp cho bạn.",
+          "icon": "👌"
+        },
+        {
+          "title": "Tiết kiệm Hàng giờ Sản xuất",
+          "content": "Trình tạo Hoạt hình AI của chúng tôi tạo ra các hoạt hình trong vài phút thay vì hàng giờ hay hàng ngày. Giảm thời gian sản xuất lên đến 90% so với các phương pháp hoạt hình truyền thống.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Chất lượng Hoạt hình Chuyên nghiệp",
+          "content": "Trình tạo Hoạt hình AI tạo ra kết quả chất lượng cao với các chuyển tiếp mượt mà, chuyển động tự nhiên và tốc độ khung hình nhất quán. Hoàn hảo cho sử dụng chuyên nghiệp và thương mại.",
+          "icon": "✨"
+        },
+        {
+          "title": "Khả năng Sáng tạo Vô hạn",
+          "content": "Tập trung vào tầm nhìn sáng tạo của bạn trong khi Trình tạo Hoạt hình AI của chúng tôi xử lý công việc kỹ thuật phức tạp. Tạo bất kỳ phong cách hoạt hình nào từ các cảnh hành động đến các khoảnh khắc cảm xúc.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp về Trình tạo Hoạt hình AI - Tất cả những gì bạn cần biết",
+      "description": "Tìm hiểu cách tạo ra các hoạt hình chuyên nghiệp với Trình tạo Hoạt hình AI của chúng tôi. Nhận câu trả lời cho các câu hỏi thường gặp về công nghệ hoạt hình AI, các tính năng và các thực tiễn tốt nhất.",
+      "q1": "Trình tạo Hoạt hình AI là gì?",
+      "a1": "Trình tạo Hoạt hình AI là một công cụ AI chuyển đổi các hình ảnh tĩnh thành các video hoạt hình động. Sử dụng các thuật toán học sâu tiên tiến, nó phân tích tác phẩm nghệ thuật của bạn và tự động tạo ra các hoạt hình mượt mà và chất lượng chuyên nghiệp với các chuyển động và biểu cảm chân thực, hoàn hảo cho việc tạo nội dung anime, manga và truyện tranh.",
+      "q2": "Cách sử dụng Trình tạo Hoạt hình AI?",
+      "a2": "Sử dụng Trình tạo Hoạt hình AI rất đơn giản! Đầu tiên, tải lên hình ảnh tĩnh của bạn (tác phẩm anime, manga hoặc truyện tranh). Sau đó, nhập vào một lời nhắc chi tiết mô tả chuyển động, biểu cảm hoặc hành động bạn muốn. Tiếp theo, nhấp vào 'Tạo Hoạt hình' và để AI tạo ra video của bạn. Cuối cùng, tải xuống và chia sẻ hoạt hình của bạn trên các mạng xã hội, YouTube hoặc bất kỳ nền tảng nào.",
+      "q3": "Trình tạo Hoạt hình AI hoạt động như thế nào?",
+      "a3": "Trình tạo Hoạt hình AI sử dụng công nghệ học sâu tiên tiến để phân tích các hình ảnh của bạn. Nó hoạt động bằng cách xác định các yếu tố chính, hiểu bố cục và tạo ra các khung hình trung gian để tạo ra chuyển động mượt mà. AI diễn giải lời nhắc của bạn để tạo ra các chuyển động, biểu cảm khuôn mặt và góc nhìn, tự động biến tác phẩm nghệ thuật tĩnh của bạn thành hiện thực.",
+      "q4": "Trình tạo hoạt hình AI tốt nhất là gì?",
+      "a4": "KomikoAI cung cấp công cụ tạo hoạt hình AI tốt nhất. Mục tiêu của chúng tôi là trở thành nền tảng tạo điều kiện AI hàng đầu bằng cách cung cấp kết quả chất lượng chuyên nghiệp, khả năng tùy chỉnh mạnh mẽ và thú vị, cùng một quy trình làm việc trực quan—được thử hoàn toàn miễn phí. Với Trình tạo Hoạt hình AI của KomikoAI, bạn có thể biến hình ảnh anime, manga và truyện tranh thành các video tuyệt đẹp với các chuyển động chân thực, tạo nội dung hấp dẫn cho mạng xã hội và YouTube, và truy cập vào các mô hình AI tiên tiến cho nhiều phong cách hoạt hình khác nhau, làm cho nó trở nên hoàn hảo cho những người muốn có hoạt hình chuyên nghiệp mà không cần kỹ năng kỹ thuật hoặc phần mềm đắt tiền.",
+      "q5": "Trình tạo Hoạt hình AI của KomikoAI có miễn phí trực tuyến không?",
+      "a5": "Có, bạn có thể dùng thử Trình tạo Hoạt hình AI trên KomikoAI miễn phí mà không cần phải đăng ký bất kỳ gói nào. Thử công cụ của chúng tôi ngay hôm nay!",
+      "q6": "Tôi có thể làm gì với Trình tạo Hoạt hình AI?",
+      "a6": "Bạn có thể sử dụng Trình tạo Hoạt hình AI trên KomikoAI để tạo video nhân vật anime hoạt hình với các chuyển động động, biến các trang manga thành các chuỗi câu chuyện hấp dẫn, mang các minh họa truyện tranh thành thực tế với hành động và cảm xúc, tạo nội dung mạng xã hội thu hút sự chú ý, tạo ra video YouTube và tài liệu quảng cáo, tạo hoạt hình nhân vật cho các dự án trò chơi hoặc kể chuyện, và phát triển các bài thuyết trình chuyên nghiệp với hình ảnh hoạt hình.",
+      "q7": "Tôi có thể sử dụng Trình tạo Hoạt hình AI trên điện thoại của mình không?",
+      "a7": "Có, bạn có thể sử dụng Trình tạo Hoạt hình AI như một ứng dụng web trên các thiết bị khác nhau, bao gồm điện thoại thông minh và máy tính, tạo sự thuận tiện cho mọi người.",
+      "q8": "Tôi có thể tải về sản phẩm của tôi từ Trình tạo Hoạt hình AI không?",
+      "a8": "Có, Trình tạo Hoạt hình AI của KomikoAI cho phép bạn xuất sản phẩm của mình dưới nhiều định dạng khác nhau như MP4 và các định dạng video khác để dễ dàng chia sẻ.",
+      "q9": "Tại sao tôi nên sử dụng Trình tạo Hoạt hình AI?",
+      "a9": "Sử dụng Trình tạo Hoạt hình AI có thể tiết kiệm cho bạn 90% thời gian sản xuất hoạt hình, tạo ra video chất lượng chuyên nghiệp mà không cần có chuyên môn về hoạt hình, và biến tầm nhìn sáng tạo của bạn thành hiện thực ngay lập tức. Công cụ của chúng tôi cho phép bạn biến hình ảnh tĩnh thành hoạt hình sống động với các chuyển động chân thực, tạo ra nội dung hấp dẫn cho mạng xã hội và YouTube, truy cập vào nhiều mô hình AI tiên tiến cho các phong cách hoạt hình khác nhau, và tạo hoạt hình hoàn toàn miễn phí để thử nghiệm."
+    },
+    "cta": {
+      "title": "Tạo ra những Hoạt hình Tuyệt vời MIỄN PHÍ với Trình tạo Hoạt hình AI của chúng tôi hôm nay!",
+      "description": "Biến hình ảnh tĩnh của bạn thành video hoạt hình hấp dẫn trong vài phút. Bắt đầu tạo ngay bây giờ!",
+      "buttonText": "Thử Trình tạo Hoạt hình AI miễn phí"
+    }
+  },
+  "examples": {
+    "title": "Ví Dụ Về Hoạt Hình Anime và Manga AI",
+    "description": "Khám phá những ví dụ hoạt hình được tạo bởi Trình Tạo Hoạt Hình Ảnh AI của chúng tôi. Xem cách bạn có thể biến những hình ảnh tĩnh thành video sống động!",
+    "inputAlt": "Ảnh Đầu Vào Ví Dụ",
+    "inputLabel": "Ảnh Đầu Vào",
+    "outputLabel": "Kết Quả Hoạt Hình",
+    "videoNotSupported": "Trình duyệt của bạn không hỗ trợ thẻ video.",
+    "example1": {
+      "details": "Mô hình: Veo | Lời nhắc: \"Cô gái đang nhảy múa và ca hát\""
+    },
+    "example2": {
+      "details": "Mô hình: Minimax | Lời nhắc: \"Một người đàn ông đang tức giận và tranh cãi\""
+    },
+    "example3": {
+      "details": "Mô hình: Ray | Lời nhắc: \"Một cô gái đang buồn bã và tâm sự\""
+    },
+    "example4": {
+      "details": "Mô hình: Kling | Lời nhắc: \"Một cô gái đang thầm thì một mình trong yên bình\""
+    },
+    "example5": {
+      "details": "Model: Anime Pro | Prompt: \"Cảnh chiến đấu giống anime. Một chiến binh trẻ với thanh kiếm phát sáng đang đối mặt với một con quái vật khổng lồ, ác quỷ có đôi mắt sáng và răng sắc. Cuộc đấu kiếm diễn ra nhanh, tia lửa bay, cận cảnh mãnh liệt. Kết thúc bằng cảnh anh hùng chém quái vật bằng một đòn cuối cùng đầy kịch tính. Phông nền tối, ánh sáng như điện ảnh, các hạt sáng lấp lánh.\""
+    },
+    "example6": {
+      "details": "Model: Anime Pro | Prompt: \"Một cậu bé anime bất ngờ rút súng và bắn khiến tia sáng lóe lên, khuôn mặt căng thẳng và góc quay ấn tượng. Ngay sau đó, cậu quay lưng và chạy xuống phố.\""
+    },
+    "example7": {
+      "details": "Model: Anime Pro | Prompt: \"Cô gái anime trượt ván nhanh qua con hẻm sáng rực đèn neon ban đêm, thực hiện những khúc quanh gấp. Gió làm tóc cô bay, được theo dõi từ phía sau. Các biển hiệu phát sáng phản chiếu trên mặt đường ẩm ướt khi cô lướt qua nhiều con hẻm hẹp.\""
+    },
+    "example8": {
+      "details": "Model: Anime Pro | Prompt: \"Cảnh chiến đấu giống anime. Một chiến binh trẻ với thanh kiếm phát sáng đang đối mặt với một con quái vật khổng lồ, ác quỷ có đôi mắt sáng và răng sắc. Cuộc đấu kiếm diễn ra nhanh, tia lửa bay, cận cảnh mãnh liệt. Kết thúc bằng cảnh anh hùng chém quái vật bằng một đòn cuối cùng đầy kịch tính. Phông nền tối, ánh sáng như điện ảnh, các hạt sáng lấp lánh.\""
+    }
+  }
+}

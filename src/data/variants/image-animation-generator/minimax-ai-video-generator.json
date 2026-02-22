@@ -1,0 +1,135 @@
+{
+  "seo": {
+    "meta": {
+      "title": "MiniMax AI Video Generator - KomikoAI",
+      "description": "Create stunning videos from static images effortlessly with the MiniMax AI Video Generator. Harness advanced AI to convert photos, artwork, and illustrations into captivating video animations.",
+      "fullDescription": "The MiniMax AI Video Generator revolutionizes video creation by transforming your static images into dynamic, engaging videos using cutting-edge AI technology. Ideal for artists, content creators, and marketers, this tool streamlines the animation process and delivers professional-quality results quickly and easily.",
+      "keywords": "AI video generator, image to video AI, AI animation video, AI video creation, video generation from images, image animation tool, AI video maker, video animation AI, dynamic video from images, photo to video AI, AI video editing, AI-driven video, automated video creation, AI content creation, video content AI"
+    },
+    "hero": {
+      "title": "MiniMax AI Video Generator",
+      "description": "Effortlessly turn your static images into vibrant, animated videos with the MiniMax AI Video Generator. Bring your visual content to life using powerful AI-driven technology."
+    },
+    "whatIs": {
+      "title": "What is the MiniMax AI Video Generator?",
+      "description": "The MiniMax AI Video Generator is an innovative AI-powered tool that converts still images—such as photos, illustrations, and digital artwork—into lively, animated videos. Powered by advanced AI algorithms, it is designed to help creators produce engaging video content quickly with minimal effort."
+    },
+    "examples": {
+      "title": "Examples of MiniMax AI Video Generator",
+      "description": "Explore a diverse collection of animated videos generated from simple images. See how MiniMax AI Video Generator transforms static visuals into dynamic storytelling experiences."
+    },
+    "howToUse": {
+      "title": "How to Use the MiniMax AI Video Generator",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Start by uploading the image you want to convert into a video. Whether it’s a drawing, photo, or digital art, MiniMax AI Video Generator can bring it to life."
+        },
+        {
+          "title": "Enter a Detailed Prompt",
+          "content": "Provide a clear description of the animation you envision. Include details about motion, expressions, and any specific effects or styles you want the AI to apply."
+        },
+        {
+          "title": "Generate Your Video",
+          "content": "Hit the 'Generate Animation' button and watch as the AI transforms your static image into a vivid, animated video in just moments."
+        },
+        {
+          "title": "Download and Share Your Creation",
+          "content": "Once generated, download your video in high quality and share it across your social media, projects, or portfolio."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Choose MiniMax AI Video Generator?",
+      "description": "Leverage the advantages of MiniMax AI Video Generator to effortlessly turn images into compelling videos. This tool combines simplicity, speed, and professional-quality output to enhance your creative workflow.",
+      "features": [
+        {
+          "title": "AI-Driven Video Creation",
+          "content": "Use advanced AI technology that automatically converts images into animated videos, freeing you from complex editing tasks.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Create Dynamic Video Content",
+          "content": "Bring life and motion to your still images, making them perfect for social media, marketing campaigns, and digital storytelling.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Simple and User-Friendly",
+          "content": "No technical skills required. Upload your image, enter prompts, and generate videos effortlessly.",
+          "icon": "👌"
+        },
+        {
+          "title": "Save Time with Fast Results",
+          "content": "Generate captivating video animations within seconds, accelerating your content creation process.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Professional Quality Animations",
+          "content": "Produce high-quality videos that look polished and are ready for presentation or publication.",
+          "icon": "🏆"
+        },
+        {
+          "title": "Enhance Your Creative Projects",
+          "content": "Use this tool to add motion and depth to your portfolio, promotional materials, or personal projects.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "MiniMax AI Video Generator FAQ",
+      "description": "Answers to the most frequently asked questions about using the MiniMax AI Video Generator.",
+      "q1": "What is the MiniMax AI Video Generator?",
+      "a1": "It is a smart AI tool that converts static images such as photos or drawings into animated video content using cutting-edge artificial intelligence algorithms.",
+      "q2": "How does the MiniMax AI Video Generator work?",
+      "a2": "The AI interprets the uploaded image and the animation prompt to generate video frames that simulate motion and animation effects, creating a seamless video from static visuals.",
+      "q3": "What types of images can be animated with MiniMax AI Video Generator?",
+      "a3": "You can animate various types of images including digital art, illustrations, photos, and graphics—making them dynamic videos suitable for different media.",
+      "q4": "Do I need any animation experience to use this tool?",
+      "a4": "No animation or technical skills are needed. The AI handles the entire process, making it accessible for everyone from beginners to professionals.",
+      "q5": "Can I use the generated videos for commercial purposes?",
+      "a5": "Yes, videos produced with MiniMax AI Video Generator can be used in both personal and commercial projects, following the tool’s terms of use.",
+      "q6": "Are there limitations on the number of videos I can create?",
+      "a6": "The video creation limits depend on your subscription plan, with free tiers offering limited generations and premium plans providing extended or unlimited usage.",
+      "q7": "What formats does the MiniMax AI Video Generator support?",
+      "a7": "Common image formats such as JPG and PNG are supported, with the output typically delivered in popular video formats ready for sharing or editing.",
+      "q8": "Can I customize the animation style or effects?",
+      "a8": "Yes, by providing detailed prompts on motion, style, and effects, you can guide the AI to produce animations tailored to your vision."
+    }
+  },
+  "originalKeyword": "MiniMax AI Video Generator",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "MINIMAX",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: MiniMax Hailuo",
+      "description": "Prompt: An explosion occurs in an abandoned factory, and a massive mechanical dragon emerges from the ruins.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/33.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: MiniMax Hailuo",
+      "description": "Prompt: The camera captures a low-angle shot of a speeding car racing through the night, its wheels spinning fiercely in the fiery glow on the ground. The camera rapidly zooms in on the car, when suddenly, a shockwave from an explosion violently lifts the car's body. Immediately after, the camera spins quickly, capturing another car emerging from the smoke of the explosion, as the intense chase unfolds, intertwining with flashes of fire and darkness.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/35.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: MiniMax Hailuo",
+      "description": "Prompt: A male in a trench coat walks down a street in a modern city, and the camera follows the male's movements from behind, with a brilliant sci-fi atmosphere and colorful tones.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/9.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: MiniMax Hailuo",
+      "description": "Prompt: In a forest covered in dark clouds, the young boy sprints through the mud with his sword in his hand, his sleeves swinging in the wind. The camera pushes forward and lightning illuminates his resolute face.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/21.webm"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "Générateur de BD IA - KomikoAI",
+    "description": "Créez des bandes dessinées à partir d'une simple idée grâce au générateur de BD IA. Utilisez KomikoAI pour créer des BD, des manhwas et des mangas avec l'aide de l'IA."
+  },
+  "form": {
+    "title": "Générateur de BD IA",
+    "subtitle": "Transformez vos idées en BD, mangas ou manhwas captivants grâce à l'IA. Entrez simplement une idée d'histoire, choisissez votre style et laissez le Générateur de BD IA faire le reste.",
+    "idea_label": "Votre idée de BD",
+    "idea_placeholder": "Saisissez votre idée de BD ici...",
+    "style_label": "Style de BD",
+    "style_placeholder": "Sélectionnez un style de BD",
+    "styles": {
+      "anime": "Anime",
+      "manga": "Manga",
+      "manhwa": "Manhwa",
+      "american": "Américain",
+      "cartoon": "Cartoon",
+      "realistic": "Réaliste"
+    },
+    "type_label": "Type de BD",
+    "type_placeholder": "Sélectionnez un type de BD",
+    "types": {
+      "normal": "Normal",
+      "funny": "Drôle",
+      "meme": "Mème"
+    },
+    "layout_label": "Disposition de la BD",
+    "mode_label": "Mode de génération",
+    "modes": {
+      "gemini": "Gemini",
+      "gemini_cost": "{{cost}} zaps par case",
+      "flux": "Flux",
+      "flux_cost": "{{cost}} zaps par case"
+    },
+    "narration_checkbox": "Ajouter une narration",
+    "generate_button": "Générer la BD"
+  },
+  "buttons": {
+    "edit": "Modifier",
+    "download": "Télécharger",
+    "share": "Partager"
+  },
+  "preview_alt": "Aperçu de la BD",
+  "preview_text": "Saisissez votre idée de BD et cliquez sur Générer pour la créer.",
+  "narration": "Narration",
+  "idea_input": {
+    "label": "Quelle est votre idée d'histoire ?",
+    "custom_placeholder": "Décrivez votre idée d'histoire et précisez un style artistique"
+  },
+  "login_to_generate": "Générer",
+  "edit_button": "Modifier",
+  "comics_generated": "{{count}} BD générées par les utilisateurs de KomikoAI",
+  "comic_type": {
+    "normal": {
+      "label": "🙂 Normal",
+      "text": "Normal"
+    },
+    "meme": {
+      "label": "🤣 Mème",
+      "text": "Mème"
+    }
+  },
+  "comic_style": {
+    "anime": "Anime",
+    "american": "Américain",
+    "manga": "Manga",
+    "manhwa": "Manhwa",
+    "custom": "Personnalisé"
+  },
+  "seo": {
+    "main_heading": "Qu'est-ce que le Générateur de BD IA ?",
+    "main_description": "Le Générateur de BD IA est un outil basé sur l'IA qui permet aux créateurs de transformer facilement des idées en BD, mangas et mèmes captivants. Que vous soyez artiste ou passionné d'histoires, donnez vie à votre imagination grâce à des visuels et une narration générés par l'IA. Entrez simplement une idée d'histoire, choisissez votre style et laissez le Générateur de BD IA de KomikoAI faire le reste. Profitez d'une meilleure génération de BD IA que AI Comic Factory sur Hugging Face."
+  },
+  "how_to_use": {
+    "heading": "Comment utiliser le Générateur de BD IA",
+    "step1": {
+      "title": "Étape 1 : Saisissez votre idée",
+      "content": "Saisissez un concept, une idée d'histoire ou une inspiration de mème. Écrivez une simple phrase ou décrivez votre histoire en détail."
+    },
+    "step2": {
+      "title": "Étape 2 : Personnalisez votre style",
+      "content": "Choisissez parmi des styles comme le manga, l'anime, la BD américaine ou personnalisez votre propre style artistique."
+    },
+    "step3": {
+      "title": "Étape 3 : Génération IA",
+      "content": "Cliquez sur « Générer la BD ». Attendez que le générateur de BD IA de KomikoAI crée des cases, des illustrations, des bulles de dialogue et une narration en fonction de vos entrées. Votre BD sera générée en quelques secondes."
+    },
+    "step4": {
+      "title": "Étape 4 : Exportez et partagez",
+      "content": "Téléchargez des BD de haute qualité pour les partager sur les réseaux sociaux ou les utiliser pour des projets personnels."
+    }
+  },
+  "why_use": {
+    "heading": "Pourquoi générer des BD avec le Générateur de BD IA ?",
+    "description": "Le Générateur de BD IA de KomikoAI simplifie la création de BD pour tous, des débutants aux professionnels, offrant une personnalisation et une accessibilité inégalées.",
+    "features": {
+      "beginner_friendly": {
+        "title": "Facile à utiliser pour les débutants",
+        "content": "Pas besoin de savoir dessiner ! Entrez simplement votre idée et le Générateur de BD IA dessine votre BD pour vous en un seul clic."
+      },
+      "custom_art": {
+        "title": "Styles artistiques personnalisés",
+        "content": "Choisissez parmi des styles artistiques comme la BD américaine, le manga, le manhwa ou l'anime, ou personnalisez votre propre style en le spécifiant dans les instructions."
+      },
+      "amazing_layouts": {
+        "title": "Dispositions impressionnantes",
+        "content": "Choisissez parmi nos dispositions de BD bien conçues pour rendre votre BD géniale. Votre BD sera générée comme vous le souhaitez."
+      },
+      "tell_story": {
+        "title": "Racontez votre histoire",
+        "content": "Le créateur de BD IA de KomikoAI ajoutera automatiquement des bulles de dialogue, des dialogues et une narration à vos BD. Faites parler vos personnages et racontez des histoires passionnantes !"
+      },
+      "ai_efficiency": {
+        "title": "Efficacité basée sur l'IA",
+        "content": "Gagnez des heures de travail manuel en laissant l'IA gérer les visuels, la narration et la disposition."
+      },
+      "high_quality": {
+        "title": "Sorties de haute qualité",
+        "content": "Téléchargez des BD de qualité professionnelle, parfaites pour le partage ou l'impression."
+      },
+      "creative_freedom": {
+        "title": "Liberté créative",
+        "content": "Expérimentez avec des idées, modifiez les détails et affinez vos BD pour raconter votre histoire. Vous n'êtes pas satisfait de votre BD ? Réessayez simplement dans le Générateur de BD IA."
+      },
+      "accessible": {
+        "title": "Accessible à tout moment",
+        "content": "Le Générateur de BD IA est basé sur le cloud, vous permettant de créer des BD depuis n'importe où, sur n'importe quel appareil."
+      },
+      "share_comics": {
+        "title": "Partagez vos BD",
+        "content": "Partagez vos BD sur les réseaux sociaux comme Instagram, Twitter et Facebook. Le Générateur de BD IA de KomikoAI facilite également la création de mèmes adaptés au partage."
+      }
+    }
+  },
+  "faq": {
+    "heading": "FAQ sur le Générateur de BD IA",
+    "description": "Apprenez-en davantage sur le fonctionnement du Générateur de BD IA de KomikoAI et ses avantages.",
+    "edit_after_creation": {
+      "question": "Puis-je modifier ma BD après sa création ?",
+      "answer": "Oui ! Si vous souhaitez modifier l'image, les bulles de dialogue ou la disposition de la BD, cliquez sur le bouton « Modifier » en haut à droite de la BD. Vous serez redirigé vers la page de l'outil de création IA où vous pourrez effectuer vos modifications."
+    },
+    "what_is_comic_generator": {
+      "question": "Qu'est-ce que le Générateur de BD IA ?",
+      "answer": "Le Générateur de BD IA est un outil innovant qui utilise l'IA pour générer automatiquement des BD. Entrez votre idée, choisissez un style de BD et laissez l'IA générer une BD en quelques secondes ! Il simplifie le processus créatif en générant automatiquement des visuels et des dialogues en fonction de votre saisie. Vous pouvez créer tous les types d'histoires, comme des histoires drôles, des aventures ou des histoires de super-héros cool sans dessiner !"
+    },
+    "what_is_manga_generator": {
+      "question": "Qu'est-ce que le Générateur de Manga IA ?",
+      "answer": "Le Générateur de Manga IA est un outil innovant qui utilise l'IA pour générer automatiquement des mangas. Entrez votre idée, choisissez le style manga et laissez l'IA générer un manga en quelques secondes ! Il simplifie le processus créatif en générant automatiquement des visuels et des dialogues en fonction de votre saisie. Vous pouvez créer tous les types de manga : shonen, shojo, seinen, isekai, etc."
+    },
+    "what_is_manhwa_generator": {
+      "question": "Qu'est-ce que le Générateur de Manhwa IA ?",
+      "answer": "Le Générateur de Manhwa IA est un outil innovant qui utilise l'IA pour générer automatiquement des manwhas. Entrez votre idée, choisissez un style manhwa et laissez l'IA générer un manhwa en quelques secondes ! Il simplifie le processus créatif en générant automatiquement des visuels et des dialogues en fonction de votre saisie. Vous pouvez créer tous les types de manhwa : action, romance, comédie, horreur, isekai, etc."
+    },
+    "how_to_make_comics": {
+      "question": "Comment créer des BD avec le Générateur de BD IA ?",
+      "answer": "Créer une BD avec le Générateur de BD IA est super facile ! Tapez simplement une idée d'histoire pour votre BD, et le Générateur de BD IA transformera votre idée en une BD incroyable. Il ajoutera également automatiquement des bulles de dialogue et disposera vos cases de BD."
+    },
+    "how_it_works": {
+      "question": "Comment fonctionne le Générateur de BD IA ?",
+      "answer": "Saisissez simplement votre idée ou concept, sélectionnez un style artistique (anime, manga ou style personnalisé), et laissez l'IA de KomikoAI créer une bande dessinée entièrement conçue. L'IA analyse votre saisie pour générer des visuels détaillés et des dialogues convaincants pour chaque case."
+    },
+    "art_styles": {
+      "question": "Quels styles artistiques sont pris en charge ?",
+      "answer": "KomikoAI prend en charge une gamme de styles, y compris l'anime, le manga, les BD américaines et les styles artistiques personnalisés en fonction de vos instructions."
+    },
+    "what_comics_can_i_generate": {
+      "question": "Quel type de BD puis-je générer ?",
+      "answer": "Vous pouvez générer tout type de BD, manga ou manhwa. Des histoires de super-héros, des animes japonais, des isekai, des régressions, des shonen, des shojo, des seinen, tout ce que vous pouvez imaginer. Le Générateur de BD IA aide à donner vie à vos idées !"
+    },
+    "commercial_use": {
+      "question": "Puis-je utiliser les BD générées à des fins commerciales ?",
+      "answer": "Oui ! Les BD créées avec KomikoAI peuvent être utilisées à des fins personnelles ou commerciales, sous réserve de nos conditions d'utilisation."
+    },
+    "need_drawing_skills": {
+      "question": "Faut-il savoir dessiner pour utiliser le Générateur de BD IA ?",
+      "answer": "Pas du tout ! Le Générateur de BD IA de KomikoAI est conçu pour tout le monde, des artistes professionnels aux débutants complets. Apportez simplement vos idées, et le Générateur de BD IA s'occupera du reste."
+    },
+    "for_memes": {
+      "question": "Puis-je utiliser le Générateur de BD IA pour des mèmes ?",
+      "answer": "Absolument ! Le Générateur de BD IA de KomikoAI est parfait pour créer des mèmes hilarants et viraux. Sélectionnez simplement le mode « Mème » et laissez l'IA faire le travail."
+    },
+    "is_free": {
+      "question": "Le Générateur de BD IA est-il gratuit ?",
+      "answer": "KomikoAI offre un plan gratuit avec des zaps (crédits) limités. Pour plus de fonctionnalités et des limites d'utilisation plus élevées, consultez nos plans tarifaires."
+    },
+    "share_online": {
+      "question": "Puis-je partager mes BD en ligne ?",
+      "answer": "Oui, vous pouvez télécharger vos BD et les partager sur les réseaux sociaux comme Instagram, Twitter et Facebook. KomikoAI facilite également la création de mèmes adaptés au partage."
+    },
+    "custom_art_styles": {
+      "question": "Puis-je créer des styles artistiques personnalisés ?",
+      "answer": "Oui, avec le mode personnalisé de KomikoAI, vous pouvez spécifier votre propre style artistique, vos schémas de couleurs et vos détails visuels pour créer des BD uniques adaptées à votre vision."
+    },
+    "title": "Questions Fréquemment Posées"
+  },
+  "examples": {
+    "title": "Exemples de BD"
+  },
+  "auto_post": "Publication automatique",
+  "date": {
+    "today": "Aujourd’hui",
+    "yesterday": "Hier"
+  }
+}

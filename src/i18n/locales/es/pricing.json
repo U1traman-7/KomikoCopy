@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "title": "Precios | KomikoAI | Crea cómics, manhwas, mangas y animes con IA",
+    "description": "Elige el plan que mejor se adapte a ti y libera tu creatividad con las herramientas de IA de KomikoAI para crear cómics, manhwas, mangas y animes."
+  },
+  "page": {
+    "title": "Elige tu plan KomikoAI",
+    "zapPacksTitle": "Paquetes Zap",
+    "description": "Encuentra tu plan perfecto y empieza a crear hoy. KomikoAI te ofrece todo lo que necesitas para crear personajes, arte, anime y cómics. ¡Los nuevos usuarios obtienen 500 zaps gratis!",
+    "zapPacksDescription": "¿Necesitas más Zaps pero no quieres una suscripción? Compra paquetes de Zaps únicos para impulsar tu creatividad.",
+    "monthly": "Mensual",
+    "annual": "Anual",
+    "save": "Ahorra un 17%",
+    "faq": "Preguntas frecuentes",
+    "one_time_pack": "Paquete único de Zaps",
+    "upgrade_plan": "Mejorar plan",
+    "save50": "Ahorra 50%",
+    "join_now": "¡Ahorra 50%! Únete a KomikoAI para disfrutar de las vibraciones del Año Nuevo y sorpresas festivas. ¡La oferta expira el 6 de enero!",
+    "save_amount": "Ahorra un {{amount}}%"
+  },
+  "plans": {
+    "free": {
+      "name": "Gratis",
+      "price": "$0",
+      "zaps": "Gana Zaps completando tareas",
+      "description": "Para entretenimiento y pruebas",
+      "includes": [
+        "Gana Zaps completando tareas",
+        "Hasta 50 imágenes"
+      ]
+    },
+    "starter": {
+      "name": "Básico",
+      "price": {
+        "monthly": "$9.99",
+        "annual": "99,90 $"
+      },
+      "zaps": "5,000 Zaps / mes",
+      "description": "Ideal para entusiastas del entretenimiento y la IA",
+      "includes": [
+        "100 Zaps de bono diarios por registro",
+        "Hasta 800 imágenes o 40 vídeos",
+        "3 generaciones de vídeo simultáneas",
+        "Sin marca de agua",
+        "Soporte de imágenes con múltiples referencias"
+      ]
+    },
+    "plus": {
+      "name": "Plus",
+      "price": {
+        "monthly": "$19.99",
+        "annual": "199,90 $"
+      },
+      "zaps": "15,000 Zaps / mes",
+      "description": "Perfecto para creadores avanzados",
+      "includes": [
+        "120 Zaps de bono diarios por registro",
+        "Hasta 1,860 imágenes o 93 vídeos",
+        "5 generaciones de vídeo simultáneas",
+        "Todo lo incluido en Starter",
+        "Acceso anticipado a nuevas funciones"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "price": {
+        "monthly": "$49.99",
+        "annual": "499,90 $"
+      },
+      "zaps": "50,000 Zaps / mes",
+      "description": "Para profesionales",
+      "includes": [
+        "160 Zaps de bono diarios por registro",
+        "Hasta 5,480 imágenes o 274 vídeos",
+        "10 generaciones de vídeo simultáneas",
+        "Todo lo incluido en Plus"
+      ],
+      "popular": "Más popular"
+    },
+    "enterprise": {
+      "name": "Empresarial",
+      "price": "Contactar",
+      "zaps": "Contactar",
+      "description": "Para estudios y empresas",
+      "includes": [
+        "Cantidad personalizada de Zaps",
+        "Funciones y límites personalizados",
+        "Soporte prioritario al cliente",
+        "y más..."
+      ]
+    }
+  },
+  "buttons": {
+    "upgrade": "Mejorar",
+    "downgrade": "Disminuir",
+    "currentPlan": "Plan actual",
+    "contactSales": "Contactar con ventas",
+    "cancelSubscription": "Cancelar suscripción",
+    "doNotCancel": "No cancelar",
+    "takeMeBack": "Volver",
+    "buyNow": "Comprar ahora",
+    "manageSubscription": "Administrar suscripción"
+  },
+  "labels": {
+    "active": "Activo",
+    "perMonth": "/mes",
+    "billedAnnually": "Se factura anualmente a {{price}}",
+    "oneTimePurchase": "Compra única",
+    "subscriberBonuses": "Bonificaciones para suscriptores:",
+    "bonusZaps": "{{amount}} Zaps adicionales"
+  },
+  "zapPacks": {
+    "medium": "Paquete pequeño de Zaps",
+    "large": "Paquete grande de Zaps",
+    "packs": [
+      {
+        "name": "800 Zaps",
+        "price": "$0.99",
+        "label": "oneTimeOffer",
+        "bonuses": [
+          {
+            "plan": "Inicial",
+            "amount": "100"
+          },
+          {
+            "plan": "Plus",
+            "amount": "200"
+          },
+          {
+            "plan": "Premium",
+            "amount": "500"
+          }
+        ]
+      },
+      {
+        "name": "2,000 Zaps",
+        "price": "$4.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "Inicial",
+            "amount": "300"
+          },
+          {
+            "plan": "Plus",
+            "amount": "1,700"
+          },
+          {
+            "plan": "Premium",
+            "amount": "3,000"
+          }
+        ]
+      },
+      {
+        "name": "9,000 Zaps",
+        "price": "$19.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "Inicial",
+            "amount": "1,000"
+          },
+          {
+            "plan": "Plus",
+            "amount": "6,000"
+          },
+          {
+            "plan": "Premium",
+            "amount": "11,000"
+          }
+        ]
+      },
+      {
+        "name": "20,000 Zaps",
+        "price": "$39.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "Inicial",
+            "amount": "1,000"
+          },
+          {
+            "plan": "Plus",
+            "amount": "10,000"
+          },
+          {
+            "plan": "Premium",
+            "amount": "20,000"
+          }
+        ]
+      },
+      {
+        "name": "52,500 Zaps",
+        "price": "$99.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "Inicial",
+            "amount": "2,500"
+          },
+          {
+            "plan": "Plus",
+            "amount": "22,000"
+          },
+          {
+            "plan": "Premium",
+            "amount": "47,000"
+          }
+        ]
+      },
+      {
+        "name": "221,500 Zaps",
+        "price": "$399.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "Inicial",
+            "amount": "9,800"
+          },
+          {
+            "plan": "Plus",
+            "amount": "78,000"
+          },
+          {
+            "plan": "Premium",
+            "amount": "178,000"
+          }
+        ]
+      }
+    ],
+    "title": "Paquetes Zap de KomikoAI",
+    "subtitle": "¿Necesitas más zaps sin una suscripción? Compra paquetes zap de una vez para potenciar tu creatividad.",
+    "subscriberBonuses": "Bonificaciones para suscriptores:",
+    "buyNow": "COMPRA AHORA",
+    "oneTimePurchase": "COMPRA ÚNICA",
+    "oneTimeOffer": "OFERTA ÚNICA (SOLO PARA NUEVOS USUARIOS)",
+    "bonusZaps": "+{{amount}} zaps de bonificación",
+    "alreadyPurchased": "YA COMPRADO",
+    "checking": "VERIFICANDO..."
+  },
+  "modals": {
+    "cancel": {
+      "title": "¿Estás seguro de que quieres cancelar?",
+      "message": "Tu acceso a las funciones premium y a {{zaps}} Zaps finalizará al final del mes.",
+      "confirm": "Cancelar suscripción"
+    }
+  },
+  "toasts": {
+    "subscriptionNotCancelled": "Suscripción no cancelada",
+    "subscriptionCancelled": "Suscripción cancelada correctamente",
+    "failedToCancel": "Error al cancelar la suscripción",
+    "failedToCreateZapPack": "Error al crear el paquete único de Zaps",
+    "failedToFindSubscription": "No se pudo encontrar la suscripción"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "question": "¿Qué pasa si me quedo sin zaps este mes?",
+        "answer": "Limitaremos tu capacidad para utilizar las herramientas de IA de KomikoAI, incluyendo la creación de imágenes y videos. Sin embargo, aún puedes ganar más zaps completando tareas diarias. Alternativamente, puedes cambiar del plan gratuito a uno de pago. Te recomendamos elegir un plan que se ajuste mejor a tus necesidades."
+      },
+      {
+        "question": "¿Puedo cambiar a un plan superior?",
+        "answer": "Sí, puedes. Sin embargo, actualmente solo permitimos cambios del plan gratuito a otros planes. No está permitido cambiar entre planes de pago por ahora. Por favor, contáctanos a través de Discord si requieres soporte personalizado."
+      },
+      {
+        "question": "¿Se transfieren los zaps no usados al próximo mes?",
+        "answer": "No, los zaps no utilizados no se transfieren al siguiente mes. Tus zaps se renuevan al inicio de cada ciclo de facturación."
+      },
+      {
+        "question": "¿Qué métodos de pago aceptan?",
+        "answer": "Aceptamos todas las principales tarjetas de crédito (Visa, MasterCard, American Express), Line, Apple Pay, etc. Todos los pagos se procesan de manera segura a través de nuestro proveedor de pagos."
+      },
+      {
+        "question": "¿Hay un plan gratuito disponible?",
+        "answer": "Sí, puedes usar zaps gratis para probar las herramientas de IA de KomikoAI. También puedes ganar más zaps completando tareas diarias."
+      },
+      {
+        "question": "¿Puedo cancelar mi suscripción en cualquier momento?",
+        "answer": "Sí, puedes cancelar tu suscripción en cualquier momento. Si cancelas, conservarás el acceso a las características de tu plan hasta el final de tu período de facturación actual. No ofrecemos reembolsos por meses parciales."
+      },
+      {
+        "question": "¿Puedo obtener un reembolso por mi suscripción?",
+        "answer": "No, no ofrecemos reembolsos por meses parciales. Sin embargo, si no estás satisfecho con nuestro servicio, puedes contactarnos a través de Discord y haremos nuestro mejor esfuerzo para encontrar una solución."
+      },
+      {
+        "question": "¿Hay características exclusivas para los planes de pago?",
+        "answer": "Sí, los planes de pago incluyen características exclusivas como la eliminación de marca de agua, un límite mayor de zaps y prioridad en la generación. Consulta la sección de características para más detalles."
+      },
+      {
+        "question": "¿Recuperaré mis zaps si la generación falla?",
+        "answer": "¡Sí! Si la generación falla, tus zaps no serán descontados."
+      }
+    ]
+  },
+  "productHunt": "Orgullosamente destacado como un producto en Product Hunt",
+  "bonus": "Bono",
+  "custom": "Personalizado",
+  "planes": {
+    "inicial": {
+      "precio": {
+        "anual": "$59.94"
+      }
+    },
+    "plus": {
+      "precio": {
+        "anual": "$119.94"
+      }
+    },
+    "premium": {
+      "precio": {
+        "anual": "$299.94"
+      }
+    }
+  }
+}

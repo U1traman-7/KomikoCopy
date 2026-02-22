@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AIスプライトジェネレーター",
+      "description": "AIスプライトジェネレーターで、印象的なスプライトアートを瞬時に生成。写真から人々を魅了し、創造性を刺激するユニークなビジュアルを共有しましょう。",
+      "keywords": "AIスプライトジェネレーター, AIピクセルアートクリエイター, AIキャラクタージェネレーター, スプライトアートジェネレーター, デジタルアート変換"
+    },
+    "hero": {
+      "title": "AIスプライトジェネレーター"
+    },
+    "whatIs": {
+      "title": "AIスプライトジェネレーターとは",
+      "description": "AIスプライトジェネレーターは、お手持ちの画像をユニークなスプライトアートへと変換するツールです。高度なAIアルゴリズムを活用し、写真をアップロードして様々なスプライトスタイルのフィルターを適用することで、往年のゲームを彷彿とさせる、視覚的に訴求力の高いアートワークを生成できます。直感的で使いやすいインターフェースにより、どなたでも手軽に高品質なスプライトアートをお楽しみいただけます。"
+    },
+    "examples": {
+      "title": "AIスプライトジェネレーターの作例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "AIスプライトジェネレーターの使い方",
+      "steps": [
+        {
+          "title": "ステップ1：写真をアップロード",
+          "content": "デバイスから、鮮明で高解像度の写真を選択してください。コントラストがはっきりとした画像ほど、AIは優れたパフォーマンスを発揮します。"
+        },
+        {
+          "title": "ステップ2：スプライトシートテンプレートを選択",
+          "content": "お好みのスプライトシートテンプレートを選択し、写真のスタイルを変換します。"
+        },
+        {
+          "title": "ステップ3：スプライトシートへ変換",
+          "content": "「スプライトアートに変換」をクリックすると、AIが画像を鮮やかなスプライトアートワークへと変換します。生成されたアートワークを確認し、必要に応じて調整してください。"
+        },
+        {
+          "title": "ステップ4：ダウンロードと共有",
+          "content": "完成したスプライトアートにご満足いただけましたら、ダウンロードして共有しましょう。ソーシャルメディアで作品を公開し、他のクリエイターとの交流をお楽しみください。"
+        }
+      ],
+      "subtitle": "簡単なステップで、あなたの写真を魅力的なスプライトアートに変身させましょう。"
+    },
+    "benefits": {
+      "title": "AIスプライトジェネレーターを選ぶ理由",
+      "description": "あらゆるレベルのクリエイターのために設計された、独自の機能をご体験ください。",
+      "features": [
+        {
+          "title": "🎨 多彩なアートスタイル",
+          "content": "豊富なスプライトアートスタイルから、あなたの芸術的なビジョンやプロジェクトのニーズに最適なスタイルをお選びいただけます。"
+        },
+        {
+          "title": "⚡ 高速かつ効率的",
+          "content": "画像を迅速に変換します。当社のAIスプライトジェネレーターは、品質を損なうことなく、高速な処理時間をお約束します。"
+        },
+        {
+          "title": "🖼️ シンプルで使いやすい",
+          "content": "初心者から、迅速なクリエイティブソリューションを求めるベテランのデジタルアーティストまで、直感的なインターフェースをご利用いただけます。"
+        },
+        {
+          "title": "💫 高品質な出力",
+          "content": "印刷、オンライン共有、あらゆるクリエイティブプロジェクトに対応できる、高解像度画像を生成します。"
+        },
+        {
+          "title": "🎯 クリエイティブコミュニティ",
+          "content": "作品の共有やインスピレーションの発見、他のユーザーとの交流を通じて、活気あふれるスプライトアート愛好家のコミュニティにご参加ください。"
+        },
+        {
+          "title": "🚀 継続的なアップデート",
+          "content": "新しいスタイルや機能が随時追加されます。継続的な機能強化をご活用いただき、創造的な可能性を広げてください。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AIスプライトジェネレーター FAQ",
+      "description": "",
+      "q1": "AIスプライトジェネレーターは、どの画像形式に対応していますか？",
+      "a1": "JPG、PNG、WEBP形式に対応しています。高解像度の画像をスムーズにアップロードおよびダウンロードできます。",
+      "q2": "AIスプライトジェネレーターは、どのようにスプライトアートを作成するのですか？",
+      "a2": "多様なアートスタイルに対応した高度な機械学習アルゴリズムを使用することで、AIは本格的なスプライト変換を実現します。",
+      "q3": "変換できる画像の数に制限はありますか？",
+      "a3": "制限はございません。お好きなだけ画像を変換できます。創造性を自由に追求してください。",
+      "q4": "生成されたスプライトアートを商用利用できますか？",
+      "a4": "はい、生成されたスプライトアートは商用プロジェクトでご利用いただけます。",
+      "q5": "AIスプライトジェネレーターは無料で使用できますか？",
+      "a5": "はい、当社のAIスプライトジェネレーターは基本無料で使用できます。より高度なスタイルのプレミアムオプションもご用意しています。"
+    },
+    "cta": {
+      "title": "AIスプライトジェネレーターで、今すぐ制作を始めましょう！",
+      "description": "AIスプライトジェネレーターで、ピクセルアートの世界を体験してください。写真をユニークなスプライトアートに変換し、あなたの創造性を表現しましょう。今すぐ、あなただけのアーティスティックな旅を始めましょう。",
+      "buttonText": "AIスプライトジェネレーターを無料でお試しください"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into stunning sprite art",
+  "originalKeyword": "AI Sprite Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/boy-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/4_portrait-2-3_9129.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/girl-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/3_portrait-2-3_274.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/girl2-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/1_portrait-2-3_9842.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/ganyu-output.webp",
+      "input": "/images/examples/playground/ai-sprite-generator/ganyu-input.webp",
+      "prompt": "Style: Sprite Sheet"
+    }
+  ]
+}

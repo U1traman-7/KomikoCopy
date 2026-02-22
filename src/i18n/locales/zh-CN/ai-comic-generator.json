@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "AI 漫画生成器 - KomikoAI",
+    "description": "AI 漫画生成器，让您轻松从简单的故事创意生成漫画。使用 KomikoAI 的 AI 漫画生成器，可以生成漫画、韩国漫画和日本漫画。"
+  },
+  "form": {
+    "title": "AI 漫画生成器",
+    "subtitle": "用 AI 将您的创意转化为引人入胜的漫画、动漫或韩国漫画。输入您的故事创意，选择风格，剩下的交给 AI 漫画生成器。",
+    "idea_label": "您的漫画创意",
+    "idea_placeholder": "在此输入您的漫画创意…",
+    "style_label": "漫画风格",
+    "style_placeholder": "选择漫画风格",
+    "styles": {
+      "anime": "动漫",
+      "manga": "漫画",
+      "manhwa": "韩国漫画",
+      "american": "美式漫画",
+      "cartoon": "卡通",
+      "realistic": "写实"
+    },
+    "type_label": "漫画类型",
+    "type_placeholder": "选择漫画类型",
+    "types": {
+      "normal": "普通",
+      "funny": "搞笑",
+      "meme": "梗图"
+    },
+    "layout_label": "漫画布局",
+    "mode_label": "生成模式",
+    "modes": {
+      "gemini": "Gemini",
+      "gemini_cost": "每个面板 {{cost}} zaps",
+      "flux": "Flux",
+      "flux_cost": "每个面板 {{cost}} zaps"
+    },
+    "narration_checkbox": "包含旁白",
+    "generate_button": "生成漫画"
+  },
+  "buttons": {
+    "edit": "编辑",
+    "download": "下载",
+    "share": "分享"
+  },
+  "preview_alt": "漫画预览",
+  "preview_text": "输入您的漫画创意并点击生成按钮以创建您的漫画。",
+  "narration": "旁白",
+  "idea_input": {
+    "label": "您的故事创意是什么？",
+    "custom_placeholder": "输入您的故事创意并指定艺术风格"
+  },
+  "login_to_generate": "生成",
+  "edit_button": "编辑",
+  "comics_generated": "KomikoAI 用户共生成了 {{count}} 部漫画",
+  "comic_type": {
+    "normal": {
+      "label": "🙂 普通",
+      "text": "普通"
+    },
+    "meme": {
+      "label": "🤣 梗图",
+      "text": "梗图"
+    }
+  },
+  "comic_style": {
+    "anime": "动漫",
+    "american": "美式",
+    "manga": "漫画",
+    "manhwa": "韩国漫画",
+    "custom": "自定义"
+  },
+  "seo": {
+    "main_heading": "什么是 AI 漫画生成器",
+    "main_description": "AI 漫画生成器是一款由 AI 驱动的工具，帮助创作者轻松将创意转化为引人入胜的漫画、动漫和梗图。不论您是艺术家还是故事爱好者，使用 AI 生成的视觉效果和旁白将您的想象变为现实。输入故事创意，选择风格，剩下的交给 KomikoAI 的 AI 漫画生成器。享受比 Hugging Face AI 漫画工厂更优质的漫画生成体验。"
+  },
+  "how_to_use": {
+    "heading": "如何使用 AI 漫画生成器",
+    "step1": {
+      "title": "步骤 1：输入您的创意",
+      "content": "输入您的概念、故事创意或梗图灵感。可以是一句简单的描述或详细的故事。"
+    },
+    "step2": {
+      "title": "步骤 2：自定义您的风格",
+      "content": "选择漫画、动漫、美式漫画等风格，或定义您的艺术风格。"
+    },
+    "step3": {
+      "title": "步骤 3：AI 生成",
+      "content": "点击“生成漫画”按钮，KomikoAI 的 AI 漫画生成器将根据您的输入生成漫画面板、艺术、对话和旁白，几秒钟内即可完成。"
+    },
+    "step4": {
+      "title": "步骤 4：导出和分享",
+      "content": "下载高质量的漫画成果，方便分享到社交媒体或用于个人项目。"
+    }
+  },
+  "why_use": {
+    "heading": "为什么选择 AI 漫画生成器",
+    "description": "KomikoAI 的 AI 漫画生成器为任何人提供简单的漫画创作体验，从初学者到专业人士，都能享受无与伦比的自定义和便捷性。",
+    "features": {
+      "beginner_friendly": {
+        "title": "对初学者友好",
+        "content": "没有绘画技能？没关系！只需输入创意，AI 漫画生成器即可一键完成漫画创作。"
+      },
+      "custom_art": {
+        "title": "自定义艺术风格",
+        "content": "选择美式漫画、漫画、韩国漫画或动漫风格，或通过提示自定义您的艺术风格。"
+      },
+      "amazing_layouts": {
+        "title": "惊艳的布局",
+        "content": "从我们精美设计的漫画布局中选择，让您的漫画更具吸引力。"
+      },
+      "tell_story": {
+        "title": "述说您的故事",
+        "content": "KomikoAI 的 AI 漫画生成器会自动为您的漫画添加对话和旁白。让您的角色尽情讲述动人故事吧！"
+      },
+      "ai_efficiency": {
+        "title": "AI 驱动的高效",
+        "content": "让 AI 处理视觉效果、旁白和布局，帮您省下大量手动制作时间。"
+      },
+      "high_quality": {
+        "title": "高质量输出",
+        "content": "下载达到专业水准的漫画作品，适合分享或打印。"
+      },
+      "creative_freedom": {
+        "title": "自由创作",
+        "content": "尝试不同的想法、调整细节，完善漫画以更好地讲述您的故事。不满意？可随时在 AI 漫画生成器中重试。"
+      },
+      "accessible": {
+        "title": "随时可用",
+        "content": "AI 漫画生成器基于云技术，您可以随时随地使用任一设备创建漫画。"
+      },
+      "share_comics": {
+        "title": "分享您的漫画",
+        "content": "在 Instagram、Twitter 和 Facebook 等社交媒体上分享您的漫画。KomikoAI 的 AI 漫画生成器还可轻松生成适合分享的梗图。"
+      }
+    }
+  },
+  "faq": {
+    "heading": "AI 漫画生成器常见问题",
+    "description": "了解有关 KomikoAI 的 AI 漫画生成器如何工作及其优势的更多信息。",
+    "edit_after_creation": {
+      "question": "AI 漫画生成器创建漫画后，我可以编辑吗？",
+      "answer": "可以！如果您想更换图像、编辑对话或调整漫画布局，只需点击漫画右上角的“编辑”按钮，进入 AI 画布页面即可进行修改。"
+    },
+    "what_is_comic_generator": {
+      "question": "什么是 AI 漫画生成器？",
+      "answer": "AI 漫画生成器是一款创新工具，通过 AI 自动生成漫画。输入创意，选择漫画风格，AI 就会在几秒钟内生成漫画！它通过根据您的输入自动生成视觉效果和对话，简化了创作过程。无需绘画即可创作各种漫画故事，如有趣的故事、冒险故事或炫酷的超级英雄情节！"
+    },
+    "what_is_manga_generator": {
+      "question": "什么是 AI 日本漫画生成器？",
+      "answer": "AI 日本漫画生成器是一种创新工具，利用 AI 自动生成日本漫画。输入您的构思，选择日本漫画风格，AI 即可在几秒钟内生成日本漫画！它通过根据您的输入自动创建视觉效果和对话，简化了创作过程。您可以创作如少年漫画、少女漫画、青年漫画、异世界等所有类型的日本漫画。"
+    },
+    "what_is_manhwa_generator": {
+      "question": "什么是 AI 韩国漫画生成器？",
+      "answer": "AI 韩国漫画生成器是一种创新工具，利用 AI 自动生成韩国漫画。输入您的想法，选择韩国漫画风格，AI 即可在几秒钟内生成韩国漫画！它通过根据您的输入自动生成视觉效果和对话，简化了创作过程。您可以创作所有类型的韩国漫画，如动作、浪漫、喜剧、恐怖、异世界等。"
+    },
+    "how_to_make_comics": {
+      "question": "如何使用 AI 漫画生成器制作漫画？",
+      "answer": "使用 AI 漫画生成器制作漫画非常简单！只需输入您的漫画构思，AI 漫画生成器就会将您的创意转化为精彩的漫画，并自动添加对话框和排列漫画面板。"
+    },
+    "how_it_works": {
+      "question": "AI 漫画生成器如何工作？",
+      "answer": "只需输入您的创意或概念，选择艺术风格（动漫、漫画或自定义风格），KomikoAI 的 AI 即可创建完整设计的漫画条。AI 会分析您的输入，为每个面板生成详细的视觉效果和引人入胜的对话。"
+    },
+    "art_styles": {
+      "question": "支持哪些艺术风格？",
+      "answer": "KomikoAI 支持多种风格，包括动漫、漫画、美式漫画和基于您的提示的自定义艺术风格。"
+    },
+    "what_comics_can_i_generate": {
+      "question": "我可以使用 AI 漫画生成器生成哪种漫画？",
+      "answer": "您几乎可以生成任何类型的漫画、动漫、韩国漫画，包括超级英雄故事、动漫、异世界、回归、少年漫画、少女漫画、青年漫画，以及您能够想象的任何故事。AI 漫画生成器帮助实现您的创意！"
+    },
+    "commercial_use": {
+      "question": "我可以将生成的漫画用于商业用途吗？",
+      "answer": "可以！通过 KomikoAI 创建的漫画可以用于个人或商业用途，但须遵循我们的服务条款。"
+    },
+    "need_drawing_skills": {
+      "question": "使用 AI 漫画生成器我需要懂得绘画吗？",
+      "answer": "完全不需要！KomikoAI 的 AI 漫画生成器适用于所有人，从专业艺术家到完全的初学者。只需带上您的创意，AI 漫画生成器将完成全部工作。"
+    },
+    "for_memes": {
+      "question": "我可以用 AI 漫画生成器制作梗图吗？",
+      "answer": "当然可以！KomikoAI 的 AI 漫画生成器非常适合创造搞笑和快速传播的梗图。只需选择“梗图”模式，让 AI 完成创作。"
+    },
+    "is_free": {
+      "question": "AI 漫画生成器是免费使用的吗？",
+      "answer": "KomikoAI 提供有限 zaps（积分）的免费计划。如需更多功能和更高使用限额，请查看我们的定价计划。"
+    },
+    "share_online": {
+      "question": "我可以在线分享我的漫画吗？",
+      "answer": "当然可以，您可以下载您的漫画并在 Instagram、Twitter 和 Facebook 等社交媒体平台上分享。KomikoAI 还让适合分享的梗图生成变得更简单。"
+    },
+    "custom_art_styles": {
+      "question": "我可以在 AI 漫画生成器中创建自定义艺术风格吗？",
+      "answer": "是的，使用 KomikoAI 的自定义模式，您可以指定自己的艺术风格、配色方案和视觉细节，以创建符合您愿景的独特漫画。"
+    },
+    "title": "常见问题解答"
+  },
+  "date": {
+    "today": "今日",
+    "yesterday": "昨日"
+  },
+  "examples": {
+    "title": "漫画示例"
+  },
+  "auto_post": "自动推送"
+}

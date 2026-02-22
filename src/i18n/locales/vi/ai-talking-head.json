@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "title": "AI Talking Head - KomikoAI",
+    "description": "Tạo video người thật ảo sống động như thật từ ảnh và âm thanh",
+    "fullDescription": "Biến ảnh tĩnh thành video người thật ảo sống động nhờ AI. Tải ảnh lên và thêm âm thanh để tạo video có người nói chuyện chân thực.",
+    "keywords": "AI người thật ảo, tạo video, biến ảnh thành video, biến âm thanh thành video, hoạt hình AI, chân dung biết nói"
+  },
+  "title": "Đầu Nói AI",
+  "description": "Tạo video người thật ảo sống động từ ảnh. Tải ảnh và cung cấp âm thanh để ảnh 'nói'.",
+  "cost": "Chi phí",
+  "upload": {
+    "image": "Tải Ảnh Lên",
+    "title": "Tải Ảnh Lên",
+    "click": "Nhấn để tải ảnh lên",
+    "supports": "Hỗ trợ JPEG, PNG, WebP",
+    "dropHere": "Kéo và thả ảnh vào đây",
+    "orClick": "hoặc nhấn để tải lên",
+    "fileSize": "Kích thước tối đa: 10MB",
+    "tooltip": "Tải ảnh chân dung và âm thanh",
+    "imageSizeInfo": "Dung lượng tối đa: {{maxSize}}MB. Ảnh có dung lượng lớn sẽ được tự động nén.",
+    "audioSizeInfo": "Dung lượng âm thanh tối đa: {{maxSize}}MB. Thời lượng tối đa: 2 phút."
+  },
+  "model": {
+    "select": "Chọn Mô Hình",
+    "placeholder": "Chọn một mô hình",
+    "loading": "Đang tải mô hình...",
+    "credits": "credits",
+    "default": "Mô hình mặc định",
+    "description": "Các mô hình khác nhau cho các kiểu và chất lượng khác nhau",
+    "aspectRatio": "Tỷ Lệ Khung Hình",
+    "resolution": "Độ Phân Giải",
+    "duration": "Thời Lượng",
+    "zaps": "zaps",
+    "textToSpeech": "Chuyển Văn Bản Thành Giọng Nói",
+    "supportsTTS": "Hỗ trợ Chuyển Văn Bản Thành Giọng Nói",
+    "noTTS": "Cần tải lên âm thanh"
+  },
+  "textToSpeech": {
+    "title": "Chuyển Văn Bản Thành Giọng Nói",
+    "description": "Một số mô hình cho phép tạo giọng nói từ văn bản. Với các mô hình không hỗ trợ, cần tải lên âm thanh.",
+    "input": "Nhập văn bản cho giọng nói",
+    "placeholder": "Nhập nội dung bạn muốn nhân vật nói",
+    "language": "Ngôn Ngữ Giọng Nói",
+    "voiceType": "Loại Giọng",
+    "speed": "Tốc Độ Giọng Nói",
+    "note": "Lưu ý: Chất lượng Chuyển Văn Bản Thành Giọng Nói tùy thuộc vào mô hình và ngôn ngữ",
+    "estimatedDuration": "Âm thanh ước tính {{duration}} giây: {{zaps}} Zaps",
+    "defaultDuration": "Zaps được tính dựa trên độ dài văn bản (mặc định: 10 giây)"
+  },
+  "style": {
+    "prompt": "Nhắc nhở (Tùy chọn)",
+    "placeholder": "Mô tả phong cách hoặc tâm trạng của video",
+    "examples": "Ví dụ:",
+    "example1": "Người phát ngôn doanh nghiệp chuyên nghiệp",
+    "example2": "Nhiệt tình và năng động",
+    "example3": "Điềm tĩnh và đáng tin cậy"
+  },
+  "quality": {
+    "title": "Chất Lượng",
+    "standard": "Tiêu chuẩn",
+    "high": "Cao",
+    "standardDesc": "Chất lượng tốt cho mục đích sử dụng thông thường",
+    "highDesc": "Đồng bộ môi và biểu cảm khuôn mặt tốt hơn",
+    "costs": {
+      "standard": "Tiêu chuẩn: {{cost}} credits",
+      "high": "Cao: {{cost}} credits"
+    }
+  },
+  "audioInput": {
+    "label": "Đầu Vào Âm Thanh",
+    "click": "Nhấn để tải âm thanh lên",
+    "supports": "Hỗ trợ MP3, WAV",
+    "fileSize": "Kích thước tối đa: 10MB",
+    "duration": "Thời lượng tối đa: 60 giây",
+    "tips": "Mẹo để có kết quả tốt nhất:",
+    "tip1": "Sử dụng âm thanh rõ ràng, ít tạp âm",
+    "tip2": "Âm thanh dưới 60 giây cho chất lượng tốt nhất",
+    "tip3": "Ghi âm đơn giọng hoạt động tốt nhất",
+    "orUseText": "Hoặc dùng chuyển văn bản thành giọng nói nếu mô hình hỗ trợ",
+    "detectedDuration": "Âm thanh nhận diện được {{duration}} giây: {{zaps}} Zaps",
+    "defaultDuration": "Zaps được tính dựa trên độ dài âm thanh (mặc định: 10 giây)",
+    "uploadTab": "Tải Lên",
+    "recordTab": "Ghi Âm"
+  },
+  "buttons": {
+    "generate": "Tạo Video",
+    "generating": "Đang tạo...",
+    "reset": "Đặt Lại",
+    "download": "Tải Video Xuống",
+    "share": "Chia Sẻ",
+    "tryAgain": "Thử Lại",
+    "saveToGallery": "Lưu vào Bộ Sưu Tập"
+  },
+  "result": {
+    "title": "Video Đã Tạo",
+    "processing": "Đang xử lý video của bạn...",
+    "videoReady": "Video của bạn sẽ xuất hiện ở đây",
+    "shareText": "Chia sẻ video này",
+    "downloadTip": "Tải xuống để lưu vào thiết bị",
+    "videoStats": "{{duration}} giây, độ phân giải {{resolution}}"
+  },
+  "loading": {
+    "preparing": "Đang chuẩn bị tài nguyên...",
+    "processing": "Đang xử lý yêu cầu...",
+    "analyzing": "Đang phân tích ảnh...",
+    "generating": "Đang tạo video...",
+    "finalizing": "Đang hoàn thiện video..."
+  },
+  "toasts": {
+    "login": "Vui lòng đăng nhập để sử dụng tính năng này",
+    "imageRequired": "Vui lòng chọn một ảnh",
+    "audioRequired": "Vui lòng chọn một tệp âm thanh",
+    "invalidImage": "Vui lòng chọn tệp ảnh hợp lệ (JPEG, PNG, WebP)",
+    "invalidAudio": "Vui lòng chọn tệp âm thanh hợp lệ (MP3, WAV)",
+    "audioSelected": "Đã chọn tệp âm thanh",
+    "success": "Tạo video thành công",
+    "failure": "Không thể tạo video",
+    "downloadFailed": "Không thể tải video xuống",
+    "noCredit": "Không đủ credit",
+    "imageTooLarge": "Kích thước ảnh vượt quá 10MB",
+    "audioTooLarge": "Kích thước âm thanh vượt quá 10MB",
+    "processingQueued": "Yêu cầu của bạn đang được xử lý. Chúng tôi sẽ thông báo khi hoàn tất.",
+    "savedToGallery": "Đã lưu video vào bộ sưu tập",
+    "modelRequired": "Vui lòng chọn một mô hình",
+    "modelsFetchFailed": "Không thể tải mô hình",
+    "usingFallbackModel": "Sử dụng mô hình mặc định - không thể tải mô hình từ máy chủ",
+    "fetchFailed": "Không thể tải video",
+    "deleteFailed": "Không thể xóa video",
+    "deleteSuccess": "Đã xóa video thành công",
+    "textRequired": "Vui lòng nhập văn bản"
+  },
+  "credit": {
+    "remaining": "Còn lại {{amount}} credits",
+    "required": "Cần {{amount}} credits",
+    "insufficientCredits": "Bạn cần thêm {{required}} credits",
+    "getPremium": "Nâng cấp lên Premium để có thêm credits"
+  },
+  "errors": {
+    "imageProcessing": "Lỗi xử lý ảnh",
+    "audioProcessing": "Lỗi xử lý âm thanh",
+    "serverError": "Lỗi máy chủ, vui lòng thử lại sau",
+    "networkError": "Lỗi mạng, vui lòng kiểm tra kết nối",
+    "invalidRequest": "Tham số không hợp lệ",
+    "timeout": "Yêu cầu hết thời gian, vui lòng thử lại"
+  },
+  "modal": {
+    "deleteTitle": "Xác Nhận Xóa",
+    "deleteMessage": "Bạn có chắc chắn muốn xóa video này? Hành động này không thể hoàn tác.",
+    "cancel": "Hủy",
+    "delete": "Xóa"
+  },
+  "examples": {
+    "title": "Ví Dụ Về Đầu Nói AI",
+    "description": "Xem các ví dụ về việc sử dụng Đầu Nói AI trước và sau. Những ví dụ này minh họa cách hình ảnh tĩnh được chuyển thành video nói chuyện thực tế.",
+    "inputCaption": "Ảnh gốc",
+    "outputCaption1": "Video AI với giọng nói tiếng Nhật đồng bộ",
+    "outputCaption2": "Video AI với giọng nói tiếng Nhật đồng bộ",
+    "outputCaption3": "Video AI với giọng nói tiếng Tây Ban Nha đồng bộ",
+    "outputCaption4": "Video AI với giọng nói tiếng Anh đồng bộ",
+    "model": "Mô Hình",
+    "transcript": "Bản Ghi",
+    "inputAlt": "Ảnh chân dung mẫu"
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp",
+    "description": "Khám phá các câu hỏi thường gặp về Đầu Nói AI của chúng tôi, bao gồm các tính năng và khả năng, cùng cách công cụ này có thể cách mạng hóa quy trình tạo video của bạn.",
+    "q1": "Làm thế nào để ghi âm trực tiếp trong trình duyệt?",
+    "a1": "Chỉ cần nhấp vào tab 'Ghi Âm' trong phần đầu vào âm thanh, sau đó nhấn nút micro để bắt đầu ghi âm. Bạn sẽ thấy bộ đếm thời gian đếm ngược thời lượng ghi âm của mình. Nhấn nút dừng khi hoàn tất, và bạn có thể xem trước bản ghi âm của mình trước khi sử dụng nó cho video đầu nói.",
+    "q2": "Loại ảnh nào phù hợp nhất?",
+    "a2": "Ảnh chân dung rõ ràng, nhìn thẳng hoạt động tốt nhất. Khuôn mặt nên đủ sáng, không bị che khuất và nhìn thẳng vào máy ảnh. Biểu cảm trung tính thường cho kết quả tốt nhất.",
+    "q3": "Âm thanh của tôi có thể dài bao lâu?",
+    "a3": "Để có kết quả tốt nhất, hãy giữ âm thanh dưới 60 giây. Nội dung dài hơn có thể giảm chất lượng hoặc gây lỗi đồng bộ.",
+    "q4": "Sự khác biệt giữa chất lượng tiêu chuẩn và cao là gì?",
+    "a4": "Chất lượng cao sử dụng các mô hình AI tiên tiến hơn để tạo chuyển động khuôn mặt chân thực và đồng bộ môi tốt hơn. Tốn nhiều credit hơn nhưng cho kết quả tự nhiên hơn.",
+    "q5": "Tôi có thể sử dụng video đã tạo cho mục đích thương mại không?",
+    "a5": "Bạn có trách nhiệm đảm bảo bạn có quyền sử dụng cả ảnh và video. Luôn xin phép người trong ảnh trước khi tạo hoặc chia sẻ video.",
+    "q6": "Tôi có thể chỉnh sửa video sau khi đã tạo không?",
+    "a6": "Video đã tạo có thể được tải xuống và sau đó chỉnh sửa bằng bất kỳ phần mềm chỉnh sửa video nào bạn chọn.",
+    "q7": "Chúng tôi có lưu trữ hình ảnh hoặc âm thanh của tôi không?",
+    "a7": "Chúng tôi chỉ xử lý phương tiện của bạn tạm thời để tạo video đầu nói, nhưng không lưu trữ vĩnh viễn hình ảnh hay tệp âm thanh gốc của bạn.",
+    "q8": "Những định dạng âm thanh nào được hỗ trợ?",
+    "a8": "Hiện tại, chúng tôi hỗ trợ các định dạng âm thanh MP3 và WAV.",
+    "q9": "Tại sao video tạo ra trông không tự nhiên?",
+    "a9": "Chất lượng phụ thuộc vào chất lượng hình ảnh đầu vào, ánh sáng, góc độ, biểu cảm khuôn mặt, và âm thanh. Hãy thử với bức ảnh chân dung rõ nét, ánh sáng tốt và biểu cảm trung lập để có kết quả tốt nhất.",
+    "q10": "Tại sao video của tôi trông không tự nhiên?",
+    "a10": "Chất lượng phụ thuộc vào chất lượng ảnh gốc, ánh sáng, góc, biểu cảm và chất lượng âm thanh. Hãy thử ảnh rõ hơn, ánh sáng tốt và biểu cảm trung tính để có kết quả tốt nhất."
+  },
+  "tips": {
+    "title": "Mẹo Để Có Kết Quả Tốt Nhất",
+    "imageQuality": "Sử dụng ảnh chất lượng cao, ánh sáng tốt",
+    "facialExpression": "Chọn ảnh có biểu cảm trung tính",
+    "framing": "Đảm bảo khuôn mặt ở giữa và hiển thị đầy đủ",
+    "audioQuality": "Sử dụng âm thanh rõ ràng, ít tạp âm",
+    "audioLength": "Giữ âm thanh dưới 60 giây để đồng bộ tốt hơn",
+    "resolution": "Ảnh độ phân giải cao cho kết quả tốt hơn"
+  },
+  "whatIsSection": {
+    "title": "AI Talking Head là gì?",
+    "description": "AI Talking Head tạo ra các video nói chuyện sống động từ hình ảnh tĩnh. Nó tạo hoạt ảnh cho khuôn mặt để phù hợp với giọng nói bằng công nghệ AI tiên tiến. Chỉ cần tải lên một bức chân dung, ghi âm hoặc tải lên tệp âm thanh, và nhìn hình ảnh trở nên sống động!",
+    "recordingCaption": "Ghi âm trực tiếp trong trình duyệt"
+  },
+  "whyChoose": {
+    "title": "Tại Sao Chọn Đầu Nói AI Của Chúng Tôi",
+    "description": "Đầu Nói AI của chúng tôi mang lại nhiều lợi ích, khiến nó trở thành lựa chọn lý tưởng để tạo video nói chuyện thực tế từ hình ảnh tĩnh."
+  },
+  "howToSection": {
+    "title": "Cách Sử Dụng Đầu Nói AI"
+  },
+  "steps": {
+    "step1": {
+      "title": "Tải Ảnh Lên",
+      "content": "Tải ảnh chân dung rõ ràng, ánh sáng tốt và biểu cảm trung tính."
+    },
+    "step2": {
+      "title": "Thêm Giọng Nói",
+      "content": "Ghi âm trực tiếp trên trình duyệt của bạn hoặc tải lên tệp âm thanh để hình ảnh của bạn có thể \"nói\"."
+    },
+    "step3": {
+      "title": "Tùy Chỉnh Tùy Chọn",
+      "content": "Thêm nhắc nhở tùy chọn và chọn tỷ lệ khung hình và độ phân giải mong muốn."
+    },
+    "step4": {
+      "title": "Tạo & Tải Xuống",
+      "content": "Nhấn tạo, đợi xử lý và tải video xuống."
+    }
+  },
+  "features": {
+    "feature1": {
+      "title": "Đồng Bộ Môi Chân Thực",
+      "content": "AI tiên tiến đảm bảo đồng bộ môi và giọng nói chính xác để có kết quả tự nhiên."
+    },
+    "feature2": {
+      "title": "Ghi Âm Trực Tiếp",
+      "content": "Ghi âm giọng nói của bạn trực tiếp trên trình duyệt hoặc tải lên âm thanh đã ghi để có sự linh hoạt tối đa."
+    },
+    "feature3": {
+      "title": "Tùy Chọn Chất Lượng Cao",
+      "content": "Chọn giữa chất lượng tiêu chuẩn và cao tùy thuộc vào nhu cầu của bạn."
+    },
+    "feature4": {
+      "title": "Xử Lý Nhanh Chóng",
+      "content": "AI được tối ưu hóa tạo video nhanh chóng mà không ảnh hưởng đến chất lượng."
+    },
+    "feature5": {
+      "title": "Dễ Sử Dụng",
+      "content": "Giao diện đơn giản giúp mọi người dễ dàng tạo video chuyên nghiệp mà không cần kiến thức kỹ thuật."
+    },
+    "feature6": {
+      "title": "Tùy Chỉnh Phong Cách",
+      "content": "Thêm nhắc nhở để hướng dẫn AI tạo video với phong cách hoặc tâm trạng cụ thể."
+    }
+  },
+  "aspectRatio": {
+    "label": "Tỷ Lệ Khung Hình",
+    "landscape": "Ngang",
+    "portrait": "Dọc",
+    "square": "Vuông"
+  },
+  "resolution": {
+    "label": "Độ Phân Giải"
+  },
+  "zapReminder": "Zaps được tính toán dựa trên độ dài của âm thanh (mặc định: 10 giây)"
+}

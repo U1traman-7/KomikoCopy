@@ -1,0 +1,231 @@
+{
+  "ui": {
+    "title": "Đơn Giản Hóa Phác Thảo AI",
+    "description": "Biến bản phác thảo của bạn thành tác phẩm nghệ thuật nét vẽ rõ ràng, tinh gọn nhờ AI. Trải nghiệm đơn giản hóa phác thảo tức thì, giúp bạn chỉnh sửa bản vẽ chỉ với một cú nhấp chuột! Hoàn hảo cho các nghệ sĩ, nhà thiết kế và người yêu thích manga muốn tối ưu quy trình sáng tạo.",
+    "input": {
+      "title": "Đầu vào",
+      "tooltip": "Tải lên bản phác thảo để đơn giản hóa",
+      "sketchImage": "Ảnh Phác Thảo",
+      "aiModel": "Mô hình AI",
+      "models": {
+        "basic": "Cơ bản",
+        "advanced": "Nâng cao"
+      },
+      "selectModel": "Chọn mô hình"
+    },
+    "buttons": {
+      "simplifyImage": "Đơn Giản Hóa Ảnh"
+    },
+    "output": {
+      "title": "Kết Quả Đơn Giản Hóa",
+      "emptyState": "Kết quả đơn giản hóa sẽ hiển thị ở đây",
+      "uploadPrompt": "Tải ảnh lên để bắt đầu"
+    },
+    "toast": {
+      "fetchImagesFailed": "Không thể tải ảnh",
+      "deleteSuccess": "Xóa thành công",
+      "deleteFailed": "Xóa không thành công",
+      "downloadFailed": "Không thể tải xuống",
+      "simplifySuccess": "Đơn giản hóa ảnh thành công",
+      "simplifyFailed": "Đơn giản hóa ảnh không thành công",
+      "createImageFailed": "Tạo ảnh không thành công"
+    },
+    "examples": {
+      "inputSketch": "Phác Thảo Gốc",
+      "simplifiedResult": "Kết Quả Sau Đơn Giản Hóa",
+      "example1": "Bản phác thảo thô được chuyển đổi thành nét vẽ rõ ràng",
+      "example2": "Bản phác thảo thô được tinh chỉnh thành nét vẽ sắc nét"
+    },
+    "modal": {
+      "deleteTitle": "Xác Nhận Xóa",
+      "deleteMessage": "Bạn có chắc chắn muốn xóa ảnh này không? Hành động này không thể hoàn tác.",
+      "cancel": "Hủy",
+      "delete": "Xóa"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Đơn Giản Hóa Phác Thảo AI - KomikoAI",
+      "description": "Biến bản phác thảo phức tạp thành nét vẽ rõ ràng, tinh gọn nhờ AI. Tải bản phác thảo của bạn lên và để AI chỉnh sửa.",
+      "keywords": "Đơn giản hóa phác thảo AI, phác thảo thành nét vẽ, vẽ nét bằng AI, tinh chỉnh phác thảo, phác thảo manga, phác thảo truyện tranh, công cụ vẽ AI, làm sạch phác thảo, tạo nét vẽ"
+    },
+    "hero": {
+      "title": "Đơn Giản Hóa Phác Thảo AI"
+    },
+    "howToUse": {
+      "title": "Cách đơn giản hóa bản phác thảo bằng AI",
+      "description": "Biến bản phác thảo của bạn thành nét vẽ rõ ràng, tinh gọn với AI của Komiko chỉ trong vài bước đơn giản.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Bước 1: Tải Ảnh Phác Thảo Lên",
+          "content": "Tải bản phác thảo hoặc bản vẽ thô của bạn lên công cụ Đơn Giản Hóa AI. Hỗ trợ định dạng JPG và PNG."
+        },
+        {
+          "step": 2,
+          "title": "Bước 2: Đơn Giản Hóa và Chia Sẻ",
+          "content": "Nhấn 'Đơn Giản Hóa Ảnh' và chờ AI thực hiện phép màu. Tải xuống và chia sẻ tác phẩm đã đơn giản hóa!"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Ví Dụ Đơn Giản Hóa Phác Thảo AI",
+      "description": "Xem kết quả đơn giản hóa phác thảo do người dùng Anitoon tạo ra"
+    },
+    "cta": {
+      "title": "Biến Đổi Bản Phác Thảo Của Bạn Với AI Ngay Hôm Nay!",
+      "description": "Bắt đầu đơn giản hóa bản phác thảo của bạn với công nghệ AI tiên tiến.",
+      "buttonText": "Dùng Thử Đơn Giản Hóa Phác Thảo Miễn Phí"
+    },
+    "benefits": {
+      "title": "Tại sao nên đơn giản hóa phác thảo bằng AI?",
+      "description": "Công cụ Đơn Giản Hóa Phác Thảo AI của Anitoon giúp các nghệ sĩ biến phác thảo thô thành nét vẽ rõ ràng, tinh tế, giúp quy trình sáng tạo hiệu quả hơn.",
+      "features": [
+        {
+          "title": "Nét Vẽ Rõ Ràng, Sắc Nét",
+          "content": "Biến phác thảo lộn xộn thành nét vẽ chuyên nghiệp, rõ ràng với độ dày đường nét nhất quán và độ rõ được cải thiện.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Tính Nhất Quán Về Phong Cách",
+          "content": "Duy trì phong cách vẽ nét nhất quán trên các bản vẽ nhờ đơn giản hóa bằng AI.",
+          "icon": "🖌️"
+        },
+        {
+          "title": "Tiết Kiệm Thời Gian",
+          "content": "Tiết kiệm thời gian chỉnh sửa nét vẽ thủ công bằng cách để AI xử lý quy trình đơn giản hóa.",
+          "icon": "💎"
+        },
+        {
+          "title": "Độ Rõ Nét Được Nâng Cao",
+          "content": "Cải thiện độ rõ và dễ đọc của bản phác thảo bằng cách loại bỏ các chi tiết và nhiễu không cần thiết.",
+          "icon": "💪"
+        },
+        {
+          "title": "Đơn Giản Hóa Thông Minh",
+          "content": "AI phân tích cấu trúc phác thảo của bạn và đơn giản hóa một cách thông minh trong khi vẫn giữ lại các chi tiết quan trọng.",
+          "icon": "🧠"
+        },
+        {
+          "title": "Chất Lượng Chuyên Nghiệp",
+          "content": "Nhận nét vẽ chất lượng chuyên nghiệp, sẵn sàng để đồ mực hoặc tô màu kỹ thuật số.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Tối Ưu Quy Trình Làm Việc",
+          "content": "Hợp lý hóa quy trình sáng tạo bằng cách tự động hóa giai đoạn tinh chỉnh phác thảo.",
+          "icon": "💫"
+        },
+        {
+          "title": "Lựa Chọn Mô Hình",
+          "content": "Chọn giữa mô hình AI Cơ bản và Nâng cao để phù hợp với nhu cầu cụ thể của bạn.",
+          "icon": "📚"
+        },
+        {
+          "title": "Tinh Chỉnh Tức Thì",
+          "content": "Biến phác thảo thô thành nét vẽ bóng bẩy ngay lập tức, hoàn hảo cho manga, truyện tranh và hình minh họa.",
+          "icon": "⚡️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Các Câu Hỏi Thường Gặp Về Đơn Giản Hóa Phác Thảo AI",
+      "description": "Tìm câu trả lời cho các câu hỏi thường gặp về đơn giản hóa phác thảo bằng AI.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Đơn Giản Hóa Phác Thảo AI là gì?",
+          "answer": "Đơn Giản Hóa Phác Thảo AI là quy trình sử dụng trí tuệ nhân tạo để biến phác thảo thô thành nét vẽ rõ ràng, tinh tế. Công cụ Đơn Giản Hóa Phác Thảo AI của Komiko giúp các nghệ sĩ hợp lý hóa quy trình sáng tạo bằng cách tự động tinh chỉnh và đơn giản hóa bản vẽ trong khi vẫn giữ các chi tiết cần thiết."
+        },
+        {
+          "id": 2,
+          "question": "Làm thế nào để đơn giản hóa bản phác thảo với AI?",
+          "answer": "Bạn có thể đơn giản hóa bản phác thảo với Komiko AI trong hai bước dễ dàng:\n1. Tải ảnh phác thảo lên công cụ Đơn Giản Hóa AI\n2. Nhấn 'Đơn Giản Hóa Ảnh' và chờ AI tinh chỉnh bản vẽ của bạn"
+        },
+        {
+          "id": 3,
+          "question": "Đơn Giản Hóa Phác Thảo AI hoạt động như thế nào?",
+          "answer": "Đơn Giản Hóa Phác Thảo AI sử dụng các mô hình AI tiên tiến được đào tạo trên hàng triệu hình ảnh để phân tích cấu trúc phác thảo và đơn giản hóa một cách thông minh. AI xác định các đường nét và chi tiết quan trọng, đồng thời loại bỏ nhiễu và độ phức tạp không cần thiết, tạo ra nét vẽ chuyên nghiệp, rõ ràng."
+        },
+        {
+          "id": 4,
+          "question": "Những lợi ích của Đơn Giản Hóa Phác Thảo AI là gì?",
+          "answer": "Có nhiều lợi ích khi đơn giản hóa phác thảo bằng AI:\n• Tiết kiệm thời gian so với chỉnh sửa nét vẽ thủ công\n• Tạo ra nét vẽ chất lượng chuyên nghiệp, nhất quán\n• Duy trì các chi tiết quan trọng trong khi loại bỏ nhiễu\n• Hoàn hảo cho manga, truyện tranh và hình minh họa"
+        },
+        {
+          "id": 5,
+          "question": "Tôi có thể sử dụng bản phác thảo đơn giản hóa bằng AI cho mục đích thương mại không?",
+          "answer": "Có, bạn có thể sử dụng bản phác thảo do AI tạo ra cho mục đích cá nhân và thương mại. Tuy nhiên, hãy đảm bảo bạn tuân thủ các điều khoản dịch vụ của Komiko."
+        },
+        {
+          "id": 6,
+          "question": "Những định dạng và kích thước nào được hỗ trợ?",
+          "answer": "AI hỗ trợ bản phác thảo ở định dạng JPG và PNG. Hình ảnh đầu ra sẽ giữ nguyên kích thước ban đầu trong khi được đơn giản hóa."
+        },
+        {
+          "id": 7,
+          "question": "Có được sử dụng Đơn Giản Hóa Phác Thảo AI miễn phí không?",
+          "answer": "Komiko cung cấp zaps (tín dụng) miễn phí để bạn dùng thử công cụ. Bạn cũng có thể mua các gói trả phí để có thêm zaps nếu cần sử dụng nhiều hơn, cũng như các tính năng nâng cao như xử lý nhanh hơn và độ phân giải cao hơn."
+        },
+        {
+          "id": 8,
+          "question": "Tôi có thể đơn giản hóa những loại bản phác thảo nào bằng AI?",
+          "answer": "Công cụ Đơn Giản Hóa AI hoạt động với nhiều loại bản phác thảo khác nhau:\n• Bản phác thảo và hình vẽ nguệch ngoạc thô\n• Thiết kế nhân vật\n• Trang manga và truyện tranh\n• Thiết kế sản phẩm\n• Bản vẽ kiến trúc\n• Nghệ thuật ý tưởng\nĐể có kết quả tốt nhất, hãy đảm bảo bản phác thảo có đường nét rõ ràng, được xác định rõ và độ tương phản tốt."
+        },
+        {
+          "id": 9,
+          "question": "Những hạn chế của Đơn Giản Hóa Phác Thảo AI là gì?",
+          "answer": "Mặc dù Đơn Giản Hóa Phác Thảo AI là một công cụ mạnh mẽ, nó vẫn có một số hạn chế:\n• Chi tiết phức tạp: Bản phác thảo quá phức tạp hoặc chi tiết cao có thể mất một số chi tiết nhỏ\n• Tính nhất quán về phong cách: AI có thể không hoàn toàn phù hợp với phong cách nghệ thuật mong muốn của bạn\n• Chất lượng: Chất lượng đơn giản hóa phụ thuộc vào chất lượng phác thảo đầu vào\nMặc dù có những hạn chế này, đơn giản hóa AI có thể tăng tốc đáng kể quy trình làm việc và nâng cao quy trình sáng tạo của bạn."
+        },
+        {
+          "id": 10,
+          "question": "Tôi có cần biết cách vẽ để sử dụng Đơn Giản Hóa Phác Thảo AI không?",
+          "answer": "Không, bạn không cần phải là một nghệ sĩ chuyên nghiệp để sử dụng Đơn Giản Hóa Phác Thảo AI.\n• Đối với Nghệ sĩ: Nếu bạn tự tạo bản phác thảo, công cụ này có thể giúp tinh chỉnh và làm sạch tác phẩm của bạn\n• Đối với Người không phải là Nghệ sĩ: Bạn có thể bắt đầu với bản phác thảo hoặc mẫu hiện có và để AI xử lý việc đơn giản hóa\nCông cụ này được thiết kế thân thiện với người dùng cho mọi người, cho dù bạn là một nghệ sĩ giàu kinh nghiệm hay người mới bắt đầu khám phá khả năng sáng tạo."
+        },
+        {
+          "id": 11,
+          "question": "Làm thế nào tôi có thể nhận được kết quả tốt nhất từ Đơn Giản Hóa Phác Thảo AI?",
+          "answer": "Hãy làm theo các mẹo sau để có kết quả đơn giản hóa tối ưu:\n• Sử dụng bản phác thảo rõ ràng, được xác định rõ với độ tương phản tốt\n• Đảm bảo bản phác thảo có các đường nét và hình dạng riêng biệt\n• Chọn mô hình AI phù hợp với nhu cầu của bạn\n• Cân nhắc sử dụng tùy chọn nền trong suốt khi cần thiết"
+        },
+        {
+          "id": 12,
+          "question": "So sánh việc đơn giản hóa AI với tinh chỉnh thủ công như thế nào?",
+          "answer": "Đơn Giản Hóa Phác Thảo AI giúp tiết kiệm đáng kể thời gian so với tinh chỉnh thủ công, giảm giờ làm việc xuống còn vài phút. Mặc dù nó có thể không hoàn toàn thay thế tinh chỉnh truyền thống cho các dự án nghệ thuật tinh xảo, nó là một công cụ tuyệt vời để tạo mẫu nhanh, trực quan hóa ý tưởng và tạo nhiều biến thể một cách nhanh chóng. AI hiểu các nguyên tắc của nghệ thuật đường nét và có thể đề xuất những cải tiến mà bạn có thể chưa xem xét."
+        },
+        {
+          "id": 13,
+          "question": "Tôi có thể chỉnh sửa kết quả đơn giản hóa bằng AI không?",
+          "answer": "Có, bạn có thể chỉnh sửa và tinh chỉnh thêm bản phác thảo đơn giản hóa bằng AI bằng phần mềm nghệ thuật kỹ thuật số ưa thích của bạn. Kết quả do AI tạo ra đóng vai trò là một cơ sở tuyệt vời mà bạn có thể nâng cao bằng nét vẽ nghệ thuật cá nhân của mình."
+        },
+        {
+          "id": 14,
+          "question": "Có những cách sáng tạo nào để sử dụng Đơn Giản Hóa Phác Thảo AI?",
+          "answer": "Công cụ Đơn Giản Hóa Phác Thảo AI có thể được sử dụng cho:\n• Tạo mẫu nhanh thiết kế nhân vật\n• Tạo nét vẽ rõ ràng cho truyện tranh và manga\n• Tinh chỉnh bản phác thảo thô thành hình minh họa bóng bẩy\n• Phát triển nghệ thuật ý tưởng\n• Mục đích giáo dục trong lớp học nghệ thuật\n• Chuyển đổi bản vẽ thô thành nét vẽ đơn giản"
+        }
+      ]
+    }
+  },
+  "examples": [
+    {
+      "input": "/images/examples/sketch_simplifier/input2.webp",
+      "output": "/images/examples/sketch_simplifier/output2.webp",
+      "inputLabel": "Phác Thảo Gốc",
+      "outputLabel": "Kết Quả Đơn Giản Hóa",
+      "prompt": "bản phác thảo thô được chuyển đổi thành nét vẽ rõ ràng"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input1.webp",
+      "output": "/images/examples/sketch_simplifier/output1.webp",
+      "inputLabel": "Phác Thảo Gốc",
+      "outputLabel": "Kết Quả Đơn Giản Hóa",
+      "prompt": "Bản phác thảo thô được tinh chỉnh thành nét vẽ sắc nét"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input3.webp",
+      "output": "/images/examples/sketch_simplifier/output3.webp",
+      "inputLabel": "Phác Thảo Gốc",
+      "outputLabel": "Kết Quả Đơn Giản Hóa",
+      "prompt": "Bản phác thảo thô được tinh chỉnh thành nét vẽ sắc nét"
+    }
+  ]
+}

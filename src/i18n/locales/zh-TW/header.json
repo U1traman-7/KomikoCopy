@@ -1,0 +1,26 @@
+{
+  "logo_alt": "KomikoAI 標誌",
+  "login_button": "登入",
+  "join_discord": "加入 Discord",
+  "modal": {
+    "create_account_or_signin": "建立帳號或登入",
+    "sign_in": "登入",
+    "trouble_signing_in": "登入遇到問題？"
+  },
+  "promotion_offer": "限時優惠｜年度方案享五折！優惠將於<time>{{deadline}}</time>過期",
+  "promotion_offer_mobile": "享五折優惠！優惠將於<time>{{deadline}}</time>過期",
+  "promotion_offer_mobile_days": "省50%! 優惠將在<time>{{days}}天</time>後到期",
+  "promotion_offer_days": "限時優惠 | 年度計劃省50%! 優惠將在<time>{{days}}天</time>後到期",
+  "new_user_promotion": {
+    "title": "新用戶限時享有 | 年度計劃立享四折優惠！優惠截止於<time>{{deadline}}</time>",
+    "mobile_title": "年度計劃立享四折優惠！優惠截止於<time>{{deadline}}</time>",
+    "mobile_days_title": "年度計劃立享四折優惠！優惠將於<time>{{days}} 天</time>後結束",
+    "days_title": "新用戶限時享有 | 年度計劃立享四折優惠！優惠將於<time>{{days}} 天</time>後結束"
+  },
+  "weekend_flash_promotion": {
+    "title": "週末特惠：年度方案七折！截止時間：<time>{{deadline}}</time>",
+    "mobile_title": "年度方案七折！截止時間：<time>{{deadline}}</time>",
+    "mobile_days_title": "年度方案七折！截止：<time>{{days}} 天</time>",
+    "days_title": "週末特惠：年度方案七折！截止：<time>{{days}} 天</time>"
+  }
+}

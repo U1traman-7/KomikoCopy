@@ -1,0 +1,73 @@
+{
+  "tags": {
+    "trending": "Tendances du moment",
+    "newest": "Nouveautés",
+    "most_likes": "Les plus populaires",
+    "following": "Suivi",
+    "ranking": "Classement",
+    "leaderboard": "Tableau de classement"
+  },
+  "loadMore": "Charger davantage",
+  "noMorePosts": "Aucun autre message à charger",
+  "tryAgain": "Essayer de nouveau",
+  "noPostsFound": "Aucun article trouvé",
+  "actions": {
+    "loadMore": "Charger plus",
+    "tryAgain": "Réessayer",
+    "refresh": "Actualiser",
+    "retry": "Réessayer",
+    "linkCopied": "Lien de partage copié !"
+  },
+  "states": {
+    "noMorePosts": "Plus d'articles à charger",
+    "noPostsFound": "Aucun article trouvé"
+  },
+  "errors": {
+    "noResponse": "Échec de la récupération des données : aucune réponse",
+    "unknownError": "Erreur inconnue",
+    "serverError": "Erreur du serveur {{status}} : {{statusText}}",
+    "loadFailed": "Échec du chargement du flux",
+    "timeout": "La requête a expiré. Veuillez réessayer.",
+    "serverSlow": "La réponse du serveur est lente, veuillez réessayer plus tard. Si le problème persiste, veuillez actualiser la page."
+  },
+  "labels": {
+    "sortBy": "Trier par :",
+    "filterBy": "Filtrer selon :"
+  },
+  "noRelatedPostDesc": "Soyez le premier à créer du contenu avec ce personnage !",
+  "ranking": {
+    "postRanking": "Œuvres",
+    "creatorRanking": "Créateurs",
+    "characterRanking": "Personnages",
+    "daily": "Quotidien",
+    "weekly": "Hebdomadaire",
+    "monthly": "Mensuel",
+    "loading": "Chargement...",
+    "noData": "Aucune donnée disponible",
+    "noPreview": "Aucun aperçu",
+    "fans": "Fans",
+    "posts": "Publications",
+    "follow": "Suivre",
+    "following": "Suivi",
+    "followSuccess": "Suivi réussi",
+    "followFailed": "Échec du suivi",
+    "weeklyRules": "Règles du classement hebdomadaire",
+    "weeklyRulesContent": "Classement basé sur le nombre total de mentions J'aime reçues la semaine précédente. Le tableau des leaders est figé à 00h00 PST chaque lundi, avec des badges et des récompenses Zaps attribués à 05h00.\n1ère place : 500 Zaps | 2ème place : 300 Zaps | 3ème place : 100 Zaps\nÉligible pour les récompenses hebdomadaires et mensuelles.",
+    "monthlyRules": "Règles du classement mensuel",
+    "monthlyRulesContent": "Classement basé sur le nombre total de mentions J'aime reçues le mois précédent. Le tableau des leaders est figé à 00h00 PST le 1er de chaque mois, avec des badges et des récompenses Zaps attribués à 05h00.\n1ère place : 1 000 Zaps | 2ème place : 800 Zaps | 3ème place : 500 Zaps\nÉligible pour les récompenses hebdomadaires et mensuelles."
+  },
+  "tagOrder": {
+    "title": "Gestion des étiquettes",
+    "description": "Glissez-déposez pour réorganiser vos étiquettes suivies",
+    "position": "Position {{position}}",
+    "noFollowedTags": "Aucune étiquette suivie pour le moment. Suivez quelques étiquettes pour personnaliser leur ordre!",
+    "saved": "Ordre des étiquettes enregistré avec succès",
+    "subscribedTags": "Étiquettes que vous suivez",
+    "dragToReorder": "(glissez pour réorganiser)",
+    "presetTags": "Étiquettes recommandées",
+    "otherTags": "Autres étiquettes",
+    "noTags": "Aucune étiquette disponible",
+    "saveFailed": "Échec de l'enregistrement des modifications"
+  },
+  "search_tags_placeholder": "Recherche de tags populaires..."
+}

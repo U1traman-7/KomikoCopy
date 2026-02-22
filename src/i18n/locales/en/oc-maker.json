@@ -1,0 +1,339 @@
+{
+  "title": "OC Maker - KomikoAI",
+  "meta": {
+    "description": "Make OCs with unique appearances, personalities and backstories. Create original characters for comics, animations, games, and stories with AI magic.",
+    "keywords": "OC Maker, Original Character, OC Generator, Orignal Character Generator, AI Character Creator, Anime OC Design, Game Character Maker, AI Character Generator"
+  },
+  "header": {
+    "title": "OC Maker",
+    "subtitle": "Create your original character (OC) with AI magic - generate unique appearances, personalities, and backstories"
+  },
+  "characterAppearance": {
+    "title": "Character Appearance",
+    "randomize": "Inspire me",
+    "placeholder": "Describe your OC's details (e.g., 'cat girl, blue hair, glasses, shy')",
+    "placeholderVariant": "Design your {{variantTitle}} OC, e.g., '{{examplePrompt}}'",
+    "aiOptimize": "AI Optimize",
+    "referenceImage": {
+      "title": "Reference Image (Optional)",
+      "description": "Upload a portrait image to create a character with a similar face"
+    }
+  },
+  "gender": {
+    "male": "Male",
+    "female": "Female",
+    "other": "Other"
+  },
+  "actions": {
+    "generateCharacter": "Generate character",
+    "generateMore": "Generate more",
+    "finalizeDesign": "Further Edit",
+    "selectedCharacterOptions": "Actions for selected character"
+  },
+  "results": {
+    "empty": {
+      "title": "Your characters will appear here",
+      "description": "Describe your character's appearance and click \"Generate character\" to create your original character"
+    }
+  },
+  "whatIs": {
+    "title": "What is OC Maker",
+    "description": "OC Maker is an AI tool that allows you to design OC with AI magic, where OC is short for Original Character. You can create original characters with unique appearances and personalities."
+  },
+  "howItWorks": {
+    "title": "Make OC in 4 Simple Steps",
+    "steps": {
+      "step1": {
+        "title": "Describe your OC",
+        "content": "Describe your character's appearance in detail, including facial features, body type, clothing, and accessories"
+      },
+      "step2": {
+        "title": "Upload a reference",
+        "content": "Upload a portrait image to create a character with a similar face"
+      },
+      "step3": {
+        "title": "Generate character",
+        "content": "Click 'Generate character' to create your original character (OC)"
+      },
+      "step4": {
+        "title": "Finalize design",
+        "content": "Select your favorite character and click 'Finalize design' to enter the OC information editing page"
+      }
+    }
+  },
+  "examples": {
+    "title": "OC Maker Examples",
+    "variantTitle": "{{variantName}} Examples",
+    "appearance": "Appearance",
+    "examples": {
+      "example1": {
+        "desc": "Appearance: 1girl, blonde hair, very long curly hair, purple eyes, purple hoodie, black pleated skirt, black socks, black sneakers, black wings, looking at viewer"
+      },
+      "example2": {
+        "desc": "Appearance: 1boy, blonde hair, short hair, blue eyes, yellow scarf, blue hoodie, zipper, casual clothes, black pants, loafers, black shoes, looking at viewer"
+      },
+      "example3": {
+        "desc": "Appearance: 1girl, cat ears, green eyes, twin tails, mint hair, long hair, green outfit, leaf motif, thigh-highs, leafy accessory, holding bow, vines, cat tail, genshin impact style"
+      },
+      "example4": {
+        "desc": "Appearance: 1boy, red and black hair, undercut, glowing eyes, blue eyes, robotic arm, black coat, sword, holding weapon, combat boots, electricity"
+      }
+    }
+  },
+  "features": {
+    "title": "Why Use AI-Powered OC Maker",
+    "features": {
+      "feature1": {
+        "title": "✨ Professional Quality Results",
+        "content": "Create studio-quality character designs without artistic skills - our AI understands composition, lighting, and style consistency."
+      },
+      "feature2": {
+        "title": "🎨 Unlimited Creative Freedom",
+        "content": "Experiment with endless combinations of features, outfits, and styles without constraints - perfect for finding your ideal character design."
+      },
+      "feature3": {
+        "title": "⚡ Time & Cost Efficient",
+        "content": "Generate complete original character designs in seconds instead of hours or days of manual work, saving both time and commissioning costs."
+      },
+      "feature4": {
+        "title": "🖼️ Reference Image Support",
+        "content": "Upload reference images to create characters with similar facial features, ensuring your OC matches your vision perfectly."
+      },
+      "feature5": {
+        "title": "🔄 Multi-Style Generation",
+        "content": "Create characters in various art styles from anime and manga to realistic and stylized - all with the same simple interface."
+      },
+      "feature6": {
+        "title": "🌟 Complete OC Development",
+        "content": "Beyond appearance, develop comprehensive character profiles including personality traits, backstories, and unique abilities."
+      }
+    }
+  },
+  "howToUse": {
+    "title": "How to Use The OC Maker",
+    "description": "Unleash your creativity with our AI OC Maker and design your original characters with ease. Visualize your OC's appearance, and use it for your stories, animations, games, and more."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "question1": "What character styles can I create with this OC Maker?",
+    "answer1": "Our OC Maker supports 50+ styles including anime, manga, comics, fantasy creatures, game characters, and hybrid styles - perfect for storytelling, RPGs, and animations.",
+    "question2": "Can I animate my created characters?",
+    "answer2": "Yes! You can use our AI animation tools to bring your characters to life with dynamic movements and expressions. Check out https://komiko.app/image-animation-generator",
+    "question3": "How detailed can I make my original character?",
+    "answer3": "Customize 100+ attributes including facial features, body type, clothing textures, accessories, and personality traits through our natural language interface.",
+    "question4": "What resolution are the output images?",
+    "answer4": "Characters images are generated at 768px × 1152px. You can use KomikoAI's AI Image Upscaler to upscale the image to higher resolution for professional use.",
+    "question5": "Can I use these characters commercially?",
+    "answer5": "Yes! You can use your created characters for commercial purposes, including digital and print media."
+  },
+  "popButton": {
+    "style": "Style",
+    "age": "Age",
+    "body": "Body",
+    "hair": "Hair",
+    "eyes": "Eyes",
+    "face": "Face",
+    "skin": "Skin",
+    "top": "Top",
+    "bottom": "Bottom",
+    "set": "Set",
+    "material": "Material",
+    "accessory": "Accessory",
+    "gender": "Gender"
+  },
+  "prompts": {
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "animeColoring": "Anime Coloring",
+    "chibi": "Chibi",
+    "pastelColors": "Pastel Colors",
+    "celShading": "Cel Shading",
+    "impasto": "Impasto",
+    "watercolor": "Watercolor",
+    "realistic": "Realistic",
+    "celluloid": "Celluloid",
+    "softServe": "Soft Serve",
+    "studioGhibli": "Studio Ghibli",
+    "lineart": "Lineart",
+    "cartoon": "Cartoon",
+    "americanComic": "American Comic",
+    "pixelArt": "Pixel Art",
+    "cyberpunk": "Cyberpunk",
+    "genshinImpact": "Genshin Impact",
+    "jujutsuKaisen": "Jujutsu Kaisen",
+    "onePiece": "One Piece",
+    "naruto": "Naruto",
+    "demonSlayer": "Demon Slayer",
+    "myHeroAcademia": "My Hero Academia",
+    "dragonBall": "Dragon Ball",
+    "sonic": "Sonic",
+    "marvel": "Marvel",
+    "minecraft": "Minecraft",
+    "mario": "Mario",
+    "pokemon": "Pokemon",
+    "vintageComic": "Vintage Comic",
+    "oilPainting": "Oil Painting",
+    "furry": "Furry",
+    "figurine": "Figurine",
+    "vampire": "Vampire",
+    "mermaid": "Mermaid",
+    "elf": "Elf",
+    "angel": "Angel",
+    "demon": "Demon",
+    "child": "Child",
+    "teenager": "Teenager",
+    "mature": "Mature",
+    "middleAged": "Middle-aged",
+    "elderly": "Elderly",
+    "athletic": "Athletic",
+    "muscular": "Muscular",
+    "curvy": "Curvy",
+    "slim": "Slim",
+    "petite": "Petite",
+    "stocky": "Stocky",
+    "tall": "Tall",
+    "short": "Short",
+    "scrawny": "Scrawny",
+    "chubby": "Chubby",
+    "blackHair": "Black Hair",
+    "brownHair": "Brown Hair",
+    "blondeHair": "Blonde Hair",
+    "redHair": "Red Hair",
+    "blueHair": "Blue Hair",
+    "greenHair": "Green Hair",
+    "purpleHair": "Purple Hair",
+    "pinkHair": "Pink Hair",
+    "grayHair": "Gray Hair",
+    "whiteHair": "White Hair",
+    "maroonHair": "Maroon Hair",
+    "offWhiteHair": "Off-white Hair",
+    "silverHair": "Silver Hair",
+    "straightHair": "Straight Hair",
+    "braids": "Braids",
+    "ponytail": "Ponytail",
+    "twintails": "Twintails",
+    "bun": "Bun",
+    "longHair": "Long Hair",
+    "shortHair": "Short Hair",
+    "wavyHair": "Wavy Hair",
+    "curlyHair": "Curly Hair",
+    "frizzyHair": "Frizzy Hair",
+    "pigtails": "Pigtails",
+    "bald": "Bald",
+    "sidePartedHair": "Side-parted Hair",
+    "undercut": "Undercut",
+    "mohawk": "Mohawk",
+    "dreadlocks": "Dreadlocks",
+    "spikyHair": "Spiky Hair",
+    "bobCut": "Bob Cut",
+    "mullet": "Mullet",
+    "mushroomCut": "Mushroom Cut",
+    "brownEyes": "Brown Eyes",
+    "blueEyes": "Blue Eyes",
+    "greenEyes": "Green Eyes",
+    "redEyes": "Red Eyes",
+    "purpleEyes": "Purple Eyes",
+    "pinkEyes": "Pink Eyes",
+    "grayEyes": "Gray Eyes",
+    "freckles": "Freckles",
+    "dimple": "Dimple",
+    "beard": "Beard",
+    "mustache": "Mustache",
+    "scar": "Scar",
+    "tattoo": "Tattoo",
+    "fairSkin": "Fair Skin",
+    "tanSkin": "Tan Skin",
+    "oliveSkin": "Olive Skin",
+    "darkSkin": "Dark Skin",
+    "paleSkin": "Pale Skin",
+    "tShirt": "T-shirt",
+    "vest": "Vest",
+    "plaidShirt": "Plaid Shirt",
+    "stripedShirt": "Striped Shirt",
+    "bohemianShirt": "Bohemian Shirt",
+    "henleyShirt": "Henley Shirt",
+    "hoodie": "Hoodie",
+    "knittedCardigan": "Knitted Cardigan",
+    "labCoat": "Lab Coat",
+    "leatherJacket": "Leather Jacket",
+    "punkLeatherJacket": "Punk Leather Jacket",
+    "varsityJacket": "Varsity Jacket",
+    "outdoorAdventureJacket": "Outdoor Adventure Jacket",
+    "poloShirt": "Polo Shirt",
+    "knittedVest": "Knitted Vest",
+    "schoolVest": "School Vest",
+    "jeans": "Jeans",
+    "overalls": "Overalls",
+    "suitPants": "Suit Pants",
+    "casualPants": "Casual Pants",
+    "cargoPants": "Cargo Pants",
+    "capriPants": "Capri Pants",
+    "wideLegPants": "Wide-leg Pants",
+    "pleatedSkirt": "Pleated Skirt",
+    "pencilSkirt": "Pencil Skirt",
+    "denimSkirt": "Denim Skirt",
+    "beachShorts": "Beach Shorts",
+    "tracksuit": "Tracksuit",
+    "pajamas": "Pajamas",
+    "downJacket": "Down Jacket",
+    "schoolUniform": "School Uniform",
+    "raincoat": "Raincoat",
+    "eveningDress": "Evening Dress",
+    "littleBlackDress": "Little Black Dress",
+    "suit": "Suit",
+    "tuxedo": "Tuxedo",
+    "spacesuit": "Spacesuit",
+    "divingSuit": "Diving Suit",
+    "apron": "Apron",
+    "studs": "Studs",
+    "tassels": "Tassels",
+    "ruffles": "Ruffles",
+    "lace": "Lace",
+    "zebraPrint": "Zebra Print",
+    "plastic": "Plastic",
+    "headband": "Headband",
+    "hairpin": "Hairpin",
+    "hairAccessory": "Hair Accessory",
+    "crown": "Crown",
+    "corsage": "Corsage",
+    "weddingVeil": "Wedding Veil",
+    "angleWings": "Angle Wings",
+    "tie": "Tie",
+    "bowTie": "Bow Tie",
+    "scarf": "Scarf",
+    "bow": "Bow",
+    "earrings": "Earrings",
+    "necklace": "Necklace",
+    "choker": "Choker",
+    "beret": "Beret",
+    "baseballCap": "Baseball Cap",
+    "knitHat": "Knit Hat",
+    "topHat": "Top Hat",
+    "sunHat": "Sun Hat",
+    "bucketHat": "Bucket Hat",
+    "featherHat": "Feather Hat",
+    "cowboyHat": "Cowboy Hat",
+    "beanie": "Beanie",
+    "headscarf": "Headscarf",
+    "jewelry": "Jewelry",
+    "diamonds": "Diamonds",
+    "pearls": "Pearls",
+    "glasses": "Glasses",
+    "sunglasses": "Sunglasses",
+    "steampunkGoggles": "Steampunk Goggles",
+    "eyePatch": "Eye Patch",
+    "aviatorSunglasses": "Aviator Sunglasses",
+    "headphones": "Headphones",
+    "bracelet": "Bracelet",
+    "kneeHighSocks": "Knee-high Socks",
+    "boxingGloves": "Boxing Gloves",
+    "foxEars": "Fox Ears",
+    "catEars": "Cat Ears",
+    "rabbitEars": "Rabbit Ears",
+    "wolfEars": "Wolf Ears",
+    "mechanicalWatch": "Mechanical Watch",
+    "digitalWatch": "Digital Watch",
+    "quartzWatch": "Quartz Watch"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Vid2Vid",
+      "description": "使用 Vid2Vid 將影片轉換為動畫、卡通、漫畫及韓漫風格。這項先進的 AI 技術可保留原始動作和時間軸。",
+      "keywords": "Vid2Vid, 影片風格轉換 AI, 動畫轉換工具, 卡通風格濾鏡, 漫畫影片創建器, 韓漫動畫生成器, 影片動畫轉換器, 動畫效果, 動畫風格影片, 漫畫影片輸出, 影片風格化 AI, 漫畫影片轉換, 動畫轉影片轉換器"
+    },
+    "hero": {
+      "title": "Vid2Vid"
+    },
+    "whatIs": {
+      "title": "什麼是 Vid2Vid？",
+      "description": "Vid2Vid 重新塑造您的影片，運用最先進的技術，將其轉換為動畫、卡通、漫畫和韓漫風格。 透過兩步驟流程，首先對參考影格進行風格化，然後進行完整的影片轉換，同時保持原始動作和時間軸。 Vid2Vid 提供超過 100 種可用風格，帶來獨一無二的視覺體驗。"
+    },
+    "examples": {
+      "title": "Vid2Vid 範例",
+      "description": "探索 Vid2Vid 如何將簡單的影片轉變為令人驚豔的動畫、卡通、漫畫及韓漫風格，並透過先進的風格技術確保完美的動作連貫性。"
+    },
+    "howToUse": {
+      "title": "如何使用 Vid2Vid",
+      "steps": [
+        {
+          "title": "上傳您的影片",
+          "content": "上傳任何影片檔案 (MP4、MOV、AVI)，大小不超過 15 秒和 50MB，以便 Vid2Vid 進行處理。 超過 15 秒的影片將會被修剪，以符合影片風格轉換的需求。"
+        },
+        {
+          "title": "參考影格風格化",
+          "content": "第一步是使用您選擇的動畫、卡通或漫畫美學風格化從影片中提取的影格，為一致的影片轉換設定基準。"
+        },
+        {
+          "title": "選擇您的風格",
+          "content": "從 100 多種藝術風格中選擇，包含吉卜力工作室、韓國韓漫、日本漫畫等，或者使用文字提示和參考圖片，打造您獨特的外觀。"
+        },
+        {
+          "title": "使用 Vid2Vid 生成",
+          "content": "Vid2Vid 轉換您的完整影片，均勻地應用風格化的參考影格，同時透過先進的 AI 技術，保留原始動作和時間軸。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼要使用 Vid2Vid",
+      "description": "Vid2Vid 提供卓越的影片風格轉換、出色的動作保留、大量的風格選擇以及透明的定價。",
+      "features": [
+        {
+          "title": "卓越的動作保留",
+          "content": "使用 Vid2Vid，原始影片動作、表情和時間軸的每個細節都得以保留，並與動畫、卡通或漫畫風格完美融合。"
+        },
+        {
+          "title": "廣泛的風格選擇",
+          "content": "從吉卜力工作室、韓國韓漫、日本漫畫等風格中選擇，或使用文字提示或參考圖片，創建客製化風格，進行個人化的轉換。"
+        },
+        {
+          "title": "高品質輸出",
+          "content": "輸出具有一致風格應用、流暢過渡且沒有瑕疵的高畫質影片，這歸功於 Vid2Vid 強大的 AI 技術。"
+        },
+        {
+          "title": "具成本效益的選項",
+          "content": "我們透明的定價允許對風格轉換和影片生成分開計費，讓您在沒有額外費用的情況下進行風格實驗。"
+        },
+        {
+          "title": "簡單的兩步驟工作流程",
+          "content": "Vid2Vid 提供一個使用者友善的流程：上傳、風格參考和完整轉換，所有步驟都可即時追蹤，無需任何技術知識。"
+        },
+        {
+          "title": "優化的自動化",
+          "content": "智慧處理可確保自動修剪並支援各種格式，從而根據影片長度優化風格轉換。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "常見問題",
+      "description": "了解有關 Vid2Vid 及其為創作者提供的機會的關鍵資訊。",
+      "q1": "什麼是 Vid2Vid？",
+      "a1": "Vid2Vid 是一種 AI 工具，可將傳統影片轉換為動畫藝術風格，例如動畫、卡通、漫畫及韓漫。 它採用先進的影片風格轉換技術，可在整個影片中實現一致的動作和風格應用，從而提供無縫的視覺體驗。",
+      "q2": "如何使用 Vid2Vid 創建影片？",
+      "a2": "使用 Vid2Vid 非常簡單！ 首先上傳您的影片，然後選擇您想要的風格，最後生成您的風格化影片。 使用 Vid2Vid，您可以預覽您的變更，從 100 多種風格選項中選擇，並確保每次都進行高品質的轉換。",
+      "q3": "Vid2Vid 的運作方式為何？",
+      "a3": "Vid2Vid 利用最先進的影片風格轉換技術來轉換影片。 它首先對參考影格進行風格化，然後將此風格統一應用於整個影片，在整個過程中保持動作完整性和時間同步。",
+      "q4": "什麼是最佳的動畫效果生成器？",
+      "a4": "KomikoAI 提供最佳的動畫效果生成器工具。 我們的目標是成為領先的 AI 創建平台，提供專業品質的結果、強大且有趣的自訂功能以及直覺的工作流程 - 完全免費試用。 透過 KomikoAI 的 Vid2Vid，您可以將影片轉換為引人入勝的動畫，使其非常適合喜歡創意影片製作和動畫的使用者。",
+      "q5": "KomikoAI Vid2Vid 是否可免費線上使用？",
+      "a5": "是的，您可以免費在 KomikoAI 上測試 Vid2Vid，無需註冊任何訂閱。 立即試用我們創新的工具！",
+      "q6": "我可以使用 Vid2Vid 做什麼？",
+      "a6": "您可以使用 KomikoAI 上的 Vid2Vid 創建視覺上引人注目的影片。 將日常內容轉換為動畫、卡通、漫畫或韓漫傑作，適用於社交媒體分享和創意故事敘述，並提供多種自訂選項。",
+      "q7": "我可以在手機上使用 Vid2Vid 嗎？",
+      "a7": "是的，您可以在不同的裝置上使用 Vid2Vid 作為網路應用程式，包括智慧型手機和電腦，使其對每個人都方便。",
+      "q8": "我可以從 Vid2Vid 下載我生成的內容嗎？",
+      "a8": "是的，KomikoAI 的 Vid2Vid 允許您以各種格式匯出您生成的內容，例如 MP4、MOV 和 AVI，以便輕鬆分享。",
+      "q9": "為什麼我應該使用 Vid2Vid？",
+      "a9": "使用 Vid2Vid 可以透過令人驚豔的動畫來徹底改變您的創意作品。 我們的工具允許您應用多種藝術風格、優化影片動作並增強影片故事敘述，使其非常適合熱衷於引人入勝且富有想像力的攝影的創作者。"
+    },
+    "cta": {
+      "title": "立即使用我們的 Vid2Vid 免費創建令人驚豔的影片！",
+      "description": "使用現代 AI 技術製作令人驚豔的動畫風格影片。",
+      "buttonText": "免費試用我們的 Vid2Vid"
+    }
+  },
+  "originalKeyword": "Vid2Vid",
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "漫畫風格",
+      "description": "風格轉換 | 將原始影片轉換為漫畫風格"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/retro-game.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "復古遊戲風格",
+      "description": "風格轉換 | 將原始影片轉換為復古遊戲風格"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/watercolor.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "水彩風格",
+      "description": "風格轉換 | 將原始影片轉換為水彩風格"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/vaporwave.webm",
+      "inputLabel": "原始影片",
+      "outputLabel": "蒸汽波風格",
+      "description": "風格轉換 | 將原始影片轉換為蒸汽波風格"
+    }
+  ],
+  "pageStructure": [
+    "何謂",
+    "範例",
+    "如何使用",
+    "為何使用",
+    "更多AI工具",
+    "常見問題",
+    "行動呼籲"
+  ],
+  "placeholderText": "Generate Vid2Vid style artwork"
+}

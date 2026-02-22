@@ -1,0 +1,176 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan Animate",
+      "description": "Tạo hoạt ảnh cho nhân vật và thay thế chủ thể trong video một cách dễ dàng với Wan Animate. Chuyển động nhân vật sống động, tích hợp môi trường tự nhiên và hoạt ảnh nhân vật mượt mà chỉ trong vài giây.",
+      "keywords": "Wan Animate, hoạt ảnh nhân vật AI, thay thế nhân vật, chuyển động, trình tạo hoạt ảnh nhân vật, nhân vật video AI, trình tạo nhân vật hoạt hình, chụp chuyển động nhân vật, hoán đổi nhân vật video, trình tạo nhân vật AI, tổng hợp video nhân vật, sao chép chuyển động, công cụ hoạt ảnh nhân vật, thay thế nhân vật AI"
+    },
+    "hero": {
+      "title": "Wan Animate"
+    },
+    "whatIs": {
+      "title": "Wan Animate là gì?",
+      "description": "Wan Animate là một công cụ hoạt ảnh và thay thế nhân vật tiên tiến, biến những hình ảnh nhân vật tĩnh thành các video hoạt hình sống động. Ứng dụng tín hiệu xương để căn chỉnh không gian và các đặc điểm khuôn mặt ẩn, Wan Animate tái tạo chính xác các biểu cảm và chuyển động từ video tham khảo, tạo ra hoạt ảnh nhân vật chân thực đến kinh ngạc. Công cụ mạnh mẽ này có thể tạo hoạt ảnh cho nhân vật một cách độc lập hoặc thay thế liền mạch các nhân vật hiện có trong video, đồng thời duy trì ánh sáng và tông màu của môi trường xung quanh. Được xây dựng trên công nghệ chuyển động tiên tiến, Wan Animate cho phép bạn dễ dàng nắm bắt chuyển động của nhân vật và tổng hợp hoạt ảnh một cách tự nhiên với chất lượng chuyên nghiệp.",
+      "media": [
+        {
+          "caption": "Wan Animate có thể tạo hoạt ảnh cho bất kỳ nhân vật nào dựa trên video của người biểu diễn, tái tạo chính xác các biểu cảm và chuyển động khuôn mặt để tạo ra những video nhân vật có độ chân thực cao.",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/%E8%A7%92%E8%89%B2%E5%90%88%E9%9B%86_%E5%B8%A6%E5%8E%9F%E5%9E%8B.mp4",
+          "type": "video"
+        },
+        {
+          "caption": "Wan Animate có thể thay thế các nhân vật trong video bằng các nhân vật hoạt hình, giữ nguyên biểu cảm và chuyển động đồng thời sao chép ánh sáng và tông màu ban đầu để tích hợp môi trường một cách liền mạch.",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/rep_shots.mp4",
+          "type": "video"
+        },
+        {
+          "title": "Phương pháp",
+          "caption": "Tổng quan về Wan Animate, được xây dựng trên Wan-I2V. Chúng tôi sửa đổi công thức đầu vào để thống nhất hình ảnh tham khảo, hướng dẫn khung thời gian và thông tin môi trường (để tương thích chế độ kép) thành một biểu diễn tượng trưng chung. Để điều khiển chuyển động cơ thể, chúng tôi sử dụng tín hiệu xương được hợp nhất thông qua căn chỉnh không gian. Để điều khiển biểu cảm khuôn mặt, chúng tôi tận dụng các tính năng ẩn được trích xuất từ ​​hình ảnh khuôn mặt làm tín hiệu điều khiển. Ngoài ra, để thay thế nhân vật, chúng tôi đào tạo Relighting LoRA phụ trợ để tăng cường sự tích hợp của nhân vật với môi trường mới.",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/arch.png",
+          "type": "image"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Ví dụ về Wan Animate",
+      "description": "Khám phá cách Wan Animate mang đến sự đột phá cho hoạt ảnh nhân vật bằng công nghệ chuyển động, tạo ra các nhân vật liền mạch và hoạt ảnh sống động từ những hình ảnh tĩnh."
+    },
+    "howToUse": {
+      "title": "Cách sử dụng Wan Animate",
+      "steps": [
+        {
+          "title": "Tải lên hình ảnh nhân vật & video tham khảo",
+          "content": "Tải lên hình ảnh nhân vật và video tham khảo (MP4, MOV, AVI) với thời lượng tối đa 15 giây và dung lượng 50MB để Wan Animate xử lý. Các video dài hơn 15 giây sẽ tự động được cắt ngắn để đảm bảo hoạt ảnh nhân vật tối ưu."
+        },
+        {
+          "title": "Khung tham khảo hoạt ảnh nhân vật",
+          "content": "Wan Animate trích xuất khung hình đầu tiên từ video của bạn và áp dụng thay thế nhân vật để tạo hướng dẫn tham khảo, giúp duy trì sự nhất quán trong hoạt ảnh nhân vật xuyên suốt video."
+        },
+        {
+          "title": "Chọn chế độ hoạt ảnh nhân vật",
+          "content": "Chọn từ các mẫu hoạt ảnh nhân vật có sẵn, nhập lời nhắc hoạt ảnh tùy chỉnh hoặc tải lên hình ảnh nhân vật tham khảo. Chọn giữa chế độ hoạt ảnh nhân vật độc lập hoặc chế độ thay thế nhân vật để Wan Animate xử lý."
+        },
+        {
+          "title": "Tạo video hoạt ảnh nhân vật",
+          "content": "Wan Animate biến đổi toàn bộ video của bạn dựa trên khung tham chiếu nhân vật, đồng thời giữ nguyên chuyển động, biểu cảm và thời gian ban đầu nhờ công nghệ hoạt ảnh nhân vật tiên tiến."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Tại sao nên sử dụng Wan Animate",
+      "description": "Wan Animate cung cấp khả năng hoạt ảnh và thay thế nhân vật hiện đại, bảo tồn chuyển động, tích hợp môi trường và tổng hợp nhân vật với chất lượng chuyên nghiệp.",
+      "features": [
+        {
+          "title": "Công nghệ chuyển động tiên tiến",
+          "content": "Wan Animate sử dụng tín hiệu xương để căn chỉnh không gian và các đặc điểm khuôn mặt ẩn để đạt được sự sao chép chuyển động nhân vật chính xác, đảm bảo chuyển động và biểu cảm tự nhiên.",
+          "icon": "🎭"
+        },
+        {
+          "title": "Chế độ hoạt ảnh kép",
+          "content": "Chế độ hoạt ảnh nhân vật tạo ra các nhân vật hoạt hình độc lập, trong khi chế độ thay thế tích hợp liền mạch các nhân vật vào các video hiện có bằng cách tận dụng khả năng thích ứng môi trường của Wan Animate.",
+          "icon": "🔄"
+        },
+        {
+          "title": "Tích hợp môi trường tự nhiên",
+          "content": "Wan Animate có công nghệ Relighting LoRA tiên tiến giúp bảo tồn diện mạo của nhân vật đồng thời thích ứng với ánh sáng và tông màu của cảnh để tích hợp video một cách mượt mà.",
+          "icon": "💡"
+        },
+        {
+          "title": "Tổng hợp nhân vật chân thực",
+          "content": "Tạo hoạt ảnh nhân vật chất lượng chuyên nghiệp với khả năng nắm bắt chuyển động chính xác, chuyển tiếp mượt mà và ánh sáng môi trường nhất quán nhờ các thuật toán tiên tiến của Wan Animate.",
+          "icon": "✨"
+        },
+        {
+          "title": "Quy trình hoạt ảnh nhân vật trực quan",
+          "content": "Quy trình đơn giản chỉ với hai bước: tải lên hình ảnh nhân vật và video tham khảo. Wan Animate tự động xử lý các phân tích chuyển động phức tạp, lập bản đồ xương và tổng hợp nhân vật.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Hoạt ảnh nhân vật có thể điều khiển",
+          "content": "Kiểm soát hoàn toàn các biểu cảm và chuyển động của nhân vật với hệ thống chuyển động tiên tiến của Wan Animate, cho phép tùy chỉnh và tinh chỉnh hoạt ảnh nhân vật một cách chính xác.",
+          "icon": "🎮"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Các câu hỏi thường gặp",
+      "description": "Các câu hỏi thường gặp về các tính năng, quy trình và cách sử dụng tốt nhất Wan Animate để tạo hoạt ảnh và thay thế nhân vật.",
+      "q1": "Wan Animate là gì?",
+      "a1": "Wan Animate là một công cụ hoạt ảnh và thay thế nhân vật tiên tiến, biến hình ảnh nhân vật tĩnh thành video hoạt hình sống động bằng công nghệ chuyển động. Nó tái tạo chính xác các biểu cảm và chuyển động từ video tham khảo, đồng thời duy trì sự tích hợp ánh sáng môi trường.",
+      "q2": "Làm cách nào để sử dụng Wan Animate?",
+      "a2": "Sử dụng Wan Animate rất đơn giản! Đầu tiên, hãy tải lên hình ảnh nhân vật và video tham khảo của bạn, sau đó chọn chế độ hoạt ảnh hoặc thay thế và tạo hoạt ảnh nhân vật của bạn. Công cụ này tự động xử lý phân tích chuyển động, lập bản đồ xương và tổng hợp nhân vật để mang lại kết quả chuyên nghiệp.",
+      "q3": "Wan Animate hoạt động như thế nào?",
+      "a3": "Wan Animate sử dụng tín hiệu xương để căn chỉnh không gian và các đặc điểm khuôn mặt ẩn để phân tích video tham khảo. Nó trích xuất các mẫu chuyển động và áp dụng chúng cho hình ảnh nhân vật thông qua công nghệ chuyển động tiên tiến, tạo ra các hoạt ảnh nhân vật mượt mà với sự tích hợp môi trường.",
+      "q4": "Công cụ hoạt ảnh nhân vật AI tốt nhất là gì?",
+      "a4": "KomikoAI cung cấp công cụ hoạt ảnh nhân vật tốt nhất. Mục tiêu của chúng tôi là trở thành nền tảng sáng tạo AI hàng đầu bằng cách cung cấp kết quả chất lượng chuyên nghiệp, khả năng tùy chỉnh mạnh mẽ, quy trình làm việc thú vị và trực quan – hoàn toàn miễn phí để dùng thử. Với Wan Animate của KomikoAI, bạn có thể tạo ra những hoạt ảnh và thay thế nhân vật tuyệt đẹp, biến nó trở thành lựa chọn hoàn hảo cho những người sáng tạo nội dung, nhà làm phim và nghệ sĩ kỹ thuật số.",
+      "q5": "KomikoAI Wan Animate có miễn phí trực tuyến không?",
+      "a5": "Có, bạn có thể dùng thử Wan Animate trên KomikoAI miễn phí mà không cần đăng ký bất kỳ gói nào. Hãy trải nghiệm công cụ hoạt ảnh nhân vật của chúng tôi ngay hôm nay!",
+      "q6": "Tôi có thể làm gì với Wan Animate?",
+      "a6": "Bạn có thể sử dụng Wan Animate trên KomikoAI để tạo hoạt ảnh nhân vật cho phương tiện truyền thông xã hội, thay thế nhân vật trong video, tạo hoạt ảnh cho hình ảnh nhân vật tĩnh, tạo hiệu ứng chuyển động và sản xuất nội dung nhân vật chuyên nghiệp cho mục đích tiếp thị, giải trí và các dự án sáng tạo khác.",
+      "q7": "Tôi có thể sử dụng Wan Animate trên điện thoại của mình không?",
+      "a7": "Có, bạn có thể sử dụng Wan Animate như một ứng dụng web trên nhiều thiết bị khác nhau, bao gồm điện thoại thông minh và máy tính, mang lại sự tiện lợi cho mọi người.",
+      "q8": "Tôi có thể tải xuống những gì mình tạo ra từ Wan Animate không?",
+      "a8": "Có, Wan Animate của KomikoAI cho phép bạn xuất những gì bạn tạo ra ở nhiều định dạng khác nhau, chẳng hạn như MP4, MOV và AVI, để dễ dàng chia sẻ và phân phối.",
+      "q9": "Tại sao tôi nên sử dụng Wan Animate?",
+      "a9": "Sử dụng Wan Animate có thể thay đổi quy trình hoạt ảnh nhân vật của bạn nhờ công nghệ chuyển động tiên tiến. Công cụ của chúng tôi cho phép bạn tạo hoạt ảnh nhân vật chuyên nghiệp, thay thế nhân vật liền mạch và tạo hiệu ứng chuyển động sống động với sự tích hợp môi trường và bảo tồn ánh sáng nhất quán."
+    },
+    "cta": {
+      "title": "Tạo Hoạt Ảnh Nhân Vật MIỄN PHÍ với Wan Animate Ngay Hôm Nay!",
+      "description": "Biến những nhân vật tĩnh thành hoạt ảnh sống động và thay thế các đối tượng trong video một cách dễ dàng bằng công nghệ chuyển động tiên tiến.",
+      "buttonText": "Dùng thử Wan Animate Miễn phí"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/res921.mp4",
+      "description": "Hoạt ảnh người biểu cảm"
+    },
+    {
+      "id": 2,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/res2.mp4",
+      "description": "Hoạt ảnh nhân vật tùy ý có thể khái quát hóa"
+    },
+    {
+      "id": 3,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/resfull1.mp4",
+      "description": "Chuyển động sống động và Máy ảnh"
+    },
+    {
+      "id": 4,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/rep/rep2.mp4",
+      "description": "Sao chép tông màu và ánh sáng nhất quán"
+    },
+    {
+      "id": 5,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/rep/rep6.mp4",
+      "description": "Thay thế nhân vật với tích hợp môi trường liền mạch"
+    },
+    {
+      "id": 6,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/com/comp1.mp4",
+      "description": "So sánh định tính"
+    }
+  ],
+  "originalKeyword": "Wan Animate",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

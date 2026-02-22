@@ -1,0 +1,240 @@
+{
+  "meta": {
+    "title": "Pricing | KomikoAI – AI Anime Generator | Create Comics, Manga and Anime with AI",
+    "description": "Choose the perfect plan for you to unleash your creativity with KomikoAI's AI powered tools for creating comics, manhwa, manga, and anime."
+  },
+  "page": {
+    "title": "Choose Your Plan for KomikoAI",
+    "zapPacksTitle": "Zap Packs",
+    "description": "Find your perfect plan and start creating today. KomikoAI gives you everything you need to create characters, art, anime, and comics. New users get 500 free zaps!",
+    "zapPacksDescription": "Need more zaps without a subscription? Purchase one-time zap packs to fuel your creativity.",
+    "monthly": "Monthly",
+    "annual": "Annual",
+    "save": "Save 17%",
+    "save50": "Save 50%",
+    "save_amount": "Save {{amount}}%",
+    "faq": "FAQ",
+    "one_time_pack": "One-time Zap Packs",
+    "upgrade_plan": "Upgrade Plan",
+    "join_now": "Save 50%! Join KomikoAI for New Year's vibes & festive surprises! Offer expires on January 6th!"
+  },
+  "plans": {
+    "free": {
+      "name": "Free",
+      "price": "$0",
+      "zaps": "Earn Zaps through tasks",
+      "description": "For fun & testing",
+      "includes": ["Earn zaps via tasks", "Up to 50 images"]
+    },
+    "starter": {
+      "name": "Starter",
+      "price": {
+        "monthly": "$9.99",
+        "annual": "$99.90"
+      },
+      "zaps": "5,000 Zaps / month",
+      "description": "For fun & AI enthusiasts",
+      "includes": [
+        "100 Zaps daily check-in bonus",
+        "Up to 800 images or 40 videos",
+        "3 parallel video generations",
+        "No watermark",
+        "Multi-reference image support"
+      ]
+    },
+    "plus": {
+      "name": "Plus",
+      "price": {
+        "monthly": "$19.99",
+        "annual": "$199.90"
+      },
+      "zaps": "15,000 Zaps / month",
+      "description": "For advanced creators",
+      "includes": [
+        "120 Zaps daily check-in bonus",
+        "Up to 1,860 images or 93 videos",
+        "5 parallel video generations",
+        "Everything in Starter",
+        "Early access to new features"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "price": {
+        "monthly": "$49.99",
+        "annual": "$499.90"
+      },
+      "zaps": "50,000 Zaps / month",
+      "description": "For professionals",
+      "includes": [
+        "160 Zaps daily check-in bonus",
+        "Up to 5,480 images or 274 videos",
+        "10 parallel video generations",
+        "Everything in Plus"
+      ],
+      "popular": "Most Popular"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Let's talk",
+      "zaps": "Let's talk",
+      "description": "For studios & enterprises",
+      "includes": [
+        "Custom amount of Zaps",
+        "Custom features & limits",
+        "Priority customer support",
+        "and so on…"
+      ]
+    }
+  },
+  "buttons": {
+    "upgrade": "Upgrade",
+    "downgrade": "Downgrade",
+    "currentPlan": "Current Plan",
+    "contactSales": "Contact Sales",
+    "cancelSubscription": "Cancel Subscription",
+    "doNotCancel": "Do not Cancel",
+    "takeMeBack": "Take me back",
+    "buyNow": "Buy Now",
+    "manageSubscription": "Manage Subscription"
+  },
+  "labels": {
+    "active": "Active",
+    "perMonth": "/mo",
+    "billedAnnually": "Billed annually at {{price}}",
+    "oneTimePurchase": "One-time purchase",
+    "subscriberBonuses": "Subscriber bonuses:",
+    "bonusZaps": "{{amount}} bonus zaps"
+  },
+  "zapPacks": {
+    "title": "KomikoAI Zap Packs",
+    "subtitle": "Need more zaps without a subscription? Purchase one-time zap packs to fuel your creativity.",
+    "subscriberBonuses": "Subscriber bonuses:",
+    "buyNow": "BUY NOW",
+    "alreadyPurchased": "ALREADY PURCHASED",
+    "checking": "CHECKING...",
+    "oneTimePurchase": "ONE-TIME PURCHASE",
+    "oneTimeOffer": "ONE-TIME OFFER (NEW USER ONLY)",
+    "bonusZaps": "+{{amount}} bonus zaps",
+    "packs": [
+      {
+        "name": "800 Zaps",
+        "price": "$0.99",
+        "label": "oneTimeOffer",
+        "bonuses": [
+          { "plan": "Starter", "amount": "100" },
+          { "plan": "Plus", "amount": "200" },
+          { "plan": "Premium", "amount": "500" }
+        ]
+      },
+      {
+        "name": "2,000 Zaps",
+        "price": "$4.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          { "plan": "Starter", "amount": "300" },
+          { "plan": "Plus", "amount": "1,700" },
+          { "plan": "Premium", "amount": "3,000" }
+        ]
+      },
+      {
+        "name": "9,000 Zaps",
+        "price": "$19.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          { "plan": "Starter", "amount": "1,000" },
+          { "plan": "Plus", "amount": "6,000" },
+          { "plan": "Premium", "amount": "11,000" }
+        ]
+      },
+      {
+        "name": "20,000 Zaps",
+        "price": "$39.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          { "plan": "Starter", "amount": "1,000" },
+          { "plan": "Plus", "amount": "10,000" },
+          { "plan": "Premium", "amount": "20,000" }
+        ]
+      },
+      {
+        "name": "52,500 Zaps",
+        "price": "$99.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          { "plan": "Starter", "amount": "2,500" },
+          { "plan": "Plus", "amount": "22,000" },
+          { "plan": "Premium", "amount": "47,000" }
+        ]
+      },
+      {
+        "name": "221,500 Zaps",
+        "price": "$399.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          { "plan": "Starter", "amount": "9,800" },
+          { "plan": "Plus", "amount": "78,000" },
+          { "plan": "Premium", "amount": "178,000" }
+        ]
+      }
+    ]
+  },
+  "modals": {
+    "cancel": {
+      "title": "Are you sure you want to cancel?",
+      "message": "Your access to premium features and {{zaps}} zaps will be lost at the end of the month.",
+      "confirm": "Cancel Subscription"
+    }
+  },
+  "toasts": {
+    "subscriptionNotCancelled": "Subscription not cancelled",
+    "subscriptionCancelled": "Subscription cancelled successfully",
+    "failedToCancel": "Failed to cancel subscription",
+    "failedToCreateZapPack": "Failed to create one-time zap pack",
+    "failedToFindSubscription": "Failed to find subscription"
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "question": "What happens if I run out of zaps for the month?",
+        "answer": "We'll limit your ability to use KomikoAI's AI tools including image generation and video generation, but you can still earn more zaps by completing daily tasks. Alternatively, you can upgrade from the free plan to a paid plan. We recommend choosing a plan that best fits your usage needs."
+      },
+      {
+        "question": "Can I upgrade my plan?",
+        "answer": "Yes, you can. However, at the moment, we only allow upgrades from the free plan to other plans. Upgrading between paid plans is not supported at the moment. Please contact us through Discord if you need customized support."
+      },
+      {
+        "question": "Do unused zaps roll over to the next month?",
+        "answer": "No, unused zaps do not roll over to the next month. Your zaps refresh at the start of each billing cycle."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards (Visa, MasterCard, American Express), Line, Apple Pay and so on. All payments are processed securely through our payment provider."
+      },
+      {
+        "question": "Is there a free plan available?",
+        "answer": "Yes, you can use free zaps to test out KomikoAI's AI tools. You can also earn more zaps by completing daily tasks."
+      },
+      {
+        "question": "Can I cancel my subscription at any time?",
+        "answer": "Yes, you can cancel your subscription at any time. If you cancel, you'll retain access to your plan's features until the end of your current billing period. We don't offer refunds for partial months."
+      },
+      {
+        "question": "Can I get a refund for my subscription?",
+        "answer": "No, we don't offer refunds for partial months. However, if you're not satisfied with our service, you can contact us through Discord and we'll do our best to find a solution."
+      },
+      {
+        "question": "Is there exclusive features for paid plans?",
+        "answer": "Yes, paid plans have exclusive features such as no watermark, higher zaps limit, and priotized generation. Please check out the features section for more details."
+      },
+      {
+        "question": "Will I get my zaps back if the generation fails?​",
+        "answer": "Yes! If the generation fails, your zaps won’t be deducted."
+      }
+    ]
+  },
+  "productHunt": "Proudly a Top Product on Product Hunt",
+  "bonus": "Bonus",
+  "custom": "Custom"
+}

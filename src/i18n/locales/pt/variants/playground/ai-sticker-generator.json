@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Gerador de Stickers com IA",
+      "description": "Crie artes de sticker incríveis a partir das suas fotos com o nosso Gerador de Stickers com IA. Estilos únicos e resultados rápidos – experimente gratuitamente agora!",
+      "keywords": "Gerador de Stickers com IA, criação de stickers de imagem com IA, transformar foto em sticker, ferramenta de arte de sticker, stickers personalizados com IA"
+    },
+    "hero": {
+      "title": "Gerador de Stickers com IA"
+    },
+    "whatIs": {
+      "title": "O que é o Gerador de Stickers com IA?",
+      "description": "O Gerador de Stickers com IA é uma plataforma inovadora que converte as suas fotos em imagens notáveis com o estilo de sticker. Ideal para designers gráficos e utilizadores ocasionais, oferece uma interface simples para explorar uma variedade de estilos artísticos personalizados, para aprimorar as suas imagens. Experimente o poder transformador da nossa IA ao remodelar fotos comuns em artes de sticker extraordinárias, adequadas tanto para plataformas digitais quanto para impressão."
+    },
+    "examples": {
+      "title": "Exemplos Inspiradores do Gerador de Stickers com IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como Usar o Gerador de Stickers com IA",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a Sua Foto",
+          "content": "Envie a sua foto num formato claro (JPG, PNG, WEBP) para obter os melhores resultados de transformação."
+        },
+        {
+          "title": "Passo 2: Selecione o Modelo de Sticker",
+          "content": "Selecione o modelo de Sticker para transformar a sua foto com o estilo de sticker desejado."
+        },
+        {
+          "title": "Passo 3: Converter para Sticker",
+          "content": "Clique em 'Converter para Sticker' para permitir que a nossa IA crie uma versão de sticker impressionante da sua imagem em instantes."
+        },
+        {
+          "title": "Passo 4: Descarregue ou Partilhe",
+          "content": "Descarregue o seu sticker recém-criado ou partilhe-o diretamente nas redes sociais – crie arte que seja facilmente acessível!"
+        }
+      ],
+      "subtitle": "Siga estes passos para transformar as suas fotos em artes de sticker incríveis."
+    },
+    "benefits": {
+      "title": "Por que Escolher o Gerador de Stickers com IA?",
+      "description": "Descubra os recursos que diferenciam a nossa ferramenta para artistas e criadores.",
+      "features": [
+        {
+          "title": "🎨 Estilos de Sticker Personalizados",
+          "content": "Desfrute de uma variedade de estilos artísticos que dão vida às suas fotos, atendendo a todos os gostos criativos, do extravagante ao sofisticado."
+        },
+        {
+          "title": "⚡ Geração Rápida de Arte",
+          "content": "A nossa IA produz resultados impressionantes em tempo real, tornando-a ideal para designs e iterações rápidas."
+        },
+        {
+          "title": "🖼️ Navegação Intuitiva",
+          "content": "Navegue pelo gerador facilmente, projetado para utilizadores de todos os níveis de habilidade criarem belas artes de sticker."
+        },
+        {
+          "title": "💫 Qualidade em que Pode Confiar",
+          "content": "Espere artes de sticker de alta resolução, prontas para uso online e impressão, garantindo que todas as suas criações se destaquem."
+        },
+        {
+          "title": "🎯 Criações Versáteis",
+          "content": "Ótimo para projetos pessoais, criação de materiais de marketing ou presentes exclusivos, o Gerador de Stickers com IA adapta-se às suas necessidades!"
+        },
+        {
+          "title": "🚀 Opções de Partilha Fáceis",
+          "content": "Descarregue nos formatos desejados, que permitem fácil partilha ou integração nos seus projetos, sem complicações."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Gerador de Stickers com IA FAQ",
+      "description": "",
+      "q1": "O que é o Gerador de Stickers com IA e como funciona?",
+      "a1": "O Gerador de Stickers com IA emprega algoritmos avançados para analisar a sua imagem e aplicar estilos artísticos únicos, reconstruindo-a numa forma de sticker impressionante que retém características essenciais.",
+      "q2": "Como posso obter os melhores resultados com o Gerador de Stickers com IA?",
+      "a2": "Para transformações ideais, utilize imagens claras e de alto contraste e explore os nossos diversos estilos de sticker, cada um com efeitos distintos.",
+      "q3": "O Gerador de Stickers com IA é gratuito para usar?",
+      "a3": "Sim! Comece com um teste gratuito para explorar os recursos incríveis e criar as suas transformações de sticker iniciais.",
+      "q4": "A saída do Gerador de Stickers com IA é diferente dos filtros típicos?",
+      "a4": "Absolutamente! A nossa IA reconstrói totalmente a sua imagem no estilo selecionado, produzindo arte de sticker exclusiva que mantém a essência da sua foto original.",
+      "q5": "Posso usar stickers gerados para fins comerciais?",
+      "a5": "Sim, pode usar as suas criações em empreendimentos comerciais, seguindo as nossas diretrizes de licenciamento – gere arte e crie receita!"
+    },
+    "cta": {
+      "title": "Comece a Criar com o Gerador de Stickers com IA Agora",
+      "description": "Não espere – desbloqueie o seu potencial artístico hoje com o Gerador de Stickers com IA! Transforme as suas fotos em arte de sticker distinta e mergulhe numa criatividade ilimitada.",
+      "buttonText": "Criar Arte de Sticker com IA Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform a photo into unique sticker art",
+  "originalKeyword": "AI Sticker Generator",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "image": "/images/examples/playground/ai-sticker-generator/example_1.webp",
+      "prompt": "ai-sticker-generator style transformation example 1 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_2.webp",
+      "prompt": "ai-sticker-generator style transformation example 2 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_3.webp",
+      "prompt": "ai-sticker-generator style transformation example 3 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_4.webp",
+      "prompt": "ai-sticker-generator style transformation example 4 (chibi style)"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Seedance 1.0 – Générateur de Vidéos IA – KomikoAI",
+      "description": "Découvrez Seedance 1.0, le générateur de vidéos IA de ByteDance. Créez des vidéos haute définition à partir de texte ou d'images, avec une narration multi-plans, des mouvements fluides et une qualité cinématographique de niveau professionnel.",
+      "keywords": "Seedance 1.0, générateur de vidéos IA, IA texte-vidéo, IA image-vidéo, vidéo IA cinématographique, génération de vidéos multi-plans, animation IA, vidéo IA ByteDance, vidéos IA HD"
+    },
+    "hero": {
+      "title": "Seedance 1.0 – Générateur de Vidéos IA",
+      "description": "Transformez vos idées en vidéos cinématiques dynamiques grâce à Seedance 1.0. Exploitez la puissance de l'IA avancée pour créer sans effort des vidéos multi-plans en haute définition à partir de texte ou d'images."
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que Seedance 1.0 ?",
+      "description": "Seedance 1.0 est un modèle avancé de génération de vidéos basé sur l'IA, développé par l'équipe SEED de ByteDance. Il permet de créer des vidéos de haute qualité axées sur la narration, avec une narration multi-plans native, des mouvements fluides et des visuels cinématiques professionnels. Prenant en charge les modes texte-vidéo et image-vidéo, Seedance excelle dans la génération de clips HD (1080p) de 5 à 10 secondes à 24 images par seconde, avec des transitions fluides et un style visuel cohérent. En s'appuyant sur des modèles de diffusion de pointe, des algorithmes de cohérence spatio-temporelle et la précision des prompts, il est conçu pour révolutionner la création de contenu pour les créateurs, les cinéastes, les spécialistes du marketing et les marques."
+    },
+    "examples": {
+      "title": "Exemples de vidéos générées avec Seedance 1.0",
+      "description": "Explorez de superbes vidéos cinématiques générées par l'IA, mettant en valeur la narration multi-plans, les transitions fluides et les divers styles visuels de Seedance 1.0, allant du photoréalisme à l'anime en passant par le cyberpunk."
+    },
+    "howToUse": {
+      "title": "Comment utiliser Seedance 1.0 ?",
+      "steps": [
+        {
+          "title": "Téléversez votre image",
+          "content": "Commencez par téléverser une image de référence à animer ou saisissez une description textuelle détaillée pour générer une vidéo à partir de zéro grâce aux capacités d'IA de Seedance."
+        },
+        {
+          "title": "Saisissez votre prompt",
+          "content": "Saisissez votre prompt textuel détaillé ou votre description de la vidéo que vous souhaitez créer."
+        },
+        {
+          "title": "Générez votre vidéo",
+          "content": "Cliquez sur le bouton « Générer » et laissez l'architecture d'IA optimisée de Seedance traiter votre entrée pour produire une vidéo cinématique de haute qualité."
+        },
+        {
+          "title": "Prévisualisez et téléchargez",
+          "content": "Vérifiez la qualité et la fluidité narrative de la vidéo générée, puis téléchargez-la au format HD 1080p pour la partager ou l'intégrer à vos projets."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi utiliser Seedance 1.0 ?",
+      "description": "Exploitez la puissance de Seedance 1.0 pour produire des vidéos IA visuellement riches et fluides, avec une qualité professionnelle et une grande efficacité narrative.",
+      "features": [
+        {
+          "title": "Narration multi-plans native",
+          "content": "Créez des vidéos avec plusieurs plans cohérents et des transitions fluides, permettant des récits complexes et des séquences cinématiques dans un seul clip généré par l'IA.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Génération de vidéos en mode double",
+          "content": "Générez des vidéos à partir de prompts textuels en langage naturel ou en animant des images statiques, offrant une flexibilité créative maximale.",
+          "icon": "🔄"
+        },
+        {
+          "title": "Sortie haute définition 1080p",
+          "content": "Produisez des vidéos de qualité professionnelle en résolution 1080p et à 24 images par seconde, adaptées à un usage commercial, aux médias sociaux et aux présentations professionnelles.",
+          "icon": "📺"
+        },
+        {
+          "title": "Mouvement naturel et fluide",
+          "content": "Profitez de mouvements de personnages fluides et réalistes, d'une cohérence spatiale et d'un contrôle dynamique de la caméra, y compris des panoramiques, des zooms et des plans de suivi.",
+          "icon": "🌊"
+        },
+        {
+          "title": "Large éventail de styles visuels",
+          "content": "Appliquez différents styles, allant du photoréalisme, de l'anime, de l'illustration, du cyberpunk à l'aquarelle et plus encore, sans avoir besoin de réglages complexes.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Génération rapide et efficace",
+          "content": "Profitez d'une création vidéo rapide grâce à l'accélération optimisée du modèle, produisant des vidéos de 5 secondes en environ 41 secondes, accélérant ainsi votre flux de travail créatif.",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ sur Seedance 1.0",
+      "description": "Votre guide pour maîtriser Seedance 1.0 et créer des vidéos IA cinématiques et professionnelles.",
+      "q1": "Qu'est-ce que Seedance 1.0 ?",
+      "a1": "Seedance 1.0 est un modèle de génération de vidéos basé sur l'IA de ByteDance qui crée des vidéos narratives de haute qualité en utilisant du texte ou des images comme entrée. Il prend en charge la narration multi-plans avec des mouvements fluides et des styles visuels professionnels.",
+      "q2": "Comment Seedance 1.0 génère-t-il des vidéos ?",
+      "a2": "Il utilise une modélisation de diffusion avancée avec des algorithmes de cohérence spatio-temporelle et une interprétation précise des prompts pour générer des vidéos de 5 à 10 secondes avec des transitions fluides et une cohérence stable des personnages en résolution 1080p.",
+      "q3": "Quels sont les principaux cas d'utilisation de Seedance 1.0 ?",
+      "a3": "Seedance 1.0 est idéal pour les créateurs de contenu social, les spécialistes du marketing, les cinéastes, les reels de mode, les boucles de moodboard, les vidéos éducatives et tout projet nécessitant un contenu vidéo cinématique et dynamique à partir de texte ou d'images.",
+      "q4": "Puis-je personnaliser le style et la durée de la vidéo ?",
+      "a4": "Oui, Seedance permet de choisir différents styles artistiques, notamment le photoréalisme, l'anime, le cyberpunk, etc. Vous pouvez également définir la durée de la vidéo, généralement entre 5 et 10 secondes.",
+      "q5": "Quelle qualité vidéo Seedance 1.0 prend-il en charge ?",
+      "a5": "Seedance génère des vidéos en HD 1080p avec une fréquence d'images fluide de 24 images par seconde, ce qui les rend adaptées à un usage professionnel sur toutes les plateformes.",
+      "q6": "Seedance 1.0 est-il facile à utiliser pour les débutants ?",
+      "a6": "Absolument. Grâce à une interface intuitive prenant en charge l'entrée de texte ou d'image, n'importe qui, des débutants aux professionnels, peut rapidement créer de superbes vidéos IA.",
+      "q7": "Quels types de prompts fonctionnent le mieux avec Seedance ?",
+      "a7": "Les prompts détaillés en langage naturel décrivant des scènes, des actions et des émotions produisent les meilleurs résultats. Les prompts créatifs et expérimentaux sont également bien pris en charge.",
+      "q8": "Existe-t-il des limitations à Seedance 1.0 ?",
+      "a8": "Bien que puissant, il peut nécessiter plus de traitement pour des scénarios complexes à plusieurs personnages ou à haute résolution. De plus, le maintien d'une cohérence parfaite du style artistique sur de longs clips reste difficile."
+    }
+  },
+  "originalKeyword": "Seedance 1.0 AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modèle : Seedance 1.0",
+      "description": "Prompt: The man on the left presses his lips tightly together, his face etched with fury and resolve. Every line of his expression radiates both profound frustration and unshakable conviction. Meanwhile, the other man's jaw hangs open—poised as if to erupt into a shout or impassioned declaration.",
+      "videoUrl": "https://fluximageai.net/generated-models/4e3363f0-35d4-4af0-a0fb-0a61fcd72239.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Modèle : Seedance 1.0",
+      "description": "Prompt: A cartoon minion Jedi in dark robes, crouching low on a tree branch above a misty swamp. He has two small daggers and glowing yellow eyes under his hood. Silent and mysterious, with soft cinematic lighting and glowing mushrooms nearby.",
+      "videoUrl": "https://fluximageai.net/generated-models/5e666711-bbb7-4f99-b96b-48f271496894.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Modèle : Seedance 1.0",
+      "description": "Prompt: A cat is playing piano.",
+      "videoUrl": "https://fluximageai.net/generated-models/d4a77f87-afe1-44fa-8d50-4d12656fa4aa.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Modèle : Seedance 1.0",
+      "description": "Prompt: preocupado por las deudas.",
+      "videoUrl": "https://fluximageai.net/generated-models/acd61a30-7ad9-4d78-a458-52e510735e52.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "SEEDANCE"
+}

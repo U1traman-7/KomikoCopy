@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Pixverse Image to Video - KomikoAI",
+      "description": "Ubah gambar tunggal menjadi video sinematik dengan Pixverse Image to Video. Gerakan bertenaga AI, gerakan kamera, sinkronisasi bibir, dan animasi adegan untuk anime, manga, manhwa, dan ilustrasi.",
+      "fullDescription": "Pixverse Image to Video adalah generator image-to-video bertenaga AI yang mengubah gambar statis menjadi animasi dinamis dan sinematik. Tambahkan gerakan, pan kamera, paralaks 3D, sinkronisasi bibir, dan VFX ke karya seni, manga, manhwa, *frame* anime, potret, *bidikan* produk, dan lainnya. Ideal untuk kreator yang ingin mengubah gambar menjadi video untuk TikTok, YouTube Shorts, Instagram Reels, *trailer*, *storyboard*, dan pemasaran konten.",
+      "keywords": "Pixverse Image to Video, AI image to video, generator image to video, animasi foto, animasikan gambar, AI video generator, animasi gambar, gambar diam ke video, tambahkan gerakan ke foto, animasikan anime, animasikan manga, animasikan manhwa, paralaks 3D, gerakan kamera, *lip sync* AI, video dari gambar, ubah gambar menjadi video, gerakan AI, efek video"
+    },
+    "hero": {
+      "title": "Pixverse Image to Video",
+      "description": "Animasi instan gambar apa pun menjadi video sinematik dengan gerakan AI, gerakan kamera, dan sinkronisasi bibir. Sempurna untuk anime, manga, manhwa, dan ilustrasi."
+    },
+    "whatIs": {
+      "title": "Apa itu Pixverse Image to Video?",
+      "description": "Pixverse Image to Video adalah alat *image-to-video* AI yang mengubah satu *frame* menjadi video dinamis dengan memprediksi gerakan, menganimasikan elemen, dan mensimulasikan gerakan kamera. Ini meningkatkan visual statis dengan gerakan, kedalaman, ekspresi, dan efek yang hidup, sehingga ideal untuk mengubah karya seni, potret karakter, dan panel menjadi video pendek yang menarik."
+    },
+    "examples": {
+      "title": "Contoh Image to Video",
+      "description": "Lihat bagaimana satu gambar menjadi *bidikan* dinamis dengan kedalaman, gerakan, dan gerakan kamera sinematik—sempurna untuk *trailer*, *reels*, dan adegan cerita."
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Pixverse Image to Video",
+      "steps": [
+        {
+          "title": "Unggah Gambar Anda",
+          "content": "Unggah gambar berkualitas tinggi—karya seni, *frame* anime, panel manga, halaman manhwa, atau foto—untuk mulai menganimasi."
+        },
+        {
+          "title": "Masukkan Prompt Gerakan",
+          "content": "Jelaskan gerakan dan suasana: *pan* kamera, kedalaman paralaks, gerakan rambut dan kain, kedipan mata, sinkronisasi bibir, pencahayaan, atau VFX. \n\n**prompt**"
+        },
+        {
+          "title": "Hasilkan Video",
+          "content": "Klik Hasilkan untuk membuat video bertenaga AI dari gambar Anda, lengkap dengan gerakan, kedalaman, dan gerakan sinematik."
+        },
+        {
+          "title": "Unduh dan Bagikan",
+          "content": "Ekspor video Anda untuk TikTok, Reels, Shorts, atau proyek. Bagikan secara instan di seluruh *platform* atau gunakan dalam editan dan *trailer*."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan Pixverse Image to Video?",
+      "description": "Buat video yang menarik perhatian dari satu gambar dengan gerakan AI, gerakan kamera, dan animasi ekspresif—tidak diperlukan *keyframing* manual.",
+      "features": [
+        {
+          "title": "Gerakan AI Dari Satu Gambar",
+          "content": "Hasilkan gerakan yang halus dan realistis, dari animasi wajah halus hingga gerakan lingkungan yang dinamis.",
+          "icon": "🎞️"
+        },
+        {
+          "title": "Gerakan Kamera Sinematik",
+          "content": "Tambahkan *pan*, *zoom*, dan kedalaman paralaks untuk mensimulasikan 3D, mengubah seni datar menjadi *bidikan* imersif.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Siap Animasi untuk Anime & Komik",
+          "content": "Animasikan gambar diam anime, panel manga, dan karya seni manhwa menjadi *trailer*, intro, dan adegan berulang.",
+          "icon": "📚"
+        },
+        {
+          "title": "Alur Kerja Ramah Kreator",
+          "content": "Tidak diperlukan keterampilan animasi—masukkan *prompt* gerakan dan dapatkan video siap ekspor dalam hitungan detik.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Output Berkualitas Tinggi",
+          "content": "Hasilkan video yang jernih dan stabil yang cocok untuk media sosial, pratinjau, dan pekerjaan klien.",
+          "icon": "✨"
+        },
+        {
+          "title": "Sempurna untuk Video Pendek",
+          "content": "Optimalkan untuk TikTok, YouTube Shorts, dan Reels untuk meningkatkan jangkauan dengan *postingan* animasi.",
+          "icon": "📱"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Panduan Ahli untuk Pixverse Image to Video",
+      "description": "Semua yang dibutuhkan untuk menganimasikan gambar menjadi video dengan gerakan AI dan kedalaman sinematik.",
+      "q1": "Apa itu Pixverse Image to Video?",
+      "a1": "Pixverse Image to Video adalah generator *image-to-video* AI yang menganimasikan satu gambar dengan gerakan, kedalaman, dan gerakan kamera untuk hasil sinematik.",
+      "q2": "Bagaimana cara kerja Pixverse Image to Video?",
+      "a2": "Sistem menganalisis gambar, memprediksi gerakan yang masuk akal, memisahkan *layer* untuk kedalaman, dan merender *frame* dengan gerakan kamera, sinkronisasi bibir (jika diaktifkan), dan VFX untuk video yang halus.",
+      "q3": "Konten apa yang paling cocok?",
+      "a3": "Subjek yang jelas dengan tepi yang jelas—potret karakter, *frame* anime, panel manga/manhwa, foto produk, dan ilustrasi bergaya—menghasilkan animasi yang paling stabil.",
+      "q4": "Bisakah saya menambahkan sinkronisasi bibir atau animasi wajah?",
+      "a4": "Ya, tambahkan *prompt* untuk sinkronisasi bibir, kedipan mata, putaran kepala, dan perubahan ekspresi untuk menghidupkan karakter.",
+      "q5": "Format apa yang didukung?",
+      "a5": "Input umum seperti JPG dan PNG didukung, dan *output* dapat diunduh sebagai MP4 untuk memudahkan *posting* dan pengeditan.",
+      "q6": "Apakah saya memerlukan keterampilan animasi?",
+      "a6": "Tidak—cukup unggah, jelaskan gerakan (gunakan **prompt**), dan hasilkan. AI menangani interpolasi, simulasi kamera, dan pengaturan waktu.",
+      "q7": "Bagaimana saya bisa mendapatkan hasil yang lebih halus?",
+      "a7": "Gunakan gambar beresolusi tinggi, hindari teks atau kekacauan yang berat, jaga agar subjek tetap berada di tengah, dan tulis *prompt* gerakan yang tepat dengan pengaturan waktu dan arah kamera.",
+      "q8": "Bisakah saya menggunakan video yang dihasilkan secara komersial?",
+      "a8": "Video dapat digunakan untuk proyek pribadi dan komersial yang tunduk pada ketentuan layanan *platform*."
+    }
+  },
+  "originalKeyword": "Pixverse Image to Video",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Veo 3",
+      "description": "Prompt: A delicate feather rests on a fence post. A gust of wind lifts it, sending it dancing over rooftops. It floats and spins, finally caught in a spiderweb on a high balcony.",
+      "videoUrl": "/images/pages/veo3/example6.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: Anime-style battle scene. A young warrior with a glowing sword clashes with a giant, demonic monster with glowing eyes and sharp teeth. Fast-paced swordfight, sparks fly, intense close-ups. Ends with the hero slaying the monster in a dramatic final strike. Dark background, cinematic lighting, glowing particles.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/monster.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Ray",
+      "description": "Prompt: A girl is talking sadly",
+      "videoUrl": "/images/examples/image-animation-generator/output4.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Veo 3",
+      "description": "Prompt: A woman, classical violinist with intense focus plays a complex, rapid passage from a Vivaldi concerto in an ornate, sunlit baroque hall during a rehearsal. Their bow dances across the strings with virtuosic speed and precision. Audio: Bright, virtuosic violin playing, resonant acoustics of the hall, distant footsteps of crew, conductor's occasional soft count-in (muffled), rustling sheet music.",
+      "videoUrl": "/images/pages/veo3/example4.webm"
+    },
+    {
+      "id": 5,
+      "title": "Model: FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said “cute” using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    },
+    {
+      "id": 6,
+      "title": "Model: AniSora",
+      "description": "Prompt: The figures in the picture are sitting in a forward moving car waving to the rear, their hair swaying from side to side in the wind",
+      "videoUrl": "/images/pages/anisora/example1.webm"
+    }
+  ]
+}

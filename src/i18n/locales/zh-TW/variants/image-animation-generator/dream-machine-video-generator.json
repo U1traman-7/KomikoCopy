@@ -1,0 +1,134 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Dream Machine 影片產生器 - KomikoAI",
+      "description": "立即使用 Dream Machine 影片產生器，創作令人驚豔的高品質 AI 生成影片。體驗快速、逼真的影片製作，可從文字或圖像產生，並具有電影級品質。",
+      "keywords": "Dream Machine 影片產生器, AI 影片創作, 文字轉影片 AI, 圖像轉影片 AI, 電影級 AI 影片, AI 影片製作, AI 影片產生器功能, 逼真 AI 影片"
+    },
+    "hero": {
+      "title": "Dream Machine 影片產生器",
+      "description": "運用先進的 AI 技術，將您的創意想法轉化為令人嘆為觀止的電影級影片。只需幾分鐘，即可從文字提示或圖像生成逼真、高品質的影片，無需具備任何專業技能。"
+    },
+    "whatIs": {
+      "title": "Dream Machine 影片產生器是什麼？",
+      "description": "Dream Machine 影片產生器是由 Luma Labs 開發的先進 AI 工具，專為從文字描述或靜態圖像創建超逼真影片而設計。它利用先進的時空深度學習模型，模擬自然的運動物理，並在整個影片序列中保持一致的角色細節。此工具提供可自訂的影片長度、高達 4K Ultra HD 的解析度以及靈活的長寬比，非常適合希望快速製作專業品質片段，而無需複雜編輯軟體的創作者。"
+    },
+    "examples": {
+      "title": "Dream Machine 影片產生器範例",
+      "description": "探索由 AI 生成的各種影片片段，從電影級野生動物場景到城市生活和奇幻故事。親眼見證簡單的文字提示或圖像，如何轉化為流暢、動態的影片，非常適合用於社群媒體、簡報或個人故事敘述。"
+    },
+    "howToUse": {
+      "title": "如何使用 Dream Machine 影片產生器",
+      "steps": [
+        {
+          "title": "上傳您的圖片",
+          "content": "首先，上傳您想要製作成動畫的靜態圖片。此圖片將作為您 AI 生成影片的基礎。"
+        },
+        {
+          "title": "輸入您的提示",
+          "content": "輸入您希望影片描述的場景、動作或風格的詳細文字描述。AI 能夠理解自然語言，並將使用您的提示來引導動畫生成。"
+        },
+        {
+          "title": "產生您的影片",
+          "content": "點擊「產生動畫」按鈕，以啟動影片創建過程。AI 將分析您的輸入，應用逼真的運動物理，並在幾分鐘內製作出流暢的影片序列。"
+        },
+        {
+          "title": "下載和分享",
+          "content": "完成後，下載多種格式的高品質影片，或直接在社群媒體和其他平台上分享，以展示您的創意視野。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼要選擇 Dream Machine 影片產生器？",
+      "description": "探索 Dream Machine 影片產生器如何透過 AI 驅動的速度、品質和創造力，來提升您的影片創作工作流程。",
+      "features": [
+        {
+          "title": "AI 動力逼真影片生成",
+          "content": "利用尖端的時空建模來模擬自然的運動和逼真的物理，確保高保真度和流暢的影片輸出。",
+          "icon": "🤖"
+        },
+        {
+          "title": "圖像轉影片生成",
+          "content": "透過上傳靜態圖像來創建影片。AI 會將您的圖像動畫化為電影級影片，無需額外輸入文字提示。",
+          "icon": "🖼️"
+        },
+        {
+          "title": "可自訂的影片規格",
+          "content": "精準控制影片長度、高達 4K 的解析度、長寬比和相機角度，以針對各種平台和專業需求客製化輸出。",
+          "icon": "⚙️"
+        },
+        {
+          "title": "快速影片製作",
+          "content": "只需約 2 分鐘即可生成多達 120 幀，與傳統動畫方法相比，可顯著縮短製作時間。",
+          "icon": "⚡"
+        },
+        {
+          "title": "保持角色和場景一致性",
+          "content": "在整個影片中保持面部特徵、服裝細節和整體場景連貫性，以確保專業的影片效果。",
+          "icon": "🎥"
+        },
+        {
+          "title": "可訪問的全球平台",
+          "content": "在全球範圍內提供多語言支援，使全球創作者都能夠輕鬆有效地製作內容。",
+          "icon": "🌍"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Dream Machine 影片產生器專家指南",
+      "description": "關於使用 Dream Machine 進行 AI 影片創作的常見問題解答。",
+      "q1": "什麼是 Dream Machine 影片產生器？",
+      "a1": "Dream Machine 影片產生器是一種精密的 AI 工具，可從文字描述或靜態圖像創建簡短、高品質的影片。它使用先進的深度學習模型，來實現逼真的運動和一致的場景渲染。",
+      "q2": "Dream Machine 如何處理文字提示和圖像？",
+      "a2": "AI 會解讀自然語言提示並處理上傳的圖像，透過模擬真實世界的物理現象、保持角色完整性，並產生流暢的電影效果來生成影片。",
+      "q3": "Dream Machine 影片有哪些限制？",
+      "a3": "影片長度限制在 10 秒左右，解析度最高可達 4K。此工具目前不支援長片影片創作或影片剪輯編輯，專注於短格式內容。",
+      "q4": "Dream Machine 影片可以用於商業用途嗎？",
+      "a4": "是的，生成的影片可用於個人和商業用途。使用者應查閱平台的服務條款，以獲取具體的授權許可詳細資訊。",
+      "q5": "支援哪些輸入格式？",
+      "a5": "Dream Machine 接受常見的圖像格式，如 JPG 和 PNG，用於圖像轉影片生成，並支援詳細的文字輸入，用於文字轉影片創作。",
+      "q6": "使用該工具需要技術專業知識嗎？",
+      "a6": "不需要具備任何技術技能。直觀的介面使任何人都可以透過簡單地提供圖像或描述性提示來創建專業影片。",
+      "q7": "影片的生成速度有多快？",
+      "a7": "通常，影片會在 2 到 3 分鐘內生成多達 120 幀，從而為創意專案提供快速的製作週期。",
+      "q8": "Dream Machine 與其他 AI 影片產生器有何不同？",
+      "a8": "它能夠保持角色一致性、逼真的運動物理現象、可自訂的電影攝影機工作，以及 4K 影片輸出，使其成為領先的 AI 影片工具。"
+    }
+  },
+  "originalKeyword": "Dream Machine Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：Ray2",
+      "description": "Prompt: Camera turn with beautiful lighting.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_08.mp4"
+    },
+    {
+      "id": 2,
+      "title": "模型：Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 5,
+      "title": "模型：Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 6,
+      "title": "模型：Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "benefits",
+    "howToUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

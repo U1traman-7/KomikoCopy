@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "範本 | Komiko AI",
+    "description": "探索我們為 Playground、影片特效、影片轉影片和舞蹈工具精心設計的動漫風格範本。點擊範本即可載入最適合您的預設。",
+    "keywords": "動漫範本、Komiko 預設、影片特效範本、角色扮演範本"
+  },
+  "hero": {
+    "eyebrow": "範本",
+    "title": "深受動漫創作者喜愛的精選範本",
+    "description": "找到您心儀的範本，立即開始創作！"
+  },
+  "buttons": {
+    "useTemplate": "使用此範本",
+    "preview": "預覽",
+    "close": "關閉",
+    "seeAll": "查看全部"
+  },
+  "categories": {
+    "featured": {
+      "title": "精選推薦"
+    },
+    "art": {
+      "title": "角色設定",
+      "description": "將肖像轉換為專業角色設計——包括線稿、Q版、小人、表情圖和三視圖等。"
+    },
+    "style": {
+      "title": "風格轉換",
+      "description": "適用於 Playground 的實用預設，能將人像轉換為精緻的動漫、水彩畫或賽博龐克渲染圖。"
+    },
+    "imageRestyle": {
+      "title": "圖像風格化",
+      "description": "將圖片轉換成動漫風、皮克斯風、漫畫風、水彩風、霓虹燈風等15種以上藝術風格。"
+    },
+    "videoRestyle": {
+      "title": "影片風格化",
+      "description": "將影片轉換成動漫、卡通、草圖、表情符號等動畫風格，讓現實世界的影片化身為具有風格化的內容。"
+    },
+    "merch": {
+      "title": "商品工作室",
+      "description": "生成人物模型、絨毛玩具，以及適合收藏家欣賞的高品質角色設定。"
+    },
+    "game": {
+      "title": "遊戲",
+      "description": "創造遊戲風格的影片和場景，如原神預告片、復古像素遊戲、寶可夢進化、約會模擬器等多種遊戲美學。"
+    },
+    "movie": {
+      "title": "電影",
+      "description": "用電影和電視藝術風格再現肖像——從動畫系列到奇幻電影等。"
+    },
+    "cosplay": {
+      "title": "角色扮演與服裝",
+      "description": "重現角色扮演宣傳片、角色扮演預告及角色扮演場景的預設，同時也包含角色服裝。"
+    },
+    "effects": {
+      "title": "影片特效與動畫",
+      "description": "應用動態效果，包括Live2D微風動畫、360°角色視角、魔法少女變身、超級賽亞人強化以及動漫/漫畫風格的音樂視頻。"
+    },
+    "dance": {
+      "title": "舞藝",
+      "description": "針對 K-pop、病毒式 TikTok 熱潮及風格化機器人舞蹈進行優化的 AI 舞蹈影片動作。"
+    },
+    "christmas": {
+      "title": "聖誕節",
+      "description": "使用魔法預設的節日角色和假日環境，創造迷人的聖誕場景。"
+    }
+  }
+}

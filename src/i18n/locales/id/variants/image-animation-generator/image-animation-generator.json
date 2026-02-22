@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Gambar AI ke Video Animasi - KomikoAI",
+      "description": "Ubah gambar statis menjadi video animasi yang memukau dengan teknologi AI. Hasilkan animasi yang tampak nyata dari foto, karya seni, dan ilustrasi dalam hitungan detik.",
+      "keywords": "gambar ke animasi, generator animasi AI, animasi foto, gambar ke video, pembuat video AI"
+    },
+    "hero": {
+      "title": "Generator Animasi Gambar AI",
+      "subtitle": "Transformasikan gambar statis menjadi video animasi dinamis dengan teknologi AI canggih."
+    },
+    "whatIs": {
+      "title": "Apa Itu Animasi Gambar?",
+      "description": "Animasi Gambar adalah teknologi bertenaga AI yang mengubah gambar statis menjadi video dinamis yang tampak nyata. AI canggih kami menganalisis foto, karya seni, dan ilustrasi Anda untuk menciptakan gerakan alami, efek pernapasan, dan animasi halus, sehingga menghidupkan gambar Anda dengan gerakan yang memukau."
+    },
+    "howToUse": {
+      "title": "Cara Membuat Animasi Gambar",
+      "steps": [
+        {
+          "title": "Unggah Gambar Anda",
+          "content": "Pilih dan unggah foto, karya seni, atau ilustrasi yang ingin Anda animasikan."
+        },
+        {
+          "title": "Deskripsikan Animasi",
+          "content": "Tulis prompt yang mendeskripsikan jenis gerakan yang ingin Anda lihat pada gambar Anda."
+        },
+        {
+          "title": "Pilih Pengaturan",
+          "content": "Pilih durasi animasi, gaya, dan preferensi kualitas untuk video Anda."
+        },
+        {
+          "title": "Hasilkan & Unduh",
+          "content": "Biarkan AI menghasilkan video animasi Anda, kemudian unduh hasilnya dalam kualitas tinggi."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan Generator Animasi Gambar Kami?",
+      "description": "Hasilkan konten animasi profesional dari gambar statis tanpa memerlukan perangkat lunak kompleks atau keterampilan animasi khusus.",
+      "features": [
+        {
+          "title": "Animasi Bertenaga AI",
+          "content": "Teknologi AI canggih menciptakan gerakan alami yang tampak nyata dari berbagai jenis gambar statis.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Beragam Jenis Gambar",
+          "content": "Kompatibel dengan foto, seni digital, ilustrasi, potret, dan berbagai format gambar lainnya.",
+          "icon": "🖼️"
+        },
+        {
+          "title": "Gerakan Alami",
+          "content": "Hasilkan efek pernapasan, kedipan mata, gerakan rambut, dan animasi wajah halus yang realistis.",
+          "icon": "💫"
+        },
+        {
+          "title": "Output Berkualitas Tinggi",
+          "content": "Buat video animasi berkualitas profesional dengan resolusi hingga 1080p.",
+          "icon": "⭐"
+        },
+        {
+          "title": "Mudah Digunakan",
+          "content": "Proses unggah dan penghasilan yang sederhana – tidak diperlukan pengalaman animasi.",
+          "icon": "✨"
+        },
+        {
+          "title": "Pemrosesan Cepat",
+          "content": "Ubah gambar Anda menjadi animasi dalam hitungan menit, bukan jam.",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Generator Animasi Gambar",
+      "description": "Pertanyaan umum seputar pembuatan animasi dari gambar statis.",
+      "q1": "Jenis gambar apa yang paling sesuai untuk animasi?",
+      "a1": "Gambar berkualitas tinggi dengan subjek yang jelas merupakan pilihan terbaik. Foto, seni digital, potret, dan ilustrasi menghasilkan hasil yang sangat baik apabila memiliki resolusi yang baik dan fitur yang mudah dibedakan.",
+      "q2": "Berapa lama durasi video animasi yang dapat dibuat?",
+      "a2": "Anda dapat membuat animasi dengan durasi mulai dari 5 hingga 10 detik, yang sangat cocok untuk konten media sosial, presentasi, dan tampilan visual yang menarik.",
+      "q3": "Efek animasi apa yang dapat saya buat?",
+      "a3": "AI kami dapat menghasilkan berbagai efek, termasuk animasi pernapasan, kedipan mata, gerakan rambut, ekspresi wajah, dan efek lingkungan seperti air mengalir atau awan bergerak.",
+      "q4": "Format gambar apa yang didukung?",
+      "a4": "Kami mendukung format gambar umum seperti JPG, PNG, dan WEBP dengan ukuran file hingga 10MB untuk kualitas pemrosesan dan animasi yang optimal.",
+      "q5": "Seberapa realistis tampilan animasinya?",
+      "a5": "AI kami menciptakan animasi yang tampak alami, yang mempercantik gambar Anda tanpa membuatnya terlihat dibuat-buat. Gerakannya halus dan tampak nyata.",
+      "q6": "Apakah saya dapat mengontrol gaya animasi?",
+      "a6": "Ya, Anda dapat menentukan jenis animasi yang Anda inginkan melalui prompt yang terperinci, memilih dari gerakan realistis, efek artistik, atau animasi bergaya."
+    }
+  },
+  "content": {
+    "header": {
+      "title": "Generator Animasi Gambar AI",
+      "subtitle": "Ubah gambar statis Anda menjadi video animasi menawan dengan AI."
+    },
+    "examples": [
+      {
+        "id": 1,
+        "title": "Model: Veo 3",
+        "description": "Prompt: A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+        "videoUrl": "/images/pages/veo3/example7.webm"
+      },
+      {
+        "id": 2,
+        "title": "Model: AniSora",
+        "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+        "videoUrl": "/images/pages/anisora/example3.webm"
+      },
+      {
+        "id": 3,
+        "title": "Model: Anime Pro",
+        "description": "Prompt: Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+      },
+      {
+        "id": 4,
+        "title": "Model: Marey",
+        "description": "Prompt: Motion Transfer - Advanced motion capture and animation techniques",
+        "videoUrl": "https://framerusercontent.com/assets/G6g5UNTx9dlKbMGdS8Iag4Xas.mp4"
+      },
+      {
+        "id": 5,
+        "title": "Model: Marey",
+        "description": "Prompt: Dynamic Motion - Fluid and dynamic character animation",
+        "videoUrl": "https://framerusercontent.com/assets/vgdQZ2zcFZsxMSqZv8s2kwwKJ8.mp4"
+      },
+      {
+        "id": 6,
+        "title": "Model: Anime Pro",
+        "description": "Prompt: The boy slowly lean in, gently holds the girl’s face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+      }
+    ]
+  },
+  "originalKeyword": "Image Animation Generator",
+  "placeholderText": "A beautiful portrait with gentle breathing animation, subtle eye movement, and natural facial expressions"
+}

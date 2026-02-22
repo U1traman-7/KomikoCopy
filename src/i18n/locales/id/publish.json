@@ -1,0 +1,86 @@
+{
+  "pageTitle": "Pos | KomikoAI",
+  "shareStory": "Bagikan Cerita",
+  "enterStoryTitle": "Masukkan Judul Cerita",
+  "addMoreDescription": "Tambahkan Deskripsi Lebih Lanjut",
+  "post": "Kirim",
+  "pleaseNote": "Perhatian:",
+  "nsfwWarning": "Harap tandai semua konten yang tidak pantas sebagai \"NSFW\".\nPostingan tanpa tag dapat dihapus dan pelanggaran berulang dapat menyebabkan larangan.\nKonten ilegal (termasuk anak di bawah umur) dilarang keras dan akan mengakibatkan larangan permanen.",
+  "imageDownloadSuccess": "Gambar Berhasil Diunduh! Bagikan dengan Teman Sekarang!",
+  "pleaseEnterTitle": "Mohon Masukkan Judul",
+  "pleaseCreateStory": "Mohon Buat Cerita",
+  "failedToPost": "Gagal Mengirim",
+  "defaultTitles": {
+    "character": "Pembuatan Karakter Saya",
+    "anime": "Foto Gaya Anime Saya",
+    "animation": "Animasi Saya",
+    "creation": "Karya Saya"
+  },
+  "addTags": "Tambahkan Tag",
+  "tagPlaceholder": "#Masukkan tag",
+  "tagCount": "Tag ({{current}}/{{max}})",
+  "recommendedTags": "Tag yang Disarankan",
+  "popularTags": "Tag Populer",
+  "activity": "Aktivitas",
+  "share": "Bagikan",
+  "uploadMedia": "Unggah Media",
+  "dragDropOrClick": "Tarik & letakkan file di sini, atau klik untuk memilih",
+  "dropFileHere": "Letakkan file di sini",
+  "uploading": "Sedang mengunggah",
+  "storyTitle": "Judul Cerita",
+  "description": "Deskripsi",
+  "titleLengthWarning": "Judul terlalu panjang",
+  "characters": "karakter",
+  "pleasePublishFirst": "Silakan terbitkan konten terlebih dahulu sebelum membagikan",
+  "pinPost": "Sematkan pos ini di bagian atas feed Tren",
+  "fileUpload": {
+    "title": "Unggah Media",
+    "subtitle": "Seret & lepas berkas di sini, atau klik untuk memilih",
+    "dropHere": "Lepaskan berkas di sini",
+    "supportedFormats": "Format yang didukung",
+    "imageFormats": "JPG, PNG, WEBP",
+    "videoFormats": "MP4, MOV, AVI",
+    "maxSize": "Gambar: Maks {{size}}MB",
+    "videoMaxSize": "Video: Maks {{size}}MB, {{duration}} menit",
+    "processing": "Memproses berkas...",
+    "uploading": "Mengunggah...",
+    "success": "Unggahan berhasil!",
+    "error": "Unggahan gagal. Silakan coba lagi."
+  },
+  "mediaPreview": {
+    "image": "Gambar",
+    "video": "Video",
+    "download": "Unduh",
+    "share": "Bagikan",
+    "clear": "Bersihkan"
+  },
+  "validation": {
+    "titleRequired": "Silakan masukkan judul",
+    "contentRequired": "Silakan buat cerita",
+    "fileRequired": "Silakan pilih berkas",
+    "fileTooLarge": "Berkas terlalu besar. Ukuran maksimum: {{size}}MB",
+    "unsupportedFormat": "Format berkas tidak didukung",
+    "uploadFailed": "Unggahan gagal. Silakan coba lagi."
+  },
+  "actions": {
+    "publish": "Publikasikan",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "clear": "Bersihkan Semua",
+    "download": "Unduh",
+    "share": "Bagikan"
+  },
+  "preppingPost": "Sedang menyiapkan postingan Anda…",
+  "drawer": {
+    "action": {
+      "newPost": "Buat Postingan Baru",
+      "newCharacter": "Buat Karakter Baru",
+      "generateImage": "Buat Gambar",
+      "generateVideo": "Buat Video",
+      "generateComic": "Buat Komik"
+    },
+    "description": {
+      "newPost": "Bagikan kreasi Anda dengan komunitas."
+    }
+  }
+}

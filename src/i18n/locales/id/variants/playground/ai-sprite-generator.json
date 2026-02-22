@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Sprite Generator",
+      "description": "Hasilkan seni sprite yang memukau dalam sekejap! Ubah foto Anda menggunakan AI Sprite Generator kami dan bagikan visual unik yang menarik perhatian serta menginspirasi.",
+      "keywords": "AI Sprite Generator, pembuat seni piksel AI, pembuat karakter AI, generator seni sprite, transformasi seni digital"
+    },
+    "hero": {
+      "title": "AI Sprite Generator"
+    },
+    "whatIs": {
+      "title": "Apa Itu AI Sprite Generator?",
+      "description": "AI Sprite Generator adalah alat khusus yang dirancang bagi seniman dan penggemar untuk mengubah gambar biasa menjadi seni sprite yang unik. Dengan memanfaatkan algoritma AI mutakhir, pengguna dapat mengunggah foto mereka dan menerapkan beragam filter bergaya sprite, menghasilkan karya seni visual yang memukau serta mengingatkan pada estetika permainan klasik. Nikmati antarmuka yang intuitif dan mudah digunakan, yang dirancang untuk semua kalangan, serta menghasilkan output berkualitas tinggi dengan mudah."
+    },
+    "examples": {
+      "title": "Contoh AI Sprite Generator",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan AI Sprite Generator",
+      "steps": [
+        {
+          "title": "Langkah 1: Unggah Foto Anda",
+          "content": "Pilih foto beresolusi tinggi dan jernih dari perangkat Anda. AI bekerja optimal dengan gambar yang memiliki kontras yang baik dan garis luar yang jelas untuk hasil terbaik."
+        },
+        {
+          "title": "Langkah 2: Pilih Template Sprite Sheet",
+          "content": "Pilih template Sprite Sheet untuk mengubah foto Anda dengan gaya sprite sheet yang diinginkan."
+        },
+        {
+          "title": "Langkah 3: Konversi ke Sprite Sheet",
+          "content": "Tekan 'Konversi ke Seni Sprite' dan biarkan AI mengubah gambar Anda menjadi karya seni sprite yang hidup, siap untuk Anda tinjau dan sesuaikan."
+        },
+        {
+          "title": "Langkah 4: Unduh dan Bagikan",
+          "content": "Setelah Anda puas dengan hasilnya, unduh seni sprite Anda dengan mudah! Bagikan kreasi Anda di media sosial untuk terhubung dengan sesama kreator."
+        }
+      ],
+      "subtitle": "Ubah foto Anda menjadi seni sprite yang luar biasa hanya dalam beberapa langkah sederhana."
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan AI Sprite Generator?",
+      "description": "Nikmati fitur tak tertandingi yang dirancang untuk kreator dari semua tingkatan.",
+      "features": [
+        {
+          "title": "🎨 Gaya Seni yang Unik",
+          "content": "Dengan beragam gaya seni sprite yang tersedia, sesuaikan kreasi Anda agar sesuai dengan visi artistik atau kebutuhan proyek Anda."
+        },
+        {
+          "title": "⚡ Cepat dan Efisien",
+          "content": "Ubah gambar Anda dengan cepat. AI Sprite Generator kami memastikan waktu pemrosesan yang singkat tanpa mengorbankan kualitas."
+        },
+        {
+          "title": "🖼️ Mudah Digunakan",
+          "content": "Nikmati antarmuka yang mudah dinavigasi, cocok untuk pemula maupun seniman digital berpengalaman yang mencari solusi kreatif yang cepat."
+        },
+        {
+          "title": "💫 Output Berkualitas Tinggi",
+          "content": "Hasilkan gambar beresolusi tinggi yang siap untuk dicetak, dibagikan secara daring, atau untuk proyek artistik apa pun yang Anda inginkan."
+        },
+        {
+          "title": "🎯 Komunitas Kreatif",
+          "content": "Bergabunglah dengan komunitas penggemar seni sprite yang dinamis, tempat Anda dapat berbagi karya, menemukan inspirasi, dan berinteraksi dengan sesama pengguna."
+        },
+        {
+          "title": "🚀 Pembaruan Reguler",
+          "content": "Manfaatkan peningkatan berkelanjutan dengan gaya dan fitur baru yang terus diluncurkan untuk eksplorasi kreatif Anda."
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI Sprite Generator FAQ",
+      "description": "",
+      "q1": "Format gambar apa saja yang didukung oleh AI Sprite Generator?",
+      "a1": "Mendukung format JPG, PNG, dan WEBP; pengguna dapat dengan mudah mengunggah dan mengunduh output beresolusi tinggi.",
+      "q2": "Bagaimana AI Sprite Generator menghasilkan seni sprite?",
+      "a2": "Dengan memanfaatkan algoritma machine learning canggih yang disempurnakan dengan beragam gaya seni, AI menghasilkan transformasi sprite yang autentik.",
+      "q3": "Apakah ada batasan jumlah gambar yang dapat saya ubah?",
+      "a3": "Tidak ada batasan! Anda dapat mengubah gambar sebanyak yang Anda inginkan—jelajahi kreativitas tanpa batas.",
+      "q4": "Bisakah saya menggunakan seni sprite yang dihasilkan secara komersial?",
+      "a4": "Tentu saja! Seni sprite yang Anda buat dapat digunakan untuk keperluan komersial, meningkatkan nilai proyek Anda.",
+      "q5": "Apakah penggunaan AI Sprite Generator gratis?",
+      "a5": "Ya, AI Sprite Generator kami gratis untuk digunakan! Jelajahi opsi premium untuk gaya yang lebih canggih."
+    },
+    "cta": {
+      "title": "Mulai Berkarya dengan AI Sprite Generator Hari Ini!",
+      "description": "Rangkul dunia seni piksel dengan AI Sprite Generator kami. Ubah foto Anda menjadi seni sprite yang unik dan tunjukkan kreativitas Anda—mulai perjalanan artistik Anda sekarang!",
+      "buttonText": "Coba AI Sprite Generator Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into stunning sprite art",
+  "originalKeyword": "AI Sprite Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/boy-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/4_portrait-2-3_9129.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/girl-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/3_portrait-2-3_274.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/girl2-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/1_portrait-2-3_9842.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-generator/ganyu-output.webp",
+      "input": "/images/examples/playground/ai-sprite-generator/ganyu-input.webp",
+      "prompt": "Style: Sprite Sheet"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "KomikoAI - AI动漫创作与角色生成工具",
+    "og_title": "KomikoAI - AI动漫创作与角色生成工具",
+    "twitter_title": "KomikoAI - AI动漫创作与角色生成工具",
+    "description": "使用KomikoAI创作原创角色、动漫和漫画。探索为粉丝定制的100多个AI工具和创意模板。",
+    "keywords": "Komiko, KomikoAI, Komiko AI, Komiko应用, komiko.ai, komiko.app, AI动漫生成器, 原创角色创作, 原创角色生成, 动漫AI, AI艺术生成, AI漫画生成, AI动画生成, AI视频特效, 动漫角色创作"
+  },
+  "hero": {
+    "title": "您想要创作什么？",
+    "community": "社区作品"
+  },
+  "tabs": {
+    "for_you": "为您推荐",
+    "comic": "漫画",
+    "illustration": "插画",
+    "animation": "动画",
+    "all": "全部"
+  },
+  "sections": {
+    "for_you": "为您推荐"
+  },
+  "create_section": {
+    "ai_art": "AI 艺术",
+    "storytelling": "故事讲述",
+    "create": "创作你的故事"
+  },
+  "carousel": {
+    "slide1_title": "AniGen 大赛",
+    "slide1_desc": "制作简短的AI动画，赢取 $3,000 以及专业订阅！",
+    "check_it_out": "查看详情",
+    "slide2_title": "视频转视频AI",
+    "slide2_desc": "将任意视频转换为动漫、卡通、漫画或韩漫风格，同时保持原有的运动效果。",
+    "check_it_out2": "立刻试试"
+  },
+  "banner": {
+    "merch_title": "让你的角色变成商品",
+    "merch_description": "将你的动漫角色制作成玩偶、徽章、立牌等。",
+    "try_now": "立即体验"
+  },
+  "activity_posts": {
+    "video_to_video": {
+      "title": "视频转视频AI",
+      "description": "运用视频转视频AI技术转换您的视频。将任何视频变换为动漫、卡通、漫画或韩国漫画风格。",
+      "button": "立刻体验"
+    },
+    "character_merch": {
+      "title": "将您的角色制成商品",
+      "description": "用您喜爱的角色制作令人惊叹的商品，如徽章、抱枕、毛绒玩具和立牌。",
+      "button": "立刻体验"
+    },
+    "ambassador": {
+      "title": "加入KomikoAI大使，获得收入分成💰",
+      "description": "成为KomikoAI大使，通过推荐赚取收益。马上加入我们的联盟计划！",
+      "button": "立即加入"
+    },
+    "promoted": "推广",
+    "anishort": {
+      "title": "发现短篇动漫，或发布自己的系列！",
+      "button": "开始探索"
+    },
+    "ad": "广告",
+    "new-playground": {
+      "title": "✨ 探索100+种有趣的模板",
+      "description": "使用热门模板改变您的照片和角色——从可爱的Q版表情和角色表到逼真的商品、银行效果等！",
+      "button": "立即尝试"
+    },
+    "sora-2": {
+      "title": "Sora 2 现已登陆 KomikoAI！参与 #SoraAnimeChallenge 挑战，赢取 $1000 奖金！",
+      "button": "立即参与"
+    }
+  },
+  "ai_apps_banner": {
+    "eyebrow": "AI 应用中心",
+    "title": "您的工具现已迁移至 AI 应用页面",
+    "description": "收藏您常用的工具，浏览插画、动画、漫画等 AI 应用的完整目录。",
+    "cta": "打开 AI 应用"
+  },
+  "generateArt": "生成艺术",
+  "generateTagArt": "生成{{tag}}艺术"
+}

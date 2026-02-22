@@ -1,0 +1,143 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Kling Image to Video - AI 影片動畫產生器",
+      "description": "使用 Kling Image to Video 將您的靜態圖片轉換為生動的影片。這是一款專為創作者設計，由 AI 驅動的動畫工具。運用先進的 AI 技術，賦予您的插圖、漫畫和照片栩栩如生的動態。",
+      "fullDescription": "Kling Image to Video 是一款先進的 AI 動畫工具，能將靜態圖片轉換為引人入勝的影片，模擬自然的動作和電影特效。此工具適用於插畫家、內容創作者及動畫師，採用尖端的 AI 演算法，輕鬆從靜態視覺元素生成高品質的影片內容。",
+      "keywords": "Kling Image to Video, AI 影片產生器, 圖片轉影片動畫, AI 動畫工具, 從圖片建立影片, 動態圖片動畫"
+    },
+    "hero": {
+      "title": "Kling Image to Video",
+      "description": "透過 Kling 的 AI 動力圖片轉影片技術，將您的靜態圖片轉化為生動的影片，賦予它們生命力。"
+    },
+    "whatIs": {
+      "title": "什麼是 Kling Image to Video？",
+      "description": "Kling Image to Video 是一款尖端的 AI 工具，透過添加逼真的動作和動畫，將靜態圖片轉換為動態、高品質的影片。它運用深度學習來理解圖片內容，呈現自然的動作，例如流動的河水、搖曳的樹木或角色動作，同時完整保留圖片的細節。使用者只需上傳圖片，輸入動畫提示（prompt），即可產生通常持續 5 到 10 秒的流暢影片。Kling AI 支援詳盡的自訂選項，例如動作風格、效果和長寬比，使其成為行銷人員、內容創作者和故事講述者，快速從靜態圖片產生專業影片內容的理想選擇。"
+    },
+    "examples": {
+      "title": "圖片轉影片範例",
+      "description": "探索一系列動畫影片範例，展示您可以使用 Kling Image to Video 創造的內容類型，呈現如何將簡單的插圖、肖像和圖形轉化為視覺上引人入勝的動畫影片，進而強化故事敘述和互動性。"
+    },
+    "howToUse": {
+      "title": "如何使用 Kling Image to Video",
+      "steps": [
+        {
+          "title": "上傳您的靜態圖片",
+          "content": "首先，上傳您想要賦予動畫效果的圖片，例如藝術作品、漫畫或照片。"
+        },
+        {
+          "title": "撰寫動畫提示 (prompt)",
+          "content": "使用文字提示 (prompt) 描述您希望 AI 在影片中產生的動作、表情或效果類型。"
+        },
+        {
+          "title": "產生影片",
+          "content": "點擊「產生動畫」按鈕，讓 Kling 的 AI 處理您的圖片，並建立動態、高品質的動畫。"
+        },
+        {
+          "title": "下載並分享您的創作",
+          "content": "影片準備就緒後，即可下載並在社交媒體、簡報或創意專案中分享。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼選擇 Kling Image to Video？",
+      "description": "探索使用 Kling Image to Video，將您的靜態視覺元素快速有效地轉化為動畫的主要優勢。",
+      "features": [
+        {
+          "title": "AI 動力動畫創作",
+          "content": "尖端的 AI 技術將靜態圖片轉換為流暢、引人入勝的影片，輕鬆強化您的創意內容。",
+          "icon": "🤖"
+        },
+        {
+          "title": "可自訂的動作和效果",
+          "content": "精準控制動畫風格、持續時間和視覺效果，根據您的特定創意需求客製化影片。",
+          "icon": "⚙️"
+        },
+        {
+          "title": "無需技術或動畫技能",
+          "content": "使用者友善的介面設計，讓所有創作者都能輕鬆地將圖片轉為動畫，不論經驗多寡。",
+          "icon": "👌"
+        },
+        {
+          "title": "快速影片產生",
+          "content": "在短短數秒內將靜態圖片轉換為引人入勝的影片，相較於手動動畫技術，大幅節省時間。",
+          "icon": "⚡"
+        },
+        {
+          "title": "多功能內容應用",
+          "content": "非常適合動畫師、漫畫家、行銷人員和社群媒體創作者，為藝術作品、照片和品牌視覺效果增添動態元素。",
+          "icon": "🎨"
+        },
+        {
+          "title": "專業級影片輸出",
+          "content": "產生高解析度、品質精美的影片，適用於商業用途和各種數位平台。",
+          "icon": "✨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Kling Image to Video - 常見問題",
+      "description": "關於使用 Kling AI 將圖片轉換為動畫影片的常見問題解答。",
+      "q1": "什麼是 Kling Image to Video？",
+      "a1": "它是一種基於 AI 的工具，透過使用機器學習產生流暢的動畫和電影特效，將靜態圖片轉換為動態影片。",
+      "q2": "Kling Image to Video 如何運作？",
+      "a2": "Kling 分析您上傳的圖片和動畫偏好設定，然後建立影片影格，模擬靜態圖片中的自然動作和視覺故事敘述。",
+      "q3": "支援哪些圖片類型？",
+      "a3": "您可以使用插圖、漫畫、照片或圖形來建立使用 Kling 的動畫影片。",
+      "q4": "我需要先具備動畫技能才能使用 Kling 嗎？",
+      "a4": "不需要，該工具採用直觀的介面設計，讓任何使用者都能在沒有動畫經驗的情況下產生影片。",
+      "q5": "我可以將這些影片用於商業用途嗎？",
+      "a5": "是的，使用 Kling Image to Video 建立的影片適用於個人和商業專案，前提是遵守該工具的使用條款。",
+      "q6": "動畫的自訂程度如何？",
+      "a6": "使用者可以透過提示（prompt）或設定自訂動作風格、持續時間和視覺效果，以為其專案量身打造動畫。"
+    }
+  },
+  "originalKeyword": "Kling Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "模型：Kling",
+      "description": "Prompt: A girl is talking to herself peacefully",
+      "videoUrl": "/images/examples/image-animation-generator/output5.webm"
+    },
+    {
+      "id": 2,
+      "title": "模型：FramePack",
+      "description": "Prompt: The girl suddenly took out a sign that said “cute” using right hand.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    },
+    {
+      "id": 3,
+      "title": "模型：Midjourney",
+      "description": "Prompt: Ethereal girl with flowing white hair walking gracefully through shallow water, sunlight creating dancing ripples, floating white lilies, gentle water movement with each step, serene forest pond, soft golden lighting",
+      "videoUrl": "/images/pages/midjourney/example6.webm"
+    },
+    {
+      "id": 4,
+      "title": "模型：Vidu Q1",
+      "description": "Prompt: A cat turns into a tiger",
+      "videoUrl": "/images/pages/vidu/cat.webm"
+    },
+    {
+      "id": 5,
+      "title": "模型：Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 6,
+      "title": "模型：AniSora",
+      "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+      "videoUrl": "/images/pages/anisora/example3.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "KLING_V2"
+}

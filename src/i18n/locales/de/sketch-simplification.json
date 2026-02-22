@@ -1,0 +1,231 @@
+{
+  "ui": {
+    "title": "KI-Skizzenvereinfachung",
+    "description": "Verwandeln Sie Ihre groben Skizzen mit KI in klare, vereinfachte Strichzeichnungen. Erleben Sie sofortige Skizzenvereinfachung, die Ihre Zeichnungen mit nur einem Klick verfeinert! Ideal für Künstler, Designer und Manga-Fans, die ihren kreativen Prozess optimieren möchten.",
+    "input": {
+      "title": "Eingabe",
+      "tooltip": "Skizze zum Vereinfachen hochladen",
+      "sketchImage": "Skizzenbild",
+      "aiModel": "KI-Modell",
+      "models": {
+        "basic": "Einfach",
+        "advanced": "Fortgeschritten"
+      },
+      "selectModel": "Modell auswählen"
+    },
+    "buttons": {
+      "simplifyImage": "Bild vereinfachen"
+    },
+    "output": {
+      "title": "Ergebnisse der Vereinfachung",
+      "emptyState": "Ihre Ergebnisse der Vereinfachung werden hier angezeigt",
+      "uploadPrompt": "Laden Sie ein Bild hoch, um zu beginnen"
+    },
+    "toast": {
+      "fetchImagesFailed": "Fehler beim Abrufen der Bilder",
+      "deleteSuccess": "Erfolgreich gelöscht",
+      "deleteFailed": "Löschen fehlgeschlagen",
+      "downloadFailed": "Download fehlgeschlagen",
+      "simplifySuccess": "Bildvereinfachung erfolgreich",
+      "simplifyFailed": "Bildvereinfachung fehlgeschlagen",
+      "createImageFailed": "Bild konnte nicht erstellt werden"
+    },
+    "examples": {
+      "inputSketch": "Eingabeskizze",
+      "simplifiedResult": "Vereinfachtes Ergebnis",
+      "example1": "Grobe Skizze verwandelt in saubere Strichzeichnung",
+      "example2": "Grobe Skizze verfeinert zu polierter Strichzeichnung"
+    },
+    "modal": {
+      "deleteTitle": "Bestätigung",
+      "deleteMessage": "Möchten Sie dieses Bild wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+      "cancel": "Abbrechen",
+      "delete": "Löschen"
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "KI-Skizzenvereinfachung - KomikoAI",
+      "description": "Verwandeln Sie komplexe Skizzen mit KI in klare, vereinfachte Strichzeichnungen. Laden Sie Ihre Skizze hoch und lassen Sie sie von der KI verfeinern.",
+      "keywords": "KI-Skizzenvereinfachung, Skizze zu Strichzeichnung, KI-Strichzeichnung, Skizzenverfeinerung, Manga-Skizze, Comic-Skizze, KI-Zeichnungstool, Skizzenbereinigung, Strichzeichnungsgenerator"
+    },
+    "hero": {
+      "title": "KI-Skizzenvereinfachung"
+    },
+    "howToUse": {
+      "title": "So vereinfachen Sie Ihre Skizzen mit KI",
+      "description": "Verwandeln Sie Ihre groben Skizzen mit der KI-Skizzenvereinfachung von Komiko in wenigen Schritten in klare, vereinfachte Strichzeichnungen.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Schritt 1: Skizzenbild hochladen",
+          "content": "Laden Sie Ihre Skizze oder grobe Zeichnung zum KI-Vereinfacher hoch. Die Formate JPG und PNG werden unterstützt."
+        },
+        {
+          "step": 2,
+          "title": "Schritt 2: Vereinfachen und teilen",
+          "content": "Klicken Sie auf 'Bild vereinfachen' und warten Sie, bis die KI ihre Magie entfaltet. Laden Sie Ihre vereinfachte Kreation herunter und teilen Sie sie!"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Beispiele für KI-Skizzenvereinfachung",
+      "description": "Sehen Sie sich Ergebnisse der Skizzenvereinfachung an, die von Anitoon-Nutzern generiert wurden"
+    },
+    "cta": {
+      "title": "Verwandeln Sie Ihre Skizzen noch heute mit KI!",
+      "description": "Beginnen Sie mit der Vereinfachung Ihrer Skizzen mit unserer fortschrittlichen KI-Technologie.",
+      "buttonText": "Skizzenvereinfachung kostenlos testen"
+    },
+    "benefits": {
+      "title": "Warum Sie Ihre Skizzen mit KI vereinfachen sollten",
+      "description": "Die KI-Skizzenvereinfachung von Anitoon hilft Künstlern, grobe Skizzen in saubere, verfeinerte Strichzeichnungen zu verwandeln und Ihren kreativen Prozess effizienter zu gestalten.",
+      "features": [
+        {
+          "title": "Saubere Strichzeichnungen",
+          "content": "Verwandeln Sie unordentliche Skizzen in saubere, professionelle Strichzeichnungen mit einheitlichen Linienstärken und verbesserter Klarheit.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Konsistenter Stil",
+          "content": "Bewahren Sie mit der KI-gestützten Vereinfachung einen einheitlichen Strichzeichnungsstil in Ihren Zeichnungen.",
+          "icon": "🖌️"
+        },
+        {
+          "title": "Zeitersparnis",
+          "content": "Sparen Sie Stunden manueller Strichzeichnungs-Verfeinerung, indem Sie die KI den Vereinfachungsprozess übernehmen lassen.",
+          "icon": "💎"
+        },
+        {
+          "title": "Verbesserte Klarheit",
+          "content": "Verbessern Sie die Klarheit und Lesbarkeit Ihrer Skizzen, indem Sie unnötige Details und Rauschen entfernen.",
+          "icon": "💪"
+        },
+        {
+          "title": "Intelligente Vereinfachung",
+          "content": "KI analysiert die Struktur Ihrer Skizzen und vereinfacht sie intelligent, während wichtige Details erhalten bleiben.",
+          "icon": "🧠"
+        },
+        {
+          "title": "Professionelle Qualität",
+          "content": "Erhalten Sie eine Strichzeichnung in professioneller Qualität, die bereit zum Tuschen oder digitalen Kolorieren ist.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Workflow-Optimierung",
+          "content": "Optimieren Sie Ihren kreativen Prozess, indem Sie die Phase der Skizzenverfeinerung automatisieren.",
+          "icon": "💫"
+        },
+        {
+          "title": "Modellauswahl",
+          "content": "Wählen Sie zwischen einfachen und fortgeschrittenen KI-Modellen, um Ihren spezifischen Anforderungen gerecht zu werden.",
+          "icon": "📚"
+        },
+        {
+          "title": "Sofortige Verfeinerung",
+          "content": "Verwandeln Sie grobe Skizzen sofort in polierte Strichzeichnungen, perfekt für Manga, Comics und Illustrationen.",
+          "icon": "⚡️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufige Fragen zur KI-Skizzenvereinfachung",
+      "description": "Finden Sie Antworten auf häufig gestellte Fragen zur Vereinfachung von Skizzen mit KI.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Was ist KI-Skizzenvereinfachung?",
+          "answer": "KI-Skizzenvereinfachung ist ein Prozess, der künstliche Intelligenz verwendet, um grobe Skizzen in saubere, verfeinerte Strichzeichnungen zu verwandeln. Das KI-Skizzenvereinfachungstool von Komiko hilft Künstlern, ihren kreativen Prozess zu optimieren, indem es ihre Zeichnungen automatisch verfeinert und vereinfacht, während die wesentlichen Details erhalten bleiben."
+        },
+        {
+          "id": 2,
+          "question": "Wie vereinfacht man Skizzen mit KI?",
+          "answer": "Sie können Ihre Skizzen mit Komiko AI in zwei einfachen Schritten vereinfachen:\n1. Laden Sie Ihr Skizzenbild zum KI-Vereinfacher hoch.\n2. Klicken Sie auf 'Bild vereinfachen' und warten Sie, bis die KI Ihre Zeichnung verfeinert hat."
+        },
+        {
+          "id": 3,
+          "question": "Wie funktioniert die KI-Skizzenvereinfachung?",
+          "answer": "Die KI-Skizzenvereinfachung verwendet fortschrittliche KI-Modelle, die mit Millionen von Bildern trainiert wurden, um die Struktur Ihrer Skizzen zu analysieren und sie intelligent zu vereinfachen. Die KI identifiziert wichtige Linien und Details, während unnötiges Rauschen und unnötige Komplexität entfernt werden, was zu einer sauberen, professionellen Strichzeichnung führt."
+        },
+        {
+          "id": 4,
+          "question": "Welche Vorteile bietet die KI-Skizzenvereinfachung?",
+          "answer": "Es gibt verschiedene Vorteile der Vereinfachung von Skizzen mit KI:\n• Spart Zeit im Vergleich zur manuellen Strichzeichnungs-Verfeinerung\n• Erzeugt konsistente Strichzeichnungen in professioneller Qualität\n• Behält wichtige Details bei, während Rauschen entfernt wird\n• Ideal für Manga, Comics und Illustrationen"
+        },
+        {
+          "id": 5,
+          "question": "Kann ich KI-vereinfachte Skizzen für kommerzielle Zwecke verwenden?",
+          "answer": "Ja, Sie können KI-generierte, vereinfachte Skizzen für persönliche und kommerzielle Zwecke verwenden. Stellen Sie jedoch sicher, dass Sie die Nutzungsbedingungen von Komiko einhalten."
+        },
+        {
+          "id": 6,
+          "question": "Welche Formate und Größen werden unterstützt?",
+          "answer": "Die KI unterstützt Skizzen in den Formaten JPG und PNG. Ausgabebilder behalten ihre ursprüngliche Größe bei, werden jedoch vereinfacht."
+        },
+        {
+          "id": 7,
+          "question": "Ist die KI-Skizzenvereinfachung kostenlos?",
+          "answer": "Komiko bietet kostenlose Zaps (Guthaben) an, mit denen Sie das Tool ausprobieren können. Sie können auch kostenpflichtige Pläne für weitere Zaps erwerben, wenn Sie mehr Nutzung benötigen, sowie erweiterte Funktionen wie schnellere Verarbeitung und höhere Auflösungen."
+        },
+        {
+          "id": 8,
+          "question": "Welche Arten von Skizzen kann ich mit KI vereinfachen?",
+          "answer": "Die KI-Vereinfachung funktioniert mit verschiedenen Arten von Skizzen:\n• Grobe Skizzen und Kritzeleien\n• Charakterdesigns\n• Manga- und Comicseiten\n• Produktdesigns\n• Architektonische Zeichnungen\n• Konzeptkunst\nFür beste Ergebnisse stellen Sie sicher, dass Ihre Skizzen klare, gut definierte Linien und einen guten Kontrast aufweisen."
+        },
+        {
+          "id": 9,
+          "question": "Welche Einschränkungen gibt es bei der KI-Skizzenvereinfachung?",
+          "answer": "Obwohl die KI-Skizzenvereinfachung ein leistungsstarkes Tool ist, hat sie einige Einschränkungen:\n• Komplexe Details: Sehr komplizierte oder hochdetaillierte Skizzen können einige feine Details verlieren.\n• Stilkonsistenz: Die KI stimmt möglicherweise nicht perfekt mit Ihrem gewünschten künstlerischen Stil überein.\n• Qualität: Die Qualität der Vereinfachung hängt von der Qualität der eingegebenen Skizze ab.\nTrotz dieser Einschränkungen kann die KI-Vereinfachung Ihren Workflow erheblich beschleunigen und Ihren kreativen Prozess verbessern."
+        },
+        {
+          "id": 10,
+          "question": "Muss ich zeichnen können, um die KI-Skizzenvereinfachung zu verwenden?",
+          "answer": "Nein, Sie müssen kein erfahrener Künstler sein, um die KI-Skizzenvereinfachung zu verwenden.\n• Für Künstler: Wenn Sie Ihre eigenen Skizzen erstellen, kann dieses Tool Ihnen helfen, Ihre Arbeit zu verfeinern und zu bereinigen.\n• Für Nicht-Künstler: Sie können mit vorhandenen Skizzen oder Vorlagen beginnen und die KI die Vereinfachung übernehmen lassen.\nDieses Tool ist so konzipiert, dass es für jeden benutzerfreundlich ist, egal ob Sie ein erfahrener Künstler oder ein Anfänger sind, der die Kreativität erkundet."
+        },
+        {
+          "id": 11,
+          "question": "Wie erziele ich die besten Ergebnisse mit der KI-Skizzenvereinfachung?",
+          "answer": "Befolgen Sie diese Tipps für eine optimale Vereinfachung:\n• Verwenden Sie klare, gut definierte Skizzen mit gutem Kontrast.\n• Stellen Sie sicher, dass Ihre Skizze deutliche Linien und Formen aufweist.\n• Wählen Sie das für Ihre Bedürfnisse geeignete KI-Modell aus.\n• Erwägen Sie bei Bedarf die Verwendung der Option für transparenten Hintergrund."
+        },
+        {
+          "id": 12,
+          "question": "Wie schneidet die KI-Vereinfachung im Vergleich zur manuellen Verfeinerung ab?",
+          "answer": "Die KI-Skizzenvereinfachung bietet im Vergleich zur manuellen Verfeinerung erhebliche Zeiteinsparungen und reduziert den Arbeitsaufwand von Stunden auf Minuten. Obwohl sie die traditionelle Verfeinerung für ausgefeilte künstlerische Projekte möglicherweise nicht vollständig ersetzt, ist sie ein hervorragendes Werkzeug für schnelles Prototyping, Konzeptvisualisierung und die schnelle Erstellung mehrerer Varianten. Die KI versteht die Prinzipien der Strichzeichnung und kann Verbesserungen vorschlagen, die Sie möglicherweise nicht in Betracht gezogen haben."
+        },
+        {
+          "id": 13,
+          "question": "Kann ich die KI-vereinfachten Ergebnisse bearbeiten?",
+          "answer": "Ja, Sie können die KI-vereinfachten Skizzen mit Ihrer bevorzugten digitalen Kunstsoftware weiter bearbeiten und verfeinern. Das KI-generierte Ergebnis dient als hervorragende Basis, die Sie mit Ihrer persönlichen künstlerischen Note aufwerten können."
+        },
+        {
+          "id": 14,
+          "question": "Welche kreativen Möglichkeiten gibt es, die KI-Skizzenvereinfachung zu nutzen?",
+          "answer": "Die KI-Skizzenvereinfachung kann verwendet werden für:\n• Schnelles Prototyping von Charakterdesigns\n• Erstellung sauberer Strichzeichnungen für Comics und Manga\n• Verfeinerung grober Skizzen zu polierten Illustrationen\n• Entwicklung von Konzeptkunst\n• Bildungszwecke im Kunstunterricht\n• Umwandlung grober Zeichnungen in einfache Strichzeichnungen"
+        }
+      ]
+    }
+  },
+  "examples": [
+    {
+      "input": "/images/examples/sketch_simplifier/input2.webp",
+      "output": "/images/examples/sketch_simplifier/output2.webp",
+      "inputLabel": "Eingabeskizze",
+      "outputLabel": "Vereinfachtes Ergebnis",
+      "prompt": "Grobe Skizze verwandelt in saubere Strichzeichnung"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input1.webp",
+      "output": "/images/examples/sketch_simplifier/output1.webp",
+      "inputLabel": "Eingabeskizze",
+      "outputLabel": "Vereinfachtes Ergebnis",
+      "prompt": "Grobe Skizze verfeinert zu polierter Strichzeichnung"
+    },
+    {
+      "input": "/images/examples/sketch_simplifier/input3.webp",
+      "output": "/images/examples/sketch_simplifier/output3.webp",
+      "inputLabel": "Eingabeskizze",
+      "outputLabel": "Vereinfachtes Ergebnis",
+      "prompt": "Grobe Skizze verfeinert zu polierter Strichzeichnung"
+    }
+  ]
+}

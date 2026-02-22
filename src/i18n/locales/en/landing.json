@@ -1,0 +1,268 @@
+{
+  "hero": {
+    "title": "Bring Your Anime & Comic Ideas to Life",
+    "subtitle": "Visualize your dreams and bring your stories to life — design characters, generate art, and animate scenes with AI",
+    "create_now_button": "Create Now For Free",
+    "join_discord_button": "Join Our Discord"
+  },
+  "stats": {
+    "active_creators": "100K+ Active Creators",
+    "creations_made": "100K+ Creations Made",
+    "trusted_professionals": "Trusted by Professionals"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "Powered by the world's most advanced AI models and backed by top-tier investors"
+  },
+  "interactive_menu": {
+    "click_select": "Click to Select",
+    "input_placeholder": "Enter your inspiration here...",
+    "input_placeholder_short": "Enter idea...",
+    "character_placeholder": "Design your character (e.g., magical girl with green hair and elf ears)",
+    "character_placeholder_short": "Character idea (e.g., ninja cat)",
+    "comic_placeholder": "Create your story (e.g., superhero rescuing cat from skyscraper)",
+    "comic_placeholder_short": "Story idea (e.g., space pirates)",
+    "anime_placeholder": "Create your anime artwork (e.g., a cyberpunk samurai with glowing katana)",
+    "anime_placeholder_short": "Anime art idea (e.g., cyberpunk samurai)",
+    "animation_placeholder": "Create your animation (e.g., a cat ninja fighting a space pirate)",
+    "animation_placeholder_short": "Animation idea (e.g., cat ninja vs space pirate)",
+    "title": "Click to switch type",
+    "character_card": {
+      "alt": "Character Design",
+      "title": "Character"
+    },
+    "comic_card": {
+      "alt": "Story Comic",
+      "title": "Comic"
+    },
+    "anime_card": {
+      "alt": "Anime Art",
+      "title": "Anime Art"
+    },
+    "animation_card": {
+      "alt": "Animation",
+      "title": "Animation"
+    },
+    "button": {
+      "choose_type": "Choose a Type",
+      "create_character": "Create Character",
+      "create_comic": "Create Comic",
+      "create_animation": "Create Animation",
+      "create_anime": "Create Anime Art"
+    },
+    "see_more": "Get Started for Free"
+  },
+  "section2": {
+    "tagline": "KomikoAI: Generate Consistent Characters",
+    "title": "Consistent Character Design",
+    "description": {
+      "part1": "Ensure character consistency across your comic with our extensive character database.",
+      "part2": "You can also",
+      "part3": "and use them in your image generation and comic creation to ensure consistent character appearances."
+    },
+    "create_character_link": "create your own characters",
+    "create_character_title": "Create Character | KomikoAI",
+    "create_now_button": "Create Now For Free",
+    "create_now_title": "Create Your Story Now | KomikoAI",
+    "image_alt": "Create consistent character design on KomikoAI"
+  },
+  "section3": {
+    "tagline": "KomikoAI: AI Comic Studio",
+    "title": "Freeform Creation on Canvas",
+    "description": {
+      "part1": "Unleash your creativity and create comics, manhwa, and manga on our AI-powered canvas!",
+      "part2": "Generate images with our AI text-to-image generator, layout your comic panels freely on the inifinite canvas, and add speech bubbles and effects to enhance your storytelling."
+    },
+    "create_comics_title": "Create Comics on Canvas | KomikoAI",
+    "create_now_button": "Create Now For Free",
+    "create_now_title": "Create Your Story Now | KomikoAI",
+    "image_alt": "Create comics with AI on infinite canvas"
+  },
+  "section4": {
+    "tagline": "KomikoAI: AI Tools for Illustators, Artists, and Animators",
+    "title": "Professional Art Creation with AI",
+    "description": {
+      "intro": "KomikoAI provides powerful AI tools for professional art creation:",
+      "feature1": "Text-to-image generation for instant artwork creation",
+      "feature2": "Line art and manga colorization to save hours of manual work",
+      "feature3": "High-quality image upscaling for crystal-clear results",
+      "feature4": "Background removal and relighting for flexible image editing",
+      "conclusion": "Whether you're a professional artist or just starting out, our AI tools help you create stunning illustrations, comics, and animations faster than ever before."
+    },
+    "colorize_title": "Colorize Line Art with AI | KomikoAI",
+    "create_now_button": "Create Now For Free",
+    "create_now_title": "Create Your Story Now | KomikoAI",
+    "image_alt": "Create consistent character design on KomikoAI"
+  },
+  "section5": {
+    "tagline": "KomikoAI: Animate Your Art with AI",
+    "title": "Keyframe to Animation Generation",
+    "description": {
+      "part1": "Transform your keyframes into fluid, high-quality animations using the industry-leading AI models like Veo, Kling, Hailuo, Pixverse, and more.",
+      "part2": "Speed up your professional animation workflow with AI-powered in-betweening and video upscaling tools."
+    },
+    "animation_title": "AI Animation Generator | KomikoAI",
+    "create_now_button": "Create Now For Free",
+    "create_now_title": "Create Your Story Now | KomikoAI",
+    "image_alt": "Generate AI Animation Videos on KomikoAI"
+  },
+  "professional": {
+    "line_art_colorization": {
+      "title": "Line Art Colorization",
+      "short_title": "Colorize",
+      "description": "Transform your line art into fully colored illustrations with AI that understands anime style and lighting.",
+      "detailed_description": "AI line art colorization uses advanced AI models trained on millions of images to recognize patterns in line art and apply artistic colors. Upload your sketch, add a color prompt, and the AI will interpret your artistic intent and generate a colorized image.",
+      "features": {
+        "upload_line_art": "Upload clean line art",
+        "reference_guided": "Reference-guided coloring",
+        "specify_colors": "Specify your colors",
+        "high_quality": "High-quality outputs"
+      }
+    },
+    "sketch_simplification": {
+      "title": "Sketch Simplification",
+      "short_title": "Sketch",
+      "description": "Convert rough sketches into clean line art, perfect for streamlining your illustration workflow.",
+      "detailed_description": "AI Sketch Simplification uses advanced AI models trained on millions of images to analyze your sketch structure and intelligently simplify it. The AI identifies important lines and details while removing unnecessary noise and complexity, resulting in clean, professional line art.",
+      "features": {
+        "clean_line_art": "Clean line art output",
+        "smart_simplification": "Smart simplification",
+        "time_saving": "Time saving refinement",
+        "professional_quality": "Professional quality"
+      }
+    },
+    "background_removal": {
+      "title": "Background Removal",
+      "short_title": "Remove BG",
+      "description": "Precision background removal optimized for anime characters, preserving fine details like hair strands.",
+      "detailed_description": "AI Background Removal uses state-of-the-art machine learning models specifically trained on anime and manga artwork to automatically detect and remove image backgrounds. The AI analyzes each pixel to ensure precise edge detection, even with complex anime hairstyles and intricate designs.",
+      "features": {
+        "hair_precision": "Hair-level precision",
+        "anime_optimized": "Anime character optimized",
+        "transparent_png": "Transparent PNG export",
+        "batch_processing": "Batch processing"
+      }
+    },
+    "image_upscaling": {
+      "title": "Image Upscaling",
+      "short_title": "Upscale",
+      "description": "Enhance image resolution while preserving anime art style and fine details.",
+      "detailed_description": "AI-powered upscaling that understands anime and manga art styles. Increase resolution up to 4x while maintaining crisp lines, vibrant colors, and artistic integrity.",
+      "features": {
+        "up_to_4x": "Up to 4x resolution",
+        "style_preservation": "Style preservation",
+        "detail_enhancement": "Detail enhancement",
+        "high_quality_export": "High-quality export"
+      }
+    },
+    "animation_inbetweening": {
+      "title": "Animation In-betweening",
+      "short_title": "Animate",
+      "description": "Generate smooth animation frames between your keyframes, drastically reducing animation production time.",
+      "detailed_description": "AI in-betweening uses advanced machine learning to understand movement and generate natural transitions between keyframes. Upload 2-5 keyframe images, add a prompt to guide animation style, and let AI create smooth transitions between your key poses.",
+      "features": {
+        "upload_keyframes": "Upload 2-5 keyframes",
+        "advanced_ai": "Advanced AI technology",
+        "rapid_creation": "Rapid animation creation",
+        "professional_quality": "Professional quality"
+      }
+    },
+    "frame_interpolation": {
+      "title": "Frame Interpolation",
+      "short_title": "Interpolate",
+      "description": "Increase your animation frame rate by generating intermediate frames, creating ultra-smooth motion.",
+      "detailed_description": "AI Frame Interpolation uses artificial intelligence to generate additional frames between existing ones, resulting in smoother motion and higher frame rates. Our AI analyzes motion between existing frames and uses advanced machine learning algorithms to generate new intermediate frames.",
+      "features": {
+        "higher_frame_rates": "Higher frame rates",
+        "smoother_motion": "Smoother motion",
+        "video_enhancement": "Video enhancement",
+        "professional_quality": "Professional quality"
+      }
+    },
+    "section_title": "For Professional Artists",
+    "main_title": "AI Tools That Speed Up Your Work",
+    "subtitle": "Let AI handle the time-consuming tasks so you can focus on creativity",
+    "cta_button": "Start Creating with AI",
+    "cta_subtitle": "Professional-grade tools trusted by 100K+ creators",
+    "learn_more": "Learn more"
+  },
+  "features": {
+    "title": "One-Stop AI Creation Platform",
+    "subtitle": "Explore professional AI tools to speed up your illustration, comics, manga, and anime creation"
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "subtitle": "Check out how KomikoAI has helped our users create amazing comics and animations.",
+    "testimonial1": {
+      "name": "Tarsis Animation",
+      "title": "Animation Studio",
+      "content": "KomikoAI has completely changed how we create anime. Our production time has been cut in half, and we can now bring more complex scenes to life without the usual headaches. It's a game-changer for our studio."
+    },
+    "testimonial2": {
+      "name": "Salmonism",
+      "title": "Manga Artist",
+      "content": "Coloring used to take me hours - now it takes seconds. KomikoAI's AI line art colorization tool lets me focus on storytelling instead of getting lost in tedious work."
+    },
+    "testimonial3": {
+      "name": "Jenny P",
+      "title": "Illustrator",
+      "content": "KomikoAI!! I am enjoying your app so much! I have had some great prompts and line drawing turn to better than expected. The creative process has been a lot of fun, interesting, and surprising. I can't wait to do more with this app. It has helped me color many pages of my graphic novel I am working on, as well as fill backgrounds for my characters, saving me hours in Krita, the drawing program I use for coloring main areas to plug back into KomikoAI."
+    },
+    "testimonial4": {
+      "name": "VentiVenti",
+      "title": "AI Comic Creator",
+      "content": "I've always wanted to create Genshin fan comics but never had the time to learn how to draw. KomikoAI's AI tools make it possible - I can bring my stories to life exactly as I imagined."
+    },
+    "testimonial5": {
+      "name": "John D",
+      "title": "Indie Animator",
+      "content": "KomikoAI has taken my animations to a whole new level. I can produce high-quality work in a fraction of the time it used to take me. KomikoAI packs a an entire animation team into one powerful tool."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "what_is_komiko": {
+      "question": "What is KomikoAI?",
+      "answer": "KomikoAI is an AI-powered platform that allows you to create comics, manhwa, manga, and anime with the help of AI. It provides a suite of tools that helps you create professional-quality comics, manhwa, and animations in minutes, not days."
+    },
+    "what_tools": {
+      "question": "What tools does KomikoAI provide?",
+      "answer": "KomikoAI provides a wide range of AI tools to help you create professional-quality comics, manhwa, and animations. It includes character creation, infinite canvas, AI comic generator, line art colorization, manga colorization, inbetweening, video upscaling, frame interpolation, and more."
+    },
+    "how_comic_creation_works": {
+      "question": "How does KomikoAI's AI comic creation work?",
+      "answer": "KomikoAI uses advanced AI technology to help you generate comic artwork. Simply input your story idea, and our AI will generate the comic for you with consistent characters, speech bubbles, and panel layouts."
+    },
+    "is_free": {
+      "question": "Is KomikoAI free to use?",
+      "answer": "Yes, KomikoAI offers a free tier that allows you to try our basic features. We also offer premium plans with advanced features, higher resolution outputs, and more generations for professional creators."
+    },
+    "manga_anime_style": {
+      "question": "Can I create manga and anime-style art with KomikoAI?",
+      "answer": "Absolutely! KomikoAI specializes in manga, anime, and manhwa art styles. Our AI has been trained on extensive anime, comics, manhwa and manga artwork to ensure authentic Japanese and Korean comic aesthetics."
+    },
+    "what_makes_different": {
+      "question": "What makes KomikoAI different from other AI art tools?",
+      "answer": "KomikoAI is specifically designed for comic and animation creation, offering specialized features like character consistency, panel layout tools, speech bubble generation, and animation capabilities. Our platform provides an end-to-end solution for digital comic and animation creation."
+    },
+    "need_artistic_skills": {
+      "question": "Do I need artistic skills to use KomikoAI?",
+      "answer": "No artistic experience is required! While artists can speed up their workflow with our tools, KomikoAI is designed to help anyone create professional-looking comics and animations, regardless of their artistic background."
+    },
+    "commercial_projects": {
+      "question": "Can I use KomikoAI for commercial projects?",
+      "answer": "Yes, KomikoAI's premium plans include commercial usage rights. You own all the rights to the artwork you create using our platform, making it perfect for professional comic artists and animation studios."
+    },
+    "support": {
+      "question": "What kind of support does KomikoAI offer?",
+      "answer": "We provide comprehensive support through our Discord community, documentation, video tutorials, and dedicated customer service. Join our Discord community to learn tips, share your work, and get help when needed."
+    }
+  },
+  "cta": {
+    "title": "Unleash your creativity",
+    "subtitle": "Transform your ideas into amazing comics and animations with KomikoAI AI now",
+    "create_now_button": "Create Now For Free",
+    "join_discord_button": "Join Our Discord"
+  },
+  "create_now": "Create Now"
+}

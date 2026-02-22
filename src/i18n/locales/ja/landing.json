@@ -1,0 +1,268 @@
+{
+  "hero": {
+    "title": "あなたのアニメとマンガのアイデアを形にしよう",
+    "subtitle": "夢を視覚化し、物語を現実に — キャラクターをデザインし、アートを生み出し、AIでシーンをアニメ化",
+    "create_now_button": "無料で今すぐ作成",
+    "join_discord_button": "Discordに参加"
+  },
+  "section2": {
+    "tagline": "KomikoAI：キャラクターの個性を保ちながら生成",
+    "title": "一貫性のあるキャラクターデザイン",
+    "description": {
+      "part1": "豊富なキャラクターデータベースを活用し、コミック全体を通してキャラクターの個性を維持します。",
+      "part2": "画像生成やコミック制作で利用することで、",
+      "part3": "キャラクターの外見に一貫性を持たせることが可能です。"
+    },
+    "create_character_link": "オリジナルキャラクターを作成",
+    "create_character_title": "キャラクターを作成 | KomikoAI",
+    "create_now_button": "無料で今すぐ作成",
+    "create_now_title": "今すぐストーリーを作成 | KomikoAI",
+    "image_alt": "KomikoAIで一貫性のあるキャラクターデザインを作成"
+  },
+  "section3": {
+    "tagline": "KomikoAI：AIコミックスタジオ",
+    "title": "自由な発想をキャンバスへ",
+    "description": {
+      "part1": "AI搭載のキャンバスで、自由にコミック、マンガ、アニメを制作しましょう！",
+      "part2": "AIによるテキストからの画像生成機能で画像を生成し、無限に広がるキャンバスに自由にコミックパネルを配置。吹き出しや効果を追加して、ストーリーをより豊かに表現できます。"
+    },
+    "create_comics_title": "キャンバスでコミックを作成 | KomikoAI",
+    "create_now_button": "無料で今すぐ作成",
+    "create_now_title": "今すぐストーリーを作成 | KomikoAI",
+    "image_alt": "無限のキャンバスでAIを使用してコミックを作成"
+  },
+  "section4": {
+    "tagline": "KomikoAI：イラストレーター、アーティスト、アニメーター向けのAIツール",
+    "title": "AIによるプロフェッショナルなアート制作",
+    "description": {
+      "intro": "KomikoAIは、プロレベルのアート制作を支援する、パワフルなAIツールを提供します。",
+      "feature1": "テキストから画像を生成し、瞬時にアートワークを作成",
+      "feature2": "線画やマンガの着色をAIが代行し、手作業の時間を短縮",
+      "feature3": "高画質画像アップスケーリングで、鮮明な仕上がりを実現",
+      "feature4": "背景の削除や再照明など、柔軟な画像編集が可能",
+      "conclusion": "プロのアーティストから初心者まで、KomikoAIのAIツールがあれば、これまで以上に素早く、素晴らしいイラスト、コミック、アニメーションを制作できます。"
+    },
+    "colorize_title": "AIで線画を着色 | KomikoAI",
+    "create_now_button": "無料で今すぐ作成",
+    "create_now_title": "今すぐストーリーを作成 | KomikoAI",
+    "image_alt": "KomikoAIで一貫性のあるキャラクターデザインを作成"
+  },
+  "section5": {
+    "tagline": "KomikoAI：AIでアートをアニメーション化",
+    "title": "キーフレームからアニメーションを生成",
+    "description": {
+      "part1": "Veo、Kling、Hailuo、Pixverseなど、業界をリードするAIモデルを使用し、キーフレームをスムーズで高品質なアニメーションに変換します。",
+      "part2": "AIを活用した中間処理やビデオアップスケーリングツールで、プロのアニメーション制作ワークフローを加速させましょう。"
+    },
+    "animation_title": "AIアニメーションジェネレーター | KomikoAI",
+    "create_now_button": "無料で今すぐ作成",
+    "create_now_title": "今すぐストーリーを作成 | KomikoAI",
+    "image_alt": "KomikoAIでAIアニメーションビデオを生成"
+  },
+  "features": {
+    "title": "ワンストップAI制作プラットフォーム",
+    "subtitle": "イラスト、コミック、マンガ、アニメーション制作を加速する、プロフェッショナルなAIツールを体験"
+  },
+  "testimonials": {
+    "title": "お客様の声",
+    "subtitle": "KomikoAIがどのように素晴らしいコミックやアニメーション制作を支援しているかをご覧ください。",
+    "testimonial1": {
+      "name": "Lina K",
+      "title": "Tarsis Animation、クリエイティブディレクター",
+      "content": "KomikoAIは、アニメ制作のあり方を完全に変えました。制作時間を半分に短縮し、通常では難しい複雑なシーンも、問題なく実現できるようになりました。まさに革新的です。"
+    },
+    "testimonial2": {
+      "name": "Salmonism",
+      "title": "マンガアーティスト",
+      "content": "以前は着色に何時間も費やしていましたが、今では数秒で完了します。KomikoAIのAI線画着色ツールのおかげで、退屈な作業に時間を費やすことなく、ストーリーテリングに集中できます。"
+    },
+    "testimonial3": {
+      "name": "Tristan B",
+      "title": "創業者、Nebula Studios",
+      "content": "キャラクターデザインからストーリーボード、アニメーションまで、KomikoAIは時間を節約し、私たちの仕事をよりクリエイティブなものにしてくれます。チーム全員が気に入っており、もう昔の方法には戻れません。"
+    },
+    "testimonial4": {
+      "name": "VentiVenti",
+      "title": "AIコミッククリエイター",
+      "content": "以前から原神のファンコミックを作りたいと思っていましたが、絵の描き方を学ぶ時間がありませんでした。KomikoAIのAIツールを使うことで、想像していた通りのストーリーを実現できました。"
+    },
+    "testimonial5": {
+      "name": "John D",
+      "title": "インディーズアニメーター",
+      "content": "KomikoAIは私のアニメーションを全く新しいレベルに引き上げました。以前よりも短時間で、高品質な作品を制作できます。KomikoAIは、アニメーションチーム全体を1つの強力なツールにまとめたようなものです。"
+    }
+  },
+  "faq": {
+    "title": "よくあるご質問",
+    "what_is_komiko": {
+      "question": "KomikoAIとは何ですか？",
+      "answer": "KomikoAIは、AIの力を借りてコミック、マンガ、アニメを制作できるAI搭載プラットフォームです。プロレベルのコミック、マンガ、アニメーションを、数日ではなく数分で完成させるためのツールスイートを提供します。"
+    },
+    "what_tools": {
+      "question": "KomikoAIはどのようなツールを提供しますか？",
+      "answer": "KomikoAIは、プロレベルのコミック、マンガ、アニメーション制作を支援する、幅広いAIツールを提供します。キャラクター作成、無限キャンバス、AIコミックジェネレーター、線画着色、マンガ着色、中間処理、ビデオアップスケーリング、フレーム補間などが含まれます。"
+    },
+    "how_comic_creation_works": {
+      "question": "KomikoAIのAIコミック制作はどのように機能しますか？",
+      "answer": "KomikoAIは高度なAIテクノロジーを使用して、コミックアートワークの生成をサポートします。ストーリーのアイデアを入力するだけで、AIが一貫性のあるキャラクター、吹き出し、パネルレイアウトでコミックを生成します。"
+    },
+    "is_free": {
+      "question": "KomikoAIは無料で使用できますか？",
+      "answer": "はい、KomikoAIでは基本的な機能を試せる無料プランをご用意しています。また、プロのクリエイター向けに、より高度な機能、高解像度出力、豊富な生成オプションを備えたプレミアムプランも提供しています。"
+    },
+    "manga_anime_style": {
+      "question": "KomikoAIでマンガやアニメスタイルのアートを作成できますか？",
+      "answer": "もちろんです！KomikoAIは、マンガ、アニメ、マンガのアートスタイルに特化しています。AIは、日本や韓国のコミックならではの美しい表現を再現できるよう、膨大な量のアニメ、コミック、マンガのアートワークでトレーニングされています。"
+    },
+    "what_makes_different": {
+      "question": "KomikoAIが他のAIアートツールと違う点は？",
+      "answer": "KomikoAIはコミックとアニメーション制作に特化して設計されており、キャラクターの一貫性、パネルレイアウトツール、吹き出し生成、アニメーション機能など、特化した機能を提供します。デジタルコミックとアニメーション制作のための、エンドツーエンドソリューションを提供します。"
+    },
+    "need_artistic_skills": {
+      "question": "KomikoAIを使用するには芸術的なスキルが必要ですか？",
+      "answer": "芸術的な経験は必須ではありません！アーティストはKomikoAIのツールを使ってワークフローを加速できますが、芸術的なバックグラウンドに関わらず、誰でもプロ並みのコミックやアニメーションを作成できるように設計されています。"
+    },
+    "commercial_projects": {
+      "question": "KomikoAIを商用プロジェクトに使用できますか？",
+      "answer": "はい、KomikoAIのプレミアムプランには商用利用権が含まれています。KomikoAIで作成したアートワークに対するすべての権利はお客様に帰属します。プロのコミックアーティストやアニメーションスタジオに最適です。"
+    },
+    "support": {
+      "question": "KomikoAIはどのようなサポートを提供しますか？",
+      "answer": "Discordコミュニティ、ドキュメント、ビデオチュートリアル、そして専任のカスタマーサービスを通じて、包括的なサポートを提供しています。ぜひDiscordコミュニティに参加して、ヒントを学んだり、作品を共有したり、困ったときに助けを求めたりしてください。"
+    }
+  },
+  "cta": {
+    "title": "創造性を解き放て",
+    "subtitle": "KomikoAI AIで、あなたのアイデアを素晴らしいコミックやアニメーションに変えましょう",
+    "create_now_button": "無料で今すぐ作成",
+    "join_discord_button": "Discordに参加"
+  },
+  "create_now": "今すぐ作成",
+  "interactive_menu": {
+    "click_select": "クリックして選択",
+    "input_placeholder": "ここでインスピレーションを入力...",
+    "input_placeholder_short": "アイデアを入力...",
+    "character_placeholder": "キャラクターをデザインする (例: 緑の髪のエルフ耳の魔法少女)",
+    "character_placeholder_short": "キャラクターのアイデア (例: 忍者猫)",
+    "comic_placeholder": "ストーリーを作成する (例: スーパーヒーローが高層ビルから猫を救出)",
+    "comic_placeholder_short": "ストーリーのアイデア (例: 宇宙海賊)",
+    "anime_placeholder": "アニメ作品を作成する (例: 光る刀を持つサイバーパンク侍)",
+    "anime_placeholder_short": "アニメのアイデア (例: サイバーパンク侍)",
+    "animation_placeholder": "アニメーションを作成する (例: 宇宙海賊と戦う忍者猫)",
+    "animation_placeholder_short": "アニメーションのアイデア (例: 忍者猫 vs 宇宙海賊)",
+    "title": "クリックしてタイプを切り替える",
+    "character_card": {
+      "alt": "キャラクターデザイン",
+      "title": "キャラクター"
+    },
+    "comic_card": {
+      "alt": "ストーリーコミック",
+      "title": "コミック"
+    },
+    "anime_card": {
+      "alt": "アニメアート",
+      "title": "アニメアート"
+    },
+    "animation_card": {
+      "alt": "アニメーション",
+      "title": "アニメーション"
+    },
+    "button": {
+      "choose_type": "タイプを選ぶ",
+      "create_character": "キャラクターを作成",
+      "create_comic": "コミックを作成",
+      "create_animation": "アニメーションを作成",
+      "create_anime": "アニメアートを作成"
+    },
+    "see_more": "無料で始めよう"
+  },
+  "stats": {
+    "active_creators": "10万人以上のアクティブクリエイター",
+    "creations_made": "100K+ の作品が制作済み",
+    "trusted_professionals": "プロフェッショナルに支持されています"
+  },
+  "partners": {
+    "title": "私たちのパートナー",
+    "subtitle": "世界最先端のAIモデルで動作し、トップクラスの投資家に支援されています"
+  },
+  "professional": {
+    "line_art_colorization": {
+      "title": "線画のカラー化",
+      "short_title": "カラー化",
+      "description": "アニメスタイルと光源を理解するAIを用いて線画を完全に着色されたイラストに変える。",
+      "detailed_description": "AIによる線画のカラー化は、何百万もの画像で訓練された高度なAIモデルを使用し、線画のパターンを認識して、芸術的に色を適用します。スケッチをアップロードしてカラープロンプトを追加すると、AIがあなたの芸術的意図を解釈して、カラー化された画像を生成します。",
+      "features": {
+        "upload_line_art": "クリーンな線画をアップロード",
+        "reference_guided": "参照画像でガイド",
+        "specify_colors": "お好きな色を指定",
+        "high_quality": "高品質な出力"
+      }
+    },
+    "sketch_simplification": {
+      "title": "スケッチの簡素化",
+      "short_title": "スケッチ",
+      "description": "ラフスケッチをクリーンな線画に変換し、イラスト制作を効率化。",
+      "detailed_description": "AIスケッチ簡素化は、何百万もの画像で訓練された高度なAIモデルを使用してスケッチの構造を分析し、賢く簡素化します。AIは重要な線やディテールを認識し、不必要なノイズや複雑さを取り除き、クリーンかつプロフェッショナルな線画を生成します。",
+      "features": {
+        "clean_line_art": "クリーンな線画出力",
+        "smart_simplification": "スマートな簡素化",
+        "time_saving": "時間を節約",
+        "professional_quality": "プロフェッショナル品質"
+      }
+    },
+    "background_removal": {
+      "title": "背景の削除",
+      "short_title": "背景を削除",
+      "description": "髪の毛のような細かいディテールを保持しつつ、アニメキャラクターに最適化された精密な背景削除。",
+      "detailed_description": "AIを活用した背景削除は、アニメとマンガのアートワークで特化した機械学習モデルを使用し、画像の背景を自動的に検出して削除します。複雑なアニメのヘアスタイルや精巧なデザインでも、ピクセルごとの精密なエッジ検出を可能にします。",
+      "features": {
+        "hair_precision": "髪の毛レベルの精度",
+        "anime_optimized": "アニメキャラクターに最適化",
+        "transparent_png": "透明PNGでエクスポート",
+        "batch_processing": "一括処理"
+      }
+    },
+    "image_upscaling": {
+      "title": "画像の拡大",
+      "short_title": "拡大",
+      "description": "アニメアートスタイルと細かいディテールを保ちながら、画像の解像度を向上させます。",
+      "detailed_description": "アニメとマンガのアートスタイルを理解するAI駆動の拡大技術。解像度を最大4倍に引き上げ、鮮明な線、鮮やかな色、そして芸術的な完全性を維持します。",
+      "features": {
+        "up_to_4x": "最大4倍の解像度",
+        "style_preservation": "スタイルの保存",
+        "detail_enhancement": "ディテールの強化",
+        "high_quality_export": "高品質なエクスポート"
+      }
+    },
+    "animation_inbetweening": {
+      "title": "アニメーションの中間生成",
+      "short_title": "アニメート",
+      "description": "キー フレーム間で滑らかなアニメーションフレームを生成し、アニメーション制作時間を大幅に短縮します。",
+      "detailed_description": "AIにより中間生成は、高度な機械学習を使用して動きを理解し、キー フレーム間の自然な遷移を生成します。2～5枚のキー フレーム画像をアップロードし、アニメーションスタイルをガイドするプロンプトを追加すると、AIがキー ポーズ間のスムーズな遷移を作成します。",
+      "features": {
+        "upload_keyframes": "2～5枚のキー フレームをアップロード",
+        "advanced_ai": "高度なAI技術",
+        "rapid_creation": "迅速なアニメーション作成",
+        "professional_quality": "プロフェッショナル品質"
+      }
+    },
+    "frame_interpolation": {
+      "title": "フレーム補間",
+      "short_title": "補間",
+      "description": "中間フレームを生成してアニメーションのフレームレートを向上させ、超スムーズな動きを実現します。",
+      "detailed_description": "AIフレーム補間は、人工知能を利用して既存フレーム間に追加フレームを生成し、よりスムーズな動きと高いフレームレートを提供します。私たちのAIは既存フレーム間の動きを分析し、高度な機械学習アルゴリズムを用いて新しい中間フレームを生成します。",
+      "features": {
+        "higher_frame_rates": "より高いフレームレート",
+        "smoother_motion": "よりスムーズな動き",
+        "video_enhancement": "ビデオの強化",
+        "professional_quality": "プロフェッショナル品質"
+      }
+    },
+    "section_title": "プロフェッショナルアーティスト向けに",
+    "main_title": "作業を加速させるAIツール",
+    "subtitle": "AIに時間のかかる作業を任せて、創造性に集中しましょう",
+    "cta_button": "AIで制作を始める",
+    "cta_subtitle": "47K+ のクリエイターが信頼するプロフェッショナルグレードのツール",
+    "learn_more": "詳細を知る"
+  }
+}

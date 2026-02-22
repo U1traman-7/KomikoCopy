@@ -1,0 +1,23 @@
+{
+  "pageTitle": "월드 생성 | KomikoAI",
+  "createWorld": "월드 생성하기",
+  "coverImage": "표지 이미지",
+  "uploadCoverImage": "표지 이미지 업로드",
+  "worldName": "월드 이름",
+  "introduction": "소개 ({{length}}/250자)",
+  "introductionPlaceholder": "스토리를 간략하게 소개하세요. 플레이어와 캐릭터를 기다리는 모험은 무엇인가요? 캐릭터를 언급할 때는 '{character}'를 사용하세요.",
+  "storyline": "스토리라인 ({{length}}/5000자)",
+  "storylinePlaceholder": "스토리라인을 자세히 설명하세요. 캐릭터를 언급할 때는 '{character}'를, 플레이어를 언급할 때는 'player'를 사용하세요.",
+  "winningCondition": "승리 조건 ({{length}}/250자)",
+  "winningConditionPlaceholder": "게임에서 승리하기 위한 조건을 설명하세요.",
+  "rules": "규칙 ({{length}}/5000자)",
+  "rulesPlaceholder": "게임 규칙을 정의하세요. 예: '플레이어는 {character} 역할을 맡습니다.', '{character}는 플레이어를 \"여행자\"라고 부릅니다.', 또는 '{character}의 모든 대사는 (광기: X)로 시작하며, X는 초기값 100입니다.' 등",
+  "createWorldButton": "월드 생성",
+  "pleaseNote": "참고:",
+  "nsfwWarning": "KomikoAI 커뮤니티에서는 공공장소에서의 NSFW 콘텐츠를 엄격히 금지합니다. 위반 시 콘텐츠 삭제 및 플랫폼 영구 이용 제한 조치가 취해질 수 있습니다. 모두를 위한 깨끗하고 안전한 공간을 위해 협조해 주시기 바랍니다. 🤗",
+  "errorWorldName": "월드 이름을 입력해 주세요.",
+  "errorIntroduction": "소개를 입력해 주세요.",
+  "errorStoryline": "스토리라인을 입력해 주세요.",
+  "errorCoverImage": "표지 이미지를 업로드해 주세요.",
+  "errorNSFW": "KomikoAI 커뮤니티에서는 NSFW 콘텐츠가 엄격히 금지됩니다. 모두를 위한 깨끗하고 안전한 공간을 유지할 수 있도록 협조 부탁드립니다."
+}

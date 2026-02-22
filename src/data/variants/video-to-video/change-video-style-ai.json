@@ -1,0 +1,147 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Change Video Style AI | Transform Your Videos into Stunning Art Styles",
+      "description": "Elevate your videos with Change Video Style AI technology. Our advanced tool transforms any video into unique artistic styles, preserving original motion and timing.",
+      "fullDescription": "Introducing the Change Video Style AI tool, a revolutionary solution for transforming ordinary videos into captivating anime, cartoon, manga, and manhwa animations. Utilizing advanced Video Style Transfer technology, the Change Video Style AI maintains motion consistency throughout the transformation process. With a variety of styles inspired by Studio Ghibli, Korean manhwa, Japanese manga, and more, this tool is perfect for artists, content creators, and anyone looking to bring their visuals to life.",
+      "keywords": "Change Video Style AI, Video Style Transfer, anime video generator, cartoon video filter, manga style transfer, manhwa animation, video to anime converter, animation tool, cartoon video maker, anime style video, manga video creator, video stylization, animated video generator, comic video filter, anime transformation, cartoon style transfer"
+    },
+    "hero": {
+      "title": "Change Video Style AI"
+    },
+    "whatIs": {
+      "title": "What is Change Video Style AI?",
+      "description": "Change Video Style AI is an innovative tool designed to transform your ordinary videos into thrilling anime, cartoon, manga, and manhwa animations through advanced Video Style Transfer technology. The process involves first applying your chosen artistic style to a reference frame before transforming the entire video—ensuring that the original motion, timing, and facial expressions are preserved. Choose from over 20 unique styles, including those influenced by Studio Ghibli and popular manga aesthetics for a seamless transformation experience."
+    },
+    "examples": {
+      "title": "Change Video Style AI Examples",
+      "description": "Explore the magic of our Change Video Style AI as it transforms videos into stunning anime, cartoon, manga, and manhwa styles while ensuring perfect motion consistency with its advanced Video Style Transfer capabilities.",
+      "style": "Applied Style"
+    },
+    "howToUse": {
+      "title": "How to Use Change Video Style AI",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Begin by uploading any video file (MP4, MOV, AVI) up to 15 seconds and 50MB for processing with Change Video Style AI. If your video exceeds 15 seconds, it will be trimmed automatically for optimal transformation."
+        },
+        {
+          "title": "Choose Artistic Style",
+          "content": "In the Style Selection section, choose from 20+ preset artistic styles including anime, cartoon, manga, Korean manhwa, or create custom styles with text prompts and reference images."
+        },
+        {
+          "title": "Style Preview & Reference",
+          "content": "We extract the first frame and apply your chosen style to create a styled reference. This preview shows how your selected style will be applied to the entire video."
+        },
+        {
+          "title": "Generate with Change Video Style AI",
+          "content": "Using the styled reference frame, Change Video Style AI transforms your entire video, accurately preserving all original motion, expressions, and timing thanks to its advanced Video Style Transfer technology."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Change Video Style AI",
+      "description": "Change Video Style AI offers the industry's most cutting-edge technology in Video Style Transfer, featuring motion preservation, diverse style options, and transparent pricing for users.",
+      "features": [
+        {
+          "title": "Perfect Motion Preservation",
+          "content": "Our Change Video Style AI maintains every detail of the original motion and timing while applying artistic transformations, ensuring a frame-perfect styling experience.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Over 20 Artistic Options",
+          "content": "Enjoy the ability to choose from a range of artistic styles, including Studio Ghibli, Korean manhwa, Japanese manga, and more. Create your unique styles with custom prompts or reference images.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professional-Quality Output",
+          "content": "Generate stunningly high-definition anime and cartoon videos with Change Video Style AI, ensuring smooth transitions, rich colors, and no artifacts interfering with your animations.",
+          "icon": "✨"
+        },
+        {
+          "title": "Transparent Pricing Model",
+          "content": "Experience clarity with our pricing structure, which separates charges for the Video Style Transfer and subsequent video generation, allowing you to try different styles without incurring extra costs.",
+          "icon": "⚡"
+        },
+        {
+          "title": "User-Friendly Two-Step Process",
+          "content": "Our intuitive Change Video Style AI process—upload, apply style, generate—requires no technical expertise, and you can easily track your progress in real-time.",
+          "icon": "👌"
+        },
+        {
+          "title": "Efficient Automatic Optimization",
+          "content": "Enjoy seamless processing with automatic video trimming, comprehensive format support (MP4, MOV, AVI), and duration-based cost calculations for effective video stylization.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Change Video Style AI FAQ",
+      "description": "Find answers to common questions about the Change Video Style AI tool, its functionality, processes, costs, and best practices.",
+      "q1": "How does Change Video Style AI work?",
+      "a1": "Change Video Style AI operates using a two-step Video Style Transfer process: first, it extracts a reference frame and applies your chosen artistic style; then, it transforms the entire video while maintaining original motion and timing for consistency.",
+      "q2": "What video formats does Change Video Style AI support?",
+      "a2": "Our Change Video Style AI tool supports MP4, MOV, and AVI formats with a maximum file size of 50MB and video length of 15 seconds. Longer videos will be trimmed automatically for effective processing.",
+      "q3": "How long does the Change Video Style AI process take?",
+      "a3": "The total processing time for Change Video Style AI is between 5 to 10 minutes, broken down into Video Style Transfer (1-3 minutes) and video generation (3-7 minutes). You can monitor the progress real-time.",
+      "q4": "What is the cost of using Change Video Style AI?",
+      "a4": "Costs are determined separately for Video Style Transfer and video generation, based on the video's duration. Our system displays costs in real-time during processing, ensuring you only pay after successful transformation.",
+      "q5": "Can I create custom styles with Change Video Style AI?",
+      "a5": "Absolutely! With Change Video Style AI, you can choose from over 20 preset styles or create your unique transformations by using customized prompts or reference images for the style transfer.",
+      "q6": "What types of videos work best with Change Video Style AI?",
+      "a6": "For optimal results, use clear subjects with good lighting and stable motion in your videos. Avoid fast movements, blurry footage, and dark scenes to ensure the best transformations. Videos under 5 seconds that feature recognizable subjects work exceptionally well."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon Style",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/retro-game.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Retro Game Style",
+      "description": "Style Transfer | Transfer original video to retro game style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Sketch Style",
+      "description": "Style Transfer | Transfer original video to sketch style"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/watercolor.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Watercolor Style",
+      "description": "Style Transfer | Transfer original video to watercolor style"
+    }
+  ],
+  "originalKeyword": "Change Video Style AI",
+  "pageStructure": [
+    "examples",
+    "benefits",
+    "whatIs",
+    "howToUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

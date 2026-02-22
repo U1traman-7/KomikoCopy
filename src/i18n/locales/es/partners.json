@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Socios | KomikoAI",
+    "description": "Colabora con KomikoAI y crece con nosotros."
+  },
+  "hero": {
+    "title": "Nuestros socios",
+    "description": "Como plataforma líder de cómics y animación con IA, colaboramos con los principales innovadores en IA para revolucionar la creación de contenido creativo en diseño y entretenimiento."
+  },
+  "technologyPartners": {
+    "title": "Socios tecnológicos",
+    "description": "Colaborando con líderes de la industria para superar los límites de la creatividad impulsada por la IA",
+    "partners": {
+      "mathosAI": {
+        "name": "Mathos AI",
+        "description": "Mathos AI es un potente solucionador de problemas matemáticos con IA que puede ayudarte a resolver problemas matemáticos complejos."
+      },
+      "collovAI": {
+        "name": "Collov AI",
+        "description": "Collov AI ofrece diseño de escenarios virtuales con IA de vanguardia, transformando listados de propiedades con diseños impresionantes y fotorrealistas. Impulsa el marketing inmobiliario con escenificaciones rápidas y rentables."
+      },
+      "altpageAI": {
+        "name": "altpage.ai",
+        "description": "altpage.ai es un Agente de IA que crea páginas de comparación optimizadas para SEO que capturan tráfico de marcas competidoras. Analiza datos, resalta tus ventajas y despliega páginas para lograr un alto posicionamiento, sin necesidad de habilidades técnicas."
+      },
+      "easysiteAI": {
+        "name": "EasySite",
+        "description": "Construye sitios web y aplicaciones impulsadas por bases de datos con IA en segundos. Las características incluyen base de datos integrada, adaptación para móviles, widgets de chat y analíticas. Compatible con WordPress/Netlify."
+      },
+      "newoaksAI": {
+        "name": "Constructor de Chatbot con IA; Constructor de Agente con IA",
+        "description": "NewOaks AI gestiona conversaciones con clientes en todos tus canales y llena tu calendario con citas. ¡Céntrate en cerrar negocios en lugar de perseguir prospectos!"
+      },
+      "komiko": {
+        "name": "KomikoAI",
+        "description": "KomikoAI: Plataforma de IA todo-en-uno para Arte, Anime y Cómics. Las potentes herramientas de IA de KomikoAI facilitan a artistas y narradores llevar sus ideas a la realidad. Desde colorización de arte lineal hasta generador de anime y cómics con IA, te tenemos cubierto. Crea ilustraciones, cómics, manga y animaciones en minutos, no en días."
+      },
+      "kuaAI": {
+        "name": "kua.ai",
+        "description": "Agente de IA para E-Commerce"
+      },
+      "vidAU": {
+        "name": "VidAU",
+        "description": "VidAU AI te permite crear videos atractivos en solo minutos. Simplemente proporciona un enlace de producto o una breve descripción, y nuestra plataforma generará videos de alta calidad con avatares de IA realistas que hablan en múltiples idiomas y acentos. Ya sea que estés creando contenido para TikTok, YouTube, campañas de marketing o sesiones de capacitación, VidAU AI te respalda. Desde videos cortos y atrayentes hasta explicaciones profesionales, nuestra plataforma de creación de videos con IA todo-en-uno y fácil de usar te ayuda a producir contenido convincente rápidamente, mejorando la presencia de tu marca y contando tu historia con impacto."
+      },
+      "bikaAI": {
+        "name": "Bika.AI",
+        "description": "Bika.ai, espacio de trabajo con IA todo-en-uno para crear agentes de IA empresariales, combina chatbot de IA, automatización, bases de datos, tableros y wikis, gestionando y automatizando interminables procesos empresariales. No es necesario chatear constantemente con la IA. Bika.ai automatiza tareas repetitivas y se ejecuta fluidamente entre funciones para tu marketing, ventas y proyectos, permitiéndote enfocarte en el trabajo estratégico."
+      }
+    }
+  },
+  "partnershipCTA": {
+    "title": "Haz crecer tu negocio con nosotros",
+    "description": "Asóciate con KomikoAI para ampliar tu alcance en el mercado. Nos complace colaborar con empresas relevantes en las industrias creativas.",
+    "button": "Contacta con nuestro equipo"
+  },
+  "productLines": {
+    "title": "Líneas de productos",
+    "description": "Explora nuestras soluciones innovadoras que están remodelando el futuro de las herramientas creativas de IA",
+    "aiComicGeneration": {
+      "title": "Generación de cómics con IA",
+      "description": "Crea cómics impresionantes al instante con nuestra tecnología avanzada de IA",
+      "items": [
+        "Diseño de personajes",
+        "Generación de escenas de cómics",
+        "Narración de historias en viñetas",
+        "Control de estilo personalizado"
+      ]
+    },
+    "imageProcessing": {
+      "title": "Procesamiento de imágenes",
+      "description": "Herramientas de imagen con IA especializadas para agilizar tus flujos de trabajo creativos",
+      "items": [
+        "Eliminación de fondo",
+        "Coloración de imágenes",
+        "Superresolución de imágenes",
+        "Coloración de dibujos lineales"
+      ]
+    },
+    "videoEnhancement": {
+      "title": "Mejora de vídeo",
+      "description": "Potentes herramientas de vídeo para hacer realidad tus creaciones",
+      "items": [
+        "Interpolación de fotogramas de vídeo",
+        "Superresolución de vídeo",
+        "Animación de vídeo con IA",
+        "Generación de movimiento de personajes"
+      ]
+    }
+  },
+  "solutions": {
+    "title": "Soluciones",
+    "description": "Enfoques a medida para diferentes segmentos",
+    "professionals": {
+      "title": "Profesionales",
+      "description": "Herramientas simplificadas para profesionales creativos",
+      "items": [
+        "Artistas de cómics",
+        "Creadores de contenido",
+        "Diseñadores de juegos",
+        "Ilustradores"
+      ]
+    },
+    "enterprises": {
+      "title": "Empresas",
+      "description": "Soluciones de IA escalables para empresas",
+      "items": [
+        "Instituciones educativas",
+        "Industria del entretenimiento",
+        "Editoriales",
+        "Agencias de publicidad"
+      ]
+    }
+  }
+}

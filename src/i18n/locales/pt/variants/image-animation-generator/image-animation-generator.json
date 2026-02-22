@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "meta": {
+      "title": "IA Imagem para Vídeo de Animação - KomikoAI",
+      "description": "Transforme as suas imagens estáticas em vídeos animados impressionantes com IA. Crie animações realistas a partir de fotos, obras de arte e ilustrações em segundos.",
+      "keywords": "imagem para animação, gerador de animação IA, animação de foto, imagem para vídeo, criador de vídeo IA"
+    },
+    "hero": {
+      "title": "Gerador de Animação de Imagens com IA",
+      "subtitle": "Transforme imagens estáticas em vídeos animados dinâmicos através de tecnologia impulsionada por IA."
+    },
+    "whatIs": {
+      "title": "O que é Animação de Imagens?",
+      "description": "Animação de Imagens é uma tecnologia impulsionada por IA que transforma imagens estáticas em vídeos dinâmicos e realistas. A nossa IA avançada analisa as suas fotos, obras de arte e ilustrações para criar movimentos naturais, efeitos de respiração e animações subtis que dão vida às suas imagens com um movimento cativante."
+    },
+    "howToUse": {
+      "title": "Como Criar Animações de Imagens",
+      "steps": [
+        {
+          "title": "Carregue a Sua Imagem",
+          "content": "Selecione e carregue a foto, obra de arte ou ilustração que pretende animar."
+        },
+        {
+          "title": "Descreva a Animação",
+          "content": "Escreva um prompt descrevendo o tipo de movimento que deseja ver na sua imagem."
+        },
+        {
+          "title": "Escolha as Configurações",
+          "content": "Selecione a duração da animação, o estilo e as preferências de qualidade para o seu vídeo."
+        },
+        {
+          "title": "Gere e Faça Download",
+          "content": "Deixe a IA criar o seu vídeo animado e faça o download do resultado em alta qualidade."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Por que Utilizar o Nosso Gerador de Animação de Imagens?",
+      "description": "Crie conteúdo animado profissional a partir de imagens estáticas sem software complexo ou conhecimentos de animação.",
+      "features": [
+        {
+          "title": "Animação Impulsionada por IA",
+          "content": "A tecnologia de IA avançada cria movimentos naturais e realistas a partir de qualquer imagem estática.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Múltiplos Tipos de Imagem",
+          "content": "Funciona com fotografias, arte digital, ilustrações, retratos e vários formatos de imagem.",
+          "icon": "🖼️"
+        },
+        {
+          "title": "Movimento Natural",
+          "content": "Gere respiração realista, pestanejos, movimento do cabelo e animações faciais subtis.",
+          "icon": "💫"
+        },
+        {
+          "title": "Saída de Alta Qualidade",
+          "content": "Crie vídeos animados suaves e de qualidade profissional com resolução até 1080p.",
+          "icon": "⭐"
+        },
+        {
+          "title": "Fácil de Utilizar",
+          "content": "Processo simples de carregamento e geração – não é necessária experiência em animação.",
+          "icon": "✨"
+        },
+        {
+          "title": "Processamento Rápido",
+          "content": "Transforme as suas imagens em animações em minutos, não em horas.",
+          "icon": "⚡"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ do Gerador de Animação de Imagens",
+      "description": "Perguntas frequentes sobre a criação de animações a partir de imagens estáticas.",
+      "q1": "Que tipos de imagens funcionam melhor para animação?",
+      "a1": "Imagens de alta qualidade com objetos claros funcionam melhor. Fotografias, arte digital, retratos e ilustrações produzem excelentes resultados quando têm boa resolução e características distintas.",
+      "q2": "Qual é a duração máxima dos vídeos animados?",
+      "a2": "Pode criar animações com uma duração entre 5 a 10 segundos, o que é perfeito para conteúdo de redes sociais, apresentações e exibições visuais envolventes.",
+      "q3": "Que efeitos de animação posso criar?",
+      "a3": "A nossa IA pode gerar vários efeitos, incluindo animações de respiração, pestanejo, movimento do cabelo, expressões faciais e efeitos ambientais, como água corrente ou nuvens em movimento.",
+      "q4": "Que formatos de imagem são suportados?",
+      "a4": "Suportamos formatos de imagem comuns, incluindo ficheiros JPG, PNG e WEBP com um tamanho máximo de 10 MB para um processamento e qualidade de animação ideais.",
+      "q5": "Quão realistas são as animações?",
+      "a5": "A nossa IA cria animações com uma aparência natural que aprimora as suas imagens sem as tornar artificiais. Os movimentos são subtis e realistas.",
+      "q6": "Posso controlar o estilo da animação?",
+      "a6": "Sim, pode especificar o tipo de animação que pretende através de prompts detalhados, escolhendo entre movimentos realistas, efeitos artísticos ou animações estilizadas."
+    }
+  },
+  "content": {
+    "header": {
+      "title": "Gerador de Animação de Imagens com IA",
+      "subtitle": "Transforme as suas imagens estáticas em vídeos animados cativantes com IA."
+    },
+    "examples": [
+      {
+        "id": 1,
+        "title": "Modelo: Veo 3",
+        "description": "Prompt: A keyboard whose keys are made of different types of candy. Typing makes sweet, crunchy sounds. Audio: Crunchy, sugary typing sounds, delighted giggles.",
+        "videoUrl": "/images/pages/veo3/example7.webm"
+      },
+      {
+        "id": 2,
+        "title": "Modelo: AniSora",
+        "description": "Prompt: In the frame, a person sprints forward at high speed, their motion appearing slightly blurred from the velocity.",
+        "videoUrl": "/images/pages/anisora/example3.webm"
+      },
+      {
+        "id": 3,
+        "title": "Modelo: Anime Pro",
+        "description": "Prompt: Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+      },
+      {
+        "id": 4,
+        "title": "Modelo: Marey",
+        "description": "Prompt: Motion Transfer - Advanced motion capture and animation techniques",
+        "videoUrl": "https://framerusercontent.com/assets/G6g5UNTx9dlKbMGdS8Iag4Xas.mp4"
+      },
+      {
+        "id": 5,
+        "title": "Modelo: Marey",
+        "description": "Prompt: Dynamic Motion - Fluid and dynamic character animation",
+        "videoUrl": "https://framerusercontent.com/assets/vgdQZ2zcFZsxMSqZv8s2kwwKJ8.mp4"
+      },
+      {
+        "id": 6,
+        "title": "Modelo: Anime Pro",
+        "description": "Prompt: The boy slowly lean in, gently holds the girl’s face and share a soft kiss. Cherry blossom petals float around them, soft lighting and warm atmosphere, close-up shots and slow motion, cinematic anime style.",
+        "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/kiss.webm"
+      }
+    ]
+  },
+  "originalKeyword": "Image Animation Generator",
+  "placeholderText": "A beautiful portrait with gentle breathing animation, subtle eye movement, and natural facial expressions"
+}

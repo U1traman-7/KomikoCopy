@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "KomikoAI - Generador de Anime con IA y Creador de Personajes Originales",
+    "og_title": "KomikoAI - Generador de Anime con IA y Creador de Personajes Originales",
+    "twitter_title": "KomikoAI - Generador de Anime con IA y Creador de Personajes Originales",
+    "description": "Crea personajes originales, anime y cómics con KomikoAI. Descubre más de 100 herramientas de IA y plantillas creativas diseñadas para fanáticos.",
+    "keywords": "Komiko, KomikoAI, Komiko IA, aplicación Komiko, komiko.ai, komiko.app, generador de anime con IA, creador de personajes originales, generador de arte AI, generador de cómics con IA, generador de animación con IA, efectos de video con IA, creador de personajes de anime"
+  },
+  "hero": {
+    "title": "¿Qué quieres crear?",
+    "community": "Creaciones de la comunidad"
+  },
+  "tabs": {
+    "for_you": "Para ti",
+    "comic": "Cómic",
+    "illustration": "Ilustración",
+    "animation": "Animación",
+    "all": "Todo"
+  },
+  "sections": {
+    "for_you": "Para ti"
+  },
+  "create_section": {
+    "ai_art": "Arte de IA",
+    "storytelling": "Narración",
+    "create": "Crea tu historia"
+  },
+  "carousel": {
+    "slide1_title": "Concurso AniGen",
+    "slide1_desc": "Crea una breve animación con IA, ¡gana más de $3,000 y una suscripción pro!",
+    "check_it_out": "Échale un vistazo",
+    "slide2_title": "IA de Video a Video",
+    "slide2_desc": "Convierte cualquier video a estilos de anime, caricatura, manga y manhwa mientras conservas el movimiento original.",
+    "check_it_out2": "Descúbrelo"
+  },
+  "banner": {
+    "merch_title": "Transforma tus personajes en merchandising",
+    "merch_description": "Crea peluches, insignias, figuras y más de tus personajes de anime.",
+    "try_now": "Pruébalo ahora"
+  },
+  "activity_posts": {
+    "video_to_video": {
+      "title": "AI de Video a Video",
+      "description": "Transforma tus videos con la tecnología AI de Video a Video. Convierte cualquier video en estilos como anime, caricatura, manga y manhwa.",
+      "button": "Probar ahora"
+    },
+    "character_merch": {
+      "title": "Transforma tus Personajes en Merchandising",
+      "description": "Crea un merchandising increíble de tus personajes favoritos, incluyendo insignias, cojines de cuerpo, peluches y figuras de pie.",
+      "button": "Probar ahora"
+    },
+    "ambassador": {
+      "title": "Únete como Embajador de KomikoAI y Gana Participaciones en Ingresos💰",
+      "description": "Conviértete en Embajador de KomikoAI y gana participaciones en ingresos por referencias. ¡Únete a nuestro programa de afiliados hoy!",
+      "button": "Únete Ahora"
+    },
+    "promoted": "Promocionado",
+    "anishort": {
+      "title": "¡Descubre animes en formato corto, o publica tu propia serie!",
+      "button": "Empieza a explorar"
+    },
+    "ad": "Publicidad",
+    "new-playground": {
+      "title": "✨ Descubre más de 100 Plantillas Divertidas",
+      "description": "Transforma tus fotos y personajes con plantillas virales: desde emotes chibi y hojas de personajes hasta productos realistas, efectos Bankai, ¡y mucho más!",
+      "button": "Prueba ahora"
+    },
+    "sora-2": {
+      "title": "¡Sora 2 ya está en KomikoAI! Únete al #SoraAnimeChallenge y gana el premio de $1000!",
+      "button": "Únete ahora"
+    }
+  },
+  "ai_apps_banner": {
+    "eyebrow": "Centro de Aplicaciones de IA",
+    "title": "Tus herramientas ahora están en la página de Aplicaciones de IA",
+    "description": "Marca como favoritas tus herramientas preferidas y explora el catálogo completo de aplicaciones de IA para ilustración, animación, cómics y más.",
+    "cta": "Abrir Aplicaciones de IA"
+  },
+  "generateArt": "Generar Arte",
+  "generateTagArt": "Generar Arte de {{tag}}"
+}

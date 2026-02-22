@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Générateur de Badges IA",
+      "description": "Créez facilement de superbes badges à partir de vos images grâce à la puissance de l'IA. Découvrez une créativité sans limites ! Commencez à générer dès aujourd'hui.",
+      "keywords": "Générateur de Badges IA, badges de photographie IA, conceptions de badges personnalisées, créateur de badges IA, générateur de badges unique, badge photo artistique"
+    },
+    "hero": {
+      "title": "Générateur de Badges IA"
+    },
+    "whatIs": {
+      "title": "Qu'est-ce que le Générateur de Badges IA ?",
+      "description": "Le Générateur de Badges IA est un outil intuitif qui convertit aisément vos images en badges aux styles distinctifs. En exploitant des algorithmes d'IA avancés, il réinterprète les éléments de vos photos en représentations artistiques de badges, idéal pour les créateurs souhaitant rehausser leurs projets visuels rapidement et facilement."
+    },
+    "examples": {
+      "title": "Exemples de Générateur de Badges IA",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Comment utiliser le Générateur de Badges IA",
+      "steps": [
+        {
+          "title": "Étape 1 : Téléchargez votre photo",
+          "content": "Sélectionnez la photo de votre choix (JPG, PNG, WEBP) et téléchargez-la ici. Les images à haute résolution offrent de meilleurs résultats !"
+        },
+        {
+          "title": "Étape 2 : Sélectionnez le modèle de badge",
+          "content": "Sélectionnez le modèle de badge pour transformer votre photo selon le style souhaité."
+        },
+        {
+          "title": "Étape 3 : Convertir en badge",
+          "content": "Cliquez sur « Convertir en badge » pour appliquer le style choisi. L'IA traite votre image et crée un badge visuellement impressionnant."
+        },
+        {
+          "title": "Étape 4 : Téléchargez et partagez",
+          "content": "Prévisualisez votre nouveau badge ! S'il vous plaît, téléchargez-le pour le partager sur les médias sociaux ou l'intégrer à vos projets."
+        }
+      ],
+      "subtitle": "Créez de magnifiques badges en quelques étapes simples !"
+    },
+    "benefits": {
+      "title": "Pourquoi choisir le Générateur de Badges IA ?",
+      "description": "Découvrez les fonctionnalités qui enrichissent votre expression créative.",
+      "features": [
+        {
+          "title": "🎨 Styles artistiques uniques",
+          "content": "Profitez d'une variété de styles de badges adaptés à différents thèmes et ambiances – parfaits pour les projets en ligne et hors ligne !"
+        },
+        {
+          "title": "⚡ Temps de traitement rapides",
+          "content": "Profitez d'un traitement d'image rapide, permettant à votre créativité de s'exprimer sans interruption."
+        },
+        {
+          "title": "🖼️ Téléchargements en haute résolution",
+          "content": "Obtenez des images de badges en haute résolution sans perte de qualité – idéales pour toutes les applications."
+        },
+        {
+          "title": "💫 Expérience utilisateur intuitive",
+          "content": "Naviguez facilement sur notre plateforme, conçue pour tous, des débutants aux concepteurs expérimentés."
+        },
+        {
+          "title": "🎯 Conceptions personnalisables",
+          "content": "Créez des badges uniques pour tout événement, image de marque ou usage personnel, reflétant votre goût personnel."
+        },
+        {
+          "title": "🚀 Améliorations régulières des fonctionnalités",
+          "content": "Restez informé des nouveaux styles et fonctionnalités, inspirant continuellement votre parcours créatif."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Générateur de Badges IA FAQ",
+      "description": "",
+      "q1": "Que fait le Générateur de Badges IA ?",
+      "a1": "Le Générateur de Badges IA vous permet de transformer vos photos en badges uniques grâce à l'apprentissage automatique. Il analyse vos images et crée des designs artistiques basés sur des algorithmes avancés.",
+      "q2": "Comment puis-je optimiser les effets du Générateur de Badges IA ?",
+      "a2": "Utilisez des photos claires et à haute résolution, sélectionnez des styles qui complètent vos images, et testez différentes transformations pour trouver le résultat optimal.",
+      "q3": "L'utilisation du Générateur de Badges IA est-elle gratuite ?",
+      "a3": "Oui, notre Générateur de Badges IA est gratuit ! Explorez les options premium pour des styles avancés.",
+      "q4": "Qu'est-ce qui différencie le Générateur de Badges IA des autres outils ?",
+      "a4": "Notre Générateur de Badges IA utilise des modèles d'apprentissage automatique avancés, spécialement conçus pour créer des badges uniques de haute qualité.",
+      "q5": "Puis-je commercialiser les œuvres créées avec le Générateur de Badges IA ?",
+      "a5": "Oui, vous pouvez utiliser vos créations à des fins commerciales, par exemple pour des marchandises, à condition de respecter nos conditions d'utilisation."
+    },
+    "cta": {
+      "title": "Commencez à créer dès aujourd'hui avec le Générateur de Badges IA",
+      "description": "N'attendez plus ! Libérez votre créativité et créez de superbes badges à partir de vos photos en quelques minutes seulement. Rejoignez une communauté de créateurs qui transforment leurs visuels grâce à l'IA !",
+      "buttonText": "Créez gratuitement votre badge IA"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique badge style",
+  "originalKeyword": "AI Badge Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-badge-generator/tanjiro-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/tanjiro-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/demon-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/demon-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/naruto-output.webp",
+      "input": "/images/examples/playground/ai-cosplay-generator/naruto-input.webp",
+      "prompt": "Style: Badge"
+    },
+    {
+      "image": "/images/examples/playground/ai-badge-generator/dn-output.webp",
+      "input": "/images/examples/playground/ai-badge-generator/dn-input.webp",
+      "prompt": "Style: Badge"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "pageTitle": "帖子 | KomikoAI",
+  "shareStory": "分享你的故事",
+  "enterStoryTitle": "输入故事标题...",
+  "addMoreDescription": "添加更多描述...",
+  "post": "发布",
+  "pleaseNote": "请注意：",
+  "nsfwWarning": "请将所有不当内容标记为“NSFW”。未标记的帖子可能会被删除，重复违规可能导致封禁。严禁非法内容（包括未成年人），一经发现将永久封禁。",
+  "imageDownloadSuccess": "图片已成功下载！快去和朋友们分享吧！",
+  "pleaseEnterTitle": "请输入标题",
+  "pleaseCreateStory": "请撰写故事内容",
+  "failedToPost": "发布失败，请稍后重试",
+  "defaultTitles": {
+    "character": "我创作的角色",
+    "anime": "我的动漫风照片",
+    "animation": "我的动画作品",
+    "creation": "我的作品"
+  },
+  "addTags": "新增标签",
+  "tagPlaceholder": "输入标签#",
+  "tagCount": "标签数量 ({{current}}/{{max}})",
+  "recommendedTags": "推荐的标签",
+  "popularTags": "热门的标签",
+  "activity": "活动",
+  "share": "分享",
+  "uploadMedia": "上传媒体",
+  "dragDropOrClick": "拖放文件到此处或点击选择",
+  "dropFileHere": "文件拖放到此处",
+  "uploading": "正在上传",
+  "storyTitle": "故事标题",
+  "description": "描述",
+  "titleLengthWarning": "标题过长",
+  "characters": "字符",
+  "pleasePublishFirst": "请先发布内容，然后分享",
+  "pinPost": "将帖子置顶至热门动态",
+  "fileUpload": {
+    "title": "上传媒体文件",
+    "subtitle": "将文件拖至此处，或点击选择文件",
+    "dropHere": "拖动文件到这里",
+    "supportedFormats": "支持的文件格式",
+    "imageFormats": "JPG, PNG, WEBP",
+    "videoFormats": "MP4, MOV, AVI",
+    "maxSize": "图片：最大 {{size}}MB",
+    "videoMaxSize": "视频：大小上限 {{size}}MB，时长上限 {{duration}}分钟",
+    "processing": "文件处理中...",
+    "uploading": "文件上传中...",
+    "success": "上传成功！",
+    "error": "上传失败，请重试。"
+  },
+  "mediaPreview": {
+    "image": "图片",
+    "video": "视频",
+    "download": "下载",
+    "share": "分享",
+    "clear": "清除"
+  },
+  "validation": {
+    "titleRequired": "请输入标题",
+    "contentRequired": "请创建故事内容",
+    "fileRequired": "请选择文件",
+    "fileTooLarge": "文件过大，最大允许：{{size}}MB",
+    "unsupportedFormat": "文件格式不支持",
+    "uploadFailed": "上传失败，请重试。"
+  },
+  "actions": {
+    "publish": "发布",
+    "save": "保存",
+    "cancel": "取消",
+    "clear": "清空所有",
+    "download": "下载",
+    "share": "分享"
+  },
+  "preppingPost": "正在为您准备帖子中…",
+  "drawer": {
+    "action": {
+      "newPost": "发布帖子",
+      "newCharacter": "创建角色",
+      "generateImage": "生成图片",
+      "generateVideo": "生成视频",
+      "generateComic": "制作漫画"
+    },
+    "description": {
+      "newPost": "将您的创意分享给社区。"
+    }
+  }
+}

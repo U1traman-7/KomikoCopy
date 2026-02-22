@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 精靈圖產生器",
+      "description": "使用我們的 AI 精靈圖產生器，輕鬆將您的照片轉換為獨特的精靈圖。非常適合遊戲美術與動畫製作。立即免費開始！",
+      "keywords": "AI 精靈圖產生器, AI 角色產生器, AI 動漫產生器, 照片轉精靈圖, 精靈圖美術產生器"
+    },
+    "hero": {
+      "title": "AI 精靈圖產生器"
+    },
+    "whatIs": {
+      "title": "什麼是 AI 精靈圖產生器？",
+      "description": "AI 精靈圖產生器採用尖端的 AI 演算法，將您的照片轉換為像素化的精靈美術，專為遊戲與動畫設計。此工具非常適合開發人員、藝術家和愛好者，協助您快速產生獨特的精靈圖，讓您能專注於您的創意專案。"
+    },
+    "examples": {
+      "title": "AI 精靈圖產生器範例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用 AI 精靈圖產生器",
+      "steps": [
+        {
+          "title": "步驟 1：上傳您的照片",
+          "content": "上傳清晰的影像（JPG 或 PNG），突顯獨特的主題，以獲得最佳轉換效果。"
+        },
+        {
+          "title": "步驟 2：選擇精靈圖範本",
+          "content": "選擇精靈圖範本，將您的照片轉換為精靈圖風格。"
+        },
+        {
+          "title": "步驟 3：轉換為精靈圖",
+          "content": "點擊「轉換為精靈圖」，我們的 AI 將迅速創建一系列反映您所選風格的精靈圖。"
+        },
+        {
+          "title": "步驟 4：下載或分享您的作品",
+          "content": "輕鬆下載您完美的精靈圖，或與世界分享您的創作。"
+        }
+      ],
+      "subtitle": "遵循這些簡單步驟，製作您的專屬精靈圖。"
+    },
+    "benefits": {
+      "title": "為何選擇 AI 精靈圖產生器？",
+      "description": "探索使我們的產生器與眾不同的獨特功能。",
+      "features": [
+        {
+          "title": "🕹️ 立即轉換",
+          "content": "透過即時的精靈圖轉換，立即投入創意，確保您的想法能快速實現。"
+        },
+        {
+          "title": "🎨 自訂風格選擇",
+          "content": "提供多樣化的藝術風格，滿足不同品味，從復古像素美術到現代設計，豐富您的藝術創作流程。"
+        },
+        {
+          "title": "✏️ 高解析度輸出",
+          "content": "我們的 AI 提供具有清晰細節的高品質成果，使您的像素美術視覺效果清晰且令人驚豔。"
+        },
+        {
+          "title": "🌟 直觀的使用者介面",
+          "content": "我們友善的使用者介面，讓任何人（無論技能水平如何）都能輕鬆創建令人印象深刻的精靈圖。"
+        },
+        {
+          "title": "🚀 快速處理時間",
+          "content": "利用 AI 技術，我們的產生器經過最佳化，能快速處理轉換，讓您在更短的時間內完成更多創作。"
+        },
+        {
+          "title": "🌐 遊戲創作的理想選擇",
+          "content": "專為尋求多功能精靈圖的遊戲開發人員設計，可增強您的角色，並無縫地為您的創作製作動畫。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 精靈圖產生器 FAQ",
+      "description": "",
+      "q1": "什麼是 AI 精靈圖產生器，它是如何運作的？",
+      "a1": "AI 精靈圖產生器利用 AI 將您的圖像變更為具有不同藝術風格的風格化精靈圖，從而提高創作者的效率。",
+      "q2": "如何使用 AI 精靈圖產生器獲得最佳效果？",
+      "a2": "選擇清晰、輪廓分明的圖像，並探索各種可用的風格選項，以完善您的創意願景。",
+      "q3": "AI 精靈圖產生器是否可以免費使用？",
+      "a3": "是的，在您探索各種風格時，可以免費享受初始轉換！",
+      "q4": "與其他產生器相比，是什麼讓這個產生器獨一無二？",
+      "a4": "我們的產生器專門用於生成為遊戲和動畫設計的精靈圖，專為此藝術目的量身打造。",
+      "q5": "我可以將我產生的精靈圖用於商業用途嗎？",
+      "a5": "當然！ 隨時將您的精靈圖納入任何專案，包括商業用途。"
+    },
+    "cta": {
+      "title": "使用 AI 精靈圖產生器開始您的旅程",
+      "description": "使用我們高效的產生器將圖像轉換為像素美術，釋放您的創造力。您的下一個藝術作品，近在咫尺！",
+      "buttonText": "免費產生精靈美術"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into AI sprite art",
+  "originalKeyword": "AI Sprite Sheet Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl-output.webp",
+      "input": "/images/examples/playground/ai-plush-generator/girl-input.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/jjk-output.webp",
+      "input": "/images/examples/oc-maker/jjk-oc-maker/8_portrait-2-3_3043.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl2-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/3_portrait-2-3_274.webp",
+      "prompt": "Style: Sprite Sheet"
+    },
+    {
+      "image": "/images/examples/playground/ai-sprite-sheet-generator/girl3-output.webp",
+      "input": "/images/examples/oc-maker/visual-novel-character-generator/1_portrait-2-3_9842.webp",
+      "prompt": "Style: Sprite Sheet"
+    }
+  ]
+}

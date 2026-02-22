@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "火影忍者 AI 滤镜",
+      "description": "使用火影忍者 AI 滤镜将您的照片转化为充满活力的火影忍者艺术作品。立即创作令人惊叹的动漫风格杰作！",
+      "keywords": "火影忍者 AI 滤镜, AI 动漫生成器, 火影忍者风格转换, AI 角色创建器"
+    },
+    "hero": {
+      "title": "火影忍者 AI 滤镜"
+    },
+    "whatIs": {
+      "title": "什么是火影忍者 AI 滤镜？",
+      "description": "火影忍者 AI 滤镜是一款先进的工具，可将您的照片转换为受《火影忍者》系列启发的充满活力的艺术作品。它运用复杂的 AI 算法，再现《火影忍者》独特的风格、色彩和角色设计，让任何人都能创作出捕捉动漫精髓的精美艺术品。"
+    },
+    "examples": {
+      "title": "火影忍者 AI 滤镜示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用火影忍者 AI 滤镜",
+      "steps": [
+        {
+          "title": "步骤 1：上传您的照片",
+          "content": "上传清晰、高质量的图像，以获得最佳转换效果。将您的文件拖放到指定区域。"
+        },
+        {
+          "title": "步骤 2：选择火影忍者模板",
+          "content": "选择火影忍者模板，以使用火影忍者风格转换您的照片。"
+        },
+        {
+          "title": "步骤 3：转换为火影忍者风格",
+          "content": "点击“转换为火影忍者风格”按钮以启动转换。观看 AI 快速将火影忍者的美学应用到您的图像。"
+        },
+        {
+          "title": "步骤 4：下载和分享",
+          "content": "转换完成后，下载您的火影忍者风格艺术作品。与朋友分享，或将其作为独特的作品珍藏！"
+        }
+      ],
+      "subtitle": "轻松创作火影忍者风格的艺术作品！"
+    },
+    "benefits": {
+      "title": "为什么要使用火影忍者 AI 滤镜？",
+      "description": "解锁火影忍者风格转换的创造力和优势。",
+      "features": [
+        {
+          "title": "🎨 拥抱火影忍者独特的风格",
+          "content": "以火影忍者大胆而充满活力的风格增强您的图像，包括动态色彩和引人入胜的表情。"
+        },
+        {
+          "title": "⚡ 快速转换",
+          "content": "体验快速的处理速度，让您几乎可以立即创作出令人惊艳的艺术作品。"
+        },
+        {
+          "title": "🖼️ 直观的 UI/UX",
+          "content": "专为所有熟练程度的用户设计，我们用户友好的界面使图像转换变得轻松愉快。"
+        },
+        {
+          "title": "💫 多种用途",
+          "content": "非常适合个人项目或商业需求，创建社交媒体视觉内容、定制打印作品等等！"
+        },
+        {
+          "title": "🎯 高质量输出",
+          "content": "生成高分辨率图像，非常适合在各种平台上打印和分享。"
+        },
+        {
+          "title": "🚀 释放您的创造力",
+          "content": "尝试火影忍者充满活力的艺术风格，创作反映您独特艺术愿景的作品。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "火影忍者 AI 滤镜 FAQ",
+      "description": "",
+      "q1": "什么是火影忍者 AI 滤镜，它是如何工作的？",
+      "a1": "火影忍者 AI 滤镜使用先进的 AI 算法来分析您的图像，并将火影忍者标志性的艺术风格应用到其中。",
+      "q2": "如何使用火影忍者 AI 滤镜获得最佳效果？",
+      "a2": "选择光线良好的高分辨率图像，并探索各种表情，以获得更出色的转换效果。",
+      "q3": "火影忍者 AI 滤镜是免费的吗？",
+      "a3": "是的，火影忍者 AI 滤镜可以免费使用，但也可能提供可选的付费高级功能。",
+      "q4": "火影忍者 AI 滤镜与其他滤镜的区别是什么？",
+      "a4": "火影忍者 AI 滤镜独特地模拟了《火影忍者》系列特有的视觉元素，使其成为粉丝和艺术家的理想选择。",
+      "q5": "我可以将我从火影忍者 AI 滤镜中创作的作品用于商业用途吗？",
+      "a5": "是的，您可以将您的作品用于个人和商业目的，但请确保您遵守有关《火影忍者》系列的使用权规定。"
+    },
+    "cta": {
+      "title": "立即开始创作您的火影忍者艺术作品",
+      "description": "立即将您的图像转换为引人入胜的火影忍者风格艺术作品。使用我们强大的 AI 工具释放您的创造力。立即开始，探索无限可能！",
+      "buttonText": "免费体验火影忍者 AI 滤镜"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into Naruto AI Filter style",
+  "originalKeyword": "Naruto AI Filter",
+  "examples": [
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Naruto"
+    },
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Naruto"
+    },
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Naruto"
+    },
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Naruto"
+    }
+  ]
+}

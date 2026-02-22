@@ -1,0 +1,135 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Hailuo Image to Video – KomikoAI",
+      "description": "Animasi gambar statis apa pun menjadi video dinamis dengan Hailuo Image to Video. Alat animasi gambar bertenaga AI kami menghidupkan foto, ilustrasi, dan karya seni Anda.",
+      "fullDescription": "Hailuo Image to Video memanfaatkan algoritma animasi AI canggih untuk mengubah gambar diam Anda—karya seni, foto, sketsa—menjadi video yang menarik. Sempurna untuk kreator, pemasar, dan pendongeng, alat AI *image-to-video* ini membuat gerakan sinematik menjadi mudah dan cepat.",
+      "keywords": "Hailuo Image to Video, AI *image to video*, animasi gambar AI, alat animasi foto, konverter *image-to-video*, animasikan gambar ke video, video AI dari gambar"
+    },
+    "hero": {
+      "title": "Hailuo Image to Video",
+      "description": "Animasikan gambar Anda menjadi video yang memukau dengan animasi gambar AI dari Hailuo. Hidupkan karya seni, foto, dan ilustrasi secara instan."
+    },
+    "whatIs": {
+      "title": "Apa itu Hailuo Image to Video?",
+      "description": "Hailuo Image to Video (oleh MiniMax) adalah generator video AI mutakhir yang mengubah gambar statis menjadi klip video dinamis berdurasi 6-10 detik dengan kualitas sinematik. Terkenal karena sintesis gerakannya yang superior dan *output* 1080p, alat ini unggul dalam mempertahankan ekspresi wajah, menambahkan gerakan kamera alami, dan menciptakan transisi yang mulus. Alat Hailuo Image to Video kami memanfaatkan algoritma Video-01 canggih dari MiniMax—dioptimalkan untuk foto, seni digital, dan ilustrasi—untuk menganimasikan visual Anda dengan hasil berkelas profesional. Rasakan pembuatan kilat (di bawah 90 detik), konsistensi visual yang luar biasa, dan kontrol kreatif yang intuitif atas setiap urutan animasi."
+    },
+    "examples": {
+      "title": "Contoh Hailuo Image to Video",
+      "description": "Jelajahi animasi yang dibuat dengan Hailuo Image to Video. Lihat bagaimana gambar sederhana berubah menjadi klip video dinamis dengan gerakan realistis dan gaya sinematik!"
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Hailuo Image to Video",
+      "steps": [
+        {
+          "title": "Unggah Gambar Anda",
+          "content": "Pilih foto, ilustrasi, atau karya seni yang ingin Anda animasikan. Hailuo mendukung format JPG, PNG, dan WebP hingga 10 MB."
+        },
+        {
+          "title": "Tambahkan Prompt Animasi Anda",
+          "content": "Jelaskan gerakan yang Anda inginkan—*zoom* kamera, *pan*, gerakan karakter, atau efek ambien. Berikan detail seperti kecepatan, arah, atau suasana hati untuk hasil terbaik. (Contoh *prompt*: 'Kamera perlahan *zoom* mendekati wajah karakter', 'Pemandangan pegunungan dengan awan bergerak cepat')."
+        },
+        {
+          "title": "Buat Video Anda",
+          "content": "Klik “Animasi” dan biarkan algoritma AI *image-to-video* membuat video yang halus. Pratinjau klip Anda dan sesuaikan pengaturan apa pun sesuai kebutuhan."
+        },
+        {
+          "title": "Unduh & Bagikan",
+          "content": "Simpan *file* video resolusi tinggi Anda dan bagikan di media sosial, sematkan di proyek Anda, atau gunakan untuk kampanye pemasaran."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan Hailuo Image to Video?",
+      "description": "Temukan keuntungan menggunakan alat animasi gambar AI kami untuk mengubah gambar diam menjadi konten video yang menarik.",
+      "features": [
+        {
+          "title": "Animasi Gambar yang Mulus",
+          "content": "Ubah gambar statis apa pun menjadi video dinamis dengan efek gerakan berbasis AI—tidak diperlukan *keyframing* manual.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Konverter Bertenaga AI",
+          "content": "Manfaatkan jaringan saraf canggih yang dilatih pada jutaan *frame* untuk menghasilkan animasi realistis secara otomatis.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Alur Kerja yang Ramah Pengguna",
+          "content": "Tidak diperlukan keterampilan teknis atau animasi—cukup unggah, jelaskan efeknya, dan klik untuk membuat video Anda.",
+          "icon": "👌"
+        },
+        {
+          "title": "Perputaran Cepat",
+          "content": "Hasilkan klip video berkualitas tinggi dalam hitungan detik, mempercepat pembuatan konten dan mengurangi waktu produksi.",
+          "icon": "⚡"
+        },
+        {
+          "title": "*Output* Serbaguna",
+          "content": "Ekspor video dalam format HD yang siap untuk media sosial, situs web, presentasi, dan lainnya.",
+          "icon": "✨"
+        },
+        {
+          "title": "Tingkatkan *Engagement*",
+          "content": "Tarik perhatian dengan visual bergerak yang lebih menarik daripada gambar statis di *feed* media sosial dan materi pemasaran.",
+          "icon": "📈"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Hailuo Image to Video",
+      "description": "Temukan jawaban atas pertanyaan umum tentang penggunaan Hailuo Image to Video untuk animasi gambar yang mulus.",
+      "q1": "Format apa yang didukung oleh Hailuo Image to Video?",
+      "a1": "Hailuo menerima format gambar umum seperti JPG, PNG, dan WebP. Untuk hasil terbaik, gunakan gambar resolusi tinggi dengan detail yang jelas.",
+      "q2": "Berapa lama waktu yang dibutuhkan untuk membuat video?",
+      "a2": "Sebagian besar video siap dalam 5–10 detik, berkat pemrosesan AI yang dioptimalkan dan *server cloud*.",
+      "q3": "Bisakah saya menyesuaikan gaya animasi?",
+      "a3": "Ya, Anda dapat menentukan gerakan kamera (*pan*, *zoom*, *tilt*), kecepatan gerakan, dan efek seperti paralaks 3D atau gerakan karakter yang halus.",
+      "q4": "Apakah saya memerlukan pengalaman animasi?",
+      "a4": "Tidak. Antarmuka intuitif dan algoritma AI Hailuo membuat pembuatan video dapat diakses oleh siapa saja, mulai dari pemula hingga profesional.",
+      "q5": "Apakah video yang dihasilkan bebas royalti?",
+      "a5": "Semua video yang Anda buat dengan Hailuo diizinkan untuk penggunaan pribadi dan komersial sesuai dengan persyaratan layanan kami.",
+      "q6": "Bisakah saya menganimasikan beberapa gambar dalam satu proyek?",
+      "a6": "Tentu saja. Unggah serangkaian gambar untuk membuat video multi-adegan atau animasi *storyboard*.",
+      "q7": "Apakah ada batasan ukuran untuk unggahan?",
+      "a7": "Setiap gambar harus berukuran di bawah 10 MB. Untuk proyek yang lebih besar, optimalkan *file* Anda atau bagi menjadi *batch* yang lebih kecil.",
+      "q8": "Bagaimana cara saya memulai?",
+      "a8": "Cukup klik “Unggah,” pilih gambar Anda, tambahkan *prompt*, dan tekan “Animasi.” Semudah itu!"
+    }
+  },
+  "originalKeyword": "Hailuo Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Hailuo",
+      "description": "Prompt: A cute little rabbit with dragonfly wings flies in the blue sky.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/38.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Hailuo",
+      "description": "Prompt: A blue furry creature in the scene is constantly stirring a steaming pot of soup. Then, the blue creature blows on the pot, causing the soup in the bowl in front of it to freeze into a block of ice.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/26.webm"
+    },
+    {
+      "id": 3,
+      "title": "Model: Hailuo",
+      "description": "Prompt: In the scene, a small dog emits a blue light from its eyes. The messy clothes in front of the dog also begin to glow blue and slowly float into the air, folding neatly on their own before landing in front of the dog. Afterward, the blue light in the dog's eyes fades away.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/25.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Hailuo",
+      "description": "Prompt: A cat in the scene runs quickly toward the camera, with white electric sparks emanating from its eyes. Its entire body becomes surrounded by electricity as it runs faster and faster. The scenery on both sides rushes backward rapidly, creating motion blur that transforms into a glowing white time tunnel.",
+      "videoUrl": "/images/examples/image-animation-generator/hailuo/27.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "MINIMAX"
+}

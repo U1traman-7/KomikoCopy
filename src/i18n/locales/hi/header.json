@@ -1,0 +1,26 @@
+{
+  "logo_alt": "कोमिको लोगो",
+  "login_button": "लॉग इन करें",
+  "join_discord": "डिस्कॉर्ड से जुड़ें",
+  "modal": {
+    "create_account_or_signin": "खाता बनाएँ या साइन इन करें",
+    "sign_in": "साइन इन करें",
+    "trouble_signing_in": "साइन इन करने में समस्या?"
+  },
+  "promotion_offer": "सीमित समय के लिए पेशकश | वार्षिक योजना पर 50% तक की बचत करें! छूट <time>{{deadline}}</time> में समाप्त हो रही है",
+  "promotion_offer_mobile": "50% तक की बचत करें! छूट <time>{{deadline}}</time> में समाप्त हो रही है",
+  "promotion_offer_mobile_days": "50% तक की बचत करें! छूट <time>{{days}} दिन(दिनों)</time> में समाप्त हो जाएगी",
+  "promotion_offer_days": "सीमित समय के लिए ऑफर | वार्षिक योजना पर 50% तक की बचत करें! छूट <time>{{days}} दिन(दिनों)</time> में समाप्त हो जाएगी",
+  "new_user_promotion": {
+    "title": "नए उपयोगकर्ताओं के लिए विशेष प्रस्ताव | वार्षिक योजना पर 40% की छूट! समाप्ति समय: <time>{{deadline}}</time>",
+    "mobile_title": "वार्षिक योजना पर 40% की छूट! समाप्ति समय: <time>{{deadline}}</time>",
+    "mobile_days_title": "वार्षिक योजना पर 40% की छूट! समाप्ति समय: <time>{{days}} दिन</time>",
+    "days_title": "नए उपयोगकर्ताओं के लिए विशेष प्रस्ताव | वार्षिक योजना पर 40% की छूट! समाप्ति समय: <time>{{days}} दिन</time>"
+  },
+  "weekend_flash_promotion": {
+    "title": "वीकेंड फ्लैश सेल: वार्षिक योजना पर 30% की छूट! समाप्त हो रहा है <time>{{deadline}}</time>",
+    "mobile_title": "वार्षिक योजना पर 30% की छूट! समाप्त हो रहा है <time>{{deadline}}</time>",
+    "mobile_days_title": "वार्षिक योजना पर 30% की छूट! समाप्त हो रहा है <time>{{days}} दिन(s)</time>",
+    "days_title": "वीकेंड फ्लैश सेल: वार्षिक योजना पर 30% की छूट! समाप्त हो रहा है <time>{{days}} दिन(s)</time>"
+  }
+}

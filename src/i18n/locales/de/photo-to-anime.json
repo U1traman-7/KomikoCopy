@@ -1,0 +1,59 @@
+{
+  "ui": {
+    "styleModes": {
+      "templates": "Vorlagen",
+      "prompt": "Eingabeaufforderung",
+      "expression": "Ausdrucksweise"
+    },
+    "prompt": {
+      "placeholder": "Beschreiben Sie die gewünschte Stilumwandlung...",
+      "example": "Beispiel: \"Ersetze den Mann durch Naruto\", \"Verwandle dies in einen klassischen Anime-Stil der 90er Jahre\", \"Ziehe das Mädchen in ein Blumenkleid an\""
+    },
+    "characterInfo": "Charakterinformationen",
+    "selectCharacter": "Charakter auswählen",
+    "selectCharacterPlaceholder": "Wählen Sie Ihren Charakter aus...",
+    "characterName": "Charaktername",
+    "characterNamePlaceholder": "Geben Sie den Namen des Charakters ein...",
+    "occupation": "Beruf",
+    "occupationPlaceholder": "z.B.: Uber-Fahrer, Student, Detektiv...",
+    "language": "Sprache",
+    "characterInfoPlaceholder": "Geben Sie den Hintergrund, die Geschichte oder eine Beschreibung des Charakters ein...",
+    "input": {
+      "image": {
+        "title": "Bild"
+      }
+    },
+    "customInput": {
+      "hogwartsSorting": {
+        "q1": "Dein OC entdeckt im dunklen Wald eine geheimnisvolle Tür. Was tun sie?",
+        "a1_1": "Tretet sie ein. Was auch immer drinnen ist, soll sich besser gefasst machen.",
+        "a1_2": "Untersuche das Schloss zuerst. Man kann immer einen Weg hinein finden, ohne Gewalt anzuwenden.",
+        "a1_3": "Untersucht die Runen auf der Tür. Die Antwort liegt in den Symbolen verborgen.",
+        "a1_4": "Klopft höflich an. Man weiß nie, ob drinnen jemand Hilfe braucht.",
+        "q2": "Ein mächtiger Feind taucht auf! Wie kämpft dein Charakter?",
+        "a2_1": "Greift direkt an. Mut ist der Schlüssel zum Sieg.",
+        "a2_2": "Nutze ihre Schwäche aus. Strategie ist entscheidend für einen Sieg.",
+        "a2_3": "Analysiere ihr Muster zuerst. Wissen ist die ultimative Waffe.",
+        "a2_4": "Schütze die Verbündeten zuerst. Niemand sollte allein kämpfen.",
+        "q3": "Dein OC betritt einen Raum mit vier magischen Gegenständen. Welcher zieht sie an?",
+        "a3_1": "Ein flammendes Schwert, das heller leuchtet, wenn es der Angst begegnet.",
+        "a3_2": "Eine uralte Krone, die die wahren Absichten anderer offenbart.",
+        "a3_3": "Ein Buch, das alle vergessenen Geheimnisse der Welt enthält.",
+        "a3_4": "Ein Samen, der zu allem werden kann, was das Herz wirklich begehrt.",
+        "q4": "Dein Charakter hört ein gefährliches Geheimnis mit. Was tun sie?",
+        "a4_1": "Enthülle es sofort. Die Wahrheit muss ans Licht.",
+        "a4_2": "Behalte es für dich. Information ist Macht, wenn der Zeitpunkt stimmt.",
+        "a4_3": "Forsche weiter nach. Ein Bruchstück allein ist nicht das komplette Rätsel.",
+        "a4_4": "Erzähle es nur denen, die Schutz davor benötigen.",
+        "q5": "Ein magisches Wesen gewährt deinem OC einen Wunsch. Was wählen sie?",
+        "a5_1": "Die Kraft, all jene zu beschützen, die ich liebe.",
+        "a5_2": "Die Macht, meine größten Ambitionen zu verwirklichen.",
+        "a5_3": "Die Weisheit, alle Geheimnisse zu begreifen.",
+        "a5_4": "Die Fähigkeit, anderen Glück zu schenken."
+      }
+    }
+  },
+  "button": {
+    "convert": "Umwandeln"
+  }
+}

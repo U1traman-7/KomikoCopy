@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "AI Layer Splitter - KomikoAI",
+    "og": {
+      "title": "Layer Splitter - KomikoAI",
+      "description": "Use a IA para separar os componentes das suas imagens. Faça o upload da sua imagem e deixe que a IA separe automaticamente os diferentes elementos para animação e desenvolvimento de jogos.",
+      "url": "https://komiko.app/layer_splitter"
+    },
+    "twitter": {
+      "title": "Layer Splitter - KomikoAI",
+      "description": "Use a IA para separar os componentes das suas imagens. Faça o upload da sua imagem e deixe que a IA separe automaticamente os diferentes elementos para animação e desenvolvimento de jogos."
+    },
+    "description": "Use a IA para separar os componentes das suas imagens. Faça o upload da sua imagem e deixe que a IA separe automaticamente os diferentes elementos para animação e desenvolvimento de jogos."
+  },
+  "hero": {
+    "title": "Divisor de Camadas com IA",
+    "description": "Divida as suas imagens em camadas separadas com a IA. Envie uma única imagem e obtenha as camadas dos componentes individuais instantaneamente! A nossa IA poderosa analisa a sua arte e separa elementos como personagens, fundos, objetos e muito mais em camadas distintas. Perfeito para artistas, animadores e desenvolvedores de jogos que precisam de criar camadas prontas para animação."
+  },
+  "input": {
+    "title": "Entrada",
+    "upload": {
+      "label": "Carregar Imagem",
+      "tooltip": "Carregar imagem para o divisor de camadas"
+    }
+  },
+  "output": {
+    "title": "Resultados da Divisão",
+    "empty": {
+      "title": "Os seus resultados da divisão aparecerão aqui",
+      "subtitle": "Carregue uma imagem para começar"
+    }
+  },
+  "tutorial": {
+    "title": "Como Dividir a Sua Imagem com a IA",
+    "description": "Separe automaticamente as suas imagens em camadas individuais com o divisor de camadas de IA da KomikoAI em apenas alguns passos simples.",
+    "steps": {
+      "1": {
+        "title": "Passo 1: Carregar Imagem",
+        "content": "Carregue a sua imagem para o divisor de camadas de IA. Os formatos JPG e PNG são suportados."
+      },
+      "2": {
+        "title": "Passo 2: Dividir e Descarregar",
+        "content": "Clique em 'Dividir Imagem' e espere que a IA separe a sua imagem. Descarregue as camadas individuais para o seu projeto!"
+      }
+    }
+  },
+  "examples": {
+    "title": "Exemplos de Divisão de Camadas com IA",
+    "description": "Veja os resultados da divisão de camadas com IA gerados por utilizadores da KomikoAI",
+    "labels": {
+      "original": "Imagem Original",
+      "split": "Camada Dividida"
+    },
+    "captions": {
+      "1": "Camada de fundo separada do personagem",
+      "2": "Camada do personagem extraída da imagem de entrada",
+      "3": "Múltiplas camadas separadas de uma única imagem de entrada"
+    }
+  },
+  "features": {
+    "title": "Por que deve dividir as suas imagens com IA",
+    "description": "O AI Layer Splitter da KomikoAI facilita a separação de componentes de imagem para todos, desde iniciantes a artistas profissionais e desenvolvedores de jogos.",
+    "items": {
+      "precise": {
+        "title": "Separação Precisa",
+        "content": "A nossa IA deteta e separa com precisão diferentes elementos na sua imagem, criando camadas individuais limpas para cada componente."
+      },
+      "timeSaving": {
+        "title": "Poupança de Tempo",
+        "content": "Evite o processo manual e tedioso de seleção e mascaramento. Obtenha camadas separadas em segundos, em vez de horas de trabalho."
+      },
+      "flexible": {
+        "title": "Edição Flexível",
+        "content": "Edite componentes individuais separadamente e recombine-os para obter o máximo controlo criativo sobre as suas imagens."
+      },
+      "gameAssets": {
+        "title": "Criação de Recursos para Jogos",
+        "content": "Crie facilmente sprites e recursos de jogos separados a partir de imagens complexas. Perfeito para desenvolvedores de jogos que precisam de isolar personagens e objetos."
+      },
+      "animation": {
+        "title": "Pronto para Animação",
+        "content": "Obtenha camadas prontas para animação que podem ser importadas imediatamente para o seu software de animação favorito."
+      },
+      "quality": {
+        "title": "Saídas de Alta Qualidade",
+        "content": "Descarregue camadas divididas com qualidade profissional, perfeitas para projetos comerciais."
+      },
+      "workflow": {
+        "title": "Fluxo de Trabalho Otimizado",
+        "content": "Integre a divisão de camadas de IA perfeitamente no seu fluxo de trabalho de design, ilustração ou desenvolvimento de jogos para poupar tempo e recursos."
+      },
+      "background": {
+        "title": "Remoção de Fundo",
+        "content": "Separe facilmente assuntos de primeiro plano de fundos sem técnicas complexas de mascaramento ou telas verdes."
+      },
+      "creative": {
+        "title": "Liberdade Criativa",
+        "content": "Misture e combine elementos de diferentes imagens, primeiro dividindo-os em camadas de componentes. Crie novas composições com facilidade."
+      }
+    }
+  },
+  "faq": {
+    "title": "Perguntas Comuns Sobre a Divisão de Camadas com IA",
+    "description": "Encontre respostas para perguntas frequentes sobre como dividir imagens em camadas com IA.",
+    "questions": {
+      "1": {
+        "question": "O que é a divisão de camadas com IA?",
+        "answer": "A divisão de camadas com IA é um processo que usa inteligência artificial para separar automaticamente uma imagem em camadas de componentes individuais. A ferramenta de divisão de camadas com IA da KomikoAI analisa a sua arte e identifica diferentes elementos, como personagens, fundos e objetos, criando camadas separadas que podem ser editadas independentemente."
+      },
+      "2": {
+        "question": "Como dividir imagens em camadas com IA?",
+        "answer": "Pode dividir as suas imagens com a IA da KomikoAI em dois passos fáceis:\n1. Carregue a sua imagem para o divisor de camadas de IA\n2. Clique no botão 'Dividir Imagem' para iniciar o processo de divisão"
+      },
+      "3": {
+        "question": "Posso usar IA para separar elementos nas minhas imagens?",
+        "answer": "Sim, pode usar a IA para separar elementos nas suas imagens. A ferramenta de divisão de camadas com IA da KomikoAI pode analisar as suas imagens e identificar diferentes componentes, criando camadas individuais para cada elemento. Isso facilita a edição de partes específicas da sua imagem sem afetar toda a composição."
+      },
+      "4": {
+        "question": "Como funciona a divisão de camadas com IA?",
+        "answer": "A divisão de camadas com IA usa modelos avançados de aprendizagem profunda treinados em milhões de imagens para reconhecer diferentes elementos dentro de uma imagem. A IA analisa padrões, bordas, cores e contexto para determinar quais pixels pertencem a quais objetos e, em seguida, cria camadas separadas para cada componente identificado."
+      },
+      "5": {
+        "question": "Quais são os benefícios da divisão de camadas com IA?",
+        "answer": "Existem vários benefícios em dividir imagens com IA:\n- Poupa tempo em comparação com mascaramento e seleção manuais\n- Produz camadas limpas e de alta qualidade com deteção de borda precisa\n- Permite a edição fácil de componentes individuais\n- Perfeito para criar recursos de jogos e elementos de animação"
+      },
+      "6": {
+        "question": "Posso usar camadas divididas por IA para fins comerciais?",
+        "answer": "Sim, pode usar camadas divididas geradas por IA para fins pessoais e comerciais. Isso torna-o ideal para desenvolvimento de jogos, projetos de design e arte profissional. No entanto, certifique-se de cumprir os termos de serviço da KomikoAI."
+      },
+      "7": {
+        "question": "Quais formatos e tamanhos são suportados?",
+        "answer": "A IA suporta imagens nos formatos JPG e PNG. As camadas de saída manterão a resolução original da imagem para máxima qualidade."
+      },
+      "8": {
+        "question": "O divisor de camadas com IA é gratuito para usar?",
+        "answer": "A KomikoAI oferece zaps (créditos) gratuitos para experimentar a ferramenta. Também pode adquirir planos pagos para obter mais zaps, caso precise de mais uso, bem como recursos avançados, como processamento mais rápido e resoluções mais altas."
+      },
+      "9": {
+        "question": "Preciso de adicionar algum prompt para a divisão de camadas?",
+        "answer": "Ao contrário de algumas ferramentas de IA, o nosso divisor de camadas não exige prompts detalhados. A IA é treinada para identificar e separar inteligentemente os componentes da imagem automaticamente. Basta carregar a sua imagem e deixar que a IA faça o trabalho."
+      },
+      "10": {
+        "question": "Quais são as limitações da divisão de camadas com IA?",
+        "answer": "Embora a divisão de camadas com IA seja uma ferramenta poderosa, tem algumas limitações:\n- Cenas Complexas: Imagens muito ocupadas ou complexas podem resultar em alguns elementos a serem agrupados\n- Transparência: Alguns detalhes finos, como cabelo ou pele, podem ser difíceis de separar perfeitamente\n- Objetos Sobrepostos: Elementos que se sobrepõem significativamente podem ser difíceis de separar completamente\nApesar destas limitações, a divisão de camadas com IA pode acelerar significativamente os fluxos de trabalho para artistas, designers e desenvolvedores."
+      },
+      "11": {
+        "question": "Preciso de habilidades de design para usar a divisão de camadas com IA?",
+        "answer": "Não, não precisa de habilidades avançadas de design para usar a divisão de camadas com IA.\n- Para Designers: Se é um profissional, esta ferramenta pode acelerar drasticamente o seu fluxo de trabalho\n- Para Iniciantes: Pode separar facilmente elementos de imagem sem precisar de dominar técnicas de seleção complexas\nEsta ferramenta foi projetada para ser amigável para todos, seja um designer experiente ou apenas a começar."
+      },
+      "12": {
+        "question": "Que tipos de imagens funcionam melhor com a divisão de camadas com IA?",
+        "answer": "O divisor de camadas com IA funciona bem com vários tipos de imagens:\n- Recursos de jogos e designs de personagens\n- Ilustrações e obras de arte\n- Fotos com elementos distintos de primeiro plano e fundo\n- Imagens de produtos\n- Imagens de estilo cartoon e anime\n- Arte digital com componentes claros\nPara obter melhores resultados, use imagens com bom contraste entre diferentes elementos."
+      },
+      "13": {
+        "question": "Como posso obter os melhores resultados da divisão de camadas com IA?",
+        "answer": "Siga estas dicas para uma separação de camada ideal:\n- Use imagens com bom contraste entre os elementos\n- Certifique-se de que a sua imagem tenha resolução suficiente\n- Imagens com limites claros entre os elementos funcionam melhor\n- Evite cenas extremamente confusas ou complexas, quando possível\n- Use o formato PNG para obter os melhores resultados de qualidade"
+      },
+      "14": {
+        "question": "Como a divisão de camadas com IA se compara à separação manual?",
+        "answer": "A divisão de camadas com IA oferece uma poupança de tempo significativa em comparação com mascaramento e seleção manuais, reduzindo horas de trabalho para minutos. Embora possa não substituir totalmente as técnicas profissionais para os projetos mais complexos, é uma excelente ferramenta para criação rápida de ativos, desenvolvimento de jogos e fluxos de trabalho de design. A IA entende os limites dos objetos e pode criar separações limpas que levariam tempo e habilidade consideráveis para serem alcançadas manualmente."
+      },
+      "15": {
+        "question": "Posso editar as camadas divididas por IA?",
+        "answer": "Sim, pode editar e refinar ainda mais as camadas geradas por IA usando o seu software de design preferido. As camadas geradas por IA servem como um excelente ponto de partida que pode aprimorar com detalhes ou correções adicionais, conforme necessário."
+      },
+      "16": {
+        "question": "Quais são algumas maneiras criativas de usar a divisão de camadas com IA?",
+        "answer": "A divisão de camadas com IA pode ser usada para:\n- Desenvolvimento de jogos - criação de sprites de personagens e fundos separados\n- Animação - preparação de elementos para gráficos em movimento\n- Design gráfico - isolamento de componentes para composição criativa\n- Edição de fotos - separação de objetos de fundos\n- Design de UI/UX - criação de elementos de interface em camadas\n- Arte digital - preparação de obras de arte para efeitos dinâmicos"
+      },
+      "17": {
+        "question": "Quão precisa é a tecnologia de divisão de camadas com IA?",
+        "answer": "O divisor de camadas com IA da KomikoAI usa tecnologia de visão computacional de última geração para identificar e separar com precisão os componentes da imagem. A tecnologia é particularmente eficaz com imagens que possuem elementos distintos e bom contraste. Embora nenhum sistema de IA seja perfeito, a nossa tecnologia oferece resultados de qualidade profissional para os casos de uso mais comuns, poupando tempo significativo em comparação com os processos manuais."
+      },
+      "18": {
+        "question": "Posso usar a divisão de camadas com IA para projetos de animação?",
+        "answer": "Sim, a divisão de camadas com IA é perfeita para projetos de animação:\n- Separe facilmente personagens de fundos para animação independente\n- Crie partes móveis como membros, características faciais ou objetos\n- Prepare obras de arte existentes para animação sem começar do zero\n- Gere arquivos em camadas prontos para importação em software de animação\nEssa capacidade é especialmente valiosa para animadores que desejam dar vida a obras de arte estáticas ou agilizar o seu pipeline de produção."
+      }
+    }
+  },
+  "delete": {
+    "title": "Confirmação de Eliminação",
+    "message": "Tem a certeza de que deseja eliminar este vídeo? Esta ação não pode ser desfeita.",
+    "cancel": "Cancelar",
+    "confirm": "Eliminar"
+  },
+  "buttons": {
+    "split": "Dividir Imagem"
+  },
+  "errors": {
+    "noZaps": "Por favor, compre mais zaps",
+    "splitFailed": "Falha ao dividir a imagem",
+    "splitSuccess": "Imagem dividida com sucesso",
+    "deleteSuccess": "Eliminação bem-sucedida",
+    "deleteFailed": "Falha ao eliminar",
+    "downloadFailed": "Falha ao descarregar"
+  }
+}

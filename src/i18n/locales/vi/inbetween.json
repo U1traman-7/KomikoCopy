@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "AI Tạo Khung Trung Gian - KomikoAI",
+    "description": "Chuyển đổi hình ảnh tĩnh thành hoạt ảnh mượt mà với công nghệ tạo khung trung gian AI của KomikoAI. AI tạo tweening tiên tiến của chúng tôi tự động tạo các khung hình trung gian, giúp hoạt ảnh trở nên nhanh chóng và hiệu quả hơn. Hoàn hảo cho nghệ sĩ, nhà làm phim hoạt hình và nhà sáng tạo nội dung.",
+    "keywords": "KomikoAI AI, hoạt ảnh AI, tạo khung trung gian, AI tweening, trình tạo hoạt ảnh, trình tạo khung AI, hoạt ảnh kỹ thuật số, phần mềm hoạt ảnh"
+  },
+  "title": "AI Tạo Khung Trung Gian",
+  "description": "Biến hình ảnh tĩnh thành hoạt ảnh mượt mà với AI tạo khung trung gian. AI tạo tweening tiên tiến của chúng tôi tự động tạo khung hình giữa các khung hình chính, giúp việc tạo hoạt ảnh trở nên nhanh chóng và hiệu quả hơn. Dù bạn đang tạo hoạt ảnh nhân vật, đồ họa chuyển động hay nghệ thuật kỹ thuật số, trình tạo khung trung gian AI của chúng tôi đều mang lại kết quả chuyên nghiệp. Trải nghiệm tương lai của hoạt ảnh với công cụ tạo khung trung gian hiện đại của KomikoAI - hoàn hảo cho các nghệ sĩ, nhà làm phim hoạt hình và nhà sáng tạo nội dung muốn tối ưu hóa quy trình làm việc của mình.",
+  "inputImages": {
+    "title": "Hình Ảnh Đầu Vào",
+    "imageLabel": "Hình Ảnh"
+  },
+  "prompt": {
+    "label": "Lời Nhắc",
+    "placeholder": "Nhập lời nhắc của bạn vào đây... hành động, v.v."
+  },
+  "button": {
+    "submit": "Tạo Khung Trung Gian"
+  },
+  "results": {
+    "title": "Kết Quả Video",
+    "empty": "Kết quả sẽ được hiển thị ở đây"
+  },
+  "deleteModal": {
+    "title": "Xác Nhận Xóa",
+    "message": "Bạn có chắc chắn muốn xóa video này không? Hành động này không thể hoàn tác.",
+    "cancel": "Hủy",
+    "delete": "Xóa"
+  },
+  "toasts": {
+    "removeInput": "Xóa đầu vào thành công",
+    "addInput": "Thêm đầu vào thành công",
+    "createSuccess": "Tạo video thành công",
+    "createFailed": "Tạo video thất bại",
+    "deleteSuccess": "Xóa thành công",
+    "deleteFailed": "Xóa thất bại",
+    "downloadFailed": "Tải xuống thất bại",
+    "fetchFailed": "Tìm nạp video thất bại",
+    "noZaps": "Vui lòng mua thêm zaps",
+    "noZapsError": "Không có zaps"
+  },
+  "sections": {
+    "whatIs": {
+      "title": "Tạo Khung Trung Gian Là Gì",
+      "description": "Tạo khung trung gian là kỹ thuật được sử dụng trong hoạt ảnh để tạo ra các chuyển đổi mượt mà giữa các khung hình chính. Đây là một yếu tố quan trọng để tạo ra hoạt ảnh mượt mà và chân thực. AI tạo khung trung gian là một công nghệ hoạt hình tiên tiến, sử dụng trí tuệ nhân tạo để tự động tạo ra các chuyển đổi mượt mà giữa các khung hình chính. Kỹ thuật mang tính cách mạng này giúp tạo ra các hoạt ảnh mượt mà bằng cách điền một cách thông minh vào các khung hình trung gian giữa các tư thế chính của bạn, giúp cho việc tạo hoạt ảnh trở nên nhanh chóng và dễ dàng hơn bao giờ hết."
+    },
+    "howTo": {
+      "title": "Cách Tạo Hoạt Ảnh với AI Tạo Khung Trung Gian",
+      "description": "Biến hình ảnh tĩnh của bạn thành hoạt ảnh mượt mà chỉ trong vài phút với công nghệ AI tạo khung trung gian tiên tiến của chúng tôi. Thực hiện theo các bước đơn giản sau để mang tác phẩm nghệ thuật của bạn vào cuộc sống.",
+      "steps": [
+        {
+          "title": "Bước 1: Tải Lên Các Khung Hình Chính",
+          "content": "Tải lên 2-5 hình ảnh khung hình chính đại diện cho các tư thế hoặc vị trí chính trong hoạt ảnh của bạn."
+        },
+        {
+          "title": "Bước 2: Nhập Lời Nhắc",
+          "content": "Thêm một lời nhắc tùy chọn để hướng dẫn phong cách và chuyển động của hoạt ảnh."
+        },
+        {
+          "title": "Bước 3: Tạo Hoạt Ảnh",
+          "content": "Nhấp vào 'Tạo Khung Trung Gian' để AI tạo ra các chuyển đổi mượt mà giữa các khung hình chính của bạn."
+        },
+        {
+          "title": "Bước 4: Tải Xuống Hoạt Ảnh",
+          "content": "Tải xuống hoạt ảnh đã hoàn thành của bạn ở định dạng MP4 và chia sẻ nó!"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Ví Dụ Về AI Tạo Khung Trung Gian",
+      "description": "Xem kết quả AI tạo khung trung gian được tạo bởi người dùng KomikoAI",
+      "input1": "Hình Ảnh Đầu Vào 1: Khung Bắt Đầu",
+      "input2": "Hình Ảnh Đầu Vào 2: Khung Kết Thúc",
+      "output": "Đầu Ra: Video Đã Xử Lý"
+    },
+    "whyChoose": {
+      "title": "Tại Sao Chọn KomikoAI AI cho Hoạt Ảnh Tạo Khung Trung Gian",
+      "description": "Thay đổi quy trình làm việc hoạt ảnh của bạn với công cụ tạo khung trung gian AI của KomikoAI. AI tạo tweening của chúng tôi tự động tạo khung giữa hai khung hình, cách mạng hóa cách các nhà làm phim hoạt hình làm việc bằng cách tạo ra các chuyển đổi mượt mà giữa các khung hình chính.",
+      "features": [
+        {
+          "title": "Công Nghệ AI Tạo Khung Trung Gian Tiên Tiến",
+          "content": "Trải nghiệm AI tạo tweening hiện đại, tự động tạo khung giữa hai khung hình. Trình tạo khung trung gian AI của chúng tôi đảm bảo các chuyển đổi mượt mà, tự nhiên cho hoạt ảnh của bạn."
+        },
+        {
+          "title": "Tạo Hoạt Ảnh Nhanh Chóng",
+          "content": "Những việc trước đây mất hàng giờ để tạo khung trung gian thủ công, giờ đây có thể được hoàn thành chỉ trong vài phút. Hãy để KomikoAI AI xử lý việc tạo khung giữa hai khung hình trong khi bạn tập trung vào các tư thế chính."
+        },
+        {
+          "title": "Chất Lượng Hoạt Ảnh Chuyên Nghiệp",
+          "content": "Tạo hoạt ảnh chất lượng phòng thu với công nghệ AI tạo khung trung gian của chúng tôi. AI tạo tweening của KomikoAI đảm bảo chuyển động nhất quán và các chuyển đổi mượt mà đáp ứng các tiêu chuẩn hoạt ảnh chuyên nghiệp."
+        },
+        {
+          "title": "Tạo Khung Trung Gian Tùy Chỉnh",
+          "content": "Hướng dẫn việc tạo khung trung gian AI của bạn bằng các lời nhắc tùy chỉnh. Tinh chỉnh phong cách chuyển động và biểu cảm nhân vật để đạt được kết quả hoạt ảnh mong muốn với AI tạo tweening của chúng tôi."
+        },
+        {
+          "title": "Các Công Cụ Hoạt Ảnh Dễ Tiếp Cận",
+          "content": "Cho dù bạn là người mới bắt đầu làm hoạt ảnh hay một chuyên gia dày dặn kinh nghiệm, KomikoAI AI giúp mọi người có thể tiếp cận hoạt ảnh tạo khung trung gian. Trình tạo khung trung gian AI của chúng tôi đơn giản hóa quy trình hoạt ảnh."
+        },
+        {
+          "title": "Quy Trình Làm Việc Hoạt Ảnh Hiệu Quả",
+          "content": "Hợp lý hóa quy trình sản xuất hoạt ảnh của bạn với các công cụ AI tạo khung trung gian của chúng tôi. Nhanh chóng tạo nguyên mẫu hoạt ảnh, kiểm tra chuyển động và tạo các chuyển đổi mượt mà giữa các khung hình chính bằng cách sử dụng AI tạo tweening của KomikoAI."
+        }
+      ]
+    },
+    "faqSection": {
+      "title": "Câu Hỏi Thường Gặp về Tạo Khung Trung Gian: Mọi Thứ Bạn Cần Biết",
+      "description": "Tìm hiểu cách công cụ AI tạo khung trung gian của chúng tôi hoạt động, khám phá các phương pháp hay nhất và tìm câu trả lời cho các câu hỏi thường gặp về việc tạo hoạt ảnh chuyên nghiệp với trí tuệ nhân tạo."
+    }
+  },
+  "faq": {
+    "question1": "AI tạo khung trung gian của KomikoAI hoạt động như thế nào?",
+    "answer1": {
+      "intro": "Trình tạo khung trung gian AI của KomikoAI hoạt động trong ba bước đơn giản:",
+      "step1": "Tải lên 2-5 hình ảnh khung hình chính đại diện cho các tư thế chính của bạn",
+      "step2": "Thêm một lời nhắc tùy chọn để hướng dẫn phong cách hoạt ảnh",
+      "step3": "Hãy để AI tiên tiến của chúng tôi phân tích các khung hình chính và tự động tạo khung giữa hai khung hình",
+      "step4": "Hệ thống sử dụng máy học hiện đại để hiểu chuyển động và tạo ra các chuyển đổi tự nhiên."
+    },
+    "question2": "Những lợi ích của việc sử dụng AI để tạo hoạt ảnh khung trung gian là gì?",
+    "answer2": {
+      "intro": "Sử dụng AI để tạo khung giữa hai khung hình mang lại nhiều lợi thế:",
+      "benefit1": "Giảm đáng kể thời gian hoạt ảnh so với các phương pháp khung hình theo khung hình truyền thống",
+      "benefit2": "Tự động tạo khung trung gian chất lượng chuyên nghiệp",
+      "benefit3": "Hoàn hảo cho cả người mới bắt đầu và nhà làm phim hoạt hình chuyên nghiệp",
+      "benefit4": "Loại bỏ công việc tạo khung trung gian thủ công tẻ nhạt",
+      "benefit5": "Cho phép lặp lại và thử nghiệm nhanh chóng trong hoạt ảnh"
+    },
+    "question3": "Những loại tệp nào hoạt động với công cụ AI tạo khung trung gian của KomikoAI?",
+    "answer3": {
+      "intro": "Trình tạo khung trung gian AI của chúng tôi hỗ trợ:",
+      "format1": "Các định dạng hình ảnh phổ biến: JPG và PNG",
+      "format2": "Độ phân giải tối ưu: 512x512 pixel",
+      "format3": "Kích thước tệp tối đa: 5MB trên mỗi hình ảnh",
+      "format4": "Phạm vi khung hình chính: 2-5 hình ảnh để có kết quả tốt nhất"
+    },
+    "question4": "Công cụ AI tạo khung trung gian của KomikoAI có được sử dụng miễn phí không?",
+    "answer4": "KomikoAI cung cấp zaps (tín dụng) miễn phí để bạn dùng thử công cụ tạo khung trung gian hoạt ảnh AI của chúng tôi. Để sử dụng rộng rãi hơn và các tính năng nâng cao, hãy xem các gói trả phí của chúng tôi, bao gồm xử lý nhanh hơn và đầu ra độ phân giải cao hơn.",
+    "question5": "Làm cách nào để có được kết quả tốt nhất với AI tạo khung trung gian?",
+    "answer5": {
+      "intro": "Để tạo khung trung gian AI tối ưu:",
+      "tip1": "Duy trì phong cách nghệ thuật nhất quán trên các khung hình chính",
+      "tip2": "Giữ ánh sáng và bố cục tương đồng",
+      "tip3": "Đảm bảo vị trí nhân vật hợp lý giữa các khung hình",
+      "tip4": "Sử dụng lời nhắc rõ ràng, mô tả",
+      "tip5": "Bắt đầu với các chuyển động đơn giản trước khi thử các hoạt ảnh phức tạp"
+    },
+    "question6": "Những hạn chế hiện tại của AI tạo khung trung gian là gì?",
+    "answer6": {
+      "intro": "Mặc dù AI tạo tweening của chúng tôi rất mạnh mẽ, nhưng vẫn có một số hạn chế nhất định:",
+      "limit1": "Tối đa 5 khung hình chính trên mỗi chuỗi hoạt ảnh",
+      "limit2": "Các chuyển động rất phức tạp hoặc cực đoan có thể yêu cầu điều chỉnh thủ công",
+      "limit3": "Tính nhất quán về phong cách giữa các khung hình là quan trọng để có kết quả tốt nhất",
+      "limit4": "Thời gian xử lý tăng lên khi có nhiều khung hình chính hơn"
+    },
+    "question7": "Tôi có thể sử dụng hoạt ảnh do AI tạo ra của KomikoAI cho mục đích thương mại không?",
+    "answer7": "Có, bạn có thể sử dụng hoạt ảnh được tạo bằng công cụ AI tạo khung trung gian của chúng tôi cho cả dự án cá nhân và thương mại, tuân theo các điều khoản dịch vụ của KomikoAI. Công cụ của chúng tôi là hoàn hảo để tạo hoạt ảnh chuyên nghiệp một cách hiệu quả."
+  }
+}

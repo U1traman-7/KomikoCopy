@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI 贴纸生成器",
+      "description": "使用我们的 AI 贴纸生成器，将您的照片转化为精美的贴纸艺术作品。风格独特，效果快速——立即免费体验！",
+      "keywords": "AI 贴纸生成器, AI 图像贴纸创作, 照片转贴纸, 贴纸艺术工具, 自定义 AI 贴纸"
+    },
+    "hero": {
+      "title": "AI 贴纸生成器"
+    },
+    "whatIs": {
+      "title": "什么是 AI 贴纸生成器？",
+      "description": "AI 贴纸生成器是一个创新平台，可以将您的照片转换成引人注目的贴纸风格图像。它非常适合平面设计师和普通用户，提供简洁易用的界面，让您探索各种艺术风格，并定制图像效果。体验 AI 的强大转化能力，将普通照片重塑为非凡的贴纸艺术，适用于数字平台和印刷品。"
+    },
+    "examples": {
+      "title": "AI 贴纸生成器的精美示例",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "如何使用 AI 贴纸生成器",
+      "steps": [
+        {
+          "title": "步骤 1：上传您的照片",
+          "content": "请上传清晰的 JPG、PNG 或 WEBP 格式的照片，以获得最佳转换效果。"
+        },
+        {
+          "title": "步骤 2：选择贴纸模板",
+          "content": "选择您喜欢的贴纸模板，将照片转换成对应的贴纸风格。"
+        },
+        {
+          "title": "步骤 3：转换为贴纸",
+          "content": "点击“转换为贴纸”，让我们的 AI 在瞬间生成您图像的精美贴纸版本。"
+        },
+        {
+          "title": "步骤 4：下载或分享",
+          "content": "下载您新创建的贴纸，或直接在社交媒体上分享——轻松创作艺术作品！"
+        }
+      ],
+      "subtitle": "按照以下步骤，将您的照片转化为精美的贴纸艺术。"
+    },
+    "benefits": {
+      "title": "为什么要选择 AI 贴纸生成器？",
+      "description": "了解我们的工具为艺术家和创作者提供的独特功能。",
+      "features": [
+        {
+          "title": "🎨 自定义贴纸风格",
+          "content": "享受各种艺术风格，为您的照片注入活力，满足从奇思妙想到精致优雅的各种创意需求。"
+        },
+        {
+          "title": "⚡ 快速艺术生成",
+          "content": "我们的 AI 实时生成令人惊叹的结果，使其成为快速设计和迭代的理想选择。"
+        },
+        {
+          "title": "🖼️ 轻松导航",
+          "content": "轻松浏览生成器，专为各种技能水平的用户设计，以便创作精美的贴纸艺术。"
+        },
+        {
+          "title": "💫 值得信赖的品质",
+          "content": "期待获得可用于在线展示和打印的高分辨率贴纸艺术作品，确保您的所有作品都脱颖而出。"
+        },
+        {
+          "title": "🎯 多功能创作",
+          "content": "非常适合个人项目、创建营销材料或独特的礼物，AI 贴纸生成器能够满足您的需求！"
+        },
+        {
+          "title": "🚀 便捷的共享选项",
+          "content": "以所需的格式下载，轻松共享或集成到您的项目中，无需复杂操作。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI 贴纸生成器 FAQ",
+      "description": "",
+      "q1": "什么是 AI 贴纸生成器？它是如何工作的？",
+      "a1": "AI 贴纸生成器采用先进的算法来分析您的图像，并应用独特的艺术风格，将其重构为精美的贴纸形式，并保留图像的基本特征。",
+      "q2": "如何使用 AI 贴纸生成器获得最佳效果？",
+      "a2": "为了获得最佳转换效果，请使用高对比度、清晰的图像，并探索我们多样化的贴纸风格，每种风格都具有独特的效果。",
+      "q3": "AI 贴纸生成器可以免费使用吗？",
+      "a3": "是的！您可以从免费试用开始，探索其令人惊叹的功能，并创建您的初始贴纸转换作品。",
+      "q4": "AI 贴纸生成器的输出与典型的滤镜有何不同？",
+      "a4": "当然不同！我们的 AI 以选定的风格完全重建您的图像，从而生成独特的贴纸艺术作品，同时保留原始照片的精髓。",
+      "q5": "我可以将生成的贴纸用于商业目的吗？",
+      "a5": "是的，您可以按照我们的许可指南将您的作品用于商业活动——创作艺术作品并创造收入！"
+    },
+    "cta": {
+      "title": "立即开始使用 AI 贴纸生成器进行创作",
+      "description": "不要犹豫——立即使用 AI 贴纸生成器释放您的艺术潜力！将您的照片转换为独特的贴纸艺术，并沉浸在无限的创造力中。",
+      "buttonText": "免费创作 AI 贴纸艺术"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform a photo into unique sticker art",
+  "originalKeyword": "AI Sticker Generator",
+  "examples": [
+    {
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "image": "/images/examples/playground/ai-sticker-generator/example_1.webp",
+      "prompt": "ai-sticker-generator style transformation example 1 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_2.webp",
+      "prompt": "ai-sticker-generator style transformation example 2 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_3.webp",
+      "prompt": "ai-sticker-generator style transformation example 3 (chibi style)"
+    },
+    {
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "image": "/images/examples/playground/ai-sticker-generator/example_4.webp",
+      "prompt": "ai-sticker-generator style transformation example 4 (chibi style)"
+    }
+  ]
+}

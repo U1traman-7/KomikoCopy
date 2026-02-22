@@ -1,0 +1,59 @@
+{
+  "ui": {
+    "styleModes": {
+      "templates": "Modelos",
+      "prompt": "Comando",
+      "expression": "Expressões"
+    },
+    "prompt": {
+      "placeholder": "Descreva a transformação de estilo desejada...",
+      "example": "Exemplo: \"Substitua o homem por Naruto\", \"Transforme isso em um estilo clássico de anime dos anos 90\", \"Vista a garota com um vestido floral\""
+    },
+    "characterInfo": "Informações do Personagem",
+    "selectCharacter": "Selecionar Personagem",
+    "selectCharacterPlaceholder": "Escolha entre seus personagens...",
+    "characterName": "Nome do Personagem",
+    "characterNamePlaceholder": "Digite o nome do personagem...",
+    "occupation": "Profissão",
+    "occupationPlaceholder": "ex.: Motorista de Uber, Estudante, Detetive...",
+    "language": "Idioma",
+    "characterInfoPlaceholder": "Insira o histórico, história ou descrição do personagem...",
+    "input": {
+      "image": {
+        "title": "Imagem"
+      }
+    },
+    "customInput": {
+      "hogwartsSorting": {
+        "q1": "Seu personagem se depara com uma porta misteriosa em uma floresta escura. O que ele faz?",
+        "a1_1": "Tenta abrir com um chute. Seja o que for que esteja lá dentro, é melhor estar preparado.",
+        "a1_2": "Examina a fechadura primeiro. Sempre há um jeito de entrar sem força bruta.",
+        "a1_3": "Estuda as runas na porta. A resposta está nos símbolos.",
+        "a1_4": "Bate educadamente. Nunca se sabe quem pode precisar de ajuda lá dentro.",
+        "q2": "Um inimigo poderoso aparece! Como seu personagem luta?",
+        "a2_1": "Ataque frontal. A coragem vence batalhas.",
+        "a2_2": "Ataca o ponto fraco do inimigo. A vitória requer estratégia.",
+        "a2_3": "Analisa o padrão primeiro. Conhecimento é a arma suprema.",
+        "a2_4": "Protege os aliados primeiro. Ninguém luta sozinho.",
+        "q3": "Seu personagem entra em uma sala com quatro itens mágicos. Qual deles chama sua atenção?",
+        "a3_1": "Uma espada flamejante que brilha mais forte diante do medo.",
+        "a3_2": "Uma coroa antiga que revela as verdadeiras intenções dos outros.",
+        "a3_3": "Um livro contendo todos os segredos esquecidos do mundo.",
+        "a3_4": "Uma semente que pode crescer em qualquer coisa que o coração realmente desejar.",
+        "q4": "Seu personagem ouve um segredo perigoso. O que ele faz?",
+        "a4_1": "Expõe imediatamente. A verdade deve ser conhecida.",
+        "a4_2": "Guarda o segredo. Informação é poder para o momento certo.",
+        "a4_3": "Investiga mais. Uma peça não é todo o quebra-cabeça.",
+        "a4_4": "Conta apenas para aqueles que precisam de proteção contra isso.",
+        "q5": "Um ser mágico concede um desejo ao seu personagem. O que ele escolhe?",
+        "a5_1": "A força para proteger todos que ama.",
+        "a5_2": "O poder para alcançar suas maiores ambições.",
+        "a5_3": "A sabedoria para entender todos os mistérios.",
+        "a5_4": "A capacidade de trazer felicidade aos outros."
+      }
+    }
+  },
+  "button": {
+    "convert": "Converter"
+  }
+}

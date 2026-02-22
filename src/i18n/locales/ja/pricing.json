@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "title": "料金プラン | KomikoAI – AIアニメジェネレーター | コミック・マンガ・アニメをAIで制作",
+    "description": "KomikoAIのAI搭載ツールで、コミック・マンファ・マンガ・アニメ制作を楽しむための最適なプランを選ぼう。あなたの創作スタイルに合わせてプランをお選びいただけます。"
+  },
+  "page": {
+    "title": "KomikoAIのプランを選ぶ",
+    "zapPacksTitle": "ザップパック",
+    "description": "自分にぴったりのプランを選んで、今日から制作を始めましょう。KomikoAIは、キャラクター・イラスト・アニメ・コミック制作に必要なAIツールがすべてそろっています。新規ユーザーには 500 Zaps を無料プレゼント！",
+    "zapPacksDescription": "サブスクリプションなしでZapsを追加したい場合、単発購入のZapパックで必要な分だけあなたのアイディアを形にできます。",
+    "monthly": "月額",
+    "annual": "年額",
+    "save": "17％お得",
+    "faq": "よくある質問",
+    "one_time_pack": "単発Zapパック",
+    "upgrade_plan": "プランをアップグレード",
+    "save50": "50%割引",
+    "join_now": "50%割引！KomikoAIに参加して新年の雰囲気やお祭りの驚きを楽しもう！オファーは1月6日で終了します！",
+    "save_amount": "{{amount}}%節約する"
+  },
+  "plans": {
+    "free": {
+      "name": "無料プラン",
+      "price": "$0",
+      "zaps": "タスククリアでZapsを獲得",
+      "description": "お試し＆ライトユーザー向け",
+      "includes": [
+        "タスク達成でZapsを獲得",
+        "最大50枚の画像生成"
+      ]
+    },
+    "starter": {
+      "name": "スターター",
+      "price": {
+        "monthly": "$9.99",
+        "annual": "$99.90"
+      },
+      "zaps": "5,000 Zaps/月",
+      "description": "AIで遊びたいクリエイター向け",
+      "includes": [
+        "毎日チェックインボーナス: 100 Zaps",
+        "画像は最大800枚、または動画は最大40本",
+        "3本まで同時動画生成",
+        "ウォーターマークなし",
+        "複数の参考画像をサポート"
+      ]
+    },
+    "plus": {
+      "name": "プラス",
+      "price": {
+        "monthly": "$19.99",
+        "annual": "$199.90"
+      },
+      "zaps": "15,000 Zaps/月",
+      "description": "本格的に作りたいクリエイター向け",
+      "includes": [
+        "毎日チェックインボーナス: 120 Zaps",
+        "画像は最大1,860枚、または動画は最大93本",
+        "5本まで同時動画生成",
+        "Starterのすべての内容",
+        "新機能への先行アクセス"
+      ]
+    },
+    "premium": {
+      "name": "プレミアム",
+      "price": {
+        "monthly": "$49.99",
+        "annual": "$499.90"
+      },
+      "zaps": "50,000 Zaps/月",
+      "description": "プロ・スタジオ向け",
+      "includes": [
+        "毎日チェックインボーナス: 160 Zaps",
+        "画像は最大5,480枚、または動画は最大274本",
+        "10本まで同時動画生成",
+        "Plusのすべての内容"
+      ],
+      "popular": "一番人気"
+    },
+    "enterprise": {
+      "name": "エンタープライズ",
+      "price": "要相談",
+      "zaps": "要相談",
+      "description": "スタジオ・企業向け",
+      "includes": [
+        "ご利用量に合わせたカスタムZaps",
+        "専用機能と制限のカスタマイズ",
+        "優先サポート",
+        "その他もろもろ…"
+      ]
+    }
+  },
+  "buttons": {
+    "upgrade": "アップグレード",
+    "downgrade": "ダウングレード",
+    "currentPlan": "現在のプラン",
+    "contactSales": "営業に問い合わせる",
+    "cancelSubscription": "サブスクリプションを解約",
+    "doNotCancel": "解約しない",
+    "takeMeBack": "元の画面に戻る",
+    "buyNow": "今すぐ購入",
+    "manageSubscription": "サブスクリプションを管理"
+  },
+  "labels": {
+    "active": "有効",
+    "perMonth": "/月",
+    "billedAnnually": "年額一括払い：{{price}}",
+    "oneTimePurchase": "買い切り",
+    "subscriberBonuses": "サブスク特典:",
+    "bonusZaps": "{{amount}} Zaps ボーナス"
+  },
+  "zapPacks": {
+    "medium": "スモールZapバンドル",
+    "large": "ラージZapバンドル",
+    "packs": [
+      {
+        "name": "800ザップ",
+        "price": "$0.99",
+        "label": "oneTimeOffer",
+        "bonuses": [
+          {
+            "plan": "スターター",
+            "amount": "100"
+          },
+          {
+            "plan": "プラス",
+            "amount": "200"
+          },
+          {
+            "plan": "プレミアム",
+            "amount": "500"
+          }
+        ]
+      },
+      {
+        "name": "2,000ザップ",
+        "price": "$4.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "スターター",
+            "amount": "300"
+          },
+          {
+            "plan": "プラス",
+            "amount": "1,700"
+          },
+          {
+            "plan": "プレミアム",
+            "amount": "3,000"
+          }
+        ]
+      },
+      {
+        "name": "9,000ザップ",
+        "price": "$19.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "スターター",
+            "amount": "1,000"
+          },
+          {
+            "plan": "プラス",
+            "amount": "6,000"
+          },
+          {
+            "plan": "プレミアム",
+            "amount": "11,000"
+          }
+        ]
+      },
+      {
+        "name": "20,000ザップ",
+        "price": "$39.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "スターター",
+            "amount": "1,000"
+          },
+          {
+            "plan": "プラス",
+            "amount": "10,000"
+          },
+          {
+            "plan": "プレミアム",
+            "amount": "20,000"
+          }
+        ]
+      },
+      {
+        "name": "52,500ザップ",
+        "price": "$99.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "スターター",
+            "amount": "2,500"
+          },
+          {
+            "plan": "プラス",
+            "amount": "22,000"
+          },
+          {
+            "plan": "プレミアム",
+            "amount": "47,000"
+          }
+        ]
+      },
+      {
+        "name": "221,500ザップ",
+        "price": "$399.99",
+        "label": "oneTimePurchase",
+        "bonuses": [
+          {
+            "plan": "スターター",
+            "amount": "9,800"
+          },
+          {
+            "plan": "プラス",
+            "amount": "78,000"
+          },
+          {
+            "plan": "プレミアム",
+            "amount": "178,000"
+          }
+        ]
+      }
+    ],
+    "title": "KomikoAI ザップパック",
+    "subtitle": "サブスクリプションなしでザップがもっと必要ですか？ 創造性を高めるために、一度限りのザップパックを購入しましょう。",
+    "subscriberBonuses": "加入者特典：",
+    "buyNow": "今すぐ購入",
+    "oneTimePurchase": "一度限りの購入",
+    "oneTimeOffer": "新規ユーザー限定オファー",
+    "bonusZaps": "+{{amount}}ボーナスザップ",
+    "alreadyPurchased": "既に購入済み",
+    "checking": "確認しています..."
+  },
+  "modals": {
+    "cancel": {
+      "title": "本当に解約しますか？",
+      "message": "今月末でプレミアム機能へのアクセスと {{zaps}} Zaps が失われます。",
+      "confirm": "サブスクリプションを解約"
+    }
+  },
+  "toasts": {
+    "subscriptionNotCancelled": "サブスクリプションは解約されませんでした",
+    "subscriptionCancelled": "サブスクリプションを解約しました",
+    "failedToCancel": "サブスクリプションの解約に失敗しました",
+    "failedToCreateZapPack": "Zapパックの作成に失敗しました",
+    "failedToFindSubscription": "サブスクリプションが見つかりませんでした"
+  },
+  "faq": {
+    "title": "よくある質問",
+    "items": [
+      {
+        "question": "今月のZapsを使い切ったらどうなりますか？",
+        "answer": "KomikoAIの画像生成・動画生成などのAIツールが一時的に制限されますが、デイリータスクをクリアすることでZapsを追加で獲得できます。また、無料プランから有料プランにアップグレードすることも可能です。ご自身の利用スタイルに合ったプランを選ぶのがおすすめです。"
+      },
+      {
+        "question": "プランをアップグレードできますか？",
+        "answer": "はい、可能です。ただし現在は、無料プランから有料プランへのアップグレードのみ対応しています。有料プラン同士の切り替えには現時点では対応していません。カスタム対応が必要な場合は、Discordからお問い合わせください。"
+      },
+      {
+        "question": "使い切れなかったZapsは翌月に繰り越されますか？",
+        "answer": "いいえ、未使用のZapsは翌月には繰り越されません。Zapsは各請求サイクルの開始時にリフレッシュされます。"
+      },
+      {
+        "question": "支払い方法は何がありますか？",
+        "answer": "主要なクレジットカード（Visa、MasterCard、American Express）、LINE、Apple Pay などに対応しています。すべてのお支払いは、安全な決済プロバイダー経由で処理されます。"
+      },
+      {
+        "question": "無料プランはありますか？",
+        "answer": "はい。無料でもZapsを使ってKomikoAIのAIツールをお試しいただけます。さらに、デイリータスクをこなすことで追加のZapsも獲得できます。"
+      },
+      {
+        "question": "サブスクリプションはいつでも解約できますか？",
+        "answer": "はい、いつでも解約できます。解約した場合でも、現在の請求期間が終了するまではプランの機能をそのままご利用いただけます。月途中の解約による日割り・返金対応は行っておりません。"
+      },
+      {
+        "question": "サブスクリプションの返金はできますか？",
+        "answer": "いいえ、月途中での解約や利用状況による返金は行っておりません。ただし、サービスにご満足いただけなかった場合は、Discordからご連絡いただければ、可能なかぎり解決策をご提案いたします。"
+      },
+      {
+        "question": "有料プラン限定の機能はありますか？",
+        "answer": "はい。有料プランでは、ウォーターマークなしの書き出し、Zaps上限の増加、生成の優先処理などの限定機能をご利用いただけます。詳細は機能一覧をご確認ください。"
+      },
+      {
+        "question": "生成に失敗した場合、Zapsは返ってきますか？",
+        "answer": "はい。生成に失敗した場合、その分のZapsは消費されず、戻ってきます。"
+      }
+    ]
+  },
+  "productHunt": "Product Hunt のトッププロダクトに選出されました",
+  "bonus": "ボーナス",
+  "custom": "カスタム"
+}

@@ -1,0 +1,130 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan AI動画ジェネレーター - KomikoAI",
+      "description": "Wan AI動画ジェネレーターで、テキストと画像から高品質でダイナミックな動画を生成。プロフェッショナルグレードのモーション、物理シミュレーション、効率的な動画制作をご体験ください。",
+      "keywords": "Wan AI動画ジェネレーター, AI動画作成, テキストから動画, 画像から動画, AIアニメーション, 動画生成ツール, AI動画編集, モーションシミュレーション, 動画AIプラットフォーム"
+    },
+    "hero": {
+      "title": "Wan AI動画ジェネレーター",
+      "description": "最先端のAI技術を活用し、アイデアを魅力的な動画へと変換します。モーション豊かで、物理的に正確、かつ高度にカスタマイズ可能な動画を容易に生成できます。"
+    },
+    "whatIs": {
+      "title": "Wan AI動画ジェネレーターとは",
+      "description": "Wan AI動画ジェネレーターは、最先端のAI技術を用いて、あなたのアイデアを魅力的な動画へと昇華させます。アリババグループのTongyi Labによる最新のブレークスルーであるWan2を搭載し、高度な3D変分オートエンコーダーと動画拡散トランスフォーマーを組み合わせることで、卓越した成果を実現します。テキストプロンプト、静止画像から、優れた物理的な精度と自然なモーションで動画を生成します。オープンソースモデルは、複雑な回転からダイナミックなシーンのトランジションまでを処理し、プロが制作したかのような鮮明なHD映像を生成。コンテンツクリエイター、マーケター、教育者、アニメーターなど、従来の動画制作におけるコストと複雑さを軽減し、自身のビジョンを具現化したい方に最適です。"
+    },
+    "examples": {
+      "title": "Wan AI動画ジェネレーターの活用例",
+      "description": "Wan AI動画ジェネレーターで作成された印象的な動画の数々をご覧ください。アニメーション化されたソーシャルメディアコンテンツから、映画のような製品紹介まで、静止画像とテキストプロンプトが、鮮やかなモーション、リアルな物理演算、豊かな視覚効果によって、いかに生き生きと表現されるかをご体験ください。"
+    },
+    "howToUse": {
+      "title": "Wan AI動画ジェネレーターの使い方",
+      "steps": [
+        {
+          "title": "画像のアップロード",
+          "content": "アニメーション化したい画像をアップロードします。Wan AI動画ジェネレーターは、アートワーク、写真、製品画像、ストーリーボードなど、多様な画像形式に対応しており、ダイナミックな動画コンテンツの作成をサポートします。"
+        },
+        {
+          "title": "プロンプトの入力",
+          "content": "モーションの種類、カメラアングル、照明、エフェクトなどを指定するための詳細なプロンプトを入力、または設定を選択します。AIがこれらの指示を解釈し、あなたのビジョンに沿ったダイナミックな動画コンテンツを生成します。"
+        },
+        {
+          "title": "動画の生成",
+          "content": "「アニメーションを生成」ボタンをクリックし、生成プロセスを開始します。AIがリアルなモーション物理演算とシームレスなトランジションを自動的に適用し、高解像度ビデオシーケンスを合成する様子をご覧ください。"
+        },
+        {
+          "title": "ダウンロードと共有",
+          "content": "動画のレンダリングが完了したら、ご希望の形式と解像度でダウンロードします。生成された魅力的なAI動画を、ソーシャルメディア、マーケティングキャンペーン、教育プラットフォームなどで共有しましょう。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Wan AI動画ジェネレーターを利用するメリット",
+      "description": "Wan AI動画ジェネレーターの強力なメリットをご確認ください。動画制作の効率化を促進し、スタジオ、教育機関、マーケター、クリエイターの創造的な可能性を最大限に引き出します。",
+      "features": [
+        {
+          "title": "高度なモーションと物理シミュレーション",
+          "content": "92.7%の物理的な精度で動画を生成し、複雑な身体の動き、回転、リアルなオブジェクトのインタラクションをサポートします。",
+          "icon": "🎥"
+        },
+        {
+          "title": "多様な入力ソース",
+          "content": "テキストプロンプト、静止画像、またはそれらを組み合わせたマルチメディア入力から動画を作成し、幅広いクリエイティブな用途に対応します。",
+          "icon": "🖼️"
+        },
+        {
+          "title": "高品質なビデオ出力",
+          "content": "映画のようなテクスチャ、ダイナミックなシーンのトランジション、豊かなスタイルエフェクトを備えた、シームレスな1080p HD動画を生成します。",
+          "icon": "✨"
+        },
+        {
+          "title": "費用対効果が高くアクセス容易",
+          "content": "低いハードウェア要件のオープンソースフレームワークにより、プロフェッショナルな動画生成を手頃な価格で実現し、あらゆるクリエイターが利用できるようになります。",
+          "icon": "💸"
+        },
+        {
+          "title": "多様なシナリオに対応",
+          "content": "ソーシャルメディアコンテンツ、教育資料、製品デモンストレーション、および業界全体の動画制作ワークフローに適しています。",
+          "icon": "🌐"
+        },
+        {
+          "title": "開発者に優しいエコシステム",
+          "content": "API、ローカルデプロイメントオプション、主要な深層学習フレームワークとの互換性を提供し、シームレスな統合を可能にします。",
+          "icon": "⚙️"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Wan AI動画ジェネレーターに関するFAQ",
+      "description": "AIを使用してプロフェッショナルで魅力的な動画を作成するための、Wan AI動画ジェネレーターの使用に関する一般的な質問とその回答をご紹介します。",
+      "q1": "Wan AI動画ジェネレーターとは何ですか？",
+      "a1": "Wan AI動画ジェネレーターは、3D VAEや動画拡散トランスフォーマーなどの深層学習モデルを活用し、テキストと画像を高品質でモーション豊かな動画に変換する、高度な人工知能ツールです。クリエイターは、映画のような、そして物理的に正確なアニメーションを容易に制作できます。",
+      "q2": "Wan AI動画ジェネレーターは、どのように画像から動画を作成するのですか？",
+      "a2": "本ツールは、洗練されたニューラルネットワークを使用して静止画像を分析し、リアルなモーション、回転、シーンのトランジションを導入する新しいビデオフレームを合成します。視覚的な一貫性を維持しながら、元のコンテンツを効果的にアニメーション化します。",
+      "q3": "Wan AIでどのような種類の動画を作成できますか？",
+      "a3": "アニメーション化されたソーシャルメディアクリップ、教育用ビジュアライゼーション、製品デモンストレーション、マーケティングビデオ、動的なストーリーボードなど、幅広い動画を作成できます。これらはすべて、テキストプロンプトと画像入力を使用してカスタマイズ可能です。",
+      "q4": "Wan AI動画ジェネレーターは商用利用に適していますか？",
+      "a4": "はい、Wan AI動画ジェネレーターは、個人利用および商用プロジェクトの両方に対応したプロフェッショナルグレードの動画を生成します。利用者は、使用権に関連する制限について、関連するライセンス条項をご確認ください。",
+      "q5": "生成される動画の長さはどれくらいですか？",
+      "a5": "本プラットフォームは、効率的なビデオエンコード/デコード技術により、1080p解像度で無制限の長さの動画をサポートしており、品質を損なうことなく拡張されたコンテンツ作成が可能です。",
+      "q6": "Wan AI動画ジェネレーターを使用するには、技術的なスキルが必要ですか？",
+      "a6": "特別なスキルは必要ありません。本プラットフォームは、ユーザーフレンドリーなインターフェースと簡単なワークフローを提供しており、高度なAI動画生成を初心者の方でもご利用いただけます。"
+    }
+  },
+  "originalKeyword": "Wan AI Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "モデル: Wan",
+      "description": "Prompt: A purely visual and atmospheric video piece focusing on the interplay of light and shadow, with a corn train as the central motif. Imagine a stage bathed in dramatic, warm spotlights, where a corn train, rendered as a stark silhouette, moves slowly across the space. The video explores the dynamic interplay of light and shadow cast by the train, creating abstract patterns, shapes, and illusions that dance across the stage. The soundtrack should be ambient and minimalist, enhancing the atmospheric and abstract nature of the piece.",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_2.mp4"
+    },
+    {
+      "id": 2,
+      "title": "モデル: Wan",
+      "description": "Prompt: Watercolor style, the wet suminagashi inks slowly spread into the shape of an island on the paper, with the edges continuously blending into delicate textural variations. A tiny paper boat floats in the direction of the water flow towards the still-wet areas, creating subtle ripples around it. Centered composition with soft natural light pouring in from the side, revealing subtle color gradations and a sense of movement. .",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/prompt_3.mp4"
+    },
+    {
+      "id": 3,
+      "title": "モデル: Wan",
+      "description": "Prompt: A man on the run, darting through the rain-soaked back alleys of a neon-lit city night, steam rising from the wet pavement. He's clad in a drenched trench coat, his face etched with panic as he sprints down the alley, constantly looking over his shoulder. A chase sequence shot from behind, immersing the viewer deeply, as if the pursuers are right behind the camera lens..",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_4.mp4"
+    },
+    {
+      "id": 4,
+      "title": "モデル: Wan",
+      "description": "Prompt: Sidelit, soft light, high contrast, medium shot, centered composition, clean single subject frame, warm tones. A young man stands in a forest, his head gently lifted, with clear eyes. Sunlight filters through leaves, creating a golden halo around his hair. Dressed in a light-colored shirt, a breeze plays with his hair and collar as the light dances across his face with each movement. Background blurred, featuring distant dappled light and soft tree silhouettes..",
+      "videoUrl": "https://cdn.wanxai.com/static/demo-wan22/cinema_1.mp4"
+    }
+  ],
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "whatIs",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "WAN_PRO"
+}

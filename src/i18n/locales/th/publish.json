@@ -1,0 +1,86 @@
+{
+  "pageTitle": "โพสต์ - KomikoAI",
+  "shareStory": "แบ่งปันเรื่องราวของคุณ",
+  "enterStoryTitle": "ใส่ชื่อเรื่องเรื่องราว",
+  "addMoreDescription": "เพิ่มรายละเอียดเรื่องราว",
+  "post": "โพสต์เรื่องราว",
+  "pleaseNote": "ข้อควรทราบ:",
+  "nsfwWarning": "กรุณาติดแท็กเนื้อหาที่ไม่เหมาะสมทั้งหมดว่า \"NSFW\" โพสต์ที่ไม่มีการติดแท็กอาจถูกลบ และหากกระทำซ้ำอาจถูกแบน ห้ามโพสต์เนื้อหาที่ผิดกฎหมายเด็ดขาด (รวมถึงเนื้อหาที่เกี่ยวกับผู้เยาว์) และจะถูกแบนถาวร",
+  "imageDownloadSuccess": "ดาวน์โหลดรูปภาพสำเร็จ! แชร์ให้เพื่อนของคุณ!",
+  "pleaseEnterTitle": "กรุณาใส่ชื่อเรื่อง",
+  "pleaseCreateStory": "กรุณาสร้างเรื่องราว",
+  "failedToPost": "การโพสต์ล้มเหลว",
+  "defaultTitles": {
+    "character": "ตัวละครที่ฉันออกแบบ",
+    "anime": "ภาพแนวอนิเมะของฉัน",
+    "animation": "แอนิเมชันที่ฉันสร้าง",
+    "creation": "ผลงานสร้างสรรค์ของฉัน"
+  },
+  "addTags": "เพิ่มแท็ก",
+  "tagPlaceholder": "#ใส่แท็ก",
+  "tagCount": "แท็ก ({{current}}/{{max}})",
+  "recommendedTags": "แท็กที่แนะนำ",
+  "popularTags": "แท็กที่ได้รับความนิยม",
+  "activity": "กิจกรรม",
+  "share": "แชร์",
+  "uploadMedia": "อัปโหลดสื่อ",
+  "dragDropOrClick": "ลากและวางไฟล์ที่นี่ หรือคลิกเพื่อเลือก",
+  "dropFileHere": "วางไฟล์ที่นี่",
+  "uploading": "กำลังอัปโหลด",
+  "storyTitle": "ชื่อเรื่อง",
+  "description": "คำอธิบาย",
+  "titleLengthWarning": "ชื่อเรื่องยาวเกินไป",
+  "characters": "ตัวอักษร",
+  "pleasePublishFirst": "กรุณาเผยแพร่เนื้อหาก่อนที่จะทำการแชร์",
+  "pinPost": "ปักหมุดโพสต์นี้ไปที่ด้านบนของฟีดยอดนิยม",
+  "fileUpload": {
+    "title": "อัพโหลดสื่อ",
+    "subtitle": "ลากและวางไฟล์ที่นี่ หรือคลิกเพื่อเลือก",
+    "dropHere": "วางไฟล์ที่นี่",
+    "supportedFormats": "รูปแบบที่รองรับ",
+    "imageFormats": "JPG, PNG, WEBP",
+    "videoFormats": "MP4, MOV, AVI",
+    "maxSize": "รูปภาพ: ขนาดสูงสุด {{size}}MB",
+    "videoMaxSize": "วิดีโอ: สูงสุด {{size}}MB, {{duration}} นาที",
+    "processing": "กำลังประมวลผลไฟล์...",
+    "uploading": "กำลังอัพโหลด...",
+    "success": "อัพโหลดเสร็จสมบูรณ์!",
+    "error": "การอัพโหลดล้มเหลว กรุณาลองใหม่อีกครั้ง"
+  },
+  "mediaPreview": {
+    "image": "รูป",
+    "video": "วิดีโอ",
+    "download": "ดาวน์โหลด",
+    "share": "แชร์",
+    "clear": "ล้าง"
+  },
+  "validation": {
+    "titleRequired": "กรุณากรอกชื่อเรื่อง",
+    "contentRequired": "กรุณาสร้างเรื่อง",
+    "fileRequired": "กรุณาเลือกไฟล์",
+    "fileTooLarge": "ไฟล์มีขนาดใหญ่เกินไป ขนาดสูงสุด: {{size}}MB",
+    "unsupportedFormat": "รูปแบบไฟล์ไม่รองรับ",
+    "uploadFailed": "การอัพโหลดล้มเหลว กรุณาลองใหม่อีกครั้ง"
+  },
+  "actions": {
+    "publish": "เผยแพร่",
+    "save": "บันทึก",
+    "cancel": "ยกเลิก",
+    "clear": "ล้างทั้งหมด",
+    "download": "ดาวน์โหลด",
+    "share": "แชร์"
+  },
+  "preppingPost": "เตรียมโพสต์ของคุณอยู่…",
+  "drawer": {
+    "action": {
+      "newPost": "โพสต์ใหม่",
+      "newCharacter": "สร้างตัวละครใหม่",
+      "generateImage": "สร้างรูปภาพ",
+      "generateVideo": "สร้างวิดีโอ",
+      "generateComic": "สร้างการ์ตูน"
+    },
+    "description": {
+      "newPost": "แชร์ผลงานของคุณกับชุมชน"
+    }
+  }
+}

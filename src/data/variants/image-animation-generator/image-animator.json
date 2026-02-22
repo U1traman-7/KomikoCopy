@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Image Animator",
+      "description": "Experience the innovation of AI and turn your static images into captivating animations with our Image Animator. Perfect for comics, manga, anime, and artistic expressions.",
+      "keywords": "Image Animator, image animation, anime animation, comic animation, AI art tools, image to animation, image animator, AI animation generator"
+    },
+    "hero": {
+      "title": "Image Animator",
+      "description": "Experience the innovation of AI and turn your static images into captivating animations with our Image Animator. Perfect for comics, manga, anime, and artistic expressions."
+    },
+    "whatIs": {
+      "title": "What is Image Animator?",
+      "description": "Image Animator is a transformative tool that uses advanced AI to create dynamic animations from static images. Ideal for creators and artists in the anime, manga, and comic fields."
+    },
+    "examples": {
+      "title": "Image Animator Examples",
+      "description": "Browse examples of animated content crafted with our Image Animator. Watch as static images transform into dynamic animations.",
+      "inputAlt": "Example Input Image",
+      "inputLabel": "Input Image",
+      "outputLabel": "Animation Result"
+    },
+    "howToUse": {
+      "title": "How to use Image Animator",
+      "steps": [
+        {
+          "title": "Upload Your Image",
+          "content": "Choose the image you wish to animate. Whether it's a character, anime scene, or artistic illustration, our AI will bring it alive."
+        },
+        {
+          "title": "Enter a Prompt",
+          "content": "Input a descriptive prompt to guide the animation of your image. Specify movements, expressions, or actions."
+        },
+        {
+          "title": "Generate Animation",
+          "content": "Hit the 'Generate Animation' button and watch our AI transform your image into a lifelike animation video."
+        },
+        {
+          "title": "Download and Share",
+          "content": "Download your animation and share it widely. Ideal for social media, portfolios, and digital showcases."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why use Image Animator?",
+      "description": "Uncover the power of AI in animation for your creative projects. The Image Animator empowers artists to create engaging content with ease.",
+      "features": [
+        {
+          "title": "AI-Driven Animation",
+          "content": "Utilize cutting-edge AI to craft animations. Our technology intelligently processes images to produce seamless animations.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Engage With Dynamic Content",
+          "content": "Convert still images into compelling animations that enhance social media and presentations.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Effortless to Use",
+          "content": "No need for advanced animation expertise. Simply upload an image and enter a prompt to let our AI handle the rest.",
+          "icon": "👌"
+        },
+        {
+          "title": "Save Production Time",
+          "content": "Streamline the animation creation process. Generate animations rapidly, cutting down on manual labor significantly.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Professional Results",
+          "content": "Achieve superior animation quality. Our AI ensures smooth sequences and natural motion.",
+          "icon": "✨"
+        },
+        {
+          "title": "Boost Your Creativity",
+          "content": "Concentrate on your artistic vision as our AI manages the technical animation details, allowing for effortless content creation.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about creating with the Image Animator.",
+      "q1": "What is Image Animator?",
+      "a1": "Image Animator is an AI tool that converts static images into animated content. It uses AI technology to generate lifelike animations from photos, artwork, and illustrations, making it perfect for comics, manga, and anime creators.",
+      "q2": "How to use Image Animator?",
+      "a2": "Using Image Animator is simple! First upload your image, then enter a descriptive prompt, and finally, click 'Generate Animation'. Enjoy the AI-driven transformation. You can also download and share the resulting animation video.",
+      "q3": "How does Image Animator work?",
+      "a3": "Image Animator uses machine learning algorithms and neural networks to animate static images. It identifies key features and creates frames simulating motion. From artwork to photos, our AI dynamically enhances content through animation.",
+      "q4": "What is the best image to animation tool?",
+      "a4": "KomikoAI provides the best image to animation tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Image Animator, you can animate diverse styles, perfect for creators and enthusiasts.",
+      "q5": "Is the KomikoAI Image Animator free online?",
+      "a5": "Yes, you can test out the Image Animator on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Image Animator?",
+      "a6": "You can use Image Animator on KomikoAI to create engaging animations from pictures and illustrations, whether it's to craft anime scenes, dynamic portraits, or vibrant comics—transform static images into exciting animations easily.",
+      "q7": "Can I use Image Animator on my phone?",
+      "a7": "Yes, you can use Image Animator as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Image Animator?",
+      "a8": "Yes, KomikoAI's Image Animator allows you to export your generation in various formats, such as MP4, GIF, WebM, for easy sharing.",
+      "q9": "Why should I use Image Animator?",
+      "a9": "Using Image Animator can bring your creative vision to life. Our tool allows you to effortlessly animate images, employ AI-driven enhancements, and customize output—perfect for artists, influencers, and content creators."
+    },
+    "cta": {
+      "title": "Transform Your Images for FREE with Our Image Animator Today!",
+      "description": "Experience the future of animation with our intuitive AI tool.",
+      "buttonText": "Try Our Image Animator Free"
+    }
+  },
+  "placeholderText": "Generate Image Animator style artwork",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Midjourney",
+      "description": "Prompt: Anime maid girl in frilly black and white uniform walking toward camera carrying tea tray, warm cafe lighting, soft focus background with customers, golden hour sunlight through windows, gentle approach movement",
+      "videoUrl": "/images/pages/midjourney/example3.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Veo 3",
+      "description": "Prompt: The girl is dancing and singing",
+      "videoUrl": "/images/examples/image-animation-generator/output2.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Model: Vidu Q1",
+      "description": "Prompt: A fairy sits in the blossom as the petals open",
+      "videoUrl": "/images/pages/vidu/flower.webm"
+    },
+    {
+      "id": 4,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: Anime girl skating fast through neon-lit alley at night, making sharp turns, wind in her hair, tracked from behind. Glowing signs reflect on wet pavement as she speeds past narrow alleys.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+    }
+  ],
+  "originalKeyword": "Image Animator",
+  "pageStructure": ["howToUse", "examples", "whatIs", "moreAITools", "whyUse", "faq", "cta"]
+}

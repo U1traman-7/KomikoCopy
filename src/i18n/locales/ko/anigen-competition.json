@@ -1,0 +1,173 @@
+{
+  "hero": {
+    "title": "AniGen",
+    "subtitle": "세계 최초 숏폼 AI 애니메이션 공모전",
+    "sponsors": "후원:",
+    "btnRules": "전체 규정 보기",
+    "btnSubmit": "애니메이션 제출"
+  },
+  "about": {
+    "subtitle": "AI와 애니메이션의 혁신적인 만남",
+    "title": "챌린지 소개",
+    "description1": "KomikoAI, Hedra, Hailuo, AniShort가 함께하는 세계 최초 세로형 숏폼 AI 애니메이션 공모전, AniGen에 참여하세요. 최첨단 AI 기술과 창의적인 스토리텔링의 결합으로 애니메이션의 새로운 지평을 엽니다.",
+    "description2": "AniGen은 애니메이션 분야의 차세대 크리에이터를 발굴하고 지원합니다. AI를 통해 애니메이션의 무한한 가능성을 탐색하고, AI 크리에이터, 혁신적인 기술을 추구하는 애니메이터, 시나리오 작가, 애니메이션 애호가 모두 자신의 역량을 마음껏 펼치고 풍성한 상금, AI 도구 무료 구독 혜택, AniShort 스트리밍 앱에 작품을 선보일 기회를 잡으세요."
+  },
+  "prizes": {
+    "title": "상금 내역",
+    "animation": {
+      "title": "애니메이션 트랙",
+      "grandPrize": "대상 (1명)",
+      "grandPrizeDetails": [
+        "3,000 USD",
+        "Hailuo, Hedra, KomikoAI 6개월 프로 구독 무료",
+        "애니메이션 추가 개발 지원 및 AniShort 스트리밍 앱 상영 기회 제공"
+      ],
+      "secondPrize": "2등 (1명)",
+      "secondPrizeDetails": "1,500 USD + AI 도구 3개월 프로 구독",
+      "runnerUp": "우수상 (2명)",
+      "runnerUpDetails": "500 USD + AI 도구 2개월 프로 구독",
+      "excellence": "우수작 (30명)",
+      "excellenceDetails": "AI 도구 1개월 프로 구독",
+      "note": "수상작은 후원사 소셜 채널 홍보 및 AniShort 스트리밍 플랫폼 공개 기회를 얻으며, 추가 개발 자금 지원 또는 스튜디오 지원을 받을 수 있습니다."
+    },
+    "scriptwriting": {
+      "title": "시나리오 트랙",
+      "grandPrize": "대상 (1명)",
+      "grandPrizeDetails": "1,000 USD",
+      "excellence": "우수작 (3명)",
+      "excellenceDetails": "100 USD",
+      "note": "선정된 스크립트는 애니메이션으로 제작되어 수익 공유와 함께 AniShort 스트리밍 플랫폼에 공개될 수 있습니다."
+    }
+  },
+  "judges": {
+    "label": "심사위원 소개",
+    "title": "심사위원",
+    "description": "업계 최고의 전문가 및 창의적인 리더로 구성된 심사위원단을 소개합니다:",
+    "judge1": {
+      "name": "Ben Waller",
+      "title": "Story Engine Inc. 최고 크리에이티브 책임자, 시나리오 작가, Star Trek: Lower Decks, Roborockaylpse 참여"
+    },
+    "judge2": {
+      "name": "Michael Lingelbach",
+      "title": "Hedra 창립자 & CEO"
+    },
+    "judge3": {
+      "name": "Garrett Pollack",
+      "title": "애니메이션 분야 소셜 미디어 인플루언서"
+    },
+    "judge4": {
+      "name": "Aiden Guo",
+      "title": "원피스 애니메이터, AI 애니메이션 제작자 & 인플루언서"
+    },
+    "judge5": {
+      "name": "Leanna Ren",
+      "title": "MiniMax 부사장"
+    }
+  },
+  "timeline": {
+    "title": "주요 일정",
+    "launch": {
+      "date": "2025년 4월 28일",
+      "title": "공모전 시작"
+    },
+    "submission": {
+      "date": "2025년 4월 28일 - 5월 20일",
+      "title": "작품 제출 기간"
+    },
+    "judging": {
+      "date": "2025년 5월 20일 - 6월 1일",
+      "title": "심사 진행"
+    },
+    "announcement": {
+      "date": "2025년 6월 1일",
+      "title": "수상자 발표"
+    }
+  },
+  "rules": {
+    "title": "참가 요강 및 규정",
+    "animation": {
+      "title": "애니메이션 트랙",
+      "description": "개성 넘치는 이야기를 담은 세로형 숏폼 애니메이션 제작",
+      "format": {
+        "label": "형식:",
+        "value": "9:16 세로 (모바일 최적화), MP4"
+      },
+      "duration": {
+        "label": "길이:",
+        "value": "30초 ~ 3분"
+      },
+      "content": {
+        "label": "내용:",
+        "value": "애니메이션은 완결된 스토리 또는 시리즈의 첫 번째 에피소드여야 합니다. 트레일러 또는 뮤직비디오는 접수하지 않습니다."
+      },
+      "requirements": {
+        "label": "필수 요건:",
+        "list": [
+          "제작 과정의 최소 50% 이상에 AI 도구 활용 (아래 내용 포함):",
+          "Hedra의 Character-3 모델을 사용하여 최소 1개의 캐릭터 대화 장면 구현",
+          "KomikoAI로 생성된 캐릭터/장면 이미지 최소 1개 이상 포함",
+          "Hailuo 플랫폼 또는 Hedra/KomikoAI를 통해 Hailuo로 생성된 애니메이션 클립 최소 1개 이상 포함",
+          "오리지널 작품만 허용 (저작권 침해 금지)",
+          "영어 음성 또는 자막 필수",
+          "작품을 소셜 미디어에 게시하고 #AniGen @hedra_labs @KomikoAI @Hailuo_AI @AniShortApp 태그하여 공식 계정에서 공유될 수 있도록 설정",
+          "만 18세 이상 참가 가능",
+          "선정적 콘텐츠, 혐오 발언, 과도한 폭력 묘사, 저작권 침해 자료 금지"
+        ]
+      }
+    },
+    "scriptwriting": {
+      "title": "시나리오 트랙",
+      "description": "세로형 숏폼 애니메이션 시리즈를 위한 독창적인 컨셉 구상",
+      "format": {
+        "label": "형식:",
+        "value": "첫 5개 에피소드의 스크립트를 포함한 컨셉 패키지"
+      },
+      "duration": {
+        "label": "길이:",
+        "value": "각 에피소드 1~2분 (빠른 전개와 몰입도 높은 스토리텔링 지향)"
+      },
+      "genre": {
+        "label": "장르:",
+        "value": "액션, 로맨스, 판타지, 이세계, 소년 등 모든 장르 가능"
+      },
+      "requirements": {
+        "label": "제출 요건:",
+        "list": [
+          "제목, 줄거리 개요, 캐릭터 소개, 첫 5개 에피소드의 전체 스크립트",
+          "언어: 영어 또는 영어 번역본 포함",
+          "오리지널 작품만 허용 (저작권 침해 금지)",
+          "선정적 콘텐츠, 혐오 발언, 과도한 폭력 묘사, 저작권 침해 자료 금지"
+        ]
+      }
+    }
+  },
+  "sponsors": {
+    "title": "후원사 및 파트너",
+    "hedra": {
+      "name": "Hedra",
+      "description": "AI 아바타 비디오 생성 모델"
+    },
+    "hailuo": {
+      "name": "Hailuo",
+      "description": "AI 비디오 생성 모델"
+    },
+    "komiko": {
+      "name": "KomikoAI",
+      "description": "AI 애니메이션 & 코믹스 제작 툴킷"
+    },
+    "anishort": {
+      "name": "AniShort",
+      "description": "숏폼 애니메이션 스트리밍 플랫폼"
+    }
+  },
+  "submit": {
+    "title": "애니메이션의 미래를 함께 만들어가세요",
+    "description": "지금 바로 작품을 제출하고 AI 애니메이션의 새로운 흐름을 개척하세요.",
+    "btnSubmit": "애니메이션 제출",
+    "btnRules": "규정 확인"
+  },
+  "meta": {
+    "title": "AniGen 공모전 - 숏폼 AI 애니메이션 공모전 | 총 상금 6,000달러 및 AI 도구 무료 구독 혜택",
+    "description": "KomikoAI, Hedra, Hailuo, AniShort가 주최하는 세계 최초 세로형 숏폼 AI 애니메이션 공모전에 참여하세요."
+  }
+}

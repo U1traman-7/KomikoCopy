@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "アニメクリエイターたちに愛される楽しい効果",
+    "description": "お気に入りの効果を見つけて、すぐに作成を始めましょう。",
+    "defaultDescription": "KomikoAIで{{name}}の{{type}}エフェクトを作成します。キャラクター画像をアップロードして、AI {{name}} Generatorの力を数秒で体験してください。",
+    "eyebrow": "効果ギャラリー"
+  },
+  "meta": {
+    "keywords": "AI効果, アニメテンプレート, ビデオ効果, ダンスアニメーション, 画像スタイル, komiko",
+    "title": "効果 | Komiko AI",
+    "description": "アニメ制作用のすべてのAI効果とテンプレートを閲覧しましょう。画像スタイル、ビデオ効果、ダンスアニメーションなど。",
+    "titleTemplate": "{{name}} ジェネレータ"
+  },
+  "categories": {
+    "trending": {
+      "description": "現在人気のある効果",
+      "title": "トレンド"
+    },
+    "imageRestyle": {
+      "description": "画像を多彩なアートスタイルに変換",
+      "title": "画像リスタイル"
+    },
+    "merch": {
+      "description": "キャラクターからコレクション可能なグッズデザインを生成",
+      "title": "グッズスタジオ"
+    },
+    "movie": {
+      "description": "ポートレートを映画のようなスタイルに再現",
+      "title": "映画"
+    },
+    "cosplay": {
+      "description": "素敵なコスプレと衣装デザインを作成",
+      "title": "コスプレ＆アウトフィット"
+    },
+    "dance": {
+      "description": "AIでダンスビデオのモーションを作成",
+      "title": "ダンス"
+    },
+    "featured": {
+      "title": "おすすめ"
+    },
+    "art": {
+      "title": "アート",
+      "description": "ポートレートをプロのキャラクターデザインに変換"
+    },
+    "videoRestyle": {
+      "title": "ビデオリスタイル",
+      "description": "動画をスタイライズされたアニメーションに変換"
+    },
+    "game": {
+      "title": "ゲーム",
+      "description": "ゲームスタイルの動画やシーンを作成"
+    },
+    "effects": {
+      "title": "ビデオ効果",
+      "description": "動的なビデオ効果とアニメーションを適用"
+    },
+    "characterExpression": {
+      "title": "キャラクター表情",
+      "description": "キャラクターの表情を動的に変更"
+    },
+    "funEffects": {
+      "title": "楽しい効果",
+      "description": "遊び心あふれるビデオ効果"
+    }
+  },
+  "whatIs": {
+    "title": "{{name}}ジェネレーターとは",
+    "defaultDescription": "AI {{name}} Generatorは、{{name}} {{type}}エフェクトを作成するAIツールです。これは、KomikoAIチームが設計した100以上のAIエフェクトテンプレートの1つです。キャラクター画像をアップロードするだけで、AIが魔法をかけてくれます。"
+  },
+  "howToUse": {
+    "step1Title": "画像をアップロード",
+    "step2Title": "効果を選択",
+    "step3Title": "生成",
+    "step4Title": "ダウンロード",
+    "title": "使用方法",
+    "step1": "上にキャラクター画像をアップロード",
+    "step2": "{{name}}効果がすでに選択されています",
+    "step3": "\"アニメーションを生成\"をクリックして結果を待つ",
+    "step4": "作成物をダウンロードまたは共有"
+  },
+  "breadcrumb": {
+    "effects": "効果"
+  },
+  "buttons": {
+    "useTemplate": "テンプレートを使用",
+    "preview": "プレビュー",
+    "close": "閉じる",
+    "seeAll": "すべてを見る"
+  },
+  "empty": "効果が見つかりません。",
+  "notFound": {
+    "title": "効果が見つかりません",
+    "description": "効果\"{{name}}\"が見つかりませんでした。削除されたか、URLが間違っている可能性があります。",
+    "browseAll": "すべての効果を閲覧"
+  },
+  "moreTools": {
+    "title": "さらに多くのAI効果",
+    "description": "AI効果とテンプレートの完全なコレクションを探検してください。",
+    "browseAll": "すべての効果を閲覧"
+  },
+  "changeModal": {
+    "title": "効果を切り替え"
+  },
+  "communityExamples": {
+    "title": "{{name}}効果の例",
+    "description": "KomikoAIコミュニティによって作成されたすべての{{name}}効果の作品。",
+    "noExamples": "コミュニティの例はまだありません。"
+  },
+  "types": {
+    "video": "ビデオ",
+    "image": "イメージ",
+    "dance": "ダンス"
+  }
+}

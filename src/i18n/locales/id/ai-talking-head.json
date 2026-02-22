@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "title": "AI Kepala Berbicara - KomikoAI",
+    "description": "Buat video kepala berbicara yang hidup dari gambar dan audio",
+    "fullDescription": "Buat video kepala berbicara yang hidup dari gambar diam menggunakan AI. Unggah foto dan tambahkan audio untuk menghasilkan video berbicara yang realistis.",
+    "keywords": "Kepala berbicara AI, pembuatan video, gambar ke video, audio ke video, animasi AI, potret berbicara"
+  },
+  "title": "AI Kepala Berbicara",
+  "description": "Buat video kepala berbicara yang hidup dari gambar. Unggah foto dan sediakan audio untuk membuatnya berbicara.",
+  "cost": "Biaya",
+  "upload": {
+    "image": "Unggah Gambar",
+    "title": "Unggah Gambar",
+    "click": "Klik untuk mengunggah gambar",
+    "supports": "Mendukung JPEG, PNG, WebP",
+    "dropHere": "Letakkan gambar di sini",
+    "orClick": "atau klik untuk mengunggah",
+    "fileSize": "Ukuran file maksimum: 10MB",
+    "tooltip": "Unggah gambar potret dan audio",
+    "imageSizeInfo": "Ukuran maksimum: {{maxSize}}MB. Gambar berukuran besar akan dikompres otomatis.",
+    "audioSizeInfo": "Ukuran maksimum audio: {{maxSize}}MB. Durasi maksimal: 2 menit."
+  },
+  "model": {
+    "select": "Pilih Model",
+    "placeholder": "Pilih model",
+    "loading": "Memuat model...",
+    "credits": "kredit",
+    "default": "Model bawaan",
+    "description": "Model yang berbeda menawarkan gaya dan tingkat kualitas yang berbeda",
+    "aspectRatio": "Rasio Aspek",
+    "resolution": "Resolusi",
+    "duration": "Durasi",
+    "zaps": "zaps",
+    "textToSpeech": "Teks ke Ucapan",
+    "supportsTTS": "Mendukung Teks ke Ucapan",
+    "noTTS": "Unggah Audio Diperlukan"
+  },
+  "textToSpeech": {
+    "title": "Teks ke Ucapan",
+    "description": "Beberapa model mendukung pembuatan ucapan dari teks. Untuk model yang tidak mendukung Teks ke Ucapan, unggah audio diperlukan.",
+    "input": "Masukkan teks untuk diucapkan",
+    "placeholder": "Ketik teks yang ingin Anda diucapkan oleh karakter",
+    "language": "Bahasa Ucapan",
+    "voiceType": "Jenis Suara",
+    "speed": "Kecepatan Ucapan",
+    "note": "Catatan: Kualitas Teks ke Ucapan bervariasi tergantung pada model dan bahasa",
+    "estimatedDuration": "Perkiraan durasi audio {{duration}}d: {{zaps}} Zaps",
+    "defaultDuration": "Zaps dihitung berdasarkan panjang teks (standar: 10d)"
+  },
+  "style": {
+    "prompt": "Panduan (Opsi)",
+    "placeholder": "Deskripsikan emosi dan gerakan karakter",
+    "examples": "Contoh:",
+    "example1": "Juru bicara perusahaan profesional",
+    "example2": "Antusias dan penuh energi",
+    "example3": "Tenang dan meyakinkan"
+  },
+  "quality": {
+    "title": "Kualitas Tinggi",
+    "standard": "Standar",
+    "high": "Tinggi",
+    "standardDesc": "Kualitas bagus untuk penggunaan umum",
+    "highDesc": "Sinkronisasi bibir dan ekspresi wajah yang lebih baik",
+    "costs": {
+      "standard": "Standar: {{cost}} kredit",
+      "high": "Tinggi: {{cost}} kredit"
+    }
+  },
+  "audioInput": {
+    "label": "Input Audio",
+    "click": "Klik untuk mengunggah audio",
+    "supports": "Mendukung MP3, WAV",
+    "fileSize": "Ukuran file maksimum: 10MB",
+    "duration": "Durasi maksimum: 60 detik",
+    "tips": "Tips untuk hasil terbaik:",
+    "tip1": "Gunakan audio yang jernih dengan kebisingan latar belakang minimal",
+    "tip2": "Pastikan durasi audio kurang dari 60 detik untuk kualitas terbaik",
+    "tip3": "Rekaman suara tunggal memberikan hasil terbaik",
+    "orUseText": "Atau gunakan teks ke ucapan jika didukung oleh model yang dipilih",
+    "detectedDuration": "Audio {{duration}}d terdeteksi: {{zaps}} Zaps",
+    "defaultDuration": "Zaps dihitung berdasarkan panjang audio (standar: 10d)",
+    "uploadTab": "Unggah",
+    "recordTab": "Rekam"
+  },
+  "buttons": {
+    "generate": "Hasilkan Kepala Berbicara",
+    "generating": "Menghasilkan...",
+    "reset": "Reset",
+    "download": "Unduh Video",
+    "share": "Bagikan",
+    "tryAgain": "Coba Lagi",
+    "saveToGallery": "Simpan ke Galeri"
+  },
+  "result": {
+    "title": "Kepala Berbicara yang Dihasilkan",
+    "processing": "Memproses video Anda...",
+    "videoReady": "Video Anda akan muncul di sini",
+    "shareText": "Bagikan video kepala berbicara ini",
+    "downloadTip": "Unduh untuk menyimpan di perangkat Anda",
+    "videoStats": "{{duration}} detik, resolusi {{resolution}}"
+  },
+  "loading": {
+    "preparing": "Menyiapkan sumber daya...",
+    "processing": "Memproses permintaan Anda...",
+    "analyzing": "Menganalisis gambar...",
+    "generating": "Menghasilkan video...",
+    "finalizing": "Menyelesaikan video Anda..."
+  },
+  "toasts": {
+    "login": "Silakan masuk untuk menggunakan fitur ini",
+    "imageRequired": "Silakan pilih gambar",
+    "audioRequired": "Silakan pilih file audio",
+    "invalidImage": "Silakan pilih file gambar yang valid (JPEG, PNG, WebP)",
+    "invalidAudio": "Silakan pilih file audio yang valid (MP3, WAV)",
+    "audioSelected": "File audio dipilih",
+    "success": "Video kepala berbicara berhasil dihasilkan",
+    "failure": "Gagal menghasilkan video",
+    "downloadFailed": "Gagal mengunduh video",
+    "noCredit": "Kredit tidak mencukupi",
+    "imageTooLarge": "Ukuran gambar melebihi batas 10MB",
+    "audioTooLarge": "Ukuran audio melebihi batas 10MB",
+    "processingQueued": "Permintaan Anda dalam antrean. Kami akan memberi tahu Anda saat sudah siap.",
+    "savedToGallery": "Video disimpan ke galeri Anda",
+    "modelRequired": "Silakan pilih model",
+    "modelsFetchFailed": "Gagal mengambil model",
+    "usingFallbackModel": "Menggunakan model bawaan - tidak dapat mengambil model dari server",
+    "fetchFailed": "Gagal mengambil video",
+    "deleteFailed": "Gagal menghapus video",
+    "deleteSuccess": "Video berhasil dihapus",
+    "textRequired": "Silakan masukkan teks untuk pembuatan ucapan"
+  },
+  "credit": {
+    "remaining": "{{amount}} kredit tersisa",
+    "required": "{{amount}} kredit diperlukan",
+    "insufficientCredits": "Anda memerlukan {{required}} kredit lagi",
+    "getPremium": "Dapatkan Premium untuk lebih banyak kredit"
+  },
+  "errors": {
+    "imageProcessing": "Kesalahan memproses gambar",
+    "audioProcessing": "Kesalahan memproses audio",
+    "serverError": "Kesalahan server, silakan coba lagi nanti",
+    "networkError": "Kesalahan jaringan, silakan periksa koneksi Anda",
+    "invalidRequest": "Parameter permintaan tidak valid",
+    "timeout": "Permintaan kehabisan waktu, silakan coba lagi"
+  },
+  "modal": {
+    "deleteTitle": "Konfirmasi Hapus",
+    "deleteMessage": "Apakah Anda yakin ingin menghapus video ini? Tindakan ini tidak dapat dibatalkan.",
+    "cancel": "Batal",
+    "delete": "Hapus"
+  },
+  "examples": {
+    "title": "Contoh AI Kepala Berbicara",
+    "description": "Lihat AI Kepala Berbicara beraksi dengan contoh sebelum dan sesudah ini. Ini menunjukkan bagaimana gambar diam diubah menjadi video berbicara yang realistis.",
+    "inputCaption": "Gambar masukan",
+    "outputCaption1": "Video kepala berbicara yang dihasilkan AI dengan ucapan tersinkronisasi bahasa Jepang",
+    "outputCaption2": "Video kepala berbicara yang dihasilkan AI dengan ucapan tersinkronisasi bahasa Jepang",
+    "outputCaption3": "Video kepala berbicara yang dihasilkan AI dengan ucapan tersinkronisasi bahasa Spanyol",
+    "outputCaption4": "Video kepala berbicara yang dihasilkan AI dengan ucapan tersinkronisasi bahasa Inggris",
+    "model": "Model",
+    "transcript": "Transkrip",
+    "inputAlt": "Contoh gambar potret masukan"
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "description": "Jelajahi pertanyaan umum tentang AI Kepala Berbicara kami, termasuk fitur, kemampuan, dan bagaimana alat ini dapat merevolusi proses pembuatan video Anda.",
+    "q1": "Bagaimana cara merekam audio langsung di browser?",
+    "a1": "Cukup klik tab 'Rekam' di bagian input audio, lalu tekan ikon mikrofon untuk mulai merekam. Anda akan melihat pengatur waktu yang menghitung durasi rekaman Anda. Klik tombol berhenti ketika selesai, dan Anda dapat mempratinjau rekaman Anda sebelum menggunakannya untuk video kepala berbicara Anda.",
+    "q2": "Jenis gambar apa yang paling baik?",
+    "a2": "Potret wajah depan yang jelas memberikan hasil terbaik. Wajah harus cukup terang, tanpa halangan, dan menghadap langsung ke kamera. Ekspresi netral biasanya memberikan hasil terbaik.",
+    "q3": "Berapa lama durasi audio saya?",
+    "a3": "Untuk hasil terbaik, pastikan durasi audio Anda kurang dari 60 detik. Konten yang lebih panjang dapat mengakibatkan kualitas yang lebih rendah atau masalah sinkronisasi.",
+    "q4": "Apa perbedaan antara kualitas standar dan tinggi?",
+    "a4": "Pemrosesan kualitas tinggi menggunakan model AI yang lebih canggih untuk menciptakan gerakan wajah yang lebih realistis dan sinkronisasi bibir yang lebih baik. Harganya lebih banyak kredit tetapi menghasilkan hasil yang tampak lebih alami.",
+    "q5": "Bisakah saya menggunakan video yang dihasilkan secara komersial?",
+    "a5": "Anda bertanggung jawab untuk memastikan Anda memiliki izin yang sesuai untuk menggunakan gambar masukan dan video yang dihasilkan. Selalu dapatkan persetujuan yang tepat dari orang dalam gambar sebelum membuat atau berbagi video kepala berbicara.",
+    "q6": "Apakah saya bisa mengedit video setelah dibuat?",
+    "a6": "Video yang dihasilkan dapat diunduh dan diedit menggunakan perangkat lunak pengeditan video pilihan Anda.",
+    "q7": "Apakah Anda menyimpan gambar atau audio saya?",
+    "a7": "Media Anda diproses sementara untuk membuat video berbicara, tetapi kami tidak menyimpan gambar asli atau file audio Anda secara permanen.",
+    "q8": "Format audio apa saja yang didukung?",
+    "a8": "Saat ini kami mendukung format audio MP3 dan WAV.",
+    "q9": "Mengapa video yang dihasilkan terlihat tidak alami?",
+    "a9": "Kualitas tergantung pada kualitas gambar input, pencahayaan, sudut, ekspresi wajah, dan kualitas audio. Cobalah menggunakan foto potret yang lebih jelas dengan pencahayaan yang baik dan ekspresi netral untuk hasil terbaik.",
+    "q10": "Mengapa video yang dihasilkan terlihat tidak alami?",
+    "a10": "Kualitasnya tergantung pada kualitas gambar masukan, pencahayaan, sudut, ekspresi wajah, dan kualitas audio. Coba gunakan foto potret yang lebih jelas dengan pencahayaan yang baik dan ekspresi netral untuk hasil terbaik."
+  },
+  "tips": {
+    "title": "Tips untuk Hasil Terbaik",
+    "imageQuality": "Gunakan foto potret berkualitas tinggi dengan pencahayaan yang baik",
+    "facialExpression": "Pilih gambar dengan ekspresi wajah netral",
+    "framing": "Pastikan wajah berada di tengah dan terlihat sepenuhnya dalam bingkai",
+    "audioQuality": "Gunakan audio yang jernih dengan kebisingan latar belakang minimal",
+    "audioLength": "Pastikan durasi audio kurang dari 60 detik untuk sinkronisasi yang lebih baik",
+    "resolution": "Gambar dengan resolusi lebih tinggi menghasilkan hasil yang lebih baik"
+  },
+  "whatIsSection": {
+    "title": "Apa itu AI Kepala Berbicara?",
+    "description": "AI Talking Head menciptakan video berbicara yang tampak nyata dari gambar diam. Teknologi AI canggih kami menggerakkan fitur wajah agar sesuai dengan pola bicara. Cukup unggah foto potret, rekam atau unggah audio, dan saksikan gambar tersebut menjadi hidup!",
+    "recordingCaption": "Rekam audio Anda langsung di browser"
+  },
+  "whyChoose": {
+    "title": "Mengapa Memilih AI Kepala Berbicara Kami",
+    "description": "AI Kepala Berbicara kami menawarkan berbagai keuntungan yang membuatnya menjadi pilihan utama untuk membuat video berbicara yang realistis dari gambar diam."
+  },
+  "howToSection": {
+    "title": "Cara Menggunakan AI Kepala Berbicara"
+  },
+  "steps": {
+    "step1": {
+      "title": "Unggah Gambar",
+      "content": "Unggah foto potret yang jelas dengan pencahayaan yang baik dan ekspresi netral."
+    },
+    "step2": {
+      "title": "Tambahkan Suara",
+      "content": "Rekam audio langsung di browser Anda atau unggah file audio untuk membuat gambar Anda berbicara."
+    },
+    "step3": {
+      "title": "Sesuaikan Opsi",
+      "content": "Tambahkan panduan opsional dan pilih rasio aspek serta resolusi yang diinginkan."
+    },
+    "step4": {
+      "title": "Hasilkan & Unduh",
+      "content": "Klik hasilkan, tunggu pemrosesan, dan unduh video kepala berbicara Anda."
+    }
+  },
+  "features": {
+    "feature1": {
+      "title": "Sinkronisasi Bibir Realistis",
+      "content": "AI canggih memastikan sinkronisasi yang tepat antara gerakan bibir dan ucapan untuk hasil yang tampak alami."
+    },
+    "feature2": {
+      "title": "Rekam Audio Langsung",
+      "content": "Rekam suara Anda langsung di browser atau unggah audio yang sudah direkam untuk fleksibilitas maksimal."
+    },
+    "feature3": {
+      "title": "Opsi Kualitas Tinggi",
+      "content": "Pilih antara rendering kualitas standar dan tinggi tergantung pada kebutuhan dan preferensi Anda."
+    },
+    "feature4": {
+      "title": "Pemrosesan Cepat",
+      "content": "AI kami yang dioptimalkan menghasilkan video kepala berbicara dengan cepat tanpa mengorbankan kualitas."
+    },
+    "feature5": {
+      "title": "Mudah Digunakan",
+      "content": "Antarmuka sederhana memudahkan siapa saja untuk membuat video kepala berbicara yang tampak profesional tanpa keahlian teknis."
+    },
+    "feature6": {
+      "title": "Kustomisasi Gaya",
+      "content": "Tambahkan panduan untuk membantu AI dalam membuat video dengan suasana atau gaya presentasi tertentu."
+    }
+  },
+  "aspectRatio": {
+    "label": "Rasio Aspek",
+    "landscape": "Lanskap",
+    "portrait": "Potret",
+    "square": "Kotak"
+  },
+  "resolution": {
+    "label": "Resolusi"
+  },
+  "zapReminder": "Zap dihitung berdasarkan durasi audio (default: 10 detik)"
+}

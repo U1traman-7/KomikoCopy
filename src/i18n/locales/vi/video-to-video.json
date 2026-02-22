@@ -1,0 +1,503 @@
+{
+  "title": "Video to Video AI",
+  "description": "Biến video của bạn thành tác phẩm nghệ thuật với công nghệ Video to Video AI. Tính năng Chuyển Đổi Phong Cách Video độc đáo của chúng tôi sẽ biến đổi video của bạn thành các phong cách anime, hoạt hình, manga và manhwa, đồng thời vẫn giữ nguyên chuyển động và thời gian gốc.",
+  "meta": {
+    "title": "Video to Video AI | Chuyển Đổi Phong Cách Video Tuyệt Vời Nhất",
+    "description": "Biến video của bạn thành tác phẩm nghệ thuật với công nghệ Video to Video AI. Tính năng Chuyển Đổi Phong Cách Video độc đáo của chúng tôi sẽ biến đổi video của bạn thành các phong cách anime, hoạt hình, manga và manhwa, đồng thời vẫn giữ nguyên chuyển động và thời gian gốc.",
+    "fullDescription": "Công cụ Video to Video AI mang tính đột phá, biến những video thông thường thành những kiệt tác anime, hoạt hình, manga và manhwa đầy tính thẩm mỹ. Công nghệ Chuyển Đổi Phong Cách Video tiên tiến của chúng tôi bảo toàn sự nhất quán của chuyển động đồng thời áp dụng các phong cách nghệ thuật đa dạng như anime Studio Ghibli, manhwa Hàn Quốc, manga Nhật Bản, hoạt hình màu nước và các phong cách hoạt hình khác. Hoàn hảo cho những nhà sáng tạo nội dung, nhà làm phim hoạt hình và nghệ sĩ đang tìm kiếm một công cụ Chuyển Đổi Phong Cách Video chuyên nghiệp.",
+    "keywords": "Video to Video AI, Chuyển Đổi Phong Cách Video, tạo video anime, bộ lọc video hoạt hình, chuyển đổi phong cách manga, hoạt hình manhwa, chuyển đổi video sang anime, công cụ hoạt hình, tạo video hoạt hình, video phong cách anime, tạo video manga, tạo kiểu video, tạo video hoạt hình, bộ lọc video truyện tranh, chuyển đổi anime, chuyển đổi phong cách hoạt hình"
+  },
+  "ui": {
+    "title": "Video to Video AI",
+    "tooltip": "Biến video của bạn thành tác phẩm nghệ thuật với Video to Video AI và tính năng Chuyển Đổi Phong Cách Video",
+    "generatedVideos": "Video Đã Tạo Phong Cách",
+    "emptyState": "Video anime và hoạt hình theo phong cách của bạn sẽ hiển thị ở đây",
+    "steps": {
+      "uploadVideo": "1. Tải Video Lên",
+      "styleSelection": "Lựa chọn phong cách",
+      "generateVideo": "3. Tạo Video"
+    },
+    "upload": {
+      "dragText": "Nhấn để tải lên hoặc kéo video của bạn vào đây",
+      "formatInfo": "Hỗ trợ tệp MP4, MOV, AVI • Tối đa 15 giây • Tối đa 50MB",
+      "extractFrameManually": "Trích Xuất Khung Hình Đầu Tiên Thủ Công",
+      "bestResultsTip": "Để có kết quả tốt nhất, hãy sử dụng video có cảnh quay đơn - tốt nhất là quay liên tục.",
+      "safariFormatInfo": "Hỗ trợ tệp MP4, MOV, AVI • Tối đa 15 giây • Tối đa 50MB",
+      "safariNotice": "Lưu ý cho người dùng Safari",
+      "safariLimitWarning": "Video bị giới hạn trong vòng 15 giây hoặc ngắn hơn. Để tải video dài hơn hoặc điều chỉnh thời lượng tùy ý, vui lòng sử dụng trình duyệt Chrome.",
+      "bestResultsTip1": "Để có kết quả tốt nhất, hãy sử dụng video quay trong một cảnh liên tục.",
+      "bestResultsTip2": "Nếu có diễn viên xuất hiện, khung hình đầu tiên nên cho thấy họ nhìn về phía trước. Tốt nhất là chỉ có một diễn viên chính trong video và nên bao gồm ít nhất toàn bộ phần thân trên."
+    },
+    "duration": {
+      "title": "Thời Lượng",
+      "description": "Chọn thời lượng để tạo video. Thời lượng càng dài thì càng tốn nhiều zaps.",
+      "originalDuration": "Gốc: {{duration}}s",
+      "tooLong": "Quá Dài",
+      "willBeTrimmed": "Sẽ cắt từ {{original}}s thành {{target}}s",
+      "originalLength": "Độ dài gốc",
+      "safariNote": "Đã phát hiện Safari: Sử dụng độ dài video gốc để có sự tương thích cao nhất",
+      "chromeAdvice": "Để tùy chỉnh thời lượng, vui lòng sử dụng trình duyệt Chrome",
+      "safariUseOriginal": "Người dùng Safari: Video sẽ sử dụng độ dài gốc để đảm bảo tương thích tốt nhất"
+    },
+    "videoMode": {
+      "title": "Chế Độ Tạo",
+      "human": "Chế Độ Video Người",
+      "humanDescription": "Tối ưu hóa cho video chân dung và đối tượng là người",
+      "general": "Chế Độ Chung",
+      "generalDescription": "Phù hợp với mọi đối tượng và loại cảnh"
+    },
+    "videoPrompt": {
+      "title": "Lời nhắc",
+      "placeholder": "Ví dụ: cô gái anime đang nhảy",
+      "description": "Thêm chi tiết để hướng dẫn quá trình tạo video",
+      "optional": "(Tùy chọn)"
+    },
+    "framePreview": {
+      "original": "Gốc",
+      "styled": "Đã Tạo Phong Cách",
+      "applyingStyle": "Đang Áp Dụng Phong Cách...",
+      "awaitingStyle": "Đang Chờ Phong Cách",
+      "selectStyleBelow": "Chọn phong cách bên dưới",
+      "beforeAfterComparison": "So sánh trước và sau khi chuyển đổi phong cách",
+      "applyingStyleToFrame": "Đang áp dụng phong cách bạn đã chọn cho khung hình...",
+      "frameReferenceText": "Khung hình này sẽ được sử dụng làm mẫu tham khảo cho Chuyển Đổi Phong Cách Video",
+      "styleTooltip": "Khung hình đã tạo kiểu này sẽ hướng dẫn toàn bộ quá trình chuyển đổi video."
+    },
+    "styleModes": {
+      "templates": "Mẫu",
+      "prompt": "Gợi Ý",
+      "reference": "Tham Khảo"
+    },
+    "styleTemplates": {
+      "anime": "Anime",
+      "ghibliAnime": "Anime Ghibli",
+      "koreanManhwa": "Manhwa Hàn Quốc",
+      "cartoon": "Hoạt Hình",
+      "manga": "Manga",
+      "inkWash": "Rửa Mực",
+      "watercolor": "Màu Nước",
+      "lineArt": "Nghệ Thuật Đường Nét",
+      "lowPoly": "Low Poly",
+      "clay": "Đất Sét",
+      "pixelArt": "Pixel Art",
+      "origami": "Giấy Origami",
+      "lego": "Lego",
+      "vaporwave": "Vaporwave",
+      "rickAndMorty": "Rick and Morty",
+      "southPark": "Công viên South Park",
+      "simpsons": "Simpsons",
+      "naruto": "Naruto",
+      "onePiece": "One Piece",
+      "myLittlePony": "My Little Pony",
+      "comic": "Truyện tranh",
+      "miku": "Miku",
+      "barbie": "Búp bê Barbie",
+      "goku": "Goku",
+      "trump": "Donald Trump",
+      "princess": "Công chúa/Hoàng tử",
+      "kimono": "Trang phục Kimono/Yukata",
+      "superhero": "Anh hùng siêu nhiên",
+      "magicalGirl": "Bé/Cậu phép thuật",
+      "hogwarts": "Hogwarts",
+      "cowboy": "Chàng cao bồi",
+      "sailorUniform": "Đồng phục thủy thủ",
+      "pixar": "Phong cách Pixar",
+      "apocalypse": "Ngày tận thế",
+      "magicalWorld": "Thế giới kỳ diệu",
+      "dreamland": "Vùng đất mơ",
+      "cyberpunk": "Phong cách Cyberpunk",
+      "kpopIdol": "Thần tượng Kpop",
+      "cloud": "Đám Mây",
+      "mars": "Sao Hoả",
+      "outerSpace": "Không Gian Vũ Trụ",
+      "sailorMoon": "Thuỷ Thủ Mặt Trăng",
+      "pencilSketch": "Bản vẽ bằng bút chì",
+      "retroGame": "Trò chơi Cổ điển",
+      "mobileGame": "Trò chơi Di động",
+      "psGame": "Trò chơi PlayStation",
+      "underwater": "Dưới Làn Nước",
+      "snow": "Băng Tuyết",
+      "toyBricks": "Xếp Hình Đồ Chơi",
+      "skeleton": "Bộ Xương",
+      "fire": "Lửa Cháy",
+      "muscle": "Cơ Bắp",
+      "metal": "Kim Loại",
+      "crystal": "Pha Lê",
+      "westernAnimation": "Phim Hoạt Hình Phương Tây",
+      "vanGogh": "Trường Phái Van Gogh",
+      "oilPainting": "Tranh Sơn Dầu",
+      "ice": "Đá",
+      "mikuCosplay": "Hóa trang thành Miku",
+      "gokuCosplay": "Hóa trang thành Goku",
+      "narutoCosplay": "Hóa trang thành Naruto",
+      "sailorMoonCosplay": "Hóa trang thành Thủy thủ Mặt trăng",
+      "digitalIllustration": "Tranh Kỹ thuật số",
+      "xRay": "Chụp X-quang",
+      "neonSign": "Biển báo Neon",
+      "gta": "GTA",
+      "callOfDuty": "Call of Duty",
+      "minecraft": "Minecraft",
+      "theLegendOfZelda": "Truyền thuyết Zelda",
+      "harryPotter": "Harry Potter",
+      "starWars": "Chiến tranh giữa các vì sao",
+      "avatar": "Avatar",
+      "dune": "Dune",
+      "theLordOfTheRings": "Chúa tể của những chiếc nhẫn",
+      "frozen": "Nữ hoàng Băng giá",
+      "catGirlorBoy": "Cô/Cậu mèo",
+      "maiden": "Thiếu nữ",
+      "bunnyGirlorBoy": "Cô/Cậu thỏ",
+      "samurai": "Samurai",
+      "ninja": "Ninja",
+      "foxGirlorBoy": "Cô/Cậu cáo",
+      "elf": "Yêu tinh",
+      "idol": "Thần tượng",
+      "mechaPilot": "Phi công Mecha",
+      "playdoh": "Đất nặn",
+      "yarn": "Cuộn chỉ",
+      "marble": "Đá cẩm thạch",
+      "christmas": "Giáng sinh",
+      "wizardingWorld": "Thế giới Phù thủy",
+      "heaven": "Thiên đường",
+      "hell": "Địa ngục",
+      "captainAmerican": "Đội trưởng Mỹ",
+      "maleficent": "Tiên hắc ám",
+      "tinkerbell": "Tinker Bell",
+      "robot": "Người máy",
+      "angel": "Thiên thần",
+      "zombie": "Thây ma",
+      "pirate": "Cướp biển",
+      "medieval": "Thời Trung Cổ",
+      "knight": "Hiệp sĩ",
+      "goblin": "Yêu quái",
+      "monkeyDLuffy": "Monkey D. Luffy",
+      "gojoSatoru": "Gojo Satoru",
+      "wolfGirlorBoy": "Cô gái/Cậu bé sói",
+      "vampire": "Ma cà rồng",
+      "werewolf": "Người sói",
+      "iosEmoji": "Biểu Tượng Cảm Xúc iOS",
+      "theSimpsons": "Gia đình Simpsons",
+      "animeCharacter": "Nhân vật Anime",
+      "cyborg": "Người máy Cyborg",
+      "beagle": "Chó Beagle",
+      "poodle": "Chó Poodle",
+      "orangeCat": "Mèo cam",
+      "sphynxCat": "Mèo Sphynx"
+    },
+    "prompt": {
+      "placeholder": "Mô tả phong cách bạn muốn chuyển đổi...",
+      "example": "Ví dụ: \"Thay thế người đàn ông bằng Naruto\", \"Biến thành phong cách anime cổ điển thập niên 90\", \"Mặc cho cô gái một chiếc váy hoa\""
+    },
+    "reference": {
+      "uploadText": "Tải lên khung hình đã tạo kiểu trước của bạn làm mẫu tham khảo",
+      "formatInfo": "Hỗ trợ JPG, PNG, JPEG, WEBP • Tối đa 10MB",
+      "compositionWarning": "Đảm bảo hình ảnh tham khảo khớp với bố cục chính xác của khung hình đầu tiên trong video gốc."
+    },
+    "buttons": {
+      "applying": "Đang Áp Dụng...",
+      "useNewReference": "Sử Dụng Tham Khảo Mới",
+      "applyNewStyle": "Áp Dụng Phong Cách Mới",
+      "useReference": "Sử Dụng Tham Khảo",
+      "applyStyle": "Áp Dụng Phong Cách",
+      "generateVideo": "Tạo Video",
+      "generatingVideo": "Đang Tạo Video...",
+      "generateMore": "Tạo Thêm Video",
+      "createAnother": "Tạo Video Khác",
+      "applyStyleWithName": "Áp dụng kiểu {{style}}",
+      "applyNewStyleWithName": "Áp dụng kiểu mới {{style}}"
+    },
+    "separators": {
+      "readyToGenerate": "Sẵn sàng tạo video"
+    },
+    "styleCategories": {
+      "tStyleTransfer": "Chuyển Đổi Phong Cách",
+      "changeMaterial": "Thay Đổi Chất Liệu",
+      "changeEnvironment": "Thay Đổi Không Gian",
+      "cosplay": "Hóa Trang",
+      "gameRender": "Hiển thị Trò chơi",
+      "switchScene": "Đổi Cảnh",
+      "replaceCharacter": "Thay Nhân vật",
+      "movieWorld": "Thế giới Điện ảnh",
+      "animeWorld": "Thế giới Hoạt hình",
+      "game": "Trò chơi",
+      "movie": "Phim/Chương trình truyền hình",
+      "anime": "Hoạt hình Nhật",
+      "animal": "Động vật"
+    },
+    "styleTemplatesTitle": "Mẫu phong cách",
+    "viewAll": "Xem tất cả",
+    "selectAStyle": "Chọn phong cách",
+    "selected": "Đã chọn",
+    "all": "Tất cả",
+    "trending": "Thịnh hành",
+    "model": {
+      "label": "Mẫu",
+      "placeholder": "Chọn Mẫu",
+      "ariaLabel": "Chọn Mẫu",
+      "options": {
+        "rayFlash": "V2V Đa Năng",
+        "actTwo": "Video Người V2V (Khuôn mặt phải được nhìn thấy rõ ràng)",
+        "aleph": "V2V Pro",
+        "v2vHuman": "V2V Human Video (Cần thấy rõ khuôn mặt)",
+        "v2vGeneral": "V2V Chung",
+        "v2vPro": "V2V Chuyên nghiệp",
+        "wanAnimate": "Wan Animate (Tốt nhất cho Hoạt hình nhân vật)"
+      },
+      "descriptions": {
+        "rayFlash": "Chuyển đổi phong cách nhanh chóng cho mọi video (có người hoặc không có người). Hoạt động tốt nhất khi có một cảnh quay liên tục.",
+        "actTwo": "Dành cho video có con người với nền tĩnh. Mô phỏng lại các biểu cảm và chuyển động cơ thể.",
+        "aleph": "Chuyển đổi video sang video chất lượng cao, đa năng.",
+        "v2vHuman": "Dành cho video có người với nền tĩnh. Sao chép biểu cảm và cử động cơ thể.",
+        "v2vGeneral": "Chuyển đổi phong cách nhanh cho bất kỳ video nào (có người hoặc không). Hoạt động tốt nhất với một cảnh quay liên tục.",
+        "v2vPro": "Chuyển đổi video sang video chất lượng cao và linh hoạt.",
+        "wanAnimate": "Dành cho video có nhân vật với nền tĩnh. Tái tạo biểu cảm và chuyển động cơ thể. Tốt nhất cho phim hoạt hình 3D."
+      },
+      "zapsPerSecond": "zaps/s"
+    },
+    "ratioSelector": {
+      "label": "Tỷ Lệ Khung Hình Đầu Ra",
+      "ariaLabel": "Chọn Tỷ Lệ Khung Hình"
+    },
+    "actTwo": {
+      "bodyControl": "Kiểm Soát Cơ Thể",
+      "bodyControlDesc": "Khi bật, các chuyển động và cử chỉ toàn thân sẽ được áp dụng cùng với biểu cảm khuôn mặt.",
+      "expressionIntensity": "Cường Độ Biểu Cảm",
+      "expressionIntensityDesc": "Giá trị lớn hơn sẽ làm tăng mức độ biểu cảm của nhân vật.",
+      "ratioDesc": "Độ phân giải của video đầu ra.",
+      "actTwoVideoTooShort": "Đối với Hành động Hai, video tham khảo phải có độ dài ít nhất là {{min}} giây.",
+      "videoTooShort": "Đối với video V2V của con người, video tham chiếu phải có độ dài tối thiểu {{min}} giây."
+    },
+    "uploadTips": {
+      "title": "Để có kết quả tốt nhất (chất lượng có thể thay đổi nếu không tuân thủ)",
+      "tip1": "1. Sử dụng một cảnh quay liên tục (tách riêng video có nhiều cảnh và chuyển đổi từng đoạn).",
+      "tip2": "2. Chỉ bao gồm một người duy nhất, đảm bảo họ đủ lớn trong khung hình."
+    }
+  },
+  "whatIs": {
+    "title": "Video to Video AI là gì?",
+    "description": "Video to Video AI biến video thông thường thành hoạt hình theo phong cách anime, hoạt hình, manga và manhwa bằng công nghệ Chuyển Đổi Phong Cách Video tiên tiến. Quy trình hai bước của chúng tôi trước tiên áp dụng phong cách bạn chọn cho khung hình tham khảo, sau đó sử dụng khung hình đã tạo kiểu này để chuyển đổi toàn bộ video của bạn trong khi vẫn giữ nguyên chuyển động và thời gian gốc. Chọn từ hơn 20 phong cách bao gồm anime Studio Ghibli, manhwa Hàn Quốc, manga Nhật Bản và những phong cách hoạt hình phổ biến khác với Chuyển Đổi Phong Cách Video của chúng tôi."
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/dancing-input.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/fox-boy.webm",
+      "inputLabel": "Video Gốc",
+      "outputLabel": "Kết Quả Chuyển Đổi",
+      "description": "Anime | Phong Cách: Cô/Bé Cáo"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/drum-set.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/the-simpsons.webm",
+      "inputLabel": "Video Gốc",
+      "outputLabel": "Kết Quả Chuyển Đổi",
+      "description": "Phim/Chương Trình | Phong Cách: The Simpsons"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/skateboard.webm",
+      "output": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/assets/examples/video-to-video/minfecraft.webm",
+      "inputLabel": "Video Gốc",
+      "outputLabel": "Kết Quả Chuyển Đổi",
+      "description": "Trò Chơi | Phong Cách: Minecraft"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "Video Gốc",
+      "outputLabel": "Phong Cách Comic",
+      "description": "Chuyển Đổi Phong Cách | Phong Cách: Comic",
+      "isSpecial": true
+    },
+    {
+      "id": 5,
+      "layout": "single",
+      "type": "video",
+      "output": "/images/examples/video-to-video/dog.webm",
+      "label": "Biến Hình Anime",
+      "description": "Biến đổi chó đời thực thành phong cách anime hiển thị thú cưng thực tế được chuyển đổi thành nhân vật hoạt hình"
+    }
+  ],
+  "howTo": {
+    "title": "Cách Sử Dụng Video to Video AI"
+  },
+  "steps": {
+    "step1": {
+      "title": "Tải Video Của Bạn Lên",
+      "content": "Tải lên bất kỳ tệp video nào (MP4, MOV, AVI) có độ dài tối đa 15 giây và dung lượng 50MB để xử lý AI từ Video sang Video. Video dài hơn 15 giây sẽ tự động được cắt ngắn để tối ưu hóa chuyển đổi phong cách."
+    },
+    "step2": {
+      "title": "Tham Khảo Chuyển Đổi Phong Cách Video",
+      "content": "Chúng tôi trích xuất khung hình đầu tiên và áp dụng phong cách anime, hoạt hình hoặc manga bạn đã chọn để tạo hướng dẫn tham khảo cho quá trình chuyển đổi Chuyển Đổi Phong Cách Video nhất quán."
+    },
+    "step3": {
+      "title": "Chọn Phong Cách Nghệ Thuật",
+      "content": "Chọn từ hơn 20 phong cách có sẵn như anime Studio Ghibli, manhwa Hàn Quốc, manga Nhật Bản hoặc tạo phong cách tùy chỉnh bằng gợi ý văn bản và hình ảnh tham khảo cho Chuyển Đổi Phong Cách Video."
+    },
+    "step4": {
+      "title": "Tạo Video to Video AI",
+      "content": "Video to Video AI của chúng tôi chuyển đổi toàn bộ video của bạn bằng khung hình tham khảo đã tạo kiểu đồng thời giữ lại tất cả chuyển động, biểu cảm và thời gian gốc nhờ công nghệ Chuyển Đổi Phong Cách Video nâng cao."
+    }
+  },
+  "benefits": {
+    "title": "Tại Sao Nên Sử Dụng Video to Video AI",
+    "description": "Video to Video AI của chúng tôi cung cấp công nghệ Chuyển Đổi Phong Cách Video tiên tiến nhất với khả năng bảo toàn chuyển động, nhiều tùy chọn phong cách và giá cả minh bạch."
+  },
+  "features": {
+    "feature1": {
+      "title": "Bảo Tồn Chuyển Động Hoàn Hảo",
+      "content": "Video to Video AI duy trì mọi chi tiết của chuyển động gốc, biểu cảm khuôn mặt và thời gian đồng thời áp dụng phong cách anime, hoạt hình hoặc manga với sự nhất quán tuyệt vời của Chuyển Đổi Phong Cách Video trên từng khung hình."
+    },
+    "feature2": {
+      "title": "Hơn 20 Tùy Chọn Chuyển Đổi Phong Cách Video",
+      "content": "Chọn từ anime Studio Ghibli, manhwa Hàn Quốc, manga Nhật Bản, hoạt hình Disney, phong cách Naruto, v.v. Tạo các Chuyển Đổi Phong Cách Video tùy chỉnh bằng gợi ý văn bản hoặc hình ảnh tham khảo với Video to Video AI."
+    },
+    "feature3": {
+      "title": "Đầu Ra Chất Lượng Chuyên Nghiệp",
+      "content": "Tạo video anime và hoạt hình độ nét cao với ứng dụng Chuyển Đổi Phong Cách Video nhất quán, chuyển đổi mượt mà và không có hiện tượng nhấp nháy hoặc tạo tác với Video to Video AI của chúng tôi."
+    },
+    "feature4": {
+      "title": "Hệ Thống Chi Phí Thông Minh",
+      "content": "Giá cả minh bạch với các khoản phí riêng cho Chuyển Đổi Phong Cách Video và tạo video. Thử nghiệm với nhiều phong cách khác nhau mà không phải trả thêm chi phí video bằng Video to Video AI."
+    },
+    "feature5": {
+      "title": "Quy Trình Hai Bước Dễ Dàng",
+      "content": "Quy trình làm việc Video to Video AI đơn giản: tải video lên, áp dụng Chuyển Đổi Phong Cách Video cho khung hình tham khảo, tạo video đầy đủ. Không cần kiến thức chuyên môn kỹ thuật, có theo dõi tiến độ theo thời gian thực."
+    },
+    "feature6": {
+      "title": "Tối Ưu Hóa Tự Động",
+      "content": "Xử lý Video to Video AI thông minh với cắt xén tự động, hỗ trợ định dạng (MP4, MOV, AVI) và tính toán chi phí dựa trên thời lượng để Chuyển Đổi Phong Cách Video tối ưu."
+    }
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp về Video to Video AI",
+    "description": "Các câu hỏi thường gặp về công cụ, quy trình, chi phí và các phương pháp hay nhất về Video to Video AI và Chuyển Đổi Phong Cách Video của chúng tôi.",
+    "q1": "Video to Video AI hoạt động như thế nào?",
+    "a1": "Video to Video AI của chúng tôi sử dụng quy trình Chuyển Đổi Phong Cách Video hai bước: 1) Trích xuất khung hình tham khảo và áp dụng phong cách anime/hoạt hình bạn đã chọn, 2) Chuyển đổi toàn bộ video bằng khung hình đã tạo kiểu này đồng thời giữ lại chuyển động và thời gian gốc. Điều này đảm bảo ứng dụng Chuyển Đổi Phong Cách Video nhất quán trên tất cả các khung hình.",
+    "q2": "Các yêu cầu về định dạng video cho Video to Video AI là gì?",
+    "a2": "Chúng tôi hỗ trợ các tệp định dạng MP4, MOV và AVI với dung lượng tối đa 50MB để xử lý AI từ Video sang Video. Video bị giới hạn trong 15 giây và sẽ tự động được cắt ngắn nếu dài hơn để tối ưu hóa chuyển đổi phong cách và đảm bảo hiệu quả chi phí.",
+    "q3": "Chuyển Đổi Phong Cách Video mất bao lâu?",
+    "a3": "Tổng thời gian xử lý bằng Video to Video AI mất 5-10 phút: Chuyển Đổi Phong Cách Video (1-3 phút) và tạo video (3-7 phút). Bạn có thể theo dõi tiến trình Chuyển Đổi Phong Cách Video trong thời gian thực.",
+    "q4": "Chi phí cho Video to Video AI là bao nhiêu?",
+    "a4": "Các khoản phí riêng cho Chuyển Đổi Phong Cách Video và tạo video dựa trên thời lượng. Chi phí của Video to Video AI được hiển thị theo thời gian thực trước khi xử lý và tín dụng chỉ được khấu trừ sau khi hoàn thành thành công Chuyển Đổi Phong Cách Video.",
+    "q5": "Tôi có thể tạo phong cách Chuyển Đổi Phong Cách Video tùy chỉnh không?",
+    "a5": "Có! Chọn từ hơn 20 mẫu có sẵn (Studio Ghibli, manhwa Hàn Quốc, manga Nhật Bản, v.v.), viết gợi ý văn bản tùy chỉnh hoặc tải lên hình ảnh tham khảo để tạo ra các Chuyển Đổi Phong Cách Video độc đáo với Video to Video AI của chúng tôi.",
+    "q6": "Điều gì tạo nên một video đầu vào tốt cho Video to Video AI?",
+    "a6": "Kết quả Chuyển Đổi Phong Cách Video tốt nhất có được với các đối tượng rõ ràng, ánh sáng tốt, chuyển động ổn định và các đặc điểm được xác định rõ. Tránh các chuyển động nhanh, cảnh quay tối hoặc mờ để có quá trình xử lý Video to Video AI tối ưu. Video dưới 5 giây có người hoặc vật thể rõ ràng sẽ cho kết quả tốt nhất với Chuyển Đổi Phong Cách Video."
+  },
+  "seo": {
+    "meta": {
+      "title": "Video to Video AI | Công cụ Chuyển đổi Phong cách Video Tốt nhất",
+      "description": "Chuyển đổi video của bạn với AI Video to Video. Công nghệ Chuyển đổi Phong cách Video tiên tiến giúp biến đổi bất kỳ video nào thành phong cách anime, hoạt hình, manga và manhwa mà vẫn giữ nguyên chuyển động và thời gian gốc.",
+      "fullDescription": "Công cụ AI Video to Video giúp biến đổi video thông thường thành kiệt tác theo phong cách anime, hoạt hình, manga, và manhwa. Công nghệ Chuyển đổi Phong cách Video tiên tiến bảo toàn sự nhất quán chuyển động khi áp dụng các phong cách nghệ thuật bao gồm anime Studio Ghibli, manhwa Hàn Quốc, manga Nhật Bản, hoạt hình màu nước và nhiều hơn nữa. Lý tưởng cho những người tạo nội dung, nhà làm phim hoạt hình và nghệ sĩ muốn có Chuyển đổi Phong cách Video chất lượng chuyên nghiệp.",
+      "keywords": "AI Video to Video, Chuyển đổi Phong cách Video, trình tạo video anime, bộ lọc video hoạt hình, chuyển đổi phong cách manga, hoạt hình manhwa, chuyển đổi video thành anime, công cụ hoạt hình, tạo video hoạt hình, video phong cách anime, tạo video manga, phong cách hóa video, trình tạo video hoạt hình, bộ lọc video truyện tranh, chuyển đổi anime, chuyển đổi phong cách hoạt hình"
+    },
+    "hero": {
+      "title": "Video to Video AI"
+    },
+    "whatIs": {
+      "title": "Video to Video AI là gì?",
+      "description": "Video to Video AI biến đổi video thông thường thành hoạt hình theo phong cách anime, manga và manhwa bằng công nghệ Chuyển đổi Phong cách Video tiên tiến. Quy trình hai bước của chúng tôi áp dụng phong cách bạn chọn vào một khung tham chiếu và sử dụng khung này để biến đổi toàn bộ video trong khi giữ nguyên chuyển động và thời gian gốc. Chọn từ hơn 20 phong cách như anime Studio Ghibli, manhwa Hàn Quốc, manga Nhật Bản với Chuyển đổi Phong cách Video của chúng tôi."
+    },
+    "examples": {
+      "title": "Ví dụ về Video to Video AI",
+      "description": "Xem AI Video to Video biến đổi video thành các phong cách anime, manga và manhwa tuyệt đẹp mà vẫn giữ nguyên sự nhất quán chuyển động với Chuyển đổi Phong cách Video tiên tiến.",
+      "style": "Phong cách Áp dụng"
+    },
+    "howToUse": {
+      "title": "Cách sử dụng Video to Video AI",
+      "steps": [
+        {
+          "title": "Tải Lên Video Của Bạn",
+          "content": "Hãy tải lên tệp video bất kỳ (MP4, MOV, AVI) với độ dài tối đa 15 giây và dung lượng không quá 50MB để sử dụng AI Video to Video. Video có thời lượng dài hơn 15 giây sẽ tự động được cắt ngắn để tối ưu hóa quá trình chuyển đổi phong cách video."
+        },
+        {
+          "title": "Tham Khảo Chuyển Đổi Phong Cách Video",
+          "content": "Chúng tôi sẽ trích xuất khung hình đầu tiên và áp dụng phong cách bạn đã chọn như anime, hoạt hình hoặc manga để tạo một mẫu tham khảo giúp biến đổi phong cách video một cách nhất quán."
+        },
+        {
+          "title": "Chọn Phong Cách Nghệ Thuật",
+          "content": "Lựa chọn từ hơn 20 phong cách như anime Studio Ghibli, manhwa Hàn Quốc, manga Nhật Bản. Hoặc tạo phong cách tùy chỉnh với các gợi ý văn bản và hình ảnh tham khảo để chuyển đổi phong cách video."
+        },
+        {
+          "title": "Tạo Video to Video AI",
+          "content": "Công nghệ AI Video to Video sẽ biến đổi toàn bộ video của bạn bằng cách sử dụng khung tham khảo đã được tạo phong cách, giữ lại toàn bộ chuyển động gốc, biểu cảm và thời gian thông qua chuyển đổi phong cách video tiên tiến."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Tại sao nên chọn Video to Video AI",
+      "description": "Video to Video AI cung cấp Chuyển đổi Phong cách Video tiên tiến với bảo toàn chuyển động, nhiều tùy chọn phong cách và giá cả minh bạch.",
+      "features": [
+        {
+          "title": "Bảo Quản Chuyển Động Hoàn Hảo",
+          "content": "AI Video to Video giữ nguyên mọi chi tiết của chuyển động gốc, biểu cảm khuôn mặt và thời gian, đồng thời áp dụng phong cách anime, hoạt hình hoặc manga với sự nhất quán tuyệt đối trong chuyển đổi phong cách video.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Hơn 20 Tùy Chọn Chuyển Đổi Phong Cách Video",
+          "content": "Chọn từ các phong cách như anime Studio Ghibli, manhwa Hàn Quốc, manga Nhật Bản, hoạt hình Disney, phong cách Naruto và hơn thế nữa. Tạo chuyển đổi phong cách video tùy chỉnh với gợi ý văn bản hoặc hình ảnh tham khảo sử dụng AI Video to Video.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Chất Lượng Chuyên Nghiệp",
+          "content": "Tạo video anime và hoạt hình với độ phân giải cao, áp dụng chuyển đổi phong cách video nhất quán, chuyển đổi mượt mà, không nhấp nháy hay lỗi với AI Video to Video của chúng tôi.",
+          "icon": "✨"
+        },
+        {
+          "title": "Hệ Thống Chi Phí Thông Minh",
+          "content": "Giá cả minh bạch với các khoản phí riêng biệt cho chuyển đổi phong cách video và tạo video. Thử nghiệm với nhiều phong cách khác nhau mà không tốn thêm chi phí video khi sử dụng AI Video to Video.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Quy Trình Hai Bước Dễ Dàng",
+          "content": "Quy trình AI Video to Video đơn giản: tải video lên, áp dụng chuyển đổi phong cách video cho khung tham khảo, tạo video hoàn chỉnh. Không cần kỹ năng kỹ thuật và theo dõi tiến độ theo thời gian thực.",
+          "icon": "👌"
+        },
+        {
+          "title": "Tối Ưu Hóa Tự Động",
+          "content": "Xử lý thông minh AI Video to Video với tự động cắt ngắn, hỗ trợ định dạng (MP4, MOV, AVI) và tính toán chi phí dựa trên thời lượng để tối ưu hóa chuyển đổi phong cách video.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Câu hỏi Thường gặp về Video to Video AI",
+      "description": "Những câu hỏi thường gặp về AI Video to Video và công cụ chuyển đổi phong cách video, quy trình, chi phí và thực tiễn tốt nhất.",
+      "q1": "Video to Video AI hoạt động như thế nào?",
+      "a1": "AI Video to Video sử dụng quy trình chuyển đổi phong cách video hai bước: 1) Trích xuất khung tham chiếu và áp dụng phong cách anime/hoạt hình bạn chọn, 2) Biến đổi toàn bộ video bằng khung phong cách này, bảo toàn chuyển động và thời gian gốc, đảm bảo phong cách nhất quán trên mọi khung hình.",
+      "q2": "Yêu cầu định dạng video cho Video to Video AI là gì?",
+      "a2": "Hỗ trợ định dạng MP4, MOV và AVI với kích thước tệp tối đa 50MB. Video giới hạn 15 giây và sẽ tự động cắt bớt nếu dài hơn.",
+      "q3": "Chuyển đổi Phong cách Video mất bao lâu?",
+      "a3": "Thời gian xử lý tổng cộng 5-10 phút, với chuyển đổi phong cách video mất 1-3 phút và tạo video mất 3-7 phút.",
+      "q4": "Chi phí cho Video to Video AI là gì?",
+      "a4": "Chi phí tách riêng cho chuyển đổi phong cách và tạo video. Hiển thị chi phí thực trước khi xử lý, và chỉ trừ tín dụng sau khi thành công.",
+      "q5": "Tôi có thể tạo phong cách chuyển đổi phong cách video tùy chỉnh không?",
+      "a5": "Có thể! Chọn từ hơn 20 mẫu có sẵn hoặc tạo phong cách tùy chỉnh với văn bản gợi ý hoặc hình ảnh tham khảo.",
+      "q6": "Video đầu vào tốt cho Video to Video AI là gì?",
+      "a6": "Kết quả tốt nhất với đối tượng rõ ràng, ánh sáng tốt, chuyển động ổn định. Tránh chuyển động nhanh, hình ảnh tối hoặc mờ để tối ưu hóa kết quả."
+    },
+    "cta": {
+      "title": "Hãy chuyển đổi video MIỄN PHÍ với công cụ Video to Video AI của chúng tôi ngay hôm nay!",
+      "description": "Tạo ra những video mang phong cách anime và hoạt hình tuyệt đẹp với công nghệ Chuyển Đổi Phong Cách Video tiên tiến.",
+      "buttonText": "Dùng thử Video to Video AI miễn phí"
+    }
+  },
+  "toast": {
+    "video": {
+      "styleTransfer": {
+        "actTwoVideoTooShort": "Đối với Phần Hai, video tham chiếu phải có độ dài ít nhất {{min}} giây."
+      }
+    }
+  }
+}

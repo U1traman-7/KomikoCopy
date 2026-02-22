@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Parceiros | KomikoAI",
+    "description": "Una forças com a KomikoAI e cresçam juntos."
+  },
+  "hero": {
+    "title": "Os Nossos Parceiros",
+    "description": "Sendo a principal plataforma de banda desenhada e animação com IA, colaboramos com os maiores inovadores em IA para revolucionar a produção de conteúdo criativo em design e entretenimento."
+  },
+  "technologyPartners": {
+    "title": "Parceiros Tecnológicos",
+    "description": "Trabalhamos com líderes da indústria para expandir os limites da criatividade da IA",
+    "partners": {
+      "mathosAI": {
+        "name": "Mathos AI",
+        "description": "Mathos AI é um poderoso solucionador de problemas matemáticos com tecnologia de IA que pode ajudá-lo a resolver problemas complexos de matemática."
+      },
+      "collovAI": {
+        "name": "Collov AI",
+        "description": "A Collov AI oferece cenários virtuais com IA de ponta para transformar anúncios imobiliários com designs impressionantes e fotorrealistas. Eleve o seu marketing imobiliário com cenários rápidos e económicos."
+      },
+      "altpageAI": {
+        "name": "altpage.ai",
+        "description": "altpage.ai é um agente de IA que cria páginas de comparação otimizadas para SEO, capturando tráfego das marcas concorrentes. Ele analisa dados, destaca suas vantagens e implementa páginas para posicionar bem, sem a necessidade de habilidades técnicas."
+      },
+      "easysiteAI": {
+        "name": "EasySite",
+        "description": "Construa sites e aplicativos com banco de dados usando IA em segundos. Os recursos incluem banco de dados embutido, conversão para dispositivos móveis, widgets de chat e análises. Compatível com WordPress/Netlify."
+      },
+      "newoaksAI": {
+        "name": "Construtor de Chatbot AI; Construtor de Agente AI",
+        "description": "NewOaks AI gerencia conversas com clientes em todos os seus canais e preenche sua agenda com reuniões. Concentre-se em fechar negócios ao invés de buscar leads!"
+      },
+      "komiko": {
+        "name": "KomikoAI",
+        "description": "KomikoAI: Plataforma de IA tudo-em-um para Arte, Anime e Quadrinhos. As poderosas ferramentas de IA da KomikoAI facilitam para artistas e contadores de histórias darem vida às suas ideias. De colorização de arte linear ao gerador de anime e quadrinhos por IA, temos tudo o que você precisa. Crie ilustrações, quadrinhos, mangás e animações em minutos, não em dias."
+      },
+      "kuaAI": {
+        "name": "kua.ai",
+        "description": "Agente de IA para E-Commerce"
+      },
+      "vidAU": {
+        "name": "VidAU",
+        "description": "VidAU AI permite que você crie vídeos impressionantes em apenas minutos. Basta fornecer um link de produto ou uma breve descrição, e nossa plataforma gerará vídeos de alta qualidade com avatares de IA realistas que falam em vários idiomas e sotaques. Seja para criar conteúdo para TikTok, YouTube, campanhas de marketing ou sessões de treinamento, VidAU AI tem tudo o que você precisa. Desde vídeos curtos e envolventes a explicativos profissionais, nossa plataforma de criação de vídeos em IA, tudo-em-um e fácil de usar, ajuda você a produzir conteúdo convincente rapidamente, ampliando a presença de sua marca e contando sua história com impacto."
+      },
+      "bikaAI": {
+        "name": "Bika.AI",
+        "description": "Bika.ai, espaço de trabalho de IA tudo-em-um para criação de agentes de IA para negócios, combina chatbot de IA, automação, bancos de dados, painéis e wikis, gerenciando e automatizando infinitos processos de negócios. Não há necessidade de comunicação constante com IA. Bika.ai automatiza tarefas repetitivas e integra funções de marketing, vendas e projetos, permitindo que você foque em trabalho estratégico."
+      }
+    }
+  },
+  "partnershipCTA": {
+    "title": "Expanda o Seu Negócio Connosco",
+    "description": "Faça parceria com a KomikoAI para expandir o seu alcance de mercado. Estamos entusiasmados por colaborar com empresas em setores criativos relacionados.",
+    "button": "Contacte a Nossa Equipa"
+  },
+  "productLines": {
+    "title": "Linhas de Produtos",
+    "description": "Explore as nossas soluções inovadoras que remodelam o futuro das ferramentas criativas de IA",
+    "aiComicGeneration": {
+      "title": "Geração de Banda Desenhada com IA",
+      "description": "Crie bandas desenhadas impressionantes instantaneamente com a nossa tecnologia de IA avançada",
+      "items": [
+        "Design de Personagens",
+        "Geração de Cenas de Banda Desenhada",
+        "Narrativa em Vários Painéis",
+        "Controlo de Estilo Personalizado"
+      ]
+    },
+    "imageProcessing": {
+      "title": "Processamento de Imagem",
+      "description": "Ferramentas de imagem de IA profissionais para otimizar o seu fluxo de trabalho criativo",
+      "items": [
+        "Remoção de Fundo",
+        "Colorização de Imagem",
+        "Super-resolução de Imagem",
+        "Coloração de Arte Linear"
+      ]
+    },
+    "videoEnhancement": {
+      "title": "Aprimoramento de Vídeo",
+      "description": "Ferramentas de vídeo poderosas para dar vida às suas criações",
+      "items": [
+        "Interpolação de Quadros de Vídeo",
+        "Super-resolução de Vídeo",
+        "Animação de Vídeo com IA",
+        "Geração de Movimento de Personagem"
+      ]
+    }
+  },
+  "solutions": {
+    "title": "Soluções",
+    "description": "Abordagens personalizadas para diversos segmentos de mercado",
+    "professionals": {
+      "title": "Profissionais",
+      "description": "Ferramentas otimizadas para profissionais criativos",
+      "items": [
+        "Artistas de Banda Desenhada",
+        "Criadores de Conteúdo",
+        "Designers de Jogos",
+        "Ilustradores"
+      ]
+    },
+    "enterprises": {
+      "title": "Empresas",
+      "description": "Soluções de IA escaláveis para empresas",
+      "items": [
+        "Instituições de Ensino",
+        "Indústria do Entretenimento",
+        "Editoras",
+        "Agências de Publicidade"
+      ]
+    }
+  }
+}

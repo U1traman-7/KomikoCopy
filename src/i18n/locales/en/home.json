@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "KomikoAI - AI Anime Generator & OC Maker",
+    "og_title": "KomikoAI - AI Anime Generator & OC Maker",
+    "twitter_title": "KomikoAI - AI Anime Generator & OC Maker",
+    "description": "Create original characters, anime and comics with KomikoAI. Explore 100+ AI tools and creative templates built for fandoms.",
+    "keywords": "Komiko, KomikoAI, Komiko AI, Komiko app, komiko.ai, komiko.app, AI anime generator, OC creator, OC generator, anime AI, AI art generator, AI comic generator, AI animation generator, AI video effects, anime character creator"
+  },
+  "hero": {
+    "title": "What would you like to create?",
+    "community": "Community Creations"
+  },
+  "tabs": {
+    "for_you": "Favorite Apps",
+    "comic": "Comic",
+    "illustration": "Illustration",
+    "animation": "Animation",
+    "all": "All AI Apps"
+  },
+  "create_section": {
+    "ai_art": "AI Art",
+    "storytelling": "Storytelling",
+    "create": "Create your story"
+  },
+  "carousel": {
+    "slide1_title": "AniGen Competition",
+    "slide1_desc": "Create short AI animation, win $3,000+ and pro subscription!",
+    "check_it_out": "Check It Out",
+    "slide2_title": "Video to Video AI",
+    "slide2_desc": "Transform any video into anime, cartoon, manga and manhwa styles while preserving the original motion.",
+    "check_it_out2": "Try It Out"
+  },
+  "banner": {
+    "merch_title": "Turn your characters into merch",
+    "merch_description": "Create plushies, badges, standees and more from your anime characters.",
+    "try_now": "Try Now"
+  },
+  "ai_apps_banner": {
+    "eyebrow": "AI Apps Hub",
+    "title": "Your tools now live on the AI Apps page",
+    "description": "Favorite your go-to tools and browse the complete catalog of AI apps for illustration, animation, comics, and more.",
+    "cta": "Open AI Apps"
+  },
+  "activity_posts": {
+    "video_to_video": {
+      "title": "Video to Video AI",
+      "description": "Transform your videos with Video to Video AI technology. Convert any video to anime, cartoon, manga, and manhwa styles.",
+      "button": "Try Now"
+    },
+    "character_merch": {
+      "title": "Turn Your Characters into Merch",
+      "description": "Create amazing merchandise from your favorite characters including badges, body pillows, plushies, and standees.",
+      "button": "Try Now"
+    },
+    "ambassador": {
+      "title": "Join As KomikoAI Ambassador And Earn Revenue Share💰",
+      "description": "Become a KomikoAI Ambassador and earn revenue share from referrals. Join our affiliate program today!",
+      "button": "Join Now"
+    },
+    "anishort": {
+      "title": "Discover short-form anime, or publish your own series!",
+      "button": "Start Exploring"
+    },
+    "new-playground": {
+      "title": "✨ Explore 100+ Fun Templates",
+      "description": "Transform your photos and characters with viral templates — from chibi emotes and character sheets to realistic merch, Bankai effects, and more!",
+      "button": "Try Now"
+    },
+    "sora-2": {
+      "title": "Sora 2 Now on KomikoAI! Join #SoraAnimeChallenge and Win From $1000 Prize Pool!",
+      "button": "Join Now"
+    },
+    "ad": "Ad"
+  },
+  "generateArt": "Generate Art",
+  "generateTagArt": "Generate {{tag}} Art"
+}

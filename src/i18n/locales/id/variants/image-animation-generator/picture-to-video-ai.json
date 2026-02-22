@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Gambar ke Video",
+      "description": "Temukan kemudahan mengubah gambar statis menjadi video dinamis dengan AI. Konversikan foto, ilustrasi, komik, dan lainnya menjadi video yang menarik dengan alat AI Gambar ke Video kami.",
+      "keywords": "AI Gambar ke Video, pembuatan video AI, gambar ke video, generator video AI, foto ke video AI, ilustrasi ke video, pembuatan animasi AI"
+    },
+    "hero": {
+      "title": "AI Gambar ke Video",
+      "description": "Buka kekuatan AI untuk mengubah gambar menjadi video yang dinamis dan menarik. Gunakan AI Gambar ke Video kami untuk mengubah foto, anime, komik, dan karya seni menjadi video yang memukau."
+    },
+    "whatIs": {
+      "title": "Apa itu AI Gambar ke Video?",
+      "description": "AI Gambar ke Video adalah alat canggih yang memungkinkan Anda membuat video dari gambar statis menggunakan teknologi AI. Cocok untuk membuat konten video yang menarik untuk anime, komik, dan karya seni."
+    },
+    "examples": {
+      "title": "Contoh AI Gambar ke Video",
+      "description": "Lihat contoh video yang dihasilkan menggunakan AI Gambar ke Video kami. Saksikan bagaimana gambar statis Anda dapat diubah menjadi konten video yang dinamis!",
+      "inputAlt": "Contoh Gambar Masukan",
+      "inputLabel": "Gambar Masukan",
+      "outputLabel": "Hasil Video"
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan AI Gambar ke Video",
+      "steps": [
+        {
+          "title": "Unggah Foto Anda",
+          "content": "Unggah gambar yang ingin Anda ubah menjadi video. Baik itu ilustrasi komik, halaman manga, atau karakter anime, AI kami dapat menghidupkannya dalam bentuk video."
+        },
+        {
+          "title": "Masukkan Prompt",
+          "content": "Berikan prompt untuk memandu pembuatan video. Tentukan aksi, gerakan, atau adegan yang Anda inginkan dihasilkan oleh AI."
+        },
+        {
+          "title": "Hasilkan Video",
+          "content": "Klik tombol 'Hasilkan Video' dan saksikan AI kami membuat video dinamis dari gambar Anda."
+        },
+        {
+          "title": "Unduh dan Bagikan",
+          "content": "Unduh video yang dihasilkan AI Anda dan bagikan ke berbagai platform! Ideal untuk media sosial, proyek, dan lainnya."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan AI Gambar ke Video?",
+      "description": "Temukan manfaat mengubah gambar Anda menjadi video yang memukau dengan AI. Alat AI Gambar ke Video kami memudahkan pembuatan video bagi siapa saja, menawarkan kebebasan berkreasi dan hasil berkualitas tinggi.",
+      "features": [
+        {
+          "title": "Pembuatan Video Bertenaga AI",
+          "content": "Rasakan kekuatan AI dalam pembuatan video. Algoritma cerdas kami menganalisis gambar Anda dan menghasilkan video dinamis secara efisien.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Pembuatan Konten Dinamis",
+          "content": "Ubah gambar statis menjadi konten video menarik yang cocok untuk media sosial, presentasi, dan proyek pribadi.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Mudah Digunakan",
+          "content": "Tidak perlu pengalaman mengedit video! Cukup unggah gambar, masukkan prompt, dan biarkan AI kami membuat video.",
+          "icon": "👌"
+        },
+        {
+          "title": "Hemat Waktu dan Tenaga",
+          "content": "Kurangi waktu yang dihabiskan untuk produksi video secara signifikan. AI kami menghasilkan video dengan cepat, mengurangi jam kerja pengeditan tradisional.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Kualitas Output Tinggi",
+          "content": "Dapatkan hasil video berkualitas profesional dengan transisi yang mulus dan gerakan yang realistis.",
+          "icon": "✨"
+        },
+        {
+          "title": "Ekspresi Kreatif",
+          "content": "Fokus pada ide kreatif Anda sementara AI kami mengurus aspek teknis pembuatan video.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "description": "Dapatkan jawaban untuk pertanyaan umum tentang alat AI Gambar ke Video dan cara kerjanya.",
+      "q1": "Apa itu AI Gambar ke Video?",
+      "a1": "AI Gambar ke Video adalah alat AI yang mengubah gambar statis menjadi konten video dinamis. Menggunakan algoritma AI canggih, alat ini membantu pengguna mengonversi foto, ilustrasi, dan karya seni menjadi klip video yang menarik dengan kualitas tinggi.",
+      "q2": "Bagaimana cara membuat video dengan AI Gambar ke Video?",
+      "a2": "Menggunakan AI Gambar ke Video sangat mudah! Unggah gambar Anda, masukkan prompt deskriptif, dan klik 'Hasilkan Video'. AI kami akan menghasilkan video yang menarik berdasarkan input Anda. Alat ini sangat cocok untuk membuat konten dengan cepat dan efisien.",
+      "q3": "Bagaimana cara kerja AI Gambar ke Video?",
+      "a3": "AI Gambar ke Video menggunakan teknologi deep learning mutakhir untuk menganalisis gambar Anda. Teknologi ini menghasilkan video dengan mensimulasikan gerakan, ekspresi, dan adegan dinamis, sehingga Anda dapat membuat konten video profesional dengan mudah.",
+      "q4": "Apa generator gambar ke video terbaik?",
+      "a4": "KomikoAI menyediakan alat generator gambar ke video terbaik. Tujuan kami adalah menjadi platform pembuatan AI terdepan dengan memberikan hasil berkualitas profesional, penyesuaian yang mudah, dan alur kerja yang intuitif—dan dapat dicoba secara gratis. Dengan AI Gambar ke Video dari KomikoAI, Anda dapat membuat konten video yang memukau, menjadikannya sempurna untuk kreator digital dan penggemar.",
+      "q5": "Apakah AI Gambar ke Video KomikoAI gratis secara online?",
+      "a5": "Ya, Anda dapat mencoba AI Gambar ke Video di KomikoAI secara gratis, tanpa perlu berlangganan. Coba alat kami hari ini!",
+      "q6": "Apa yang bisa saya lakukan dengan AI Gambar ke Video?",
+      "a6": "Anda dapat menggunakan AI Gambar ke Video di KomikoAI untuk membuat konten video yang menarik dari gambar statis. Beberapa kemungkinannya termasuk menganimasikan ilustrasi, membuat video dari panel komik, dan menghasilkan konten dinamis untuk platform sosial secara efisien.",
+      "q7": "Bisakah saya menggunakan AI Gambar ke Video di ponsel saya?",
+      "a7": "Ya, Anda dapat menggunakan AI Gambar ke Video sebagai aplikasi web di berbagai perangkat, termasuk smartphone dan komputer, sehingga nyaman untuk semua orang.",
+      "q8": "Bisakah saya mengunduh hasil dari AI Gambar ke Video?",
+      "a8": "Ya, AI Gambar ke Video KomikoAI memungkinkan Anda mengekspor hasil dalam berbagai format, seperti MP4, GIF, WebM, untuk memudahkan berbagi.",
+      "q9": "Mengapa saya harus menggunakan AI Gambar ke Video?",
+      "a9": "Menggunakan AI Gambar ke Video dapat membantu Anda membuat konten video dinamis secara efisien. Alat kami memungkinkan Anda mengubah gambar menjadi video yang mulus dengan kualitas profesional. Nikmati kebebasan kreatif sementara AI kami mengelola aspek teknisnya, sangat cocok untuk pembuat konten yang ingin berinovasi."
+    },
+    "cta": {
+      "title": "Ubah Gambar Anda secara GRATIS dengan AI Gambar ke Video Kami Hari Ini!",
+      "description": "Rasakan kreativitas dan inovasi dengan alat pembuatan video canggih kami.",
+      "buttonText": "Coba AI Gambar ke Video Kami Gratis"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "title": "Model: Anime Pro",
+      "description": "Prompt: Gadis Anime bermain seluncur cepat melewati gang yang diterangi neon di malam hari, berbelok tajam, angin di rambutnya, terlihat dari belakang. Lampu-lampu bercahaya terpantul di trotoar basah saat dia melaju melewati gang sempit.",
+      "videoUrl": "https://dihulvhqvmoxyhkxovko.supabase.co/storage/v1/object/public/husbando-land/app_media/running.webm"
+    },
+    {
+      "id": 2,
+      "title": "Model: Ray",
+      "description": "Prompt: Seorang gadis berbicara dengan sedih",
+      "videoUrl": "/images/examples/image-animation-generator/output6.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Model: Marey",
+      "description": "Prompt: Gerakan Dinamis - Animasi karakter yang cair dan dinamis",
+      "videoUrl": "https://framerusercontent.com/assets/vgdQZ2zcFZsxMSqZv8s2kwwKJ8.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Model: Marey",
+      "description": "Prompt: Kontrol Kamera - Gerakan dan sudut kamera sinematik profesional",
+      "videoUrl": "https://framerusercontent.com/assets/qNhzpeN3vAxl04mGH91EPsPbKow.mp4"
+    }
+  ],
+  "originalKeyword": "Picture to Video AI",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ],
+  "placeholderText": "Generate Picture to Video AI style artwork"
+}

@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Buat Dunia | KomikoAI",
+  "createWorld": "Buat Dunia",
+  "coverImage": "Gambar Sampul",
+  "uploadCoverImage": "Unggah Gambar Sampul",
+  "worldName": "Nama Dunia",
+  "introduction": "Pendahuluan ({{length}}/250)",
+  "introductionPlaceholder": "Deskripsikan cerita secara singkat. Petualangan seperti apa yang akan dialami pemain dan karakter? Gunakan '{character}' saat menyebut karakter.",
+  "storyline": "Alur Cerita ({{length}}/5000)",
+  "storylinePlaceholder": "Jelaskan alur cerita dengan lebih detail. Gunakan '{character}' saat menyebut karakter, dan 'player' saat menyebut pemain.",
+  "winningCondition": "Kondisi Kemenangan ({{length}}/250)",
+  "winningConditionPlaceholder": "Jelaskan kondisi untuk memenangkan permainan.",
+  "rules": "Aturan ({{length}}/5000)",
+  "rulesPlaceholder": "Tentukan aturan permainan. Contoh, “Pemain akan berperan sebagai {character}”, atau “{character} memanggil pemain 'Traveler'”, atau “Setiap baris {character} dimulai dengan (Kegilaan: X), dengan X awalnya diatur ke 100.”",
+  "createWorldButton": "Buat Dunia",
+  "pleaseNote": "Perhatikan:",
+  "nsfwWarning": "Komunitas KomikoAI melarang keras konten NSFW yang eksplisit. Setiap pelanggaran akan mengakibatkan penghapusan konten segera dan potensi larangan permanen dari platform kami. Mari bekerja sama untuk menjaga ruang yang bersih dan aman untuk semua orang. 🤗",
+  "errorWorldName": "Harap masukkan nama dunia",
+  "errorIntroduction": "Harap masukkan pendahuluan",
+  "errorStoryline": "Harap masukkan alur cerita",
+  "errorCoverImage": "Harap unggah gambar sampul",
+  "errorNSFW": "Komunitas KomikoAI melarang keras konten NSFW. Harap bantu kami menjaga ruang yang bersih dan aman."
+}

@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Filtro de IA Naruto",
+      "description": "Transforme as suas fotos em arte vibrante de Naruto com o Filtro de IA Naruto. Crie obras-primas impressionantes inspiradas em anime hoje mesmo!",
+      "keywords": "Filtro de IA Naruto, gerador de anime com IA, transformação de estilo Naruto, criador de personagens com IA"
+    },
+    "hero": {
+      "title": "Filtro de IA Naruto"
+    },
+    "whatIs": {
+      "title": "O que é o Filtro de IA Naruto?",
+      "description": "O Filtro de IA Naruto é uma ferramenta avançada que transforma as suas fotos em obras de arte vibrantes inspiradas na série Naruto. Usando algoritmos de IA sofisticados, replica o estilo, as cores e os designs de personagens únicos de Naruto, permitindo que qualquer pessoa crie belas artes que capturem o espírito do anime."
+    },
+    "examples": {
+      "title": "Exemplos Inspiradores do Filtro de IA Naruto",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como usar o Filtro de IA Naruto",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a sua Foto",
+          "content": "Envie uma imagem nítida e de alta qualidade para uma transformação ideal. Arraste e solte o seu ficheiro na área designada."
+        },
+        {
+          "title": "Passo 2: Selecione o Template Naruto",
+          "content": "Selecione o template Naruto para transformar a sua foto com o estilo Naruto."
+        },
+        {
+          "title": "Passo 3: Converter para Naruto",
+          "content": "Clique no botão 'Converter para Naruto' para iniciar a transformação. Veja como a IA aplica rapidamente a estética de Naruto à sua imagem."
+        },
+        {
+          "title": "Passo 4: Descarregue e Mostre",
+          "content": "Após a transformação, descarregue a sua obra de arte no estilo Naruto. Partilhe com amigos ou guarde como uma peça única!"
+        }
+      ],
+      "subtitle": "Crie arte inspirada em Naruto com facilidade!"
+    },
+    "benefits": {
+      "title": "Por que usar o Filtro de IA Naruto?",
+      "description": "Desbloqueie a criatividade e os benefícios das transformações no estilo Naruto.",
+      "features": [
+        {
+          "title": "🎨 Abrace o Estilo Distinto de Naruto",
+          "content": "Melhore as suas imagens com o estilo arrojado e energético de Naruto, completo com cores dinâmicas e expressões cativantes."
+        },
+        {
+          "title": "⚡ Transformações Rápidas",
+          "content": "Experimente velocidades de processamento rápidas, permitindo que crie obras de arte impressionantes quase instantaneamente."
+        },
+        {
+          "title": "🖼️ Experiência de Utilizador Intuitiva",
+          "content": "Projetada para todos os níveis de proficiência, a nossa interface amigável torna a transformação de imagens fácil e agradável."
+        },
+        {
+          "title": "💫 Múltiplos Usos",
+          "content": "Ideal para projetos pessoais ou necessidades de negócios, crie visuais para redes sociais, impressões personalizadas e muito mais!"
+        },
+        {
+          "title": "🎯 Produções de Alta Qualidade",
+          "content": "Gere imagens de alta resolução que são perfeitas para imprimir e partilhar em várias plataformas."
+        },
+        {
+          "title": "🚀 Desbloqueie a Sua Criatividade",
+          "content": "Experimente o estilo de arte vibrante de Naruto, criando obras de arte que refletem a sua visão artística única."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Filtro de IA Naruto FAQ",
+      "description": "",
+      "q1": "O que é o Filtro de IA Naruto e como funciona?",
+      "a1": "O Filtro de IA Naruto usa algoritmos avançados de IA para analisar e aplicar os estilos artísticos característicos de Naruto às suas imagens.",
+      "q2": "Como posso obter os melhores resultados com o Filtro de IA Naruto?",
+      "a2": "Opte por imagens de alta resolução com boa iluminação e explore várias expressões para uma maior profundidade de transformação.",
+      "q3": "O Filtro de IA Naruto é gratuito?",
+      "a3": "Sim, o Filtro de IA Naruto é gratuito, embora possam existir funcionalidades premium opcionais disponíveis para compra.",
+      "q4": "O que distingue o Filtro de IA Naruto de outros filtros?",
+      "a4": "O Filtro de IA Naruto emula exclusivamente os elementos visuais específicos da série Naruto, tornando-o uma opção distintamente apelativa para fãs e artistas.",
+      "q5": "Posso usar comercialmente as minhas criações do Filtro de IA Naruto?",
+      "a5": "Sim, pode usar as suas criações para fins pessoais e comerciais, mas certifique-se de que adere aos direitos de utilização relativos à franquia Naruto."
+    },
+    "cta": {
+      "title": "Comece a Criar a Sua Arte Naruto Hoje",
+      "description": "Transforme as suas imagens em obras de arte cativantes no estilo Naruto agora. Liberte a sua criatividade com a nossa poderosa ferramenta de IA. Comece e descubra infinitas possibilidades!",
+      "buttonText": "Transformar para Filtro de IA Naruto Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into Naruto AI Filter style",
+  "originalKeyword": "Naruto AI Filter",
+  "examples": [
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Naruto"
+    },
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Naruto"
+    },
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Naruto"
+    },
+    {
+      "image": "/images/examples/playground/naruto-ai-filter/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Naruto"
+    }
+  ]
+}

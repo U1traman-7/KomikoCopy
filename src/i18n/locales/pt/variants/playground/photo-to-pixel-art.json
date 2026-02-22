@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Foto para Pixel Art",
+      "description": "Converta facilmente as suas fotos em pixel art vibrante com a nossa ferramenta de IA. Resultados instantâneos, estilos únicos e utilização gratuita. Comece a criar agora!",
+      "keywords": "Foto para Pixel Art, gerador de pixel art com IA, conversor de imagem com IA, criador de pixel art, pixel art digital"
+    },
+    "hero": {
+      "title": "Foto para Pixel Art"
+    },
+    "whatIs": {
+      "title": "O que é Foto para Pixel Art?",
+      "description": "Foto para Pixel Art é uma ferramenta online especializada que utiliza IA avançada para converter as suas fotos em pixel art cativante. Reimagine as suas imagens em formatos pixelizados e divertidos que evocam nostalgia e despertam a sua criatividade – perfeito para utilizadores casuais e artistas experientes."
+    },
+    "examples": {
+      "title": "Exemplos de Foto para Pixel Art",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como usar Foto para Pixel Art",
+      "steps": [
+        {
+          "title": "Passo 1: Envie a sua foto",
+          "content": "Comece por enviar uma foto nítida que deseja transformar em pixel art. Para obter melhores resultados, certifique-se de escolher uma imagem com resolução suficiente. Selecione o seu ficheiro de imagem clicando no botão de upload."
+        },
+        {
+          "title": "Passo 2: Selecione o modelo de Pixel Art",
+          "content": "Selecione o modelo de Pixel Art para transformar a sua foto com o estilo pixel art."
+        },
+        {
+          "title": "Passo 3: Converter para Pixel Art",
+          "content": "Clique em 'Converter para Pixel Art' para deixar a nossa IA fazer a sua magia. Em segundos, veja a sua foto transformar-se em pixel art exclusivo – emocionante e feito à sua medida!"
+        },
+        {
+          "title": "Passo 4: Descarregue e partilhe",
+          "content": "Assim que a sua pixel art estiver pronta, descarregue a arte sem esforço. Partilhe nas suas plataformas de redes sociais, inclua em projetos de design ou emoldure-a como um presente único. O potencial é ilimitado!"
+        }
+      ],
+      "subtitle": "Criar pixel art a partir das suas fotos é muito fácil!"
+    },
+    "benefits": {
+      "title": "Por que usar Foto para Pixel Art",
+      "description": "Aproveite as vantagens das transformações em pixel art!",
+      "features": [
+        {
+          "title": "🌈 Estilos de Pixel Distintos",
+          "content": "Explore uma extensa coleção de estilos de pixel art que se alinham com a sua visão criativa. Quer prefira um toque nostálgico ou uma estética moderna, crie arte que represente lindamente as suas ideias."
+        },
+        {
+          "title": "⚡ Processamento Rápido",
+          "content": "Graças à nossa poderosa IA, desfrute de tempos de processamento extremamente rápidos, transformando as suas imagens em pixel art instantaneamente para que possa continuar a criar sem demora."
+        },
+        {
+          "title": "🖼️ Saídas de alta resolução",
+          "content": "Gere pixel art nítida e de alta qualidade, perfeita para partilhar online, imprimir e exibir o seu talento artístico."
+        },
+        {
+          "title": "🔧 Interface fácil de usar",
+          "content": "O nosso design amigável torna a ferramenta acessível para todos, de iniciantes a profissionais. Comece sem nenhuma configuração complicada!"
+        },
+        {
+          "title": "🎉 Utilização gratuita",
+          "content": "Desbloqueie o potencial criativo da ferramenta Foto para Pixel Art sem qualquer custo. Comece a transformar as suas fotos hoje – sem taxas ocultas!"
+        },
+        {
+          "title": "🖌️ Comunidade Artística Próspera",
+          "content": "Junte-se à nossa vibrante comunidade de entusiastas de pixel art. Partilhe as suas criações, procure inspiração e conecte-se com artistas que partilham a sua paixão pela arte digital."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foto para Pixel Art FAQ",
+      "description": "",
+      "q1": "O que é Foto para Pixel Art e como funciona?",
+      "a1": "Foto para Pixel Art usa tecnologia de IA para converter as suas imagens em arte pixelizada, combinando a essência da foto original com um acabamento elegante de pixel art.",
+      "q2": "Como posso obter os melhores resultados do gerador Foto para Pixel Art?",
+      "a2": "Usar fotos coloridas e de alto contraste oferece os melhores resultados. Experimente vários estilos de pixel para refinar a sua estética exclusiva.",
+      "q3": "A utilização de Foto para Pixel Art é gratuita?",
+      "a3": "Sim! A nossa ferramenta Foto para Pixel Art é gratuita! Explore opções premium para estilos avançados.",
+      "q4": "O que distingue o Foto para Pixel Art de outras ferramentas?",
+      "a4": "Ao contrário dos filtros padrão, a nossa ferramenta orientada por IA concentra-se na recriação autêntica de imagens em pixel art, oferecendo variações artísticas personalizadas que destacam o charme retro.",
+      "q5": "Posso usar criações do Foto para Pixel Art comercialmente?",
+      "a5": "Absolutamente! Pode usar as suas criações de pixel art comercialmente, mas é importante garantir que possui os direitos das imagens originais."
+    },
+    "cta": {
+      "title": "Comece a criar o seu Pixel Art agora",
+      "description": "Embarque numa jornada criativa com a nossa ferramenta Foto para Pixel Art. Explore a diversão de transformar as suas fotos em pixel art vibrante sem esforço. Clique abaixo para começar!",
+      "buttonText": "Transforme a sua foto em Pixel Art gratuitamente"
+    }
+  },
+  "config": {},
+  "placeholderText": "Convert your photo to pixel art effortlessly",
+  "originalKeyword": "Photo to Pixel Art",
+  "examples": [
+    {
+      "image": "/images/examples/playground/photo-to-pixel-art/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Pixel Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-pixel-art/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Pixel Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-pixel-art/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Pixel Art"
+    },
+    {
+      "image": "/images/examples/playground/photo-to-pixel-art/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Pixel Art"
+    }
+  ]
+}

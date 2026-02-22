@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "Ứng dụng AI | Komiko",
+    "description": "Khám phá tất cả các công cụ sáng tạo của Komiko."
+  },
+  "sections": {
+    "favorites": {
+      "title": "Yêu Thích",
+      "description": "Truy cập nhanh vào các công cụ bạn đã đánh dấu sao.",
+      "empty": "Bạn chưa có ứng dụng ưa thích nào. Nhấn vào biểu tượng ngôi sao trên ứng dụng để ghim."
+    },
+    "allApps": {
+      "title": "Khám Phá Tất Cả Công Cụ",
+      "description": "Lọc theo loại sáng tạo để tìm thứ bạn cần."
+    }
+  },
+  "buttons": {
+    "addFavorite": "Thêm vào Ưa thích",
+    "removeFavorite": "Xóa khỏi Ưa thích"
+  },
+  "hero": {
+    "eyebrow": "Bộ Công Cụ Sáng Tạo",
+    "title": "Ứng Dụng AI",
+    "description": "Bộ công cụ hoàn chỉnh để mang câu chuyện hình ảnh của bạn vào cuộc sống."
+  },
+  "filters": {
+    "categories": {
+      "all": "Tất Cả Công Cụ",
+      "illustration": "Minh Họa & Hình Ảnh",
+      "animation": "Hoạt Hình & Video",
+      "comic": "Truyện Tranh & Manga"
+    }
+  }
+}

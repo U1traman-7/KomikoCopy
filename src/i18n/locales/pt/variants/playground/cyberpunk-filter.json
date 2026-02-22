@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Filtro Cyberpunk",
+      "description": "Crie arte cyberpunk fascinante com o nosso Filtro de IA. Transforme fotos em obras de arte vibrantes e banhadas a néon instantaneamente. Comece já!",
+      "keywords": "Filtro Cyberpunk, gerador de arte IA, arte cyberpunk, transformação de fotos com IA, criar arte cyberpunk, transformação de imagem com IA"
+    },
+    "hero": {
+      "title": "Filtro Cyberpunk"
+    },
+    "whatIs": {
+      "title": "O que é o Filtro Cyberpunk?",
+      "description": "O Filtro Cyberpunk transforma as suas fotos em impressionantes obras-primas cyberpunk, recorrendo a IA avançada para incorporar tons de néon vibrantes e paisagens urbanas imponentes. Basta carregar a sua imagem e mergulhar num novo reino criativo onde as suas fotos assumem os elementos marcantes da arte cyberpunk."
+    },
+    "examples": {
+      "title": "Exemplos do Filtro Cyberpunk",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Como Usar o Filtro Cyberpunk",
+      "steps": [
+        {
+          "title": "Passo 1: Carregue a Sua Foto",
+          "content": "Escolha uma imagem apelativa com motivos claros e fundos interessantes. Arraste e largue ou clique para carregar – a nossa ferramenta aceita vários formatos!"
+        },
+        {
+          "title": "Passo 2: Selecione o Template Cyberpunk",
+          "content": "Selecione o template Cyberpunk para transformar a sua foto com o estilo cyberpunk."
+        },
+        {
+          "title": "Passo 3: Converter para Cyberpunk",
+          "content": "Clique em 'Converter para Cyberpunk' e veja como a IA reimagina rapidamente a sua foto numa impressionante obra de arte cyberpunk!"
+        },
+        {
+          "title": "Passo 4: Descarregue e Partilhe",
+          "content": "Descarregue a sua criação cyberpunk e partilhe-a com o mundo – seja nas redes sociais ou nos seus projetos criativos!"
+        }
+      ],
+      "subtitle": "Transforme as suas imagens em arte cyberpunk impressionante em alguns passos simples."
+    },
+    "benefits": {
+      "title": "Por que Escolher o Filtro Cyberpunk?",
+      "description": "Descubra os benefícios de criar arte cyberpunk única sem esforço.",
+      "features": [
+        {
+          "title": "🖌️ Transformações Impressionantes",
+          "content": "Transforme as suas imagens em arte cyberpunk dinâmica com tons ousados e detalhes intrincados que capturam a essência do género."
+        },
+        {
+          "title": "⚡ Processamento Rápido",
+          "content": "O nosso mecanismo de IA avançado entrega a sua arte em segundos, permitindo que crie e partilhe sem demoras."
+        },
+        {
+          "title": "🎨 Interface Intuitiva",
+          "content": "Projetada para todos os níveis de habilidade, a nossa ferramenta amigável simplifica o processo de transformação de arte do início ao fim."
+        },
+        {
+          "title": "🌐 Usos Versáteis",
+          "content": "Ideal para diversão pessoal ou projetos profissionais, crie visuais que revigoram a identidade da sua marca ou os seus projetos artísticos."
+        },
+        {
+          "title": "📸 Resultados de Alta Resolução",
+          "content": "Desfrute de resultados nítidos e de alta qualidade, perfeitos para aplicações digitais e de impressão."
+        },
+        {
+          "title": "💡 Inspiração Ilimitada",
+          "content": "Deixe a sua criatividade voar! Use o Filtro Cyberpunk para produzir estilos únicos que inspiram o seu próximo empreendimento artístico."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Filtro Cyberpunk FAQ",
+      "description": "",
+      "q1": "O que é a transformação de estilo do Filtro Cyberpunk e como funciona?",
+      "a1": "A transformação do Filtro Cyberpunk usa IA para reimaginar fotografias, aprimorando cores, ajustando contrastes e aplicando sobreposições de néon representativas da estética cyberpunk.",
+      "q2": "Como posso obter os melhores resultados com o Filtro Cyberpunk?",
+      "a2": "Utilize imagens de alta qualidade com motivos proeminentes adequados para contraste vibrante e fundos envolventes.",
+      "q3": "A ferramenta Filtro Cyberpunk é gratuita?",
+      "a3": "Sim! A nossa ferramenta oferece acesso gratuito a muitos recursos, permitindo que os utilizadores criem arte Cyberpunk impressionante sem qualquer custo.",
+      "q4": "O que diferencia o Filtro Cyberpunk de outros filtros?",
+      "a4": "O Filtro Cyberpunk incorpora características cyberpunk vívidas exclusivas – paletas de néon e motivos futuristas – criando obras de arte que evocam uma estética emocionante.",
+      "q5": "Posso usar criações feitas com o Filtro Cyberpunk para fins comerciais?",
+      "a5": "Sim, as suas criações podem ser usadas comercialmente. Certifique-se de cumprir as diretrizes da plataforma para qualquer uso específico de imagem."
+    },
+    "cta": {
+      "title": "Comece a Criar a Sua Obra-Prima Cyberpunk Hoje",
+      "description": "Não perca tempo! Entre no reino da arte cyberpunk e transforme as suas fotos usando o Filtro Cyberpunk. Desbloqueie já o seu potencial criativo!",
+      "buttonText": "Crie a Sua Arte Cyberpunk Grátis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into Cyberpunk Filter style",
+  "originalKeyword": "Cyberpunk Filter",
+  "examples": [
+    {
+      "image": "/images/examples/playground/cyberpunk-filter/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Cyberpunk"
+    },
+    {
+      "image": "/images/examples/playground/cyberpunk-filter/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Cyberpunk"
+    },
+    {
+      "image": "/images/examples/playground/cyberpunk-filter/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Cyberpunk"
+    },
+    {
+      "image": "/images/examples/playground/cyberpunk-filter/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Cyberpunk"
+    }
+  ]
+}

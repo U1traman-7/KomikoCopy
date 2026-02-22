@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Templates | Komiko AI",
+    "description": "Explore modelos selecionados e otimizados para anime, perfeitos para Playground, Efeitos de Vídeo, Vídeo para Vídeo e ferramentas de Dança. Use um template para começar com as configurações ideais já carregadas.",
+    "keywords": "galeria de templates de anime, modelos Komiko, templates de efeitos de vídeo, templates de cosplay"
+  },
+  "hero": {
+    "eyebrow": "Templates",
+    "title": "Templates Selecionados e Aprovados por Criadores de Anime",
+    "description": "Encontre o template perfeito e comece a criar agora mesmo."
+  },
+  "buttons": {
+    "useTemplate": "Usar Template",
+    "preview": "Visualizar",
+    "close": "Fechar",
+    "seeAll": "Ver Todos"
+  },
+  "categories": {
+    "featured": {
+      "title": "Em Destaque"
+    },
+    "art": {
+      "title": "Modelos de Personagens",
+      "description": "Transforme retratos em designs profissionais de personagens - arte linear, chibi, sprites, folhas de expressão, voltas completas e mais."
+    },
+    "style": {
+      "title": "Transferência de Estilo",
+      "description": "Modelos versáteis para Playground que transformam retratos em renderizações refinadas de anime, aquarela ou cyberpunk."
+    },
+    "imageRestyle": {
+      "title": "Restilização de Imagem",
+      "description": "Converta imagens em estilos artísticos como anime, Pixar, mangá, aquarela, neon e mais de 15 outros."
+    },
+    "videoRestyle": {
+      "title": "Restilização de Vídeo",
+      "description": "Converta filmagens de vídeo em estilos animados como anime, cartoon, esboço, emoji, entre outros. Transforme vídeos do mundo real em conteúdo estilizado."
+    },
+    "merch": {
+      "title": "Estúdio de Merch",
+      "description": "Gere fotos de figuras, pelúcias e fichas de personagens prontas para exibição, otimizadas para colecionadores."
+    },
+    "game": {
+      "title": "Game",
+      "description": "Crie vídeos e cenas no estilo de jogo, incluindo trailers de Genshin Impact, jogos de pixel retrô, evoluções de Pokémon, simuladores de namoro e mais estéticas de jogos."
+    },
+    "movie": {
+      "title": "Filme",
+      "description": "Recrie retratos em estilos artísticos de filmes e TV - de programas animados a filmes de fantasia e além."
+    },
+    "cosplay": {
+      "title": "Cosplay e Roupas",
+      "description": "Modelos que recriam promos de cosplay, trailers e cenas de cosplay. Inclui também opções de vestuário para personagens."
+    },
+    "effects": {
+      "title": "Efeitos e Animações de Vídeo",
+      "description": "Aplique efeitos dinâmicos, incluindo animações de brisa Live2D, vistas de personagens em 360°, transformações de garota mágica, aumentos de poder Super Saiyan e vídeos musicais no estilo anime/mangá."
+    },
+    "dance": {
+      "title": "Dançar",
+      "description": "Movimentos de Vídeo de Dança com IA otimizados para K-pop, tendências virais do TikTok e coreografias de robôs estilizados."
+    },
+    "christmas": {
+      "title": "Natal",
+      "description": "Crie cenas natalinas encantadoras com predefinições mágicas para personagens festivos e ambientes de férias."
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "Effets Amusants Appréciés par les Créateurs d'Anime",
+    "description": "Trouvez l'effet que vous appréciez et commencez à créer.",
+    "defaultDescription": "Créez des effets {{name}} {{type}} avec KomikoAI. Téléchargez une image de personnage et découvrez la puissance du générateur d'IA {{name}} en quelques secondes.",
+    "eyebrow": "Galerie d'effets"
+  },
+  "meta": {
+    "keywords": "effets AI, modèles d'anime, effets vidéo, animation de danse, styles d'image, komiko",
+    "title": "Effets | Komiko AI",
+    "description": "Découvrez tous les effets et modèles AI pour la création d'anime. Styles d'images, effets vidéo, animations de danse et plus.",
+    "titleTemplate": "{{name}} de Génération"
+  },
+  "categories": {
+    "trending": {
+      "description": "Les effets les plus prisés en ce moment",
+      "title": "Tendance"
+    },
+    "imageRestyle": {
+      "description": "Convertissez vos images en divers styles artistiques",
+      "title": "Restyle Image"
+    },
+    "merch": {
+      "description": "Créez des designs de produits dérivés collectables à partir de vos personnages",
+      "title": "Studio de Produits Dérivés"
+    },
+    "movie": {
+      "description": "Recréez des portraits avec des styles cinématographiques",
+      "title": "Film"
+    },
+    "cosplay": {
+      "description": "Créez des designs de cosplay et de costumes saisissants",
+      "title": "Cosplay & Tenues"
+    },
+    "dance": {
+      "description": "Créez des mouvements de danse avec la vidéo IA",
+      "title": "Danse"
+    },
+    "featured": {
+      "title": "En Vedette"
+    },
+    "art": {
+      "title": "Arts",
+      "description": "Transformez des portraits en concepts de personnages professionnels"
+    },
+    "videoRestyle": {
+      "title": "Restyle Vidéo",
+      "description": "Transformez des séquences vidéo en animations stylisées"
+    },
+    "game": {
+      "title": "Jeu",
+      "description": "Créez des vidéos et des scènes au style ludique"
+    },
+    "effects": {
+      "title": "Effets Vidéo",
+      "description": "Appliquez des effets vidéo dynamiques et des animations"
+    },
+    "characterExpression": {
+      "title": "Expression de Personnage",
+      "description": "Modifiez dynamiquement les expressions des personnages"
+    },
+    "funEffects": {
+      "title": "Effets Amusants",
+      "description": "Effets vidéo ludiques et divertissants"
+    }
+  },
+  "whatIs": {
+    "title": "Qu'est-ce que le Générateur {{name}}",
+    "defaultDescription": "Le Générateur AI {{name}} est un outil d'IA qui crée des effets {{name}} {{type}}. C'est l'un des plus de 100 modèles d'effets IA conçus par l'équipe de KomikoAI. Il vous suffit de télécharger une image de personnage et de laisser l'IA opérer sa magie."
+  },
+  "howToUse": {
+    "step1Title": "Télécharger l'Image",
+    "step2Title": "Sélectionner l'Effet",
+    "step3Title": "Générer",
+    "step4Title": "Télécharger",
+    "title": "Comment Utiliser",
+    "step1": "Téléchargez votre image de personnage ci-dessus",
+    "step2": "L'effet {{name}} est déjà sélectionné pour vous",
+    "step3": "Cliquez sur \"Générer Animation\" et attendez votre résultat",
+    "step4": "Téléchargez ou partagez votre création"
+  },
+  "breadcrumb": {
+    "effects": "Effets"
+  },
+  "buttons": {
+    "useTemplate": "Utiliser le Modèle",
+    "preview": "Aperçu",
+    "close": "Fermer",
+    "seeAll": "Voir Tout"
+  },
+  "empty": "Aucun effet trouvé.",
+  "notFound": {
+    "title": "Effet Non Trouvé",
+    "description": "L'effet \"{{name}}\" n'a pas été trouvé. Il a peut-être été supprimé ou l'URL est incorrecte.",
+    "browseAll": "Parcourir Tous les Effets"
+  },
+  "moreTools": {
+    "title": "Plus d'Effets AI",
+    "description": "Explorez notre collection complète d'effets et de modèles AI.",
+    "browseAll": "Parcourir Tous les Effets"
+  },
+  "changeModal": {
+    "title": "Changer l'Effet"
+  },
+  "communityExamples": {
+    "title": "Exemples d'Effet {{name}}",
+    "description": "Toutes les créations réalisées avec l'effet {{name}} par la communauté KomikoAI.",
+    "noExamples": "Aucun exemple de la communauté n'est disponible pour le moment."
+  },
+  "types": {
+    "video": "vidéo",
+    "image": "image",
+    "dance": "danse"
+  }
+}

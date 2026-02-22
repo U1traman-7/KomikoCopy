@@ -1,0 +1,176 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan Animate",
+      "description": "使用 Wan Animate 製作角色動畫，輕鬆替換影片中的角色。體驗先進的角色動作傳輸、環境整合以及無縫的角色動畫，只需幾秒即可完成。",
+      "keywords": "Wan Animate, AI 角色動畫, 角色替換, 動作傳輸, 角色動畫師, AI 影片角色, 動畫角色產生器, 角色動作捕捉, 影片角色替換, AI 角色建立器, 角色影片合成, 動作複製, 角色動畫工具, AI 角色替換"
+    },
+    "hero": {
+      "title": "Wan Animate"
+    },
+    "whatIs": {
+      "title": "什麼是 Wan Animate？",
+      "description": "Wan Animate 是一個先進的角色動畫和替換工具，能將靜態角色圖像轉換為生動的影片動畫。透過空間對齊的骨骼訊號與內含的面部特徵，Wan Animate 能精準地複製參考影片中的表情和動作，產生高擬真的角色動畫。這款強大的角色動畫工具，不僅能獨立製作角色動畫，還能無縫替換影片中現有角色，同時維持環境光影與色彩的整合。Wan Animate 基於尖端的動作傳輸技術，讓角色動作捕捉與逼真的角色動畫合成變得輕鬆簡單，為您帶來專業級的成果。",
+      "media": [
+        {
+          "caption": "Wan-Animate 能夠根據表演者的影片，為任何角色製作動畫，精確複製其面部表情和動作，產出高度逼真的角色影片。",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/%E8%A7%92%E8%89%B2%E5%90%88%E9%9B%86_%E5%B8%A6%E5%8E%9F%E5%9E%8B.mp4",
+          "type": "video"
+        },
+        {
+          "caption": "Wan-Animate 可以用動畫角色替換影片中的角色，保留他們的表情和動作，同時複製原始的光照和色調，實現無縫的環境整合。",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/rep_shots.mp4",
+          "type": "video"
+        },
+        {
+          "title": "方法",
+          "caption": "Wan-Animate 概述，它建立在 Wan-I2V 之上。我們修改了其輸入公式，在一個通用的符號表示下統一參考圖像輸入、時間幀引導和環境資訊（為了雙模式相容性）。對於身體運動控制，我們使用透過空間對齊合併的骨骼訊號。對於面部表情控制，我們利用從臉部圖像提取的內含特徵作為驅動訊號。此外，對於角色替換，我們訓練了一個輔助的 Relighting LoRA，以增強角色與新環境的整合。",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/arch.png",
+          "type": "image"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Wan Animate 範例",
+      "description": "了解 Wan Animate 如何透過動作傳輸技術轉換角色動畫，從靜態圖像創建無縫的角色替換和動態動畫。"
+    },
+    "howToUse": {
+      "title": "如何使用 Wan Animate",
+      "steps": [
+        {
+          "title": "上傳角色圖像和參考影片",
+          "content": "上傳您的角色圖像和參考影片（MP4、MOV、AVI），最長 15 秒，最大 50MB，以進行 Wan Animate 處理。長度超過 15 秒的影片將自動修剪，以達到最佳的角色動畫生成效果。"
+        },
+        {
+          "title": "角色動畫參考幀",
+          "content": "Wan Animate 會從您的影片中提取第一幀，並應用角色替換，以創建一個參考指南，確保在整個影片序列中角色動畫傳輸的一致性。"
+        },
+        {
+          "title": "選擇角色動畫模式",
+          "content": "從角色動畫範本、自定義動畫提示中選擇，或者上傳參考角色圖像。在獨立的角色動畫或角色替換模式之間選擇，以進行 Wan Animate 處理。"
+        },
+        {
+          "title": "生成角色動畫影片",
+          "content": "Wan Animate 會使用角色參考幀轉換您的完整影片，同時透過先進的角色動畫技術保留原始動作、表情和時序。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "為什麼要使用 Wan Animate",
+      "description": "Wan Animate 提供最先進的角色動畫和替換功能，具備動作保留、環境整合和專業級的角色合成能力。",
+      "features": [
+        {
+          "title": "先進的動作傳輸技術",
+          "content": "Wan Animate 利用空間對齊的骨骼訊號和內含的面部特徵，實現精確的角色動作複製，確保自然的運動和表情傳輸。",
+          "icon": "🎭"
+        },
+        {
+          "title": "雙動畫模式",
+          "content": "角色動畫模式創建獨立的動畫角色，而替換模式則運用 Wan Animate 的環境適應功能，將角色無縫整合到現有影片中。",
+          "icon": "🔄"
+        },
+        {
+          "title": "環境整合",
+          "content": "Wan Animate 具有先進的 Relighting LoRA 技術，可保留角色外觀，同時適應場景光照和色調，以實現無縫的影片整合。",
+          "icon": "💡"
+        },
+        {
+          "title": "高擬真角色合成",
+          "content": "使用 Wan Animate 的先進演算法，生成具有精確動作捕捉、平滑過渡和一致環境光照的專業品質角色動畫。",
+          "icon": "✨"
+        },
+        {
+          "title": "直觀的角色動畫工作流程",
+          "content": "簡單的雙輸入流程：上傳角色圖像和參考影片。Wan Animate 會自動處理複雜的動作分析、骨骼映射和角色合成。",
+          "icon": "⚡"
+        },
+        {
+          "title": "可控制的角色動畫",
+          "content": "透過 Wan Animate 的先進動作傳輸系統，完全掌控角色的表情和動作，實現精確的角色動畫自定義和完善。",
+          "icon": "🎮"
+        }
+      ]
+    },
+    "faq": {
+      "title": "常見問題",
+      "description": "關於 Wan Animate 角色動畫和替換功能、流程和最佳實踐的常見問題。",
+      "q1": "什麼是 Wan Animate？",
+      "a1": "Wan Animate 是一個先進的角色動畫和替換工具，它使用動作傳輸技術將靜態角色圖像轉換為動態影片動畫。它可以精確地複製參考影片中的表情和動作，同時維持環境光照整合。",
+      "q2": "如何使用 Wan Animate？",
+      "a2": "使用 Wan Animate 非常簡單！首先上傳您的角色圖像和參考影片，然後選擇動畫或替換模式，並生成您的角色動畫。該工具會自動處理動作分析、骨骼映射和角色合成，以獲得專業的結果。",
+      "q3": "Wan Animate 如何運作？",
+      "a3": "Wan Animate 使用空間對齊的骨骼訊號和內含的面部特徵來分析參考影片。它提取動作模式，並透過先進的動作傳輸技術將其應用於角色圖像，創建具有環境整合的無縫角色動畫。",
+      "q4": "什麼是最好的 AI 角色動畫工具？",
+      "a4": "KomikoAI 提供最好的角色動畫工具。我們的目標是成為領先的 AI 創建平台，提供專業品質的結果、強大而有趣的自定義以及直觀的工作流程——完全免費試用。借助 KomikoAI 的 Wan Animate，您可以創建令人驚嘆的角色動畫和替換，使其非常適合內容創作者、電影製作人和數位藝術家。",
+      "q5": "KomikoAI 的 Wan Animate 是否可以免費在線上使用？",
+      "a5": "是的，您可以免費在 KomikoAI 上測試 Wan Animate，而無需註冊任何訂閱。立即試用我們的角色動畫工具！",
+      "q6": "我可以使用 Wan Animate 做什麼？",
+      "a6": "您可以在 KomikoAI 上使用 Wan Animate 為社交媒體創建角色動畫、替換影片中的角色、為靜態角色圖像製作動畫、生成動作傳輸效果，以及為行銷、娛樂和創意專案製作專業的角色內容。",
+      "q7": "我可以在手機上使用 Wan Animate 嗎？",
+      "a7": "是的，您可以將 Wan Animate 作為一個 Web 應用程式在不同的設備上使用，包括智慧型手機和電腦，這使得每個人都可以方便地使用。",
+      "q8": "我可以從 Wan Animate 下載我的生成內容嗎？",
+      "a8": "是的，KomikoAI 的 Wan Animate 允許您以各種格式匯出您的生成內容，例如 MP4、MOV 和 AVI，以便輕鬆共享和發布。",
+      "q9": "我為什麼要使用 Wan Animate？",
+      "a9": "使用 Wan Animate 可以透過先進的動作傳輸技術轉換您的角色動畫工作流程。我們的工具允許您創建專業的角色動畫、無縫的角色替換以及具有環境整合和一致光照保留的動態動作捕捉效果。"
+    },
+    "cta": {
+      "title": "立即使用 Wan Animate 免費創建角色動畫！",
+      "description": "透過先進的動作傳輸技術，將靜態角色轉換為動態動畫，並輕鬆替換影片主體。",
+      "buttonText": "免費試用 Wan Animate"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/res921.mp4",
+      "description": "富有表現力的人體動畫"
+    },
+    {
+      "id": 2,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/res2.mp4",
+      "description": "可泛化的任意角色動畫"
+    },
+    {
+      "id": 3,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/resfull1.mp4",
+      "description": "動態運動和相機"
+    },
+    {
+      "id": 4,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/rep/rep2.mp4",
+      "description": "一致的光照和色調複製"
+    },
+    {
+      "id": 5,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/rep/rep6.mp4",
+      "description": "具有無縫環境整合的角色替換"
+    },
+    {
+      "id": 6,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/com/comp1.mp4",
+      "description": "定性比較"
+    }
+  ],
+  "originalKeyword": "Wan Animate",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

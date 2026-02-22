@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "KomikoAI 博客 | 用AI创作漫画、韩漫、日漫和动漫",
+    "description": "用AI创作漫画、网络漫画和视觉故事。设计原创角色并与他们一起探索无限的故事世界。",
+    "blog_post": "博客文章",
+    "keywords": {
+      "general": "AI 漫画, 漫画书籍, 动漫, 角色创作, 在线漫画, AI 艺术, 漫画生成器, 漫画创作",
+      "base_tags": [
+        "AI",
+        "漫画",
+        "漫画书籍",
+        "动漫",
+        "角色创作",
+        "在线漫画"
+      ]
+    }
+  },
+  "navigation": {
+    "see_all_posts": "查看所有文章"
+  },
+  "article": {
+    "published_on": "发布于",
+    "min_read": "分钟阅读",
+    "view_article": "查看文章"
+  },
+  "sections": {
+    "latest_post": "最新文章",
+    "all_posts": "所有文章"
+  }
+}

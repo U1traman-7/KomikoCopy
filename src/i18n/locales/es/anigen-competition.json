@@ -1,0 +1,173 @@
+{
+  "hero": {
+    "title": "AniGen",
+    "subtitle": "LA PRIMERA COMPETENCIA MUNDIAL DE ANIMACIÓN CORTA CON IA",
+    "sponsors": "Patrocinadores:",
+    "btnRules": "VER LAS BASES COMPLETAS",
+    "btnSubmit": "ENVÍA TU ANIMACIÓN"
+  },
+  "about": {
+    "subtitle": "Donde la IA y la Animación se Unen",
+    "title": "ACERCA DEL CONCURSO",
+    "description1": "Bienvenido a AniGen, el primer concurso mundial de animación vertical corta con IA, organizado por KomikoAI, Hedra, Hailuo y AniShort. Unimos la tecnología de IA de vanguardia con la narración creativa para impulsar un nuevo género de animación.",
+    "description2": "AniGen tiene como objetivo descubrir y promover a los creadores emergentes en el mundo de la animación. Te invitamos a superar los límites de lo que es posible en la animación con IA. Tanto si eres un creador de IA, un animador tradicional que explora nuevas tecnologías, un guionista o un entusiasta de la animación, esta es tu oportunidad de mostrar tu talento y ganar premios excepcionales, suscripciones gratuitas a herramientas de IA e incluso la posibilidad de publicar tus proyectos en la app de streaming AniShort."
+  },
+  "prizes": {
+    "title": "PREMIOS",
+    "animation": {
+      "title": "Categoría de Animación",
+      "grandPrize": "Gran Premio (1 ganador/a)",
+      "grandPrizeDetails": [
+        "3.000 $ USD",
+        "Suscripciones profesionales gratuitas de 6 meses a Hailuo, Hedra y KomikoAI",
+        "Oportunidad de desarrollar la animación con financiación y exhibirla en la app de streaming AniShort"
+      ],
+      "secondPrize": "Segundo Premio (1 ganador/a)",
+      "secondPrizeDetails": "1.500 $ USD + Suscripciones profesionales de 3 meses a herramientas de IA",
+      "runnerUp": "Finalista (2 ganadores/as)",
+      "runnerUpDetails": "500 $ USD + Suscripciones profesionales de 2 meses a herramientas de IA",
+      "excellence": "Premio a la Excelencia (30 creadores/as)",
+      "excellenceDetails": "Suscripciones profesionales de 1 mes a herramientas de IA",
+      "note": "Las obras ganadoras se promocionarán en los canales de redes sociales de los patrocinadores, se invitarán a publicarse en la plataforma de streaming AniShort e incluso podrían tener la oportunidad de seguir desarrollando su animación con financiación o el apoyo del estudio."
+    },
+    "scriptwriting": {
+      "title": "Categoría de Guion",
+      "grandPrize": "Gran Premio (1 ganador/a)",
+      "grandPrizeDetails": "1.000 $ USD",
+      "excellence": "Premio a la Excelencia (3 ganadores/as)",
+      "excellenceDetails": "100 $ USD",
+      "note": "Los guiones seleccionados podrán adaptarse a animaciones y publicarse en la plataforma de streaming AniShort con participación en los ingresos."
+    }
+  },
+  "judges": {
+    "label": "Conoce a Nuestro Jurado",
+    "title": "EL JURADO",
+    "description": "Nuestro distinguido jurado incluye a líderes de la industria y pioneros creativos:",
+    "judge1": {
+      "name": "Ben Waller",
+      "title": "Director Creativo en Story Engine Inc., Guionista, Star Trek: Lower Decks, Roborockaylpse."
+    },
+    "judge2": {
+      "name": "Michael Lingelbach",
+      "title": "Fundador y CEO de Hedra"
+    },
+    "judge3": {
+      "name": "Garrett Pollack",
+      "title": "Influencer de redes sociales en el sector del anime"
+    },
+    "judge4": {
+      "name": "Aiden Guo",
+      "title": "Animador de One Piece, creador de animación con IA e influencer"
+    },
+    "judge5": {
+      "name": "Leanna Ren",
+      "title": "VP @ MiniMax"
+    }
+  },
+  "timeline": {
+    "title": "CRONOGRAMA",
+    "launch": {
+      "date": "28 de abril de 2025",
+      "title": "Lanzamiento del Concurso"
+    },
+    "submission": {
+      "date": "28 de abril - 20 de mayo de 2025",
+      "title": "Período de Envío"
+    },
+    "judging": {
+      "date": "20 de mayo - 1 de junio de 2025",
+      "title": "Período de Evaluación"
+    },
+    "announcement": {
+      "date": "1 de junio de 2025",
+      "title": "Anuncio de los Ganadores"
+    }
+  },
+  "rules": {
+    "title": "REQUISITOS Y BASES",
+    "animation": {
+      "title": "CATEGORÍA DE ANIMACIÓN",
+      "description": "Crea una animación vertical corta que cuente una historia cautivadora",
+      "format": {
+        "label": "Formato:",
+        "value": "Vertical 9:16 (optimizado para móviles), MP4"
+      },
+      "duration": {
+        "label": "Duración:",
+        "value": "De 30 segundos a 3 minutos"
+      },
+      "content": {
+        "label": "Contenido:",
+        "value": "La animación debe contar una historia completa o ser el inicio de una serie más larga. NO se aceptan tráilers ni vídeos musicales."
+      },
+      "requirements": {
+        "label": "Requisitos Clave:",
+        "list": [
+          "Utilizar herramientas de IA para al menos el 50% de la creación, incluyendo:",
+          "Al menos una escena de un personaje hablando usando el modelo Character-3 de Hedra",
+          "Al menos una imagen de un personaje/escena generada con KomikoAI",
+          "Al menos un clip de animación generado con Hailuo, ya sea a través de la plataforma Hailuo o a través de Hedra/KomikoAI",
+          "Solo trabajo original - sin infracción de derechos de autor",
+          "Se requiere voz en off o subtítulos en inglés",
+          "Publica tu trabajo en redes sociales y etiqueta a #AniGen @hedra_labs @KomikoAI @Hailuo_AI @AniShortApp para que las cuentas oficiales puedan republicarlo",
+          "Debes tener 18 años o más para poder participar",
+          "Sin contenido NSFW, discurso de odio, violencia extrema o material con derechos de autor"
+        ]
+      }
+    },
+    "scriptwriting": {
+      "title": "CATEGORÍA DE GUIÓN",
+      "description": "Crea un concepto original para una serie de animación vertical corta",
+      "format": {
+        "label": "Formato:",
+        "value": "Paquete de concepto con los guiones de los primeros 5 episodios"
+      },
+      "duration": {
+        "label": "Duración:",
+        "value": "Cada episodio debe durar entre 1 y 2 minutos, diseñado para una narración de ritmo rápido y que capte la atención"
+      },
+      "genre": {
+        "label": "Género:",
+        "value": "Todos los géneros son bienvenidos, por ejemplo: acción, romance, fantasía, isekai, shounen, etc."
+      },
+      "requirements": {
+        "label": "Requisitos:",
+        "list": [
+          "Título, sinopsis de la trama, descripción general de los personajes y guiones completos de los primeros 5 episodios",
+          "Idioma: inglés o con traducciones al inglés",
+          "Solo trabajo original - sin infracción de derechos de autor",
+          "Sin contenido NSFW, discurso de odio, violencia extrema o material con derechos de autor"
+        ]
+      }
+    }
+  },
+  "sponsors": {
+    "title": "NUESTROS PATROCINADORES Y COLABORADORES",
+    "hedra": {
+      "name": "Hedra",
+      "description": "Modelo de generación de vídeo de avatar con IA"
+    },
+    "hailuo": {
+      "name": "Hailuo",
+      "description": "Modelo de generación de vídeo con IA"
+    },
+    "komiko": {
+      "name": "KomikoAI",
+      "description": "Kit de herramientas de creación de cómics y animación con IA"
+    },
+    "anishort": {
+      "name": "AniShort",
+      "description": "Plataforma de streaming de animación corta"
+    }
+  },
+  "submit": {
+    "title": "ÚNETE AL FUTURO DE LA ANIMACIÓN",
+    "description": "Presenta tu candidatura hoy mismo y sé pionero en la próxima ola de animación impulsada por la IA.",
+    "btnSubmit": "ENVÍA TU ANIMACIÓN",
+    "btnRules": "REVISA LAS BASES"
+  },
+  "meta": {
+    "title": "Concurso AniGen - Concurso de Animación Corta con IA | Gana 6.000 $ y suscripciones gratuitas a herramientas de IA",
+    "description": "Participa en el primer concurso mundial de animación vertical corta con IA organizado por KomikoAI, Hedra, Hailuo y AniShort."
+  }
+}

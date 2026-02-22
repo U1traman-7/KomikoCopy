@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "title": "Amélioration Vidéo IA - KomikoAI",
+    "description": "L'upscaler vidéo avancé de KomikoAI AI transforme vos vidéos de basse qualité en contenu haute résolution époustouflant. Bénéficiez d'une amélioration vidéo de qualité professionnelle grâce à KomikoAI AI, qui optimise vos vidéos en FHD, 2K ou 4K tout en préservant les détails naturels et la clarté visuelle.",
+    "keywords": "Amélioration vidéo IA, amélioration vidéo, amélioration de la qualité vidéo, convertisseur vidéo HD, upscaler vidéo 4K, traitement vidéo IA, amélioration de la résolution vidéo, amélioration vidéo par apprentissage automatique, amélioration vidéo professionnelle, optimiseur de qualité vidéo"
+  },
+  "title": "Upscaler Vidéo IA",
+  "description": "Utilisez notre upscaler vidéo IA de pointe pour augmenter la résolution et sublimer la qualité de vos vidéos. Notre technologie d'upscaling vidéo basée sur l'IA convertit vos vidéos de basse qualité en contenu haute résolution exceptionnel. Que vous souhaitiez upscaler une vidéo en FHD, 2K ou 4K, notre amélioration vidéo IA offre des résultats professionnels avec une clarté et des détails inégalés.",
+  "input": {
+    "title": "Vidéo d'entrée",
+    "uploadPrompt": "Cliquez pour télécharger ou glissez-déposez votre vidéo ici",
+    "from_other_tools": "Vidéo reçue de la part de {{source}}"
+  },
+  "results": {
+    "title": "Résultats Vidéo",
+    "emptyState": "Les résultats s'afficheront ici"
+  },
+  "seo": {
+    "transformTitle": "Métamorphosez vos vidéos avec l'amélioration vidéo IA",
+    "transformDescription": "Découvrez comment l'upscaling vidéo de KomikoAI AI utilise l'amélioration vidéo basée sur l'apprentissage automatique pour sublimer votre contenu. Notre optimiseur vidéo IA rend l'upscaling vidéo de qualité professionnelle accessible à tous."
+  },
+  "steps": {
+    "step1": {
+      "title": "Étape 1 : Télécharger la vidéo",
+      "content": "Téléchargez la vidéo que vous souhaitez améliorer avec notre upscaler vidéo IA. Nous prenons en charge les formats vidéo les plus courants."
+    },
+    "step2": {
+      "title": "Étape 2 : Sélectionner la résolution de sortie",
+      "content": "Choisissez le niveau d'augmentation de résolution souhaité : upscalez la vidéo en qualité FHD, 2K ou 4K."
+    },
+    "step3": {
+      "title": "Étape 3 : Traiter la vidéo",
+      "content": "Cliquez sur le bouton 'Upscale Video' pour lancer le processus d'amélioration."
+    },
+    "step4": {
+      "title": "Étape 4 : Télécharger le résultat",
+      "content": "Téléchargez votre vidéo améliorée et profitez de la qualité optimisée !"
+    }
+  },
+  "examples": {
+    "title": "Exemples d'upscaling vidéo IA",
+    "description": "Découvrez les résultats d'upscaling vidéo IA générés par les utilisateurs de KomikoAI",
+    "browserNotSupported": "Votre navigateur ne prend pas en charge la balise vidéo.",
+    "inputLabel": "Vidéo d'entrée (exemple)",
+    "outputLabel": "Vidéo upscalée (sortie)"
+  },
+  "benefits": {
+    "title": "Pourquoi upscaler vos vidéos avec l'IA ?",
+    "description": "L'upscaler vidéo IA de KomikoAI transforme vos vidéos basse résolution en contenu haute qualité saisissant, idéal pour un usage personnel et professionnel.",
+    "feature1": {
+      "title": "Upscaling vidéo IA intelligent",
+      "content": "Notre upscaler vidéo IA offre des résultats de qualité professionnelle en améliorant intelligemment la qualité vidéo et en augmentant la résolution, tout en conservant un mouvement naturel."
+    },
+    "feature2": {
+      "title": "Options de résolution multiples",
+      "content": "Upscalez vos vidéos à la qualité souhaitée : choisissez entre FHD (1080p), 2K (1440p) ou 4K (2160p) pour optimiser la qualité vidéo pour n'importe quelle plateforme."
+    },
+    "feature3": {
+      "title": "Amélioration IA détaillée",
+      "content": "Notre technologie d'upscaling vidéo IA analyse et améliore chaque image, offrant une clarté et des détails supérieurs tout en préservant le caractère original de la vidéo."
+    },
+    "feature4": {
+      "title": "Résultats professionnels garantis",
+      "content": "Transformez d'anciennes vidéos ou des séquences de basse qualité en contenu de qualité professionnelle, adapté au streaming, aux présentations ou aux réseaux sociaux."
+    },
+    "feature5": {
+      "title": "Traitement rapide et efficace",
+      "content": "Profitez d'une amélioration vidéo rapide grâce à notre pipeline de traitement IA optimisé, ce qui vous permet de gagner du temps et de l'énergie."
+    },
+    "feature6": {
+      "title": "Compatibilité universelle",
+      "content": "Fonctionne avec différents formats et durées de vidéo, ce qui le rend idéal pour améliorer des vidéos personnelles, du contenu marketing ou des projets professionnels."
+    }
+  },
+  "guide": {
+    "title": "Guide complet de l'amélioration vidéo IA",
+    "description": "Apprenez tout ce qu'il faut savoir sur l'amélioration de la qualité vidéo avec l'upscaler vidéo de KomikoAI AI. Obtenez des réponses d'experts sur notre technologie d'amélioration vidéo basée sur l'apprentissage automatique et découvrez comment elle peut transformer votre contenu."
+  },
+  "faq": {
+    "question1": "Qu'est-ce que l'upscaler vidéo IA de KomikoAI ?",
+    "answer1": "L'upscaler vidéo IA de KomikoAI est un outil de pointe qui utilise l'IA pour améliorer la qualité vidéo et augmenter la résolution. Notre technologie d'upscaling vidéo IA transforme automatiquement les vidéos de basse qualité en contenu FHD, 2K ou 4K d'une clarté cristalline, tout en préservant les détails naturels et la fidélité visuelle.",
+    "question2": "Comment fonctionne notre upscaling vidéo IA ?",
+    "answer2": "Notre upscaler vidéo IA utilise des modèles d'apprentissage automatique avancés, entraînés sur des millions de vidéos de haute qualité. L'IA analyse chaque image pour améliorer la qualité vidéo, augmenter la résolution et améliorer la clarté globale, tout en conservant un mouvement fluide et naturel. Ce processus d'amélioration vidéo alimenté par l'IA offre des résultats supérieurs aux méthodes d'upscaling traditionnelles.",
+    "question3": "Quels sont les avantages de l'upscaling vidéo IA ?",
+    "answer3": {
+      "point1": "Transformez vos vidéos basse résolution en contenu HD d'une clarté cristalline.",
+      "point2": "Améliorez la qualité vidéo tout en conservant un mouvement naturel et fluide.",
+      "point3": "Supprimez les artefacts de compression et le bruit vidéo.",
+      "point4": "Choisissez parmi plusieurs résolutions de sortie (FHD/2K/4K) pour des résultats optimaux."
+    },
+    "question4": "Quels formats et tailles de vidéo sont pris en charge ?",
+    "answer4": "Notre upscaler vidéo IA fonctionne avec les fichiers vidéo MP4 de toutes tailles. Vous pouvez améliorer vos vidéos en résolution FHD (1080p), 2K (1440p) ou 4K (2160p) selon vos besoins de qualité.",
+    "question5": "L'upscaler vidéo IA est-il gratuit ?",
+    "answer5": "Commencez à améliorer vos vidéos gratuitement grâce aux zaps (crédits) offerts par KomikoAI. Pour les besoins professionnels, nos plans payants offrent des zaps supplémentaires, des temps de traitement plus rapides et un accès à des sorties en plus haute résolution.",
+    "question6": "Quelle résolution dois-je choisir pour ma vidéo ?",
+    "answer6": "Sélectionnez FHD (1080p) pour une excellente qualité HD adaptée à la plupart des plateformes en ligne, 2K (1440p) pour un contenu vidéo de qualité supérieure, ou 4K (2160p) pour des projets professionnels ultra haute définition. Les résolutions plus élevées offrent une meilleure qualité, mais nécessitent un temps de traitement plus long."
+  },
+  "modal": {
+    "deleteTitle": "Confirmation de suppression",
+    "deleteConfirmation": "Êtes-vous sûr de vouloir supprimer cette vidéo ? Cette action est irréversible.",
+    "cancel": "Annuler",
+    "delete": "Supprimer"
+  },
+  "notifications": {
+    "deleteSuccess": "Suppression réussie",
+    "deleteFailed": "Échec de la suppression",
+    "upscaleSuccess": "Upscaling vidéo réussi",
+    "upscaleFailed": "Échec de l'upscaling vidéo",
+    "downloadFailed": "Échec du téléchargement",
+    "noZaps": "Veuillez acheter plus de zaps"
+  },
+  "upscale_video": "Upscale Vidéo"
+}

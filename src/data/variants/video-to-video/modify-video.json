@@ -1,0 +1,147 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Modify Video",
+      "description": "Modify your videos with our cutting-edge AI Modify Video technology. Transform ordinary footage into anime, cartoon, manga, and manhwa styles while preserving original motion and timing.",
+      "fullDescription": "Discover AI Modify Video, a state-of-the-art tool that converts regular videos into vibrant anime, cartoon, manga, and manhwa animations. Our advanced Video Style Transfer process maintains motion consistency, allowing you to choose from over 20 artistic styles including Studio Ghibli and Korean manhwa. Perfect for content creators, digital artists, and anyone eager to bring their videos to life with unique artistic flair.",
+      "keywords": "Modify Video, Best Video to Video AI, video modification tool, anime video modifier, animated video creator, cartoon video alterer, manga video modifier, manhwa video stylist, video transformation tool, comic video modifier, animation enhancer, video style transformer, creative video solutions"
+    },
+    "hero": {
+      "title": "Modify Video"
+    },
+    "whatIs": {
+      "title": "What is Modify Video?",
+      "description": "AI Modify Video transforms your videos into stunning anime, cartoon, manga, and manhwa animations using advanced Video Style Transfer technology. This innovative tool uses a two-step process where your selected style is first applied to a reference frame before modifying the entire video while flawlessly maintaining original motion and timing. Explore 20+ artistic options like Studio Ghibli and popular cartoon styles with our Modify Video solution."
+    },
+    "examples": {
+      "title": "Modify Video Examples",
+      "description": "Check out how AI Modify Video can transform ordinary videos into breathtaking anime, cartoon, manga, and manhwa styles while consistently preserving motion and expressions with our advanced Video Style Transfer.",
+      "style": "Applied Style"
+    },
+    "howToUse": {
+      "title": "How to Use Modify Video",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Start by uploading your video file (MP4, MOV, AVI) for AI Modify Video processing. Our tool supports videos up to 15 seconds and 50MB, automatically trimming anything longer to ensure optimal results."
+        },
+        {
+          "title": "Choose Your Artistic Style",
+          "content": "In the Style Selection section, choose from 20+ preset styles including anime, cartoon, manga, Korean manhwa, or create custom styles with text prompts and reference images for your Modify Video experience."
+        },
+        {
+          "title": "Style Preview & Reference",
+          "content": "We extract the first frame and apply your chosen style to create a styled reference. This preview shows how your selected style will be applied to the entire video."
+        },
+        {
+          "title": "Generate Your Modified Video",
+          "content": "AI Modify Video processes your entire video using the styled reference frame, ensuring that all original motion, expressions, and timing are meticulously preserved throughout the transformation."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Modify Video",
+      "description": "AI Modify Video is the premier tool offering cutting-edge Video Style Transfer that expertly preserves motion and provides a diverse selection of artistic options, complemented by transparent pricing.",
+      "features": [
+        {
+          "title": "Unmatched Motion Preservation",
+          "content": "With AI Modify Video, every detail of original motion, facial expressions, and timing is retained while applying artistic transformations, ensuring a frame-perfect video modification experience.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Diverse Artistic Styles",
+          "content": "Explore a wide range of styles, including Studio Ghibli, Korean manhwa, Japanese manga, Disney, and more. Create custom modifications with convenience using text prompts or reference images.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Professional-Quality Output",
+          "content": "Produce high-definition modified videos with seamless transitions and consistent style application, eliminating flickering or artifacts with our reliable Modify Video tool.",
+          "icon": "✨"
+        },
+        {
+          "title": "Transparent Cost Structure",
+          "content": "AI Modify Video operates with clear pricing, charging separately for each video modification process, allowing you to experiment with styles without incurring extra costs.",
+          "icon": "⚡"
+        },
+        {
+          "title": "User-Friendly Two-Step Process",
+          "content": "Enjoy a streamlined workflow: upload your video, apply the desired style to the reference frame, and generate the final transformed video—no technical skills required!",
+          "icon": "👌"
+        },
+        {
+          "title": "Automatic Optimizations",
+          "content": "Experience intelligent processing with smart optimization features, supporting MP4, MOV, and AVI formats with automatic trimming and duration-based pricing, enhancing your Modify Video efficiency.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Modify Video FAQ",
+      "description": "Find answers to common questions about our AI Modify Video tool, its processes, costs, and best practices.",
+      "q1": "How does AI Modify Video work?",
+      "a1": "AI Modify Video utilizes a two-step Video Style Transfer process: first, we extract a reference frame and apply your selected artistic style, and second, we modify the entire video based on this styled frame while preserving original motion and timing to ensure consistency.",
+      "q2": "What are the requirements for video formats in AI Modify Video?",
+      "a2": "Our tool supports MP4, MOV, and AVI formats, with a maximum file size of 50MB for processing. Videos must be limited to 15 seconds, and longer videos will be trimmed automatically for best results.",
+      "q3": "How long does the modification process take?",
+      "a3": "The entire AI Modify Video processing typically takes between 5-10 minutes, including 1-3 minutes for video style transfer and 3-7 minutes for video generation. You can track the progress in real-time.",
+      "q4": "What are the costs for using AI Modify Video?",
+      "a4": "Charges for using AI Modify Video are applied separately for style transfer and video generation based on duration. Pricing is displayed in real-time before processing, and credits are only deducted after the successful modification is completed.",
+      "q5": "Can I create custom styles for modifications?",
+      "a5": "Absolutely! You can choose from over 20 preset styles, or craft custom transformations using text prompts or reference images for a distinctive Modify Video outcome.",
+      "q6": "What types of videos work best for AI Modify Video?",
+      "a6": "For optimal results, choose videos with clear subjects, sufficient lighting, stable motion, and well-defined features. Best practices include using videos under 5 seconds featuring people or distinct objects, as these yield the best modification results."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-dj.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/korean-manhwa-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Korean Manhwa",
+      "description": "Style Transfer | Transfer original video to Korean manhwa style"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/miku-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cosplay",
+      "description": "Cosplay | Transform original video character into Miku cosplay"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/skeleton-skiing.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Skeleton",
+      "description": "Change Material | Transform original video character into skeleton"
+    }
+  ],
+  "originalKeyword": "Modify Video | Best Video to Video AI",
+  "pageStructure": [
+    "howToUse",
+    "examples",
+    "benefits",
+    "moreAITools",
+    "whatIs",
+    "faq",
+    "cta"
+  ]
+}

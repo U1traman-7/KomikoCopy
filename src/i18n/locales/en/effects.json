@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Effects | Komiko AI",
+    "description": "Browse all AI effects and templates for anime creation. Image styles, video effects, dance animations and more.",
+    "keywords": "AI effects, anime templates, video effects, dance animation, image styles, komiko",
+    "titleTemplate": "{{name}} Generator"
+  },
+  "hero": {
+    "eyebrow": "Effects Gallery",
+    "title": "Fun Effects Loved by Anime Creators",
+    "description": "Find the effect you love and jump straight into creating.",
+    "defaultDescription": "Generate {{name}} {{type}} effects with KomikoAI. Upload a character image and experience the power of the AI {{name}} Generator in seconds."
+  },
+  "breadcrumb": {
+    "effects": "Effects"
+  },
+  "buttons": {
+    "useTemplate": "Use Template",
+    "preview": "Preview",
+    "close": "Close",
+    "seeAll": "See All"
+  },
+  "categories": {
+    "trending": {
+      "title": "Trending",
+      "description": "The most popular effects right now"
+    },
+    "featured": {
+      "title": "Featured"
+    },
+    "art": {
+      "title": "Art",
+      "description": "Transform portraits into professional character designs"
+    },
+    "imageRestyle": {
+      "title": "Image Restyle",
+      "description": "Convert your images into various artistic styles"
+    },
+    "videoRestyle": {
+      "title": "Video Restyle",
+      "description": "Transform video footage into stylized animations"
+    },
+    "merch": {
+      "title": "Merch Studio",
+      "description": "Generate collectible merchandise designs from your characters"
+    },
+    "game": {
+      "title": "Game",
+      "description": "Create game-style videos and scenes"
+    },
+    "movie": {
+      "title": "Movie",
+      "description": "Recreate portraits in cinematic movie styles"
+    },
+    "cosplay": {
+      "title": "Cosplay & Outfits",
+      "description": "Create stunning cosplay and outfit designs"
+    },
+    "effects": {
+      "title": "Video Effects",
+      "description": "Apply dynamic video effects and animations"
+    },
+    "dance": {
+      "title": "Dance",
+      "description": "Create AI Dance Video motions"
+    },
+    "characterExpression": {
+      "title": "Character Expression",
+      "description": "Change character expressions dynamically"
+    },
+    "funEffects": {
+      "title": "Fun Effects",
+      "description": "Playful and entertaining video effects"
+    }
+  },
+  "empty": "No effects found.",
+  "notFound": {
+    "title": "Effect Not Found",
+    "description": "The effect \"{{name}}\" could not be found. It may have been removed or the URL is incorrect.",
+    "browseAll": "Browse All Effects"
+  },
+  "types": {
+    "video": "video",
+    "image": "image",
+    "dance": "dance"
+  },
+  "whatIs": {
+    "title": "What is {{name}} Generator",
+    "defaultDescription": "AI {{name}} Generator is an AI tool that creates {{name}} {{type}} effects. It's one of 100+ AI effect templates designed by the KomikoAI team. Just upload a character image and let AI do the magic."
+  },
+  "howToUse": {
+    "title": "How to Use",
+    "step1Title": "Upload Image",
+    "step1": "Upload your character image above",
+    "step2Title": "Select Effect",
+    "step2": "The {{name}} effect is already selected for you",
+    "step3Title": "Generate",
+    "step3": "Click \"Generate Animation\" and wait for your result",
+    "step4Title": "Download",
+    "step4": "Download or share your creation"
+  },
+  "moreTools": {
+    "title": "More AI Effects",
+    "description": "Explore our complete collection of AI effects and templates.",
+    "browseAll": "Browse All Effects"
+  },
+  "changeModal": {
+    "title": "Switch Effect"
+  },
+  "communityExamples": {
+    "title": "{{name}} Effect Examples",
+    "description": "All creations made with the {{name}} effect by the KomikoAI community.",
+    "noExamples": "No community examples available yet."
+  }
+}

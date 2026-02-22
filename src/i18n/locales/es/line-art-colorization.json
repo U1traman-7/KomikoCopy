@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "title": "Coloreado de Line Art con IA - KomikoAI",
+    "description": "Colorea tus dibujos lineales en blanco y negro con IA. Sube tu boceto y deja que la IA le dé color."
+  },
+  "common": {
+    "new": "Nuevo",
+    "cancel": "Cancelar",
+    "delete": "Eliminar"
+  },
+  "hero": {
+    "title": "Coloreado de Line Art con IA",
+    "description": "Colorea automáticamente tus bocetos, dibujos lineales o páginas de manga con IA. ¡Descubre el coloreado instantáneo de line art que añade color a tus líneas con un solo clic! Transforma tus bocetos en blanco y negro utilizando las herramientas avanzadas de coloreado con IA de Anitoon, con imágenes de referencia opcionales para guiar el estilo de color. Perfecto para artistas, diseñadores y aficionados al manga que buscan dar vida a sus creaciones sin esfuerzo."
+  },
+  "input": {
+    "title": "Entrada",
+    "tooltip": "Sube el dibujo lineal para colorear",
+    "lineArt": {
+      "label": "Imagen de Line Art"
+    },
+    "referenceImage": {
+      "label": "Imagen de Referencia (Opcional)",
+      "description": "Sube una versión completamente coloreada del mismo objeto para ayudar a guiar a la IA en el coloreado de tu dibujo lineal."
+    },
+    "transparentBackground": "Fondo Transparente",
+    "prompt": {
+      "label": "Prompt (Opcional)",
+      "placeholder": "Introduce tu prompt, p. ej., 1 chico, pelo rojo, ojos azules, fondo blanco, etc."
+    },
+    "model": {
+      "label": "Modelo de IA",
+      "description": "La generación con modelos avanzados puede fallar ocasionalmente debido a las políticas de moderación de contenido de nuestro proveedor de servicios. Por favor, vuelve al modelo básico si tienes algún problema.",
+      "placeholder": "Selecciona un modelo",
+      "ariaLabel": "Selecciona el modelo de coloreado",
+      "options": {
+        "basic": "Básico",
+        "advanced": "Avanzado"
+      }
+    }
+  },
+  "output": {
+    "title": "Resultados del Coloreado",
+    "empty": {
+      "message": "Aquí aparecerán tus resultados de coloreado",
+      "instruction": "Sube una imagen para empezar"
+    }
+  },
+  "seo": {
+    "whatIs": {
+      "title": "¿Qué es el Coloreado de Line Art?",
+      "description": "El coloreado de Line Art es el proceso de añadir color a tus bocetos o dibujos lineales. Es una técnica popular en la creación de manga y cómics, ya que permite a los artistas añadir color a sus dibujos y hacerlos más vibrantes y dinámicos. El coloreado de Line Art con IA es una herramienta que te permite colorear instantáneamente tus dibujos lineales con IA."
+    },
+    "howTo": {
+      "title": "Cómo colorear tu dibujo lineal con IA",
+      "description": "Colorea automáticamente tu boceto, dibujo lineal en blanco y negro, dibujos a línea, bocetos o páginas de manga con el coloreador de line art con IA de KomikoAI en unos pocos pasos."
+    },
+    "steps": {
+      "step1": {
+        "title": "Paso 1: Sube la Imagen de Line Art",
+        "content": "Sube tu dibujo lineal en blanco y negro o una imagen de boceto al coloreador con IA. Se admiten los formatos JPG y PNG."
+      },
+      "step2": {
+        "title": "Paso 2: Añade una Imagen de Referencia (Opcional)",
+        "content": "Sube una imagen de referencia para guiar las elecciones de color y el estilo de la IA. Esto ayuda a conseguir resultados de coloreado más precisos."
+      },
+      "step3": {
+        "title": "Paso 3: Introduce un Prompt (Opcional)",
+        "content": "Introduce un prompt para describir el coloreado que quieres. Por ejemplo, 'pelo rojo, ojos azules'."
+      },
+      "step4": {
+        "title": "Paso 4: Colorea y Comparte",
+        "content": "Haz clic en 'Colorear Imagen' y espera a que la IA haga su magia. ¡Descarga y comparte tu creación coloreada!"
+      }
+    }
+  },
+  "examples": {
+    "title": "Ejemplos de Coloreado de Line Art con IA",
+    "description": "Mira los resultados de coloreado con IA generados por los usuarios de Anitoon",
+    "inputLabel": "Line Art de Entrada",
+    "outputLabel": "Resultado Coloreado",
+    "referenceLabel": "Imagen de Referencia",
+    "example1": {
+      "inputAlt": "Imagen de dibujo lineal de entrada",
+      "outputAlt": "Imagen coloreada de salida",
+      "prompt": "Prompt: \"chica anime linda vestida con un vestido de doncella blanco y negro, fondo blanco\""
+    },
+    "example2": {
+      "inputAlt": "Imagen de dibujo lineal de entrada",
+      "outputAlt": "Imagen coloreada de salida",
+      "prompt": "Prompt: \"1 chica, pelo rubio, camisa blanca, panel de manga\""
+    },
+    "example3": {
+      "inputAlt": "Imagen de dibujo lineal de entrada",
+      "referenceAlt": "Imagen de referencia de entrada",
+      "outputAlt": "Imagen coloreada de salida",
+      "prompt": "Prompt: \"Klee (Genshin Impact)\""
+    }
+  },
+  "whyUse": {
+    "title": "Por qué deberías añadir color a tu trabajo lineal con IA",
+    "description": "El Coloreador de Line Art con IA de Anitoon simplifica el coloreado de line art para todos, desde principiantes hasta ilustradores profesionales, para colorear sus dibujos.",
+    "features": {
+      "referenceGuided": {
+        "title": "Coloreado Guiado por Referencia",
+        "content": "Sube imágenes de referencia para guiar las elecciones de color y el estilo de la IA, asegurando que tu obra de arte coloreada coincida a la perfección con tu visión."
+      },
+      "specifyColors": {
+        "title": "Especifica tus Colores",
+        "content": "Especifica los colores que quieres en tu coloreado de line art con prompts como 'pelo rojo, ojos azules' o usa imágenes de referencia para un control más preciso."
+      },
+      "customArtStyles": {
+        "title": "Estilos de Arte Personalizados",
+        "content": "Especifica el estilo artístico que quieres en tu coloreado de line art con prompts como 'cómic', 'anime', 'manga', 'manhwa', o incluso el nombre del artista."
+      },
+      "effortlessFilling": {
+        "title": "Relleno Sin Esfuerzo",
+        "content": "Ahorra tiempo y esfuerzo dejando que la IA se encargue del proceso de coloreado del boceto. La IA rellenará y coloreará automáticamente tus dibujos lineales. No hace falta rellenar y colorear manualmente cada detalle de tus dibujos."
+      },
+      "smartColorization": {
+        "title": "Coloreado Inteligente",
+        "content": "Al comprender los matices de tu estilo artístico, la IA de Anitoon analiza la composición, la estructura y la estética general de tu dibujo. La IA de Anitoon aplica colores no solo para adaptarse, sino también para mejorar tu ilustración."
+      },
+      "highQualityOutputs": {
+        "title": "Salidas de Alta Calidad",
+        "content": "Descarga cómics con calidad profesional, perfectos para compartir o imprimir."
+      },
+      "streamlinedWorkflow": {
+        "title": "Flujo de Trabajo Optimizado",
+        "content": "El coloreado de dibujos lineales con IA se integra perfectamente en tu flujo de trabajo de ilustración, cómic, manhwa o manga. Anitoon te libera del relleno y el coloreado, para que puedas concentrarte en el núcleo creativo de tu obra de arte."
+      },
+      "mangaPanelConsistency": {
+        "title": "Consistencia del Panel de Manga",
+        "content": "Mantén un coloreado consistente en múltiples paneles y páginas de manga. Perfecto para artistas de manga y creadores de cómics que necesitan asegurar la continuidad del color en todas sus historias y diseños de personajes."
+      },
+      "instantEnhancement": {
+        "title": "Mejora Instantánea del Line Art",
+        "content": "Transforma bocetos en blanco y negro en ilustraciones vibrantes al instante. Ya sea que estés trabajando en manga, cómics o dibujos lineales, nuestro coloreador con IA da vida a tu obra de arte a la vez que preserva la calidad del trabajo lineal original."
+      }
+    }
+  },
+  "faq": {
+    "title": "Preguntas Comunes Sobre el Coloreado de Line Art con IA",
+    "description": "Encuentra respuestas a las preguntas frecuentes sobre el coloreado de dibujos lineales y bocetos con IA.",
+    "what_is": {
+      "question": "¿Qué es el coloreado de line art con IA?",
+      "answer": "El coloreado de line art con IA es un proceso que utiliza inteligencia artificial para colorear automáticamente dibujos lineales en blanco y negro. La herramienta de coloreado de line art con IA de KomikoAI transforma bocetos, manga o cualquier dibujo lineal en imágenes vibrantes y a todo color, ahorrando tiempo a artistas y aficionados."
+    },
+    "how_to_color": {
+      "question": "¿Cómo colorear dibujos lineales en blanco y negro con IA?",
+      "answer": {
+        "intro": "Puedes colorear tu imagen de trabajo lineal con KomikoAI IA en cuatro sencillos pasos:",
+        "step1": "Sube tu imagen de line art al coloreador con IA",
+        "step2": "Introduce un prompt para describir el coloreado que quieres",
+        "step3": "Haz clic en el botón 'Colorear Imagen' para iniciar el proceso de coloreado",
+        "step4": "¡Descarga la imagen coloreada y compártela con tus amigos!"
+      }
+    },
+    "can_i_use_ai": {
+      "question": "¿Puedo usar la IA para colorear y sombrear mi trabajo lineal?",
+      "answer": "Sí, puedes usar la IA para colorear y sombrear tu trabajo lineal. La herramienta de coloreado de line art con IA de KomikoAI puede colorear tu dibujo lineal en blanco y negro con colores y sombras vibrantes. Puedes subir tu imagen de line art e introducir un prompt para describir el coloreado que quieres. La IA interpretará tu intención artística y generará una imagen coloreada."
+    },
+    "how_does_it_work": {
+      "question": "¿Cómo funciona el coloreado de line art con IA?",
+      "answer": "El coloreado de line art con IA utiliza modelos avanzados de IA entrenados con millones de imágenes para reconocer patrones en el dibujo lineal y aplicar colores artísticos. Subes tu boceto, añades un prompt de color y la IA interpretará tu intención artística y generará una imagen coloreada."
+    },
+    "benefits": {
+      "question": "¿Cuáles son los beneficios del coloreado de line art con IA?",
+      "answer": {
+        "intro": "Hay varios beneficios al colorear line art con IA:",
+        "benefit1": "Ahorra tiempo en comparación con el coloreado manual.",
+        "benefit2": "Produce resultados de alta calidad y profesionales.",
+        "benefit3": "Accesible para no artistas y principiantes.",
+        "benefit4": "Personalizable con prompts para que coincida con tu visión creativa."
+      }
+    },
+    "commercial_use": {
+      "question": "¿Puedo usar imágenes coloreadas con IA para fines comerciales?",
+      "answer": "Sí, puedes usar imágenes coloreadas generadas por IA para fines personales y comerciales. Sin embargo, asegúrate de cumplir con los términos de servicio de KomikoAI."
+    },
+    "formats": {
+      "question": "¿Qué formatos y tamaños son compatibles?",
+      "answer": "La IA admite dibujos lineales en formatos JPG y PNG. Las imágenes de salida tendrán su tamaño original."
+    },
+    "is_free": {
+      "question": "¿Es gratis el uso del coloreador de line art con IA?",
+      "answer": "KomikoAI ofrece zaps (créditos) gratuitos para que pruebes la herramienta. También puedes comprar planes de pago para obtener más zaps si necesitas más uso, así como funciones avanzadas como procesamiento más rápido y resoluciones más altas."
+    },
+    "prompts": {
+      "question": "¿Qué prompts debo usar para obtener los mejores resultados de coloreado con IA?",
+      "answer": "Usa prompts claros y descriptivos como \"pelo rojo, ojos azules, atuendo moderno\". Evita términos ambiguos."
+    },
+    "limitations": {
+      "question": "¿Cuáles son las limitaciones del coloreado de line art con IA?",
+      "answer": {
+        "intro": "Aunque el coloreado de line art con IA es una herramienta poderosa, tiene algunas limitaciones:",
+        "limitation1": "Estilo Artístico: Es posible que la IA no siempre coincida a la perfección con el estilo artístico deseado.",
+        "limitation2": "Detalles Complejos: Los dibujos lineales intrincados o con muchos detalles pueden producir resultados inesperados.",
+        "limitation3": "Personalización: El coloreado se basa en prompts, y los prompts demasiado vagos o poco claros pueden producir resultados insatisfactorios.",
+        "conclusion": "A pesar de estas limitaciones, el coloreado con IA puede acelerar significativamente los flujos de trabajo y mejorar la creatividad."
+      }
+    },
+    "need_to_draw": {
+      "question": "¿Necesito saber dibujar para usar el coloreado de line art con IA?",
+      "answer": {
+        "intro": "No, no necesitas saber dibujar para usar el coloreado de line art con IA.",
+        "for_artists": "Para Artistas: Si creas tus propios bocetos, esta herramienta puede darles vida con colores vivos.",
+        "for_non_artists": "Para No Artistas: Puedes empezar con dibujos lineales o plantillas existentes, subirlos y dejar que la IA se encargue del coloreado.",
+        "conclusion": "Esta herramienta está diseñada para ser fácil de usar para todos, tanto si eres un artista experimentado como un principiante que explora la creatividad."
+      }
+    },
+    "types_of_line_art": {
+      "question": "¿Qué tipos de line art puedo colorear con IA?",
+      "answer": {
+        "intro": "El coloreador con IA funciona con varios tipos de dibujos lineales:",
+        "type1": "Bocetos y dibujos",
+        "type2": "Páginas de manga y cómics",
+        "type3": "Diseños de personajes",
+        "type4": "Ilustraciones",
+        "type5": "Diseños de productos",
+        "type6": "Dibujos arquitectónicos",
+        "conclusion": "Para obtener los mejores resultados, asegúrate de que tu dibujo lineal tenga líneas claras y bien definidas y un buen contraste."
+      }
+    },
+    "best_results": {
+      "question": "¿Cómo puedo obtener los mejores resultados del coloreado con IA?",
+      "answer": {
+        "intro": "Sigue estos consejos para un coloreado óptimo:",
+        "tip1": "Usa dibujos lineales limpios y de alto contraste",
+        "tip2": "Escribe prompts claros y específicos que describan colores y estilo",
+        "tip3": "Experimenta con diferentes variaciones de prompt",
+        "tip4": "Considera la composición general al describir los colores",
+        "tip5": "Usa imágenes de referencia para guiar tus elecciones de color"
+      }
+    },
+    "comparison": {
+      "question": "¿Cómo se compara el coloreado con IA con el coloreado manual?",
+      "answer": "El coloreado con IA ofrece un ahorro de tiempo significativo en comparación con el coloreado manual, reduciendo horas de trabajo a minutos. Aunque puede que no reemplace por completo el coloreado tradicional para proyectos artísticos complejos, es una herramienta excelente para la creación rápida de prototipos, la visualización de conceptos y la creación rápida de múltiples variaciones de color. La IA comprende la teoría del color y puede sugerir combinaciones de colores armoniosas que quizás no hayas considerado."
+    },
+    "edit_results": {
+      "question": "¿Puedo editar los resultados coloreados con IA?",
+      "answer": "Sí, puedes editar y refinar aún más las imágenes coloreadas con IA utilizando tu software de arte digital preferido. El resultado generado por la IA sirve como una base excelente que puedes mejorar con tu toque artístico personal."
+    },
+    "creative_uses": {
+      "question": "¿Cuáles son algunas formas creativas de usar el coloreado de line art con IA?",
+      "answer": {
+        "intro": "El coloreado de line art con IA se puede utilizar para:",
+        "use1": "Creación rápida de prototipos de diseños de personajes",
+        "use2": "Creación de múltiples variaciones de color para clientes",
+        "use3": "Coloreado de páginas de manga",
+        "use4": "Desarrollo de arte conceptual",
+        "use5": "Fines educativos en clases de arte",
+        "use6": "Revitalización de antiguas ilustraciones en blanco y negro"
+      }
+    },
+    "reference_feature": {
+      "question": "¿Cómo funciona la función de imagen de referencia en el coloreador de line art de KomikoAI AI?",
+      "answer": "El coloreador de line art de KomikoAI AI incluye una potente función de imagen de referencia que te permite guiar las elecciones de color de la IA para tu manga, cómics o ilustraciones. Al subir una imagen de referencia junto con tu dibujo lineal, la IA analiza la paleta de colores y el estilo artístico para crear resultados de coloreado más específicos. Esta función es especialmente valiosa para artistas de manga y creadores de cómics que desean mantener un coloreado coherente en toda su obra de arte. El coloreador con IA utiliza aprendizaje automático avanzado para extraer esquemas de color de tu imagen de referencia y los aplica de forma inteligente a tu dibujo lineal, preservando al mismo tiempo la intención artística original."
+    },
+    "good_reference": {
+      "question": "¿Qué hace que una imagen de referencia sea buena para el coloreado de line art con IA?",
+      "answer": {
+        "intro": "Para obtener resultados óptimos con el coloreador de line art de KomikoAI AI, elige imágenes de referencia que se ajusten a tu visión artística para el manga, los cómics o las ilustraciones. Las mejores imágenes de referencia deben:",
+        "quality1": "Tener colores e iluminación claros y bien definidos que coincidan con el estilo de manga o cómic deseado",
+        "quality2": "Compartir contenido o dirección artística similar con tu dibujo lineal (por ejemplo, estilo anime, estilo cómic)",
+        "quality3": "Mostrar la paleta de colores específica que deseas lograr en tu obra de arte",
+        "quality4": "Estar bien iluminadas y ser de alta calidad para ayudar a la IA a analizar los colores con precisión",
+        "conclusion": "Puedes usar varios tipos de referencias, incluidos personajes de anime existentes, capturas de pantalla de anime, paneles de manga o ilustraciones digitales. Esta flexibilidad permite a los artistas lograr una coincidencia de color precisa y mantener la coherencia en sus páginas de manga o paneles de cómic."
+      }
+    },
+    "items": [
+      {
+        "id": 1,
+        "question": "¿Qué es la coloración de arte lineal con IA?",
+        "answer": "La coloración de arte lineal con IA es un proceso que utiliza inteligencia artificial para colorear automáticamente dibujos lineales en blanco y negro. La herramienta de coloración de Komiko transforma bocetos, mangas o cualquier arte lineal en imágenes vibrantes y completamente coloreadas, ahorrando tiempo a artistas y aficionados."
+      },
+      {
+        "id": 2,
+        "question": "¿Cómo colorear dibujos lineales en blanco y negro con IA?",
+        "answer": "Puedes colorear tu imagen de arte lineal con Komiko AI en cuatro sencillos pasos:\n1. Carga tu imagen de arte lineal en el colorizador de IA.\n2. Ingresa una descripción para la coloración que deseas.\n3. Haz clic en el botón 'Colorizar Imagen' para iniciar el proceso de coloración.\n4. Descarga la imagen coloreada y compártela con tus amigos."
+      },
+      {
+        "id": 0,
+        "question": "¿Puedo usar IA para colorear y sombrear mi arte lineal?",
+        "answer": "Sí, puedes usar IA para colorear y sombrear tu arte lineal. La herramienta de coloración de arte lineal de Komiko puede aplicar colores y sombras vibrantes a tus dibujos en blanco y negro. Puedes cargar tu imagen e ingresar una descripción para la coloración deseada. La IA interpretará tu intención artística y generará una imagen coloreada."
+      },
+      {
+        "id": 3,
+        "question": "¿Cómo funciona la coloración de arte lineal con IA?",
+        "answer": "La coloración de arte lineal con IA utiliza modelos de inteligencia artificial avanzados entrenados en millones de imágenes para reconocer patrones y aplicar colores artísticos. Cargas tu boceto, agregas una descripción de color, y la IA interpretará tu intención artística y generará una imagen coloreada."
+      },
+      {
+        "id": 4,
+        "question": "¿Cuáles son los beneficios de la coloración de arte lineal con IA?",
+        "answer": "Hay varios beneficios al colorear arte lineal con IA:\nAhorra tiempo en comparación con la coloración manual.\nProduce resultados de alta calidad y profesionales.\nEs accesible para personas que no son artistas y principiantes.\nEs personalizable con descripciones que coincidan con tu visión creativa."
+      },
+      {
+        "id": 5,
+        "question": "¿Puedo usar imágenes coloreadas por IA con fines comerciales?",
+        "answer": "Sí, puedes usar imágenes generadas por IA tanto para fines personales como comerciales. Sin embargo, asegúrate de cumplir con los términos de servicio de Komiko."
+      },
+      {
+        "id": 6,
+        "question": "¿Qué formatos y tamaños son compatibles?",
+        "answer": "La IA admite arte lineal en formatos JPG y PNG. Las imágenes producidas conservarán su tamaño original."
+      },
+      {
+        "id": 7,
+        "question": "¿Es gratuito usar el colorizador de arte lineal con IA?",
+        "answer": "Komiko ofrece zaps (créditos) gratuitos para que pruebes la herramienta. También puedes comprar planes de pago para obtener más zaps si necesitas más uso, así como características avanzadas como procesamiento más rápido y resoluciones más altas."
+      },
+      {
+        "id": 8,
+        "question": "¿Qué descripciones debo usar para obtener los mejores resultados con la IA?",
+        "answer": "Usa descripciones claras y detalladas como \"pelo rojo, ojos azules, traje moderno\". Evita términos ambiguos."
+      },
+      {
+        "id": 9,
+        "question": "¿Cuáles son las limitaciones de la coloración de arte lineal con IA?",
+        "answer": "Aunque la coloración de arte lineal con IA es una herramienta poderosa, tiene algunas limitaciones:\nEstilo artístico: la IA podría no coincidir perfectamente con tu estilo artístico deseado.\nDetalles complejos: los dibujos intrincados o muy detallados pueden generar resultados inesperados.\nPersonalización: las coloraciones se basan en descripciones, y si estas son demasiado vagas o imprecisas, los resultados podrían no ser satisfactorios.\nA pesar de estas limitaciones, la coloración con IA puede acelerar significativamente los flujos de trabajo y fomentar la creatividad."
+      },
+      {
+        "id": 10,
+        "question": "¿Necesito saber dibujar para usar la coloración de arte lineal con IA?",
+        "answer": "No, no necesitas saber dibujar para usar la coloración de arte lineal con IA. Para artistas: si creas tus propios bocetos, esta herramienta puede darles vida con colores vívidos. Para personas que no son artistas: puedes comenzar con arte lineal existente o plantillas, cargarlas y dejar que la IA se encargue de la coloración. Esta herramienta está diseñada para ser fácil de usar para todos, ya seas un artista experimentado o un principiante explorando la creatividad."
+      },
+      {
+        "id": 11,
+        "question": "¿Qué tipos de arte lineal puedo colorear con IA?",
+        "answer": "El colorizador de IA funciona con varios tipos de arte lineal:\nBocetos y dibujos,\nPáginas de manga y cómics,\nDiseños de personajes,\nIlustraciones,\nDiseños de productos,\nDibujos arquitectónicos.\nPara obtener los mejores resultados, asegúrate de que tu arte lineal tenga líneas claras y bien definidas y buen contraste."
+      },
+      {
+        "id": 12,
+        "question": "¿Cómo puedo obtener los mejores resultados de la coloración con IA?",
+        "answer": "Sigue estos consejos para una coloración óptima:\nUsa arte lineal limpio y de alto contraste,\nEscribe descripciones claras y específicas que describan colores y estilo,\nExperimenta con diferentes variaciones de descripciones,\nConsidera la composición general al describir colores,\nUsa imágenes de referencia para guiar tus elecciones de color."
+      },
+      {
+        "id": 13,
+        "question": "¿Cómo se compara la coloración con IA con la coloración manual?",
+        "answer": "La coloración con IA ofrece ahorros de tiempo significativos en comparación con la coloración manual, reduciendo horas de trabajo a minutos. Aunque puede que no reemplace completamente la coloración tradicional para proyectos artísticos complejos, es una excelente herramienta para la creación rápida de prototipos, visualización de conceptos y creación de múltiples variaciones de color rápidamente. La IA entiende la teoría del color y puede sugerir combinaciones de colores armoniosas que quizás no hayas considerado."
+      },
+      {
+        "id": 14,
+        "question": "¿Puedo editar los resultados coloreados por IA?",
+        "answer": "Sí, puedes editar y refinar las imágenes coloreadas por IA utilizando tu software de arte digital preferido. El resultado generado por la IA sirve como una excelente base que puedes mejorar con tu toque artístico personal."
+      },
+      {
+        "id": 15,
+        "question": "¿Cuáles son algunas formas creativas de usar la coloración de arte lineal con IA?",
+        "answer": "La coloración de arte lineal con IA puede usarse para:\nPrototipado rápido de diseños de personajes,\nCreación de múltiples variaciones de color para clientes,\nColoración de páginas de manga,\nDesarrollo de arte conceptual,\nFines educativos en clases de arte,\nRevitalización de ilustraciones antiguas en blanco y negro."
+      },
+      {
+        "id": 16,
+        "question": "¿Cómo funciona la función de imagen de referencia en el colorizador de arte lineal de Komiko AI?",
+        "answer": "El colorizador de arte lineal de Komiko AI incluye una potente función de imagen de referencia que te permite guiar las elecciones de color de la IA para tu manga, cómics o ilustraciones. Al cargar una imagen de referencia junto con tu arte lineal, la IA analiza la paleta de colores y el estilo artístico para crear resultados de coloración más específicos. Esta función es especialmente valiosa para artistas de manga y creadores de cómics que desean mantener una coloración consistente en su obra de arte. El colorizador de IA utiliza aprendizaje automático avanzado para extraer esquemas de color de tu imagen de referencia y aplicarlos inteligentemente a tu arte lineal mientras preserva la intención artística original."
+      },
+      {
+        "id": 17,
+        "question": "¿Qué hace que una buena imagen de referencia para la coloración de arte lineal con IA?",
+        "answer": "Para obtener resultados óptimos con el colorizador de arte lineal de Komiko AI, elige imágenes de referencia que se alineen con tu visión artística para manga, cómics o ilustraciones. Las mejores imágenes de referencia deberían:\nTener colores y iluminación claros y bien definidos que coincidan con tu estilo de manga o cómic deseado,\nCompartir contenido o dirección artística similar con tu arte lineal (por ejemplo, estilo anime, estilo de cómic),\nMostrar la paleta de colores específica que deseas lograr en tu obra de arte,\nEstar bien iluminadas y de alta calidad para ayudar a la IA a analizar los colores con precisión.\nPuedes usar varios tipos de referencias incluidas personajes de anime existentes, capturas de pantalla de anime, paneles de manga o ilustraciones digitales. Esta flexibilidad permite a los artistas lograr una coincidencia de color precisa y mantener la consistencia en sus páginas de manga o paneles de cómic."
+      }
+    ]
+  },
+  "deleteModal": {
+    "title": "Confirmación de Eliminación",
+    "message": "¿Estás seguro de que quieres eliminar este vídeo? Esta acción no se puede deshacer."
+  },
+  "colorize_image": "Colorear Imagen"
+}

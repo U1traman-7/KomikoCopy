@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Ray2 Video Generator - KomikoAI",
+      "description": "Crie vídeos impressionantes em alta resolução com o Ray2 Video Generator. Transforme imagens em vídeo com tecnologia de IA, gerando movimento natural, coerente e com qualidade cinematográfica para projetos de anime, mangá e animação.",
+      "keywords": "Ray2 Video Generator, geração de vídeo por IA, IA de imagem para vídeo, vídeo de IA realista, vídeo de IA cinematográfico, ferramenta de animação de IA, Luma AI Ray2"
+    },
+    "hero": {
+      "title": "Ray2 Video Generator",
+      "description": "Desbloqueie a criação de vídeos com tecnologia de IA com o Ray2, que oferece visuais hiper-realistas, movimento natural suave e simulações de física avançadas. Perfeito para narrativas dinâmicas e animação."
+    },
+    "whatIs": {
+      "title": "O que é o Ray2 Video Generator?",
+      "description": "O Ray2 Video Generator da Luma AI transforma imagens em vídeos de alta qualidade com movimento natural. Utilizando uma arquitetura multimodal avançada, ele produz vídeos em 1080p com visuais cinematográficos, animações com percepção da física e controles de câmera precisos. O Ray2 supera problemas comuns em vídeos gerados por IA, como movimentos distorcidos, por meio de uma compreensão aprimorada da cena e da dinâmica baseada na física, atendendo criadores nas áreas de animação, jogos, marketing e design."
+    },
+    "examples": {
+      "title": "Exemplos de vídeos gerados pelo Ray2",
+      "description": "Veja o que o Ray2 pode fazer: dê vida instantaneamente a anime, mangá ou arte em quadrinhos a partir de uma única imagem. Crie vídeos de marketing cinematográficos com iluminação natural e movimento suave. Transforme fotos de produtos em maquetes de vídeo dinâmicas. Adicione efeitos realistas, baseados na física, a qualquer visual. Crie loops de vídeo contínuos para fundos. Perfeito para quem busca vídeos com qualidade profissional sem o incômodo da animação manual."
+    },
+    "howToUse": {
+      "title": "Como usar o Ray2 Video Generator",
+      "steps": [
+        {
+          "title": "Carregue sua imagem",
+          "content": "Clique para carregar ou arraste sua imagem para a área de upload. O Ray2 aceita vários formatos de imagem e os utilizará como base para seu vídeo animado."
+        },
+        {
+          "title": "Escreva o prompt de animação",
+          "content": "Insira um prompt de texto detalhado descrevendo como você deseja que a imagem seja animada. Seja específico sobre movimentos, efeitos e o tipo de movimento que deseja ver."
+        },
+        {
+          "title": "Configure as definições",
+          "content": "Selecione seu modelo de IA (como Luma Ray2), escolha a proporção (16:9 Paisagem ou 9:16 Retrato) e defina a duração (5 segundos ou outras opções disponíveis)."
+        },
+        {
+          "title": "Gerar animação",
+          "content": "Clique no botão 'Gerar animação' para iniciar o processamento de IA. O Ray2 criará seu vídeo com movimento suave e natural com base em sua imagem e prompt."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Por que escolher o Ray2 Video Generator",
+      "description": "Descubra como o Ray2 revoluciona a criação de vídeos com IA, oferecendo recursos poderosos, feitos sob medida para otimizar a produção e aprimorar a criatividade.",
+      "features": [
+        {
+          "title": "Saída de vídeo hiper-realista",
+          "content": "Produz visuais ultrarrealistas com iluminação, texturas e detalhes precisos, com resolução de até 1080p para resultados de nível profissional.",
+          "icon": "🎥"
+        },
+        {
+          "title": "Movimento natural e coerente",
+          "content": "A animação avançada baseada na física oferece movimentos suaves e realistas e sequências de eventos lógicas, reduzindo tremores e distorções.",
+          "icon": "💨"
+        },
+        {
+          "title": "Transformação de imagem em vídeo",
+          "content": "Transforma imagens estáticas em vídeos dinâmicos com movimento contínuo e física realista para diversos fluxos de trabalho criativos.",
+          "icon": "🖼️"
+        },
+        {
+          "title": "Controle de câmera intuitivo",
+          "content": "Os usuários podem especificar tipos de tomadas, ângulos, zooms e panorâmicas para produzir perspectivas cinematográficas e narrativa visual dinâmica.",
+          "icon": "📷"
+        },
+        {
+          "title": "Geração eficiente e rápida",
+          "content": "Aproveitando dez vezes o poder de computação de seu antecessor, o Ray2 acelera a produção com tempos de renderização mais rápidos e maiores taxas de sucesso para vídeos utilizáveis.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Possibilidades criativas expandidas",
+          "content": "Permite a criação fácil de conteúdo envolvente para marketing, animação, jogos e mídia digital, ajudando os criadores a liberar sua visão artística com a assistência da IA.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes sobre o Ray2 Video Generator",
+      "description": "Encontre respostas para as perguntas mais comuns sobre a tecnologia de geração de vídeo com IA do Ray2 e suas aplicações.",
+      "q1": "O que é o Ray2 Video Generator?",
+      "a1": "O Ray2 Video Generator é um modelo avançado de IA desenvolvido pela Luma AI que cria vídeos realistas a partir de imagens usando tecnologia generativa de vídeo em grande escala, oferecendo movimento natural e qualidade cinematográfica.",
+      "q2": "Como o Ray2 Video Generator cria movimentos tão realistas e naturais?",
+      "a2": "O Ray2 usa uma arquitetura multimodal com simulações aprimoradas baseadas na física e modelos de deep learning treinados em conjuntos de dados extensos. Isso permite movimentos suaves e coerentes e interações precisas entre objetos e personagens.",
+      "q3": "Que tipos de entradas o Ray2 Video Generator aceita?",
+      "a3": "O Ray2 Video Generator suporta a geração de imagem para vídeo, permitindo que os usuários criem vídeos a partir de imagens estáticas com animação e efeitos de movimento com tecnologia de IA.",
+      "q4": "Qual resolução e duração de vídeo o Ray2 Video Generator suporta?",
+      "a4": "O Ray2 pode gerar vídeos com resolução de até 1080p com durações de até 10 segundos, ideal para conteúdo profissional e de mídia social.",
+      "q5": "Posso usar vídeos gerados pelo Ray2 comercialmente?",
+      "a5": "Sim, os vídeos gerados com o Ray2 podem ser usados para projetos pessoais e comerciais, sujeitos aos termos de serviço e aos contratos de licenciamento da plataforma.",
+      "q6": "Existem limitações ou desafios ao usar o Ray2 Video Generator?",
+      "a6": "Embora o Ray2 forneça resultados de alta qualidade, cenas complexas podem exigir uma criação cuidadosa de prompts, e a alta demanda pode afetar a velocidade de geração. Atualmente, o ajuste fino de modelos personalizados não é suportado.",
+      "q7": "Quais setores se beneficiam mais com o Ray2 Video Generator?",
+      "a7": "O Ray2 é valioso para estúdios de animação, equipes de marketing, designers de produtos, criadores de conteúdo e artistas digitais que buscam geração de vídeo rápida e realista, sem muito trabalho manual.",
+      "q8": "É necessária experiência técnica para usar o Ray2 Video Generator?",
+      "a8": "Não é necessária nenhuma habilidade especializada. A interface intuitiva do Ray2 permite que qualquer pessoa gere vídeos de alta qualidade simplesmente carregando imagens e fornecendo prompts de movimento."
+    }
+  },
+  "originalKeyword": "Ray2 Video Generator",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modelo: Ray2",
+      "description": "Prompt: Camera turn with beautiful lighting.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_08.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Modelo: Ray2",
+      "description": "Prompt: Couple look at each other and kiss.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_01.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Modelo: Ray2",
+      "description": "Prompt: Putting on sun glasses.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_05.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Modelo: Ray2",
+      "description": "Prompt: Dragon breathing fire.",
+      "videoUrl": "https://static.cdn-luma.com/files/25b8182464b85037/i2v_11.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Modelo: Ray2",
+      "description": "Prompt: a sports car in the clouds in the sky",
+      "videoUrl": "https://static.cdn-luma.com/files/de7d9084a9e412a9/Cloud%20Racer%20(2).mp4"
+    },
+    {
+      "id": 6,
+      "title": "Modelo: Ray2",
+      "description": "Prompt: an underwater city.",
+      "videoUrl": "https://static.cdn-luma.com/files/site/ray2/Underwater%20Metropolis.mp4"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "benefits",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "RAY"
+}

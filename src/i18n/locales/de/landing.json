@@ -1,0 +1,268 @@
+{
+  "hero": {
+    "title": "Erwecke deine Anime- und Comic-Ideen zum Leben",
+    "subtitle": "Verwirkliche deine Träume und lass deine Geschichten lebendig werden – gestalte Charaktere, kreiere Kunstwerke und animiere Szenen mit KI",
+    "create_now_button": "Jetzt kostenlos erstellen",
+    "join_discord_button": "Tritt unserem Discord-Server bei"
+  },
+  "section2": {
+    "tagline": "KomikoAI: Konsistente Charaktere generieren",
+    "title": "Konsistentes Charakterdesign",
+    "description": {
+      "part1": "Sorgen Sie mit unserer umfangreichen Charakterdatenbank für Charakterkonsistenz in Ihrem Comic.",
+      "part2": "Sie können auch",
+      "part3": "und diese bei Ihrer Bilderzeugung und Comic-Erstellung verwenden, um ein einheitliches Erscheinungsbild Ihrer Charaktere zu gewährleisten."
+    },
+    "create_character_link": "eigene Charaktere erstellen",
+    "create_character_title": "Charakter erstellen | KomikoAI",
+    "create_now_button": "Jetzt kostenlos erstellen",
+    "create_now_title": "Erstelle jetzt deine Geschichte | KomikoAI",
+    "image_alt": "Konsistentes Charakterdesign auf KomikoAI erstellen"
+  },
+  "section3": {
+    "tagline": "KomikoAI: KI Comic Studio",
+    "title": "Freie Gestaltung auf der Leinwand",
+    "description": {
+      "part1": "Entfesseln Sie Ihre Kreativität und erstellen Sie Comics, Manhwa und Manga auf unserer KI-gestützten Leinwand!",
+      "part2": "Generieren Sie Bilder mit unserem KI-Text-zu-Bild-Generator, gestalten Sie Ihre Comic-Panels frei auf der unendlichen Leinwand und fügen Sie Sprechblasen und Effekte hinzu, um Ihr Storytelling zu verbessern."
+    },
+    "create_comics_title": "Comics auf der Leinwand erstellen | KomikoAI",
+    "create_now_button": "Jetzt kostenlos erstellen",
+    "create_now_title": "Erstelle jetzt deine Geschichte | KomikoAI",
+    "image_alt": "Comics mit KI auf unendlicher Leinwand erstellen"
+  },
+  "section4": {
+    "tagline": "KomikoAI: KI-Tools für Illustratoren, Künstler und Animatoren",
+    "title": "Professionelle Kunstgestaltung mit KI",
+    "description": {
+      "intro": "KomikoAI bietet leistungsstarke KI-Tools für professionelle Kunstgestaltung:",
+      "feature1": "Text-zu-Bild-Generierung für sofortige Kunstwerkerstellung",
+      "feature2": "Strichzeichnungen- und Manga-Kolorierung, um Stunden manueller Arbeit zu sparen",
+      "feature3": "Hochwertiges Image Upscaling für kristallklare Ergebnisse",
+      "feature4": "Hintergrundentfernung und -beleuchtung für flexible Bildbearbeitung",
+      "conclusion": "Egal, ob Sie ein professioneller Künstler oder ein Anfänger sind, unsere KI-Tools helfen Ihnen, atemberaubende Illustrationen, Comics und Animationen schneller denn je zu erstellen."
+    },
+    "colorize_title": "Strichzeichnungen mit KI kolorieren | KomikoAI",
+    "create_now_button": "Jetzt kostenlos erstellen",
+    "create_now_title": "Erstelle jetzt deine Geschichte | KomikoAI",
+    "image_alt": "Konsistentes Charakterdesign auf KomikoAI erstellen"
+  },
+  "section5": {
+    "tagline": "KomikoAI: Animieren Sie Ihre Kunst mit KI",
+    "title": "Keyframe-zu-Animationsgenerierung",
+    "description": {
+      "part1": "Verwandeln Sie Ihre Keyframes in flüssige, hochwertige Animationen mit branchenführenden KI-Modellen wie Veo, Kling, Hailuo, Pixverse und mehr.",
+      "part2": "Beschleunigen Sie Ihren professionellen Animationsworkflow mit KI-gestützten In-Betweening- und Video-Upscaling-Tools."
+    },
+    "animation_title": "KI-Animationsgenerator | KomikoAI",
+    "create_now_button": "Jetzt kostenlos erstellen",
+    "create_now_title": "Erstelle jetzt deine Geschichte | KomikoAI",
+    "image_alt": "KI-Animationsvideos auf KomikoAI generieren"
+  },
+  "features": {
+    "title": "KI-Erstellungsplattform aus einer Hand",
+    "subtitle": "Entdecken Sie professionelle KI-Tools, um Ihre Illustrationen, Comics, Manga- und Anime-Erstellung zu beschleunigen"
+  },
+  "testimonials": {
+    "title": "Was unsere Nutzer sagen",
+    "subtitle": "Sehen Sie selbst, wie KomikoAI unseren Nutzern geholfen hat, erstaunliche Comics und Animationen zu erstellen.",
+    "testimonial1": {
+      "name": "Lina K",
+      "title": "Tarsis Animation, Creative Director",
+      "content": "KomikoAI hat die Art und Weise, wie wir Anime erstellen, komplett verändert. Unsere Produktionszeit hat sich halbiert und wir können jetzt komplexere Szenen ohne die üblichen Probleme zum Leben erwecken. Ein Game-Changer für unser Studio."
+    },
+    "testimonial2": {
+      "name": "Salmonism",
+      "title": "Manga-Künstler",
+      "content": "Das Kolorieren hat mich früher Stunden gekostet – jetzt dauert es Sekunden. Mit dem KI-Strichzeichnungen-Kolorierungstool von KomikoAI kann ich mich auf das Storytelling konzentrieren, anstatt mich in mühsamer Arbeit zu verlieren."
+    },
+    "testimonial3": {
+      "name": "Tristan B",
+      "title": "Gründer, Nebula Studios",
+      "content": "Vom Charakterdesign über Storyboarding bis hin zur Animation spart KomikoAI uns Zeit und macht unsere Arbeit kreativer. Unser Team liebt es und ich kann mir nicht vorstellen, zum alten Weg zurückzukehren."
+    },
+    "testimonial4": {
+      "name": "VentiVenti",
+      "title": "KI-Comic-Ersteller",
+      "content": "Ich wollte schon immer Genshin-Fan-Comics erstellen, hatte aber nie die Zeit, zeichnen zu lernen. Die KI-Tools von KomikoAI machen es möglich – ich kann meine Geschichten genau so zum Leben erwecken, wie ich sie mir vorgestellt habe."
+    },
+    "testimonial5": {
+      "name": "John D",
+      "title": "Indie-Animator",
+      "content": "KomikoAI hat meine Animationen auf ein ganz neues Level gehoben. Ich kann qualitativ hochwertige Arbeit in einem Bruchteil der Zeit produzieren, die ich früher gebraucht habe. KomikoAI packt ein ganzes Animationsteam in ein leistungsstarkes Tool."
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "what_is_komiko": {
+      "question": "Was ist KomikoAI?",
+      "answer": "KomikoAI ist eine KI-gestützte Plattform, mit der Sie mithilfe von KI Comics, Manhwa, Manga und Anime erstellen können. Sie bietet eine Reihe von Tools, mit denen Sie in wenigen Minuten, nicht in Tagen, professionelle Comics, Manhwa und Animationen erstellen können."
+    },
+    "what_tools": {
+      "question": "Welche Tools bietet KomikoAI?",
+      "answer": "KomikoAI bietet eine breite Palette an KI-Tools, mit denen Sie professionelle Comics, Manhwa und Animationen erstellen können. Dazu gehören Charaktererstellung, unendliche Leinwand, KI-Comicgenerator, Strichzeichnungen-Kolorierung, Manga-Kolorierung, In-Betweening, Video-Upscaling, Frame-Interpolation und mehr."
+    },
+    "how_comic_creation_works": {
+      "question": "Wie funktioniert die KI-Comic-Erstellung von KomikoAI?",
+      "answer": "KomikoAI verwendet fortschrittliche KI-Technologie, um Ihnen bei der Generierung von Comic-Grafiken zu helfen. Geben Sie einfach Ihre Story-Idee ein und unsere KI generiert den Comic für Sie mit konsistenten Charakteren, Sprechblasen und Panel-Layouts."
+    },
+    "is_free": {
+      "question": "Ist KomikoAI kostenlos nutzbar?",
+      "answer": "Ja, KomikoAI bietet eine kostenlose Stufe, mit der Sie unsere grundlegenden Funktionen ausprobieren können. Wir bieten auch Premium-Pläne mit erweiterten Funktionen, Ausgaben mit höherer Auflösung und mehr Generationen für professionelle Ersteller."
+    },
+    "manga_anime_style": {
+      "question": "Kann ich mit KomikoAI Kunst im Manga- und Anime-Stil erstellen?",
+      "answer": "Absolut! KomikoAI ist auf Manga-, Anime- und Manhwa-Kunststile spezialisiert. Unsere KI wurde auf umfangreichen Anime-, Comic-, Manhwa- und Manga-Grafiken trainiert, um eine authentische japanische und koreanische Comic-Ästhetik zu gewährleisten."
+    },
+    "what_makes_different": {
+      "question": "Was unterscheidet KomikoAI von anderen KI-Kunsttools?",
+      "answer": "KomikoAI wurde speziell für die Comic- und Animationserstellung entwickelt und bietet spezielle Funktionen wie Charakterkonsistenz, Panel-Layout-Tools, Sprechblasengenerierung und Animationsfunktionen. Unsere Plattform bietet eine End-to-End-Lösung für die digitale Comic- und Animationserstellung."
+    },
+    "need_artistic_skills": {
+      "question": "Benötige ich künstlerische Fähigkeiten, um KomikoAI zu verwenden?",
+      "answer": "Es sind keine künstlerischen Vorkenntnisse erforderlich! Während Künstler ihren Workflow mit unseren Tools beschleunigen können, wurde KomikoAI entwickelt, um jedem zu helfen, professionell aussehende Comics und Animationen zu erstellen, unabhängig von seinem künstlerischen Hintergrund."
+    },
+    "commercial_projects": {
+      "question": "Kann ich KomikoAI für kommerzielle Projekte verwenden?",
+      "answer": "Ja, die Premium-Pläne von KomikoAI beinhalten kommerzielle Nutzungsrechte. Sie behalten alle Rechte an den Grafiken, die Sie mit unserer Plattform erstellen. Dies macht sie perfekt für professionelle Comiczeichner und Animationsstudios."
+    },
+    "support": {
+      "question": "Welche Art von Support bietet KomikoAI an?",
+      "answer": "Wir bieten umfassenden Support über unsere Discord-Community, Dokumentation, Video-Tutorials und einen engagierten Kundenservice. Treten Sie unserer Discord-Community bei, um Tipps zu erhalten, Ihre Arbeit zu teilen und bei Bedarf Hilfe zu erhalten."
+    }
+  },
+  "cta": {
+    "title": "Entfesseln Sie Ihre Kreativität",
+    "subtitle": "Verwandeln Sie Ihre Ideen jetzt mit KomikoAI KI in erstaunliche Comics und Animationen",
+    "create_now_button": "Jetzt kostenlos erstellen",
+    "join_discord_button": "Tritt unserem Discord-Server bei"
+  },
+  "create_now": "Jetzt erstellen",
+  "interactive_menu": {
+    "click_select": "Zum Auswählen klicken",
+    "input_placeholder": "Geben Sie hier Ihre Inspiration ein...",
+    "input_placeholder_short": "Idee eingeben...",
+    "character_placeholder": "Gestalten Sie Ihren Charakter (z.B. ein magisches Mädchen mit grünen Haaren und Elfenohren)",
+    "character_placeholder_short": "Charakteridee (z.B. Ninja-Katze)",
+    "comic_placeholder": "Erzählen Sie Ihre Geschichte (z.B. Superheld rettet Katze von einem Wolkenkratzer)",
+    "comic_placeholder_short": "Geschichteidee (z.B. Weltraumpiraten)",
+    "anime_placeholder": "Gestalten Sie Ihr Anime-Kunstwerk (z.B. ein Cyberpunk-Samurai mit leuchtendem Katana)",
+    "anime_placeholder_short": "Anime-Kunstidee (z.B. Cyberpunk-Samurai)",
+    "animation_placeholder": "Animieren Sie Ihre Idee (z.B. eine Ninja-Katze kämpft gegen einen Weltraumpiraten)",
+    "animation_placeholder_short": "Animationsidee (z.B. Ninja-Katze vs. Weltraumpirat)",
+    "title": "Zum Wechseln des Typs klicken",
+    "character_card": {
+      "alt": "Charakterdesign",
+      "title": "Charakter"
+    },
+    "comic_card": {
+      "alt": "Geschichtencomic",
+      "title": "Comic"
+    },
+    "anime_card": {
+      "alt": "Anime-Kunst",
+      "title": "Anime-Kunst"
+    },
+    "animation_card": {
+      "alt": "Animation",
+      "title": "Animation"
+    },
+    "button": {
+      "choose_type": "Typ auswählen",
+      "create_character": "Charakter erstellen",
+      "create_comic": "Comic erstellen",
+      "create_animation": "Animation erstellen",
+      "create_anime": "Anime-Kunst erstellen"
+    },
+    "see_more": "Kostenlos starten"
+  },
+  "stats": {
+    "active_creators": "Mehr als 100.000 aktive Kreative",
+    "creations_made": "Über 100.000 erstellte Werke",
+    "trusted_professionals": "Vertraut von Fachleuten"
+  },
+  "partners": {
+    "title": "Unsere Partner",
+    "subtitle": "Angetrieben von den fortschrittlichsten KI-Modellen der Welt und unterstützt von erstklassigen Investoren"
+  },
+  "professional": {
+    "line_art_colorization": {
+      "title": "Kolorierung von Linienkunst",
+      "short_title": "Kolorieren",
+      "description": "Verwandeln Sie Ihre Linienkunst in vollfarbige Illustrationen mit KI, die den Anime-Stil und die Beleuchtung versteht.",
+      "detailed_description": "Die KI für Linienkunstkolorierung nutzt fortschrittliche Modelle, die auf Millionen von Bildern trainiert wurden, um Muster zu erkennen und künstlerische Farben anzuwenden. Laden Sie Ihre Skizze hoch, geben Sie einen Farbhinweis, und die KI interpretiert Ihre künstlerische Absicht, um ein koloriertes Bild zu erzeugen.",
+      "features": {
+        "upload_line_art": "Saubere Linienkunst hochladen",
+        "reference_guided": "Referenzgeleitete Kolorierung",
+        "specify_colors": "Farben spezifizieren",
+        "high_quality": "Hochwertige Ausgaben"
+      }
+    },
+    "sketch_simplification": {
+      "title": "Vereinfachung von Skizzen",
+      "short_title": "Skizze",
+      "description": "Verwandeln Sie grobe Skizzen in klare Linienkunst und optimieren Sie Ihren Illustrations-Workflow.",
+      "detailed_description": "Die AI-unterstützte Skizzensimplifizierung analysiert und vereinfacht die Struktur Ihrer Skizze, indem sie wichtige Linien und Details erkennt und unnötiges Rauschen entfernt. Das Ergebnis ist saubere, professionelle Linienkunst.",
+      "features": {
+        "clean_line_art": "Saubere Linienkunstausgabe",
+        "smart_simplification": "Intelligente Vereinfachung",
+        "time_saving": "Zeitersparnis bei der Verfeinerung",
+        "professional_quality": "Professionelle Qualität"
+      }
+    },
+    "background_removal": {
+      "title": "Hintergrundentfernung",
+      "short_title": "Hintergrund entfernen",
+      "description": "Präzise Hintergrundentfernung, optimiert für Anime-Charaktere, bewahrt feine Details wie Haarsträhnen.",
+      "detailed_description": "Die KI-Hintergrundentfernung erkennt und entfernt Bildhintergründe automatisch, speziell trainiert auf Anime- und Manga-Kunstwerke. Sie analysiert jedes Pixel, um eine genaue Kantenerkennung zu gewährleisten.",
+      "features": {
+        "hair_precision": "Präzision bei Haaren",
+        "anime_optimized": "Optimiert für Anime-Charaktere",
+        "transparent_png": "Transparenter PNG-Export",
+        "batch_processing": "Stapelverarbeitung"
+      }
+    },
+    "image_upscaling": {
+      "title": "Bildvergrößerung",
+      "short_title": "Vergrößern",
+      "description": "Erhöhen Sie die Bildauflösung mit Erhalt des Anime-Kunststils und feiner Details.",
+      "detailed_description": "AI-gestützte Vergrößerung, die die Besonderheiten von Anime- und Manga-Stilen bewahrt und die Auflösung um bis zu 4-fach erhöht, ohne die künstlerische Integrität zu verlieren.",
+      "features": {
+        "up_to_4x": "Bis zu 4-fache Auflösung",
+        "style_preservation": "Stilerhalt",
+        "detail_enhancement": "Detailverbesserung",
+        "high_quality_export": "Hochwertiger Export"
+      }
+    },
+    "animation_inbetweening": {
+      "title": "Zwischenanimation",
+      "short_title": "Animieren",
+      "description": "Erzeugen Sie flüssige Zwischenbilder für Animationen, um die Produktionszeit drastisch zu verkürzen.",
+      "detailed_description": "Die KI-basierte Zwischenanimation erstellt natürliche Übergänge zwischen Schlüsselbildern. Laden Sie 2-5 Schlüsselbilder hoch und lassen Sie die KI fließende Übergänge erstellen.",
+      "features": {
+        "upload_keyframes": "2-5 Schlüsselbilder hochladen",
+        "advanced_ai": "Fortschrittliche KI-Technologie",
+        "rapid_creation": "Schnelle Animationsproduktion",
+        "professional_quality": "Professionelle Qualität"
+      }
+    },
+    "frame_interpolation": {
+      "title": "Bildinterpolation",
+      "short_title": "Interpolieren",
+      "description": "Erhöhen Sie die Bildfrequenz durch Erstellung von Zwischenbildern für ultra-fließende Bewegungen.",
+      "detailed_description": "Die KI-Bildinterpolation verwendet künstliche Intelligenz, um flüssigere Bewegungen und höhere Bildraten zu erzielen und analysiert dafür Bewegungen, um neue Zwischenbilder zu erstellen.",
+      "features": {
+        "higher_frame_rates": "Höhere Bildraten",
+        "smoother_motion": "Flüssigere Bewegungen",
+        "video_enhancement": "Videoverbesserung",
+        "professional_quality": "Professionelle Qualität"
+      }
+    },
+    "section_title": "Für professionelle Künstler",
+    "main_title": "KI-Tools, die Ihre Arbeit beschleunigen",
+    "subtitle": "Lassen Sie die KI zeitaufwendige Aufgaben übernehmen, damit Sie sich auf Ihre Kreativität konzentrieren können",
+    "cta_button": "Mit KI erstellen beginnen",
+    "cta_subtitle": "Professionelle Tools, denen über 47.000 Ersteller vertrauen",
+    "learn_more": "Mehr erfahren"
+  }
+}

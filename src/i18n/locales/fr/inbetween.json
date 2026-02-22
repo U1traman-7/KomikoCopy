@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "Interpolation IA - KomikoAI",
+    "description": "Transformez des images statiques en animations fluides grâce à l'interpolation IA de KomikoAI. Notre IA de tweening avancée crée automatiquement des images intermédiaires, accélérant et optimisant la création d'animations. Idéal pour les artistes, animateurs et créateurs de contenu.",
+    "keywords": "KomikoAI AI, animation IA, interpolation, IA de tweening, générateur d'animation, générateur d'images IA, animation numérique, logiciel d'animation"
+  },
+  "title": "Interpolation IA",
+  "description": "Transformez des images statiques en animations fluides avec l'interpolation IA. Notre IA de tweening avancée génère automatiquement des images intermédiaires entre plusieurs images clés, rendant la création d'animations plus rapide et plus efficace. Que vous créiez des animations de personnages, des graphismes animés ou de l'art numérique, notre générateur d'images d'interpolation IA offre des résultats de qualité professionnelle. Découvrez le futur de l'animation avec l'outil d'interpolation de pointe de KomikoAI, parfait pour les artistes, les animateurs et les créateurs de contenu souhaitant rationaliser leur flux de travail.",
+  "inputImages": {
+    "title": "Images d'entrée",
+    "imageLabel": "Image"
+  },
+  "prompt": {
+    "label": "Prompt",
+    "placeholder": "Saisissez votre prompt ici... une action, etc."
+  },
+  "button": {
+    "submit": "Interpoler les images"
+  },
+  "results": {
+    "title": "Résultats Vidéo",
+    "empty": "Les résultats s'afficheront ici"
+  },
+  "deleteModal": {
+    "title": "Confirmation de suppression",
+    "message": "Êtes-vous sûr de vouloir supprimer cette vidéo ? Cette action est irréversible.",
+    "cancel": "Annuler",
+    "delete": "Supprimer"
+  },
+  "toasts": {
+    "removeInput": "Suppression de l'entrée réussie",
+    "addInput": "Ajout de l'entrée réussi",
+    "createSuccess": "Création de la vidéo réussie",
+    "createFailed": "Création de la vidéo échouée",
+    "deleteSuccess": "Suppression réussie",
+    "deleteFailed": "Suppression échouée",
+    "downloadFailed": "Téléchargement échoué",
+    "fetchFailed": "Récupération des vidéos échouée",
+    "noZaps": "Veuillez acheter plus de zaps",
+    "noZapsError": "Pas de zaps"
+  },
+  "sections": {
+    "whatIs": {
+      "title": "Qu'est-ce que l'interpolation ?",
+      "description": "L'interpolation est une technique d'animation qui crée des transitions fluides entre les images clés. C'est un élément essentiel pour des animations réalistes et harmonieuses. L'interpolation IA est une technologie d'animation de pointe qui utilise l'intelligence artificielle pour générer automatiquement des transitions fluides entre les images clés. Cette technique révolutionnaire facilite la création d'animations fluides en complétant intelligemment les images intermédiaires, rendant la création d'animations plus rapide et plus accessible que jamais."
+    },
+    "howTo": {
+      "title": "Comment créer des animations avec l'interpolation IA",
+      "description": "Transformez vos images statiques en animations fluides en quelques minutes grâce à notre technologie d'interpolation IA avancée. Suivez ces étapes simples pour donner vie à vos créations.",
+      "steps": [
+        {
+          "title": "Étape 1 : Téléchargez les images clés",
+          "content": "Téléchargez 2 à 5 images clés représentant les poses ou les positions principales de votre animation."
+        },
+        {
+          "title": "Étape 2 : Saisissez le prompt",
+          "content": "Ajoutez un prompt facultatif pour orienter le style et le mouvement de l'animation."
+        },
+        {
+          "title": "Étape 3 : Générez l'animation",
+          "content": "Cliquez sur « Interpoler les images » pour laisser l'IA créer des transitions fluides entre vos images clés."
+        },
+        {
+          "title": "Étape 4 : Téléchargez l'animation",
+          "content": "Téléchargez votre animation terminée au format MP4 et partagez-la !"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Exemples d'interpolation IA",
+      "description": "Découvrez les résultats d'interpolation IA générés par les utilisateurs de KomikoAI",
+      "input1": "Image d'entrée 1 : Image de début",
+      "input2": "Image d'entrée 2 : Image de fin",
+      "output": "Sortie : Vidéo traitée"
+    },
+    "whyChoose": {
+      "title": "Pourquoi choisir KomikoAI AI pour l'animation d'interpolation",
+      "description": "Transformez votre flux de travail d'animation avec l'outil d'interpolation IA de KomikoAI. Notre IA de tweening crée automatiquement des images intermédiaires, révolutionnant la façon dont les animateurs travaillent en générant des transitions fluides entre les images clés.",
+      "features": [
+        {
+          "title": "Technologie d'interpolation IA avancée",
+          "content": "Découvrez une IA de tweening de pointe qui crée automatiquement des images intermédiaires. Notre générateur d'images d'interpolation IA garantit des transitions fluides et naturelles pour vos animations."
+        },
+        {
+          "title": "Création d'animation rapide",
+          "content": "Ce qui prenait traditionnellement des heures d'interpolation manuelle peut désormais être réalisé en quelques minutes. Laissez KomikoAI AI gérer la création d'images intermédiaires pendant que vous vous concentrez sur les poses clés."
+        },
+        {
+          "title": "Qualité d'animation professionnelle",
+          "content": "Créez des animations de qualité studio avec notre technologie d'interpolation IA. L'IA de tweening de KomikoAI assure un mouvement cohérent et des transitions fluides conformes aux normes d'animation professionnelles."
+        },
+        {
+          "title": "Interpolation personnalisable",
+          "content": "Orientez votre génération d'images d'interpolation IA avec des prompts personnalisés. Ajustez les styles de mouvement et les expressions des personnages pour obtenir les résultats d'animation souhaités grâce à notre IA de tweening."
+        },
+        {
+          "title": "Outils d'animation accessibles",
+          "content": "Que vous soyez novice ou professionnel de l'animation, KomikoAI AI rend l'animation d'interpolation accessible à tous. Notre générateur d'images d'interpolation IA simplifie le processus d'animation."
+        },
+        {
+          "title": "Flux de travail d'animation efficace",
+          "content": "Rationalisez votre pipeline d'animation grâce à nos outils d'interpolation IA. Prototypez rapidement des animations, testez des mouvements et créez des transitions fluides entre les images clés à l'aide de l'IA de tweening de KomikoAI."
+        }
+      ]
+    },
+    "faqSection": {
+      "title": "FAQ sur l'interpolation : tout ce que vous devez savoir",
+      "description": "Découvrez comment fonctionne notre outil d'interpolation IA, les meilleures pratiques et trouvez des réponses aux questions courantes sur la création d'animations professionnelles grâce à l'intelligence artificielle."
+    }
+  },
+  "faq": {
+    "question1": "Comment fonctionne l'interpolation IA de KomikoAI ?",
+    "answer1": {
+      "intro": "Le générateur d'images d'interpolation IA de KomikoAI fonctionne en trois étapes simples :",
+      "step1": "Téléchargez 2 à 5 images clés représentant vos poses principales",
+      "step2": "Ajoutez un prompt facultatif pour orienter le style d'animation",
+      "step3": "Laissez notre IA avancée analyser les images clés et créer automatiquement des images intermédiaires",
+      "step4": "Le système utilise un apprentissage automatique de pointe pour comprendre le mouvement et générer des transitions naturelles."
+    },
+    "question2": "Quels sont les avantages de l'utilisation de l'IA pour l'animation d'interpolation ?",
+    "answer2": {
+      "intro": "L'utilisation de l'IA pour créer des images intermédiaires offre de nombreux avantages :",
+      "benefit1": "Réduit considérablement le temps d'animation par rapport aux méthodes traditionnelles image par image",
+      "benefit2": "Crée automatiquement des images d'interpolation de qualité professionnelle",
+      "benefit3": "Parfait pour les débutants et les animateurs professionnels",
+      "benefit4": "Élimine le travail manuel fastidieux de l'interpolation",
+      "benefit5": "Permet une itération et une expérimentation rapides dans l'animation"
+    },
+    "question3": "Quels types de fichiers fonctionnent avec l'outil d'interpolation IA de KomikoAI ?",
+    "answer3": {
+      "intro": "Notre générateur d'images d'interpolation IA prend en charge :",
+      "format1": "Formats d'image courants : JPG et PNG",
+      "format2": "Résolution optimale : 512x512 pixels",
+      "format3": "Taille maximale des fichiers : 5 Mo par image",
+      "format4": "Plage d'images clés : 2 à 5 images pour des résultats optimaux"
+    },
+    "question4": "L'outil d'interpolation IA de KomikoAI est-il gratuit ?",
+    "answer4": "KomikoAI offre des zaps (crédits) gratuits pour essayer notre outil d'interpolation d'animation IA. Pour une utilisation plus poussée et des fonctionnalités avancées, consultez nos forfaits payants qui incluent un traitement plus rapide et des sorties en résolution plus élevée.",
+    "question5": "Comment puis-je obtenir les meilleurs résultats avec l'interpolation IA ?",
+    "answer5": {
+      "intro": "Pour une génération d'images d'interpolation IA optimale :",
+      "tip1": "Maintenez un style artistique cohérent entre les images clés",
+      "tip2": "Conservez un éclairage et une composition similaires",
+      "tip3": "Assurez-vous d'un positionnement logique des personnages entre les images",
+      "tip4": "Utilisez des prompts clairs et descriptifs",
+      "tip5": "Commencez par des mouvements simples avant de tenter des animations complexes"
+    },
+    "question6": "Quelles sont les limitations actuelles de l'interpolation IA ?",
+    "answer6": {
+      "intro": "Bien que notre IA de tweening soit puissante, certaines limitations existent :",
+      "limit1": "Maximum de 5 images clés par séquence d'animation",
+      "limit2": "Les mouvements très complexes ou extrêmes peuvent nécessiter un ajustement manuel",
+      "limit3": "La cohérence du style entre les images est importante pour de meilleurs résultats",
+      "limit4": "Le temps de traitement augmente avec le nombre d'images clés"
+    },
+    "question7": "Puis-je utiliser commercialement les animations générées par l'IA de KomikoAI ?",
+    "answer7": "Oui, vous pouvez utiliser les animations créées avec notre outil d'interpolation IA pour des projets personnels et commerciaux, sous réserve des conditions d'utilisation de KomikoAI. Notre outil est idéal pour créer des animations professionnelles efficacement."
+  }
+}

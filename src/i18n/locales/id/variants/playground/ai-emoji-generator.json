@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Emoji Generator",
+      "description": "Buat emoji dan stiker secara gratis dengan AI Emoji Generator kami. Ubah foto Anda menjadi emoji khusus dan ciptakan seni emoji yang unik dan artistik sekarang juga!",
+      "keywords": "AI Emoji Generator, Buat Emoji dan Stiker Gratis, pembuatan emoji, ubah foto menjadi emoji, emoji yang dihasilkan AI, seni emoji unik"
+    },
+    "hero": {
+      "title": "AI Emoji Generator"
+    },
+    "whatIs": {
+      "title": "Apa itu AI Emoji Generator?",
+      "description": "AI Emoji Generator adalah aplikasi unik yang memanfaatkan algoritma AI canggih untuk membuat emoji dan stiker secara gratis. Aplikasi ini mengubah foto Anda menjadi desain emoji yang menyenangkan dan ekspresif. Berbeda dengan filter standar, teknologi kami mempertahankan esensi foto Anda sekaligus menciptakan interpretasi emoji yang lucu. Baik untuk penggunaan pribadi maupun sekadar bersenang-senang, menjelajahi dunia seni emoji kini semakin mudah!"
+    },
+    "examples": {
+      "title": "Contoh AI Emoji Generator",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan AI Emoji Generator",
+      "steps": [
+        {
+          "title": "Langkah 1: Unggah Foto Anda",
+          "content": "Mulailah dengan memilih dan mengunggah gambar yang Anda inginkan. Alat kami mendukung berbagai format gambar seperti JPG dan PNG untuk pengalaman yang lancar."
+        },
+        {
+          "title": "Langkah 2: Pilih Template Stiker Chibi",
+          "content": "Pilih template Stiker Chibi untuk mengubah foto Anda dengan gaya stiker chibi yang menggemaskan."
+        },
+        {
+          "title": "Langkah 3: Konversi ke Stiker Chibi",
+          "content": "Tekan tombol 'Ubah ke Emoji' dan saksikan transformasi saat AI kami menciptakan karya bergaya emoji yang unik dari foto Anda!"
+        },
+        {
+          "title": "Langkah 4: Unduh dan Bagikan",
+          "content": "Setelah karya seni Anda siap, unduh dengan mudah dan bagikan kreasi Anda di media sosial untuk mengesankan teman dan pengikut Anda!"
+        }
+      ],
+      "subtitle": "Ubah gambar Anda dalam beberapa langkah sederhana!"
+    },
+    "benefits": {
+      "title": "Mengapa Menggunakan AI Emoji Generator?",
+      "description": "Rasakan keseruan mengubah gambar Anda menjadi seni emoji yang unik!",
+      "features": [
+        {
+          "title": "🎨 Gaya Artistik Tanpa Batas",
+          "content": "Jelajahi berbagai gaya transformasi emoji, memastikan setiap kreasi benar-benar unik dan sesuai dengan visi Anda."
+        },
+        {
+          "title": "⚡ Transformasi Cepat",
+          "content": "AI kami yang efisien memproses gambar dengan cepat, memungkinkan Anda membuat seni emoji yang menarik dalam hitungan detik!"
+        },
+        {
+          "title": "💻 Pengalaman Pengguna yang Intuitif",
+          "content": "Membuat seni emoji yang unik sangat mudah digunakan, cocok untuk semua kalangan, mulai dari pemula hingga kreator berpengalaman."
+        },
+        {
+          "title": "📱 Sempurna untuk Dibagikan",
+          "content": "Tingkatkan citra daring Anda dengan desain emoji unik yang menarik perhatian dan melibatkan audiens Anda."
+        },
+        {
+          "title": "✨ Hasil Kreatif Instan",
+          "content": "Tidak perlu menunggu lama! Nikmati transformasi desain instan hanya dengan beberapa tindakan sederhana."
+        },
+        {
+          "title": "🤖 Didukung oleh Teknologi AI Canggih",
+          "content": "Platform kami menggunakan algoritma AI canggih untuk menjamin karya seni emoji berkualitas tinggi dan orisinal setiap saat."
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI Emoji Generator FAQ",
+      "description": "",
+      "q1": "Bagaimana cara membuat emoji dan stiker gratis menggunakan AI Emoji Generator?",
+      "a1": "AI Emoji Generator menggunakan algoritma canggih untuk menganalisis foto Anda dan menafsirkannya kembali menjadi karya seni bergaya emoji yang unik, memadukan inovasi dengan kreativitas.",
+      "q2": "Bagaimana cara mengoptimalkan hasil saat menggunakan AI Emoji Generator?",
+      "a2": "Untuk hasil terbaik, mulailah dengan gambar yang jelas dan berkualitas tinggi, serta jelajahi berbagai gaya emoji yang mencerminkan visi Anda.",
+      "q3": "Apakah penggunaan AI Emoji Generator gratis?",
+      "a3": "Ya, AI Emoji Generator kami gratis untuk digunakan! Jelajahi opsi premium untuk gaya yang lebih beragam.",
+      "q4": "Apa yang membedakan AI Emoji Generator dari alat lain?",
+      "a4": "Berbeda dengan filter foto biasa, generator kami memanfaatkan AI canggih untuk membuat efek emoji khusus yang disesuaikan dengan kebutuhan spesifik Anda, sehingga menghasilkan seni yang unik.",
+      "q5": "Bisakah saya menggunakan karya seni yang dibuat oleh AI Emoji Generator untuk tujuan komersial?",
+      "a5": "Tentu saja! Anda memiliki hak penuh untuk menggunakan kreasi seni emoji Anda untuk aplikasi pribadi, pendidikan, dan komersial."
+    },
+    "cta": {
+      "title": "Buat Emoji dan Stiker Gratis Hari Ini",
+      "description": "Selami dunia pembuatan emoji dengan AI Emoji Generator kami. Buat emoji dan stiker secara gratis serta bebaskan imajinasi Anda. Mulai sekarang!",
+      "buttonText": "Buat Emoji dan Stiker Gratis"
+    }
+  },
+  "config": {},
+  "placeholderText": "Generate emojis and stickers for free from your photo",
+  "originalKeyword": "AI Emoji Generator",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_1.webp",
+      "input": "/images/examples/photo-to-anime/input2.jpg",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_2.webp",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_3.webp",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp",
+      "prompt": "Style: Chibi"
+    },
+    {
+      "image": "/images/examples/playground/ai-emoji-generator/example_4.webp",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp",
+      "prompt": "Style: Chibi"
+    }
+  ]
+}

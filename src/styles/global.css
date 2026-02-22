@@ -1,0 +1,659 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* ===== 桥接 NextUI → 自定义语义 token ===== */
+    --background: var(--nextui-background);
+    --foreground: var(--nextui-foreground);
+
+    /* ===== 卡片/容器：桥接 NextUI content ===== */
+    --card: var(--nextui-content1, 0 0% 100%);
+    --card-foreground: var(--nextui-foreground);
+    --popover: var(--nextui-content1, 0 0% 100%);
+    --popover-foreground: var(--nextui-foreground);
+
+    /* ===== NextUI 不提供的语义色（唯一需要手写的部分）===== */
+
+    /* 次要/弱化 */
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+
+    /* 高亮/选中 */
+    --accent: 258 89% 97%;
+    --accent-foreground: 258 95% 60%;
+
+    /* 危险/删除 */
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    /* 信息 */
+    --info: 199 89% 48%;
+    --info-foreground: 0 0% 100%;
+
+    /* 边框/输入框 */
+    --border: 214 32% 91%;
+    --input: 220 13% 96%;
+    --ring: 258 95% 60%;
+
+    /* 标题色 (品牌标题) */
+    --heading: 258 77% 32%;
+    --heading-muted: 258 64% 44%;
+
+    /* 链接 */
+    --link: 258 95% 60%;
+    --link-hover: 258 86% 52%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    /* 桥接变量（--background, --foreground, --card, --popover）不需要重写 */
+    /* NextUI 主题切换时 --nextui-* 变量自动变，桥接变量跟随变化 */
+
+    /* ===== 只需重写 NextUI 不管的语义色 ===== */
+
+    /* 次要/弱化 */
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 16% 57%;
+
+    /* 高亮/选中 */
+    --accent: 258 50% 20%;
+    --accent-foreground: 258 94% 68%;
+
+    /* 危险/删除 */
+    --destructive: 0 63% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    /* 信息 */
+    --info: 199 89% 48%;
+    --info-foreground: 0 0% 100%;
+
+    /* 边框/输入框 */
+    --border: 217 33% 25%;
+    --input: 220 13% 28%;
+    --ring: 258 94% 68%;
+
+    /* 标题色 (品牌标题) */
+    --heading: 258 94% 72%;
+    --heading-muted: 258 94% 68%;
+
+    /* 链接 */
+    --link: 258 94% 68%;
+    --link-hover: 258 94% 72%;
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  .container {
+    @apply max-sm:px-4;
+  }
+}
+
+@font-face {
+  font-family: "Anime Ace";
+  src: url("/fonts/animeace2_bld.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Wildwords";
+  src: url("/fonts/wildwordsroman.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CCMeanwhile";
+  src: url("/fonts/CCMeanwhile-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Digital Strip";
+  src: url("/fonts/digistrip.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tight Spot";
+  src: url("/fonts/TightSpotBB-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "buch";
+  src: url("/fonts/soehne-buch.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "kraftig";
+  src: url("/fonts/soehne-kraftig.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "morphic";
+  src: url("/fonts/soehne-bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+body {
+  overflow-x: hidden;
+  @apply font-custom;
+  /* iOS PWA safe area support */
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+svg {
+  height: 16px;
+  width: 16px;
+}
+
+.custom-close-button svg {
+  width: 2rem;
+  height: 2rem;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--muted));
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: hsl(var(--muted));
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+/* Custom scrollbar for specific components */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: hsl(var(--muted));
+  border-radius: 10px;
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-track {
+  background: hsl(var(--muted));
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 10px;
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.5);
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.7);
+}
+
+[data-rehype-pretty-code-fragment] code {
+  @apply grid p-0 min-w-full text-sm text-foreground break-words bg-transparent rounded-none border-0;
+  counter-reset: line;
+  box-decoration-break: clone;
+}
+
+[data-rehype-pretty-code-fragment] .line {
+  @apply px-4 py-1;
+}
+
+[data-rehype-pretty-code-fragment] [data-line-numbers]>.line::before {
+  counter-increment: line;
+  content: counter(line);
+  display: inline-block;
+  width: 1rem;
+  margin-right: 1rem;
+  text-align: right;
+  color: gray;
+}
+
+[data-rehype-pretty-code-fragment] .line--highlighted {
+  @apply bg-opacity-10 bg-slate-300;
+}
+
+[data-rehype-pretty-code-fragment] .line-highlighted span {
+  @apply relative;
+}
+
+[data-rehype-pretty-code-fragment] .word--highlighted {
+  @apply p-1 bg-opacity-10 rounded-md bg-slate-300;
+}
+
+[data-rehype-pretty-code-title] {
+  @apply px-4 py-2 mt-4 text-sm font-medium;
+}
+
+[data-rehype-pretty-code-title]+pre {
+  @apply mt-0;
+}
+
+/* RightSidebar 专用*/
+.option-btn {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  cursor: pointer;
+  border-radius: 6px;
+  @apply px-2;
+}
+
+.option-btn:hover {
+  background-color: rgba(28, 28, 38, 0.03);
+}
+
+.option-btn.active {
+  background-color: rgba(28, 28, 38, 0.06);
+}
+
+.dark .option-btn:hover {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+.dark .option-btn.active {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.option-btn.aria-expanded\:opacity-70[aria-expanded="true"] {
+  opacity: 1;
+}
+
+.option-btn.aria-expanded\:scale-\[0\.97\][aria-expanded="true"] {
+  transform: scale(1);
+}
+
+.flex-center {
+  @apply flex justify-center items-center;
+}
+
+/* PWA & Mobile Navigation Styles */
+/* Performance optimizations for bottom navigation */
+.fixed.bottom-0 {
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  will-change: auto;
+  /* Add touch optimization */
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Optimize touch responsiveness for PWA navigation elements only */
+.pwa-bottom-nav button,
+.pwa-bottom-nav a,
+.pwa-bottom-nav [role="button"] {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  /* Enable hardware acceleration */
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  will-change: transform;
+}
+
+/* Disable transitions for better performance */
+.transition-none {
+  transition: none !important;
+  -webkit-transition: none !important;
+}
+
+/* iOS safe area utility classes */
+@supports (-webkit-touch-callout: none) {
+  .ios-safe-top {
+    padding-top: max(env(safe-area-inset-top), 0px);
+  }
+
+  .ios-safe-bottom {
+    padding-bottom: max(env(safe-area-inset-bottom), 12px);
+  }
+
+  .ios-safe-left {
+    padding-left: max(env(safe-area-inset-left), 0px);
+  }
+
+  .ios-safe-right {
+    padding-right: max(env(safe-area-inset-right), 0px);
+  }
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 1023px) {
+  body {
+    padding-bottom: calc(3rem + max(env(safe-area-inset-bottom), 12px));
+  }
+}
+
+@media (min-width: 1330px) {
+  .tool-btn-group {
+    display: flex;
+  }
+
+  .tool-btn-group-mobile {
+    display: none;
+  }
+}
+
+/* PWA standalone mode */
+@media (display-mode: standalone) {
+
+  /* Prevent unwanted interactions */
+  html {
+    overscroll-behavior: none;
+  }
+
+  body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    overscroll-behavior: none;
+    padding-bottom: calc(3rem + max(env(safe-area-inset-bottom), 20px));
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Bottom navigation in PWA - Match web version styling */
+  .fixed.bottom-0 {
+    height: calc(3rem + env(safe-area-inset-bottom));
+    padding-bottom: env(safe-area-inset-bottom);
+    background: hsl(var(--background));
+    /* Add top padding to match web version spacing */
+    padding-top: 0.5rem !important;
+  }
+
+  /* Fix bottom navigation content layout - Match web version */
+  .fixed.bottom-0 .flex {
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    /* Ensure content is perfectly centered like web version */
+    display: flex;
+  }
+
+  /* Fix button internal layout - Match web version vertical centering */
+  .fixed.bottom-0 button {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* Increase top padding slightly for better icon spacing */
+    padding: 0.625rem 0.5rem 0.25rem 0.5rem;
+    margin: 0;
+    /* Force vertical centering */
+    position: relative;
+    top: 0;
+    transform: translateY(0);
+  }
+
+  /* Exclude central action button from size changes */
+  .fixed.bottom-0 button.isIconOnly {
+    height: auto;
+    width: auto;
+    padding: 0;
+    margin: 0;
+    /* Restore original button styling */
+    display: inline-flex;
+    flex-direction: row;
+  }
+
+  /* Specific fix for central action button with gradient background */
+  .fixed.bottom-0 button[class*="bg-gradient-to-r"] {
+    height: auto;
+    width: auto;
+    padding: 0;
+    margin: 0;
+    display: inline-flex;
+    flex-direction: row;
+    /* Preserve original button size classes */
+    min-height: 2rem;
+    min-width: 2rem;
+  }
+
+  /* Fix button internal div layout - Match web version */
+  .fixed.bottom-0 button>div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    gap: 0.125rem;
+  }
+
+  /* PWA navigation content optimization - Match web version */
+  .fixed.bottom-0 .pwa-nav-content {
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+    display: flex;
+  }
+
+  /* Optimize button responsiveness in PWA mode */
+  .pwa-nav-content button {
+    transition: none;
+    -webkit-transition: none;
+    /* Ensure click area is large enough */
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* iOS PWA specific fixes */
+  @supports (-webkit-touch-callout: none) {
+    .fixed.bottom-0 .flex {
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
+
+    .fixed.bottom-0 button {
+      margin-bottom: 0;
+    }
+  }
+}
+
+
+/* Stable, non-jumpy page scrollbar: keep gutter reserved; only change thumb visibility while scrolling */
+html,
+body {
+  /* Reserve space for scrollbar to prevent layout shift */
+  scrollbar-gutter: stable both-edges;
+  /* Firefox: keep a thin gutter but make thumb invisible by default */
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* WebKit: keep a constant scrollbar size on the page */
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+/* Default: visually hide the thumb on page scrollbars */
+html::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 8px;
+}
+
+html::-webkit-scrollbar-track,
+body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* While scrolling: reveal the thumb */
+html.scrolling,
+body.scrolling {
+  /* Firefox: show thumb while scrolling */
+  scrollbar-color: rgba(0, 0, 0, 0.25) transparent;
+}
+
+html.dark.scrolling,
+html.dark body.scrolling {
+  scrollbar-color: rgba(255, 255, 255, 0.25) transparent;
+}
+
+html.scrolling::-webkit-scrollbar-thumb,
+body.scrolling::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+html.dark.scrolling::-webkit-scrollbar-thumb,
+body.dark .scrolling::-webkit-scrollbar-thumb,
+html.dark .scrolling::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+html.scrolling::-webkit-scrollbar-track,
+body.scrolling::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Characters collection nav scrollbar */
+.characters-collection-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: hsl(var(--border)) hsl(var(--muted));
+}
+
+.dark .characters-collection-scroll {
+  scrollbar-color: hsl(var(--border)) hsl(var(--muted));
+}
+
+.ko-select {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.ko-select::-webkit-scrollbar {
+  display: none;
+}
+
+/*活动条幅样式兼容*/
+body.promotion .overflow-y-auto.flex-grow.pt-16 {
+  padding-top: 5rem;
+
+}
+
+body.promotion .p-4.mx-auto.max-w-6xl.w-full.pt-20 {
+  padding-top: 6rem;
+}
+
+body.promotion .p-2.pt-16.md\:pt-24.w-full.h-full {
+  padding-top: 7rem;
+}
+
+body.promotion .flex.flex-col.justify-center.items-center.p-4.pt-20.md\:pt-24 {
+  padding-top: 7rem;
+}
+
+body.promotion .fixed.bottom-0.left-0.top-auto.z-20.px-0.pb-3.pt-0 {
+  height: calc(100% - 71px) !important;
+}
+
+body.promotion .pt-\[60px\] {
+  padding-top: 101px;
+}
+
+body.promotion .flex.flex-col.justify-center.items-center.pt-16 {
+  padding-top: 6rem;
+}
+
+body.promotion .pt-20.md\:pt-24 {
+  padding-top: 7rem;
+}
+
+body.promotion .p-2.pt-24 {
+  padding-top: 7rem;
+}
+
+body.promotion .overflow-y-auto.p-4.pt-16.md\:pt-20 {
+  padding-top: 8rem;
+}
+
+
+body.promotion .mt-16.md\:mt-18.lg\:mt-28 {
+  margin-top: 7rem;
+}
+
+@media (min-width: 1024px) {
+  body.promotion .mt-16.md\:mt-18.lg\:mt-28 {
+    margin-top: 8rem;
+  }
+}
+
+body.promotion .pt-5.sm\:pt-5.md\:pt-10 {
+  padding-top: 4rem;
+
+}
+
+/* Fallback for system dark mode preference when JavaScript is disabled or fails */
+@media (prefers-color-scheme: dark) {
+  html:not(.light):not(.dark) {
+    color-scheme: dark;
+  }
+
+  html:not(.light):not(.dark) body {
+    background-color: hsl(220deg 26% 11%);
+    color: hsl(213deg 31% 91%);
+  }
+}
+
+/* NextUI Input/Textarea/Select - Force consistent background on hover/focus in dark mode */
+.dark [data-slot="input-wrapper"][data-hover="true"],
+.dark [data-slot="input-wrapper"][data-focus="true"],
+.dark [data-slot="input-wrapper"][data-focus-visible="true"],
+.dark [data-slot="trigger"][data-hover="true"],
+.dark [data-slot="trigger"][data-focus="true"],
+.dark [data-slot="trigger"][data-focus-visible="true"] {
+  background-color: hsl(var(--input)) !important;
+}
+
+/* Also handle the base wrapper state */
+.dark [data-slot="input-wrapper"],
+.dark [data-slot="trigger"] {
+  transition: background-color 0.2s ease;
+}

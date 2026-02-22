@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "title": "Colorização de Arte Linear com IA - KomikoAI",
+    "description": "Colore a sua arte linear a preto e branco com IA. Envie o seu esboço e deixe a IA colorizá-lo por si."
+  },
+  "common": {
+    "new": "Novo",
+    "cancel": "Cancelar",
+    "delete": "Eliminar"
+  },
+  "hero": {
+    "title": "Colorização de Arte Linear com IA",
+    "description": "Colore automaticamente os seus esboços, artes lineares ou páginas de manga com IA. Experimente a colorização instantânea de arte linear que adiciona cores ao seu trabalho de linha com apenas um clique! Transforme os seus esboços a preto e branco usando as ferramentas avançadas de colorização de IA da Anitoon, com imagens de referência opcionais para orientar o estilo de cor. Perfeito para artistas, designers e entusiastas de manga que desejam dar vida às suas criações sem esforço."
+  },
+  "input": {
+    "title": "Entrada",
+    "tooltip": "Envie a arte linear para colorir",
+    "lineArt": {
+      "label": "Imagem da Arte Linear"
+    },
+    "referenceImage": {
+      "label": "Imagem de Referência (Opcional)",
+      "description": "Carregue uma versão totalmente colorida do mesmo objeto para ajudar a IA a colorir o seu desenho."
+    },
+    "transparentBackground": "Fundo Transparente",
+    "prompt": {
+      "label": "Prompt (Opcional)",
+      "placeholder": "Insira o seu prompt, por exemplo, 1 menina, cabelo vermelho, olhos azuis, fundo branco, etc."
+    },
+    "model": {
+      "label": "Modelo de IA",
+      "description": "A geração de modelos avançados pode, ocasionalmente, falhar devido às políticas de moderação de conteúdo do nosso fornecedor de serviços. Por favor, volte ao modelo básico se encontrar algum problema.",
+      "placeholder": "Selecione um modelo",
+      "ariaLabel": "Selecione o modelo de colorização",
+      "options": {
+        "basic": "Básico",
+        "advanced": "Avançado"
+      }
+    }
+  },
+  "output": {
+    "title": "Resultados da Colorização",
+    "empty": {
+      "message": "Os seus resultados de colorização aparecerão aqui",
+      "instruction": "Envie uma imagem para começar"
+    }
+  },
+  "seo": {
+    "whatIs": {
+      "title": "O que é Colorização de Arte Linear",
+      "description": "Colorização de Arte Linear é um processo de adicionar cores aos seus esboços ou desenhos de linha. É uma técnica popular na criação de manga e banda desenhada, pois permite que os artistas adicionem cor aos seus desenhos e os tornem mais vibrantes e dinâmicos. A Colorização de Arte Linear com IA é uma ferramenta que permite colorir instantaneamente a sua arte linear com IA."
+    },
+    "howTo": {
+      "title": "Como colorir a sua arte linear com IA",
+      "description": "Colore automaticamente o seu esboço, arte linear a preto e branco, desenhos de linha, esboços ou páginas de manga com o colorizador de arte linear de IA da KomikoAI em alguns passos."
+    },
+    "steps": {
+      "step1": {
+        "title": "Passo 1: Enviar Imagem de Arte Linear",
+        "content": "Envie a sua arte linear ou imagem de esboço a preto e branco para o colorizador de IA. Os formatos JPG e PNG são suportados."
+      },
+      "step2": {
+        "title": "Passo 2: Adicionar Imagem de Referência (Opcional)",
+        "content": "Envie uma imagem de referência para orientar as escolhas de cores e o estilo da IA. Isto ajuda a obter resultados de colorização mais precisos."
+      },
+      "step3": {
+        "title": "Passo 3: Insira o Prompt (Opcional)",
+        "content": "Insira um prompt para descrever a colorização que deseja. Por exemplo, 'cabelo vermelho, olhos azuis'."
+      },
+      "step4": {
+        "title": "Passo 4: Colorir e Partilhar",
+        "content": "Clique em 'Colorir Imagem' e espere que a IA faça a sua magia. Descarregue e partilhe a sua criação colorida!"
+      }
+    }
+  },
+  "examples": {
+    "title": "Exemplos de Colorização de Arte Linear com IA",
+    "description": "Veja os resultados da colorização de IA gerados pelos utilizadores da Anitoon",
+    "inputLabel": "Arte Linear de Entrada",
+    "outputLabel": "Resultado Colorido",
+    "referenceLabel": "Imagem de Referência",
+    "example1": {
+      "inputAlt": "Imagem de arte linear de entrada",
+      "outputAlt": "Imagem colorida de saída",
+      "prompt": "Prompt: \"rapariga de anime fofa vestida com vestido de criada preto e branco, fundo branco\""
+    },
+    "example2": {
+      "inputAlt": "Imagem de arte linear de entrada",
+      "outputAlt": "Imagem colorida de saída",
+      "prompt": "Prompt: \"1 menina, cabelo loiro, camisa branca, painel de manga\""
+    },
+    "example3": {
+      "inputAlt": "Imagem de arte linear de entrada",
+      "referenceAlt": "Imagem de referência de entrada",
+      "outputAlt": "Imagem colorida de saída",
+      "prompt": "Prompt: \"Klee (Genshin Impact)\""
+    }
+  },
+  "whyUse": {
+    "title": "Por que deve adicionar cor ao seu trabalho de linha com IA",
+    "description": "O Colorizador de Arte Linear com IA da Anitoon simplifica a colorização de arte linear para todos, desde iniciantes a ilustradores profissionais para colorir os seus desenhos.",
+    "features": {
+      "referenceGuided": {
+        "title": "Coloração Guiada por Referência",
+        "content": "Envie imagens de referência para orientar as escolhas de cores e o estilo da IA, garantindo que a sua arte colorida corresponda perfeitamente à sua visão."
+      },
+      "specifyColors": {
+        "title": "Especifique as Suas Cores",
+        "content": "Especifique as cores que deseja na sua colorização de arte linear com prompts como 'cabelo vermelho, olhos azuis' ou use imagens de referência para um controlo mais preciso."
+      },
+      "customArtStyles": {
+        "title": "Estilos de Arte Personalizados",
+        "content": "Especifique o estilo de arte que deseja na sua colorização de arte linear com prompts como 'comic', 'anime', 'manga', 'manhwa' ou até mesmo o nome do artista."
+      },
+      "effortlessFilling": {
+        "title": "Preenchimento Sem Esforço",
+        "content": "Economize tempo e esforço deixando a IA lidar com o processo de coloração do esboço. A IA preencherá e colorirá automaticamente os seus desenhos de linha. Não há necessidade de preencher e colorir manualmente cada detalhe dos seus desenhos."
+      },
+      "smartColorization": {
+        "title": "Colorização Inteligente",
+        "content": "Ao entender as nuances do seu estilo artístico, a IA da Anitoon analisa a composição, estrutura e estética geral do seu desenho. A IA da Anitoon aplica cores para não apenas adequar, mas aprimorar a sua ilustração."
+      },
+      "highQualityOutputs": {
+        "title": "Saídas de Alta Qualidade",
+        "content": "Descarregue banda desenhada com qualidade profissional, perfeita para partilhar ou imprimir."
+      },
+      "streamlinedWorkflow": {
+        "title": "Fluxo de Trabalho Simplificado",
+        "content": "A colorização de desenhos de linha com IA integra-se perfeitamente no seu fluxo de trabalho de ilustração, banda desenhada, manhwa ou manga. A Anitoon liberta-o do preenchimento e da colorização, para que se possa concentrar no núcleo criativo da sua arte."
+      },
+      "mangaPanelConsistency": {
+        "title": "Consistência do Painel de Manga",
+        "content": "Mantenha uma coloração consistente em vários painéis e páginas de manga. Perfeito para artistas de manga e criadores de banda desenhada que precisam garantir a continuidade da cor nas suas histórias e designs de personagens."
+      },
+      "instantEnhancement": {
+        "title": "Aprimoramento Instantâneo da Arte Linear",
+        "content": "Transforme esboços a preto e branco em ilustrações vibrantes instantaneamente. Se está a trabalhar em manga, banda desenhada ou desenhos de linha, o nosso colorizador de IA dá vida à sua arte, preservando a qualidade original do trabalho de linha."
+      }
+    }
+  },
+  "faq": {
+    "title": "Perguntas Comuns Sobre Colorização de Arte Linear com IA",
+    "description": "Encontre respostas para perguntas frequentes sobre colorir arte linear e esboços com IA.",
+    "what_is": {
+      "question": "O que é colorização de arte linear com IA?",
+      "answer": "A colorização de arte linear com IA é um processo que usa inteligência artificial para colorir automaticamente a arte linear a preto e branco. A ferramenta de colorização de arte linear com IA da KomikoAI transforma esboços, manga ou qualquer arte linear em imagens vibrantes e totalmente coloridas, economizando tempo para artistas e entusiastas."
+    },
+    "how_to_color": {
+      "question": "Como colorir arte linear a preto e branco com IA?",
+      "answer": {
+        "intro": "Pode colorir a sua imagem de trabalho de linha com a KomikoAI AI em quatro passos fáceis:",
+        "step1": "Envie a sua imagem de arte linear para o colorizador de IA",
+        "step2": "Insira um prompt para descrever a colorização que deseja",
+        "step3": "Clique no botão 'Colorir Imagem' para iniciar o processo de colorização",
+        "step4": "Descarregue a imagem colorida e partilhe-a com os seus amigos!"
+      }
+    },
+    "can_i_use_ai": {
+      "question": "Posso usar IA para colorir e sombrear o meu trabalho de linha?",
+      "answer": "Sim, pode usar IA para colorir e sombrear o seu trabalho de linha. A ferramenta de colorização de arte linear com IA da KomikoAI pode colorir a sua arte linear a preto e branco com cores e sombras vibrantes. Pode enviar a sua imagem de arte linear e inserir um prompt para descrever a colorização que deseja. A IA interpretará a sua intenção artística e gerará uma imagem colorida."
+    },
+    "how_does_it_work": {
+      "question": "Como funciona a colorização de arte linear com IA?",
+      "answer": "A colorização de arte linear com IA usa modelos avançados de IA treinados em milhões de imagens para reconhecer padrões em arte linear e aplicar cores artísticas. Envia o seu esboço, adiciona um prompt de cor e a IA interpretará a sua intenção artística e gerará uma imagem colorida."
+    },
+    "benefits": {
+      "question": "Quais são os benefícios da colorização de arte linear com IA?",
+      "answer": {
+        "intro": "Existem vários benefícios em colorir arte linear com IA:",
+        "benefit1": "Economiza tempo em comparação com a coloração manual.",
+        "benefit2": "Produz resultados de alta qualidade e nível profissional.",
+        "benefit3": "Acessível a não artistas e iniciantes.",
+        "benefit4": "Personalizável com prompts para corresponder à sua visão criativa."
+      }
+    },
+    "commercial_use": {
+      "question": "Posso usar imagens coloridas por IA para fins comerciais?",
+      "answer": "Sim, pode usar imagens coloridas geradas por IA para fins pessoais e comerciais. No entanto, certifique-se de cumprir os termos de serviço da KomikoAI."
+    },
+    "formats": {
+      "question": "Quais formatos e tamanhos são suportados?",
+      "answer": "A IA suporta arte linear nos formatos JPG e PNG. As imagens de saída estarão no seu tamanho original."
+    },
+    "is_free": {
+      "question": "O colorizador de arte linear com IA é gratuito para usar?",
+      "answer": "A KomikoAI oferece zaps (créditos) gratuitos para experimentar a ferramenta. Também pode comprar planos pagos para obter mais zaps se precisar de mais uso, bem como recursos avançados, como processamento mais rápido e resoluções mais altas."
+    },
+    "prompts": {
+      "question": "Quais prompts devo usar para obter os melhores resultados de colorização de IA?",
+      "answer": "Use prompts claros e descritivos como \"cabelo vermelho, olhos azuis, roupa moderna.\" Evite termos ambíguos."
+    },
+    "limitations": {
+      "question": "Quais são as limitações da colorização de arte linear com IA?",
+      "answer": {
+        "intro": "Embora a colorização de arte linear com IA seja uma ferramenta poderosa, tem algumas limitações:",
+        "limitation1": "Estilo Artístico: A IA pode nem sempre corresponder perfeitamente ao seu estilo artístico desejado.",
+        "limitation2": "Detalhes Complexos: Arte linear intrincada ou altamente detalhada pode produzir resultados inesperados.",
+        "limitation3": "Personalização: A colorização é baseada em prompts, e prompts excessivamente vagos ou obscuros podem produzir resultados insatisfatórios.",
+        "conclusion": "Apesar dessas limitações, a colorização com IA pode acelerar significativamente os fluxos de trabalho e aprimorar a criatividade."
+      }
+    },
+    "need_to_draw": {
+      "question": "Preciso saber desenhar para usar a colorização de arte linear com IA?",
+      "answer": {
+        "intro": "Não, não precisa saber desenhar para usar a colorização de arte linear com IA.",
+        "for_artists": "Para Artistas: Se cria os seus próprios esboços, esta ferramenta pode dar vida a eles com cores vívidas.",
+        "for_non_artists": "Para Não Artistas: Pode começar com arte linear ou modelos existentes, enviá-los e deixar a IA lidar com a colorização.",
+        "conclusion": "Esta ferramenta foi projetada para ser amigável para todos, seja um artista experiente ou um iniciante explorando a criatividade."
+      }
+    },
+    "types_of_line_art": {
+      "question": "Que tipos de arte linear posso colorir com IA?",
+      "answer": {
+        "intro": "O colorizador de IA funciona com vários tipos de arte linear:",
+        "type1": "Esboços e desenhos",
+        "type2": "Páginas de manga e banda desenhada",
+        "type3": "Designs de personagens",
+        "type4": "Ilustrações",
+        "type5": "Designs de produtos",
+        "type6": "Desenhos arquitetónicos",
+        "conclusion": "Para obter os melhores resultados, certifique-se de que a sua arte linear tenha linhas claras e bem definidas e bom contraste."
+      }
+    },
+    "best_results": {
+      "question": "Como posso obter os melhores resultados da colorização com IA?",
+      "answer": {
+        "intro": "Siga estas dicas para uma colorização ideal:",
+        "tip1": "Use arte linear limpa e de alto contraste",
+        "tip2": "Escreva prompts claros e específicos descrevendo cores e estilo",
+        "tip3": "Experimente diferentes variações de prompt",
+        "tip4": "Considere a composição geral ao descrever as cores",
+        "tip5": "Use imagens de referência para orientar as suas escolhas de cores"
+      }
+    },
+    "comparison": {
+      "question": "Como a colorização com IA se compara à coloração manual?",
+      "answer": "A colorização com IA oferece uma economia de tempo significativa em comparação com a coloração manual, reduzindo horas de trabalho para minutos. Embora possa não substituir totalmente a coloração tradicional para projetos artísticos complexos, é uma excelente ferramenta para prototipagem rápida, visualização de conceitos e criação rápida de várias variações de cores. A IA entende a teoria das cores e pode sugerir combinações de cores harmoniosas que talvez não tenha considerado."
+    },
+    "edit_results": {
+      "question": "Posso editar os resultados coloridos por IA?",
+      "answer": "Sim, pode editar e refinar ainda mais as imagens coloridas por IA usando o seu software de arte digital preferido. O resultado gerado pela IA serve como uma excelente base que pode aprimorar com o seu toque artístico pessoal."
+    },
+    "creative_uses": {
+      "question": "Quais são algumas maneiras criativas de usar a colorização de arte linear com IA?",
+      "answer": {
+        "intro": "A colorização de arte linear com IA pode ser usada para:",
+        "use1": "Prototipagem rápida de designs de personagens",
+        "use2": "Criação de várias variações de cores para clientes",
+        "use3": "Colorir páginas de manga",
+        "use4": "Desenvolvimento de arte conceptual",
+        "use5": "Fins educacionais em aulas de arte",
+        "use6": "Revitalizar ilustrações antigas a preto e branco"
+      }
+    },
+    "reference_feature": {
+      "question": "Como funciona o recurso de imagem de referência no colorizador de arte linear de IA da KomikoAI?",
+      "answer": "O colorizador de arte linear de IA da KomikoAI inclui um poderoso recurso de imagem de referência que permite orientar as escolhas de cores da IA para o seu manga, banda desenhada ou ilustrações. Ao enviar uma imagem de referência junto com a sua arte linear, a IA analisa a paleta de cores e o estilo artístico para criar resultados de colorização mais direcionados. Este recurso é especialmente valioso para artistas de manga e criadores de banda desenhada que desejam manter uma coloração consistente na sua arte. O colorizador de IA usa aprendizado de máquina avançado para extrair esquemas de cores da sua imagem de referência e os aplica de forma inteligente à sua arte linear, preservando a intenção artística original."
+    },
+    "good_reference": {
+      "question": "O que torna uma boa imagem de referência para a colorização de arte linear de IA?",
+      "answer": {
+        "intro": "Para obter resultados ideais com o colorizador de arte linear de IA da KomikoAI, escolha imagens de referência que se alinhem à sua visão artística para manga, banda desenhada ou ilustrações. As melhores imagens de referência devem:",
+        "quality1": "Ter cores e iluminação claras e bem definidas que correspondam ao seu estilo de manga ou banda desenhada desejado",
+        "quality2": "Partilhar conteúdo ou direção artística semelhante com a sua arte linear (por exemplo, estilo anime, estilo de história em quadrinhos)",
+        "quality3": "Mostrar a paleta de cores específica que deseja alcançar na sua arte",
+        "quality4": "Ser bem iluminado e de alta qualidade para ajudar a IA a analisar as cores com precisão",
+        "conclusion": "Pode usar vários tipos de referências, incluindo personagens de anime existentes, capturas de tela de anime, painéis de manga ou ilustrações digitais. Essa flexibilidade permite que os artistas alcancem uma correspondência de cores precisa e mantenham a consistência nas suas páginas de manga ou painéis de banda desenhada."
+      }
+    },
+    "items": [
+      {
+        "id": 1,
+        "question": "O que é a colorização de arte linear usando IA?",
+        "answer": "A colorização de arte linear usando IA é um processo que utiliza inteligência artificial para colorir automaticamente desenhos lineares em preto e branco. A ferramenta de colorização Komiko transforma esboços, mangás ou qualquer arte linear em imagens vibrantes e totalmente coloridas, economizando tempo para artistas e entusiastas."
+      },
+      {
+        "id": 2,
+        "question": "Como colorir arte linear em preto e branco com IA?",
+        "answer": "Você pode colorir sua imagem de arte linear com a Komiko AI em quatro passos simples: 1. Envie sua imagem de arte linear para o colorizador de IA\n2. Insira uma descrição para a colorização desejada\n3. Clique no botão 'Colorir Imagem' para iniciar o processo de colorização\n4. Baixe a imagem colorida e compartilhe com seus amigos!"
+      },
+      {
+        "id": 0,
+        "question": "Posso usar IA para colorir e sombrear meu trabalho em linha?",
+        "answer": "Sim, você pode usar IA para colorir e sombrear seus desenhos lineares. A ferramenta de colorização da Komiko pode adicionar cores e tons vibrantes à sua arte linear em preto e branco. Basta enviar sua imagem e fornecer uma descrição da colorização que deseja. A IA interpretará sua intenção artística e gerará uma imagem colorida."
+      },
+      {
+        "id": 3,
+        "question": "Como funciona a colorização de arte linear por IA?",
+        "answer": "A colorização de arte linear por IA utiliza modelos avançados de IA que foram treinados em milhões de imagens para reconhecer padrões em desenhos lineares e aplicar cores artísticas. Você envia seu esboço, adiciona uma descrição de cores, e a IA interpreta sua intenção artística para gerar uma imagem colorida."
+      },
+      {
+        "id": 4,
+        "question": "Quais são os benefícios da colorização de arte linear por IA?",
+        "answer": "A colorização de arte linear com IA oferece vários benefícios: Economiza tempo em comparação com a coloração manual. Produz resultados de alta qualidade e nível profissional. É acessível para não artistas e iniciantes. É personalizável com descrições para corresponder à sua visão criativa."
+      },
+      {
+        "id": 5,
+        "question": "Posso usar imagens coloridas por IA para fins comerciais?",
+        "answer": "Sim, você pode usar imagens coloridas geradas por IA para fins pessoais e comerciais. No entanto, é importante seguir os termos de serviço da Komiko."
+      },
+      {
+        "id": 6,
+        "question": "Quais formatos e tamanhos são suportados?",
+        "answer": "A IA suporta arte linear nos formatos JPG e PNG. As imagens geradas manterão o tamanho original do arquivo enviado."
+      },
+      {
+        "id": 7,
+        "question": "O colorizador de arte linear por IA é gratuito?",
+        "answer": "Komiko oferece zaps (créditos) gratuitos para você experimentar a ferramenta. Você também pode adquirir planos pagos para obter mais zaps caso precise de mais uso, além de recursos avançados como processamento mais rápido e resoluções mais altas."
+      },
+      {
+        "id": 8,
+        "question": "Que descrições devo usar para obter os melhores resultados de colorização por IA?",
+        "answer": "Use descrições claras e específicas como \"cabelo vermelho, olhos azuis, roupa moderna.\" Evite termos ambíguos."
+      },
+      {
+        "id": 9,
+        "question": "Quais são as limitações da colorização de arte linear por IA?",
+        "answer": "Apesar de ser uma ferramenta poderosa, a colorização de arte linear por IA possui algumas limitações: O estilo artístico pode não ser exatamente o desejado. Desenhos muito complexos ou detalhados podem gerar resultados inesperados. A personalização depende das descrições, e estas, se vagas ou pouco claras, podem resultar em resultados insatisfatórios. Contudo, a colorização por IA pode acelerar significativamente fluxos de trabalho e aumentar a criatividade."
+      },
+      {
+        "id": 10,
+        "question": "Preciso saber desenhar para usar a colorização de arte linear por IA?",
+        "answer": "Não, você não precisa saber desenhar para usar a colorização de arte linear por IA. Para artistas: Se você cria seus próprios esboços, esta ferramenta pode trazê-los à vida com cores vívidas. Para Não-Artistas: Você pode começar com arte linear ou modelos existentes, enviá-los e deixar que a IA cuide da colorização. Esta ferramenta é projetada para ser fácil de usar por todos, tanto para artistas experientes quanto iniciantes explorando a criatividade."
+      },
+      {
+        "id": 11,
+        "question": "Que tipos de arte linear eu posso colorir com IA?",
+        "answer": "O colorizador de IA funciona com vários tipos de arte linear: Esboços e desenhos, Páginas de mangá e quadrinhos, Design de personagens, Ilustrações, Design de produtos, Desenhos arquitetônicos. Para obter os melhores resultados, certifique-se de que sua arte linear tenha linhas claras e bem definidas e um bom contraste."
+      },
+      {
+        "id": 12,
+        "question": "Como posso obter os melhores resultados da colorização por IA?",
+        "answer": "Siga estas dicas para uma colorização ideal: Use arte linear limpa e de alto contraste. Escreva descrições claras e específicas descrevendo as cores e estilo. Experimente diferentes variações de descrições. Considere a composição geral ao descrever cores. Use imagens de referência para guiar suas escolhas de cores."
+      },
+      {
+        "id": 13,
+        "question": "Como a colorização por IA se compara à coloração manual?",
+        "answer": "A colorização por IA oferece uma economia de tempo significativa em comparação com a coloração manual, reduzindo o trabalho de horas para minutos. Embora possa não substituir totalmente a coloração tradicional para projetos artísticos complexos, é uma excelente ferramenta para prototipagem rápida, visualização de conceitos e criação de múltiplas variações de cores rapidamente. A IA entende a teoria das cores e pode sugerir combinações harmoniosas que talvez você não tenha considerado."
+      },
+      {
+        "id": 14,
+        "question": "Posso editar os resultados coloridos por IA?",
+        "answer": "Sim, você pode editar e refinar ainda mais as imagens coloridas por IA usando seu software de arte digital preferido. O resultado gerado pela IA serve como uma excelente base que você pode aprimorar com seu toque artístico pessoal."
+      },
+      {
+        "id": 15,
+        "question": "Quais são algumas maneiras criativas de usar a colorização de arte linear por IA?",
+        "answer": "A colorização de arte linear por IA pode ser usada para: Prototipagem rápida de design de personagens. Criar múltiplas variações de cores para clientes. Colorir páginas de mangá. Desenvolvimento de arte conceitual. Fins educacionais em aulas de arte. Revitalizar ilustrações antigas em preto e branco."
+      },
+      {
+        "id": 16,
+        "question": "Como funciona o recurso de imagem de referência no colorizador de arte linear da Komiko AI?",
+        "answer": "O colorizador de arte linear da Komiko AI inclui um poderoso recurso de imagem de referência que permite orientar as escolhas de cores da IA para seu mangá, quadrinhos ou ilustrações. Ao enviar uma imagem de referência junto com sua arte linear, a IA analisa a paleta de cores e o estilo artístico para criar resultados de colorização mais precisos. Este recurso é especialmente valioso para artistas de mangá e criadores de quadrinhos que desejam manter uma coloração consistente em suas obras de arte. O colorizador de IA usa aprendizado de máquina avançado para extrair esquemas de cores de sua imagem de referência e aplicá-los inteligentemente à sua arte linear, preservando a intenção artística original."
+      },
+      {
+        "id": 17,
+        "question": "O que faz uma boa imagem de referência para a colorização de arte linear por IA?",
+        "answer": "Para resultados ideais com o colorizador de arte linear da Komiko AI, escolha imagens de referência que estejam alinhadas com sua visão artística para mangá, quadrinhos ou ilustrações. As melhores imagens de referência devem: Ter cores e iluminação claras e bem definidas que correspondam ao estilo desejado, Compartilhar conteúdo ou direção artística semelhante com sua arte linear (por exemplo, estilo anime, estilo de quadrinhos), Mostrar a paleta de cores específica que você deseja alcançar em sua obra de arte. Ser bem iluminadas e de alta qualidade para ajudar a IA a analisar as cores com precisão. Você pode usar vários tipos de referências, incluindo personagens de anime existentes, capturas de tela de anime, painéis de mangá ou ilustrações digitais. Essa flexibilidade permite que os artistas alcancem uma correspondência de cores precisa e mantenham a consistência em suas páginas de mangá ou painéis de quadrinhos."
+      }
+    ]
+  },
+  "deleteModal": {
+    "title": "Confirmação de Eliminação",
+    "message": "Tem a certeza de que deseja eliminar este vídeo? Esta ação não pode ser desfeita."
+  },
+  "colorize_image": "Colorir Imagem"
+}

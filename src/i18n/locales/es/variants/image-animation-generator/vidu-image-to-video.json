@@ -1,0 +1,135 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Generador de Imagen a Video Vidu - KomikoAI",
+      "description": "Dé vida a sus imágenes estáticas con el Generador de Imagen a Video Vidu. Cree impresionantes vídeos animados a partir de fotografías, obras de arte e ilustraciones utilizando tecnología avanzada de IA.",
+      "fullDescription": "El Generador de Imagen a Video Vidu es una herramienta de vanguardia impulsada por IA, diseñada para transformar sus imágenes fijas en vídeos dinámicos y cinematográficos sin esfuerzo. Perfecta para artistas, creadores de contenido y profesionales del marketing, esta herramienta eleva sus imágenes con movimientos suaves, iluminación realista y animaciones expresivas en cuestión de segundos.",
+      "keywords": "Imagen a video Vidu, generador de vídeo IA, imagen a vídeo, herramienta de animación IA, creación de vídeo IA, animación de imágenes estáticas, generación de vídeo cinematográfico, vídeo impulsado por IA"
+    },
+    "hero": {
+      "title": "Generador de Imagen a Video Vidu",
+      "description": "Convierta fácilmente imágenes estáticas en vídeos cinematográficos con el Generador de Imagen a Video Vidu. Anime obras de arte, fotografías e ilustraciones en segundos gracias a la IA."
+    },
+    "whatIs": {
+      "title": "¿Qué es el Generador de Imagen a Video Vidu?",
+      "description": "El Generador de Imagen a Video Vidu aprovecha la inteligencia artificial avanzada para convertir imágenes estáticas en vídeos fluidos y de alta calidad. Utiliza algoritmos de IA para animar fotos, dibujos y arte digital con transiciones suaves, movimientos realistas y efectos cinematográficos."
+    },
+    "examples": {
+      "title": "Ejemplos de Imagen a Video Vidu",
+      "description": "Descubra ejemplos de vídeos impactantes creados con el Generador de Imagen a Video Vidu. Observe cómo imágenes sencillas se transforman en animaciones atractivas con ricas características narrativas."
+    },
+    "howToUse": {
+      "title": "Cómo usar el Generador de Imagen a Video Vidu",
+      "steps": [
+        {
+          "title": "Suba su imagen",
+          "content": "Comience subiendo la imagen que desea animar. Puede ser un dibujo, una fotografía o cualquier contenido visual estático al que desee dar vida."
+        },
+        {
+          "title": "Introduzca su 'Prompt' de animación",
+          "content": "Describa el movimiento, el estilo o la historia que desea que la IA cree a partir de su imagen. Incluya detalles sobre el movimiento, la iluminación o las expresiones para obtener los mejores resultados."
+        },
+        {
+          "title": "Genere su vídeo",
+          "content": "Haga clic en el botón de generar y observe cómo la IA produce un vídeo de alta calidad con transiciones suaves y efectos cinematográficos a partir de su imagen estática."
+        },
+        {
+          "title": "Descargue y comparta",
+          "content": "Una vez que se genere su vídeo, descárguelo fácilmente para compartirlo en redes sociales, usarlo en proyectos o mostrar su obra de arte animada."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "¿Por qué usar el Generador de Imagen a Video Vidu?",
+      "description": "Explore los potentes beneficios de usar la herramienta de creación de vídeo impulsada por IA de Vidu para transformar imágenes en vídeos cautivadores de forma rápida y sencilla.",
+      "features": [
+        {
+          "title": "Salida de vídeo de alta resolución",
+          "content": "Produzca vídeos en HD hasta una resolución de 1280×720 con imágenes detalladas y movimiento nítido.",
+          "icon": "📺"
+        },
+        {
+          "title": "Animaciones suaves y cinematográficas",
+          "content": "Genere películas con transiciones fluidas, movimientos de cámara y efectos de iluminación realistas para una apariencia pulida.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Opciones de estilo versátiles",
+          "content": "Admite una amplia gama de estilos, incluyendo anime, fotorrealista, surrealista y animaciones ilustradas.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Experiencia fácil de usar",
+          "content": "No se necesita experiencia en animación: simplemente suba imágenes, introduzca un 'prompt' y cree vídeos impresionantes en segundos.",
+          "icon": "👌"
+        },
+        {
+          "title": "Detalles faciales y de movimiento consistentes",
+          "content": "Mantiene la continuidad y la consistencia de los rostros y los movimientos a lo largo de la secuencia de vídeo.",
+          "icon": "🙂"
+        },
+        {
+          "title": "Ideal para creadores y profesionales del marketing",
+          "content": "Perfecto para contenido de redes sociales, presentaciones de productos, narración de historias y producción de vídeo creativa.",
+          "icon": "🚀"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre el Generador de Imagen a Video Vidu",
+      "description": "Su guía para las preguntas comunes sobre el uso de la herramienta Imagen a Video Vidu para crear vídeos profesionales generados por IA.",
+      "q1": "¿Qué es el Generador de Imagen a Video Vidu?",
+      "a1": "Es una herramienta impulsada por IA que transforma imágenes estáticas en vídeos dinámicos de alta calidad con efectos cinematográficos y animación fluida.",
+      "q2": "¿Cómo funciona el Generador de Imagen a Video Vidu?",
+      "a2": "La IA analiza la imagen que ha subido junto con su 'prompt', generando fotogramas que simulan movimiento, iluminación y expresiones para crear una secuencia de vídeo fluida.",
+      "q3": "¿Qué tipos de imágenes puedo usar?",
+      "a3": "Puede usar fotografías, obras de arte digitales, bocetos y cualquier imagen estática que tenga sujetos claros para obtener los mejores resultados de animación.",
+      "q4": "¿Puedo usar los vídeos generados comercialmente?",
+      "a4": "Sí, los vídeos producidos con el Generador de Imagen a Video Vidu se pueden usar para proyectos personales y comerciales según los términos de uso de la plataforma.",
+      "q5": "¿Cuánto tiempo se tarda en generar un vídeo?",
+      "a5": "Los vídeos suelen tardar entre 10 y 30 segundos en generarse, dependiendo de la resolución elegida y la complejidad de la animación.",
+      "q6": "¿Necesito habilidades de edición de vídeo para usarlo?",
+      "a6": "No se necesitan habilidades previas. La IA se encarga de toda la animación y la creación de vídeo basándose en su 'prompt' y la carga de la imagen.",
+      "q7": "¿Qué estilos admite Vidu?",
+      "a7": "Admite una amplia gama, desde anime y estilos ilustrados hasta vídeos fotorrealistas y surrealistas, lo que le permite adaptar el aspecto del vídeo.",
+      "q8": "¿Puedo previsualizar y editar el vídeo antes de descargarlo?",
+      "a8": "Sí, puede previsualizar el vídeo generado y ajustar los 'prompts' o probar diferentes configuraciones para refinar la salida antes de descargarlo."
+    }
+  },
+  "originalKeyword": "Vidu Image to Video",
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modelo: Vidu Q1",
+      "description": "Prompt: A fairy sits in the blossom as the petals open",
+      "videoUrl": "/images/pages/vidu/flower.webm"
+    },
+    {
+      "id": 2,
+      "title": "Modelo: Vidu Q1",
+      "description": "Prompt: A cat turns into a tiger",
+      "videoUrl": "/images/pages/vidu/cat.webm"
+    },
+    {
+      "id": 3,
+      "title": "Modelo: Vidu Q1",
+      "description": "Prompt: A man slowly draws his sword",
+      "videoUrl": "/images/pages/vidu/man_sword.webm"
+    },
+    {
+      "id": 4,
+      "title": "Modelo: Vidu Q1",
+      "description": "Prompt: The camera quickly zooms in on the man from a distance",
+      "videoUrl": "/images/pages/vidu/man.webm"
+    }
+  ],
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq"
+  ],
+  "model": "VIDU_Q2"
+}

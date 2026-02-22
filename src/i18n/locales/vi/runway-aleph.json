@@ -1,0 +1,103 @@
+{
+  "title": "Runway Aleph",
+  "description": "Runway Aleph: Công nghệ đột phá AI cho chỉnh sửa video. Mô hình video theo ngữ cảnh tiên tiến, chỉnh sửa, chuyển đổi và tạo nội dung video chuyên nghiệp với khả năng tạo sinh đa nhiệm.",
+  "meta": {
+    "title": "Runway Aleph",
+    "description": "Runway Aleph: Công nghệ đột phá AI cho chỉnh sửa video. Mô hình video theo ngữ cảnh tiên tiến, chỉnh sửa, chuyển đổi và tạo nội dung video chuyên nghiệp với khả năng tạo sinh đa nhiệm.",
+    "fullDescription": "Trải nghiệm sức mạnh vượt trội của Runway Aleph, mô hình video theo ngữ cảnh mang tính cách mạng, định nghĩa lại AI chỉnh sửa video. Nền tảng tạo sinh đa nhiệm tiên tiến cho phép chuyển đổi video liền mạch, thao tác đối tượng thông minh, điều khiển camera động và khả năng chỉnh sửa linh hoạt. Hoàn hảo cho các nhà làm phim, nhà sáng tạo nội dung và chuyên gia video đang tìm kiếm công cụ chỉnh sửa video AI hiện đại, mang lại kết quả chuyên nghiệp dễ dàng như trò chuyện.",
+    "keywords": "Runway Aleph, mô hình video theo ngữ cảnh, AI chỉnh sửa video, chỉnh sửa chuyển đổi tạo video, tạo sinh đa nhiệm, trình chỉnh sửa video AI, công cụ chuyển đổi video, chỉnh sửa AI đàm thoại, chỉnh sửa linh hoạt, thao tác video, loại bỏ đối tượng AI, AI điều khiển camera, sửa đổi kiểu video, chỉnh sửa video chuyên nghiệp, tạo video AI, AI hậu kỳ video, đối tác video sáng tạo, chỉnh sửa video thông minh"
+  },
+  "whatIs": {
+    "title": "Runway Aleph là gì?",
+    "description": "Runway Aleph đại diện cho bước tiến vượt bậc trong AI chỉnh sửa video – một mô hình video theo ngữ cảnh mang tính cách mạng, kết hợp tạo sinh đa nhiệm với trí thông minh đàm thoại. Trình chỉnh sửa video AI tiên tiến này chuyển đổi cảnh quay thông thường thông qua thao tác đối tượng thông minh, điều khiển camera động và sửa đổi kiểu liền mạch. Không giống như các công cụ video truyền thống, Runway Aleph hoạt động như một đối tác sáng tạo, hiểu ngữ cảnh hình ảnh để mang lại trải nghiệm chỉnh sửa linh hoạt, chỉnh sửa, chuyển đổi và tạo nội dung video chuyên nghiệp một cách dễ dàng."
+  },
+  "examples": {
+    "title": "Ví dụ về Runway Aleph",
+    "description": "Khám phá cách Runway Aleph cách mạng hóa việc tạo video thông qua chỉnh sửa theo ngữ cảnh thông minh và khả năng tạo sinh đa nhiệm.",
+    "originalVideo": "Video gốc",
+    "generatedOutput": "Kết quả tạo",
+    "generateCameraAngles": "Tạo góc máy quay - Tạo các góc nhìn và cảnh quay mới từ cảnh quay gốc bằng các kỹ thuật quay phim chuyên nghiệp",
+    "generateNextShot": "Tạo cảnh quay tiếp theo - Tạo các cảnh quay tiếp theo liền mạch, tiếp nối câu chuyện của bạn với khả năng hiểu cảnh thông minh",
+    "styleTransfer": "Chuyển kiểu - Chuyển đổi kiểu hình ảnh của video, vẫn giữ chuyển động ban đầu và tính toàn vẹn của nội dung",
+    "changeEnvironment": "Thay đổi môi trường - Thêm các yếu tố thời tiết như mưa, tuyết hoặc sửa đổi môi trường để nâng cao cảnh quay",
+    "addThings": "Thêm đối tượng - Tích hợp liền mạch các yếu tố mới như pháo hoa, đạo cụ hoặc các tính năng môi trường vào cảnh quay hiện có",
+    "removeThings": "Xóa đối tượng - Loại bỏ các yếu tố không mong muốn như khói, phản xạ hoặc các đối tượng gây xao nhãng, duy trì tính liên tục của cảnh",
+    "generateStyleTransfer": "Chuyển kiểu - Chuyển đổi bất kỳ video nào với phong cách thẩm mỹ mong muốn. Với Runway Aleph, bạn có thể dễ dàng áp dụng bất kỳ kiểu nào vào cảnh quay chỉ bằng cách đưa ra yêu cầu.",
+    "generateChangeObject": "Change Object - Runway Aleph giúp bạn dễ dàng thay đổi kết cấu hoặc hoàn toàn thay thế đối tượng, chủ thể và hơn thế nữa từ các video hiện có. Hoặc với một đoạn văn bản nhắc nhở hoặc một hình ảnh tham khảo về những gì bạn muốn chuyển đổi vào video của mình.",
+    "promptStyleTransfer": "Lời nhắc: Chuyển kiểu của video",
+    "promptChangeObject": "Lời nhắc: Thay đổi chất liệu của quả bóng thành dung nham",
+    "promptAddRain": "Lời nhắc: Thêm mưa",
+    "promptAddFireworks": "Lời nhắc: Thêm pháo hoa",
+    "promptCameraAngle": "Lời nhắc: Tạo một cảnh quay trung bình toàn thân của đối tượng",
+    "promptRemoveSmoke": "Lời nhắc: Xóa khói"
+  },
+  "howTo": {
+    "title": "Cách sử dụng Runway Aleph"
+  },
+  "steps": {
+    "step1": {
+      "title": "Tải lên cảnh quay của bạn",
+      "content": "Nhập bất kỳ tệp video nào (MP4, MOV, AVI) có dung lượng tối đa 15 giây và 50MB để xử lý với Runway Aleph. Các video vượt quá 15 giây sẽ tự động được tối ưu hóa để phân tích mô hình video theo ngữ cảnh hiệu quả."
+    },
+    "step2": {
+      "title": "Phân tích theo ngữ cảnh",
+      "content": "Runway Aleph phân tích cảnh quay bằng các thuật toán tạo sinh đa nhiệm tiên tiến, trích xuất khung hình đầu tiên để thiết lập ngữ cảnh hình ảnh cho chỉnh sửa AI nhất quán trong toàn bộ video."
+    },
+    "step3": {
+      "title": "Chọn chế độ nâng cao",
+      "content": "Chọn từ hơn 20 tùy chọn chuyển đổi thông minh, bao gồm thao tác đối tượng, điều khiển camera, sửa đổi kiểu, hoặc sử dụng lời nhắc đàm thoại với hình ảnh tham khảo cho các chỉnh sửa Runway Aleph tùy chỉnh."
+    },
+    "step4": {
+      "title": "Tạo video nâng cao",
+      "content": "Runway Aleph chuyển đổi cảnh quay hoàn chỉnh, sử dụng trí thông minh của mô hình video theo ngữ cảnh, vẫn giữ nguyên chuyển động, biểu cảm và thời gian ban đầu thông qua công nghệ chỉnh sửa linh hoạt tinh vi."
+    }
+  },
+  "benefits": {
+    "title": "Tại sao nên chọn Runway Aleph",
+    "description": "Runway Aleph cung cấp công nghệ mô hình video theo ngữ cảnh tiên tiến nhất với khả năng tạo sinh đa nhiệm thông minh, chỉnh sửa AI đàm thoại và kết quả chuyên nghiệp."
+  },
+  "features": {
+    "feature1": {
+      "title": "Bảo tồn chuyển động thông minh",
+      "content": "Runway Aleph duy trì sự liên tục chuyển động hoàn hảo, biểu cảm khuôn mặt và tính nhất quán về thời gian trong khi áp dụng các chuyển đổi, thông qua phân tích mô hình video theo ngữ cảnh tiên tiến và độ chính xác chỉnh sửa linh hoạt hoàn hảo trên từng khung hình."
+    },
+    "feature2": {
+      "title": "Hơn 20 kiểu tạo sinh đa nhiệm",
+      "content": "Truy cập các tùy chọn chuyển đổi đa dạng, bao gồm cải tiến điện ảnh, phong cách nghệ thuật, thao tác đối tượng và thay đổi môi trường. Tạo các chỉnh sửa tùy chỉnh bằng cách sử dụng lời nhắc đàm thoại hoặc hình ảnh tham khảo với Runway Aleph."
+    },
+    "feature3": {
+      "title": "Chất lượng đầu ra chuyên nghiệp",
+      "content": "Tạo video chất lượng điện ảnh với khả năng tạo sinh đa nhiệm nhất quán, chuyển tiếp liền mạch và kết quả không có lỗi, thông qua xử lý mô hình video theo ngữ cảnh tinh vi của Runway Aleph."
+    },
+    "feature4": {
+      "title": "Hệ thống quy trình làm việc minh bạch",
+      "content": "Cấu trúc giá rõ ràng với các khoản phí riêng cho các giai đoạn phân tích và tạo. Thử nghiệm với các tùy chọn nâng cao khác nhau mà không phải trả thêm chi phí xử lý, với hệ thống linh hoạt của Runway Aleph."
+    },
+    "feature5": {
+      "title": "Giao diện AI đàm thoại",
+      "content": "Quy trình làm việc trực quan của Runway Aleph: tải lên cảnh quay, áp dụng phân tích theo ngữ cảnh, tạo video nâng cao. Không cần chuyên môn kỹ thuật, với giám sát tiến độ theo thời gian thực và hướng dẫn chỉnh sửa AI đàm thoại."
+    },
+    "feature6": {
+      "title": "Tự động tối ưu hóa thông minh",
+      "content": "Xử lý Runway Aleph thông minh với tối ưu hóa định dạng tự động, tính toán dựa trên thời lượng và xử lý tệp thông minh để tạo sinh đa nhiệm liền mạch trên tất cả các định dạng được hỗ trợ."
+    }
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp về Runway Aleph",
+    "description": "Thông tin cần thiết về công nghệ mô hình video theo ngữ cảnh của Runway Aleph, khả năng tạo sinh đa nhiệm và quy trình chỉnh sửa AI đàm thoại.",
+    "q1": "Runway Aleph hoạt động như thế nào?",
+    "a1": "Runway Aleph sử dụng công nghệ mô hình video theo ngữ cảnh tiên tiến thông qua xử lý hai giai đoạn thông minh: 1) Phân tích theo ngữ cảnh của cảnh quay với đánh giá tạo sinh đa nhiệm, 2) Chuyển đổi chỉnh sửa linh hoạt, vẫn giữ nguyên chuyển động và thời gian. Điều này đảm bảo chỉnh sửa AI đàm thoại nhất quán trên tất cả các khung hình.",
+    "q2": "Runway Aleph hỗ trợ các định dạng video nào?",
+    "a2": "Runway Aleph hỗ trợ các định dạng MP4, MOV và AVI với kích thước tệp tối đa 50MB để xử lý mô hình video theo ngữ cảnh. Video được giới hạn ở 15 giây và tự động được tối ưu hóa để tạo sinh đa nhiệm hiệu quả và tiết kiệm chi phí.",
+    "q3": "Quá trình xử lý Runway Aleph mất bao lâu?",
+    "a3": "Quá trình chuyển đổi Runway Aleph hoàn chỉnh mất 5-10 phút: phân tích theo ngữ cảnh (1-3 phút) và tạo sinh đa nhiệm (3-7 phút). Theo dõi tiến trình chỉnh sửa AI đàm thoại trong thời gian thực thông qua giao diện thông minh.",
+    "q4": "Chi tiết giá của Runway Aleph là gì?",
+    "a4": "Các khoản phí riêng cho phân tích theo ngữ cảnh và tạo video dựa trên thời lượng. Chi phí Runway Aleph được hiển thị minh bạch trước khi xử lý và các khoản tín dụng chỉ được khấu trừ sau khi hoàn thành tạo sinh đa nhiệm thành công.",
+    "q5": "Tôi có thể tạo các chuyển đổi tùy chỉnh với Runway Aleph không?",
+    "a5": "Chắc chắn rồi! Chọn từ hơn 20 mẫu cài sẵn, viết lời nhắc đàm thoại hoặc tải lên hình ảnh tham khảo để tạo sinh đa nhiệm độc đáo với công nghệ mô hình video theo ngữ cảnh của Runway Aleph.",
+    "q6": "Điều gì tạo ra kết quả tối ưu với Runway Aleph?",
+    "a6": "Tạo sinh đa nhiệm tốt nhất với các đối tượng rõ ràng, ánh sáng đầy đủ, chuyển động ổn định và các tính năng được xác định rõ ràng. Tránh các chuyển động nhanh hoặc cảnh quay tối để xử lý mô hình video theo ngữ cảnh Runway Aleph tối ưu. Cảnh quay dưới 5 giây với các đối tượng riêng biệt hoạt động đặc biệt tốt."
+  },
+  "metaTitle": "Runway Aleph",
+  "keywords": "Runway Aleph, mô hình video aleph, video ngữ cảnh, runway aleph AI, tạo hình ảnh đa nhiệm, chỉnh sửa video hiện đại, chế độ trò chuyện runway aleph, AI xử lý video, tạo video bằng AI, chỉnh sửa từ video thành video, hiệu ứng video AI, công cụ biến đổi video, xử lý video bằng AI"
+}

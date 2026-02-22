@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "AI Inbetweening - KomikoAI",
+    "description": "Ubah gambar statis menjadi animasi yang mulus dengan teknologi in-betweening AI dari KomikoAI. AI tweening canggih kami secara otomatis membuat bingkai di antara keyframe, membuat pembuatan animasi lebih cepat dan efisien. Sempurna untuk seniman, animator, dan pembuat konten.",
+    "keywords": "KomikoAI AI, animasi AI, in-betweening, tweening AI, generator animasi, generator bingkai AI, animasi digital, perangkat lunak animasi"
+  },
+  "title": "AI In-betweening",
+  "description": "Ubah gambar statis menjadi animasi yang mulus dengan AI in-betweening. AI tweening canggih kami secara otomatis membuat bingkai di antara beberapa keyframe, sehingga pembuatan animasi lebih cepat dan efisien. Baik Anda membuat animasi karakter, motion graphic, atau seni digital, generator bingkai in-between AI kami memberikan hasil profesional. Rasakan masa depan animasi dengan alat animasi in-betweening canggih dari KomikoAI - sempurna untuk seniman, animator, dan pembuat konten yang ingin menyederhanakan alur kerja mereka.",
+  "inputImages": {
+    "title": "Gambar Input",
+    "imageLabel": "Gambar"
+  },
+  "prompt": {
+    "label": "Prompt",
+    "placeholder": "Masukkan prompt Anda di sini...aksi apa pun, dll."
+  },
+  "button": {
+    "submit": "Inbetween Gambar"
+  },
+  "results": {
+    "title": "Hasil Video",
+    "empty": "Hasil akan ditampilkan di sini"
+  },
+  "deleteModal": {
+    "title": "Konfirmasi Penghapusan",
+    "message": "Apakah Anda yakin ingin menghapus video ini? Tindakan ini tidak dapat dibatalkan.",
+    "cancel": "Batal",
+    "delete": "Hapus"
+  },
+  "toasts": {
+    "removeInput": "Berhasil menghapus input",
+    "addInput": "Berhasil menambah input",
+    "createSuccess": "Berhasil membuat video",
+    "createFailed": "Gagal membuat video",
+    "deleteSuccess": "Berhasil dihapus",
+    "deleteFailed": "Gagal dihapus",
+    "downloadFailed": "Gagal mengunduh",
+    "fetchFailed": "Gagal mengambil video",
+    "noZaps": "Silakan isi ulang Zaps Anda",
+    "noZapsError": "Tidak ada Zaps"
+  },
+  "sections": {
+    "whatIs": {
+      "title": "Apa Itu In-betweening?",
+      "description": "In-betweening adalah teknik yang digunakan dalam animasi untuk menciptakan transisi yang mulus antara keyframe. Ini adalah aspek penting dalam menciptakan animasi yang cair dan realistis. AI in-betweening adalah teknologi animasi mutakhir yang menggunakan kecerdasan buatan untuk secara otomatis menghasilkan transisi yang mulus antara keyframe. Teknik revolusioner ini membantu menciptakan animasi yang mulus dengan secara cerdas mengisi bingkai perantara antara pose utama Anda, membuat pembuatan animasi lebih cepat dan lebih mudah diakses dari sebelumnya."
+    },
+    "howTo": {
+      "title": "Cara Membuat Animasi dengan AI In-betweening",
+      "description": "Ubah gambar statis Anda menjadi animasi yang mulus dalam hitungan menit menggunakan teknologi AI in-betweening canggih kami. Ikuti langkah-langkah sederhana ini untuk menghidupkan karya seni Anda.",
+      "steps": [
+        {
+          "title": "Langkah 1: Unggah Keyframe",
+          "content": "Unggah 2-5 gambar keyframe yang mewakili pose atau posisi utama dalam animasi Anda."
+        },
+        {
+          "title": "Langkah 2: Masukkan Prompt",
+          "content": "Tambahkan prompt opsional untuk memandu gaya dan gerakan animasi."
+        },
+        {
+          "title": "Langkah 3: Hasilkan Animasi",
+          "content": "Klik 'Inbetween Gambar' untuk membiarkan AI membuat transisi yang mulus antara keyframe Anda."
+        },
+        {
+          "title": "Langkah 4: Unduh Animasi",
+          "content": "Unduh animasi Anda yang sudah selesai dalam format MP4 dan bagikan!"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Contoh AI In-betweening",
+      "description": "Lihat hasil AI in-betweening yang dihasilkan oleh pengguna KomikoAI",
+      "input1": "Gambar Input 1: Bingkai Awal",
+      "input2": "Gambar Input 2: Bingkai Akhir",
+      "output": "Output: Video yang Diproses"
+    },
+    "whyChoose": {
+      "title": "Mengapa Memilih KomikoAI AI untuk Animasi In-betweening?",
+      "description": "Ubah alur kerja animasi Anda dengan alat AI in-betweening dari KomikoAI. AI tweening kami secara otomatis membuat bingkai di antara dua bingkai, merevolusi cara animator bekerja dengan menghasilkan transisi yang mulus antara keyframe.",
+      "features": [
+        {
+          "title": "Teknologi AI In-betweening Canggih",
+          "content": "Rasakan AI tweening mutakhir yang secara otomatis membuat bingkai di antara dua bingkai. Generator bingkai in-between AI kami memastikan transisi yang mulus dan alami untuk animasi Anda."
+        },
+        {
+          "title": "Pembuatan Animasi Cepat",
+          "content": "Apa yang secara tradisional membutuhkan waktu berjam-jam untuk in-betweening manual sekarang dapat diselesaikan dalam hitungan menit. Biarkan KomikoAI AI menangani pembuatan bingkai di antara dua bingkai saat Anda fokus pada pose utama."
+        },
+        {
+          "title": "Kualitas Animasi Profesional",
+          "content": "Buat animasi berkualitas studio dengan teknologi AI in-betweening kami. AI tweening KomikoAI memastikan gerakan yang konsisten dan transisi yang mulus yang sesuai dengan standar animasi profesional."
+        },
+        {
+          "title": "In-betweening yang Dapat Disesuaikan",
+          "content": "Pandu pembuatan bingkai in-between AI Anda dengan prompt khusus. Sempurnakan gaya gerakan dan ekspresi karakter untuk mencapai hasil animasi yang Anda inginkan dengan AI tweening kami."
+        },
+        {
+          "title": "Alat Animasi yang Mudah Diakses",
+          "content": "Baik Anda baru mengenal animasi atau seorang profesional berpengalaman, KomikoAI AI membuat animasi in-betweening dapat diakses oleh semua orang. Generator bingkai in-between AI kami menyederhanakan proses animasi."
+        },
+        {
+          "title": "Alur Kerja Animasi yang Efisien",
+          "content": "Sederhanakan alur kerja animasi Anda dengan alat AI in-betweening kami. Buat prototipe animasi dengan cepat, uji gerakan, dan buat transisi yang mulus antara keyframe menggunakan AI tweening dari KomikoAI."
+        }
+      ]
+    },
+    "faqSection": {
+      "title": "FAQ In-betweening: Semua yang Perlu Anda Ketahui",
+      "description": "Pelajari cara kerja alat AI in-betweening kami, temukan praktik terbaik, dan temukan jawaban untuk pertanyaan umum tentang membuat animasi profesional dengan kecerdasan buatan."
+    }
+  },
+  "faq": {
+    "question1": "Bagaimana cara kerja AI in-betweening KomikoAI?",
+    "answer1": {
+      "intro": "Generator bingkai in-between AI KomikoAI bekerja dalam tiga langkah sederhana:",
+      "step1": "Unggah 2-5 gambar keyframe yang mewakili pose utama Anda",
+      "step2": "Tambahkan prompt opsional untuk memandu gaya animasi",
+      "step3": "Biarkan AI canggih kami menganalisis keyframe dan secara otomatis membuat bingkai di antara dua bingkai",
+      "step4": "Sistem menggunakan pembelajaran mesin canggih untuk memahami gerakan dan menghasilkan transisi alami."
+    },
+    "question2": "Apa manfaat menggunakan AI untuk animasi in-betweening?",
+    "answer2": {
+      "intro": "Menggunakan AI untuk membuat bingkai di antara dua bingkai menawarkan banyak keuntungan:",
+      "benefit1": "Secara dramatis mengurangi waktu animasi dibandingkan dengan metode bingkai demi bingkai tradisional",
+      "benefit2": "Membuat bingkai in-between berkualitas profesional secara otomatis",
+      "benefit3": "Sempurna untuk pemula dan animator profesional",
+      "benefit4": "Menghilangkan pekerjaan in-betweening manual yang membosankan",
+      "benefit5": "Memungkinkan iterasi dan eksperimen cepat dalam animasi"
+    },
+    "question3": "Jenis file apa yang berfungsi dengan alat AI in-betweening KomikoAI?",
+    "answer3": {
+      "intro": "Generator bingkai in-between AI kami mendukung:",
+      "format1": "Format gambar umum: JPG dan PNG",
+      "format2": "Resolusi optimal: 512x512 piksel",
+      "format3": "Ukuran file maksimum: 5MB per gambar",
+      "format4": "Rentang keyframe: 2-5 gambar untuk hasil terbaik"
+    },
+    "question4": "Apakah alat AI in-betweening KomikoAI gratis untuk digunakan?",
+    "answer4": "KomikoAI menawarkan Zaps (kredit) gratis untuk mencoba alat AI animasi in-betweening kami. Untuk penggunaan yang lebih luas dan fitur lanjutan, lihat paket berbayar kami yang mencakup pemrosesan lebih cepat dan output resolusi lebih tinggi.",
+    "question5": "Bagaimana cara mendapatkan hasil terbaik dengan AI in-betweening?",
+    "answer5": {
+      "intro": "Untuk generasi bingkai in-between AI yang optimal:",
+      "tip1": "Pertahankan gaya seni yang konsisten di seluruh keyframe",
+      "tip2": "Jaga pencahayaan dan komposisi tetap serupa",
+      "tip3": "Pastikan posisi karakter logis antar bingkai",
+      "tip4": "Gunakan prompt yang jelas dan deskriptif",
+      "tip5": "Mulai dengan gerakan sederhana sebelum mencoba animasi yang kompleks"
+    },
+    "question6": "Apa saja batasan AI in-betweening saat ini?",
+    "answer6": {
+      "intro": "Meskipun AI tweening kami sangat kuat, ada beberapa batasan saat ini:",
+      "limit1": "Maksimal 5 keyframe per urutan animasi",
+      "limit2": "Gerakan yang sangat kompleks atau ekstrem mungkin memerlukan penyesuaian manual",
+      "limit3": "Konsistensi gaya antar bingkai penting untuk hasil terbaik",
+      "limit4": "Waktu pemrosesan meningkat dengan lebih banyak keyframe"
+    },
+    "question7": "Bisakah saya menggunakan animasi yang dihasilkan AI KomikoAI secara komersial?",
+    "answer7": "Ya, Anda dapat menggunakan animasi yang dibuat dengan alat AI in-betweening kami untuk proyek pribadi dan komersial, tunduk pada persyaratan layanan KomikoAI. Alat kami sangat cocok untuk membuat animasi profesional secara efisien."
+  }
+}

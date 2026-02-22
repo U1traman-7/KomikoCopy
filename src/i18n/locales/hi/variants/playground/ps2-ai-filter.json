@@ -1,0 +1,14 @@
+{
+  "examples": [
+    {
+      "input": "https://d31cygw67xifd4.cloudfront.net/examples/playground/input/girl.webp",
+      "output": "https://d31cygw67xifd4.cloudfront.net/examples/playground/output/ps-game/example_1.webp",
+      "style": "पीएस गेम"
+    },
+    {
+      "input": "https://d31cygw67xifd4.cloudfront.net/examples/playground/input/komiko.webp",
+      "output": "https://d31cygw67xifd4.cloudfront.net/examples/playground/output/ps-game/example_3.webp",
+      "style": "पीएस गेम"
+    }
+  ]
+}

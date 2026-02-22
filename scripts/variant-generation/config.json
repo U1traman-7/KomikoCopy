@@ -1,0 +1,9 @@
+{
+  "apiBaseUrl": "http://localhost:3000",
+  "sessionToken": "",
+  "defaultModel": "Animagine",
+  "imagesPerVariant": 6,
+  "perplexityApiKey": "",
+  "enableSEOOptimization": true,
+  "enablePerplexityResearch": true
+}

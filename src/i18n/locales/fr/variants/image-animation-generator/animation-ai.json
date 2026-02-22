@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Animation IA",
+      "description": "Exploitez la puissance de l'Animation IA pour transformer vos photos, œuvres d'art et illustrations en animations captivantes, et donnez vie à vos créations grâce à un mouvement dynamique.",
+      "keywords": "Animation IA, générateur d'animation IA, animation alimentée par l'IA, animation de photo, animation d'art numérique, illustrations animées, générateur de vidéo, animation manhwa, animation anime"
+    },
+    "hero": {
+      "title": "Animation IA",
+      "description": "Donnez vie à vos œuvres d'art, illustrations et photos avec l'Animation IA. Transformez facilement et de manière créative des images statiques en animations vibrantes."
+    },
+    "whatIs": {
+      "title": "L'Animation IA, qu'est-ce que c'est ?",
+      "description": "L'Animation IA est un outil de pointe qui convertit vos images statiques en animations dynamiques. Idéal pour l'anime, le manga, la bande dessinée, et bien plus encore, grâce à une technologie d'IA puissante."
+    },
+    "examples": {
+      "title": "Exemples d'Animation IA",
+      "description": "Découvrez ces exemples qui illustrent comment l'Animation IA peut transformer des images statiques en animations vivantes ! Explorez les possibilités pour vos créations.",
+      "inputAlt": "Exemple d'image d'entrée",
+      "inputLabel": "Œuvre d'art d'entrée",
+      "outputLabel": "Résultat de l'animation"
+    },
+    "howToUse": {
+      "title": "Comment utiliser Animation IA",
+      "steps": [
+        {
+          "title": "Téléchargez votre image",
+          "content": "Sélectionnez et téléchargez l'image que vous souhaitez animer : une illustration d'anime, une scène de bande dessinée, ou autre."
+        },
+        {
+          "title": "Entrez une instruction",
+          "content": "Décrivez le mouvement ou la scène que vous imaginez. Notre IA interprétera vos instructions pour créer l'animation."
+        },
+        {
+          "title": "Générez l'animation",
+          "content": "Cliquez sur 'Générer l'animation' et laissez l'Animation IA opérer sa magie, transformant votre image en une vidéo animée."
+        },
+        {
+          "title": "Téléchargez et partagez",
+          "content": "Enregistrez votre chef-d'œuvre animé et partagez-le facilement sur les plateformes pour un engagement accru et une créativité décuplée."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi utiliser Animation IA ?",
+      "description": "Découvrez les avantages de l'Animation IA pour vos projets d'anime, de manga et d'art numérique. Rendez l'animation accessible et simple grâce à nos outils d'IA avancés.",
+      "features": [
+        {
+          "title": "Animation IA avancée",
+          "content": "Tirez parti de la technologie d'IA pour générer des animations sans effort à partir de vos images, et améliorez ainsi vos créations de manière dynamique.",
+          "icon": "🤖"
+        },
+        {
+          "title": "Engagez de manière créative",
+          "content": "Transformez des visuels fixes en animations idéales pour les réseaux sociaux, les portfolios et les projets, avec un attrait saisissant.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Interface conviviale",
+          "content": "Aucune compétence spécialisée n'est requise ! Saisissez simplement vos visuels et vos instructions pour produire des animations en toute simplicité.",
+          "icon": "👌"
+        },
+        {
+          "title": "Efficacité et vitesse",
+          "content": "Minimisez le temps investi dans la création d'animation. Notre IA fournit efficacement des animations en quelques minutes.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Résultats professionnels",
+          "content": "Soyez assuré d'obtenir des animations fluides et de haute qualité, parfaites pour les créateurs à la recherche de résultats soignés.",
+          "icon": "✨"
+        },
+        {
+          "title": "Créativité débridée",
+          "content": "Concentrez-vous sur votre art pendant que l'Animation IA gère les subtilités de l'animation. Offrez facilement un contenu époustouflant.",
+          "icon": "🎨"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foire aux questions",
+      "description": "Explorez les questions fréquemment posées sur l'utilisation efficace de l'Animation IA.",
+      "q1": "Qu'est-ce que l'Animation IA ?",
+      "a1": "L'Animation IA est un outil d'IA qui transforme des images statiques en animations dynamiques. Utilisant des algorithmes avancés, il capture votre vision artistique en simulant des mouvements et des scènes réalistes, ce qui est idéal pour l'anime, la bande dessinée, et des projets d'art numérique plus attrayants.",
+      "q2": "Comment utiliser l'Animation IA ?",
+      "a2": "Utiliser l'Animation IA est simple ! Tout d'abord, téléchargez votre image, puis entrez une instruction descriptive, et cliquez sur 'Générer l'animation'. Découvrez l'automatisation alors que l'IA crée une vidéo animée à partir de votre image, offrant des résultats de haute qualité sans effort.",
+      "q3": "Comment fonctionne l'Animation IA ?",
+      "a3": "L'Animation IA utilise l'apprentissage profond et des technologies de visualisation avancées pour interpréter vos images et vos instructions. Il identifie les caractéristiques clés et produit de nouvelles images pour animer les mouvements, les expressions et les scènes de manière transparente.",
+      "q4": "Quel est le meilleur générateur d'animation ?",
+      "a4": "KomikoAI fournit le meilleur générateur d'animation. Notre objectif est d'être la principale plateforme de création d'IA en fournissant des résultats de qualité professionnelle, une personnalisation puissante et amusante, et un flux de travail intuitif, le tout gratuitement pour essayer. Avec l'Animation IA de KomikoAI, vous pouvez créer des animations dynamiques, ce qui la rend parfaite pour les artistes et les créateurs dans les médias numériques.",
+      "q5": "L'Animation IA de KomikoAI est-elle gratuite en ligne ?",
+      "a5": "Oui, vous pouvez tester l'Animation IA sur KomikoAI gratuitement, sans avoir à vous inscrire à un abonnement. Essayez notre outil dès aujourd'hui !",
+      "q6": "Que puis-je faire avec l'Animation IA ?",
+      "a6": "Vous pouvez utiliser l'Animation IA sur KomikoAI pour créer des animations à partir de vos images, et les transformer en contenu attrayant. Elle prend en charge l'anime, le manga, l'art des personnages et bien plus encore, avec des effets de mouvement dynamiques et différents styles.",
+      "q7": "Puis-je utiliser l'Animation IA sur mon téléphone ?",
+      "a7": "Oui, vous pouvez utiliser l'Animation IA comme une application web sur différents appareils, y compris les smartphones et les ordinateurs, ce qui la rend pratique pour tout le monde.",
+      "q8": "Puis-je télécharger ma génération à partir de l'Animation IA ?",
+      "a8": "Oui, l'Animation IA de KomikoAI vous permet d'exporter votre génération dans différents formats, tels que MP4, GIF, WebM, pour un partage facile.",
+      "q9": "Pourquoi devrais-je utiliser l'Animation IA ?",
+      "a9": "L'utilisation de l'Animation IA peut améliorer vos créations numériques, en rationalisant facilement le processus d'animation. Notre outil vous permet de créer rapidement des animations captivantes et réalistes, et offre une accessibilité aux artistes novices et expérimentés."
+    },
+    "cta": {
+      "title": "Créez des animations époustouflantes GRATUITEMENT avec notre Animation IA dès aujourd'hui !",
+      "description": "Rejoignez-nous maintenant et transformez vos images en animations incroyables sans effort.",
+      "buttonText": "Essayez notre Animation IA gratuitement"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "title": "Modèle : AniSora",
+      "description": "Invite : Les personnages de l'image sont assis dans une voiture qui avance et font signe de la main à l'arrière ; leurs cheveux flottent au vent de gauche à droite.",
+      "videoUrl": "/images/pages/anisora/example1.webm"
+    },
+    {
+      "id": 2,
+      "title": "Modèle : AniSora",
+      "description": "Invite : L'homme de gauche serre les lèvres avec force, son visage exprimant une fureur et une détermination profondes. Chaque trait de son expression témoigne à la fois d'une immense frustration et d'une conviction inébranlable. Pendant ce temps, l'autre homme a la mâchoire ouverte : il semble sur le point d'exploser en un cri ou une déclaration passionnée.",
+      "videoUrl": "/images/pages/anisora/example4.webm"
+    },
+    {
+      "id": 3,
+      "title": "Modèle : Kling",
+      "description": "Invite : Une jeune fille discute tranquillement.",
+      "videoUrl": "/images/examples/image-animation-generator/output5.webm"
+    },
+    {
+      "id": 4,
+      "title": "Modèle : FramePack",
+      "description": "Invite : La jeune fille sort soudainement un panneau indiquant « mignon » avec sa main droite.",
+      "videoUrl": "/images/pages/frame-pack-ai-video-generator/girl.webm"
+    }
+  ],
+  "originalKeyword": "Animation AI",
+  "pageStructure": [
+    "examples",
+    "whatIs",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ],
+  "placeholderText": "Generate Animation AI style artwork"
+}

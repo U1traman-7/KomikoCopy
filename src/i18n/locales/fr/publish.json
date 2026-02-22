@@ -1,0 +1,86 @@
+{
+  "pageTitle": "Publication | KomikoAI",
+  "shareStory": "Partager cette histoire",
+  "enterStoryTitle": "Saisissez le titre de votre histoire",
+  "addMoreDescription": "Ajouter une description plus détaillée",
+  "post": "Publier",
+  "pleaseNote": "Note importante :",
+  "nsfwWarning": "Veuillez étiqueter tout contenu inapproprié comme \"NSFW\". Les publications non étiquetées peuvent être supprimées et les récidivistes peuvent être interdits. Le contenu illégal (y compris celui impliquant des mineurs) est strictement interdit et entraînera une interdiction permanente.",
+  "imageDownloadSuccess": "Image téléchargée ! Partagez-la avec vos amis !",
+  "pleaseEnterTitle": "Veuillez saisir un titre.",
+  "pleaseCreateStory": "Veuillez créer une histoire.",
+  "failedToPost": "La publication a échoué.",
+  "defaultTitles": {
+    "character": "Création de Mon Personnage",
+    "anime": "Mon Portrait Style Anime",
+    "animation": "Mon Animation",
+    "creation": "Ma Création"
+  },
+  "addTags": "Ajouter une étiquette",
+  "tagPlaceholder": "#Entrez un tag",
+  "tagCount": "Tags ({{current}}/{{max}})",
+  "recommendedTags": "Tags recommandés",
+  "popularTags": "Tags populaires",
+  "activity": "Activité",
+  "share": "Partager",
+  "uploadMedia": "Téléverser des médias",
+  "dragDropOrClick": "Glissez-déposez les fichiers ici, ou cliquez pour sélectionner",
+  "dropFileHere": "Déposez les fichiers ici",
+  "uploading": "Téléversement",
+  "storyTitle": "Titre de l'histoire",
+  "description": "Description",
+  "titleLengthWarning": "Le titre est trop long",
+  "characters": "caractères",
+  "pleasePublishFirst": "Veuillez publier le contenu d'abord avant de partager",
+  "pinPost": "Épingler cette publication en haut du fil d'actualité des tendances",
+  "fileUpload": {
+    "title": "Téléverser des médias",
+    "subtitle": "Glissez-déposez les fichiers ici, ou cliquez pour sélectionner",
+    "dropHere": "Déposez les fichiers ici",
+    "supportedFormats": "Formats supportés",
+    "imageFormats": "JPG, PNG, WEBP",
+    "videoFormats": "MP4, MOV, AVI",
+    "maxSize": "Images : Taille max {{size}} Mo",
+    "videoMaxSize": "Vidéos : {{size}} Mo max, {{duration}} min",
+    "processing": "Traitement du fichier...",
+    "uploading": "Téléversement...",
+    "success": "Téléversement réussi !",
+    "error": "Échec du téléversement. Veuillez réessayer."
+  },
+  "mediaPreview": {
+    "image": "Image",
+    "video": "Vidéo",
+    "download": "Télécharger",
+    "share": "Partager",
+    "clear": "Effacer"
+  },
+  "validation": {
+    "titleRequired": "Veuillez entrer un titre",
+    "contentRequired": "Veuillez créer une histoire",
+    "fileRequired": "Veuillez sélectionner un fichier",
+    "fileTooLarge": "Le fichier est trop volumineux. Taille maximale : {{size}} Mo",
+    "unsupportedFormat": "Format de fichier non supporté",
+    "uploadFailed": "Échec du téléversement. Veuillez réessayer."
+  },
+  "actions": {
+    "publish": "Publier",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "clear": "Tout effacer",
+    "download": "Télécharger",
+    "share": "Partager"
+  },
+  "preppingPost": "En train de préparer votre publication…",
+  "drawer": {
+    "action": {
+      "newPost": "Nouveau post",
+      "newCharacter": "Nouveau personnage",
+      "generateImage": "Générer une image",
+      "generateVideo": "Générer une vidéo",
+      "generateComic": "Générer une bande dessinée"
+    },
+    "description": {
+      "newPost": "Partagez vos créations avec la communauté."
+    }
+  }
+}

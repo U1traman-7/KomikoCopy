@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Crear Mundo | KomikoAI",
+  "createWorld": "Crear un mundo",
+  "coverImage": "Imagen de portada",
+  "uploadCoverImage": "Subir imagen de portada",
+  "worldName": "Nombre del mundo",
+  "introduction": "Introducción ({{length}}/250)",
+  "introductionPlaceholder": "Presenta brevemente la historia. ¿Qué aventuras aguardan al jugador y al personaje? Utiliza '{character}' para referirte al personaje.",
+  "storyline": "Argumento ({{length}}/5000)",
+  "storylinePlaceholder": "Describe el argumento con más detalle. Utiliza '{character}' para referirte al personaje y 'player' para referirte al jugador.",
+  "winningCondition": "Condición de victoria ({{length}}/250)",
+  "winningConditionPlaceholder": "Describe las condiciones para ganar el juego.",
+  "rules": "Reglas ({{length}}/5000)",
+  "rulesPlaceholder": "Define las reglas del juego. Por ejemplo: 'El jugador actuará como {character}', o '{character} se dirige al jugador como \"Viajero\"', o 'Cada línea de {character} comienza con (Locura: X), donde X empieza en 100.'",
+  "createWorldButton": "Crear mundo",
+  "pleaseNote": "Nota importante:",
+  "nsfwWarning": "El contenido NSFW público está estrictamente prohibido en la comunidad de KomikoAI. Cualquier infracción resultará en la eliminación inmediata del contenido y podría acarrear la expulsión permanente de nuestra plataforma. Colaboremos para mantener un espacio limpio y seguro para todos. 🤗",
+  "errorWorldName": "Por favor, introduce un nombre para el mundo",
+  "errorIntroduction": "Por favor, introduce una introducción",
+  "errorStoryline": "Por favor, introduce un argumento",
+  "errorCoverImage": "Por favor, sube una imagen de portada",
+  "errorNSFW": "El contenido NSFW está estrictamente prohibido en la comunidad de KomikoAI. Por favor, ayúdanos a mantener un espacio limpio y seguro para todos."
+}

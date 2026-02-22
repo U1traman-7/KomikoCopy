@@ -1,0 +1,139 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Cartoonify Video",
+      "description": "Cartoonify any video with our AI-powered tool. Transform real-life footage into cartoon-style videos while preserving original motion and expressions.",
+      "keywords": "Cartoonify Video, AI Cartoon Video Maker, cartoon video filter, video to cartoon converter, cartoon animation tool, animation video generator, cartoon style transfer, cartoon video creator, comic transformation, cartoonification, animated video filter, AI cartoon generator"
+    },
+    "hero": {
+      "title": "Cartoonify Video"
+    },
+    "whatIs": {
+      "title": "What is Cartoonify Video?",
+      "description": "Cartoonify Video is an AI tool that transforms videos into unique cartoon-style animations. It uses advanced Video Style Transfer technology to apply your selected style to a reference frame and convert the entire video while keeping original motion and facial expressions intact. Choose from a wide range of styles, including classic cartoon and modern aesthetics."
+    },
+    "examples": {
+      "title": "Cartoonify Video Examples",
+      "description": "Explore how Cartoonify Video can transform videos into vibrant cartoon animations, maintaining motion integrity with cutting-edge Video Style Transfer technology."
+    },
+    "howToUse": {
+      "title": "How to Use Cartoonify Video",
+      "steps": [
+        {
+          "title": "Upload Your Video",
+          "content": "Upload a video file (MP4, MOV, AVI) up to 15 seconds and 50MB to start the Cartoonify Video process. Longer videos will be automatically trimmed for efficient style transfer."
+        },
+        {
+          "title": "Video Style Transfer Reference",
+          "content": "A reference frame is extracted and your chosen cartoon style is applied to ensure consistent Cartoonify Video transformation of the full video."
+        },
+        {
+          "title": "Choose Artistic Style",
+          "content": "Select from over 100 styles or craft a custom cartoon style using text prompts or reference images to personalize your Cartoonify Video experience."
+        },
+        {
+          "title": "Generate Cartoonify Video",
+          "content": "The complete video is transformed using the styled reference frame. Cartoonify Video ensures original motion and expressions are preserved through advanced technology."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Use Cartoonify Video",
+      "description": "Cartoonify Video offers unparalleled video style transformation with motion preservation, diverse style options, and a clear pricing model.",
+      "features": [
+        {
+          "title": "Preserve Motion and Expression",
+          "content": "Cartoonify Video excels at maintaining the nuances of motion and facial expressions, ensuring consistent cartoon style application in every frame.",
+          "icon": "🎬"
+        },
+        {
+          "title": "100+ Style Options",
+          "content": "From classic cartoons to contemporary styles, Cartoonify Video provides an extensive range of artistic styles. Create custom styles or use preset templates to Cartoonify any video.",
+          "icon": "🎨"
+        },
+        {
+          "title": "High-Quality Output",
+          "content": "Produce professional-grade cartoon videos with smooth transitions and no noticeable artifacts, thanks to sophisticated style transformation.",
+          "icon": "✨"
+        },
+        {
+          "title": "Transparent Pricing",
+          "content": "Our pricing reflects individual charges for style transformation and video generation, allowing for experimentation with no hidden costs.",
+          "icon": "⚡"
+        },
+        {
+          "title": "User-Friendly Process",
+          "content": "Simple steps: upload video, apply style to reference frame, and generate your animated video—no technical know-how required.",
+          "icon": "👌"
+        },
+        {
+          "title": "Optimized Processing",
+          "content": "Automatically trims longer videos and supports popular formats like MP4, MOV, and AVI, ensuring efficient processing and affordable costs.",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Answers to common questions on using Cartoonify Video, its features, and usage.",
+      "q1": "What is Cartoonify Video?",
+      "a1": "Cartoonify Video is an AI tool that transforms videos into cartoon-style animations. It applies a chosen artistic style to a reference frame and then converts the whole video while preserving original motion and expressions, creating a smooth, cartoonified experience.",
+      "q2": "How to use Cartoonify Video?",
+      "a2": "Using Cartoonify Video is simple! First upload your video, then select your desired cartoon style, and finally generate your video. The tool is designed to provide a seamless experience by automatically optimizing video length and format while ensuring the best possible cartoon transformation.",
+      "q3": "How does Cartoonify Video work?",
+      "a3": "Cartoonify Video uses Video Style Transfer technology to convert videos. It works by applying a selected cartoon style to a reference frame and then uses this frame to transform the entire video, preserving the video's original motion and expressions throughout the process.",
+      "q4": "What is the best video to cartoon converter?",
+      "a4": "KomikoAI provides the best video to cartoon converter tool. Our goal is to be the leading AI creation platform by delivering professional-quality results, powerful and fun customization, and an intuitive workflow—completely free to try. With KomikoAI's Cartoonify Video, you can create stunningly animated videos, making it perfect for users who are video editing enthusiasts and content creators.",
+      "q5": "Is the KomikoAI Cartoonify Video free online?",
+      "a5": "Yes, you can test out the Cartoonify Video on KomikoAI for free, without having to sign up to any subscription. Try our tool today!",
+      "q6": "What can I do with Cartoonify Video?",
+      "a6": "You can use Cartoonify Video on KomikoAI to create cartoon-style videos for social media, transform family footage into animated memories, or craft unique marketing content. Capture the essence of beloved characters in your personal animated projects.",
+      "q7": "Can I use Cartoonify Video on my phone?",
+      "a7": "Yes, you can use Cartoonify Video as a web app on different devices, including smartphones and computers, making it convenient for everyone.",
+      "q8": "Can I download my generation from Cartoonify Video?",
+      "a8": "Yes, KomikoAI's Cartoonify Video allows you to export your generation in various formats, such as MP4, MOV, and AVI, for easy sharing.",
+      "q9": "Why should I use Cartoonify Video?",
+      "a9": "Using Cartoonify Video can enhance your videos with artistic flair. Our tool allows you to customize styles, maintain original motion, and transform videos into high-quality cartoons with seamless transitions and no artifacts."
+    },
+    "cta": {
+      "title": "Transform Videos for FREE with Our Cartoonify Video Today!",
+      "description": "Create unique cartoon-style videos effortlessly and explore endless creative possibilities.",
+      "buttonText": "Try Our Cartoonify Video Free"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-man.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon Style",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-girl.webm",
+      "inputLabel": "Original Video",
+      "outputLabel": "Cartoon Style",
+      "description": "Style Transfer | Transfer original video to cartoon style"
+    }
+  ],
+  "config": {
+    "defaultStyle": "cartoon"
+  },
+  "originalKeyword": "Cartoonify Video",
+  "pageStructure": [
+    "examples",
+    "whyUse",
+    "whatIs",
+    "howToUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

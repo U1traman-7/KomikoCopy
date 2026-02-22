@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "AI 만화 생성기 - KomikoAI",
+    "description": "간단한 아이디어만으로도 만화를 뚝딱! AI 만화 생성기 KomikoAI로 만화, 웹툰, 코믹스를 손쉽게 만들어 보세요."
+  },
+  "form": {
+    "title": "AI 만화 생성기",
+    "subtitle": "AI의 힘으로 아이디어를 멋진 만화, 웹툰, 코믹스로 바꿔보세요. 간단한 아이디어를 입력하고 원하는 스타일을 선택하면 AI 만화 생성기가 알아서 만들어 드립니다.",
+    "idea_label": "만화 아이디어",
+    "idea_placeholder": "만화 아이디어를 입력하세요...",
+    "style_label": "만화 스타일",
+    "style_placeholder": "만화 스타일 선택",
+    "styles": {
+      "anime": "애니메이션",
+      "manga": "만화",
+      "manhwa": "웹툰",
+      "american": "미국 코믹스",
+      "cartoon": "카툰",
+      "realistic": "실사풍"
+    },
+    "type_label": "만화 종류",
+    "type_placeholder": "만화 종류 선택",
+    "types": {
+      "normal": "일반",
+      "funny": "유머",
+      "meme": "밈"
+    },
+    "layout_label": "만화 레이아웃",
+    "mode_label": "생성 모드",
+    "modes": {
+      "gemini": "Gemini",
+      "gemini_cost": "패널 당 {{cost}} zap 소모",
+      "flux": "Flux",
+      "flux_cost": "패널 당 {{cost}} zap 소모"
+    },
+    "narration_checkbox": "내레이션 포함",
+    "generate_button": "만화 생성"
+  },
+  "buttons": {
+    "edit": "편집",
+    "download": "다운로드",
+    "share": "공유"
+  },
+  "preview_alt": "만화 미리보기",
+  "preview_text": "만화 아이디어를 입력하고 '생성' 버튼을 눌러 나만의 만화를 만들어 보세요.",
+  "narration": "내레이션",
+  "idea_input": {
+    "label": "어떤 이야기를 만들고 싶으신가요?",
+    "custom_placeholder": "이야기 아이디어를 입력하고 그림 스타일을 지정해 주세요."
+  },
+  "login_to_generate": "생성",
+  "edit_button": "편집",
+  "comics_generated": "KomikoAI 사용자가 생성한 만화 {{count}}개!",
+  "comic_type": {
+    "normal": {
+      "label": "🙂 일반",
+      "text": "일반"
+    },
+    "meme": {
+      "label": "🤣 밈",
+      "text": "밈"
+    }
+  },
+  "comic_style": {
+    "anime": "애니메이션",
+    "american": "미국 코믹스",
+    "manga": "만화",
+    "manhwa": "웹툰",
+    "custom": "커스텀"
+  },
+  "seo": {
+    "main_heading": "AI 만화 생성기란 무엇인가요?",
+    "main_description": "AI 만화 생성기는 아이디어를 매력적인 만화, 웹툰, 밈으로 바꿔주는 AI 기반 도구입니다. 아티스트든 스토리텔링 팬이든, AI가 생성하는 그림과 내레이션으로 상상력을 현실로 만드세요. 아이디어를 입력하고 스타일을 선택하면 KomikoAI의 AI 만화 생성기가 나머지를 책임집니다. Hugging Face의 AI Comic Factory보다 훨씬 뛰어난 경험을 제공합니다."
+  },
+  "how_to_use": {
+    "heading": "AI 만화 생성기 사용 방법",
+    "step1": {
+      "title": "1단계: 아이디어 입력",
+      "content": "콘셉트, 스토리 아이디어, 밈 영감을 입력하세요. 간단한 문장도 좋고, 자세한 이야기를 써도 좋습니다."
+    },
+    "step2": {
+      "title": "2단계: 스타일 선택",
+      "content": "만화, 애니메이션, 미국 코믹스 등 다양한 스타일을 선택하거나, 원하는 스타일을 직접 지정하세요."
+    },
+    "step3": {
+      "title": "3단계: AI 생성",
+      "content": "'만화 생성' 버튼을 클릭하세요. KomikoAI의 AI 만화 생성기가 입력 내용을 바탕으로 그림, 말풍선, 내레이션을 만들어 드립니다. 몇 초 안에 만화가 완성됩니다."
+    },
+    "step4": {
+      "title": "4단계: 저장 및 공유",
+      "content": "고화질 만화 파일을 다운로드하여 소셜 미디어에 공유하거나 개인 프로젝트에 활용하세요."
+    }
+  },
+  "why_use": {
+    "heading": "AI 만화 생성기로 만화를 만들어야 하는 이유",
+    "description": "KomikoAI의 AI 만화 생성기는 초보자부터 전문가까지 누구나 쉽게 만화를 만들 수 있도록 뛰어난 편의성과 사용자 지정 기능을 제공합니다.",
+    "features": {
+      "beginner_friendly": {
+        "title": "초보자도 쉽게",
+        "content": "그림 실력이 없어도 괜찮아요! 아이디어만 입력하면 AI 만화 생성기가 클릭 한 번으로 만화를 그려 드립니다."
+      },
+      "custom_art": {
+        "title": "다양한 스타일",
+        "content": "미국 코믹스, 만화, 웹툰, 애니메이션 등 다양한 스타일 중에서 선택하거나, 직접 스타일을 지정할 수도 있습니다."
+      },
+      "amazing_layouts": {
+        "title": "멋진 레이아웃",
+        "content": "잘 디자인된 만화 레이아웃을 선택하여 만화를 더욱 돋보이게 만드세요. 원하는 대로 만화를 만들 수 있습니다."
+      },
+      "tell_story": {
+        "title": "나만의 이야기",
+        "content": "KomikoAI의 AI 만화 생성기는 말풍선, 대사, 내레이션을 자동으로 추가합니다. 캐릭터가 말을 하고 흥미진진한 이야기를 들려주세요!"
+      },
+      "ai_efficiency": {
+        "title": "AI의 효율성",
+        "content": "AI가 그림, 내레이션, 레이아웃을 처리하여 시간을 절약해 줍니다."
+      },
+      "high_quality": {
+        "title": "고품질 결과물",
+        "content": "공유 또는 인쇄에 적합한 고품질 만화를 다운로드하세요."
+      },
+      "creative_freedom": {
+        "title": "자유로운 창작",
+        "content": "아이디어를 실험하고, 세부 사항을 조정하여 스토리를 완성하세요. 만화가 마음에 들지 않나요? AI 만화 생성기에서 다시 시도해 보세요."
+      },
+      "accessible": {
+        "title": "언제 어디서나",
+        "content": "AI 만화 생성기는 클라우드 기반으로 어디서든 어떤 기기에서든 만화를 만들 수 있습니다."
+      },
+      "share_comics": {
+        "title": "만화 공유",
+        "content": "Instagram, Twitter, Facebook 등 소셜 미디어 플랫폼에 만화를 공유하세요. KomikoAI의 AI 만화 생성기를 사용하면 밈도 쉽게 만들 수 있습니다."
+      }
+    }
+  },
+  "faq": {
+    "heading": "AI 만화 생성기에 대한 FAQ",
+    "description": "KomikoAI의 AI 만화 생성기 작동 방식과 장점에 대해 자세히 알아보세요.",
+    "edit_after_creation": {
+      "question": "AI 만화 생성기로 만든 만화를 편집할 수 있나요?",
+      "answer": "네! 이미지 변경, 말풍선 편집, 레이아웃 변경 등 만화 오른쪽 상단의 '편집' 버튼을 클릭하여 AI 캔버스 페이지에서 만화를 편집할 수 있습니다."
+    },
+    "what_is_comic_generator": {
+      "question": "AI 만화 생성기란 무엇인가요?",
+      "answer": "AI 만화 생성기는 AI를 사용하여 자동으로 만화를 만들어주는 혁신적인 도구입니다. 아이디어를 입력하고 만화 스타일을 선택하면 AI가 몇 초 안에 만화를 생성합니다! 입력 내용을 바탕으로 그림과 대사를 자동으로 생성하여 창작 과정을 간소화합니다. 재미있는 이야기, 모험, 멋진 슈퍼히어로 이야기 등 그림 없이도 모든 종류의 만화 이야기를 만들 수 있습니다!"
+    },
+    "what_is_manga_generator": {
+      "question": "AI 만화 생성기란 무엇인가요?",
+      "answer": "AI 만화 생성기는 AI를 사용하여 자동으로 만화를 만들어주는 혁신적인 도구입니다. 아이디어를 입력하고 만화 스타일을 선택하면 AI가 몇 초 안에 만화를 생성합니다! 입력 내용을 바탕으로 그림과 대사를 자동으로 생성하여 창작 과정을 간소화합니다. 소년, 소녀, 청년, 이세계 등 모든 종류의 만화를 만들 수 있습니다."
+    },
+    "what_is_manhwa_generator": {
+      "question": "AI 만화 생성기란 무엇인가요?",
+      "answer": "AI 만화 생성기는 AI를 사용하여 자동으로 만화를 만들어주는 혁신적인 도구입니다. 아이디어를 입력하고 만화 스타일을 선택하면 AI가 몇 초 안에 만화를 생성합니다! 입력 내용을 바탕으로 그림과 대사를 자동으로 생성하여 창작 과정을 간소화합니다. 액션, 로맨스, 코미디, 공포, 이세계 등 모든 종류의 웹툰을 만들 수 있습니다."
+    },
+    "how_to_make_comics": {
+      "question": "AI 만화 생성기로 어떻게 만화를 만들 수 있나요?",
+      "answer": "AI 만화 생성기로 만화를 만드는 것은 매우 쉽습니다! 만화에 대한 아이디어를 입력하기만 하면 AI 만화 생성기가 아이디어를 멋진 만화로 바꿔줍니다. 말풍선도 자동으로 추가하고 만화 칸도 알아서 배치해 줍니다."
+    },
+    "how_it_works": {
+      "question": "AI 만화 생성기는 어떻게 작동하나요?",
+      "answer": "아이디어나 콘셉트를 입력하고 그림 스타일(애니메이션, 만화, 커스텀 스타일)을 선택하면 KomikoAI의 AI가 멋진 만화 스트립을 만들어 줍니다. AI는 입력 내용을 분석하여 각 칸에 대한 그림과 대사를 생성합니다."
+    },
+    "art_styles": {
+      "question": "어떤 그림 스타일을 지원하나요?",
+      "answer": "KomikoAI는 애니메이션, 만화, 미국 코믹스, 커스텀 스타일 등 다양한 스타일을 지원합니다."
+    },
+    "what_comics_can_i_generate": {
+      "question": "AI 만화 생성기로 어떤 종류의 만화를 만들 수 있나요?",
+      "answer": "만화, 웹툰, 코믹스 등 모든 종류의 만화를 만들 수 있습니다. 슈퍼히어로 이야기, 일본 애니메이션, 이세계, 회귀, 소년, 소녀, 청년 등 상상하는 모든 이야기를 만들 수 있습니다! AI 만화 생성기는 아이디어를 현실로 만들어 드립니다."
+    },
+    "commercial_use": {
+      "question": "만든 만화를 상업적으로 사용할 수 있나요?",
+      "answer": "네! KomikoAI로 만든 만화는 서비스 약관에 따라 개인적 또는 상업적 목적으로 사용할 수 있습니다."
+    },
+    "need_drawing_skills": {
+      "question": "AI 만화 생성기를 사용하려면 그림 실력이 있어야 하나요?",
+      "answer": "전혀 그렇지 않습니다! KomikoAI의 AI 만화 생성기는 전문 아티스트부터 초보자까지 누구나 쉽게 사용할 수 있도록 설계되었습니다. 아이디어만 있으면 AI 만화 생성기가 나머지를 알아서 처리합니다."
+    },
+    "for_memes": {
+      "question": "AI 만화 생성기를 밈 제작에 사용할 수 있나요?",
+      "answer": "물론입니다! KomikoAI의 AI 만화 생성기는 재미있는 밈을 만드는 데 아주 적합합니다. '밈' 모드를 선택하고 AI가 작업을 완료하도록 하세요."
+    },
+    "is_free": {
+      "question": "AI 만화 생성기는 무료로 사용할 수 있나요?",
+      "answer": "KomikoAI는 제한된 zap(크레딧)이 제공되는 무료 플랜을 제공합니다. 더 많은 기능과 사용량 제한을 원하시면 유료 플랜을 확인하세요."
+    },
+    "share_online": {
+      "question": "만화를 온라인에 공유할 수 있나요?",
+      "answer": "네, 만화를 다운로드하여 Instagram, Twitter, Facebook 등 소셜 미디어 플랫폼에 공유할 수 있습니다. KomikoAI를 사용하면 밈도 쉽게 만들 수 있습니다."
+    },
+    "custom_art_styles": {
+      "question": "AI 만화 생성기로 나만의 그림 스타일을 만들 수 있나요?",
+      "answer": "네, KomikoAI의 커스텀 모드를 사용하면 자신만의 그림 스타일, 색 구성표, 시각적 디테일을 지정하여 원하는 만화를 만들 수 있습니다."
+    },
+    "title": "자주 묻는 질문들"
+  },
+  "date": {
+    "today": "오늘",
+    "yesterday": "어제"
+  },
+  "examples": {
+    "title": "만화 예시"
+  },
+  "auto_post": "자동 게시물"
+}

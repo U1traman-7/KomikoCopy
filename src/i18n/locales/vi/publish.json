@@ -1,0 +1,86 @@
+{
+  "pageTitle": "Bài đăng | KomikoAI",
+  "shareStory": "Chia sẻ câu chuyện của bạn",
+  "enterStoryTitle": "Nhập tiêu đề cho câu chuyện",
+  "addMoreDescription": "Thêm mô tả chi tiết hơn",
+  "post": "Đăng bài",
+  "pleaseNote": "Lưu ý:",
+  "nsfwWarning": "Vui lòng gắn thẻ tất cả nội dung không phù hợp là \"NSFW\". Bài đăng không dán thẻ có thể bị xóa và vi phạm lặp lại có thể dẫn đến bị cấm. Nội dung bất hợp pháp (bao gồm trẻ vị thành niên) bị nghiêm cấm và sẽ dẫn đến bị cấm vĩnh viễn.",
+  "imageDownloadSuccess": "Tải ảnh thành công! Chia sẻ ngay với bạn bè!",
+  "pleaseEnterTitle": "Vui lòng nhập tiêu đề bài viết",
+  "pleaseCreateStory": "Vui lòng viết câu chuyện của bạn",
+  "failedToPost": "Đăng bài không thành công",
+  "defaultTitles": {
+    "character": "Nhân vật của tôi",
+    "anime": "Ảnh phong cách anime của tôi",
+    "animation": "Hoạt hình của tôi",
+    "creation": "Sáng tạo của tôi"
+  },
+  "addTags": "Thêm thẻ",
+  "tagPlaceholder": "#Nhập thẻ",
+  "tagCount": "Thẻ ({{current}}/{{max}})",
+  "recommendedTags": "Thẻ được đề xuất",
+  "popularTags": "Thẻ thịnh hành",
+  "activity": "Hoạt động",
+  "share": "Chia sẻ",
+  "uploadMedia": "Tải lên phương tiện",
+  "dragDropOrClick": "Kéo và thả tệp vào đây, hoặc nhấp để chọn",
+  "dropFileHere": "Thả tệp vào đây",
+  "uploading": "Đang tải lên",
+  "storyTitle": "Tiêu đề câu chuyện",
+  "description": "Mô tả",
+  "titleLengthWarning": "Tiêu đề đang trở nên dài",
+  "characters": "ký tự",
+  "pleasePublishFirst": "Vui lòng xuất bản nội dung trước khi chia sẻ",
+  "pinPost": "Ghim bài viết này lên đầu bảng tin Xu hướng",
+  "fileUpload": {
+    "title": "Tải lên tập tin",
+    "subtitle": "Kéo và thả tập tin vào đây, hoặc nhấp để chọn",
+    "dropHere": "Thả tập tin vào đây",
+    "supportedFormats": "Định dạng hỗ trợ",
+    "imageFormats": "JPG, PNG, WEBP",
+    "videoFormats": "MP4, MOV, AVI",
+    "maxSize": "Hình ảnh: Tối đa {{size}}MB",
+    "videoMaxSize": "Video: Tối đa {{size}}MB, {{duration}} phút",
+    "processing": "Đang xử lý tập tin...",
+    "uploading": "Đang tải lên...",
+    "success": "Tải lên thành công!",
+    "error": "Tải lên thất bại. Vui lòng thử lại."
+  },
+  "mediaPreview": {
+    "image": "Hình ảnh",
+    "video": "Video",
+    "download": "Tải về",
+    "share": "Chia sẻ",
+    "clear": "Xóa"
+  },
+  "validation": {
+    "titleRequired": "Vui lòng nhập tiêu đề",
+    "contentRequired": "Vui lòng tạo nội dung",
+    "fileRequired": "Vui lòng chọn tập tin",
+    "fileTooLarge": "Tập tin quá lớn. Kích thước tối đa: {{size}}MB",
+    "unsupportedFormat": "Định dạng tập tin không hỗ trợ",
+    "uploadFailed": "Tải lên thất bại. Vui lòng thử lại."
+  },
+  "actions": {
+    "publish": "Xuất bản",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "clear": "Xóa tất cả",
+    "download": "Tải về",
+    "share": "Chia sẻ"
+  },
+  "preppingPost": "Đang chuẩn bị bài đăng của bạn…",
+  "drawer": {
+    "action": {
+      "newPost": "Bài viết mới",
+      "newCharacter": "Nhân vật mới",
+      "generateImage": "Tạo ảnh",
+      "generateVideo": "Tạo video",
+      "generateComic": "Tạo truyện tranh"
+    },
+    "description": {
+      "newPost": "Chia sẻ tác phẩm của bạn với cộng đồng."
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "seo": {
+    "title": "Gerador de Personagens de Videogames",
+    "description": "Crie personagens únicos de videogames com nosso gerador alimentado por IA. Desenhe e visualize suas criações instantaneamente! Comece agora!",
+    "keywords": "Criador de personagens com IA, criador de personagens de fantasia com IA, gerador de personagens de jogos, ferramenta de design de personagens, criação de personagens de videogames"
+  },
+  "placeholderText": "Um personagem do Gerador de Personagens de Videogames com cabelo azul e poderes mágicos",
+  "content": {
+    "header": {
+      "title": "Gerador de Personagens de Videogames",
+      "subtitle": "Crie personagens impressionantes e distintos para seus jogos usando tecnologia de IA avançada."
+    },
+    "sections": {
+      "whatIs": {
+        "title": "O que é o Gerador de Personagens de Videogames?",
+        "description": "O Gerador de Personagens de Videogames é uma poderosa ferramenta baseada em IA para projetar personagens originais (OCs) criados especificamente para o cenário dos jogos. Ele permite que você crie personagens com traços visuais únicos, personalidades detalhadas e histórias de fundo imersivas, tornando-o um recurso perfeito para desenvolvedores de jogos, artistas e escritores. Eleve seu processo de criação de personagens e desperte sua imaginação com nossa plataforma inovadora."
+      },
+      "howToUse": {
+        "title": "Crie Personagens de Videogames em 4 Passos Simples",
+        "subtitle": "Crie personagens sem esforço usando nossa interface intuitiva.",
+        "steps": [
+          {
+            "title": "Passo 1: Descreva Seu Personagem",
+            "content": "Comece descrevendo a aparência do seu personagem — pense na cor do cabelo, estilos de roupa, traços pessoais e habilidades especiais. Descrições mais detalhadas geram melhores criações de IA."
+          },
+          {
+            "title": "Passo 2: Personalize os Recursos do Personagem",
+            "content": "Selecione em uma variedade de opções de personalização: características faciais únicas, roupas e acessórios para diferenciar o design do seu personagem. Misture e combine para criar combinações únicas!"
+          },
+          {
+            "title": "Passo 3: Gere Seu Personagem",
+            "content": "Clique no botão 'Gerar Personagem' e observe enquanto a IA materializa sua ideia! Sinta-se à vontade para ajustar os aspectos até que se alinhe perfeitamente com sua visão."
+          },
+          {
+            "title": "Passo 4: Salve e Aplique",
+            "content": "Escolha o design de personagem ideal e finalize-o. Agora você terá uma criação distinta para incorporar em seus jogos, contos ou qualquer projeto criativo!"
+          }
+        ]
+      },
+      "whyUse": {
+        "title": "Por que Usar o Gerador de Personagens de Videogames?",
+        "subtitle": "Aproveite a tecnologia de IA para criação de personagens incomparável.",
+        "features": [
+          {
+            "title": "🎮 Feito Sob Medida para Jogos",
+            "content": "Crie personagens exclusivamente adequados para ambientes de videogames, garantindo que cada design ressoe com a comunidade de jogos."
+          },
+          {
+            "title": "🚀 Velocidade e Eficiência",
+            "content": "Gere personagens em instantes, liberando você para se concentrar em histórias e jogabilidade envolventes, em vez de design tedioso."
+          },
+          {
+            "title": "🎨 Designs de Alto Calibre",
+            "content": "Beneficie-se de criações de personagens visualmente impressionantes que atendem e excedem os padrões da indústria, com diversidade na estética dos personagens."
+          },
+          {
+            "title": "🌟 Elementos Distintivos de Personagens",
+            "content": "Crie personagens equipados com habilidades únicas e históricos ricos, permitindo experiências de narrativa imersivas para os jogadores."
+          },
+          {
+            "title": "🤝 Interface Amigável",
+            "content": "Projetada para novatos e desenvolvedores profissionais, nossa ferramenta simplifica a criação de personagens, garantindo uma navegação acessível e agradável."
+          },
+          {
+            "title": "🔄 Suporta Diversos Gêneros",
+            "content": "Seja fantasia, ficção científica ou qualquer gênero que você esteja explorando, nosso gerador suporta vários estilos e preferências artísticas."
+          }
+        ]
+      },
+      "examples": {
+        "title": "Explore Exemplos do Gerador de Personagens de Videogames",
+        "description": "Mergulhe em uma galeria que mostra uma variedade de personagens criados por nossa IA! Cada exemplo destaca a criatividade e os designs exclusivos possíveis com nosso Gerador de Personagens de Videogames, inspirando seus próprios conceitos de personagens exclusivos."
+      },
+      "applications": {
+        "title": "Aplicações do Gerador de Personagens de Videogames",
+        "items": [
+          {
+            "title": "Desenvolvimento de Jogos",
+            "content": "Crie personagens exclusivos que aprimoram a narrativa e a experiência do jogador em seu jogo."
+          },
+          {
+            "title": "Contação de Histórias",
+            "content": "Crie personagens memoráveis ​​para romances, quadrinhos ou animações, garantindo históricos envolventes e aparências distintas."
+          },
+          {
+            "title": "Arte Conceitual",
+            "content": "Utilize personagens gerados como pontos de partida para arte conceitual, acelerando seu processo criativo com designs eficazes orientados por IA."
+          },
+          {
+            "title": "RPGs e Jogos de Mesa",
+            "content": "Crie personagens de destaque para RPGs, oferecendo aos jogadores avatares ricos completos com histórias e traços."
+          }
+        ]
+      },
+      "tips": {
+        "title": "Dicas de Especialistas para a Criação de Personagens",
+        "items": [
+          "Combine habilidades e narrativas exclusivas para criar personagens atraentes que ressoem com seu público.",
+          "Use arquétipos como base, mas infunda originalidade para tornar seus personagens emocionantes.",
+          "Use o recurso 'regenerar' livremente para explorar uma variedade de interpretações para seu personagem."
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "O que é o Gerador de Personagens de Videogames e como ele funciona?",
+        "answer": "O Gerador de Personagens de Videogames emprega IA para visualizar designs de personagens com base em suas descrições. Basta inserir as características do seu personagem e ver a arte gerada em segundos."
+      },
+      {
+        "question": "Como posso garantir a singularidade de meus personagens?",
+        "answer": "Incorpore traços, histórias e atributos específicos nas descrições de seus personagens para a IA aproveitar, garantindo uma saída distinta e diversificada."
+      },
+      {
+        "question": "O uso do Gerador de Personagens de Videogames é gratuito?",
+        "answer": "Sim! O Gerador de Personagens de Videogames é totalmente gratuito, permitindo que qualquer pessoa explore e experimente designs de personagens sem custos."
+      },
+      {
+        "question": "Posso usar comercialmente os personagens que crio?",
+        "answer": "Certamente! Você mantém todos os direitos sobre os personagens que cria, perfeito para uso em empreendimentos comerciais."
+      },
+      {
+        "question": "Que gêneros de personagens posso criar?",
+        "answer": "De heróis de fantasia a alienígenas intergalácticos, você pode criar personagens para uma infinidade de gêneros, mostrando uma ampla gama de estilos adaptados a diferentes projetos criativos."
+      }
+    ],
+    "cta": {
+      "title": "Comece a Criar Seus Personagens Únicos de Videogames Hoje",
+      "description": "Transforme suas ideias em personagens extraordinários usando nossa IA. Gere designs exclusivos que levarão seus projetos para o próximo nível. Não hesite — comece a criar seus personagens hoje!",
+      "buttonText": "Criar Personagens de Videogames Grátis"
+    },
+    "examples": [
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/3_portrait-2-3_3627.webp",
+        "alt": "Personagem de videogame gerado por IA Gerador de estilo de retrato 2:3",
+        "prompt": "1girl, purple hair, pink eyes, cheerful demeanor, cute animal companion, casual game clothes, holding a game console, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/4_portrait-2-3_9957.webp",
+        "alt": "Personagem de videogame gerado por IA Gerador de estilo de retrato 2:3",
+        "prompt": "1boy, blonde hair, brown eyes, strategic expression, tactical outfit, holding a map, adventure-ready pose, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/5_portrait-2-3_7877.webp",
+        "alt": "Personagem de videogame gerado por IA Gerador de estilo de retrato 2:3",
+        "prompt": "1girl, teal hair, amber eyes, mischievous grin, magical girl attire, casting a spell, whimsical pose, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/6_portrait-2-3_8875.webp",
+        "alt": "Personagem de videogame gerado por IA Gerador de estilo de retrato 2:3",
+        "prompt": "1boy, red hair, blue eyes, serious look, battle armor, wielding a lance, ready for combat, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/7_portrait-2-3_1429.webp",
+        "alt": "Personagem de videogame gerado por IA Gerador de estilo de retrato 2:3",
+        "prompt": "1girl, black hair, violet eyes, enigmatic expression, rogue outfit, dual daggers, stealthy pose, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/2_portrait-2-3_3729.webp",
+        "alt": "Personagem de videogame gerado por IA Gerador de estilo de retrato 2:3",
+        "prompt": "1boy, spiky red hair, silver eyes, confident grin, cybernetic outfit, dual pistols, action stance, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/5_portrait-2-3_3143.webp",
+        "alt": "Personagem de videogame gerado por IA Gerador de estilo de retrato 2:3",
+        "prompt": "1girl, wild pink hair, violet eyes, mischievous smirk, steampunk explorer outfit, goggles on head, gear-shaped backpack, adventurous pose, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      },
+      {
+        "image": "/images/examples/oc-maker/video-game-character-generator/8_portrait-2-3_6891.webp",
+        "alt": "Personagem de videogame gerado por IA Gerador de estilo de retrato 2:3",
+        "prompt": "1boy, messy brown hair, green eyes, determined look, post-apocalyptic survival gear, makeshift crossbow, survivalist pose, single character, full body, looking at viewer, anime style, simple background, white background, best quality, masterpiece",
+        "ratio": "portrait-2-3"
+      }
+    ]
+  },
+  "originalKeyword": "Video Game Character Generator"
+}

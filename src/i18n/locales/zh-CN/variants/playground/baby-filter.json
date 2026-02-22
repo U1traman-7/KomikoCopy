@@ -1,0 +1,14 @@
+{
+  "examples": [
+    {
+      "input": "https://d31cygw67xifd4.cloudfront.net/examples/playground/input/man-photo.webp",
+      "output": "https://d31cygw67xifd4.cloudfront.net/examples/playground/output/baby/baby-man.webp",
+      "style": "婴儿"
+    },
+    {
+      "input": "https://d31cygw67xifd4.cloudfront.net/examples/playground/input/woman-photo.webp",
+      "output": "https://d31cygw67xifd4.cloudfront.net/examples/playground/output/baby/baby-woman.webp",
+      "style": "婴儿"
+    }
+  ]
+}

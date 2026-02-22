@@ -1,0 +1,113 @@
+{
+  "seo": {
+    "meta": {
+      "title": "AI Style Transfer",
+      "description": "Transform your images into unique artwork instantly with our AI Style Transfer tool. Create stunning art today! Try it for free.",
+      "keywords": "AI style transfer, AI art generator, photo to art, artistic photo transformation, AI image enhancement"
+    },
+    "hero": {
+      "title": "AI Style Transfer"
+    },
+    "whatIs": {
+      "title": "What is AI Style Transfer?",
+      "description": "AI Style Transfer leverages advanced machine learning to analyze your photos and apply a variety of artistic styles. From classic oil paintings to vibrant digital art, watch your images evolve into striking artistic renditions customized to your vision and taste."
+    },
+    "examples": {
+      "title": "AI Style Transfer Examples",
+      "description": ""
+    },
+    "howToUse": {
+      "title": "How to Use AI Style Transfer",
+      "steps": [
+        {
+          "title": "Step 1: Upload Your Photo",
+          "content": "Choose a high-resolution photo you'd like to transform. Click the upload button to select an image from your device."
+        },
+        {
+          "title": "Step 2: Select an Artistic Style",
+          "content": "Browse through an expansive gallery of AI-generated artistic styles, from impressionism to modern vectors. Pick one that resonates with your artistic vision."
+        },
+        {
+          "title": "Step 3: Generate Your Artwork",
+          "content": "Click the 'Transform' button and watch your photo being transformed in real time in a matter of moments!"
+        },
+        {
+          "title": "Step 4: Download and Share",
+          "content": "Post your newly styled artwork online, share it with loved ones or utilize it in your projects. Download your masterpiece with a single click."
+        }
+      ],
+      "subtitle": "A simple guide to transforming your images seamlessly."
+    },
+    "benefits": {
+      "title": "Why Use AI Style Transfer?",
+      "description": "Explore the unique advantages of artistic transformation.",
+      "features": [
+        {
+          "title": "🎨 Diverse Artistic Styles",
+          "content": "Choose from a curated selection of artistic styles, ensuring a personal touch to each transformation."
+        },
+        {
+          "title": "⚡ Fast and User-Friendly",
+          "content": "Experience swift transformations with an interface designed for users of all skill levels."
+        },
+        {
+          "title": "🖼️ High-Resolution Outputs",
+          "content": "Maintain the quality of your originals with premium output that’s perfect for printing."
+        },
+        {
+          "title": "💫 Unleash Your Creativity",
+          "content": "Encourage artistic exploration and push the boundaries of your photography."
+        },
+        {
+          "title": "🎯 Seamless Accessibility",
+          "content": "Create art from anywhere with internet access — perfect for spontaneous creativity."
+        }
+      ]
+    },
+    "faq": {
+      "title": "AI Style Transfer FAQ",
+      "description": "",
+      "q1": "What is AI Style Transfer and how does it operate?",
+      "a1": "AI Style Transfer employs sophisticated algorithms to analyze your photos and apply artistic characteristics, merging the two to create a new art piece echoing chosen styles.",
+      "q2": "How can I achieve the best results using AI Style Transfer?",
+      "a2": "For optimum results, use images with clear focal points and experiment with different styles to find your ideal aesthetic.",
+      "q3": "Is using AI Style Transfer free?",
+      "a3": "Yes, our basic features are free! Explore premium options for advanced styles.",
+      "q4": "What makes AI Style Transfer stand out from filters?",
+      "a4": "AI Style Transfer utilizes deep learning to recreate nuanced artistic styles, offering uniqueness and depth beyond just color filters.",
+      "q5": "Can I commercialize my AI Style Transfer creations?",
+      "a5": "Yes, transformed images can be used commercially, though we recommend reviewing our terms regarding derivative works."
+    },
+    "cta": {
+      "title": "Create Your AI Style Transfer Artwork Today",
+      "description": "Dive into a world of creativity and transform your photos into stunning works of art with our AI Style Transfer tool. Begin your artistic journey now!",
+      "buttonText": "Try AI Style Transfer Free"
+    }
+  },
+  "config": {},
+  "placeholderText": "Transform your photo into a unique AI artwork",
+  "originalKeyword": "AI Style Transfer",
+  "defaultStyle": "anime",
+  "examples": [
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_1.webp",
+      "prompt": "Style: Korean Manhwa",
+      "input": "/images/examples/photo-to-anime/input2.jpg"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_2.webp",
+      "prompt": "Style: Anime",
+      "input": "/images/examples/photo-to-anime/black_guy_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_3.webp",
+      "prompt": "Style: Line Art",
+      "input": "/images/examples/photo-to-anime/cat_photo.webp"
+    },
+    {
+      "image": "/images/examples/playground/ai-style-transfer/example_4.webp",
+      "prompt": "Style: Cyberpunk",
+      "input": "/images/examples/photo-to-anime/dog_photo.webp"
+    }
+  ]
+}

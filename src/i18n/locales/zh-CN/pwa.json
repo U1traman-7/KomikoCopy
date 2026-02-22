@@ -1,0 +1,17 @@
+{
+  "install": {
+    "title": "安装 KomikoAI",
+    "description": "添加到主屏幕以获得更好的体验",
+    "instruction": "点击分享然后选择添加到主屏幕",
+    "install_button": "安装",
+    "android_instruction": "请点击上方的安装按钮进行安装",
+    "dismiss": "稍后",
+    "step1": "点击分享按钮",
+    "step2": "选择\"添加到主屏幕\"",
+    "android_step1": "点击浏览器菜单 (⋮)",
+    "android_step2": "选择“添加到主屏幕”",
+    "android_note": "您可以更快捷地从主屏幕访问KomikoAI！",
+    "ios_note": "您可以更快捷地从主屏幕访问KomikoAI！",
+    "got_it": "明白了！"
+  }
+}

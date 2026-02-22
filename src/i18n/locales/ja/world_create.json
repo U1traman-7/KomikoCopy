@@ -1,0 +1,23 @@
+{
+  "pageTitle": "ワールド作成 | KomikoAI",
+  "createWorld": "ワールドを作成する",
+  "coverImage": "カバー画像",
+  "uploadCoverImage": "カバー画像をアップロード",
+  "worldName": "ワールド名",
+  "introduction": "概要（{{length}}/250文字）",
+  "introductionPlaceholder": "物語の概要を記述してください。プレイヤーとキャラクターを待ち受ける冒険とは？ キャラクターを指す場合は「{character}」を使用します。",
+  "storyline": "ストーリー（{{length}}/5000文字）",
+  "storylinePlaceholder": "ストーリーを詳細に記述してください。キャラクターを指す場合は「{character}」、プレイヤーを指す場合は「player」を使用します。",
+  "winningCondition": "勝利条件（{{length}}/250文字）",
+  "winningConditionPlaceholder": "ゲームの勝利条件を記述してください。",
+  "rules": "ルール（{{length}}/5000文字）",
+  "rulesPlaceholder": "ゲームのルールを定義します。 例：「プレイヤーは{character}として行動する」、「{character}はプレイヤーを「旅人」と呼ぶ」、「{character}からのすべての行は(狂気: X)で始まり、Xは最初は100に設定される」、など。",
+  "createWorldButton": "ワールドを作成",
+  "pleaseNote": "ご注意:",
+  "nsfwWarning": "KomikoAIコミュニティでは、露骨なコンテンツは固く禁じられています。違反した場合、コンテンツは即座に削除され、プラットフォームからの永久追放につながる可能性があります。皆様が快適に利用できる安全な空間を維持するために、ご協力をお願いいたします。🤗",
+  "errorWorldName": "ワールド名を入力してください",
+  "errorIntroduction": "概要を入力してください",
+  "errorStoryline": "ストーリーを入力してください",
+  "errorCoverImage": "カバー画像をアップロードしてください",
+  "errorNSFW": "KomikoAIコミュニティでは、露骨な成人向けコンテンツは固く禁じられています。皆様が快適に利用できる安全な空間を維持するために、ご協力をお願いいたします。"
+}

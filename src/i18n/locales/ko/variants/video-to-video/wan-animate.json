@@ -1,0 +1,176 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan Animate",
+      "description": "Wan Animate로 캐릭터를 생생하게 애니메이션화하고, 영상 속 피사체를 감쪽같이 바꿔보세요. 뛰어난 캐릭터 모션 전송, 자연스러운 환경 통합으로 순식간에 완벽한 캐릭터 애니메이션을 구현할 수 있습니다.",
+      "keywords": "Wan Animate, AI 캐릭터 애니메이션, 캐릭터 교체, 모션 전송, 캐릭터 애니메이터, AI 비디오 캐릭터, 애니메이션 캐릭터 생성기, 캐릭터 모션 캡처, 비디오 캐릭터 스왑, AI 캐릭터 제작자, 캐릭터 비디오 합성, 모션 복제, 캐릭터 애니메이션 도구, AI 캐릭터 교체"
+    },
+    "hero": {
+      "title": "Wan Animate"
+    },
+    "whatIs": {
+      "title": "Wan Animate란?",
+      "description": "Wan Animate는 정지된 캐릭터 이미지를 역동적인 비디오 애니메이션으로 바꿔주는 혁신적인 캐릭터 애니메이션 및 교체 도구입니다. 공간적으로 정렬된 스켈레톤 신호와 내재된 얼굴 특징을 활용하여, 원본 비디오의 표정과 움직임을 정확하게 모방해 고품질 캐릭터 애니메이션을 만들어냅니다. 이 강력한 캐릭터 애니메이터는 캐릭터를 독립적으로 애니메이션화할 뿐만 아니라, 주변 환경의 조명과 색감까지 그대로 유지하며 영상 속 기존 캐릭터를 완벽하게 교체할 수 있습니다. 최첨단 모션 전송 기술을 기반으로 구축된 Wan Animate는 누구나 손쉽게 캐릭터 모션을 캡처하고, 전문가 수준의 실감 나는 캐릭터 애니메이션 합성을 가능하게 합니다.",
+      "media": [
+        {
+          "caption": "Wan-Animate는 배우의 영상을 기반으로 모든 캐릭터를 애니메이션화하여, 배우의 표정과 움직임을 완벽하게 재현하여 매우 사실적인 캐릭터 영상을 만들어냅니다.",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/%E8%A7%92%E8%89%B2%E5%90%88%E9%9B%86_%E5%B8%A6%E5%8E%9F%E5%9E%8B.mp4",
+          "type": "video"
+        },
+        {
+          "caption": "Wan-Animate는 영상 속 캐릭터를 애니메이션 캐릭터로 교체할 수 있으며, 원본 조명과 색감을 그대로 살려 완벽한 환경 통합을 제공하면서도 표정과 움직임은 그대로 보존합니다.",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/rep_shots.mp4",
+          "type": "video"
+        },
+        {
+          "title": "Method",
+          "caption": "Wan-I2V를 기반으로 구축된 Wan-Animate 개요입니다. 입력 공식을 수정하여 공통 기호 표현 하에서 참조 이미지 입력, 시간 프레임 안내 및 환경 정보 (이중 모드 호환성)를 통합합니다. 신체 모션 제어의 경우 공간 정렬을 통해 병합되는 스켈레톤 신호를 사용합니다. 얼굴 표정 제어의 경우 얼굴 이미지에서 추출한 암시적 특징을 구동 신호로 활용합니다. 또한 캐릭터 교체의 경우 보조 Relighting LoRA를 훈련하여 캐릭터와 새로운 환경의 통합을 향상시킵니다.",
+          "source": "https://humanaigc.github.io/wan-animate/content/aa/arch.png",
+          "type": "image"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Wan Animate 사용 예시",
+      "description": "Wan Animate의 모션 전송 기술이 캐릭터 애니메이션을 어떻게 혁신하는지, 정적인 이미지에서 완벽한 캐릭터 교체와 생동감 넘치는 애니메이션을 만드는 방법을 확인해 보세요."
+    },
+    "howToUse": {
+      "title": "Wan Animate 사용법",
+      "steps": [
+        {
+          "title": "캐릭터 이미지 및 참조 비디오 업로드",
+          "content": "Wan Animate 처리를 위해 최대 15초, 50MB 이하의 캐릭터 이미지와 참조 비디오(MP4, MOV, AVI)를 업로드하세요. 15초가 넘는 비디오는 최적의 캐릭터 애니메이션 생성을 위해 자동으로 잘립니다."
+        },
+        {
+          "title": "캐릭터 애니메이션 참조 프레임 지정",
+          "content": "Wan Animate는 비디오에서 첫 번째 프레임을 추출하고 캐릭터 교체를 적용하여, 비디오 시퀀스 전체에서 일관된 캐릭터 애니메이션 전송을 위한 참조 가이드를 생성합니다."
+        },
+        {
+          "title": "캐릭터 애니메이션 모드 선택",
+          "content": "캐릭터 애니메이션 템플릿, 사용자 지정 애니메이션 프롬프트, 또는 참조 캐릭터 이미지 업로드 중에서 선택하세요. Wan Animate 처리를 위해 독립 실행형 캐릭터 애니메이션 또는 캐릭터 교체 모드를 선택합니다."
+        },
+        {
+          "title": "캐릭터 애니메이션 비디오 생성",
+          "content": "Wan Animate는 고급 캐릭터 애니메이션 기술을 통해 원본 모션, 표정 및 타이밍을 그대로 유지하면서 캐릭터 참조 프레임을 사용하여 전체 비디오를 변환합니다."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Wan Animate를 선택해야 하는 이유",
+      "description": "Wan Animate는 모션 보존, 환경 통합, 전문가 수준의 캐릭터 합성을 통해 최첨단 캐릭터 애니메이션 및 교체 기능을 제공합니다.",
+      "features": [
+        {
+          "title": "뛰어난 모션 전송 기술",
+          "content": "Wan Animate는 공간적으로 정렬된 스켈레톤 신호와 내재된 얼굴 특징을 활용하여 정확한 캐릭터 모션 복제를 구현하여 자연스러운 움직임과 표정 전송을 보장합니다.",
+          "icon": "🎭"
+        },
+        {
+          "title": "다재다능한 애니메이션 모드",
+          "content": "캐릭터 애니메이션 모드는 독립 실행형 애니메이션 캐릭터를 만들고, 교체 모드는 Wan Animate의 뛰어난 환경 적응 기능을 활용하여 기존 비디오에 캐릭터를 완벽하게 통합합니다.",
+          "icon": "🔄"
+        },
+        {
+          "title": "완벽한 환경 통합",
+          "content": "Wan Animate는 완벽한 비디오 통합을 위해 장면 조명 및 색감에 맞춰 캐릭터 외형을 조정하는 고급 Relighting LoRA 기술을 적용했습니다.",
+          "icon": "💡"
+        },
+        {
+          "title": "고품질 캐릭터 합성",
+          "content": "Wan Animate의 고급 알고리즘을 통해 정확한 모션 캡처, 부드러운 전환, 일관된 환경 조명으로 전문가 수준의 캐릭터 애니메이션을 만들 수 있습니다.",
+          "icon": "✨"
+        },
+        {
+          "title": "직관적인 캐릭터 애니메이션 워크플로",
+          "content": "단 두 단계의 간단한 입력 프로세스: 캐릭터 이미지와 참조 비디오를 업로드하면 Wan Animate가 복잡한 모션 분석, 스켈레톤 매핑, 캐릭터 합성을 자동으로 처리합니다.",
+          "icon": "⚡"
+        },
+        {
+          "title": "자유로운 캐릭터 애니메이션 제어",
+          "content": "Wan Animate의 고급 모션 전송 시스템을 통해 캐릭터 표정과 움직임을 완벽하게 제어하여 정확한 캐릭터 애니메이션 맞춤 설정 및 개선이 가능합니다.",
+          "icon": "🎮"
+        }
+      ]
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "description": "Wan Animate 캐릭터 애니메이션 및 교체 기능, 프로세스 및 모범 사례에 대한 일반적인 질문에 대한 답변입니다.",
+      "q1": "Wan Animate란 무엇인가요?",
+      "a1": "Wan Animate는 모션 전송 기술을 사용하여 정적인 캐릭터 이미지를 역동적인 비디오 애니메이션으로 변환하는 고급 캐릭터 애니메이션 및 교체 도구입니다. 환경 조명 통합을 유지하면서 참조 비디오의 표정과 움직임을 정확하게 모방합니다.",
+      "q2": "Wan Animate는 어떻게 사용하나요?",
+      "a2": "Wan Animate 사용법은 매우 간단합니다! 먼저 캐릭터 이미지와 참조 비디오를 업로드한 다음, 애니메이션 또는 교체 모드를 선택하고 캐릭터 애니메이션을 생성하세요. 이 도구는 전문가 수준의 결과물을 위해 모션 분석, 스켈레톤 매핑, 캐릭터 합성을 자동으로 처리합니다.",
+      "q3": "Wan Animate는 어떤 원리로 작동하나요?",
+      "a3": "Wan Animate는 공간적으로 정렬된 스켈레톤 신호와 내재된 얼굴 특징을 사용하여 참조 비디오를 분석합니다. 고급 모션 전송 기술을 통해 모션 패턴을 추출하고 캐릭터 이미지에 적용하여 환경 통합과 완벽한 캐릭터 애니메이션을 만들어냅니다.",
+      "q4": "최고의 AI 캐릭터 애니메이션 도구는 무엇인가요?",
+      "a4": "KomikoAI는 최고의 캐릭터 애니메이션 도구를 제공합니다. 저희의 목표는 전문가 수준의 결과물, 강력하고 재미있는 사용자 정의 기능, 직관적인 워크플로를 제공하여 최고의 AI 제작 플랫폼이 되는 것입니다. KomikoAI의 Wan Animate를 사용하면 놀라운 캐릭터 애니메이션과 교체 효과를 만들 수 있으므로 콘텐츠 제작자, 영화 제작자, 디지털 아티스트에게 완벽한 도구입니다.",
+      "q5": "KomikoAI Wan Animate는 온라인에서 무료로 사용할 수 있나요?",
+      "a5": "네, KomikoAI에서 Wan Animate를 무료로 체험해 볼 수 있습니다. 가입할 필요도 없습니다. 지금 바로 캐릭터 애니메이션 도구를 사용해 보세요!",
+      "q6": "Wan Animate로 무엇을 할 수 있나요?",
+      "a6": "KomikoAI의 Wan Animate를 사용하여 소셜 미디어용 캐릭터 애니메이션을 만들고, 비디오에서 캐릭터를 교체하고, 정적인 캐릭터 이미지를 애니메이션화하고, 모션 전송 효과를 생성하고, 마케팅, 엔터테인먼트, 창의적인 프로젝트를 위한 전문적인 캐릭터 콘텐츠를 제작할 수 있습니다.",
+      "q7": "휴대폰에서도 Wan Animate를 사용할 수 있나요?",
+      "a7": "네, 스마트폰과 컴퓨터를 포함한 다양한 기기에서 Wan Animate를 웹 앱으로 사용할 수 있어 누구나 편리하게 사용할 수 있습니다.",
+      "q8": "Wan Animate로 만든 결과물을 다운로드할 수 있나요?",
+      "a8": "네, KomikoAI의 Wan Animate를 사용하면 공유 및 배포를 위해 MP4, MOV, AVI와 같은 다양한 형식으로 결과물을 내보낼 수 있습니다.",
+      "q9": "Wan Animate를 사용해야 하는 이유는 무엇인가요?",
+      "a9": "Wan Animate를 사용하면 고급 모션 전송 기술로 캐릭터 애니메이션 워크플로를 혁신할 수 있습니다. 이 도구를 사용하면 환경 통합과 일관된 조명 보존을 통해 전문적인 캐릭터 애니메이션, 완벽한 캐릭터 교체, 역동적인 모션 캡처 효과를 만들 수 있습니다."
+    },
+    "cta": {
+      "title": "지금 Wan Animate로 무료로 캐릭터 애니메이션을 만들어 보세요!",
+      "description": "정적인 캐릭터를 역동적인 애니메이션으로 변환하고, 고급 모션 전송 기술로 영상 속 피사체를 손쉽게 바꿔보세요.",
+      "buttonText": "Wan Animate 무료로 사용해 보기"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/res921.mp4",
+      "description": "생생한 인간 애니메이션"
+    },
+    {
+      "id": 2,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/res2.mp4",
+      "description": "다양한 캐릭터 애니메이션에 적용 가능"
+    },
+    {
+      "id": 3,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/act/resfull1.mp4",
+      "description": "역동적인 움직임과 카메라 워크"
+    },
+    {
+      "id": 4,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/rep/rep2.mp4",
+      "description": "일관적인 조명 및 색감 재현"
+    },
+    {
+      "id": 5,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/rep/rep6.mp4",
+      "description": "완벽한 환경 통합을 통한 캐릭터 교체"
+    },
+    {
+      "id": 6,
+      "layout": "single",
+      "type": "video",
+      "output": "https://humanaigc.github.io/wan-animate/content/aa/com/comp1.mp4",
+      "description": "정성적 비교 분석"
+    }
+  ],
+  "originalKeyword": "Wan Animate",
+  "pageStructure": [
+    "whatIs",
+    "examples",
+    "howToUse",
+    "whyUse",
+    "moreAITools",
+    "faq",
+    "cta"
+  ]
+}

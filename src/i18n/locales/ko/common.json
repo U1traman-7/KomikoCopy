@@ -1,0 +1,1637 @@
+{
+  "copyright": "Copyright © {{currentYear}} Caffelabs. All rights reserved.",
+  "dashboard": {
+    "main_nav_documentation": "문서",
+    "main_nav_support": "지원",
+    "sidebar_nav_clusters": "클러스터",
+    "sidebar_nav_billing": "결제",
+    "sidebar_nav_settings": "설정",
+    "title_text": "클러스터를 생성하고 관리하세요."
+  },
+  "marketing": {
+    "introducing": "Saasfly를 소개합니다",
+    "get_started": "시작하기",
+    "price_features": "경제적인 프로덕션 환경.",
+    "main_nav_features": "기능",
+    "main_nav_pricing": "가격",
+    "main_nav_create_comics": "플레이그라운드",
+    "main_nav_products": "제품",
+    "main_nav_blog": "블로그",
+    "main_nav_partners": "파트너",
+    "main_nav_documentation": "문서",
+    "login": "로그인",
+    "signup": "가입"
+  },
+  "price": {
+    "title": "합리적이고 투명한 가격!",
+    "pricing": "가격",
+    "slogan": "빠르게 시작하세요!",
+    "monthly_bill": "월간 결제",
+    "annual_bill": "연간 결제",
+    "annual_info": "연간 결제 시 청구됩니다",
+    "monthly_info": "월간 결제 시",
+    "mo": "/월",
+    "contact": "지원팀에 문의",
+    "contact_2": "구독을 체험해 보세요. 요금은 부과되지 않습니다.",
+    "faq": "자주 묻는 질문",
+    "faq_detail": "자주 묻는 질문에서 일반적인 질문에 대한 답변을 빠르게 찾아보세요. 추가적인 도움이 필요하시면 언제든지 문의해 주세요.",
+    "signup": "가입",
+    "upgrade": "업그레이드",
+    "manage_subscription": "구독 관리",
+    "go_to_dashboard": "대시보드로 이동"
+  },
+  "nav": {
+    "features": "기능",
+    "ai_comic_generator": "AI 만화 생성기",
+    "pricing": "가격",
+    "faq": "FAQ",
+    "blog": "블로그",
+    "partners": "파트너",
+    "menu": "메뉴",
+    "ai_anime_generator": "AI 애니메이션 생성기",
+    "anigen_competition": "애니젠 대회",
+    "video_to_video": "비디오에서 비디오로 AI",
+    "layer_splitter": "레이어 분할",
+    "ai-talking-head": "AI 토킹 헤드",
+    "professional_artists": "아티스트를 위한",
+    "oc_maker": "OC 메이커",
+    "playground": "이미지 플레이그라운드",
+    "ai_expression_changer": "AI 표현 변경 도구"
+  },
+  "footer": {
+    "pricing": "가격",
+    "ai_comic_generator": "AI 만화 생성기",
+    "logo_alt": "KomikoAI AI 로고",
+    "twitter_aria": "Twitter",
+    "twitter_alt": "Twitter",
+    "tiktok_aria": "TikTok",
+    "tiktok_alt": "TikTok",
+    "ai_tools": "AI 도구",
+    "description": "당신의 캐릭터를 만들고 팬덤을 점화하세요 — 모두 KomikoAI에서.",
+    "ai_models": "AI 모델",
+    "all_tools": "모든 도구",
+    "comic_tools": "만화 도구",
+    "illustration_tools": "일러스트 도구",
+    "animation_tools": "애니메이션 도구",
+    "learn_more": "자세히 알아보기",
+    "terms": "이용약관",
+    "privacy": "개인정보 처리방침",
+    "languages": "언어",
+    "carbon_removal": "탄소 제거",
+    "blog": "블로그",
+    "partners": "파트너",
+    "claim_site": "KomikoAI는 Story Engine Inc.의 독립 제품입니다. NHN comico Corp. 또는 NHN comico KOREA Corp.와 관련이 없습니다."
+  },
+  "layer_options": {
+    "send_to_back": "맨 뒤로 보내기",
+    "send_backward": "뒤로 보내기",
+    "send_forward": "앞으로 보내기",
+    "send_to_front": "맨 앞으로 보내기"
+  },
+  "ai_tools": {
+    "comic_generation": {
+      "title": "만화, 코믹, 웹툰 생성",
+      "create_character": {
+        "title": "OC 생성기",
+        "content": "스토리텔링을 위한 독창적인 캐릭터를 디자인하세요."
+      },
+      "create_on_canvas": {
+        "title": "코믹스 캔버스",
+        "content": "빈 캔버스에서 만화를 처음부터 만들어보세요."
+      },
+      "ai_comic_generator": {
+        "title": "AI 만화 생성기",
+        "content": "아이디어를 입력하면 몇 초 만에 만화가 생성됩니다."
+      },
+      "ai_comic_factory": {
+        "title": "AI 코믹 팩토리"
+      },
+      "ai_manga_maker": {
+        "title": "AI 만화 메이커"
+      },
+      "ai_manhwa_generator": {
+        "title": "AI 만화 생성기"
+      },
+      "ai_manga_generator": {
+        "title": "AI 만화 생성기"
+      },
+      "ai_comic_strip_generator": {
+        "title": "AI 만화 스트립 생성기"
+      },
+      "ai_comic_book_generator": {
+        "title": "AI 만화책 생성기"
+      },
+      "ai_comic_maker": {
+        "title": "AI 만화 메이커"
+      },
+      "ai_storyboard_generator": {
+        "title": "AI 스토리보드 생성기"
+      },
+      "free_ai_comic_strip_maker": {
+        "title": "무료 AI 만화 스트립 메이커"
+      },
+      "nsfw_ai_comic_generator": {
+        "title": "NSFW AI 만화 생성기"
+      },
+      "ai_marvel_comic_generator": {
+        "title": "AI 마블 만화 생성기"
+      },
+      "batman_comic_ai_generator": {
+        "title": "배트맨 만화 AI 생성기"
+      },
+      "dc_comic_ai_generator": {
+        "title": "DC 만화 AI 생성기"
+      },
+      "ai_porn_comic_generator": {
+        "title": "AI 포르노 만화 생성기"
+      },
+      "ai_erotic_comic_generator": {
+        "title": "AI 에로 만화 생성기"
+      },
+      "boomer_comic_ai_generator": {
+        "title": "부머 만화 AI 생성기"
+      },
+      "anime_manga_ai_generator": {
+        "title": "애니메이션 만화 AI 생성기"
+      },
+      "ai_webtoon_generator": {
+        "title": "AI 웹툰 생성기"
+      }
+    },
+    "illustration": {
+      "title": "아트, 일러스트레이션 및 스토리보드 지원",
+      "line_art_colorization": {
+        "title": "선화 채색",
+        "content": "라인 아트 및 스케치에 색상을 추가하십시오."
+      },
+      "background_removal": {
+        "title": "배경 제거",
+        "content": "AI로 이미지에서 배경을 제거하세요."
+      },
+      "image_upscaling": {
+        "title": "이미지 업스케일링",
+        "content": "AI로 이미지 해상도를 높여보세요."
+      },
+      "image_relighting": {
+        "title": "이미지 재조명",
+        "content": "AI로 이미지의 조명을 바꿔보세요."
+      },
+      "photo_to_anime": {
+        "title": "사진을 애니메이션으로",
+        "content": "사진을 애니메이션 및 다른 스타일로 변환해 보세요."
+      },
+      "ai_playground": {
+        "title": "이미지 플레이그라운드",
+        "content": "사진을 애니메이션, 만화, 카툰 및 30개 이상의 다른 예술 스타일로 변환합니다."
+      },
+      "frame_pack_ai_video_generator": {
+        "title": "프레임팩 AI 비디오 생성기"
+      },
+      "vidu_ai_video_generator": {
+        "title": "Vidu Q1 동영상 생성기"
+      },
+      "magi_1_video_generator": {
+        "title": "Magi-1 동영상 생성기"
+      },
+      "ai-anime-generator": {
+        "title": "AI 애니메이션 생성기"
+      },
+      "ai_anime_generator": {
+        "title": "AI 아트 생성기",
+        "content": "캐릭터가 포함된 애니메이션 스타일의 이미지를 만들어보세요."
+      },
+      "sketch_simplification": {
+        "content": "거친 스케치를 깔끔한 라인 아트로 변환하세요.",
+        "title": "스케치 간소화"
+      },
+      "veo3_video_generator": {
+        "title": "Veo3 AI 비디오 제작기"
+      },
+      "ai_waifu_generator": {
+        "title": "AI 와이푸 생성기"
+      },
+      "ai_naruto_generator": {
+        "title": "AI 나루토 생성기"
+      },
+      "random_genshin_character_generator": {
+        "title": "랜덤 원신 캐릭터 생성기"
+      },
+      "dragon_ball_ai_generator": {
+        "title": "드래곤볼 AI 생성기"
+      },
+      "pokemon_ai_generator": {
+        "title": "포켓몬 AI 생성기"
+      },
+      "ai_genshin_impact_generator": {
+        "title": "AI 원신 임팩트 생성기"
+      },
+      "one_piece_ai_generator": {
+        "title": "원피스 AI 생성기"
+      },
+      "demon_slayer_ai_generator": {
+        "title": "귀멸의 칼날 AI 생성기"
+      },
+      "attack_on_titan_ai_generator": {
+        "title": "진격의 거인 AI 생성기"
+      },
+      "jujutsu_kaisen_ai_generator": {
+        "title": "주술회전 AI 생성기"
+      },
+      "my_hero_academia_ai_generator": {
+        "title": "나의 히어로 아카데미아 AI 생성기"
+      },
+      "spy_x_family_ai_generator": {
+        "title": "스파이 패밀리 AI 생성기"
+      },
+      "league_of_legends_ai_generator": {
+        "title": "리그 오브 레전드 AI 생성기"
+      },
+      "ai_disney_pixar_generator": {
+        "title": "AI 디즈니 픽사 생성기"
+      },
+      "marvel_ai_generator": {
+        "title": "마블 AI 생성기"
+      },
+      "sonic_ai_generator": {
+        "title": "소닉 AI 생성기"
+      },
+      "ai_spiderman_generator": {
+        "title": "AI 스파이더맨 생성기"
+      },
+      "anime_ai_generator": {
+        "title": "애니메 AI 생성기"
+      },
+      "anime_art_ai_generator": {
+        "title": "애니메이션 아트 AI 생성기"
+      },
+      "studio_ghibli_style_ai_image_generator": {
+        "title": "스튜디오 지브리 스타일 AI 이미지 생성기"
+      },
+      "female_character_generator": {
+        "title": "여성 캐릭터 생성기"
+      },
+      "superhero_ai_generator": {
+        "title": "슈퍼히어로 AI 생성기"
+      },
+      "villain_maker": {
+        "title": "악당 메이커"
+      },
+      "villain_generator": {
+        "title": "악당 생성기"
+      },
+      "fantasy_character_ai_generator": {
+        "title": "판타지 캐릭터 AI 생성기"
+      },
+      "tim_burton_character_maker": {
+        "title": "팀 버튼 캐릭터 메이커"
+      },
+      "dbz_ai_generator": {
+        "title": "DBZ AI 생성기"
+      },
+      "ai_elf_generator": {
+        "title": "AI 엘프 생성기"
+      },
+      "ai_princess_generator": {
+        "title": "AI 공주 생성기"
+      },
+      "ai_vampire_generator": {
+        "title": "AI 뱀파이어 생성기"
+      },
+      "ai_pirate_generator": {
+        "title": "AI 해적 생성기"
+      },
+      "ai_couple_generator": {
+        "title": "AI 커플 생성기"
+      },
+      "chibi_creator": {
+        "title": "치비 크리에이터"
+      },
+      "chibi_ai_generator": {
+        "title": "치비 AI 생성기"
+      },
+      "ai_character_generator_from_text": {
+        "title": "AI 텍스트에서 캐릭터 생성기"
+      },
+      "video_game_character_generator": {
+        "title": "비디오 게임 캐릭터 생성기"
+      },
+      "ai_fantasy_art_generator": {
+        "title": "AI 판타지 아트 생성기"
+      },
+      "ai_world_generator": {
+        "title": "AI 세계 생성기"
+      },
+      "ai_landscape_generator": {
+        "title": "AI 풍경 생성기"
+      },
+      "ai_map_generator": {
+        "title": "AI 지도 생성기"
+      },
+      "ai_village_generator": {
+        "title": "AI 마을 생성기"
+      },
+      "ai_mansion_builder": {
+        "title": "AI 맨션 빌더"
+      },
+      "ai_castle_generator": {
+        "title": "AI 성 생성기"
+      },
+      "fantasy_island_generator": {
+        "title": "판타지 섬 생성기"
+      },
+      "city_map_maker": {
+        "title": "도시 지도 메이커"
+      },
+      "ai_skybox_generator": {
+        "title": "AI 스카이박스 생성기"
+      },
+      "pop_art_creator": {
+        "title": "팝 아트 크리에이터"
+      },
+      "pop_art_generator": {
+        "title": "팝 아트 생성기"
+      },
+      "ai_watercolor_generator": {
+        "title": "AI 수채화 생성기"
+      },
+      "abstract_ai_art_generator": {
+        "title": "추상 AI 아트 생성기"
+      },
+      "ai_renaissance_painting_generator": {
+        "title": "AI 르네상스 회화 생성기"
+      },
+      "ai_oil_painter": {
+        "title": "AI 유화 화가"
+      },
+      "ai_dark_art_generator": {
+        "title": "AI 다크 아트 생성기"
+      },
+      "ai_cartoon_generator_from_text_free": {
+        "title": "AI 텍스트에서 만화 생성기 [무료]"
+      },
+      "ai_pencil_drawing_generator": {
+        "title": "AI 연필 그림 생성기"
+      },
+      "ai_generated_coloring_pages": {
+        "title": "AI 생성 색칠 페이지"
+      },
+      "ai_generated_collager": {
+        "title": "AI 생성 콜라주"
+      },
+      "ai_mural_generator": {
+        "title": "AI 벽화 생성기"
+      },
+      "glitch_art_generator": {
+        "title": "글리치 아트 생성기"
+      },
+      "ai_vaporwave_generator": {
+        "title": "AI 베이퍼웨이브 생성기"
+      },
+      "ai_funko_pops_creator": {
+        "title": "AI 펑코 팝 크리에이터"
+      },
+      "ai_weapon_generator": {
+        "title": "AI 무기 생성기"
+      },
+      "sword_generator": {
+        "title": "검 생성기"
+      },
+      "ai_monster_generator": {
+        "title": "AI 몬스터 생성기"
+      },
+      "bratz_ai_generator": {
+        "title": "브렛츠 AI 생성기"
+      },
+      "ai_creature_generator": {
+        "title": "AI 생물 생성기"
+      },
+      "ai_muppet_generator": {
+        "title": "AI 머펫 생성기"
+      },
+      "ai_clothing_generator": {
+        "title": "AI 의류 생성기"
+      },
+      "ai_jersey_generator": {
+        "title": "AI 저지 생성기"
+      },
+      "ai_t_shirt_designer": {
+        "title": "AI 티셔츠 디자이너"
+      },
+      "midjourney_video_generator": {
+        "title": "Midjourney AI 비디오 제작 도구"
+      },
+      "anime_character_generator": {
+        "title": "애니메이션 캐릭터 생성기"
+      },
+      "vampire_oc_maker": {
+        "title": "뱀파이어 OC 메이커"
+      },
+      "anime_oc_maker": {
+        "title": "애니메이션 OC 메이커"
+      },
+      "perchance_ai_character_generator": {
+        "title": "퍼첸스 AI 캐릭터 생성기"
+      },
+      "genshin_oc_maker": {
+        "title": "원신 OC 메이커"
+      },
+      "genshin_oc_generator": {
+        "title": "원신 OC 생성기"
+      },
+      "naruto_oc_maker": {
+        "title": "나루토 OC 메이커"
+      },
+      "demon_slayer_oc_maker": {
+        "title": "귀멸의 칼날 OC 메이커"
+      },
+      "pokemon_oc_maker": {
+        "title": "포켓몬 OC 메이커"
+      },
+      "jjk_oc_maker": {
+        "title": "JJK OC 메이커"
+      },
+      "jujutsu_kaisen_oc_maker": {
+        "title": "주술회전 OC 메이커"
+      },
+      "one_piece_oc_maker": {
+        "title": "원피스 OC 메이커"
+      },
+      "one_piece_characters_generator": {
+        "title": "원피스 캐릭터 생성기"
+      },
+      "dragon_ball_oc_maker": {
+        "title": "드래곤볼 OC 메이커"
+      },
+      "attack_on_titan_oc_maker": {
+        "title": "진격의 거인 OC 메이커"
+      },
+      "aot_oc_maker": {
+        "title": "AOT OC 메이커"
+      },
+      "my_hero_academia_oc_maker": {
+        "title": "나의 히어로 아카데미아 OC 메이커"
+      },
+      "spy_x_family_oc_maker": {
+        "title": "스파이 패밀리 OC 메이커"
+      },
+      "sonic_oc_maker": {
+        "title": "소닉 OC 메이커"
+      },
+      "league_of_legends_oc_maker": {
+        "title": "리그 오브 레전드 OC 메이커"
+      },
+      "nsfw_oc_maker": {
+        "title": "NSFW OC 메이커"
+      },
+      "nsfw_character_creator": {
+        "title": "NSFW 캐릭터 크리에이터"
+      },
+      "disney_oc_maker": {
+        "title": "디즈니 OC 메이커"
+      },
+      "marvel_oc_maker": {
+        "title": "마블 OC 메이커"
+      },
+      "ai_marvel_character_generator": {
+        "title": "AI 마블 캐릭터 생성기"
+      },
+      "ai_action_figure_generator": {
+        "title": "AI 액션 피규어 생성기"
+      },
+      "ai_character_sheet_generator": {
+        "title": "AI 캐릭터 시트 생성기"
+      },
+      "ai_doll_generator": {
+        "title": "AI 인형 생성기"
+      },
+      "anime_ai_filter": {
+        "title": "애니메이션 AI 필터"
+      },
+      "studio_ghibli_ai_generator": {
+        "title": "스튜디오 지브리 AI 생성기"
+      },
+      "studio_ghibli_filter": {
+        "title": "스튜디오 지브리 필터"
+      },
+      "anisora_video_generator": {
+        "title": "안니소라 AI 비디오 생성기"
+      },
+      "ai_anime_porn_generator": {
+        "title": "AI 애니메이션 포르노 생성기"
+      },
+      "furry_ai_generator": {
+        "title": "퍼리 AI 생성기"
+      },
+      "ai_art_generator_nsfw": {
+        "title": "NSFW AI 아트 생성기"
+      },
+      "ai_image_generator_to_create_a_webtoon_story": {
+        "title": "웹툰 스토리 생성 AI 이미지 생성기"
+      },
+      "anime_ai_generator_nsfw": {
+        "title": "NSFW 애니메이션 AI 생성기"
+      },
+      "nsfw_anime_ai_generator": {
+        "title": "NSFW 애니메이션 AI 생성기"
+      },
+      "nsfw_ai_art_generator": {
+        "title": "NSFW AI 아트 생성기"
+      },
+      "mlp_ai_generator": {
+        "title": "MLP AI 생성기"
+      },
+      "my_little_pony_ai_generator": {
+        "title": "마이 리틀 포니 AI 생성기"
+      },
+      "anime_pfp_maker": {
+        "title": "애니메이션 프로필 사진 생성기"
+      },
+      "ai_game_asset_generator": {
+        "title": "AI 게임 에셋 생성기"
+      },
+      "mlp_oc_maker": {
+        "title": "MLP OC 생성기"
+      },
+      "my_little_pony_oc_maker": {
+        "title": "마이 리틀 포니 OC 생성기"
+      },
+      "visual_novel_character_generator": {
+        "title": "비주얼 노블 캐릭터 생성기"
+      },
+      "random_video_game_character_generator": {
+        "title": "랜덤 비디오 게임 캐릭터 생성기"
+      },
+      "moonvalley_ai_video_generator": {
+        "title": "문밸리 AI 비디오 생성기"
+      },
+      "marey_ai_video_generator": {
+        "title": "메리 AI 비디오 생성기"
+      },
+      "lego_ai_filter": {
+        "title": "레고 AI 필터"
+      },
+      "photo_to_line_art": {
+        "title": "사진을 선화로 변환"
+      },
+      "photo_to_simpsons": {
+        "title": "사진을 심슨 스타일로 변환"
+      },
+      "naruto_ai_filter": {
+        "title": "나루토 AI 필터"
+      },
+      "watercolor_ai_filter": {
+        "title": "수채화 AI 필터"
+      },
+      "cyberpunk_filter": {
+        "title": "사이버펑크 필터"
+      },
+      "emote_maker": {
+        "title": "이모티콘 생성기"
+      },
+      "ai_sprite_sheet_generator": {
+        "title": "AI 스프라이트 시트 생성기"
+      },
+      "ai_emoji_generator": {
+        "title": "AI 이모지 생성기"
+      },
+      "ai_emoticon_generator": {
+        "title": "AI 이모티콘 생성기"
+      },
+      "anime_sticker_maker": {
+        "title": "애니메이션 스티커 생성기"
+      },
+      "ai_sticker_generator": {
+        "title": "AI 스티커 생성기"
+      },
+      "ai_sprite_generator": {
+        "title": "AI 스프라이트 생성기"
+      },
+      "ai_plush_generator": {
+        "title": "AI 봉제인형 생성기"
+      },
+      "ai_badge_generator": {
+        "title": "AI 배지 생성기"
+      },
+      "ai_clay_filter": {
+        "title": "AI 클레이 필터"
+      },
+      "photo_to_minecraft": {
+        "title": "사진을 마인크래프트 스타일로 변환"
+      },
+      "ai_style_transfer": {
+        "title": "AI 스타일 변환"
+      },
+      "photo_to_pixel_art": {
+        "title": "사진을 픽셀 아트로 변환"
+      },
+      "ai_cosplay_generator": {
+        "title": "AI 코스프레 생성기"
+      },
+      "video_style_transfer": {
+        "title": "비디오 스타일 변환"
+      },
+      "video_to_anime_ai": {
+        "title": "비디오를 애니메이션으로 바꾸는 AI"
+      },
+      "ai_video_to_animation": {
+        "title": "AI로 비디오 애니메이션 만들기"
+      },
+      "convert_video_to_cartoon": {
+        "title": "비디오를 만화로 바꾸기"
+      },
+      "convert_video_to_sketch": {
+        "title": "비디오를 스케치로 바꾸기"
+      },
+      "claymation_ai_generator": {
+        "title": "클레이메이션 AI 생성기"
+      },
+      "ai_video_restyle": {
+        "title": "AI 비디오 스타일 변경"
+      },
+      "change_video_style_ai": {
+        "title": "비디오 스타일 변경 AI"
+      },
+      "modify_video": {
+        "title": "비디오 수정하기"
+      },
+      "modify_with_instructions": {
+        "title": "지시에 따라 수정하기"
+      },
+      "cartoonize_video": {
+        "title": "비디오를 만화화 하기"
+      },
+      "wan_video2video": {
+        "title": "Wan Video2Video"
+      },
+      "domoai": {
+        "title": "DomoAI"
+      },
+      "ai_anime_video_generator": {
+        "title": "AI 애니메이션 영상 생성기"
+      },
+      "ai_cartoon_video_generator": {
+        "title": "AI 만화 영상 생성기"
+      },
+      "character_animation": {
+        "title": "캐릭터 애니메이션"
+      },
+      "ai_video_generator": {
+        "title": "AI 영상 생성기"
+      },
+      "ai_image_to_video_generator": {
+        "title": "AI 이미지에서 영상 생성기"
+      },
+      "image_to_video_generator": {
+        "title": "이미지에서 영상 생성기"
+      },
+      "all_in_one_ai_video_generator": {
+        "title": "올인원 AI 영상 생성기"
+      },
+      "ai_stick_figure_animation": {
+        "title": "AI 스틱 피겨 애니메이션"
+      },
+      "hailuo_ai_video_generator": {
+        "title": "Hailuo AI 영상 생성기"
+      },
+      "hailuo_image_to_video": {
+        "title": "Hailuo 이미지에서 영상"
+      },
+      "minimax_ai_video_generator": {
+        "title": "MiniMax AI 영상 생성기"
+      },
+      "vidu_image_to_video": {
+        "title": "Vidu 이미지에서 영상"
+      },
+      "pixverse_ai_video_generator": {
+        "title": "Pixverse AI 영상 생성기"
+      },
+      "pixverse_image_to_video": {
+        "title": "Pixverse 이미지에서 영상"
+      },
+      "kling_ai_video_generator": {
+        "title": "Kling AI 영상 생성기"
+      },
+      "kling_image_to_video": {
+        "title": "Kling 이미지에서 영상"
+      },
+      "veo2_video_generator": {
+        "title": "Veo2 영상 생성기"
+      },
+      "veo2_image_to_video": {
+        "title": "Veo2 이미지에서 영상"
+      },
+      "ray2_video_generator": {
+        "title": "Ray2 영상 생성기"
+      },
+      "ray2_image_to_video": {
+        "title": "Ray2 이미지에서 영상"
+      },
+      "luma_video_generator": {
+        "title": "Luma 영상 생성기"
+      },
+      "luma_image_to_video": {
+        "title": "Luma 이미지에서 영상"
+      },
+      "dream_machine_video_generator": {
+        "title": "Dream Machine 영상 생성기"
+      },
+      "wan_ai_video_generator": {
+        "title": "Wan AI 영상 생성기"
+      },
+      "perchance_ai_video_generator": {
+        "title": "Perchance AI 영상 생성기"
+      },
+      "seedance_ai_video_generator": {
+        "title": "Seedance 1.0 AI 영상 생성기"
+      },
+      "seedance_pro_ai_video_generator": {
+        "title": "Seedance Pro AI 영상 생성기"
+      },
+      "ai_video_generator_nsfw": {
+        "title": "AI 영상 생성기 NSFW"
+      },
+      "nsfw_ai_video_generator": {
+        "title": "NSFW AI 영상 생성기"
+      },
+      "qwen_image_edit": {
+        "title": "Qwen 이미지 편집기"
+      },
+      "waver_ai_video_generator": {
+        "title": "Waver AI 동영상 생성기"
+      },
+      "replace_object_in_video": {
+        "title": "영상에서 객체 교체"
+      },
+      "replace_person_in_video_with_ai": {
+        "title": "AI로 영상 인물 교체"
+      },
+      "video_restyle": {
+        "title": "영상 스타일 변환"
+      },
+      "ai_video_filter": {
+        "title": "AI 영상 필터"
+      },
+      "ai_fairy_filter": {
+        "title": "AI 요정 필터"
+      },
+      "ai_fairy_video_generator": {
+        "title": "AI 요정 영상 생성기"
+      },
+      "cartoonify_video": {
+        "title": "영상을 만화로 변환"
+      },
+      "video_to_anime_converter": {
+        "title": "영상을 애니메이션으로 변환기"
+      },
+      "video_to_anime": {
+        "title": "영상을 애니메이션으로"
+      },
+      "video_to_anime_style_app": {
+        "title": "영상을 애니메이션 스타일 앱으로"
+      },
+      "convert_video_to_animation_ai": {
+        "title": "영상을 애니메이션 AI로 변환"
+      },
+      "convert_video_to_anime_style_ai": {
+        "title": "영상을 애니메이션 스타일 AI로 변환"
+      },
+      "anime_style_transfer": {
+        "title": "애니메이션 스타일 변화"
+      },
+      "video_to_cartoon": {
+        "title": "영상을 만화로 변환"
+      },
+      "video_cartoonizer": {
+        "title": "영상 만화화 도구"
+      },
+      "vid2vid": {
+        "title": "비드 투 비드"
+      },
+      "video2video": {
+        "title": "비디오 투 비디오"
+      },
+      "stylize_video_ai": {
+        "title": "영상 스타일화 AI"
+      },
+      "ai_style_transfer_video": {
+        "title": "AI 스타일 변환 영상"
+      },
+      "video_style_changer_ai": {
+        "title": "영상 스타일 체인저 AI"
+      },
+      "convert_skeleton_ai": {
+        "title": "스켈레톤 AI 변환"
+      },
+      "ghibli_style_video_converter": {
+        "title": "지브리 스타일 영상 변환기"
+      },
+      "domoia": {
+        "title": "Domoia"
+      },
+      "wan_animate": {
+        "title": "Wan 애니메이트"
+      },
+      "vidu_q2": {
+        "title": "Vidu Q2"
+      },
+      "wan_25": {
+        "title": "Wan 2.5"
+      },
+      "ai_expression_changer": {
+        "title": "AI 표현 변환기",
+        "content": "설정된 값을 사용하여 캐릭터의 표정을 쉽게 바꾸세요."
+      },
+      "ai_adult_video": {
+        "title": "AI 성인 비디오"
+      },
+      "ai_kissing_video_generator": {
+        "title": "AI 키스 영상 생성기"
+      },
+      "ai_moving_image_generator": {
+        "title": "AI 움직이는 이미지 생성기"
+      },
+      "make_image_move": {
+        "title": "이미지 움직이기"
+      },
+      "animation_ai": {
+        "title": "애니메이션 AI"
+      },
+      "image_animator": {
+        "title": "이미지 애니메이터"
+      },
+      "image_to_motion_ai": {
+        "title": "이미지를 모션으로 변환 AI"
+      },
+      "animated_image_generator": {
+        "title": "애니메이션 이미지 생성기"
+      },
+      "animate_a_picture": {
+        "title": "사진 애니메이션 만들기"
+      },
+      "animate_a_photo": {
+        "title": "사진 애니메이션 만들기"
+      },
+      "ai_transition_between_images": {
+        "title": "AI 이미지 전환"
+      },
+      "picture_to_video_ai": {
+        "title": "사진을 비디오로 변환 AI"
+      },
+      "sexy_animation": {
+        "title": "섹시한 애니메이션"
+      },
+      "ai_cartoon_porn": {
+        "title": "AI 만화 포르노"
+      },
+      "animated_wallpaper_generator": {
+        "title": "애니메이션 배경화면 생성기"
+      },
+      "pixel_art_animation": {
+        "title": "픽셀 아트 애니메이션"
+      },
+      "hug_ai_video_generator": {
+        "title": "허그 AI 비디오 생성기"
+      },
+      "animate_sketch": {
+        "title": "스케치 애니메이션"
+      },
+      "ai_anime_filter": {
+        "title": "AI 애니메이션 필터"
+      },
+      "ai_aging_filter": {
+        "title": "AI 나이 들기 필터"
+      },
+      "ai_caricature_maker": {
+        "title": "AI 캐리커쳐 제작기"
+      },
+      "ai_bald_filter": {
+        "title": "AI 대머리 필터"
+      },
+      "ai_beard_filter": {
+        "title": "AI 수염 필터"
+      },
+      "ai_bikini": {
+        "title": "AI 비키니"
+      },
+      "ai_blonde_hair_filter": {
+        "title": "AI 금발 필터"
+      },
+      "ai_cartoon_generator": {
+        "title": "AI 만화 생성기"
+      },
+      "ai_comic_book_filter": {
+        "title": "AI 만화책 필터"
+      },
+      "ai_fat_filter": {
+        "title": "AI 비만 필터"
+      },
+      "ai_lego_filter": {
+        "title": "AI 레고 필터"
+      },
+      "ai_magazine_cover_maker": {
+        "title": "AI 잡지 표지 제작기"
+      },
+      "ai_manga_filter": {
+        "title": "AI 만화 필터"
+      },
+      "ai_minecraft_generator": {
+        "title": "AI 마인크래프트 생성기"
+      },
+      "ai_pop_art_filter": {
+        "title": "AI 팝아트 필터"
+      },
+      "ai_silhouette_maker": {
+        "title": "AI 실루엣 생성기"
+      },
+      "ai_skinny_filter": {
+        "title": "AI 마른 필터"
+      },
+      "ai_simpsons_generator": {
+        "title": "AI 심슨 생성기"
+      },
+      "baby_filter": {
+        "title": "아기 필터"
+      },
+      "image_to_image_ai_generator": {
+        "title": "이미지를 이미지로 변환 AI 생성기"
+      },
+      "magazine_ai_generator": {
+        "title": "잡지 AI 생성기"
+      },
+      "mugshot_generator": {
+        "title": "머그샷 생성기"
+      },
+      "photo_to_sketch": {
+        "title": "사진을 스케치로 변환"
+      },
+      "pixar_ai_generator": {
+        "title": "픽사 AI 생성기"
+      },
+      "ps2_ai_filter": {
+        "title": "PS2 AI 필터"
+      },
+      "veo_3_1": {
+        "title": "Veo 3.1"
+      },
+      "sora_2_video_generator": {
+        "title": "소라 2 비디오 생성기"
+      },
+      "ai_video_effects": {
+        "title": "AI 영상 효과"
+      },
+      "ai_dance_video_generator": {
+        "title": "AI 춤 비디오 생성기"
+      },
+      "text_to_video": {
+        "title": "텍스트를 비디오로 변환"
+      },
+      "dance_video_generator": {
+        "title": "댄스 비디오 생성기"
+      },
+      "seedance": {
+        "title": "시댄스"
+      },
+      "nano_banana_2": {
+        "title": "나노 바나나 2"
+      },
+      "wan_26": {
+        "title": "완 2.6"
+      }
+    },
+    "animation": {
+      "title": "애니메이션 비디오 제작",
+      "image_to_animation": {
+        "title": "이미지를 애니메이션으로",
+        "content": "이미지에서 부드러운 애니메이션 영상을 생성하세요."
+      },
+      "inbetweening": {
+        "title": "인비트위닝",
+        "content": "키프레임 사이에 애니메이션 프레임을 추가하세요."
+      },
+      "video_upscaling": {
+        "title": "비디오 업스케일링",
+        "content": "비디오의 해상도를 높이세요."
+      },
+      "video_interpolation": {
+        "title": "프레임 보간",
+        "content": "추가 프레임을 삽입하여 비디오를 더욱 부드럽게 만듭니다."
+      },
+      "layer_splitter": {
+        "content": "캐릭터 이미지를 개별 구성 요소로 분리합니다.",
+        "title": "레이어 분할기"
+      },
+      "ai_talking_head": {
+        "title": "AI 말하는 얼굴",
+        "content": "정지된 이미지에서 애니메이션으로 생동감 있는 캐릭터를 만듭니다."
+      },
+      "video_to_video": {
+        "title": "비디오 변환",
+        "content": "AI를 사용하여 비디오를 다양한 스타일로 변환하세요."
+      },
+      "text_to_video": {
+        "title": "텍스트를 영상으로",
+        "content": "텍스트 프롬프트로 비디오 생성."
+      },
+      "dance_video_generator": {
+        "title": "댄스 비디오 생성기",
+        "content": "AI로 댄스 동영상을 생성합니다."
+      },
+      "animation_generator": {
+        "title": "AI 애니메이션 생성기",
+        "content": "이미지나 텍스트에서 매끄러운 애니메이션 영상을 생성합니다."
+      }
+    },
+    "more": {
+      "title": "그 외 다양한 기능",
+      "content": "만화, 일러스트레이션, 애니메이션 제작을 위한 다양한 AI 도구를 살펴보세요."
+    }
+  },
+  "gridIndex": "그리드 {{index}}",
+  "popularity": "{{count}} 인기",
+  "roleplay": "롤플레잉",
+  "likes": "{{count}} 좋아요",
+  "following": "팔로잉",
+  "follow": "팔로우",
+  "post_card": {
+    "following": "팔로잉",
+    "follow": "팔로우",
+    "the_end": "—— 끝 ——",
+    "discover": "발견",
+    "more_stories": "더 많은 이야기",
+    "or_start": "또는 시작",
+    "creating_your_own": "나만의 작품 만들기",
+    "comments": "댓글",
+    "the_end_dash": "- 끝 -",
+    "prompts": "프롬프트",
+    "prompt_copied": "프롬프트가 클립보드에 복사되었습니다.",
+    "copy_prompt": "프롬프트 복사",
+    "generate_more": "더 생성",
+    "create_yours": "나만의 것 만들기",
+    "try_the_tool": "도구 사용해 보세요",
+    "prompt_hidden": "프롬프트 숨기기",
+    "no_prompts": "사용 가능한 프롬프트가 없습니다. 😢",
+    "join_discussion": "토론에 참여하세요!",
+    "sharing_link_copied": "공유 링크가 복사되었습니다! 친구들과 공유해 보세요!",
+    "image_downloaded": "이미지 다운로드에 성공했습니다!",
+    "download_failed": "다운로드에 실패했습니다. 나중에 다시 시도해 주세요.",
+    "download_image": "이미지 다운로드",
+    "copy_link": "링크 복사",
+    "more": "더 보기",
+    "share_text": "멋진 만화 \"{{title}}\"을 발견했어요! 한번 확인해 보세요!",
+    "delete": "삭제",
+    "confirm_delete": "삭제 확인",
+    "confirm_delete_message": "이 게시물을 정말 삭제하시겠습니까?",
+    "cancel": "취소",
+    "delete_success": "게시물이 성공적으로 삭제되었습니다.",
+    "delete_failed": "게시물 삭제에 실패했습니다.",
+    "turn_into": "로 변환",
+    "video_to": "비디오로",
+    "expression": "표현",
+    "effect": "효과",
+    "dance_video_generator": "댄스 비디오 제너레이터",
+    "video_downloaded": "비디오가 성공적으로 다운로드되었습니다!",
+    "download": "다운로드",
+    "share": {
+      "twitter": "KomikoAI에서 생성한 {{username}}의 \"{{title}}\"를 확인해 보세요!\n\n{{content}}\n\n#AIart #AiAnime\n{{link}}",
+      "facebook": "KomikoAI에서 생성한 {{username}}의 \"{{title}}\"를 확인해 보세요!\n\n{{content}}",
+      "reddit": "KomikoAI에서 생성한 {{username}}의 \"{{title}}\"",
+      "pinterest": "KomikoAI에서 생성한 {{username}}의 \"{{title}}\"",
+      "whatsapp": "KomikoAI에서 생성한 {{username}}의 \"{{title}}\"를 확인해 보세요!\n{{link}}",
+      "telegram": "KomikoAI에서 생성한 {{username}}의 \"{{title}}\"를 확인해 보세요!"
+    },
+    "menu": {
+      "tag_moderator": "태그 관리자",
+      "admin": "운영자",
+      "pin": "게시물 고정",
+      "unpin": "고정 해제",
+      "pin_global": "전체 게시물 고정",
+      "unpin_global": "전체 고정 해제",
+      "feature": "추천",
+      "unfeature": "추천 해제",
+      "feature_global": "전체 추천",
+      "unfeature_global": "전체 추천 해제",
+      "translate": "번역하기",
+      "hide": "숨기기",
+      "unhide": "숨김 해제",
+      "report": "보고",
+      "block_user": "@{{name}}님 차단",
+      "unblock_user": "@{{name}}님 차단 해제"
+    },
+    "loading": "불러오는 중...",
+    "reply1": "답글 1개",
+    "remix_count": "{{count}}번 리믹스",
+    "remix_count_one": "{{count}}개의 리믹스",
+    "remix_count_other": "{{count}}개의 리믹스들",
+    "remix": "리믹스"
+  },
+  "uploadFile": {
+    "tapToUpload": "탭하여 업로드하거나 이미지를 여기로 드래그하세요.",
+    "errors": {
+      "invalidExtension": "{{accept}} 확장자를 가진 파일을 선택해 주세요.",
+      "selectImage": "이미지를 선택해 주세요.",
+      "selectVideo": "비디오를 선택해 주세요.",
+      "fileSize": "파일 크기는 {{limit}}MB 미만이어야 합니다.",
+      "maxDuration": "최대 길이: {{duration}}분",
+      "safariVideoTooLong": "Safari에서 최상의 사용을 위해 비디오는 최대 15초로 제한하세요. 더 긴 비디오는 Chrome을 사용하여 업로드해 주세요!",
+      "selectAudio": "오디오 파일을 선택해 주세요",
+      "audioSize": "오디오 파일 크기는 {{limit}}MB 미만이어야 합니다."
+    },
+    "dragAudio": "여기로 오디오를 드래그하거나 클릭하여 업로드하세요",
+    "supportedAudio": "MP3, WAV 지원",
+    "warnings": {
+      "imageWillCompress": "이미지 크기가 {{limit}}MB를 초과하여 자동으로 압축됩니다.",
+      "audioTooLarge": "오디오 파일이 {{limit}}MB를 초과하여 처리 품질에 영향을 줄 수 있습니다."
+    },
+    "clickToUpload": "클릭하거나 이미지를 이곳에 드래그하여 업로드하세요"
+  },
+  "home": {
+    "create_story": {
+      "title": "새로운 만화",
+      "subtitle": "이미지를 생성하고 이야기를 만들어 보세요.",
+      "generate": {
+        "title": "생성",
+        "description": "한 줄 프롬프트로 몇 초 만에 만화를 생성하세요."
+      },
+      "from_scratch": {
+        "title": "처음부터",
+        "description": "빈 캔버스로 시작하여 창의력을 발휘하세요."
+      }
+    },
+    "create_character": {
+      "title": "새로운 캐릭터",
+      "subtitle": "나만의 이야기를 위한 캐릭터를 만들어 보세요."
+    },
+    "create_animation": {
+      "title": "새로운 롤플레잉"
+    }
+  },
+  "result_card": {
+    "generating": "생성 중...",
+    "video_not_supported": "사용하시는 브라우저는 비디오 태그를 지원하지 않습니다.",
+    "more_ai_tools": {
+      "title": "추가 AI 도구",
+      "description": "더 많은 관련 AI 도구로 창의력을 발휘해 보세요.",
+      "view_more": "더 많은 AI 도구 보기"
+    },
+    "generated_by": "생성자",
+    "tools": {
+      "remove_bg": "배경 제거",
+      "upscale": "고해상도 변환",
+      "anime_style": "애니메이션 스타일 적용",
+      "animate": "애니메이션",
+      "video_upscale": "비디오 고해상도 변환",
+      "video_interpolate": "비디오 보간 처리",
+      "character_sheet": "캐릭터 시트",
+      "oc-maker": "OC 메이커",
+      "line_art_colorization": "선화 채색",
+      "title": "도구",
+      "character": "캐릭터",
+      "restyle": "재스타일",
+      "add_text": "텍스트 추가",
+      "playground": "이미지 플레이그라운드",
+      "create_animation": "애니메이션 생성"
+    },
+    "generation_failed": "생성 실패",
+    "generation_failed_desc": "생성 중 문제가 발생했습니다. 다시 시도해 주세요."
+  },
+  "logout": "로그아웃하기",
+  "create_character": "캐릭터 만들기",
+  "generate_image": "이미지 만들기",
+  "generate": "만들기",
+  "create_comic": "만화 만들기",
+  "generate_animation": "애니메이션 만들기",
+  "actions": {
+    "download": "다운로드",
+    "delete": "삭제",
+    "publish": "게시하기",
+    "cancel": "취소",
+    "confirm": "확인",
+    "post": "게시",
+    "share": "공유하기",
+    "apply": "적용하기",
+    "applying": "적용 중...",
+    "generate": "생성하기",
+    "generating": "생성 중...",
+    "upload": "업로드하기",
+    "uploading": "업로드 중...",
+    "extract": "추출하기",
+    "extracting": "추출 중...",
+    "download_layers": "레이어 다운로드",
+    "confirm_delete": "삭제 확인",
+    "delete_warning": "이 이미지를 삭제하시겠습니까?",
+    "show_more": "더보기",
+    "show_less": "간략히보기"
+  },
+  "tools": {
+    "image-animation-generator": "이미지 애니메이션 생성기",
+    "video-upscaling": "비디오 고해상도 변환",
+    "video_upscaling": "비디오 고해상도 변환",
+    "photo-to-anime": "사진을 애니메이션으로 변환",
+    "background-removal": "배경 제거",
+    "image-upscaling": "이미지 고해상도 변환",
+    "video-interpolation": "비디오 보간 처리",
+    "video_interpolation": "비디오 보간 처리",
+    "ai-character-sheet-generator": "AI 캐릭터 시트 생성기",
+    "oc-maker": "OC 메이커",
+    "oc_maker": "OC 메이커",
+    "line_art_colorization": "선화 채색",
+    "character": "캐릭터",
+    "restyle": "재스타일",
+    "layer_splitter": "레이어 분할",
+    "video_to_video": "영상 변환 AI",
+    "ai-talking-head": "AI 토킹 헤드",
+    "video-to-video": "영상 변환 AI"
+  },
+  "toasts": {
+    "fetchFailed": "가져오기 실패",
+    "deleteSuccess": "삭제 성공",
+    "deleteFailed": "삭제 실패",
+    "downloadFailed": "다운로드 실패",
+    "processingSuccess": "처리 완료",
+    "processingFailed": "처리 실패",
+    "uploadFailed": "업로드 실패",
+    "noVideoUrl": "비디오 URL이 제공되지 않았습니다",
+    "noZaps": "추가 zaps를 구매하세요",
+    "mediaReceived": "다른 도구에서 전달된 미디어",
+    "extractFailed": "프레임 추출에 실패했습니다. 다시 시도해 주세요.",
+    "invalidResponse": "API로부터 잘못된 응답을 받았습니다.",
+    "timeout": "작업 시간이 초과되었습니다.",
+    "missingData": "필요한 데이터가 누락되었습니다.",
+    "unexpectedFormat": "예상치 못한 데이터 형식입니다.",
+    "maxImagesReached": "최대 이미지 개수에 도달했습니다.",
+    "loginRequired": "먼저 로그인하세요",
+    "cannotBlockSelf": "자신을 차단할 수 없습니다",
+    "userBlocked": "사용자를 차단했습니다",
+    "userBlockedName": "@{{name}}님을 차단했습니다",
+    "userUnblocked": "사용자 차단을 해제했습니다",
+    "userUnblockedName": "@{{name}}님의 차단을 해제했습니다",
+    "blockFailed": "사용자 차단에 실패했습니다",
+    "unblockFailed": "사용자 차단 해제에 실패했습니다",
+    "alreadyReported": "이미 신고한 게시물입니다",
+    "postReported": "게시물을 신고했습니다",
+    "reportFailed": "게시물 신고에 실패했습니다"
+  },
+  "from_other_tools": "{{tools}}에서 받은 {{input_type}}",
+  "input_types": {
+    "image": "이미지",
+    "character": "캐릭터",
+    "video": "비디오"
+  },
+  "alt": {
+    "generated_image": "생성된 이미지"
+  },
+  "success": {
+    "copy": "클립보드에 복사되었습니다"
+  },
+  "unknown": "알 수 없음",
+  "error": {
+    "code": "에러 코드: {{code}}",
+    "requestId": "요청 ID: {{id}}",
+    "downloadFailed": "다운로드하지 못했습니다. 다시 시도해 주세요."
+  },
+  "video_tabs": {
+    "image_to_animation": "이미지를 애니메이션으로",
+    "video_to_video": "비디오를 비디오로",
+    "talking_head": "토크",
+    "image_to_video_sub": "이미지를 비디오로",
+    "character_to_video_sub": "캐릭터를 비디오로",
+    "text_to_animation": "텍스트를 비디오로 변환",
+    "image_or_text_to_video": "이미지 또는 텍스트로 비디오 만들기",
+    "Dance": "댄스",
+    "Template": "템플릿",
+    "dance": "댄스",
+    "templates": "템플릿",
+    "animation_generator": "AI 애니메이션 생성기"
+  },
+  "audioRecorder": {
+    "duration": "녹음 시간",
+    "recording": "녹음 중",
+    "preparing": "준비 중...",
+    "instructions": "녹음을 시작하려면 아래 버튼을 클릭하세요",
+    "stop": "녹음 중지",
+    "start": "녹음 시작",
+    "record_new": "새 오디오 녹음하기"
+  },
+  "sampleImage": "샘플 이미지",
+  "sampleVideo": "샘플 비디오",
+  "exampleResult": "예시 결과",
+  "loading": "불러오는 중...",
+  "create_character_short": "캐릭터",
+  "generate_image_short": "AI 이미지 생성",
+  "ai_comic": "AI 코믹",
+  "generate_comic": "코믹 생성",
+  "generate_animation_short": "AI 비디오 생성",
+  "magic_prompt": "매직 프롬프트",
+  "results_card": {
+    "tools": {
+      "new_character": "새로운 캐릭터"
+    }
+  },
+  "nsfw": {
+    "title": "⚠️ 나이 확인",
+    "message": "이 섹션에는 성인(18+) 콘텐츠가 포함되어 있습니다. 계속하시려면 만 18세 이상(또는 귀하의 지역에서 성인으로 인정받는 연령)이 되셔야 합니다. \"예\"를 클릭하시면, 귀하는 만 18세 이상이며, 해당 지역의 법률에 따라 NSFW 콘텐츠에 접근할 수 있는 법적 권한이 있음을 인정합니다. KomikoAI는 귀하의 자가 인증에 의존하며, 필요 시 추가 확인(예: 정부 발급 ID)을 요청할 권리를 보유합니다. 허위 정보를 제공할 경우, 귀하는 모든 법적 책임을 져야 합니다.",
+    "yes": "예",
+    "no": "아니요"
+  },
+  "network": {
+    "offline": "오프라인 상태",
+    "online": "온라인 상태"
+  },
+  "max": "최대",
+  "min": "최소",
+  "faq": "자주 묻는 질문",
+  "publicVisibility": {
+    "label": "공개 설정",
+    "tooltip": "이 콘텐츠를 모든 사용자에게 보여줍니다.",
+    "popoverTitle": "가시성 설정",
+    "public": "공개",
+    "publicDescription": "누구나 볼 수 있으며 사용할 수 있습니다.",
+    "private": "비공개",
+    "privateDescription": "오직 나만 볼 수 있고 사용할 수 있습니다.",
+    "plusBadge": "플러스"
+  },
+  "referenceImages": {
+    "modal": {
+      "title": "참조 이미지",
+      "description": "프롬프트에서 이름으로 참조 이미지를 사용할 수 있습니다. → 버튼을 눌러 이름을 직접 삽입하세요.",
+      "imageName": {
+        "label": "이름",
+        "placeholder": "참조"
+      },
+      "remove": "제거",
+      "close": "닫기",
+      "addNew": {
+        "title": "새 이미지 추가",
+        "subtitle": "클릭하거나 드래그 앤 드롭"
+      },
+      "premiumFeature": {
+        "title": "프리미엄 기능",
+        "message": "여러 참조 이미지는 프리미엄 기능입니다. 업그레이드를 통해 더 멋진 작품을 만들어 보세요."
+      },
+      "removeAll": "모두 제거",
+      "confirmRemoveAll": "모든 참조 이미지를 제거하시겠습니까?",
+      "insertSuccess": "{{name}}을(를) 프롬프트에 삽입했습니다.",
+      "insertTooltip": "프롬프트에 삽입",
+      "selectAll": "모두 선택",
+      "deleteAll": "모두 삭제",
+      "deleteSelected": "선택 삭제",
+      "deselectAll": "모두 선택 해제",
+      "bulkInsert": "일괄 삽입",
+      "insertSelected": "선택 삽입",
+      "bulkInsertSuccess": "캐릭터 이름이 성공적으로 추가되었습니다!",
+      "noSelection": "적어도 하나의 참조를 선택하세요.",
+      "noValidNames": "삽입할 유효한 이름이 없습니다.",
+      "deleted": "{{count}}개의 참조를 삭제했습니다.",
+      "allDeleted": "모든 참조가 삭제되었습니다.",
+      "selected": "개 선택됨",
+      "maxImagesReached": "최대 {{max}}개 이미지 허용",
+      "fileTooLarge": "파일 크기가 {{max}} 제한을 초과합니다.",
+      "someFilesTooLarge": "일부 파일이 {{max}} 크기 제한을 초과합니다.",
+      "totalSizeTooLarge": "전체 크기가 {{max}} 제한을 초과합니다.",
+      "unsupportedFormat": "JPEG, PNG 및 WebP 형식만 지원됩니다.",
+      "limits": "제한: {{current}}/{{maxImages}} 이미지 • 파일당 최대 {{maxSingleSize}} • 총 최대 {{maxTotalSize}} • 형식: {{formats}}",
+      "dropHere": "이미지를 여기에 드롭하세요"
+    }
+  },
+  "characterAppearance": {
+    "referenceImage": {
+      "title": "참조 이미지",
+      "description": "캐릭터 생성을 위해 참조 이미지를 업로드하세요",
+      "empty": "참조 이미지가 아직 없습니다",
+      "add": "이미지 추가",
+      "images": "이미지",
+      "upgrade": "프리미엄",
+      "premiumInfo": "무제한으로 참조 이미지를 추가할 수 있습니다",
+      "freeLimit": "무료 사용자는 최대 {{limit}}개의 참조 이미지를 추가할 수 있습니다"
+    }
+  },
+  "referenceImage": {
+    "title": "참조 이미지",
+    "description": "캐릭터 생성에 필요한 참조 이미지를 업로드하세요.",
+    "empty": "현재 참조 이미지가 없습니다.",
+    "add": "이미지 추가",
+    "images": "이미지",
+    "upgrade": "프리미엄",
+    "freeLimit": "무료 사용자는 최대 {{limit}}개의 참조 이미지를 추가할 수 있습니다.",
+    "info": "{{count}}/9 이미지 • 파일당 최대 25MB • 총 50MB",
+    "clearAll": "모두 지우기",
+    "imageName": "이미지 이름",
+    "placeholder": "이름 입력",
+    "insert": "삽입",
+    "maxImagesReached": "최대 {{max}}개의 이미지 허용",
+    "dropHere": "이미지를 여기에 드롭하세요"
+  },
+  "examples": {
+    "inputLabel": "입력",
+    "outputLabel": "출력",
+    "styleLabel": "스타일",
+    "promptLabel": "프롬프트"
+  },
+  "daily_check_in": {
+    "title": "일일 보상",
+    "claim_button": "{{amount}}개의 일일 zaps 획득하기",
+    "upgrade_button": "업그레이드하여 최대 {{amount}}개의 무료 zaps 받아보세요!",
+    "extra_rewards_tip": "프로필 페이지에서 \"보상\"을 눌러 추가 보상을 받아보세요!",
+    "christmas_banner_tip": "🎄 아트를 만들어 150달러를 받으세요!",
+    "christmas_banner_tip_description": "오늘의 Zaps를 사용하여 크리스마스 AU를 만들어 Komiko에서 최대 150달러의 보상을 받으세요!",
+    "christmas_reward_tip": "크리스마스의 추위, 두 배의 혜택! 두 배의 기쁨, 두 배의 감동!",
+    "christmas_reward_btn_text": "메리 크리스마스! 200 Zaps를 받아보세요!",
+    "off50_yearly_deal": "연중 50% 할인 혜택!",
+    "join_now": "KomikoAI에 지금 가입하고 새로운 해의 즐거움과 축제의 놀라움을 경험하세요! 제안은 1월 6일에 만료됩니다!"
+  },
+  "hide_my_prompt": "내 프롬프트 숨기기",
+  "hide_my_prompt_tooltip": "이 프롬프트는 다른 사람들이 볼 수 없습니다. 잠금을 해제하려면 업그레이드하세요.",
+  "magic_prompt_on": "켜짐",
+  "magic_prompt_off": "꺼짐",
+  "magic_prompt_description": "초기 프롬프트를 개선하여 이미지의 다양성과 풍부함을 향상시킵니다. 영어로 번역하는 기능도 제공합니다.",
+  "collections": "컬렉션",
+  "explore_characters": "캐릭터 둘러보기",
+  "audio": "오디오",
+  "endFrame": "종료 프레임",
+  "multipleReferences": "복수 참조",
+  "NSFW": "NSFW",
+  "share_title": "이 게시물을 친구들과 공유하세요 — 친구가 가입하면 두 분 모두 {{count}}개의 Zaps를 받게 됩니다!",
+  "settings": {
+    "title": "설정",
+    "privacy": "개인정보 설정",
+    "language": "언어 선호",
+    "subscription": {
+      "title": "구독 관리",
+      "manage": "구독 관리",
+      "upgrade": "플랜 업그레이드",
+      "currentPlan": "현재 플랜: {{plan}}",
+      "noSubscription": "활성화된 구독 없음"
+    },
+    "nsfw": {
+      "enable": "NSFW 활성화",
+      "description": "NSFW를 활성화하면, 귀하는 만 18세 이상임을 인정합니다. NSFW 콘텐츠에는 작업 중에 부적합한 누드, 폭력, 또는 성인물이 포함될 수 있습니다.",
+      "confirmTitle": "연령 확인",
+      "iConfirm": "확인합니다",
+      "nevermind": "취소"
+    },
+    "danger": {
+      "title": "위험 구역",
+      "description": "Komiko 계정과 관련된 모든 데이터를 영구적으로 삭제합니다. 이 작업은 되돌릴 수 없습니다.",
+      "delete": "계정 삭제"
+    },
+    "blockedUsers": "차단된 사용자",
+    "blockedUsersPage": {
+      "title": "차단된 사용자 목록",
+      "empty": "차단된 사용자가 없습니다.",
+      "emptyDescription": "여기에 차단한 사용자가 표시됩니다.",
+      "blockedOn": "{{date}}에 차단됨",
+      "buttonUnblock": "차단 해제",
+      "unblockConfirmTitle": "@{{name}}님의 차단을 해제하시겠습니까?",
+      "unblockConfirmDescription": "이제 다시 해당 사용자의 게시물과 댓글을 볼 수 있습니다.",
+      "buttonCancel": "취소"
+    }
+  },
+  "preset_tags": {
+    "all_posts": "모든 게시물",
+    "featured": "추천",
+    "templates": "템플릿",
+    "animation": "애니메이션",
+    "oc": "원작 캐릭터",
+    "anime": "애니메이션",
+    "manga": "만화",
+    "game": "게임",
+    "movie": "영화",
+    "ship": "커플링",
+    "furry": "모피 캐릭터",
+    "kawaii": "귀여운",
+    "nsfw": "성인용",
+    "genshin_impact": "원신",
+    "demon_slayer": "귀멸의 칼날",
+    "spy_x_family": "스파이 X 패밀리",
+    "my_hero_academia": "나의 히어로 아카데미아",
+    "pokemon": "포켓몬스터",
+    "hatsune_miku": "하츠네 미쿠",
+    "jujutsu_kaisen": "주술회전",
+    "frieren": "프리렌",
+    "naruto": "나루토",
+    "one_piece": "원피스",
+    "hazbin_hotel": "하즈빈 호텔",
+    "kpop_demon_hunters": "K팝 데몬 헌터",
+    "marvel": "마블",
+    "chainsaw_man": "체인소 맨",
+    "re_zero": "Re:제로부터 시작하는 이세계 생활",
+    "ai_apps": "AI 응용 프로그램",
+    "gay": "게이",
+    "harbin_hotel": "하얼빈 호텔",
+    "husbando": "남편",
+    "lesbian": "레즈비언",
+    "waifu": "와이프",
+    "gundam": "건담",
+    "cthulhu": "크툴루",
+    "komikoChristmas": "코미코 크리스마스",
+    "harry_potter": "해리 포터",
+    "zootopia": "주토피아",
+    "scenery": "풍경",
+    "scifi": "공상 과학",
+    "bankai": "방카이",
+    "dragon_ball": "드래곤볼",
+    "umamusume": "우마무스메",
+    "street_fighter": "스트리트 파이터",
+    "my_little_pony": "마이 리틀 포니",
+    "zenless_zone_zero": "젠리스 존 제로"
+  },
+  "change": "변경사항",
+  "bgmAvailableFor4SecondVideosOnly": "BGM은 오직 4초 영상에서만 사용할 수 있습니다",
+  "describe_video_effect": "생성하려는 비디오를 설명하세요. @를 입력하여 캐릭터를 언급하세요.",
+  "mention_characters": "작성하려는 콘텐츠를 설명하세요. 문자에 언급하려면 @를 입력하세요.",
+  "weekend_flash_promotion": {
+    "weekend_flash_title": "주말 특급 세일: 연간 요금제 30% 할인!"
+  },
+  "set_tag": "태그 설정",
+  "templates": "템플릿",
+  "videoReference": {
+    "description": "비디오 생성을 위한 참고 이미지를 업로드하세요. 하나의 이미지, 여러 이미지 또는 시작 프레임과 종료 프레임을 업로드할 수 있습니다.",
+    "limits": "최대 {{maxImages}} 이미지 • 파일당 최대 25MB • 포맷: JPEG, PNG, WebP",
+    "firstFrame": "첫 프레임",
+    "addEndFrame": "끝 프레임 추가",
+    "endFrameHint": "첫/마지막 프레임 애니메이션 힌트",
+    "endFrameInfo": "팁: 첫 프레임부터 마지막 프레임까지 애니메이션을 만드려면 끝 프레임을 추가하세요. 이 기능을 지원하는 모델이 자동으로 선택됩니다.",
+    "done": "완료"
+  },
+  "home_ai_video": {
+    "video_prompt_placeholder": "비디오 효과를 설명하세요 (선택 사항). 캐릭터를 언급하려면 @를 입력하세요.",
+    "reference": "참고"
+  },
+  "multiImage": {
+    "maxReached": "최대 {{max}}개의 이미지를 업로드할 수 있습니다.",
+    "uploadPrompt": "{{min}}-{{max}}개의 이미지를 업로드하세요.",
+    "dragDropHint": "여기를 클릭하거나 이미지를 드래그앤드롭하세요.",
+    "addMore": "이미지 더 추가하기",
+    "imagesUploaded": "업로드된 이미지",
+    "minRequired": "최소 {{min}}개의 이미지가 필요합니다."
+  },
+  "effects": "효과",
+  "block": {
+    "confirmBlockTitle": "@{{name}}님을 차단하시겠습니까?",
+    "confirmUnblockTitle": "@{{name}}님의 차단을 해제하시겠습니까?",
+    "unblockDescription": "이제 다시 해당 사용자의 게시물과 댓글을 볼 수 있습니다.",
+    "blockDescription1": "서로의 게시물이 피드에 표시되지 않습니다.",
+    "blockDescription2": "서로의 댓글을 확인할 수 없습니다.",
+    "blockDescription3": "이 조치는 되돌릴 수 있습니다.",
+    "buttonBlock": "차단",
+    "buttonUnblock": "차단 해제",
+    "buttonCancel": "취소"
+  },
+  "report": {
+    "confirmTitle": "이 게시물을 신고하시겠습니까?",
+    "selectReason": "신고 사유를 선택하세요:",
+    "description": "해당 게시물은 귀하의 피드에서 숨겨지며 관리자에게 보고됩니다.",
+    "warning": "신고 기능의 남용은 계정 제한을 초래할 수 있습니다.",
+    "buttonReport": "신고",
+    "buttonCancel": "취소",
+    "reasons": {
+      "inappropriate": {
+        "label": "부적절한 내용",
+        "description": "성적, 폭력적, 또는 불쾌한 내용 포함"
+      },
+      "spam": {
+        "label": "스팸",
+        "description": "반복적이거나 원치 않는 내용"
+      },
+      "hate_speech": {
+        "label": "증오 발언",
+        "description": "특정 집단에 대한 혐오나 폭력 조장"
+      },
+      "violence": {
+        "label": "폭력",
+        "description": "그래픽 폭력 또는 위협 포함"
+      },
+      "copyright": {
+        "label": "저작권 침해",
+        "description": "저작권 보호 자료의 무단 사용"
+      },
+      "other": {
+        "label": "기타",
+        "description": "기타 커뮤니티 가이드라인 위반"
+      }
+    }
+  },
+  "time": {
+    "just_now": "방금 전",
+    "minutes_ago": "{{count}}분 전",
+    "hours_ago": "{{count}}시간 전",
+    "days_ago": "{{count}}일 전"
+  },
+  "ad_consent": {
+    "title": "광고 및 개인정보 보호",
+    "description": "우리는 무료 서비스를 지원하기 위해 광고를 사용합니다. 관련 광고 콘텐츠를 제공하기 위해, 광고 파트너들은 다음 데이터를 수집할 수 있습니다:",
+    "banner_text": "우리는 무료 서비스를 지원하기 위해 쿠키와 광고를 사용합니다. 동의하시면, 개인 맞춤형 광고를 위한 데이터 수집이 허용됩니다.",
+    "learn_more": "더 알아보기",
+    "data": {
+      "browsing": "검색 습관 및 검색 기록",
+      "preferences": "사용자 선호도 및 콘텐츠 상호작용",
+      "profile": "사용자 프로필 (플랜 유형)"
+    },
+    "note_title": "참고 사항:",
+    "note_content": "설정에서 언제든지 선택을 변경할 수 있습니다. 거부하더라도 핵심 웹사이트 기능에는 영향을 미치지 않으나, 광고의 관련성이 낮아질 수 있습니다.",
+    "privacy_policy": "자세한 내용은 우리의",
+    "privacy_link": "개인정보 보호정책",
+    "reject": "거부",
+    "accept": "수락"
+  }
+}

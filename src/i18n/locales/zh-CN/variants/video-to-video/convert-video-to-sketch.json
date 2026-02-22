@@ -1,0 +1,150 @@
+{
+  "seo": {
+    "meta": {
+      "title": "视频转草图 | 最佳视频草图工具",
+      "description": "使用我们的 AI 视频转草图工具，将您的视频转化为精美的草图。实现独特的动画风格，捕捉您视频的精髓。",
+      "fullDescription": "探索这款革命性的视频转草图工具，它能将普通视频转换为艺术草图和动画。利用先进的 AI 技术，我们的工具在将您的视频转化为引人入胜的草图艺术的同时，保持运动的连贯性。非常适合希望增强视觉叙事的内容创作者、艺术家和爱好者。",
+      "keywords": "视频转草图, 视频草图生成器, workshop video sketchnote, 动画草图工具, 草图效果, 视频转草图转换器, AI 草图生成器, 动画工具, video sketchnote maker, 艺术视频转换, 草图风格迁移"
+    },
+    "hero": {
+      "title": "视频转草图"
+    },
+    "whatIs": {
+      "title": "什么是视频转草图？",
+      "description": "视频转草图是一款创新工具，它使用先进的 AI 技术将您的普通视频转换为独特的草图风格动画。此过程首先将您选择的草图风格应用于参考帧，然后转换整个视频，同时保留原始运动和细节。体验各种艺术风格，尽情表达您的创造力。"
+    },
+    "examples": {
+      "title": "视频转草图示例",
+      "description": "了解我们的视频转草图工具如何通过艺术草图将视频变为现实，并通过先进技术保持完美的运动连贯性。",
+      "style": "应用的草图风格"
+    },
+    "howToUse": {
+      "title": "如何使用视频转草图",
+      "steps": [
+        {
+          "title": "上传您的视频",
+          "content": "首先上传任何视频文件（MP4、MOV、AVI），长度不超过 15 秒，大小不超过 50MB，以便使用视频转草图进行处理。超过 15 秒的视频将被自动裁剪，以优化风格迁移效果。"
+        },
+        {
+          "title": "选择草图风格",
+          "content": "在“风格选择”部分中，转到“风格迁移”类别，然后选择“铅笔草图”风格。您还可以使用文本 prompt 和参考图像创建自定义草图风格。"
+        },
+        {
+          "title": "草图风格预览和参考",
+          "content": "我们将提取第一帧并应用您选择的草图风格来创建风格化的参考。此预览将展示您选择的草图风格如何应用于整个视频。"
+        },
+        {
+          "title": "生成您的草图视频",
+          "content": "我们的视频转草图工具将转换您的完整视频，使用风格化的参考帧，同时保持所有原始运动、面部表情和时间安排。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "为什么要使用视频转草图",
+      "description": "利用视频转草图工具可提供用于创意表达的最先进功能，确保无缝转换，同时保留原始运动。",
+      "features": [
+        {
+          "title": "一致的运动保留",
+          "content": "视频转草图工具在应用草图效果的同时，巧妙地保持了原始运动、表情和时间安排的各个方面，从而确保了完美无瑕的帧转换。",
+          "icon": "🎬"
+        },
+        {
+          "title": "草图风格自定义",
+          "content": "视频转草图提供铅笔草图风格转换，以及使用文本 prompt 和参考图像创建自定义草图风格的能力，以实现个性化的艺术效果。",
+          "icon": "🎨"
+        },
+        {
+          "title": "专业品质的输出",
+          "content": "使用视频转草图生成具有完美过渡且没有闪烁或伪影的高清草图视频，从而确保一流的用户体验。",
+          "icon": "✨"
+        },
+        {
+          "title": "透明的定价结构",
+          "content": "享受清晰的定价模式，草图风格迁移和视频生成分别收费。尽情体验无限的创造力，而无需担心隐藏成本。",
+          "icon": "⚡"
+        },
+        {
+          "title": "简化的两步流程",
+          "content": "视频转草图工具具有直观的工作流程：上传您的视频，将草图转换应用于参考帧，然后生成完整的视频输出。无需专业技术技能。",
+          "icon": "👌"
+        },
+        {
+          "title": "优化的处理",
+          "content": "视频转草图会自动裁剪较长的视频并支持各种格式（MP4、MOV、AVI），以确保流畅的处理和成本效益。",
+          "icon": "📹"
+        }
+      ]
+    },
+    "faq": {
+      "title": "视频转草图常见问题解答",
+      "description": "查找有关视频转草图工具、其流程、成本和最佳实践的问题的答案。",
+      "q1": "视频转草图如何工作？",
+      "a1": "视频转草图工具采用两步流程：首先，我们从您的视频中提取参考帧并应用您选择的草图风格，然后我们使用此风格化的帧转换整个视频，从而在整个过程中保留运动和表情。",
+      "q2": "可以使用视频转草图的哪些视频格式？",
+      "a2": "视频转草图工具支持 MP4、MOV 和 AVI 格式。您的视频不得超过 15 秒或 50MB；较长的视频会自动裁剪以优化草图转换。",
+      "q3": "草图转换需要多长时间？",
+      "a3": "视频转草图的处理时间通常在 5-10 分钟之间，包括初始风格迁移（1-3 分钟）和完整视频生成（3-7 分钟）。您可以实时监控进度。",
+      "q4": "使用视频转草图的费用是多少？",
+      "a4": "视频转草图工具的收费选项分为风格迁移和视频生成成本，根据持续时间计算。您将在处理前收到费用估算，以确保透明度。",
+      "q5": "可以使用视频转草图创建自定义草图风格吗？",
+      "a5": "当然！您可以使用铅笔草图风格，编写独特的文本 prompt，或上传参考图像，以使用我们的工具设计您独特的草图转换。",
+      "q6": "哪些类型的视频最适合视频转草图？",
+      "a6": "为了在使用视频转草图时获得最佳效果，请使用具有清晰主题、良好光照、稳定运动和明确特征的视频。显示清晰物体的短视频（小于 5 秒）将产生最佳的草图转换。"
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-dj.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "草图风格",
+      "description": "风格迁移 | 将原始视频转换为草图风格"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-girl.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "草图风格",
+      "description": "风格迁移 | 将原始视频转换为草图风格"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-man.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "草图风格",
+      "description": "风格迁移 | 将原始视频转换为草图风格"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/sketch-skiing.webm",
+      "inputLabel": "原始视频",
+      "outputLabel": "草图风格",
+      "description": "风格迁移 | 将原始视频转换为草图风格"
+    }
+  ],
+  "originalKeyword": "Convert Video to Sketch",
+  "config": {
+    "defaultStyle": "pencil-sketch"
+  },
+  "pageStructure": [
+    "示例",
+    "优势",
+    "是什么",
+    "如何使用",
+    "更多AITools",
+    "常见问题",
+    "行动号召"
+  ]
+}

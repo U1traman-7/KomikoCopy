@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "meta": {
+      "title": "Wan Video2Video",
+      "description": "Chuyển đổi video với Wan Video2Video, được hỗ trợ bởi mô hình Wan 2.1. Nâng cao phong cách video theo các phong cách anime, hoạt hình, manga và manhwa với khả năng bảo toàn chuyển động hoàn hảo.",
+      "fullDescription": "Công nghệ Wan Video2Video mang tính đột phá, dựa trên mô hình Wan 2.1 Diffusion Transformer mã nguồn mở. Biến những video thông thường thành các tác phẩm nghệ thuật theo phong cách anime, hoạt hình, manga và manhwa, đồng thời bảo toàn tính nhất quán của chuyển động. Hỗ trợ tạo văn bản song ngữ, chất lượng đầu ra chuẩn điện ảnh và khả năng hoạt động hiệu quả trên các GPU phổ thông với VRAM từ 8GB trở lên.",
+      "keywords": "Wan Video2Video, Video to Video AI, Chuyển đổi phong cách video, trình tạo video anime, bộ lọc video hoạt hình, chuyển đổi phong cách manga, hoạt hình manhwa, trình chuyển đổi video sang anime, công cụ hoạt hình, trình tạo video hoạt hình, video phong cách anime, trình tạo video manga, tạo kiểu video, trình tạo video hoạt hình, bộ lọc video truyện tranh, chuyển đổi anime, chuyển đổi phong cách hoạt hình, Wan 2.1"
+    },
+    "hero": {
+      "title": "Wan Video2Video"
+    },
+    "whatIs": {
+      "title": "Wan Video2Video là gì?",
+      "description": "Wan Video2Video là một công nghệ biến đổi video tiên tiến, được hỗ trợ bởi mô hình Wan 2.1 mã nguồn mở, với kiến trúc Diffusion Transformer và Wan-VAE cải tiến. Wan Video2Video vượt trội trong việc chuyển đổi các video thông thường thành các hoạt hình theo phong cách anime, hoạt hình, manga và manhwa, đồng thời duy trì tính nhất quán và thời gian chuyển động một cách hoàn hảo. Với hiệu suất hàng đầu trong ngành (điểm VBench 84,7% +), Wan Video2Video hỗ trợ nhiều quy trình làm việc khác nhau, bao gồm tạo video tham chiếu, chỉnh sửa video-to-video tiêu chuẩn và chỉnh sửa video được che. Công nghệ này cũng có các khả năng tạo văn bản song ngữ độc đáo và hoạt động hiệu quả trên các GPU phổ thông với VRAM từ 8GB trở lên."
+    },
+    "examples": {
+      "title": "Ví dụ Video sang Video",
+      "description": "Xem cách Video sang Video của chúng tôi biến đổi video thành các phong cách anime, hoạt hình, manga và manhwa tuyệt đẹp, đồng thời duy trì tính nhất quán chuyển động hoàn hảo nhờ công nghệ chuyển đổi phong cách tiên tiến, tương tự Wan Video2Video nhưng với các tính năng nâng cao."
+    },
+    "howToUse": {
+      "title": "Cách sử dụng Wan Video2Video",
+      "steps": [
+        {
+          "title": "Tải video của bạn lên",
+          "content": "Tải lên bất kỳ tệp video nào (MP4, MOV, AVI) với dung lượng tối đa 15 giây và 50MB để xử lý bằng Wan Video2Video. Các video dài hơn 15 giây sẽ tự động được cắt ngắn để đạt hiệu suất tối ưu."
+        },
+        {
+          "title": "Chọn loại quy trình làm việc",
+          "content": "Chọn giữa tạo video tham chiếu, chỉnh sửa video-to-video tiêu chuẩn hoặc chỉnh sửa video được che để kiểm soát chính xác quá trình chuyển đổi của Wan Video2Video."
+        },
+        {
+          "title": "Chọn phong cách nghệ thuật",
+          "content": "Chọn từ các cài đặt sẵn như anime, manga, hoạt hình và manhwa hoặc tạo các phong cách tùy chỉnh với lời nhắc văn bản và hình ảnh tham khảo để có các chuyển đổi Wan Video2Video được cá nhân hóa."
+        },
+        {
+          "title": "Tạo với Wan Video2Video",
+          "content": "Công nghệ Wan Video2Video của chúng tôi biến đổi hoàn toàn video của bạn trong khi vẫn giữ nguyên mọi chuyển động, biểu cảm và thời gian ban đầu thông qua xử lý Diffusion Transformer tiên tiến."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Tại sao nên sử dụng Wan Video2Video",
+      "description": "Wan Video2Video cung cấp khả năng chuyển đổi phong cách video hàng đầu trong ngành với khả năng bảo toàn chuyển động, chất lượng đầu ra chuẩn điện ảnh và xử lý hiệu quả trên phần cứng phổ thông.",
+      "features": [
+        {
+          "title": "Bảo toàn chuyển động hoàn hảo",
+          "content": "Wan Video2Video duy trì mọi chi tiết về chuyển động, biểu cảm khuôn mặt và thời gian ban đầu, đồng thời áp dụng các phong cách anime, hoạt hình hoặc manga với tính nhất quán hoàn hảo trên từng khung hình bằng công nghệ Diffusion Transformer.",
+          "icon": "🎬"
+        },
+        {
+          "title": "Đầu ra chất lượng điện ảnh",
+          "content": "Tạo video độ nét cao với kết cấu phong phú, ánh sáng chân thực và chuyển tiếp mượt mà. Wan Video2Video mang lại kết quả chất lượng như phim mà không bị nhấp nháy hoặc tạo tác.",
+          "icon": "✨"
+        },
+        {
+          "title": "Tùy chọn phong cách linh hoạt",
+          "content": "Chọn từ các phong cách anime, manga, hoạt hình và manhwa hoặc tạo các chuyển đổi tùy chỉnh với lời nhắc văn bản và hình ảnh tham khảo bằng hệ thống quy trình làm việc linh hoạt của Wan Video2Video.",
+          "icon": "🎨"
+        },
+        {
+          "title": "Xử lý hiệu quả",
+          "content": "Được hỗ trợ bởi kiến trúc Wan-VAE cải tiến, Wan Video2Video hoạt động hiệu quả trên các GPU phổ thông với VRAM từ 8GB trở lên, giúp mọi người có thể tiếp cận quá trình tạo video nâng cao.",
+          "icon": "⚡"
+        },
+        {
+          "title": "Quy trình làm việc chỉnh sửa nâng cao",
+          "content": "Các tùy chọn chỉnh sửa video tham chiếu, video-to-video và video được che cho phép bạn kiểm soát chính xác các chuyển đổi và thay thế các đối tượng cụ thể bằng công nghệ Wan Video2Video.",
+          "icon": "✂️"
+        },
+        {
+          "title": "Tạo văn bản song ngữ",
+          "content": "Khả năng độc đáo để tạo văn bản song ngữ (tiếng Trung/tiếng Anh) rõ ràng, sống động trong khung hình video, hỗ trợ nhiều phông chữ và hiệu ứng khác nhau với quá trình xử lý của Wan Video2Video.",
+          "icon": "📝"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp về Wan Video2Video",
+      "description": "Các câu hỏi thường gặp về công nghệ Wan Video2Video, khả năng xử lý, yêu cầu phần cứng và quy trình làm việc.",
+      "q1": "Wan Video2Video là gì?",
+      "a1": "Wan Video2Video là một công nghệ biến đổi video được hỗ trợ bởi mô hình Wan 2.1 mã nguồn mở, với kiến trúc Diffusion Transformer và Wan-VAE để chuyển đổi phong cách video hiệu quả với khả năng bảo toàn chuyển động hoàn hảo.",
+      "q2": "Wan Video2Video hỗ trợ những định dạng video nào?",
+      "a2": "Wan Video2Video chấp nhận các định dạng MP4, MOV và AVI với kích thước tệp tối đa 50MB. Video được giới hạn ở 15 giây và tự động cắt ngắn nếu dài hơn để có hiệu quả xử lý tối ưu.",
+      "q3": "Quá trình xử lý của Wan Video2Video mất bao lâu?",
+      "a3": "Quá trình xử lý của Wan Video2Video thường mất 5-10 phút, tùy thuộc vào độ dài video và quy trình làm việc đã chọn. Kiến trúc Diffusion Transformer đảm bảo tạo hiệu quả đồng thời duy trì chất lượng.",
+      "q4": "Cần phần cứng nào cho Wan Video2Video?",
+      "a4": "Wan Video2Video hoạt động trên các GPU phổ thông với VRAM tối thiểu 8GB. Mô hình 1.3B nhẹ được tối ưu hóa cho phần cứng phổ thông, trong khi các mô hình 14B yêu cầu GPU chuyên dụng để có hiệu suất tối ưu.",
+      "q5": "Tôi có thể tùy chỉnh các kiểu của Wan Video2Video không?",
+      "a5": "Có! Wan Video2Video hỗ trợ tạo kiểu tùy chỉnh thông qua lời nhắc văn bản, hình ảnh tham khảo và các tùy chọn cài đặt sẵn khác nhau bao gồm phong cách anime, manga, hoạt hình và manhwa.",
+      "q6": "Điều gì làm cho Wan Video2Video trở nên độc đáo?",
+      "a6": "Wan Video2Video có khả năng tạo văn bản song ngữ độc đáo, bảo toàn chuyển động hoàn hảo, chất lượng đầu ra chuẩn điện ảnh và xử lý hiệu quả trên phần cứng phổ thông - tất cả đều được hỗ trợ bởi mô hình Wan 2.1 mã nguồn mở."
+    }
+  },
+  "examples": [
+    {
+      "id": 1,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/trump-input.webm",
+      "output": "/images/examples/video-to-video/outputs/style/claymation-girl.webm",
+      "inputLabel": "Video gốc",
+      "outputLabel": "Phong cách Claymation",
+      "description": "Thay đổi chất liệu | Chuyển đổi video gốc thành phong cách đất sét"
+    },
+    {
+      "id": 2,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/dj-input.webm",
+      "output": "/images/examples/video-to-video/dj-output.webm",
+      "inputLabel": "Video gốc",
+      "outputLabel": "Phong cách truyện tranh",
+      "description": "Chuyển đổi phong cách | Chuyển đổi video gốc sang phong cách truyện tranh"
+    },
+    {
+      "id": 3,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/skiing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/cartoon-skiing2.webm",
+      "inputLabel": "Video gốc",
+      "outputLabel": "Phong cách hoạt hình",
+      "description": "Chuyển đổi phong cách | Chuyển đổi video gốc sang phong cách hoạt hình"
+    },
+    {
+      "id": 4,
+      "layout": "comparison",
+      "type": "video",
+      "input": "/images/examples/video-to-video/inputs/dancing.webm",
+      "output": "/images/examples/video-to-video/outputs/style/anime-man.webm",
+      "inputLabel": "Video gốc",
+      "outputLabel": "Phong cách Anime",
+      "description": "Chuyển đổi phong cách | Chuyển đổi video gốc sang phong cách anime"
+    }
+  ],
+  "originalKeyword": "Wan Video2Video Alternative"
+}

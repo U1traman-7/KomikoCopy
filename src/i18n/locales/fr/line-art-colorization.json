@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "title": "Colorisation IA de Line Art - KomikoAI",
+    "description": "Colorez vos dessins au trait en noir et blanc grâce à l'IA. Importez votre croquis et laissez l'IA lui donner vie en couleurs."
+  },
+  "common": {
+    "new": "Nouveau",
+    "cancel": "Annuler",
+    "delete": "Supprimer"
+  },
+  "hero": {
+    "title": "Colorisation IA de Line Art",
+    "description": "Colorisez automatiquement vos croquis, dessins au trait ou pages de manga grâce à l'IA. Découvrez une colorisation instantanée qui insuffle de la couleur à votre travail en un seul clic ! Transformez vos illustrations en noir et blanc grâce aux outils de colorisation IA avancés d'Anitoon, avec des images de référence optionnelles pour orienter le style de couleur. Idéal pour les artistes, les designers et les passionnés de manga qui cherchent à donner vie à leurs créations sans effort."
+  },
+  "input": {
+    "title": "Entrée",
+    "tooltip": "Importez un dessin au trait à coloriser",
+    "lineArt": {
+      "label": "Image du dessin au trait"
+    },
+    "referenceImage": {
+      "label": "Image de référence (facultative)",
+      "description": "Téléchargez une version intégralement colorée du même objet pour guider l'IA dans la colorisation de votre dessin au trait."
+    },
+    "transparentBackground": "Arrière-plan transparent",
+    "prompt": {
+      "label": "Prompt (facultatif)",
+      "placeholder": "Saisissez votre prompt, par exemple, 1 garçon, cheveux rouges, yeux bleus, fond blanc, etc."
+    },
+    "model": {
+      "label": "Modèle d'IA",
+      "description": "La génération avec des modèles avancés peut parfois échouer en raison des politiques de modération de contenu de notre fournisseur de services. Veuillez revenir au modèle de base si vous rencontrez des problèmes.",
+      "placeholder": "Sélectionnez un modèle",
+      "ariaLabel": "Sélectionnez un modèle de colorisation",
+      "options": {
+        "basic": "Basique",
+        "advanced": "Avancé"
+      }
+    }
+  },
+  "output": {
+    "title": "Résultats de la colorisation",
+    "empty": {
+      "message": "Vos résultats de colorisation apparaîtront ici",
+      "instruction": "Importez une image pour commencer"
+    }
+  },
+  "seo": {
+    "whatIs": {
+      "title": "Qu'est-ce que la colorisation de Line Art",
+      "description": "La colorisation de dessins au trait est un processus qui consiste à ajouter des couleurs à vos croquis ou dessins au trait. C'est une technique populaire dans la création de mangas et de bandes dessinées, car elle permet aux artistes d'ajouter de la couleur à leurs dessins et de les rendre plus vivants et dynamiques. La colorisation IA de Line Art est un outil qui vous permet de coloriser instantanément vos dessins au trait grâce à l'IA."
+    },
+    "howTo": {
+      "title": "Comment colorer votre dessin au trait avec l'IA",
+      "description": "Colorez automatiquement vos croquis, dessins au trait en noir et blanc ou pages de manga avec le coloriseur de line art IA de KomikoAI en quelques étapes."
+    },
+    "steps": {
+      "step1": {
+        "title": "Étape 1 : Importer l'image du dessin au trait",
+        "content": "Importez votre image de dessin au trait ou de croquis en noir et blanc sur le coloriseur IA. Les formats JPG et PNG sont pris en charge."
+      },
+      "step2": {
+        "title": "Étape 2 : Ajouter une image de référence (facultative)",
+        "content": "Importez une image de référence pour orienter les choix de couleurs et le style de l'IA. Cela permet d'obtenir des résultats de colorisation plus précis."
+      },
+      "step3": {
+        "title": "Étape 3 : Saisir un prompt (facultatif)",
+        "content": "Saisissez un prompt pour décrire la colorisation souhaitée. Par exemple, 'cheveux rouges, yeux bleus'."
+      },
+      "step4": {
+        "title": "Étape 4 : Coloriser et partager",
+        "content": "Cliquez sur 'Coloriser l'image' et attendez que l'IA opère sa magie. Téléchargez et partagez votre création colorée !"
+      }
+    }
+  },
+  "examples": {
+    "title": "Exemples de colorisation IA de Line Art",
+    "description": "Découvrez les résultats de colorisation IA générés par les utilisateurs d'Anitoon",
+    "inputLabel": "Dessin au trait d'entrée",
+    "outputLabel": "Résultat colorisé",
+    "referenceLabel": "Image de référence",
+    "example1": {
+      "inputAlt": "Image de dessin au trait d'entrée",
+      "outputAlt": "Image colorisée de sortie",
+      "prompt": "Prompt : « mignonne fille d'anime vêtue d'une robe de chambre noire et blanche, fond blanc »"
+    },
+    "example2": {
+      "inputAlt": "Image de dessin au trait d'entrée",
+      "outputAlt": "Image colorisée de sortie",
+      "prompt": "Prompt : « 1 fille, cheveux blonds, chemise blanche, case de manga »"
+    },
+    "example3": {
+      "inputAlt": "Image de dessin au trait d'entrée",
+      "referenceAlt": "Image de référence d'entrée",
+      "outputAlt": "Image colorisée de sortie",
+      "prompt": "Prompt : « Klee (Genshin Impact) »"
+    }
+  },
+  "whyUse": {
+    "title": "Pourquoi ajouter de la couleur à votre dessin au trait avec l'IA",
+    "description": "Le coloriseur IA de Line Art d'Anitoon simplifie la colorisation des dessins au trait pour tous, des débutants aux illustrateurs professionnels, afin de colorer leurs illustrations.",
+    "features": {
+      "referenceGuided": {
+        "title": "Coloration guidée par une référence",
+        "content": "Importez des images de référence pour orienter les choix de couleurs et le style de l'IA, en veillant à ce que votre œuvre colorisée corresponde parfaitement à votre vision."
+      },
+      "specifyColors": {
+        "title": "Spécifiez vos couleurs",
+        "content": "Spécifiez les couleurs que vous souhaitez dans votre colorisation de dessin au trait avec des prompts comme 'cheveux rouges, yeux bleus' ou utilisez des images de référence pour un contrôle plus précis."
+      },
+      "customArtStyles": {
+        "title": "Styles artistiques personnalisés",
+        "content": "Spécifiez le style artistique que vous souhaitez dans votre colorisation de dessin au trait avec des prompts comme 'comic', 'anime', 'manga', 'manhwa', ou même le nom de l'artiste."
+      },
+      "effortlessFilling": {
+        "title": "Remplissage sans effort",
+        "content": "Gagnez du temps et de l'énergie en laissant l'IA gérer le processus de coloration des croquis. L'IA remplira et colorera automatiquement vos dessins au trait. Pas besoin de remplir et de colorier manuellement chaque détail de vos dessins."
+      },
+      "smartColorization": {
+        "title": "Colorisation intelligente",
+        "content": "En comprenant les nuances de votre style artistique, l'IA d'Anitoon analyse la composition, la structure et l'esthétique générale de votre dessin. L'IA d'Anitoon applique des couleurs non seulement adaptées, mais qui améliorent votre illustration."
+      },
+      "highQualityOutputs": {
+        "title": "Sorties de haute qualité",
+        "content": "Téléchargez des bandes dessinées d'une qualité professionnelle, parfaites pour le partage ou l'impression."
+      },
+      "streamlinedWorkflow": {
+        "title": "Flux de travail rationalisé",
+        "content": "La colorisation IA des dessins au trait s'intègre de manière transparente à votre flux de travail d'illustration, de bande dessinée, de manhwa ou de manga. Anitoon vous libère du remplissage et de la colorisation, afin que vous puissiez vous concentrer sur le cœur créatif de votre œuvre."
+      },
+      "mangaPanelConsistency": {
+        "title": "Cohérence des cases de manga",
+        "content": "Maintenez une coloration cohérente sur plusieurs cases et pages de manga. Parfait pour les artistes de manga et les créateurs de bandes dessinées qui ont besoin d'assurer la continuité des couleurs tout au long de leurs histoires et conceptions de personnages."
+      },
+      "instantEnhancement": {
+        "title": "Amélioration instantanée du dessin au trait",
+        "content": "Transformez instantanément des croquis en noir et blanc en illustrations vibrantes. Que vous travailliez sur des mangas, des bandes dessinées ou des dessins au trait, notre coloriseur IA donne vie à votre œuvre tout en préservant la qualité du dessin au trait d'origine."
+      }
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes sur la colorisation IA de Line Art",
+    "description": "Trouvez des réponses aux questions fréquemment posées sur la colorisation de dessins au trait et de croquis avec l'IA.",
+    "what_is": {
+      "question": "Qu'est-ce que la colorisation IA de line art ?",
+      "answer": "La colorisation IA de dessins au trait est un processus qui utilise l'intelligence artificielle pour coloriser automatiquement les dessins au trait en noir et blanc. L'outil de colorisation IA de dessins au trait de KomikoAI transforme des croquis, des mangas ou tout autre dessin au trait en images vibrantes et entièrement colorées, ce qui permet aux artistes et aux passionnés de gagner du temps."
+    },
+    "how_to_color": {
+      "question": "Comment colorer un dessin au trait en noir et blanc avec l'IA ?",
+      "answer": {
+        "intro": "Vous pouvez colorer votre image de dessin au trait avec KomikoAI AI en quatre étapes faciles :",
+        "step1": "Importez votre image de dessin au trait dans le coloriseur IA",
+        "step2": "Saisissez un prompt pour décrire la colorisation souhaitée",
+        "step3": "Cliquez sur le bouton « Coloriser l'image » pour démarrer le processus de colorisation",
+        "step4": "Téléchargez l'image colorisée et partagez-la avec vos amis !"
+      }
+    },
+    "can_i_use_ai": {
+      "question": "Puis-je utiliser l'IA pour colorer et ombrager mon dessin au trait ?",
+      "answer": "Oui, vous pouvez utiliser l'IA pour colorer et ombrager votre dessin au trait. L'outil de colorisation IA de dessins au trait de KomikoAI peut coloriser votre dessin au trait en noir et blanc avec des couleurs et des nuances éclatantes. Vous pouvez importer votre image de dessin au trait et saisir un prompt pour décrire la colorisation souhaitée. L'IA interprétera votre intention artistique et générera une image colorisée."
+    },
+    "how_does_it_work": {
+      "question": "Comment fonctionne la colorisation IA de line art ?",
+      "answer": "La colorisation IA de dessins au trait utilise des modèles d'IA avancés entraînés sur des millions d'images pour reconnaître les motifs dans les dessins au trait et appliquer des couleurs artistiques. Vous importez votre croquis, ajoutez un prompt de couleur et l'IA interprétera votre intention artistique et générera une image colorisée."
+    },
+    "benefits": {
+      "question": "Quels sont les avantages de la colorisation IA de line art ?",
+      "answer": {
+        "intro": "Il existe différents avantages à colorer les dessins au trait avec l'IA :",
+        "benefit1": "Gain de temps par rapport à la coloration manuelle.",
+        "benefit2": "Produit des résultats de qualité professionnelle.",
+        "benefit3": "Accessible aux non-artistes et aux débutants.",
+        "benefit4": "Personnalisable avec des prompts pour correspondre à votre vision créative."
+      }
+    },
+    "commercial_use": {
+      "question": "Puis-je utiliser des images colorisées par l'IA à des fins commerciales ?",
+      "answer": "Oui, vous pouvez utiliser les images colorisées générées par l'IA à des fins personnelles et commerciales. Cependant, assurez-vous de respecter les conditions d'utilisation de KomikoAI."
+    },
+    "formats": {
+      "question": "Quels formats et tailles sont pris en charge ?",
+      "answer": "L'IA prend en charge les dessins au trait aux formats JPG et PNG. Les images de sortie seront à leur taille d'origine."
+    },
+    "is_free": {
+      "question": "Le coloriseur IA de line art est-il gratuit ?",
+      "answer": "KomikoAI offre des zaps (crédits) gratuits pour que vous puissiez essayer l'outil. Vous pouvez également acheter des plans payants pour plus de zaps si vous avez besoin de plus d'utilisation, ainsi que des fonctionnalités avancées comme un traitement plus rapide et des résolutions plus élevées."
+    },
+    "prompts": {
+      "question": "Quels prompts dois-je utiliser pour obtenir les meilleurs résultats de colorisation IA ?",
+      "answer": "Utilisez des prompts clairs et descriptifs tels que « cheveux rouges, yeux bleus, tenue moderne ». Évitez les termes ambigus."
+    },
+    "limitations": {
+      "question": "Quelles sont les limitations de la colorisation IA de line art ?",
+      "answer": {
+        "intro": "Bien que la colorisation IA de dessins au trait soit un outil puissant, elle présente certaines limitations :",
+        "limitation1": "Style artistique : l'IA peut ne pas toujours correspondre parfaitement au style artistique souhaité.",
+        "limitation2": "Détails complexes : les dessins au trait complexes ou très détaillés peuvent produire des résultats inattendus.",
+        "limitation3": "Personnalisation : la colorisation est basée sur des prompts, et des prompts trop vagues ou imprécis peuvent donner des résultats insatisfaisants.",
+        "conclusion": "Malgré ces limitations, la colorisation IA peut accélérer considérablement les flux de travail et améliorer la créativité."
+      }
+    },
+    "need_to_draw": {
+      "question": "Dois-je savoir dessiner pour utiliser la colorisation IA de line art ?",
+      "answer": {
+        "intro": "Non, vous n'avez pas besoin de savoir dessiner pour utiliser la colorisation IA de line art.",
+        "for_artists": "Pour les artistes : si vous créez vos propres croquis, cet outil peut leur donner vie avec des couleurs vives.",
+        "for_non_artists": "Pour les non-artistes : vous pouvez commencer avec un dessin au trait ou des modèles existants, les importer et laisser l'IA s'occuper de la colorisation.",
+        "conclusion": "Cet outil est conçu pour être convivial pour tout le monde, que vous soyez un artiste expérimenté ou un débutant explorant la créativité."
+      }
+    },
+    "types_of_line_art": {
+      "question": "Quels types de dessins au trait puis-je coloriser avec l'IA ?",
+      "answer": {
+        "intro": "Le coloriseur IA fonctionne avec différents types de dessins au trait :",
+        "type1": "Croquis et dessins",
+        "type2": "Pages de mangas et de bandes dessinées",
+        "type3": "Conceptions de personnages",
+        "type4": "Illustrations",
+        "type5": "Conceptions de produits",
+        "type6": "Dessins architecturaux",
+        "conclusion": "Pour de meilleurs résultats, assurez-vous que votre dessin au trait présente des lignes claires et bien définies et un bon contraste."
+      }
+    },
+    "best_results": {
+      "question": "Comment puis-je obtenir les meilleurs résultats de la colorisation IA ?",
+      "answer": {
+        "intro": "Suivez ces conseils pour une colorisation optimale :",
+        "tip1": "Utilisez un dessin au trait propre à contraste élevé",
+        "tip2": "Rédigez des prompts clairs et spécifiques décrivant les couleurs et le style",
+        "tip3": "Expérimentez avec différentes variations de prompts",
+        "tip4": "Tenez compte de la composition générale lors de la description des couleurs",
+        "tip5": "Utilisez des images de référence pour orienter vos choix de couleurs"
+      }
+    },
+    "comparison": {
+      "question": "Comment la colorisation IA se compare-t-elle à la coloration manuelle ?",
+      "answer": "La colorisation IA offre un gain de temps considérable par rapport à la coloration manuelle, réduisant des heures de travail à quelques minutes. Bien qu'elle ne puisse pas remplacer entièrement la coloration traditionnelle pour des projets artistiques complexes, c'est un excellent outil pour le prototypage rapide, la visualisation de concepts et la création rapide de plusieurs variations de couleurs. L'IA comprend la théorie des couleurs et peut suggérer des combinaisons de couleurs harmonieuses que vous n'auriez peut-être pas envisagées."
+    },
+    "edit_results": {
+      "question": "Puis-je modifier les résultats colorisés par l'IA ?",
+      "answer": "Oui, vous pouvez affiner davantage les images colorisées par l'IA à l'aide de votre logiciel d'art numérique préféré. Le résultat généré par l'IA sert d'excellente base que vous pouvez améliorer avec votre touche artistique personnelle."
+    },
+    "creative_uses": {
+      "question": "Quelles sont les utilisations créatives de la colorisation IA de line art ?",
+      "answer": {
+        "intro": "La colorisation IA de line art peut être utilisée pour :",
+        "use1": "Prototypage rapide de conceptions de personnages",
+        "use2": "Création de plusieurs variations de couleurs pour les clients",
+        "use3": "Colorisation de pages de mangas",
+        "use4": "Développement de concept art",
+        "use5": "Fins éducatives dans les cours d'art",
+        "use6": "Revitalisation d'anciennes illustrations en noir et blanc"
+      }
+    },
+    "reference_feature": {
+      "question": "Comment fonctionne la fonction d'image de référence dans le coloriseur de line art de KomikoAI AI ?",
+      "answer": "Le coloriseur de line art de KomikoAI AI comprend une puissante fonction d'image de référence qui vous permet de guider les choix de couleurs de l'IA pour vos mangas, bandes dessinées ou illustrations. En important une image de référence avec votre dessin au trait, l'IA analyse la palette de couleurs et le style artistique pour créer des résultats de colorisation plus ciblés. Cette fonctionnalité est particulièrement intéressante pour les artistes de manga et les créateurs de bandes dessinées qui souhaitent maintenir une coloration cohérente dans leur œuvre. Le coloriseur IA utilise un apprentissage automatique avancé pour extraire les schémas de couleurs de votre image de référence et les applique intelligemment à votre dessin au trait tout en préservant l'intention artistique d'origine."
+    },
+    "good_reference": {
+      "question": "Qu'est-ce qui fait une bonne image de référence pour la colorisation IA de line art ?",
+      "answer": {
+        "intro": "Pour des résultats optimaux avec le coloriseur de line art de KomikoAI AI, choisissez des images de référence qui correspondent à votre vision artistique pour les mangas, les bandes dessinées ou les illustrations. Les meilleures images de référence doivent :",
+        "quality1": "Avoir des couleurs et un éclairage clairs et bien définis qui correspondent au style de manga ou de bande dessinée souhaité",
+        "quality2": "Partager un contenu ou une direction artistique similaire avec votre dessin au trait (par exemple, style anime, style bande dessinée)",
+        "quality3": "Présenter la palette de couleurs spécifique que vous souhaitez obtenir dans votre œuvre",
+        "quality4": "Être bien éclairées et de haute qualité pour aider l'IA à analyser avec précision les couleurs",
+        "conclusion": "Vous pouvez utiliser différents types de références, notamment des personnages d'anime existants, des captures d'écran d'anime, des cases de manga ou des illustrations numériques. Cette flexibilité permet aux artistes d'obtenir une correspondance précise des couleurs et de maintenir une cohérence dans leurs pages de manga ou leurs cases de bande dessinée."
+      }
+    },
+    "items": [
+      {
+        "id": 1,
+        "question": "Qu’est-ce que la colorisation de dessins en ligne avec l’IA ?",
+        "answer": "La colorisation de dessins en ligne avec l’IA est un processus qui utilise l'intelligence artificielle pour colorier automatiquement des dessins en ligne en noir et blanc. L'outil de Komiko transforme les croquis, mangas ou tout dessin en ligne en images vibrantes et riches en couleurs, permettant aux artistes et passionnés de gagner du temps."
+      },
+      {
+        "id": 2,
+        "question": "Comment colorier des dessins en ligne en noir et blanc avec l’IA ?",
+        "answer": "Vous pouvez colorier votre dessin en ligne avec Komiko AI en quatre étapes simples :\n1. Téléchargez votre dessin en ligne sur le coloriseur IA.\n2. Entrez une instruction décrivant la colorisation souhaitée.\n3. Cliquez sur ‘Coloriser l’image’ pour lancer le processus.\n4. Téléchargez l’image colorisée et partagez-la !"
+      },
+      {
+        "id": 0,
+        "question": "Puis-je employer l’IA pour colorier et ombrer mon dessin en ligne ?",
+        "answer": "Oui, vous pouvez utiliser l’IA pour colorier et ombrer votre dessin en ligne. L'outil de Komiko colorise votre dessin en noir et blanc avec des couleurs et nuances vibrantes. Téléchargez votre dessin en ligne, saisissez une instruction de colorisation, et l’IA interprétera votre intention artistique pour produire une image colorisée."
+      },
+      {
+        "id": 3,
+        "question": "Comment fonctionne la colorisation de dessins en ligne avec l’IA ?",
+        "answer": "La colorisation de dessins en ligne avec l’IA utilise des modèles avancés entraînés sur des millions d’images pour reconnaître les motifs des dessins et appliquer des couleurs de manière artistique. Téléchargez votre croquis, ajoutez une instruction de couleur, et l’IA interprétera votre intention pour créer une image colorisée."
+      },
+      {
+        "id": 4,
+        "question": "Quels sont les avantages de la colorisation de dessins en ligne avec l’IA ?",
+        "answer": "La colorisation avec l’IA offre plusieurs avantages :\nGain de temps par rapport à la coloration manuelle.\nRésultats de haute qualité et professionnels.\nAccessibilité pour les non-artistes et débutants.\nPersonnalisation pour correspondre à votre vision créative."
+      },
+      {
+        "id": 5,
+        "question": "Puis-je utiliser des images colorisées par l’IA à des fins commerciales ?",
+        "answer": "Oui, vous pouvez utiliser les images colorisées par l’IA à des fins personnelles et commerciales. Assurez-vous néanmoins de respecter les conditions d’utilisation de Komiko."
+      },
+      {
+        "id": 6,
+        "question": "Quels formats et tailles sont pris en charge ?",
+        "answer": "L’IA prend en charge les dessins en ligne au format JPG et PNG. Les images de sortie conserveront leur taille d’origine."
+      },
+      {
+        "id": 7,
+        "question": "Le coloriseur de dessins en ligne par IA est-il gratuit ?",
+        "answer": "Komiko propose des essais gratuits (crédits) pour tester l’outil. Vous pouvez également souscrire des plans payants pour obtenir plus de crédits si vous avez besoin d’une utilisation étendue, ainsi que d'autres fonctionnalités avancées comme un traitement plus rapide et des résolutions plus élevées."
+      },
+      {
+        "id": 8,
+        "question": "Quelles instructions utiliser pour obtenir les meilleurs résultats de colorisation par IA ?",
+        "answer": "Utilisez des instructions claires et descriptives, par exemple ‘cheveux rouges, yeux bleus, tenue moderne’. Évitez les termes ambigus."
+      },
+      {
+        "id": 9,
+        "question": "Quelles sont les limitations de la colorisation de dessins en ligne avec l’IA ?",
+        "answer": "Bien que l’IA soit un outil puissant, elle a certaines limitations :\nStyle artistique : L’IA peut ne pas toujours recréer le style artistique souhaité.\nDétails complexes : Les dessins en ligne très détaillés peuvent donner des résultats inattendus.\nPersonnalisation : Les résultats dépendent des instructions, et des instructions vagues peuvent être insatisfaisantes. Malgré ces limitations, l’IA accélère grandement les flux de travail et stimule la créativité."
+      },
+      {
+        "id": 10,
+        "question": "Ai-je besoin de savoir dessiner pour utiliser la colorisation de dessins en ligne avec l’IA ?",
+        "answer": "Non, il n’est pas nécessaire de savoir dessiner pour utiliser l’outil de colorisation avec l’IA.\nPour les artistes : En animant vos croquis avec des couleurs, cet outil est très efficace.\nPour les non-artistes : Vous pouvez utiliser des dessins en ligne ou des modèles existants, les télécharger, et laisser l’IA se charger de la colorisation. L’outil est conçu pour être intuitif, que vous soyez un artiste confirmé ou un novice curieux."
+      },
+      {
+        "id": 11,
+        "question": "Quels types de dessins en ligne puis-je coloriser avec l’IA ?",
+        "answer": "Le coloriseur IA fonctionne avec différents types de dessins : Croquis, Pages de mangas et bandes dessinées, Conceptions de personnages, Illustrations, Conceptions de produits, Plans architecturaux. Pour de meilleurs résultats, assurez-vous d’avoir des lignes claires et un bon contraste dans vos dessins."
+      },
+      {
+        "id": 12,
+        "question": "Comment obtenir les meilleurs résultats de colorisation IA ?",
+        "answer": "Pour une colorisation optimale : Utilisez un dessin en ligne propre et contrasté, rédigez des instructions claires décrivant les couleurs et le style, expérimentez différentes variations d’instructions, tenez compte de la composition globale, et utilisez des images de référence pour guider vos choix de couleurs."
+      },
+      {
+        "id": 13,
+        "question": "Comment la colorisation par IA se compare-t-elle à la coloration manuelle ?",
+        "answer": "La colorisation par IA réduit considérablement le temps par rapport à la coloration manuelle, passant d’heures à quelques minutes. Bien qu’elle ne remplace pas entièrement la coloration traditionnelle pour des projets artistiques complexes, c’est un excellent outil pour le prototypage rapide, la visualisation de concepts et la création de plusieurs variations de couleurs. L’IA comprend la théorie des couleurs et peut proposer des combinaisons harmonieuses que vous n’auriez pas envisagées."
+      },
+      {
+        "id": 14,
+        "question": "Puis-je modifier les résultats colorisés par l’IA ?",
+        "answer": "Oui, vous pouvez éditer et affiner les images colorisées par l’IA avec votre logiciel d’art numérique préféré. Le résultat généré par l’IA fournit une excellente base que vous pouvez personnaliser avec votre touche artistique."
+      },
+      {
+        "id": 15,
+        "question": "Quelles sont les manières créatives d’employer la colorisation de dessins en ligne avec l’IA ?",
+        "answer": "La colorisation avec l’IA peut être utilisée pour : Prototyper des conceptions de personnages, Créer plusieurs variations de couleurs pour clients, Coloriser des pages de mangas, Développer des œuvres conceptuelles, Des fins éducatives en art, Faire revivre d’anciennes illustrations en noir et blanc."
+      },
+      {
+        "id": 16,
+        "question": "Comment fonctionne la fonctionnalité d’image de référence dans le coloriseur de dessins en ligne de Komiko AI ?",
+        "answer": "Le coloriseur de Komiko AI possède une fonctionnalité d’image de référence permettant de guider les choix de couleurs de l’IA pour vos mangas, bandes dessinées ou illustrations. En téléchargeant une image de référence, l’IA analyse la palette de couleurs et le style pour créer des résultats plus ciblés. Cette fonctionnalité est particulièrement précieuse pour les artistes de mangas et les créateurs de bandes dessinées souhaitant conserver la cohérence dans la coloration de leurs œuvres. Le coloriseur utilise l’apprentissage automatique pour extraire les schémas de couleurs de votre référence et les appliquer à votre dessin en ligne tout en respectant l’intention artistique initiale."
+      },
+      {
+        "id": 17,
+        "question": "Qu’est-ce qui fait une bonne image de référence pour la colorisation de dessins en ligne par IA ?",
+        "answer": "Pour des résultats optimaux avec le coloriseur de Komiko AI, choisissez des images de référence qui reflètent votre vision artistique pour vos mangas, bandes dessinées ou illustrations. Les meilleures images de référence doivent :\nAvoir des couleurs et un éclairage nets correspondant à votre style voulu, Avoir un contenu ou une direction artistique similaire à votre dessin (ex : style anime), Présenter la palette de couleurs souhaitée, Être bien éclairées et de haute qualité pour une analyse précise des couleurs par l’IA. Vous pouvez utiliser différentes références, y compris des personnages d’anime, des captures d’écran, des planches de mangas ou des illustrations numériques. Cette flexibilité permet une correspondance précise des couleurs et une cohérence dans l’ensemble de vos œuvres."
+      }
+    ]
+  },
+  "deleteModal": {
+    "title": "Confirmation de suppression",
+    "message": "Êtes-vous sûr de vouloir supprimer cette vidéo ? Cette action est irréversible."
+  },
+  "colorize_image": "Coloriser l'image"
+}

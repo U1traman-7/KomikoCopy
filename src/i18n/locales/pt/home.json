@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "KomikoAI - Gerador de Animes por IA & Criador de Personagens Originais",
+    "og_title": "KomikoAI - Gerador de Animes por IA & Criador de Personagens Originais",
+    "twitter_title": "KomikoAI - Gerador de Animes por IA & Criador de Personagens Originais",
+    "description": "Crie personagens originais, animes e quadrinhos com o KomikoAI. Explore mais de 100 ferramentas de IA e modelos criativos feitos para fãs.",
+    "keywords": "Komiko, KomikoAI, Komiko AI, app Komiko, komiko.ai, komiko.app, gerador de animes por IA, criador de personagens originais, gerador de personagens originais, anime por IA, gerador de arte por IA, gerador de quadrinhos por IA, gerador de animação por IA, efeitos de vídeo por IA, criador de personagens de anime"
+  },
+  "hero": {
+    "title": "O que você quer criar hoje?",
+    "community": "Criações da Comunidade"
+  },
+  "tabs": {
+    "for_you": "Para você",
+    "comic": "História em Quadrinhos",
+    "illustration": "Ilustração",
+    "animation": "Animação",
+    "all": "Tudo"
+  },
+  "sections": {
+    "for_you": "Recomendações para você"
+  },
+  "create_section": {
+    "ai_art": "Arte com IA",
+    "storytelling": "Contação de Histórias",
+    "create": "Crie a sua história"
+  },
+  "carousel": {
+    "slide1_title": "Concurso AniGen",
+    "slide1_desc": "Crie uma curta-metragem com IA, ganhe mais de $3.000 e uma assinatura premium!",
+    "check_it_out": "Confira",
+    "slide2_title": "Transformação de Vídeo com IA",
+    "slide2_desc": "Converta qualquer vídeo em estilos como anime, cartoon, mangá e manhwa, mantendo o movimento original intacto.",
+    "check_it_out2": "Experimente agora"
+  },
+  "banner": {
+    "merch_title": "Transforme seus personagens em produtos",
+    "merch_description": "Crie pelúcias, crachás, suportes e muito mais com seus personagens de anime.",
+    "try_now": "Experimente agora"
+  },
+  "activity_posts": {
+    "video_to_video": {
+      "title": "Transformação de Vídeo com IA",
+      "description": "Dê uma nova vida aos seus vídeos com a tecnologia de IA. Converta qualquer vídeo em estilos como anime, cartoon, mangá e manhwa.",
+      "button": "Experimente agora"
+    },
+    "character_merch": {
+      "title": "Transforme Seus Personagens em Produtos",
+      "description": "Crie produtos incríveis dos seus personagens favoritos, como broches, almofadas de corpo, pelúcias e suportes.",
+      "button": "Experimente agora"
+    },
+    "ambassador": {
+      "title": "Torne-se um Embaixador KomikoAI e Lucre💰",
+      "description": "Faça parte do nosso time como Embaixador KomikoAI e ganhe comissões por indicar novos membros. Participe do nosso programa de afiliados hoje mesmo!",
+      "button": "Participe Agora"
+    },
+    "promoted": "Em Destaque",
+    "anishort": {
+      "title": "Explore animes de curta duração ou publique sua própria série!",
+      "button": "Comece a Explorar"
+    },
+    "ad": "Publicidade",
+    "new-playground": {
+      "title": "✨ Explore mais de 100 Modelos Divertidos",
+      "description": "Transforme suas fotos e personagens com modelos virais — desde emotes chibi e folhas de personagens até merchandising realista, efeitos Bankai e muito mais!",
+      "button": "Experimente Agora"
+    },
+    "sora-2": {
+      "title": "Sora 2 agora no KomikoAI! Participe do #SoraAnimeChallenge e ganhe prêmios de um fundo de $1000!",
+      "button": "Participe Agora"
+    }
+  },
+  "ai_apps_banner": {
+    "eyebrow": "Hub de Apps de IA",
+    "title": "Suas ferramentas agora estão na página de Apps de IA",
+    "description": "Favoritar suas ferramentas preferidas e explorar o catálogo completo de aplicativos de IA para ilustração, animação, quadrinhos e mais.",
+    "cta": "Abrir Apps de IA"
+  },
+  "generateArt": "Gerar Arte",
+  "generateTagArt": "Gerar Arte de {{tag}}"
+}
